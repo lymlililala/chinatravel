@@ -1,6 +1,5 @@
 ---
 import { getRelativeLocaleUrl } from "astro:i18n";
-import IconHash from "@/assets/icons/IconHash.svg";
 import config from "@/config";
 
 type Props = {
@@ -19,7 +18,7 @@ const locale = Astro.currentLocale ?? config.site.lang;
     href={getRelativeLocaleUrl(locale, `tags/${tag}/`)}
     transition:name={tag}
     class:list={[
-      "inline-flex items-center gap-1 rounded-full font-medium",
+      "inline-flex items-center rounded-full font-medium",
       "bg-muted text-foreground",
       "border border-border",
       "transition-colors duration-150",
@@ -29,13 +28,6 @@ const locale = Astro.currentLocale ?? config.site.lang;
       { "px-3.5 py-1 text-sm": size === "lg" },
     ]}
   >
-    <IconHash
-      class:list={[
-        "opacity-60 flex-shrink-0",
-        { "size-3.5": size === "lg" },
-        { "size-3": size === "sm" },
-      ]}
-    />
     {tagName}
   </a>
 </li>
