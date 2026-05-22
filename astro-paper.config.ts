@@ -7,7 +7,7 @@ export default defineAstroPaperConfig({
     description:
       "Your ultimate guide to traveling China — visa tips, payment hacks, must-see destinations, and authentic travel stories for international visitors.",
     author: "Roam China Travel Editorial Team",
-    profile: "https://roamchinatravel.com/about",
+    profile: "https://roamchinatravel.com/",
     ogImage: "default-og.jpg",
     lang: "en",
     timezone: "Asia/Shanghai",
