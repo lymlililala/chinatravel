@@ -2,12 +2,12 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://logicbuy.guide/",
+    url: "https://roamchinatravel.com/",
     title: "Discover China",
     description:
       "Your ultimate guide to traveling China — visa tips, payment hacks, must-see destinations, and authentic travel stories for international visitors.",
     author: "Discover China Editorial Team",
-    profile: "https://discover-china.travel/about",
+    profile: "https://roamchinatravel.com/about",
     ogImage: "default-og.jpg",
     lang: "en",
     timezone: "Asia/Shanghai",
@@ -32,7 +32,7 @@ export default defineAstroPaperConfig({
     { name: "x",        url: "https://x.com/discoverchinaguide" },
     { name: "facebook", url: "https://www.facebook.com/discoverchinaguide" },
     { name: "pinterest", url: "https://www.pinterest.com/discoverchinaguide" },
-    { name: "mail",     url: "mailto:hello@discover-china.travel" },
+    { name: "mail",     url: "mailto:hello@roamchinatravel.com" },
   ],
   shareLinks: [
     { name: "whatsapp", url: "https://wa.me/?text=" },
@@ -40,6 +40,6 @@ export default defineAstroPaperConfig({
     { name: "x",        url: "https://x.com/intent/post?url=" },
     { name: "telegram", url: "https://t.me/share/url?url=" },
     { name: "pinterest", url: "https://pinterest.com/pin/create/button/?url=" },
-    { name: "mail",     url: "mailto:?subject=China%20Travel%20Guide&body=" },
+    { name: "mail",     url: "mailto:?subject=Roam%20China%20Travel%20Guide&body=" },
   ],
 });

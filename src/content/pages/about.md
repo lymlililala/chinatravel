@@ -1,5 +1,5 @@
 ---
-title: "About Discover China"
+title: "About Roam China Travel"
 description: "Our mission, our team, and why we built the go-to English guide for independent travellers planning a trip to China."
 ---
 
@@ -7,7 +7,7 @@ description: "Our mission, our team, and why we built the go-to English guide fo
 
 China is one of the most extraordinary places on earth — ancient temples, neon-lit megacities, karst mountains, world-class cuisine, and some of the warmest people you will ever meet. Yet for international travellers, the practical hurdles can feel daunting: complex visa rules, a cashless payment system that wasn't designed with foreigners in mind, the Great Firewall, and a public-transport network mostly described in Mandarin.
 
-**Discover China** exists to remove those hurdles.
+**Roam China Travel** exists to remove those hurdles.
 
 We are a small team of long-term China residents, travel writers, and content editors who have collectively spent decades living in, travelling through, and writing about the country. We believe independent travel in China is not only possible — it is deeply rewarding — and we want more people in the world to experience it.
 
@@ -27,8 +27,8 @@ We are a small team of long-term China residents, travel writers, and content ed
 
 ## Get in touch
 
-Found an error? Have a tip or a story you'd like to share? Reach us at **hello@discover-china.travel**. We read every message.
+Found an error? Have a tip or a story you'd like to share? Reach us at **hello@roamchinatravel.com**. We read every message.
 
 ---
 
-*Discover China is an independent publication. We are not affiliated with any government tourism body or travel agency.*
+*Roam China Travel is an independent publication. We are not affiliated with any government tourism body or travel agency.*
