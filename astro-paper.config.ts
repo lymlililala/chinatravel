@@ -28,12 +28,7 @@ export default defineAstroPaperConfig({
     },
     search: "pagefind",
   },
-  socials: [
-    { name: "x",        url: "https://x.com/roamchinatravel" },
-    { name: "facebook", url: "https://www.facebook.com/roamchinatravel" },
-    { name: "pinterest", url: "https://www.pinterest.com/roamchinatravel" },
-    { name: "mail",     url: "mailto:hello@roamchinatravel.com" },
-  ],
+  socials: [],
   shareLinks: [
     { name: "whatsapp", url: "https://wa.me/?text=" },
     { name: "facebook", url: "https://www.facebook.com/sharer.php?u=" },
