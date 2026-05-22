@@ -60,6 +60,15 @@ export default defineConfig({
       styles: ["normal", "italic"],
       formats: ["woff", "ttf"],
     },
+    {
+      name: "Inter",
+      cssVariable: "--font-inter",
+      provider: fontProviders.google(),
+      fallbacks: ["system-ui", "sans-serif"],
+      weights: [400, 500, 600, 700],
+      styles: ["normal"],
+      formats: ["woff", "ttf"],
+    },
   ],
   env: {
     schema: {

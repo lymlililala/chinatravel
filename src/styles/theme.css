@@ -7,19 +7,25 @@
   --color-muted: var(--muted);
   --color-muted-foreground: var(--muted-foreground);
   --color-border: var(--border);
-  --font-app: var(--font-google-sans-code);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --font-app: var(--font-inter);
+  --font-heading: var(--font-google-sans-code);
 }
 
 /* Light theme — warm ivory & China red */
 :root,
 [data-theme="light"] {
   --background: #fdf8f3;
-  --foreground: #1a1008;
+  --foreground: #1a1a1a;
   --accent: #c0392b;
   --accent-foreground: #ffffff;
   --muted: #ede8e0;
-  --muted-foreground: #7a6a5a;
-  --border: #e8ddd0;
+  --muted-foreground: #5a5a5a;
+  --border: #e0d8cc;
+  --secondary: #1a4b47;
+  --secondary-foreground: #ffffff;
+  --card-bg: #ffffff;
 }
 
 /* Dark theme — ink-black & gold */
@@ -31,4 +37,7 @@
   --muted: #2e2418;
   --muted-foreground: #a89070;
   --border: #4a3820;
+  --secondary: #2a6b65;
+  --secondary-foreground: #f0e8d8;
+  --card-bg: #231d16;
 }

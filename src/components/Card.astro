@@ -9,23 +9,81 @@ type Props = {
 } & CollectionEntry<"posts">;
 
 const { variant: Heading = "h2", id, data, filePath } = Astro.props;
+const { title, description, tags, pubDatetime, modDatetime } = data;
 
-const { title, description, ...props } = data;
+const postUrl = getPostUrl(id, filePath, Astro.currentLocale);
+
+// Pick a representative thumbnail based on the first tag or title keywords
+const thumbnailMap: Record<string, string> = {
+  beijing: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=400&q=75",
+  shanghai: "https://images.unsplash.com/photo-1537944434965-cf4679d1a598?w=400&q=75",
+  xian: "https://images.unsplash.com/photo-1591451427710-ad34d2cfd9d1?w=400&q=75",
+  chengdu: "https://images.unsplash.com/photo-1569880153113-76e33fc52d5f?w=400&q=75",
+  guilin: "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=400&q=75",
+  dali: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&q=75",
+  hangzhou: "https://images.unsplash.com/photo-1567958855890-cff48e46f5b5?w=400&q=75",
+  tibet: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=400&q=75",
+  lijiang: "https://images.unsplash.com/photo-1558618047-3c8c76a8c9e7?w=400&q=75",
+  huangshan: "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&q=75",
+  zhangjiajie: "https://images.unsplash.com/photo-1540541338287-41700207dee6?w=400&q=75",
+  dunhuang: "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=400&q=75",
+  sanya: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=400&q=75",
+  jiuzhaigou: "https://images.unsplash.com/photo-1518021964703-4b2030f03085?w=400&q=75",
+  gulangyu: "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=400&q=75",
+  visa: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=400&q=75",
+  payment: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&q=75",
+  transport: "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=400&q=75",
+  apps: "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?w=400&q=75",
+};
+
+const firstTag = (tags?.[0] ?? "").toLowerCase().replace(/[^a-z]/g, "");
+const thumbnail =
+  thumbnailMap[firstTag] ??
+  thumbnailMap[Object.keys(thumbnailMap).find(k => title.toLowerCase().includes(k)) ?? ""] ??
+  "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=400&q=75";
+
+const category = tags?.[0] ?? "";
 ---
 
-<li class="my-6">
+<li class="group">
   <a
-    href={getPostUrl(id, filePath, Astro.currentLocale)}
-    class:list={[
-      "text-accent inline-block text-lg font-medium",
-      "decoration-dashed underline-offset-4 hover:underline",
-      "focus-visible:no-underline focus-visible:underline-offset-0",
-    ]}
+    href={postUrl}
+    class="flex gap-4 rounded-xl border border-border bg-[var(--card-bg,#fff)] p-4 shadow-sm transition-all duration-300 hover:shadow-md hover:-translate-y-0.5 sm:gap-5"
   >
-    <Heading transition:name={slugifyStr(title.replaceAll(".", "-"))}>
-      {title}
-    </Heading>
+    <!-- Thumbnail -->
+    <div class="h-24 w-32 flex-shrink-0 overflow-hidden rounded-lg bg-muted sm:h-28 sm:w-36">
+      <img
+        src={thumbnail}
+        alt={title}
+        class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-110"
+        loading="lazy"
+      />
+    </div>
+
+    <!-- Text content -->
+    <div class="flex min-w-0 flex-1 flex-col justify-between">
+      <div>
+        <!-- Category tag -->
+        {category && (
+          <span class="mb-1.5 inline-block text-xs font-semibold uppercase tracking-wider text-accent">
+            {category}
+          </span>
+        )}
+        <!-- Title -->
+        <Heading
+          transition:name={slugifyStr(title.replaceAll(".", "-"))}
+          class="line-clamp-2 text-base font-bold leading-snug text-foreground group-hover:text-accent transition-colors sm:text-lg"
+          style="font-family: var(--font-google-sans-code), monospace;"
+        >
+          {title}
+        </Heading>
+        <!-- Description -->
+        <p class="mt-1.5 line-clamp-2 text-sm leading-relaxed text-muted-foreground">
+          {description}
+        </p>
+      </div>
+      <!-- Date -->
+      <Datetime {pubDatetime} {modDatetime} class="mt-2 text-xs" />
+    </div>
   </a>
-  <Datetime {...props} />
-  <p>{description}</p>
 </li>

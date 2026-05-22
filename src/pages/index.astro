@@ -120,7 +120,7 @@ const toolkitGuides = [
     <section
       id="hero"
       class="relative overflow-hidden border-b border-border"
-      style="min-height: 420px;"
+      style="min-height: 480px;"
     >
       <!-- Background image -->
       <div class="absolute inset-0 z-0">
@@ -130,31 +130,34 @@ const toolkitGuides = [
           class="h-full w-full object-cover"
           loading="eager"
         />
-        <div class="absolute inset-0 bg-gradient-to-b from-black/55 via-black/35 to-black/70"></div>
+        <!-- Deeper, more polished gradient overlay -->
+        <div class="absolute inset-0 bg-gradient-to-b from-black/60 via-black/40 to-black/80"></div>
       </div>
 
       <!-- Hero content -->
-      <div class="app-layout relative z-10 flex flex-col items-start justify-end py-16 sm:py-24" style="min-height: 420px;">
-        <p class="mb-2 text-sm font-semibold uppercase tracking-widest text-white/70">
+      <div class="app-layout relative z-10 flex flex-col items-start justify-end py-20 sm:py-28" style="min-height: 480px;">
+        <p class="mb-3 text-xs font-semibold uppercase tracking-[0.2em] text-white/60">
           Your independent guide to
         </p>
-        <h1 class="mb-4 text-4xl font-extrabold leading-tight text-white sm:text-5xl lg:text-6xl">
+        <h1 class="mb-4 text-4xl font-extrabold leading-tight text-white sm:text-5xl lg:text-6xl" style="font-family: var(--font-google-sans-code), monospace;">
           Travelling <span class="text-amber-400">China</span> in 2025
         </h1>
-        <p class="mb-8 max-w-xl text-base text-white/85 sm:text-lg">
+        <p class="mb-8 max-w-lg text-base text-white/80 sm:text-lg" style="font-family: var(--font-inter), system-ui, sans-serif; line-height: 1.7;">
           Honest advice on visas, payments, transport, and hidden gems —
           written for first-timers and seasoned backpackers alike.
         </p>
         <div class="flex flex-wrap gap-3">
+          <!-- Primary CTA: solid accent -->
           <a
             href={getRelativeLocaleUrl(locale, "posts")}
-            class="rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-accent-foreground shadow transition-opacity hover:opacity-90"
+            class="rounded-lg bg-accent px-6 py-3 text-sm font-semibold text-white shadow-lg transition-all duration-200 hover:opacity-90 hover:shadow-xl hover:-translate-y-0.5"
           >
             Explore Guides
           </a>
+          <!-- Secondary CTA: glassmorphism -->
           <a
             href="#toolkit"
-            class="rounded-lg border border-white/60 bg-white/10 px-5 py-2.5 text-sm font-semibold text-white backdrop-blur transition-colors hover:bg-white/20"
+            class="rounded-lg border border-white/50 bg-white/10 px-6 py-3 text-sm font-semibold text-white backdrop-blur-sm transition-all duration-200 hover:bg-white/20 hover:border-white/70"
           >
             Essential Toolkit ↓
           </a>
@@ -163,30 +166,38 @@ const toolkitGuides = [
     </section>
 
     <!-- ═══ ESSENTIAL TOOLKIT ═══ -->
-    <section id="toolkit" class="border-b border-border py-12">
+    <section id="toolkit" class="border-b border-border py-14 observe-fade">
       <div class="app-layout">
-        <div class="mb-6">
-          <p class="text-xs font-semibold uppercase tracking-widest text-accent">
+        <div class="mb-8">
+          <p class="text-xs font-semibold uppercase tracking-[0.15em] text-accent">
             Before you go
           </p>
-          <h2 class="mt-1 text-2xl font-bold">Essential Toolkit</h2>
-          <p class="mt-1 text-muted-foreground">
+          <h2 class="mt-1 text-2xl font-bold text-foreground">Essential Toolkit</h2>
+          <p class="mt-1 text-sm text-muted-foreground">
             Everything international travellers need to know about navigating China.
           </p>
         </div>
         <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
-          {toolkitGuides.map(guide => (
+          {toolkitGuides.map((guide, i) => (
             <a
               href={guide.href}
-              class="group flex flex-col gap-2 rounded-xl border border-border bg-background p-5 transition-all hover:border-accent/50 hover:shadow-sm"
+              class:list={[
+                "group flex flex-col gap-3 rounded-2xl p-5",
+                "bg-[var(--card-bg,#fff)] border border-border",
+                "shadow-sm transition-all duration-300",
+                "hover:shadow-lg hover:-translate-y-1 hover:border-accent/30",
+              ]}
             >
-              <span class="text-3xl" aria-hidden="true">{guide.icon}</span>
-              <h3 class="font-semibold text-accent group-hover:underline">
-                {guide.title}
-              </h3>
-              <p class="flex-1 text-sm text-muted-foreground">{guide.desc}</p>
-              <span class="text-sm font-medium text-accent">
-                {guide.cta} <IconArrowRight class="inline-block h-3 w-3" />
+              <span class="text-4xl" aria-hidden="true">{guide.icon}</span>
+              <div>
+                <h3 class="font-bold text-foreground group-hover:text-accent transition-colors">
+                  {guide.title}
+                </h3>
+                <p class="mt-1 text-sm leading-relaxed text-muted-foreground">{guide.desc}</p>
+              </div>
+              <span class="mt-auto flex items-center gap-1 text-sm font-semibold text-accent">
+                {guide.cta}
+                <IconArrowRight class="h-3.5 w-3.5 transition-transform group-hover:translate-x-0.5" />
               </span>
             </a>
           ))}
@@ -195,20 +206,20 @@ const toolkitGuides = [
     </section>
 
     <!-- ═══ FEATURED DESTINATIONS ═══ -->
-    <section id="destinations" class="border-b border-border py-12">
+    <section id="destinations" class="border-b border-border py-14 observe-fade">
       <div class="app-layout">
-        <div class="mb-6 flex items-end justify-between">
+        <div class="mb-8 flex items-end justify-between">
           <div>
-            <p class="text-xs font-semibold uppercase tracking-widest text-accent">
+            <p class="text-xs font-semibold uppercase tracking-[0.15em] text-accent">
               Where to go
             </p>
-            <h2 class="mt-1 text-2xl font-bold">Featured Destinations</h2>
+            <h2 class="mt-1 text-2xl font-bold text-foreground">Featured Destinations</h2>
           </div>
           <LinkButton
             href={getRelativeLocaleUrl(locale, "tags")}
-            class="text-sm text-accent hover:underline"
+            class="flex items-center gap-1 text-sm font-medium text-accent hover:underline"
           >
-            All destinations <IconArrowRight class="inline-block h-3 w-3" />
+            All destinations <IconArrowRight class="h-3.5 w-3.5" />
           </LinkButton>
         </div>
         <div class="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
@@ -222,13 +233,13 @@ const toolkitGuides = [
     <!-- ═══ FEATURED ARTICLES ═══ -->
     {
       featuredPosts.length > 0 && (
-        <section id="featured" class="border-b border-border py-12">
+        <section id="featured" class="border-b border-border py-14 observe-fade">
           <div class="app-layout">
-            <p class="text-xs font-semibold uppercase tracking-widest text-accent">
+            <p class="text-xs font-semibold uppercase tracking-[0.15em] text-accent">
               Editor's picks
             </p>
-            <h2 class="mt-1 mb-2 text-2xl font-bold">{t.home.featured}</h2>
-            <ul>
+            <h2 class="mt-1 mb-6 text-2xl font-bold text-foreground">{t.home.featured}</h2>
+            <ul class="flex flex-col gap-3">
               {featuredPosts.map(data => (
                 <Card variant="h3" {...data} />
               ))}
@@ -241,21 +252,24 @@ const toolkitGuides = [
     <!-- ═══ RECENT ARTICLES ═══ -->
     {
       recentPosts.length > 0 && (
-        <section id="recent-posts" class="border-b border-border py-12">
+        <section id="recent-posts" class="border-b border-border py-14 observe-fade">
           <div class="app-layout">
-            <p class="text-xs font-semibold uppercase tracking-widest text-accent">
+            <p class="text-xs font-semibold uppercase tracking-[0.15em] text-accent">
               Fresh off the press
             </p>
-            <h2 class="mt-1 mb-2 text-2xl font-bold">{t.home.recentPosts}</h2>
-            <ul>
+            <h2 class="mt-1 mb-6 text-2xl font-bold text-foreground">{t.home.recentPosts}</h2>
+            <ul class="flex flex-col gap-3">
               {recentPosts.slice(0, postsConfig.perIndex).map(data => (
                 <Card variant="h3" {...data} />
               ))}
             </ul>
-            <div class="mt-6 text-center">
-              <LinkButton href={getRelativeLocaleUrl(locale, "posts")}>
+            <div class="mt-8 text-center">
+              <LinkButton
+                href={getRelativeLocaleUrl(locale, "posts")}
+                class="inline-flex items-center gap-2 rounded-lg border border-accent px-6 py-2.5 text-sm font-semibold text-accent transition-all hover:bg-accent hover:text-white"
+              >
                 {t.home.allPosts}
-                <IconArrowRight class="inline-block rtl:-rotate-180" />
+                <IconArrowRight class="h-4 w-4 rtl:-rotate-180" />
               </LinkButton>
             </div>
           </div>
@@ -275,5 +289,31 @@ const toolkitGuides = [
     if (indexLayout?.layout) {
       sessionStorage.setItem("backUrl", indexLayout.homePath ?? baseRoot);
     }
+
+    // ── Fade-up on scroll using IntersectionObserver ──
+    const fadeTargets = document.querySelectorAll(".observe-fade");
+    if (!fadeTargets.length) return;
+
+    const observer = new IntersectionObserver(
+      entries => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add("fade-up", "visible");
+            // Stagger children cards
+            const children = entry.target.querySelectorAll(
+              "a[class*='rounded'], li"
+            );
+            children.forEach((child, i) => {
+              (child as HTMLElement).style.animationDelay = `${i * 0.08}s`;
+              child.classList.add("fade-up", "visible");
+            });
+            observer.unobserve(entry.target);
+          }
+        });
+      },
+      { threshold: 0.08 }
+    );
+
+    fadeTargets.forEach(el => observer.observe(el));
   });
 </script>

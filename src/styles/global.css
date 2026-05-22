@@ -10,6 +10,20 @@
     scrollbar-width: auto;
     scrollbar-color: var(--color-muted) transparent;
   }
+
+  /* Body uses Inter for readability */
+  body {
+    font-family: var(--font-inter), system-ui, sans-serif;
+    color: var(--foreground);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* Headings use the branded monospace font */
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-google-sans-code), monospace;
+  }
+
   a,
   button {
     @apply outline-accent outline-offset-1 focus-visible:no-underline focus-visible:outline-2 focus-visible:outline-dashed;
@@ -31,6 +45,33 @@
 @utility active-nav {
   @apply underline decoration-wavy decoration-2 underline-offset-8;
 }
+
+/* ── Fade-up animation for sections ── */
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(24px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-up {
+  opacity: 0;
+  animation: fadeUp 0.55s ease forwards;
+}
+
+.fade-up.visible {
+  opacity: 1;
+}
+
+/* Staggered delay helpers */
+.delay-100 { animation-delay: 0.1s; }
+.delay-200 { animation-delay: 0.2s; }
+.delay-300 { animation-delay: 0.3s; }
+.delay-400 { animation-delay: 0.4s; }
 
 :target {
   scroll-margin-block: 1rem;
