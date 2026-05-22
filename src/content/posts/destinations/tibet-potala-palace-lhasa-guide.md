@@ -1,5 +1,5 @@
 ---
-author: Discover China Editorial Team
+author: Roam China Travel Editorial Team
 pubDatetime: 2025-07-01T08:00:00Z
 modDatetime: 2026-05-22T08:00:00Z
 title: "Tibet & Lhasa Travel Guide: Potala Palace, Permits & Altitude Acclimatisation"

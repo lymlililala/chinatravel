@@ -1,5 +1,5 @@
 ---
-author: Discover China Editorial Team
+author: Roam China Travel Editorial Team
 pubDatetime: 2025-01-15T08:00:00Z
 modDatetime: 2026-05-01T10:00:00Z
 title: "Money & Payment in China 2025: How Foreigners Can Use Alipay and WeChat Pay"

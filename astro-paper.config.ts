@@ -3,10 +3,10 @@ import { defineAstroPaperConfig } from "./src/types/config";
 export default defineAstroPaperConfig({
   site: {
     url: "https://roamchinatravel.com/",
-    title: "Discover China",
+    title: "Roam China Travel",
     description:
       "Your ultimate guide to traveling China — visa tips, payment hacks, must-see destinations, and authentic travel stories for international visitors.",
-    author: "Discover China Editorial Team",
+    author: "Roam China Travel Editorial Team",
     profile: "https://roamchinatravel.com/about",
     ogImage: "default-og.jpg",
     lang: "en",
@@ -29,9 +29,9 @@ export default defineAstroPaperConfig({
     search: "pagefind",
   },
   socials: [
-    { name: "x",        url: "https://x.com/discoverchinaguide" },
-    { name: "facebook", url: "https://www.facebook.com/discoverchinaguide" },
-    { name: "pinterest", url: "https://www.pinterest.com/discoverchinaguide" },
+    { name: "x",        url: "https://x.com/roamchinatravel" },
+    { name: "facebook", url: "https://www.facebook.com/roamchinatravel" },
+    { name: "pinterest", url: "https://www.pinterest.com/roamchinatravel" },
     { name: "mail",     url: "mailto:hello@roamchinatravel.com" },
   ],
   shareLinks: [

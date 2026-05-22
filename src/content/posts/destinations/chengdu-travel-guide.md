@@ -1,5 +1,5 @@
 ---
-author: Discover China Editorial Team
+author: Roam China Travel Editorial Team
 pubDatetime: 2025-02-15T08:00:00Z
 modDatetime: 2026-05-01T10:00:00Z
 title: "Chengdu Travel Guide: Giant Pandas, Sichuan Hotpot & a City That Knows How to Live"

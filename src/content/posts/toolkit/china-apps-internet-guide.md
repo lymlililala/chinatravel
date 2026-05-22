@@ -1,5 +1,5 @@
 ---
-author: Discover China Editorial Team
+author: Roam China Travel Editorial Team
 pubDatetime: 2025-01-20T08:00:00Z
 modDatetime: 2026-05-01T10:00:00Z
 title: "Essential Apps for Travelling China in 2025 (And How to Stay Connected)"

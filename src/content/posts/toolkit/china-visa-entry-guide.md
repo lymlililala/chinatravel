@@ -1,5 +1,5 @@
 ---
-author: Discover China Editorial Team
+author: Roam China Travel Editorial Team
 pubDatetime: 2025-01-10T08:00:00Z
 modDatetime: 2026-05-01T10:00:00Z
 title: "China Visa & Entry Guide 2025: 144-Hour & 15-Day Transit Visa-Free Explained"
