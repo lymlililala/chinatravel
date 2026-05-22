@@ -21,6 +21,7 @@
     "@astrojs/sitemap": "^3.7.2",
     "@supabase/supabase-js": "^2.106.1",
     "@tailwindcss/vite": "^4.3.0",
+    "@vercel/analytics": "^2.0.1",
     "astro": "^6.3.3",
     "dayjs": "^1.11.20",
     "lodash.kebabcase": "^4.1.1",
