@@ -8,7 +8,6 @@ import Footer from "@/components/Footer.astro";
 import Card from "@/components/Card.astro";
 import LinkButton from "@/components/LinkButton.astro";
 import DestinationCard from "@/components/DestinationCard.astro";
-import NewsletterForm from "@/components/NewsletterForm.astro";
 import { getSortedPosts } from "@/utils/getSortedPosts";
 import { useTranslations } from "@/i18n";
 import config from "@/config";
@@ -263,11 +262,6 @@ const toolkitGuides = [
         </section>
       )
     }
-
-    <!-- ═══ NEWSLETTER ═══ -->
-    <div class="app-layout">
-      <NewsletterForm />
-    </div>
 
   </main>
   <Footer />
