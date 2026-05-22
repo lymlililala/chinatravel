@@ -1,0 +1,42 @@
+---
+type Props = {
+  name: string;
+  tagline: string;
+  imageUrl: string;
+  imageAlt: string;
+  href: string;
+  highlights?: string[];
+};
+
+const { name, tagline, imageUrl, imageAlt, href, highlights = [] } = Astro.props;
+---
+
+<a
+  href={href}
+  class="group relative flex flex-col overflow-hidden rounded-xl border border-border bg-background shadow-sm transition-all hover:shadow-md hover:-translate-y-0.5"
+>
+  <div class="relative h-48 overflow-hidden bg-muted">
+    <img
+      src={imageUrl}
+      alt={imageAlt}
+      class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
+      loading="lazy"
+    />
+    <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-black/10 to-transparent"></div>
+    <div class="absolute bottom-0 left-0 p-4">
+      <h3 class="text-xl font-bold text-white drop-shadow">{name}</h3>
+      <p class="text-sm text-white/85 drop-shadow">{tagline}</p>
+    </div>
+  </div>
+  {
+    highlights.length > 0 && (
+      <div class="flex flex-wrap gap-1.5 p-3">
+        {highlights.map(h => (
+          <span class="rounded-full bg-muted px-2.5 py-0.5 text-xs text-muted-foreground">
+            {h}
+          </span>
+        ))}
+      </div>
+    )
+  }
+</a>

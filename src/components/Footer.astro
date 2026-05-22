@@ -2,6 +2,7 @@
 import type { HTMLAttributes } from "astro/types";
 import Socials from "./Socials.astro";
 import { useTranslations } from "@/i18n";
+import { getRelativeLocaleUrl } from "astro:i18n";
 
 type Props = {
   noMarginTop?: boolean;
@@ -11,18 +12,70 @@ const { noMarginTop = false, class: className, ...attrs } = Astro.props;
 
 const t = useTranslations(Astro.currentLocale);
 const currentYear = new Date().getFullYear();
+
+const locale = Astro.currentLocale ?? "en";
+
+const footerLinks = {
+  Destinations: [
+    { label: "Beijing", href: getRelativeLocaleUrl(locale, "tags/beijing") },
+    { label: "Shanghai", href: getRelativeLocaleUrl(locale, "tags/shanghai") },
+    { label: "Xi'an", href: getRelativeLocaleUrl(locale, "tags/xian") },
+    { label: "Chengdu", href: getRelativeLocaleUrl(locale, "tags/chengdu") },
+    { label: "Guilin", href: getRelativeLocaleUrl(locale, "tags/guilin") },
+    { label: "Dali", href: getRelativeLocaleUrl(locale, "tags/dali") },
+  ],
+  "Essential Guides": [
+    { label: "Visa & Entry", href: getRelativeLocaleUrl(locale, "tags/visa") },
+    { label: "Money & Payment", href: getRelativeLocaleUrl(locale, "tags/payment") },
+    { label: "Apps & Internet", href: getRelativeLocaleUrl(locale, "tags/apps") },
+    { label: "Getting Around", href: getRelativeLocaleUrl(locale, "tags/transport") },
+  ],
+  "Travel Styles": [
+    { label: "Culture", href: getRelativeLocaleUrl(locale, "tags/culture") },
+    { label: "Food & Cuisine", href: getRelativeLocaleUrl(locale, "tags/food") },
+    { label: "Nature", href: getRelativeLocaleUrl(locale, "tags/nature") },
+    { label: "Solo Travel", href: getRelativeLocaleUrl(locale, "tags/solo") },
+    { label: "Family Travel", href: getRelativeLocaleUrl(locale, "tags/family") },
+  ],
+};
 ---
 
 <footer
   class:list={["app-layout", { "mt-auto": !noMarginTop }, className]}
   {...attrs}
 >
+  <!-- Footer link grid -->
+  <div class="border-border grid gap-8 border-t py-10 sm:grid-cols-3">
+    {
+      Object.entries(footerLinks).map(([section, links]) => (
+        <div>
+          <h3 class="mb-3 text-sm font-semibold uppercase tracking-wider text-accent">
+            {section}
+          </h3>
+          <ul class="space-y-1.5">
+            {links.map(link => (
+              <li>
+                <a
+                  href={link.href}
+                  class="text-sm text-muted-foreground transition-colors hover:text-foreground"
+                >
+                  {link.label}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      ))
+    }
+  </div>
+
+  <!-- Bottom bar -->
   <div
     class="border-border flex flex-col items-center justify-between border-t py-6 sm:flex-row-reverse sm:py-4"
   >
     <Socials />
-    <div class="my-2 flex flex-col items-center whitespace-nowrap sm:flex-row">
-      <span>{t.footer.copyright} &#169; {currentYear}</span>
+    <div class="my-2 flex flex-col items-center whitespace-nowrap sm:flex-row text-sm text-muted-foreground">
+      <span>{t.footer.copyright} &#169; {currentYear} Discover China</span>
       <span class="hidden sm:inline">&nbsp;|&nbsp;</span>
       <span>{t.footer.allRightsReserved}</span>
     </div>

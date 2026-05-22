@@ -1,37 +1,34 @@
 ---
-title: "About"
-description: "A bit about me and this blog."
+title: "About Discover China"
+description: "Our mission, our team, and why we built the go-to English guide for independent travellers planning a trip to China."
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+## Why we built this
 
-![Astro Paper](@/assets/images/astropaper-og.jpg)
+China is one of the most extraordinary places on earth — ancient temples, neon-lit megacities, karst mountains, world-class cuisine, and some of the warmest people you will ever meet. Yet for international travellers, the practical hurdles can feel daunting: complex visa rules, a cashless payment system that wasn't designed with foreigners in mind, the Great Firewall, and a public-transport network mostly described in Mandarin.
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+**Discover China** exists to remove those hurdles.
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+We are a small team of long-term China residents, travel writers, and content editors who have collectively spent decades living in, travelling through, and writing about the country. We believe independent travel in China is not only possible — it is deeply rewarding — and we want more people in the world to experience it.
 
-## Features
+## What you will find here
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+- **Destination guides** for the cities and regions that matter most to first-timers and repeat visitors alike, from Beijing's imperial grandeur to Yunnan's mountain villages.
+- **Practical toolkit articles** — our most-read content — covering visas, linking foreign bank cards to Alipay and WeChat Pay, navigating high-speed trains, and staying connected without a VPN.
+- **Cultural context** to help you move beyond the tourist trail and understand what you are seeing.
+- **Honest, up-to-date information.** Policies in China change quickly. We maintain our core guides actively and date every update so you know how fresh the advice is.
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+## Our editorial principles
 
-and so much more.
+1. **Accuracy over everything.** We do not publish information we cannot verify. If policy has changed, we update the article within days.
+2. **Written for foreigners, by people who have been there.** We do not translate Chinese travel content verbatim. We re-write it to address the concerns and context of international visitors.
+3. **No hidden agendas.** We use affiliate links on some hotel, rail-pass, and tour recommendations. When we do, we say so. Our editorial coverage is never influenced by commercial relationships.
+4. **Accessibility.** Every page is built to load fast anywhere in the world and to work on any device.
 
-## Show your support
+## Get in touch
 
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
+Found an error? Have a tip or a story you'd like to share? Reach us at **hello@discover-china.travel**. We read every message.
 
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
+---
 
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+*Discover China is an independent publication. We are not affiliated with any government tourism body or travel agency.*

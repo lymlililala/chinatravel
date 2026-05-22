@@ -1,19 +1,19 @@
 ---
 import { getCollection } from "astro:content";
 import { getRelativeLocaleUrl } from "astro:i18n";
-import IconRss from "@/assets/icons/IconRss.svg";
 import IconArrowRight from "@/assets/icons/IconArrowRight.svg";
 import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
-import Socials from "@/components/Socials.astro";
 import Card from "@/components/Card.astro";
 import LinkButton from "@/components/LinkButton.astro";
+import DestinationCard from "@/components/DestinationCard.astro";
+import NewsletterForm from "@/components/NewsletterForm.astro";
 import { getSortedPosts } from "@/utils/getSortedPosts";
 import { useTranslations } from "@/i18n";
 import config from "@/config";
 
-const { socials, posts: postsConfig } = config;
+const { posts: postsConfig } = config;
 
 const locale = Astro.currentLocale ?? config.site.lang;
 const t = useTranslations(locale);
@@ -23,6 +23,90 @@ const sortedPosts = getSortedPosts(posts);
 const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
 const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
 const homePath = getRelativeLocaleUrl(locale, "");
+
+// Featured destinations data
+const destinations = [
+  {
+    name: "Beijing",
+    tagline: "Imperial grandeur meets modern China",
+    imageUrl: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=600&q=80",
+    imageAlt: "The Great Wall of China near Beijing",
+    href: getRelativeLocaleUrl(locale, "tags/beijing"),
+    highlights: ["Great Wall", "Forbidden City", "Temple of Heaven"],
+  },
+  {
+    name: "Shanghai",
+    tagline: "The city that never sleeps",
+    imageUrl: "https://images.unsplash.com/photo-1537944434965-cf4679d1a598?w=600&q=80",
+    imageAlt: "Shanghai Bund skyline at night",
+    href: getRelativeLocaleUrl(locale, "tags/shanghai"),
+    highlights: ["The Bund", "Yu Garden", "French Concession"],
+  },
+  {
+    name: "Xi'an",
+    tagline: "Cradle of Chinese civilisation",
+    imageUrl: "https://images.unsplash.com/photo-1591451427710-ad34d2cfd9d1?w=600&q=80",
+    imageAlt: "Terracotta Warriors in Xi'an",
+    href: getRelativeLocaleUrl(locale, "tags/xian"),
+    highlights: ["Terracotta Army", "City Wall", "Muslim Quarter"],
+  },
+  {
+    name: "Chengdu",
+    tagline: "Pandas, hotpot & laid-back vibes",
+    imageUrl: "https://images.unsplash.com/photo-1569880153113-76e33fc52d5f?w=600&q=80",
+    imageAlt: "Giant panda in Chengdu Research Base",
+    href: getRelativeLocaleUrl(locale, "tags/chengdu"),
+    highlights: ["Giant Pandas", "Hotpot", "Leshan Buddha"],
+  },
+  {
+    name: "Guilin",
+    tagline: "Karst mountains & emerald rivers",
+    imageUrl: "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=600&q=80",
+    imageAlt: "Li River karst scenery in Guilin",
+    href: getRelativeLocaleUrl(locale, "tags/guilin"),
+    highlights: ["Li River Cruise", "Longji Terraces", "Reed Flute Cave"],
+  },
+  {
+    name: "Dali",
+    tagline: "Ancient town by the Erhai Lake",
+    imageUrl: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80",
+    imageAlt: "Old Town of Dali with Cangshan mountains",
+    href: getRelativeLocaleUrl(locale, "tags/dali"),
+    highlights: ["Old Town", "Erhai Lake", "Cangshan Mountains"],
+  },
+];
+
+// Essential toolkit links
+const toolkitGuides = [
+  {
+    icon: "🛂",
+    title: "Visa & Entry",
+    desc: "144-hour & 15-day visa-free transit explained",
+    href: getRelativeLocaleUrl(locale, "tags/visa"),
+    cta: "Read guide",
+  },
+  {
+    icon: "💳",
+    title: "Money & Payment",
+    desc: "Link your foreign card to Alipay & WeChat Pay",
+    href: getRelativeLocaleUrl(locale, "tags/payment"),
+    cta: "Read guide",
+  },
+  {
+    icon: "📱",
+    title: "Apps & Internet",
+    desc: "Must-have apps and VPN-free connectivity tips",
+    href: getRelativeLocaleUrl(locale, "tags/apps"),
+    cta: "Read guide",
+  },
+  {
+    icon: "🚄",
+    title: "Getting Around",
+    desc: "How to book & ride China's high-speed trains",
+    href: getRelativeLocaleUrl(locale, "tags/transport"),
+    cta: "Read guide",
+  },
+];
 ---
 
 <Layout>
@@ -31,96 +115,160 @@ const homePath = getRelativeLocaleUrl(locale, "");
     id="main-content"
     data-layout="index"
     data-home-path={homePath}
-    class="app-layout"
   >
-    <section id="hero" class="border-border border-b pt-8 pb-6">
-      <h1 class="my-4 inline-block text-4xl font-bold sm:my-8 sm:text-5xl">
-        Mingalaba
-      </h1>
-      <a
-        target="_blank"
-        href={getRelativeLocaleUrl(locale, "rss.xml")}
-        class="inline-block"
-        aria-label="RSS Feed"
-        title="RSS Feed"
-      >
-        <IconRss
-          width={20}
-          height={20}
-          class="stroke-accent scale-125 stroke-3 rtl:-rotate-90"
-        />
-        <span class="sr-only">RSS Feed</span>
-      </a>
 
-      <p>
-        AstroPaper is a minimal, responsive, accessible and SEO-friendly Astro
-        blog theme. This theme follows best practices and provides accessibility
-        out of the box. Light and dark mode are supported by default. Moreover,
-        additional color schemes can also be configured.
-      </p>
-      <p class="mt-2">
-        Read the blog posts or check
-        <LinkButton
-          class="hover:text-accent underline decoration-dashed underline-offset-4"
-          href="https://github.com/satnaing/astro-paper#readme"
-        >
-          README
-        </LinkButton> for more info.
-      </p>
-      {
-        socials.length > 0 && (
-          <div class="mt-4 flex max-sm:flex-col sm:items-center">
-            <div class="me-2 mb-1 whitespace-nowrap sm:mb-0">
-              {t.home.socialLinks}:
-            </div>
-            <Socials />
-          </div>
-        )
-      }
+    <!-- ═══ HERO SECTION ═══ -->
+    <section
+      id="hero"
+      class="relative overflow-hidden border-b border-border"
+      style="min-height: 420px;"
+    >
+      <!-- Background image -->
+      <div class="absolute inset-0 z-0">
+        <img
+          src="https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=1400&q=75"
+          alt="Stunning karst landscape in Guilin, China"
+          class="h-full w-full object-cover"
+          loading="eager"
+        />
+        <div class="absolute inset-0 bg-gradient-to-b from-black/55 via-black/35 to-black/70"></div>
+      </div>
+
+      <!-- Hero content -->
+      <div class="app-layout relative z-10 flex flex-col items-start justify-end py-16 sm:py-24" style="min-height: 420px;">
+        <p class="mb-2 text-sm font-semibold uppercase tracking-widest text-white/70">
+          Your independent guide to
+        </p>
+        <h1 class="mb-4 text-4xl font-extrabold leading-tight text-white sm:text-5xl lg:text-6xl">
+          Travelling <span class="text-amber-400">China</span> in 2025
+        </h1>
+        <p class="mb-8 max-w-xl text-base text-white/85 sm:text-lg">
+          Honest advice on visas, payments, transport, and hidden gems —
+          written for first-timers and seasoned backpackers alike.
+        </p>
+        <div class="flex flex-wrap gap-3">
+          <a
+            href={getRelativeLocaleUrl(locale, "posts")}
+            class="rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-accent-foreground shadow transition-opacity hover:opacity-90"
+          >
+            Explore Guides
+          </a>
+          <a
+            href="#toolkit"
+            class="rounded-lg border border-white/60 bg-white/10 px-5 py-2.5 text-sm font-semibold text-white backdrop-blur transition-colors hover:bg-white/20"
+          >
+            Essential Toolkit ↓
+          </a>
+        </div>
+      </div>
     </section>
 
+    <!-- ═══ ESSENTIAL TOOLKIT ═══ -->
+    <section id="toolkit" class="border-b border-border py-12">
+      <div class="app-layout">
+        <div class="mb-6">
+          <p class="text-xs font-semibold uppercase tracking-widest text-accent">
+            Before you go
+          </p>
+          <h2 class="mt-1 text-2xl font-bold">Essential Toolkit</h2>
+          <p class="mt-1 text-muted-foreground">
+            Everything international travellers need to know about navigating China.
+          </p>
+        </div>
+        <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+          {toolkitGuides.map(guide => (
+            <a
+              href={guide.href}
+              class="group flex flex-col gap-2 rounded-xl border border-border bg-background p-5 transition-all hover:border-accent/50 hover:shadow-sm"
+            >
+              <span class="text-3xl" aria-hidden="true">{guide.icon}</span>
+              <h3 class="font-semibold text-accent group-hover:underline">
+                {guide.title}
+              </h3>
+              <p class="flex-1 text-sm text-muted-foreground">{guide.desc}</p>
+              <span class="text-sm font-medium text-accent">
+                {guide.cta} <IconArrowRight class="inline-block h-3 w-3" />
+              </span>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <!-- ═══ FEATURED DESTINATIONS ═══ -->
+    <section id="destinations" class="border-b border-border py-12">
+      <div class="app-layout">
+        <div class="mb-6 flex items-end justify-between">
+          <div>
+            <p class="text-xs font-semibold uppercase tracking-widest text-accent">
+              Where to go
+            </p>
+            <h2 class="mt-1 text-2xl font-bold">Featured Destinations</h2>
+          </div>
+          <LinkButton
+            href={getRelativeLocaleUrl(locale, "tags")}
+            class="text-sm text-accent hover:underline"
+          >
+            All destinations <IconArrowRight class="inline-block h-3 w-3" />
+          </LinkButton>
+        </div>
+        <div class="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+          {destinations.map(dest => (
+            <DestinationCard {...dest} />
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <!-- ═══ FEATURED ARTICLES ═══ -->
     {
       featuredPosts.length > 0 && (
-        <section
-          id="featured"
-          class:list={[
-            "pt-12 pb-6",
-            { "border-border border-b": recentPosts.length > 0 },
-          ]}
-        >
-          <h2 class="text-2xl font-semibold tracking-wide">
-            {t.home.featured}
-          </h2>
-          <ul>
-            {featuredPosts.map(data => (
-              <Card variant="h3" {...data} />
-            ))}
-          </ul>
+        <section id="featured" class="border-b border-border py-12">
+          <div class="app-layout">
+            <p class="text-xs font-semibold uppercase tracking-widest text-accent">
+              Editor's picks
+            </p>
+            <h2 class="mt-1 mb-2 text-2xl font-bold">{t.home.featured}</h2>
+            <ul>
+              {featuredPosts.map(data => (
+                <Card variant="h3" {...data} />
+              ))}
+            </ul>
+          </div>
         </section>
       )
     }
 
+    <!-- ═══ RECENT ARTICLES ═══ -->
     {
       recentPosts.length > 0 && (
-        <section id="recent-posts" class="pt-12 pb-6">
-          <h2 class="text-2xl font-semibold tracking-wide">
-            {t.home.recentPosts}
-          </h2>
-          <ul>
-            {recentPosts.slice(0, postsConfig.perIndex).map(data => (
-              <Card variant="h3" {...data} />
-            ))}
-          </ul>
+        <section id="recent-posts" class="border-b border-border py-12">
+          <div class="app-layout">
+            <p class="text-xs font-semibold uppercase tracking-widest text-accent">
+              Fresh off the press
+            </p>
+            <h2 class="mt-1 mb-2 text-2xl font-bold">{t.home.recentPosts}</h2>
+            <ul>
+              {recentPosts.slice(0, postsConfig.perIndex).map(data => (
+                <Card variant="h3" {...data} />
+              ))}
+            </ul>
+            <div class="mt-6 text-center">
+              <LinkButton href={getRelativeLocaleUrl(locale, "posts")}>
+                {t.home.allPosts}
+                <IconArrowRight class="inline-block rtl:-rotate-180" />
+              </LinkButton>
+            </div>
+          </div>
         </section>
       )
     }
 
-    <div class="my-8 text-center">
-      <LinkButton href={getRelativeLocaleUrl(locale, "posts")}>
-        {t.home.allPosts}
-        <IconArrowRight class="inline-block rtl:-rotate-180" />
-      </LinkButton>
+    <!-- ═══ NEWSLETTER ═══ -->
+    <div class="app-layout">
+      <NewsletterForm />
     </div>
+
   </main>
   <Footer />
 </Layout>
