@@ -1,0 +1,465 @@
+---
+import { getCollection } from "astro:content";
+import { getRelativeLocaleUrl } from "astro:i18n";
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import IconArrowRight from "@/assets/icons/IconArrowRight.svg";
+import config from "@/config";
+
+const posts = await getCollection("posts", ({ data, id }) => !data.draft && id.startsWith("toolkit/"));
+const locale = Astro.currentLocale ?? config.site.lang;
+
+// ── Survival steps (ordered journey) ──
+const steps = [
+  {
+    step: "01",
+    icon: "🛂",
+    title: "Get Your Visa Sorted",
+    desc: "Confirm your entry route — tourist visa, 15-day visa-free, or 144-hour transit. This must be done first.",
+    href: getRelativeLocaleUrl(locale, "posts/china-visa-entry-guide"),
+    color: "from-red-500/15 to-rose-400/8",
+    border: "border-red-200/70 dark:border-red-900/40",
+    accent: "#c0392b",
+    badge: "Start here",
+    badgeColor: "bg-red-500",
+    facts: ["50+ visa-free nationalities", "144-hr & 15-day options", "Double-check 6 months before"],
+  },
+  {
+    step: "02",
+    icon: "💳",
+    title: "Set Up Mobile Payment",
+    desc: "Alipay and WeChat Pay handle 95% of transactions. Link your foreign card before you board the plane.",
+    href: getRelativeLocaleUrl(locale, "posts/china-payment-guide"),
+    color: "from-emerald-500/15 to-teal-400/8",
+    border: "border-emerald-200/70 dark:border-emerald-900/40",
+    accent: "#1a4b47",
+    badge: "Essential",
+    badgeColor: "bg-emerald-600",
+    facts: ["Alipay + WeChat Pay", "Visa & Mastercard accepted", "Works at street stalls"],
+  },
+  {
+    step: "03",
+    icon: "📱",
+    title: "Download Must-Have Apps",
+    desc: "Install Amap, DiDi, and a VPN before you land — many app stores and sites are blocked in China.",
+    href: getRelativeLocaleUrl(locale, "posts/china-apps-internet-guide"),
+    color: "from-blue-500/15 to-indigo-400/8",
+    border: "border-blue-200/70 dark:border-blue-900/40",
+    accent: "#2563eb",
+    badge: "Before you fly",
+    badgeColor: "bg-blue-600",
+    facts: ["VPN must be pre-installed", "Amap > Google Maps", "DeepL for translation"],
+  },
+  {
+    step: "04",
+    icon: "🚄",
+    title: "Book High-Speed Trains",
+    desc: "China's HSR network is world-class. Book 2nd class seats 2–4 weeks ahead — they sell out fast.",
+    href: getRelativeLocaleUrl(locale, "posts/china-train-booking-guide-foreigners"),
+    color: "from-amber-500/15 to-yellow-400/8",
+    border: "border-amber-200/70 dark:border-amber-900/40",
+    accent: "#d97706",
+    badge: "Book early",
+    badgeColor: "bg-amber-500",
+    facts: ["350 km/h speeds", "Trip.com for English", "Sleepers for overnight"],
+  },
+  {
+    step: "05",
+    icon: "🗺️",
+    title: "Plan Your Route",
+    desc: "Build a realistic itinerary around the train network. China is vast — don't over-schedule.",
+    href: getRelativeLocaleUrl(locale, "posts/china-2-week-itinerary"),
+    color: "from-violet-500/15 to-purple-400/8",
+    border: "border-violet-200/70 dark:border-violet-900/40",
+    accent: "#7c3aed",
+    badge: "Plan ahead",
+    badgeColor: "bg-violet-600",
+    facts: ["2-week starter route", "Top 5 city circuit", "Mix of culture + nature"],
+  },
+  {
+    step: "06",
+    icon: "🌦️",
+    title: "Pick the Right Season",
+    desc: "Spring and autumn are ideal. Summer is hot and crowded; winter in the north is extreme but magical.",
+    href: getRelativeLocaleUrl(locale, "posts/best-time-to-visit-china"),
+    color: "from-sky-500/15 to-cyan-400/8",
+    border: "border-sky-200/70 dark:border-sky-900/40",
+    accent: "#0284c7",
+    badge: "Timing matters",
+    badgeColor: "bg-sky-600",
+    facts: ["April–May ideal", "Sept–Oct golden season", "Spring Festival chaos"],
+  },
+];
+
+// ── Comparison table data ──
+const compareRows = [
+  { topic: "Entry method", visa: "Tourist L visa (most nationalities)", free15: "15-day visa-free (select countries)", free144: "144-hour transit (layover travellers)" },
+  { topic: "Duration", visa: "Up to 30–90 days", free15: "Up to 15 days", free144: "Up to 144 hours (6 days)" },
+  { topic: "Application", visa: "Embassy/consulate required", free15: "No application needed", free144: "No application needed" },
+  { topic: "Cost", visa: "~$150–200 (varies by nationality)", free15: "Free", free144: "Free" },
+  { topic: "Best for", visa: "Extended trips, multiple entries", free15: "Short holidays & explorers", free144: "Connecting flights with sightseeing" },
+];
+
+// ── All toolkit articles ──
+const toolkitArticles = posts.sort((a, b) => new Date(b.data.pubDatetime).getTime() - new Date(a.data.pubDatetime).getTime());
+
+// Thumbnail map for toolkit articles
+const thumbs: Record<string, string> = {
+  "china-visa-entry-guide":                  "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=600&q=80",
+  "china-payment-guide":                     "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=600&q=80",
+  "china-apps-internet-guide":               "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&q=80",
+  "china-train-booking-guide-foreigners":    "https://images.unsplash.com/photo-1515658323406-25d61c141a6e?w=600&q=80",
+  "china-transport-guide":                   "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=600&q=80",
+  "china-2-week-itinerary":                  "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=600&q=80",
+  "best-time-to-visit-china":                "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86?w=600&q=80",
+  "china-food-guide-street-food":            "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=600&q=80",
+  "china-solo-female-travel-guide":          "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=600&q=80",
+  "china-budget-travel-guide":               "https://images.unsplash.com/photo-1509016741186-e5e8a1e7d65e?w=600&q=80",
+  "china-packing-list-guide":                "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600&q=80",
+  "china-safety-guide":                      "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=600&q=80",
+};
+const defaultThumb = "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=600&q=80";
+
+function getThumb(id: string): string {
+  const slug = id.replace(/^toolkit\//, "");
+  return thumbs[slug] ?? defaultThumb;
+}
+---
+
+<Layout title={`Practical Toolkit | ${config.site.title}`}>
+  <Header />
+
+  <main id="main-content">
+
+    <!-- ── Page hero ── -->
+    <div class="relative overflow-hidden border-b border-border bg-gradient-to-br from-background via-muted/40 to-background py-14 sm:py-18">
+      <div class="pointer-events-none absolute -top-24 -right-24 h-72 w-72 rounded-full bg-accent/6 blur-3xl"></div>
+      <div class="pointer-events-none absolute -bottom-12 -left-12 h-56 w-56 rounded-full bg-emerald-500/6 blur-3xl"></div>
+
+      <div class="mx-auto max-w-7xl px-4 sm:px-6">
+        <nav class="mb-4 flex items-center gap-2 text-sm text-muted-foreground" aria-label="Breadcrumb">
+          <a href={getRelativeLocaleUrl(locale, "")} class="transition-colors hover:text-accent">Home</a>
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-3.5 w-3.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+          <span class="text-foreground font-medium">Practical Toolkit</span>
+        </nav>
+
+        <div class="flex items-center gap-3 mb-4">
+          <span class="text-3xl" aria-hidden="true">🧳</span>
+          <h1
+            class="text-4xl font-extrabold text-foreground sm:text-5xl"
+            style="font-family: var(--font-playfair), Georgia, serif; letter-spacing: -0.03em;"
+          >
+            Practical Toolkit
+          </h1>
+        </div>
+        <p class="mt-3 max-w-2xl text-lg text-muted-foreground">
+          Everything you need to know before, during, and after your China trip — from visas and payments to packing and safety. Step-by-step guides written from first-hand experience.
+        </p>
+        <div class="mt-6 flex flex-wrap gap-4 text-sm">
+          <span class="flex items-center gap-1.5 text-muted-foreground">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 text-accent" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
+            <strong class="text-foreground">{toolkitArticles.length}</strong> practical guides
+          </span>
+          <span class="flex items-center gap-1.5 text-muted-foreground">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 text-accent" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"/></svg>
+            Updated <strong class="text-foreground">2026</strong>
+          </span>
+          <span class="flex items-center gap-1.5 text-muted-foreground">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 text-accent" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+            <strong class="text-foreground">Verified</strong> first-hand
+          </span>
+        </div>
+      </div>
+    </div>
+
+    <div class="mx-auto max-w-7xl space-y-20 px-4 py-14 sm:px-6">
+
+      <!-- ══════════════════════════════════════════
+           SECTION 1: STEP-BY-STEP TIMELINE
+      ═══════════════════════════════════════════ -->
+      <section>
+        <div class="mb-10">
+          <p class="overline mb-2">Your trip preparation checklist</p>
+          <h2
+            class="text-2xl font-extrabold text-foreground sm:text-3xl"
+            style="font-family: var(--font-playfair), Georgia, serif;"
+          >
+            Complete These 6 Steps — In Order
+          </h2>
+          <p class="mt-2 text-base text-muted-foreground max-w-2xl">
+            First-time visitors to China often discover gaps in their preparation at the airport. Work through these steps at least 3–4 weeks before departure.
+          </p>
+        </div>
+
+        <!-- Timeline — alternating left/right on desktop, stacked on mobile -->
+        <div class="relative">
+          <!-- Vertical spine (desktop only) -->
+          <div class="absolute left-1/2 top-0 bottom-0 hidden w-0.5 -translate-x-0.5 bg-gradient-to-b from-transparent via-border to-transparent lg:block" aria-hidden="true"></div>
+
+          <div class="space-y-8 lg:space-y-0">
+            {steps.map((step, i) => (
+              <div
+                class:list={[
+                  "relative flex flex-col gap-4 lg:flex-row lg:gap-0 lg:items-start",
+                  i % 2 === 0 ? "lg:flex-row" : "lg:flex-row-reverse",
+                ]}
+              >
+                <!-- Step card -->
+                <a
+                  href={step.href}
+                  class:list={[
+                    "group w-full overflow-hidden rounded-2xl border bg-[var(--card-bg)] p-6 shadow-sm",
+                    "transition-all duration-300 hover:shadow-xl hover:-translate-y-1.5 hover:border-accent/25",
+                    `bg-gradient-to-br ${step.color}`,
+                    step.border,
+                    "lg:w-[calc(50%-3.5rem)]",
+                  ]}
+                >
+                  <!-- Header -->
+                  <div class="mb-4 flex items-start gap-4">
+                    <div class="relative flex-shrink-0">
+                      <div class="flex size-14 items-center justify-center rounded-2xl border-2 border-border bg-background text-2xl shadow-sm transition-transform duration-300 group-hover:scale-110 group-hover:rotate-6">
+                        {step.icon}
+                      </div>
+                      <span class:list={["absolute -top-1.5 -right-1.5 flex size-5 items-center justify-center rounded-full text-[9px] font-black text-white shadow", step.badgeColor]}>
+                        {step.step}
+                      </span>
+                    </div>
+                    <div class="flex-1 min-w-0">
+                      <span class:list={["mb-1 inline-block rounded-full px-2 py-0.5 text-[10px] font-black uppercase tracking-widest text-white", step.badgeColor]}>
+                        {step.badge}
+                      </span>
+                      <h3
+                        class="text-lg font-extrabold text-foreground transition-colors group-hover:text-accent leading-tight"
+                        style="font-family: var(--font-playfair), Georgia, serif;"
+                      >
+                        {step.title}
+                      </h3>
+                    </div>
+                  </div>
+
+                  <p class="mb-4 text-sm leading-relaxed text-muted-foreground">{step.desc}</p>
+
+                  <!-- Quick facts -->
+                  <ul class="mb-4 space-y-1.5">
+                    {step.facts.map(fact => (
+                      <li class="flex items-center gap-2 text-xs text-muted-foreground">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-3 w-3 flex-shrink-0 text-accent" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
+                          <path stroke-linecap="round" stroke-linejoin="round" d="M9 12l2 2 4-4"/>
+                        </svg>
+                        {fact}
+                      </li>
+                    ))}
+                  </ul>
+
+                  <span class="flex items-center gap-1.5 text-sm font-bold text-accent">
+                    Read full guide
+                    <IconArrowRight class="h-3.5 w-3.5 transition-transform group-hover:translate-x-1" />
+                  </span>
+
+                  <!-- Bottom accent line -->
+                  <div class="absolute bottom-0 left-0 right-0 h-0.5 origin-left scale-x-0 bg-accent transition-transform duration-500 ease-out group-hover:scale-x-100"></div>
+                </a>
+
+                <!-- Centre node (desktop) -->
+                <div class="hidden lg:flex lg:w-28 lg:flex-shrink-0 lg:items-center lg:justify-center" aria-hidden="true">
+                  <div
+                    class="flex size-12 items-center justify-center rounded-full border-2 border-border bg-[var(--card-bg)] text-lg font-black text-foreground shadow-md"
+                    style={`color: ${step.accent}; border-color: ${step.accent}40;`}
+                  >
+                    {step.step}
+                  </div>
+                </div>
+
+                <!-- Spacer on the other side (desktop) -->
+                <div class="hidden lg:block lg:w-[calc(50%-3.5rem)]"></div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <!-- ══════════════════════════════════════════
+           SECTION 2: VISA COMPARISON TABLE
+      ═══════════════════════════════════════════ -->
+      <section>
+        <div class="mb-8">
+          <p class="overline mb-2">Entry options at a glance</p>
+          <h2
+            class="text-2xl font-extrabold text-foreground sm:text-3xl"
+            style="font-family: var(--font-playfair), Georgia, serif;"
+          >
+            Which Entry Route is Right for You?
+          </h2>
+          <p class="mt-2 text-base text-muted-foreground">
+            Compare the three most common ways to enter China as an international visitor.
+          </p>
+        </div>
+
+        <!-- Comparison table (scrollable on mobile) -->
+        <div class="overflow-x-auto rounded-2xl border border-border shadow-sm">
+          <table class="w-full min-w-[640px] border-collapse bg-[var(--card-bg)] text-sm">
+            <thead>
+              <tr class="border-b border-border bg-muted/50">
+                <th class="px-5 py-4 text-left font-bold text-foreground">Criteria</th>
+                <th class="px-5 py-4 text-left font-bold text-foreground">
+                  <span class="inline-flex items-center gap-1.5">
+                    🛂 Tourist Visa
+                  </span>
+                </th>
+                <th class="px-5 py-4 text-left font-bold text-emerald-700 dark:text-emerald-400">
+                  <span class="inline-flex items-center gap-1.5">
+                    ✅ 15-Day Visa-Free
+                    <span class="rounded-full bg-emerald-100 px-1.5 py-0.5 text-[9px] font-black uppercase tracking-wider text-emerald-700 dark:bg-emerald-900/40 dark:text-emerald-400">NEW</span>
+                  </span>
+                </th>
+                <th class="px-5 py-4 text-left font-bold text-blue-700 dark:text-blue-400">
+                  <span class="inline-flex items-center gap-1.5">
+                    ⏱️ 144-Hour Transit
+                  </span>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              {compareRows.map((row, i) => (
+                <tr class:list={["border-b border-border/50 transition-colors hover:bg-muted/30", i % 2 === 0 ? "" : "bg-muted/20"]}>
+                  <td class="px-5 py-4 font-semibold text-foreground">{row.topic}</td>
+                  <td class="px-5 py-4 text-muted-foreground">{row.visa}</td>
+                  <td class="px-5 py-4 font-medium text-emerald-700 dark:text-emerald-400">{row.free15}</td>
+                  <td class="px-5 py-4 font-medium text-blue-700 dark:text-blue-400">{row.free144}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+
+        <div class="mt-4 flex justify-end">
+          <a
+            href={getRelativeLocaleUrl(locale, "posts/china-visa-entry-guide")}
+            class="group inline-flex items-center gap-1.5 text-sm font-semibold text-accent transition-all hover:gap-2.5"
+          >
+            Full visa guide <IconArrowRight class="h-4 w-4" />
+          </a>
+        </div>
+      </section>
+
+      <!-- ══════════════════════════════════════════
+           SECTION 3: ALL TOOLKIT ARTICLES
+      ═══════════════════════════════════════════ -->
+      <section>
+        <div class="mb-8">
+          <p class="overline mb-2">All guides</p>
+          <h2
+            class="text-2xl font-extrabold text-foreground sm:text-3xl"
+            style="font-family: var(--font-playfair), Georgia, serif;"
+          >
+            Complete Toolkit Library
+          </h2>
+        </div>
+
+        <div class="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+          {toolkitArticles.map((post) => {
+            const slug = post.id.replace(/^(destinations|toolkit)\//, "");
+            const thumb = getThumb(post.id);
+            return (
+              <a
+                href={`/posts/${slug}/`}
+                class="group relative flex flex-col overflow-hidden rounded-2xl border border-border bg-[var(--card-bg)] shadow-sm transition-all duration-300 hover:shadow-xl hover:-translate-y-1.5 hover:border-accent/25"
+              >
+                <!-- Thumbnail -->
+                <div class="relative h-44 overflow-hidden bg-muted">
+                  <img
+                    src={thumb}
+                    alt={post.data.title}
+                    class="h-full w-full object-cover transition-transform duration-700 group-hover:scale-110"
+                    loading="lazy"
+                  />
+                  <div class="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent"></div>
+                  {post.data.tags?.[0] && (
+                    <span class="absolute top-3 left-3 rounded-full bg-accent px-2.5 py-1 text-[10px] font-bold uppercase tracking-wider text-white">
+                      {post.data.tags[0]}
+                    </span>
+                  )}
+                  {post.data.modDatetime && (
+                    <span class="absolute top-3 right-3 flex items-center gap-1 rounded-full border border-emerald-300/60 bg-emerald-900/75 px-2 py-0.5 text-[10px] font-bold text-emerald-300 backdrop-blur-sm">
+                      <svg xmlns="http://www.w3.org/2000/svg" class="h-2.5 w-2.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5"><path stroke-linecap="round" stroke-linejoin="round" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"/></svg>
+                      {new Date(post.data.modDatetime).toLocaleDateString("en-GB", { month: "short", year: "numeric" })}
+                    </span>
+                  )}
+                </div>
+
+                <!-- Content -->
+                <div class="flex flex-1 flex-col gap-3 p-5">
+                  <h3
+                    class="text-base font-bold leading-snug text-foreground transition-colors group-hover:text-accent"
+                    style="font-family: var(--font-playfair), Georgia, serif;"
+                  >
+                    {post.data.title}
+                  </h3>
+                  {post.data.description && (
+                    <p class="line-clamp-2 text-sm leading-relaxed text-muted-foreground">
+                      {post.data.description}
+                    </p>
+                  )}
+                  <span class="mt-auto flex items-center gap-1.5 text-sm font-semibold text-accent">
+                    Read guide
+                    <IconArrowRight class="h-3.5 w-3.5 transition-transform group-hover:translate-x-1" />
+                  </span>
+                </div>
+              </a>
+            );
+          })}
+        </div>
+      </section>
+
+      <!-- ══════════════════════════════════════════
+           SECTION 4: QUICK TIPS BOX
+      ═══════════════════════════════════════════ -->
+      <section class="rounded-2xl border border-accent/20 bg-gradient-to-br from-accent/6 to-transparent p-8 sm:p-10">
+        <div class="mb-6 flex items-center gap-3">
+          <span class="text-3xl" aria-hidden="true">💡</span>
+          <h2
+            class="text-2xl font-extrabold text-foreground"
+            style="font-family: var(--font-playfair), Georgia, serif;"
+          >
+            Top 5 Things First-Timers Get Wrong
+          </h2>
+        </div>
+
+        <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          {[
+            { num: "01", title: "Forgetting to download VPN apps", tip: "App store and VPN websites are blocked from inside China. Install before you board." },
+            { num: "02", title: "Not setting up Alipay in advance", tip: "Linking a foreign card takes time and sometimes requires help. Do it at home." },
+            { num: "03", title: "Skipping the visa-free option", tip: "Many nationalities now qualify for 15-day visa-free entry — no embassy visit needed." },
+            { num: "04", title: "Not booking train tickets early", tip: "Golden Week (October) and Spring Festival trains sell out months ahead. Plan early." },
+            { num: "05", title: "Relying on Google Maps offline", tip: "Google Maps data in China is unreliable. Use Amap or Maps.me with offline maps." },
+          ].map(item => (
+            <div class="flex gap-3">
+              <span class="mt-0.5 text-xs font-black text-accent flex-shrink-0 tabular-nums">{item.num}</span>
+              <div>
+                <p class="font-bold text-foreground text-sm">{item.title}</p>
+                <p class="mt-0.5 text-xs text-muted-foreground leading-relaxed">{item.tip}</p>
+              </div>
+            </div>
+          ))}
+        </div>
+      </section>
+
+    </div>
+  </main>
+
+  <Footer />
+</Layout>
+
+<style>
+  .overline {
+    display: block;
+    font-size: 0.65rem;
+    font-weight: 800;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 0.25rem;
+  }
+</style>

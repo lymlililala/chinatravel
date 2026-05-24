@@ -82,6 +82,104 @@ const stats = [
   { value: "Free", label: "Always free" },
 ];
 
+// ── Intent-based travel themes (Explore by Interest) ──
+const travelThemes = [
+  {
+    icon: "🛂",
+    title: "144-Hour Visa-Free",
+    desc: "No visa needed — enter Beijing, Shanghai, Guangzhou & more for up to 6 days",
+    href: getRelativeLocaleUrl(locale, "tags/visa"),
+    tag: "HOT",
+    tagColor: "bg-red-500",
+    image: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=600&q=80",
+  },
+  {
+    icon: "🐪",
+    title: "Silk Road Journey",
+    desc: "Xi'an → Dunhuang → Kashgar: ancient deserts, cave art, and nomadic culture",
+    href: getRelativeLocaleUrl(locale, "tags/xian"),
+    tag: "EPIC",
+    tagColor: "bg-amber-500",
+    image: "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=600&q=80",
+  },
+  {
+    icon: "🏔️",
+    title: "Natural Wonders",
+    desc: "Zhangjiajie avatar mountains, Jiuzhaigou turquoise lakes, Guilin karst",
+    href: getRelativeLocaleUrl(locale, "tags/nature"),
+    tag: "SCENIC",
+    tagColor: "bg-emerald-500",
+    image: "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=600&q=80",
+  },
+  {
+    icon: "🍜",
+    title: "Foodie China",
+    desc: "Sichuan hotpot, Cantonese dim sum, Beijing duck, Xi'an lamb skewers",
+    href: getRelativeLocaleUrl(locale, "tags/food"),
+    tag: "TASTE",
+    tagColor: "bg-orange-500",
+    image: "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=600&q=80",
+  },
+  {
+    icon: "🏯",
+    title: "Imperial History",
+    desc: "Forbidden City, Great Wall, Terracotta Army — 5,000 years in one trip",
+    href: getRelativeLocaleUrl(locale, "tags/culture"),
+    tag: "CULTURE",
+    tagColor: "bg-red-700",
+    image: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=600&q=80",
+  },
+  {
+    icon: "🐼",
+    title: "Panda & Wildlife",
+    desc: "Chengdu Giant Panda Base, Wolong Reserve, and Yunnan elephant sanctuary",
+    href: getRelativeLocaleUrl(locale, "tags/chengdu"),
+    tag: "WILDLIFE",
+    tagColor: "bg-green-600",
+    image: "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=600&q=80",
+  },
+];
+
+// ── Survival steps (most-searched how-to topics) ──
+const survivalSteps = [
+  {
+    step: "01",
+    title: "Get Your Visa Sorted",
+    short: "Check if your country qualifies for visa-free entry (15-day or 144-hour transit)",
+    href: getRelativeLocaleUrl(locale, "posts/china-visa-entry-guide"),
+    icon: "🛂",
+    color: "from-red-500/15 to-rose-400/10",
+    border: "border-red-200/60 dark:border-red-900/40",
+  },
+  {
+    step: "02",
+    title: "Set Up Mobile Payment",
+    short: "Link your foreign Visa/Mastercard to Alipay — essential for paying anywhere",
+    href: getRelativeLocaleUrl(locale, "posts/china-payment-guide"),
+    icon: "💳",
+    color: "from-emerald-500/15 to-teal-400/10",
+    border: "border-emerald-200/60 dark:border-emerald-900/40",
+  },
+  {
+    step: "03",
+    title: "Download Must-Have Apps",
+    short: "Amap for navigation, DiDi for rides, DeepL for translation — before you land",
+    href: getRelativeLocaleUrl(locale, "posts/china-apps-internet-guide"),
+    icon: "📱",
+    color: "from-blue-500/15 to-indigo-400/10",
+    border: "border-blue-200/60 dark:border-blue-900/40",
+  },
+  {
+    step: "04",
+    title: "Book High-Speed Trains",
+    short: "Use Trip.com or 12306 to reserve seats — trains sell out weeks in advance",
+    href: getRelativeLocaleUrl(locale, "posts/china-train-booking-guide-foreigners"),
+    icon: "🚄",
+    color: "from-amber-500/15 to-yellow-400/10",
+    border: "border-amber-200/60 dark:border-amber-900/40",
+  },
+];
+
 // Bento grid destinations — varied sizes for visual interest
 const bentoDests = [
   {
@@ -363,6 +461,157 @@ function getSimplePostUrl(id: string): string {
                 class="pointer-events-none absolute -right-4 -bottom-4 h-24 w-24 rounded-full opacity-0 blur-2xl transition-opacity duration-500 group-hover:opacity-55"
                 style={`background: ${guide.accent};`}
               ></div>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <!-- ═══════════════════════════════════════════
+         SURVIVAL STEPS — Timeline / Stepper
+    ════════════════════════════════════════════ -->
+    <section id="survival-steps" class="border-b border-border py-16 observe-fade section-rice-paper">
+      <div class="mx-auto max-w-7xl px-4 sm:px-6">
+        <div class="mb-10 flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between">
+          <div>
+            <p class="overline mb-2">Step-by-step</p>
+            <h2
+              class="text-3xl font-extrabold text-foreground sm:text-4xl"
+              style="font-family: var(--font-playfair), Georgia, serif;"
+            >
+              Your China Trip Checklist
+            </h2>
+            <p class="mt-2 text-base text-muted-foreground max-w-lg">
+              Complete these 4 essentials before you arrive — in this exact order.
+            </p>
+          </div>
+          <a
+            href={getRelativeLocaleUrl(locale, "tags/toolkit")}
+            class="group inline-flex items-center gap-1.5 text-sm font-semibold text-accent transition-all hover:gap-2.5"
+          >
+            All toolkit guides <IconArrowRight class="h-4 w-4" />
+          </a>
+        </div>
+
+        <!-- Desktop: Horizontal timeline; Mobile: Vertical stack -->
+        <div class="relative">
+
+          <!-- Connecting line (desktop only) -->
+          <div class="absolute left-0 right-0 top-[3.25rem] hidden h-0.5 bg-gradient-to-r from-transparent via-border to-transparent lg:block" aria-hidden="true"></div>
+
+          <!-- Steps grid -->
+          <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+            {survivalSteps.map((step, i) => (
+              <a
+                href={step.href}
+                class:list={[
+                  "group relative flex flex-col gap-4 overflow-hidden rounded-2xl border bg-[var(--card-bg)] p-6 shadow-sm",
+                  "transition-all duration-300 hover:shadow-xl hover:-translate-y-2 hover:border-accent/30",
+                  `bg-gradient-to-br ${step.color}`,
+                  step.border,
+                ]}
+              >
+                <!-- Step number + icon circle -->
+                <div class="flex items-center gap-3">
+                  <div class="relative flex-shrink-0">
+                    <!-- Circle bg -->
+                    <div class="flex size-14 items-center justify-center rounded-full border-2 border-current bg-background text-2xl shadow-sm transition-transform duration-300 group-hover:scale-110 group-hover:rotate-6">
+                      {step.icon}
+                    </div>
+                    <!-- Step badge -->
+                    <span class="absolute -top-1.5 -right-1.5 flex size-5 items-center justify-center rounded-full bg-accent text-[9px] font-black text-white shadow">
+                      {step.step}
+                    </span>
+                  </div>
+                  <!-- Connector dot (desktop) — hidden on mobile -->
+                  <div class="hidden h-0.5 flex-1 bg-border lg:block" aria-hidden="true"></div>
+                </div>
+
+                <!-- Content -->
+                <div class="flex-1">
+                  <h3
+                    class="mb-1.5 font-bold text-foreground transition-colors group-hover:text-accent"
+                    style="font-family: var(--font-playfair), Georgia, serif;"
+                  >
+                    {step.title}
+                  </h3>
+                  <p class="text-sm leading-relaxed text-muted-foreground">{step.short}</p>
+                </div>
+
+                <!-- CTA -->
+                <span class="flex items-center gap-1.5 text-sm font-semibold text-accent">
+                  Read guide
+                  <IconArrowRight class="h-3.5 w-3.5 transition-transform group-hover:translate-x-1" />
+                </span>
+
+                <!-- Progress indicator -->
+                <div class="absolute bottom-0 left-0 right-0 h-0.5 origin-left scale-x-0 bg-accent transition-transform duration-500 ease-out group-hover:scale-x-100"></div>
+              </a>
+            ))}
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ═══════════════════════════════════════════
+         EXPLORE BY INTEREST — Intent-based themes
+    ════════════════════════════════════════════ -->
+    <section id="travel-themes" class="border-b border-border py-16 observe-fade">
+      <div class="mx-auto max-w-7xl px-4 sm:px-6">
+        <div class="mb-10 text-center">
+          <p class="overline mb-2">Find your trip</p>
+          <h2
+            class="text-3xl font-extrabold text-foreground sm:text-4xl"
+            style="font-family: var(--font-playfair), Georgia, serif;"
+          >
+            Explore by Interest
+          </h2>
+          <p class="mt-2 text-base text-muted-foreground max-w-lg mx-auto">
+            What kind of traveller are you? Find guides tailored to your style.
+          </p>
+        </div>
+
+        <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          {travelThemes.map((theme) => (
+            <a
+              href={theme.href}
+              class="group relative overflow-hidden rounded-2xl border border-border/60 shadow-sm transition-all duration-400 hover:shadow-2xl hover:-translate-y-1.5 hover:border-accent/25"
+              style="min-height: 200px;"
+            >
+              <!-- Background image -->
+              <img
+                src={theme.image}
+                alt={theme.title}
+                class="absolute inset-0 h-full w-full object-cover transition-transform duration-700 group-hover:scale-110"
+                loading="lazy"
+              />
+              <!-- Gradient overlay -->
+              <div class="absolute inset-0 bg-gradient-to-t from-black/82 via-black/30 to-transparent"></div>
+
+              <!-- Tag badge -->
+              <span class:list={["absolute top-4 right-4 rounded-full px-2.5 py-1 text-[10px] font-black uppercase tracking-widest text-white shadow-sm", theme.tagColor]}>
+                {theme.tag}
+              </span>
+
+              <!-- Content -->
+              <div class="absolute bottom-0 left-0 right-0 p-5 transition-transform duration-300 group-hover:-translate-y-1">
+                <div class="mb-1.5 flex items-center gap-2">
+                  <span class="text-2xl" aria-hidden="true">{theme.icon}</span>
+                  <h3
+                    class="text-lg font-extrabold text-white drop-shadow-lg"
+                    style="font-family: var(--font-playfair), Georgia, serif;"
+                  >
+                    {theme.title}
+                  </h3>
+                </div>
+                <p class="text-sm text-white/78 leading-snug">{theme.desc}</p>
+                <span class="mt-3 inline-flex items-center gap-1.5 text-xs font-bold text-amber-300 transition-all group-hover:gap-2.5">
+                  Explore guides
+                  <svg xmlns="http://www.w3.org/2000/svg" class="h-3.5 w-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+                  </svg>
+                </span>
+              </div>
             </a>
           ))}
         </div>

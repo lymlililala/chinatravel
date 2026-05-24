@@ -1,0 +1,368 @@
+---
+/**
+ * MobileBottomNav.astro
+ * Floating bottom navigation bar for mobile — visible only on small screens.
+ * Includes: Home, Destinations, Toolkit, Saved (LocalStorage bookmarks), Search.
+ */
+import { getRelativeLocaleUrl } from "astro:i18n";
+import { stripBase, stripLocale } from "@/utils/withBase";
+import config from "@/config";
+
+const locale = Astro.currentLocale ?? config.site.lang;
+
+// Determine active tab
+const relativePath = stripBase(Astro.url.pathname);
+const pathWithoutTrailingSlash =
+  relativePath.endsWith("/") && relativePath !== "/"
+    ? relativePath.slice(0, -1)
+    : relativePath;
+const currentPath = stripLocale(pathWithoutTrailingSlash, locale);
+
+const isActive = (path: string) => {
+  const cp = currentPath.split("/").filter(Boolean);
+  const pp = path.split("/").filter(Boolean);
+  return currentPath === path || cp[0] === pp[0];
+};
+
+const navItems = [
+  {
+    label: "Home",
+    href: getRelativeLocaleUrl(locale, ""),
+    activeFor: "/",
+    icon: `<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"/></svg>`,
+  },
+  {
+    label: "Destinations",
+    href: getRelativeLocaleUrl(locale, "tags"),
+    activeFor: "/tags",
+    icon: `<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path stroke-linecap="round" stroke-linejoin="round" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>`,
+  },
+  {
+    label: "Toolkit",
+    href: getRelativeLocaleUrl(locale, "toolkit"),
+    activeFor: "/toolkit",
+    icon: `<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"/><path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"/></svg>`,
+  },
+  {
+    label: "Saved",
+    href: "#saved",
+    activeFor: "#saved",
+    id: "mobile-saved-btn",
+    icon: `<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z"/></svg>`,
+  },
+  {
+    label: "Search",
+    href: getRelativeLocaleUrl(locale, "search"),
+    activeFor: "/search",
+    icon: `<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-4.35-4.35M11 19a8 8 0 100-16 8 8 0 000 16z"/></svg>`,
+  },
+];
+---
+
+<!-- Mobile bottom nav — only visible on small screens (lg:hidden) -->
+<nav
+  id="mobile-bottom-nav"
+  class="lg:hidden fixed bottom-0 left-0 right-0 z-50 border-t border-border bg-background/95 backdrop-blur-xl"
+  aria-label="Mobile navigation"
+  style="padding-bottom: env(safe-area-inset-bottom, 0);"
+>
+  <div class="grid grid-cols-5">
+    {navItems.map(item => {
+      const active = item.id === "mobile-saved-btn" ? false : isActive(item.activeFor);
+      return (
+        <a
+          href={item.href}
+          id={item.id}
+          class:list={[
+            "mobile-nav-item flex flex-col items-center justify-center gap-0.5 min-h-[56px] px-1 py-2 text-[10px] font-semibold transition-all duration-200 active:scale-90",
+            active
+              ? "text-accent"
+              : "text-muted-foreground hover:text-foreground",
+          ]}
+          aria-label={item.label}
+          aria-current={active ? "page" : undefined}
+        >
+          <Fragment set:html={item.icon} />
+          <span>{item.label}</span>
+          {/* Active dot indicator */}
+          {active && (
+            <span class="absolute bottom-1.5 h-1 w-1 rounded-full bg-accent" aria-hidden="true"></span>
+          )}
+        </a>
+      );
+    })}
+  </div>
+</nav>
+
+<!-- Saved articles drawer (slides up from bottom) -->
+<div
+  id="saved-drawer"
+  class="lg:hidden fixed inset-x-0 bottom-0 z-[60] translate-y-full transition-transform duration-350 ease-out"
+  role="dialog"
+  aria-modal="true"
+  aria-label="Saved articles"
+  hidden
+>
+  <div class="rounded-t-2xl border-t border-border bg-background shadow-2xl">
+    <!-- Drawer handle -->
+    <div class="flex justify-center pt-3 pb-1">
+      <div class="h-1 w-10 rounded-full bg-border"></div>
+    </div>
+    <!-- Header -->
+    <div class="flex items-center justify-between px-5 py-3 border-b border-border/60">
+      <h2 class="text-base font-bold text-foreground">Saved Articles</h2>
+      <button
+        id="saved-drawer-close"
+        class="flex size-8 items-center justify-center rounded-lg text-muted-foreground hover:bg-muted hover:text-foreground transition-colors"
+        aria-label="Close saved articles"
+      >
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"/>
+        </svg>
+      </button>
+    </div>
+    <!-- Saved list -->
+    <div id="saved-list" class="max-h-[60vh] overflow-y-auto px-5 py-4">
+      <p id="saved-empty" class="py-8 text-center text-sm text-muted-foreground">
+        <span class="mb-2 block text-3xl">🔖</span>
+        No saved articles yet.<br />
+        <span class="text-xs">Tap the bookmark icon on any article to save it for later.</span>
+      </p>
+      <!-- Saved items rendered by JS -->
+    </div>
+    <!-- Clear all button -->
+    <div class="border-t border-border/60 px-5 py-3" style="padding-bottom: max(env(safe-area-inset-bottom, 0px), 0.75rem); margin-bottom: 56px;">
+      <button
+        id="saved-clear-all"
+        class="w-full rounded-xl border border-border py-2.5 text-sm font-semibold text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
+      >
+        Clear all saved articles
+      </button>
+    </div>
+  </div>
+</div>
+
+<!-- Overlay backdrop for drawer -->
+<div
+  id="saved-backdrop"
+  class="lg:hidden fixed inset-0 z-[55] bg-black/50 opacity-0 transition-opacity duration-300 pointer-events-none"
+  aria-hidden="true"
+></div>
+
+<!-- Save button injected into article pages -->
+<script is:inline data-astro-rerun>
+(function () {
+  const SAVE_KEY = "rct_saved_articles";
+
+  function getSaved() {
+    try {
+      return JSON.parse(localStorage.getItem(SAVE_KEY) || "[]");
+    } catch {
+      return [];
+    }
+  }
+
+  function setSaved(items) {
+    localStorage.setItem(SAVE_KEY, JSON.stringify(items));
+  }
+
+  function isSaved(url) {
+    return getSaved().some(item => item.url === url);
+  }
+
+  function saveArticle(article) {
+    const saved = getSaved();
+    if (!saved.some(item => item.url === article.url)) {
+      saved.unshift(article);
+      setSaved(saved.slice(0, 30)); // keep max 30
+    }
+  }
+
+  function removeArticle(url) {
+    setSaved(getSaved().filter(item => item.url !== url));
+  }
+
+  // ── Inject save button into article header on post pages ──
+  function injectSaveButton() {
+    const articleHeader = document.querySelector("#main-content header");
+    if (!articleHeader || document.getElementById("article-save-btn")) return;
+
+    const title = document.title.split(" | ")[0] || document.title;
+    const url = window.location.pathname;
+    const saved = isSaved(url);
+
+    const btn = document.createElement("button");
+    btn.id = "article-save-btn";
+    btn.setAttribute("aria-label", saved ? "Remove from saved" : "Save this article");
+    btn.setAttribute("title", saved ? "Remove from saved" : "Save this article");
+    btn.className = [
+      "inline-flex items-center gap-1.5 rounded-full border px-3 py-1.5 text-xs font-semibold transition-all duration-200",
+      "active:scale-95 hover:shadow-sm",
+      saved
+        ? "border-accent/40 bg-accent/10 text-accent"
+        : "border-border bg-background text-muted-foreground hover:border-accent/40 hover:text-accent hover:bg-accent/8",
+    ].join(" ");
+    btn.innerHTML = saved
+      ? `<svg xmlns="http://www.w3.org/2000/svg" class="h-3.5 w-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z"/></svg> Saved`
+      : `<svg xmlns="http://www.w3.org/2000/svg" class="h-3.5 w-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z"/></svg> Save`;
+
+    btn.addEventListener("click", () => {
+      const nowSaved = isSaved(url);
+      if (nowSaved) {
+        removeArticle(url);
+        btn.className = btn.className.replace("border-accent/40 bg-accent/10 text-accent", "border-border bg-background text-muted-foreground hover:border-accent/40 hover:text-accent hover:bg-accent/8");
+        btn.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" class="h-3.5 w-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z"/></svg> Save`;
+        btn.setAttribute("aria-label", "Save this article");
+      } else {
+        saveArticle({ url, title });
+        btn.className = btn.className.replace("border-border bg-background text-muted-foreground hover:border-accent/40 hover:text-accent hover:bg-accent/8", "border-accent/40 bg-accent/10 text-accent");
+        btn.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" class="h-3.5 w-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z"/></svg> Saved`;
+        btn.setAttribute("aria-label", "Remove from saved");
+        // Flash feedback
+        btn.style.transform = "scale(1.15)";
+        setTimeout(() => { btn.style.transform = ""; }, 200);
+      }
+      updateSavedCount();
+    });
+
+    // Insert into the meta row (after the existing meta line)
+    const metaRow = articleHeader.querySelector(".flex.flex-wrap.items-center.gap-x-4");
+    if (metaRow) {
+      metaRow.appendChild(btn);
+    } else {
+      articleHeader.appendChild(btn);
+    }
+  }
+
+  // ── Saved count badge on bottom nav ──
+  function updateSavedCount() {
+    const savedBtn = document.getElementById("mobile-saved-btn");
+    if (!savedBtn) return;
+    const count = getSaved().length;
+    let badge = savedBtn.querySelector(".saved-badge");
+    if (count > 0) {
+      if (!badge) {
+        badge = document.createElement("span");
+        badge.className = "saved-badge absolute -top-1 -right-1 flex size-4 items-center justify-center rounded-full bg-accent text-[9px] font-black text-white";
+        savedBtn.style.position = "relative";
+        savedBtn.appendChild(badge);
+      }
+      badge.textContent = count > 9 ? "9+" : String(count);
+    } else if (badge) {
+      badge.remove();
+    }
+  }
+
+  // ── Saved drawer ──
+  function renderSavedList() {
+    const listEl = document.getElementById("saved-list");
+    const emptyEl = document.getElementById("saved-empty");
+    if (!listEl || !emptyEl) return;
+
+    const saved = getSaved();
+    if (saved.length === 0) {
+      emptyEl.style.display = "";
+      // Remove any article items
+      listEl.querySelectorAll(".saved-item").forEach(el => el.remove());
+      return;
+    }
+    emptyEl.style.display = "none";
+    listEl.querySelectorAll(".saved-item").forEach(el => el.remove());
+
+    saved.forEach(item => {
+      const el = document.createElement("div");
+      el.className = "saved-item flex items-center gap-3 py-3 border-b border-border/50 last:border-0";
+      el.innerHTML = `
+        <a href="${item.url}" class="flex-1 min-w-0 text-sm font-semibold text-foreground hover:text-accent line-clamp-2 leading-snug transition-colors">${item.title}</a>
+        <button class="saved-remove flex-shrink-0 flex size-7 items-center justify-center rounded-lg text-muted-foreground hover:bg-muted hover:text-foreground transition-colors" data-url="${item.url}" aria-label="Remove">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-3.5 w-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"/></svg>
+        </button>
+      `;
+      el.querySelector(".saved-remove")?.addEventListener("click", e => {
+        const url = (e.currentTarget).dataset.url;
+        if (url) {
+          removeArticle(url);
+          el.remove();
+          updateSavedCount();
+          if (getSaved().length === 0) renderSavedList();
+        }
+      });
+      listEl.appendChild(el);
+    });
+  }
+
+  function openDrawer() {
+    const drawer = document.getElementById("saved-drawer");
+    const backdrop = document.getElementById("saved-backdrop");
+    if (!drawer || !backdrop) return;
+    renderSavedList();
+    drawer.hidden = false;
+    backdrop.classList.remove("pointer-events-none", "opacity-0");
+    backdrop.classList.add("opacity-100", "pointer-events-auto");
+    requestAnimationFrame(() => {
+      drawer.style.transform = "translateY(0)";
+    });
+    document.body.style.overflow = "hidden";
+  }
+
+  function closeDrawer() {
+    const drawer = document.getElementById("saved-drawer");
+    const backdrop = document.getElementById("saved-backdrop");
+    if (!drawer || !backdrop) return;
+    drawer.style.transform = "";
+    backdrop.classList.remove("opacity-100", "pointer-events-auto");
+    backdrop.classList.add("opacity-0", "pointer-events-none");
+    setTimeout(() => {
+      drawer.hidden = true;
+      document.body.style.overflow = "";
+    }, 350);
+  }
+
+  // ── Event listeners ──
+  function init() {
+    // Save button on article pages
+    injectSaveButton();
+
+    // Saved count badge
+    updateSavedCount();
+
+    // Saved button in bottom nav
+    const savedBtn = document.getElementById("mobile-saved-btn");
+    if (savedBtn) {
+      savedBtn.addEventListener("click", e => {
+        e.preventDefault();
+        openDrawer();
+      });
+    }
+
+    // Close drawer
+    document.getElementById("saved-drawer-close")?.addEventListener("click", closeDrawer);
+    document.getElementById("saved-backdrop")?.addEventListener("click", closeDrawer);
+
+    // Clear all
+    document.getElementById("saved-clear-all")?.addEventListener("click", () => {
+      setSaved([]);
+      updateSavedCount();
+      renderSavedList();
+    });
+
+    // Add padding-bottom to main content on mobile so bottom nav doesn't cover it
+    const mainContent = document.getElementById("main-content");
+    if (mainContent && window.innerWidth < 1024) {
+      mainContent.style.paddingBottom = "calc(56px + env(safe-area-inset-bottom, 0px))";
+    }
+  }
+
+  document.addEventListener("astro:page-load", init);
+})();
+</script>
+
+<style>
+  #saved-drawer {
+    transform: translateY(100%);
+    transition: transform 0.35s cubic-bezier(0.32, 0.72, 0, 1);
+  }
+  #mobile-bottom-nav a {
+    position: relative;
+  }
+</style>

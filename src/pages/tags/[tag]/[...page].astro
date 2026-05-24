@@ -1,13 +1,13 @@
 ---
 import { getCollection } from "astro:content";
 import type { GetStaticPathsOptions } from "astro";
+import { getRelativeLocaleUrl } from "astro:i18n";
 import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
-import Main from "@/components/Main.astro";
-import Breadcrumb from "@/components/Breadcrumb.astro";
 import Card from "@/components/Card.astro";
 import Footer from "@/components/Footer.astro";
 import Pagination from "@/components/Pagination.astro";
+import IconArrowRight from "@/assets/icons/IconArrowRight.svg";
 import { getUniqueTags } from "@/utils/getUniqueTags";
 import { getSortedPosts } from "@/utils/getSortedPosts";
 import { slugifyAll } from "@/utils/slugify";
@@ -32,26 +32,352 @@ export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
 }
 
 const { page, tagName } = Astro.props;
+const { tag } = Astro.params;
 
 const locale = Astro.currentLocale ?? config.site.lang;
 const t = useTranslations(locale);
+
+// ── Destination metadata for known city/region tags ──
+type DestinationMeta = {
+  emoji: string;
+  region: string;
+  heroImage: string;
+  tagline: string;
+  bestTime: string;
+  visaStatus: string;
+  visaColor: string;
+  highlights: string[];
+  suggestedDays: string;
+  nearbyTags: Array<{ tag: string; label: string }>;
+};
+
+const destinationMeta: Record<string, DestinationMeta> = {
+  beijing: {
+    emoji: "🏯",
+    region: "North China",
+    heroImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1600&q=85",
+    tagline: "Imperial grandeur, ancient hutongs, and the world's greatest concentration of UNESCO heritage sites",
+    bestTime: "Apr–May & Sep–Oct",
+    visaStatus: "144-hr & 15-day visa-free",
+    visaColor: "text-emerald-600 dark:text-emerald-400",
+    highlights: ["Forbidden City", "Great Wall", "Summer Palace", "Temple of Heaven", "Nanluoguxiang"],
+    suggestedDays: "4–6 days",
+    nearbyTags: [{ tag: "great-wall", label: "Great Wall" }, { tag: "tianjin", label: "Tianjin" }, { tag: "pingyao", label: "Pingyao" }],
+  },
+  shanghai: {
+    emoji: "🌆",
+    region: "East China",
+    heroImage: "https://images.unsplash.com/photo-1538428494232-9c0d8a3ab403?w=1600&q=85",
+    tagline: "A city of art-deco skylines, former French Concession leafy boulevards, and relentless forward momentum",
+    bestTime: "Mar–May & Sep–Nov",
+    visaStatus: "144-hr & 15-day visa-free",
+    visaColor: "text-emerald-600 dark:text-emerald-400",
+    highlights: ["The Bund", "Yu Garden", "Tianzifang", "Pudong Skyline", "French Concession"],
+    suggestedDays: "3–5 days",
+    nearbyTags: [{ tag: "hangzhou", label: "Hangzhou" }, { tag: "suzhou", label: "Suzhou" }, { tag: "nanjing", label: "Nanjing" }],
+  },
+  xian: {
+    emoji: "🏺",
+    region: "Northwest China",
+    heroImage: "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=1600&q=85",
+    tagline: "The ancient capital of 13 dynasties, home to the Terracotta Army and the original start of the Silk Road",
+    bestTime: "Apr–Jun & Sep–Nov",
+    visaStatus: "Visa required (most nationalities)",
+    visaColor: "text-amber-600 dark:text-amber-400",
+    highlights: ["Terracotta Army", "City Wall", "Muslim Quarter", "Big Wild Goose Pagoda", "Huaqing Hot Springs"],
+    suggestedDays: "3–4 days",
+    nearbyTags: [{ tag: "dunhuang", label: "Dunhuang" }, { tag: "luoyang", label: "Luoyang" }, { tag: "zhangye", label: "Zhangye" }],
+  },
+  chengdu: {
+    emoji: "🐼",
+    region: "Southwest China",
+    heroImage: "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=1600&q=85",
+    tagline: "Giant pandas, legendary hotpot, and a laid-back café culture that makes every visitor want to move here",
+    bestTime: "Mar–Jun & Sep–Nov",
+    visaStatus: "Visa required (most nationalities)",
+    visaColor: "text-amber-600 dark:text-amber-400",
+    highlights: ["Giant Panda Base", "Jinli Ancient Street", "Kuanzhai Alley", "Leshan Giant Buddha", "Sichuan Opera"],
+    suggestedDays: "3–5 days",
+    nearbyTags: [{ tag: "jiuzhaigou", label: "Jiuzhaigou" }, { tag: "leshan", label: "Leshan" }, { tag: "chongqing", label: "Chongqing" }],
+  },
+  guilin: {
+    emoji: "⛰️",
+    region: "South China",
+    heroImage: "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=1600&q=85",
+    tagline: "Surreal karst peaks rising from the Li River — the landscape that defines China's scenic reputation",
+    bestTime: "Apr–Oct",
+    visaStatus: "Visa required (most nationalities)",
+    visaColor: "text-amber-600 dark:text-amber-400",
+    highlights: ["Li River Cruise", "Yangshuo", "Reed Flute Cave", "Longji Rice Terraces", "Elephant Trunk Hill"],
+    suggestedDays: "4–6 days",
+    nearbyTags: [{ tag: "yangshuo", label: "Yangshuo" }, { tag: "guangzhou", label: "Guangzhou" }, { tag: "guizhou", label: "Guizhou" }],
+  },
+  hangzhou: {
+    emoji: "🍵",
+    region: "East China",
+    heroImage: "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86?w=1600&q=85",
+    tagline: "West Lake's misty waters, Dragon Well tea plantations, and the gentle poetry of traditional Chinese landscapes",
+    bestTime: "Mar–May & Sep–Nov",
+    visaStatus: "144-hr & 15-day visa-free",
+    visaColor: "text-emerald-600 dark:text-emerald-400",
+    highlights: ["West Lake", "Lingyin Temple", "Longjing Tea Village", "Song Dynasty Town", "Six Harmonies Pagoda"],
+    suggestedDays: "2–3 days",
+    nearbyTags: [{ tag: "shanghai", label: "Shanghai" }, { tag: "suzhou", label: "Suzhou" }, { tag: "huangshan", label: "Huangshan" }],
+  },
+  yunnan: {
+    emoji: "🌈",
+    region: "Southwest China",
+    heroImage: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1600&q=85",
+    tagline: "Where 26 ethnic minorities, ancient trading towns, and the Himalayas' edge create China's most diverse province",
+    bestTime: "Oct–Apr (dry season)",
+    visaStatus: "Visa required (most nationalities)",
+    visaColor: "text-amber-600 dark:text-amber-400",
+    highlights: ["Lijiang Old Town", "Dali Old City", "Shangri-La", "Tiger Leaping Gorge", "Stone Forest"],
+    suggestedDays: "7–14 days",
+    nearbyTags: [{ tag: "lijiang", label: "Lijiang" }, { tag: "dali", label: "Dali" }, { tag: "shangri-la", label: "Shangri-La" }],
+  },
+  tibet: {
+    emoji: "🏔️",
+    region: "Southwest China",
+    heroImage: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=1600&q=85",
+    tagline: "The roof of the world — Potala Palace, high-altitude monasteries, and landscapes unlike anywhere on Earth",
+    bestTime: "Apr–Oct",
+    visaStatus: "Tibet Permit required + Chinese visa",
+    visaColor: "text-red-600 dark:text-red-400",
+    highlights: ["Potala Palace", "Jokhang Temple", "Barkhor Street", "Namtso Lake", "Samye Monastery"],
+    suggestedDays: "7–10 days",
+    nearbyTags: [{ tag: "qinghai", label: "Qinghai" }, { tag: "chengdu", label: "Chengdu" }, { tag: "sichuan", label: "Sichuan" }],
+  },
+  harbin: {
+    emoji: "❄️",
+    region: "Northeast China",
+    heroImage: "https://images.unsplash.com/photo-1578894381163-e72c17f2d45f?w=1600&q=85",
+    tagline: "The magical Ice and Snow World festival transforms the coldest city in China into a luminous winter fairyland",
+    bestTime: "Dec–Feb (Ice Festival season)",
+    visaStatus: "Visa required (most nationalities)",
+    visaColor: "text-amber-600 dark:text-amber-400",
+    highlights: ["Ice and Snow World", "Sun Island", "Zhongyang Street", "Saint Sophia Cathedral", "Siberian Tiger Park"],
+    suggestedDays: "3–4 days",
+    nearbyTags: [{ tag: "dalian", label: "Dalian" }, { tag: "changbai", label: "Changbai Mts" }],
+  },
+  jiuzhaigou: {
+    emoji: "💎",
+    region: "Southwest China",
+    heroImage: "https://images.unsplash.com/photo-1504198266287-1659872e6590?w=1600&q=85",
+    tagline: "Impossibly turquoise lakes and multi-tiered waterfalls in a Tibetan valley that seems painted, not real",
+    bestTime: "Sep–Nov (autumn colours) & Apr–Jun",
+    visaStatus: "Visa required (most nationalities)",
+    visaColor: "text-amber-600 dark:text-amber-400",
+    highlights: ["Five Flower Lake", "Nuorilang Waterfall", "Long Lake", "Shuzheng Valley", "Panda Lake"],
+    suggestedDays: "2–3 days",
+    nearbyTags: [{ tag: "chengdu", label: "Chengdu" }, { tag: "huanglong", label: "Huanglong" }],
+  },
+};
+
+// Get destination meta for current tag (if any)
+const destMeta = destinationMeta[tag ?? ""];
+const isDestinationTag = Boolean(destMeta);
+
+// Thumbnail for the hero image
+const heroImage = destMeta?.heroImage ?? `https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=1600&q=85`;
 ---
 
 <Layout title={`${t.pages.tagTitle}: ${tagName} | ${config.site.title}`}>
   <Header />
 
-  <Breadcrumb />
+  <main id="main-content">
 
-  <Main
-    pageTitle={`${t.pages.tagTitle}: ${tagName}`}
-    pageDesc={`${t.pages.tagDesc} "${tagName}".`}
-  >
-    <ul>
-      {page.data.map(data => <Card {...data} />)}
-    </ul>
-  </Main>
+    {isDestinationTag ? (
+      <>
+        <!-- ── Destination Hero Banner ── -->
+        <div class="relative overflow-hidden" style="min-height: 340px;">
+          <img
+            src={heroImage}
+            alt={tagName}
+            class="absolute inset-0 h-full w-full object-cover"
+            loading="eager"
+          />
+          <div class="absolute inset-0 bg-gradient-to-b from-black/55 via-black/25 to-black/80"></div>
+          <div class="absolute inset-0 bg-gradient-to-br from-transparent to-black/20"></div>
 
-  <Pagination {page} />
+          <div class="relative mx-auto max-w-7xl px-4 py-16 sm:px-6 sm:py-20">
+            <!-- Breadcrumb -->
+            <nav class="mb-5 flex items-center gap-2 text-sm text-white/65" aria-label="Breadcrumb">
+              <a href={getRelativeLocaleUrl(locale, "")} class="transition-colors hover:text-white">Home</a>
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-3.5 w-3.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+              <a href={getRelativeLocaleUrl(locale, "tags")} class="transition-colors hover:text-white">Destinations</a>
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-3.5 w-3.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+              <span class="text-white/85">{tagName}</span>
+            </nav>
 
-  <Footer noMarginTop={page.lastPage > 1} />
+            <!-- Title -->
+            <div class="flex items-center gap-3 mb-3">
+              <span class="text-4xl sm:text-5xl" aria-hidden="true">{destMeta.emoji}</span>
+              <h1
+                class="text-3xl font-extrabold text-white drop-shadow-lg sm:text-5xl"
+                style="font-family: var(--font-playfair), Georgia, serif; letter-spacing: -0.02em;"
+              >
+                {tagName}
+              </h1>
+            </div>
+            <p class="mb-6 max-w-2xl text-base text-white/80 sm:text-lg leading-relaxed">
+              {destMeta.tagline}
+            </p>
+
+            <!-- Quick info chips -->
+            <div class="flex flex-wrap gap-2.5">
+              <span class="inline-flex items-center gap-1.5 rounded-full bg-white/15 border border-white/20 px-3 py-1.5 text-xs font-semibold text-white backdrop-blur-sm">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-3.5 w-3.5 text-amber-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>
+                Best time: {destMeta.bestTime}
+              </span>
+              <span class="inline-flex items-center gap-1.5 rounded-full bg-white/15 border border-white/20 px-3 py-1.5 text-xs font-semibold text-white backdrop-blur-sm">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-3.5 w-3.5 text-blue-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+                Stay: {destMeta.suggestedDays}
+              </span>
+              <span class="inline-flex items-center gap-1.5 rounded-full bg-white/15 border border-white/20 px-3 py-1.5 text-xs font-semibold text-white backdrop-blur-sm">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-3.5 w-3.5 text-emerald-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064"/></svg>
+                {destMeta.region}
+              </span>
+              <span class="inline-flex items-center gap-1.5 rounded-full bg-white/15 border border-white/20 px-3 py-1.5 text-xs font-semibold text-white/90 backdrop-blur-sm">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-3.5 w-3.5 text-white/75" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z"/></svg>
+                {destMeta.visaStatus}
+              </span>
+            </div>
+          </div>
+        </div>
+
+        <!-- ── Destination Info Cards ── -->
+        <div class="border-b border-border bg-[var(--section-alt)]">
+          <div class="mx-auto max-w-7xl px-4 py-8 sm:px-6">
+            <div class="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+
+              <!-- Top Highlights -->
+              <div class="rounded-2xl border border-border bg-[var(--card-bg)] p-5 shadow-sm">
+                <div class="mb-3 flex items-center gap-2">
+                  <span class="flex size-8 items-center justify-center rounded-lg bg-accent/10 text-base" aria-hidden="true">⭐</span>
+                  <h2 class="text-sm font-bold uppercase tracking-wider text-foreground">Top Highlights</h2>
+                </div>
+                <ul class="space-y-2">
+                  {destMeta.highlights.map((h, i) => (
+                    <li class="flex items-center gap-2 text-sm text-muted-foreground">
+                      <span class="flex size-5 flex-shrink-0 items-center justify-center rounded-full bg-accent/12 text-[10px] font-black text-accent">{i + 1}</span>
+                      {h}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+
+              <!-- Visa & Entry -->
+              <div class="rounded-2xl border border-border bg-[var(--card-bg)] p-5 shadow-sm">
+                <div class="mb-3 flex items-center gap-2">
+                  <span class="flex size-8 items-center justify-center rounded-lg bg-accent/10 text-base" aria-hidden="true">🛂</span>
+                  <h2 class="text-sm font-bold uppercase tracking-wider text-foreground">Visa & Entry</h2>
+                </div>
+                <p class:list={["mb-3 text-sm font-semibold", destMeta.visaColor]}>{destMeta.visaStatus}</p>
+                <p class="mb-4 text-xs leading-relaxed text-muted-foreground">
+                  {tag === "beijing" || tag === "shanghai" || tag === "hangzhou"
+                    ? "Citizens of many countries can enter China visa-free for up to 15 days, or use the 144-hour transit visa-free scheme for shorter visits."
+                    : tag === "tibet"
+                    ? "In addition to a Chinese visa, all foreign visitors to Tibet need a separate Tibet Travel Permit (TTP), available through authorised tour operators."
+                    : "Check your nationality's eligibility for visa-free entry or the 144-hour transit exemption. Most visitors from Western countries need a standard tourist (L) visa."
+                  }
+                </p>
+                <a
+                  href={getRelativeLocaleUrl(locale, "posts/china-visa-entry-guide")}
+                  class="inline-flex items-center gap-1.5 text-xs font-bold text-accent transition-all hover:gap-2"
+                >
+                  Full visa guide <IconArrowRight class="h-3 w-3" />
+                </a>
+              </div>
+
+              <!-- Best Time & Weather -->
+              <div class="rounded-2xl border border-border bg-[var(--card-bg)] p-5 shadow-sm">
+                <div class="mb-3 flex items-center gap-2">
+                  <span class="flex size-8 items-center justify-center rounded-lg bg-accent/10 text-base" aria-hidden="true">🌤️</span>
+                  <h2 class="text-sm font-bold uppercase tracking-wider text-foreground">Best Time to Visit</h2>
+                </div>
+                <p class="mb-2 text-sm font-semibold text-foreground">{destMeta.bestTime}</p>
+                <p class="mb-4 text-xs leading-relaxed text-muted-foreground">
+                  Suggested stay: <strong class="text-foreground">{destMeta.suggestedDays}</strong>. Avoid the Golden Week holiday (1–7 October) and Spring Festival (Jan/Feb) — crowds are enormous and prices peak.
+                </p>
+                <a
+                  href={getRelativeLocaleUrl(locale, "posts/best-time-to-visit-china")}
+                  class="inline-flex items-center gap-1.5 text-xs font-bold text-accent transition-all hover:gap-2"
+                >
+                  Seasonal travel guide <IconArrowRight class="h-3 w-3" />
+                </a>
+              </div>
+            </div>
+
+            <!-- Nearby destinations -->
+            {destMeta.nearbyTags.length > 0 && (
+              <div class="mt-5">
+                <p class="mb-2.5 text-xs font-bold uppercase tracking-wider text-muted-foreground">Nearby destinations</p>
+                <div class="flex flex-wrap gap-2">
+                  {destMeta.nearbyTags.map(nearby => (
+                    <a
+                      href={getRelativeLocaleUrl(locale, `tags/${nearby.tag}`)}
+                      class="inline-flex items-center gap-1.5 rounded-full border border-border bg-[var(--card-bg)] px-3 py-1.5 text-xs font-semibold text-muted-foreground transition-all hover:border-accent/40 hover:text-accent hover:bg-accent/5"
+                    >
+                      <svg xmlns="http://www.w3.org/2000/svg" class="h-3 w-3" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/></svg>
+                      {nearby.label}
+                    </a>
+                  ))}
+                </div>
+              </div>
+            )}
+          </div>
+        </div>
+      </>
+    ) : (
+      <!-- ── Generic tag header (non-destination tags) ── -->
+      <div class="relative overflow-hidden border-b border-border bg-gradient-to-br from-background via-muted/40 to-background py-12 sm:py-16">
+        <div class="pointer-events-none absolute -top-20 -right-20 h-60 w-60 rounded-full bg-accent/5 blur-3xl"></div>
+        <div class="mx-auto max-w-7xl px-4 sm:px-6">
+          <nav class="mb-4 flex items-center gap-2 text-sm text-muted-foreground" aria-label="Breadcrumb">
+            <a href={getRelativeLocaleUrl(locale, "")} class="transition-colors hover:text-accent">Home</a>
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-3.5 w-3.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+            <a href={getRelativeLocaleUrl(locale, "tags")} class="transition-colors hover:text-accent">Destinations</a>
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-3.5 w-3.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+            <span class="text-foreground font-medium capitalize">{tagName}</span>
+          </nav>
+          <h1
+            class="text-4xl font-extrabold text-foreground sm:text-5xl capitalize"
+            style="font-family: var(--font-playfair), Georgia, serif; letter-spacing: -0.03em;"
+          >
+            {tagName}
+          </h1>
+          <p class="mt-3 text-base text-muted-foreground">
+            {t.pages.tagDesc} "<strong class="text-foreground">{tagName}</strong>".
+          </p>
+        </div>
+      </div>
+    )}
+
+    <!-- ── Articles grid ── -->
+    <div class="mx-auto max-w-7xl px-4 py-10 sm:px-6">
+      <div class="mb-6 flex items-center justify-between">
+        <p class="text-sm text-muted-foreground">
+          <strong class="text-foreground">{page.total}</strong> article{page.total !== 1 ? "s" : ""}
+          {page.lastPage > 1 && ` — page ${page.currentPage} of ${page.lastPage}`}
+        </p>
+        <a
+          href={getRelativeLocaleUrl(locale, "tags")}
+          class="group inline-flex items-center gap-1.5 text-sm font-semibold text-muted-foreground transition-all hover:text-accent"
+        >
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7"/></svg>
+          All destinations
+        </a>
+      </div>
+
+      <ul class="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+        {page.data.map(data => <Card variant="h3" {...data} cardStyle="grid" />)}
+      </ul>
+
+      <Pagination {page} />
+    </div>
+
+  </main>
+
+  <Footer />
 </Layout>

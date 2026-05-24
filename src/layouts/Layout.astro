@@ -7,6 +7,7 @@ import { getAssetPath } from "@/utils/withBase";
 import config from "@/config";
 import "@/styles/global.css";
 import Analytics from "@vercel/analytics/astro";
+import MobileBottomNav from "@/components/MobileBottomNav.astro";
 
 type Props = {
   title?: string;
@@ -127,6 +128,7 @@ const rssHref = getRelativeLocaleUrl(
     class="bg-background font-app text-foreground selection:bg-accent/75 selection:text-accent-foreground flex min-h-svh flex-col"
   >
     <slot />
+    <MobileBottomNav />
     <Analytics />
     <script>
       import "@/scripts/theme";
