@@ -15,9 +15,15 @@ tags:
 description: "Complete guide to Ningxia Hui Autonomous Region — the mysterious Western Xia (Tangut) imperial tombs, Shapotou where the Yellow River meets the Tengger Desert, the Hui Islamic culinary culture, and the sand dunes of Zhongwei."
 ---
 
+![Shapotou desert Ningxia — the Yellow River making an impossible green arc through the Tengger Desert, with camels on the sand dunes and irrigated fields visible on the far bank](https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=1200&q=85)
+*Shapotou — the Yellow River curving through the Tengger Desert, a surreal meeting of river oasis and sand dunes at the ancient Silk Road crossing point*
+
 Ningxia Hui Autonomous Region (宁夏回族自治区) is one of China's smallest and least-visited autonomous regions — a narrow corridor along the Yellow River where, for 200 years (1038–1227 AD), a people called the Tangut ruled an empire called Western Xia (西夏) that controlled the Silk Road's most lucrative section. Their tombs are still here. So is the Yellow River, and the desert it barely holds at bay.
 
 ## Table of contents
+
+![Western Xia Imperial Tombs — the eroded earthen tomb mounds rising from the desert with the Helan Mountains behind, an eerie graveyard of a forgotten empire](https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=1200&q=85)
+*Western Xia Imperial Tombs — nine imperial mausolea of the 200-year Tangut empire, abandoned since the Mongol destruction of 1227, rising from the desert like ancient watchtowers*
 
 ## Western Xia Imperial Tombs (西夏王陵)
 

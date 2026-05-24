@@ -14,6 +14,9 @@ tags:
 description: "Discover Yangzhou — one of China's most historically significant canal cities, home to the Slender West Lake garden, the Grand Canal UNESCO heritage, and Huaiyang cuisine, one of China's eight classic culinary traditions."
 ---
 
+![Slender West Lake Yangzhou — the Five Pavilion Bridge reflected in the still water at dawn, with willow trees framing the lotus-shaped pavilions](https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86?w=1200&q=85)
+*Slender West Lake — Yangzhou's defining garden, with the iconic Five Pavilion Bridge built in 1757 reflected in the still water*
+
 Yangzhou (扬州) was once the wealthiest city in China — the commercial hub where the Grand Canal met the Yangtze River, controlling the salt trade that funded the Tang and Song empires. The poets and painters who documented Chinese civilisation at its Tang Dynasty height wrote about Yangzhou the way a contemporary writer might write about Paris.
 
 The wealth is gone, but the garden culture it created remains. Yangzhou has some of the finest gardens outside Suzhou, food of extraordinary refinement, and a pace of life that prioritises leisure in a way unusual for Chinese cities.
@@ -32,6 +35,9 @@ Yangzhou's defining attraction — a series of thin, winding waterways threaded 
 
 **Ticket:** ¥150. Open 7:30 AM – 6:00 PM.
 
+![Yangzhou Slender West Lake fishing terrace — the moon gates perfectly framing the Five Pavilion Bridge and White Pagoda in classical garden composition](https://images.unsplash.com/photo-1527576539890-dfa815648363?w=1200&q=85)
+*The Fishing Terrace at Slender West Lake — two round moon gates aligning the Five Pavilion Bridge and White Pagoda in perfect classical composition*
+
 ## Grand Canal Heritage (大运河)
 
 Yangzhou was the administrative headquarters for the Grand Canal system — the 1,800 km artificial waterway that connected Beijing to Hangzhou and was the circulatory system of the Chinese empire for 2,000 years.
@@ -39,6 +45,9 @@ Yangzhou was the administrative headquarters for the Grand Canal system — the 
 **Sanwan Wetland Park (三湾湿地公园):** The UNESCO-inscribed Grand Canal segment running through Yangzhou — a 7 km stretch of the original Ming-Qing canal with operating lock systems, ancient stone embankments, and a developed waterfront park. Free. The best place in China to understand the Grand Canal as a living infrastructure.
 
 **China Grand Canal Museum (扬州中国大运河博物馆):** Opened 2021 — an impressive new institution dedicated entirely to the 2,500-year history of the canal. Free entry; allow 2–3 hours.
+
+![Grand Canal Yangzhou — the ancient canal waterway lined with traditional Qing-era boat houses and the Ming Dynasty stone embankments still intact](https://images.unsplash.com/photo-1534430480872-3498386e7856?w=1200&q=85)
+*The Grand Canal at Yangzhou — the 2,500-year-old waterway that was the circulatory system of the Chinese empire, UNESCO-listed in 2014*
 
 ## Huaiyang Cuisine (淮扬菜)
 
@@ -51,6 +60,9 @@ Yangzhou is the heartland of Huaiyang cuisine — one of China's eight major reg
 **Lion's Head Meatball (狮子头):** Enormous soft-braised pork meatballs (steamed or braised) — the technique requires specific fat-to-lean proportions (3:7) and hand-mixing that develops the right texture. Emblematic of the Huaiyang patience with process.
 
 **Congee (扬州早茶):** The Yangzhou morning tea culture (different from Guangzhou's dim sum) centres on rice congee with accompanying dishes — preserved egg, pickled vegetables, tofu sheets, sesame cakes.
+
+![Yangzhou Huaiyang cuisine — Lion's Head braised pork meatballs served in a delicate clear broth with Chinese cabbage, representing the pinnacle of Huaiyang cooking](https://images.unsplash.com/photo-1563245372-f21724e3856d?w=1200&q=85)
+*Huaiyang Lion's Head Meatball — the 3:7 fat-to-lean ratio pork meatball slow-braised in clear broth, an emblem of Huaiyang culinary patience*
 
 ## Practical Tips
 

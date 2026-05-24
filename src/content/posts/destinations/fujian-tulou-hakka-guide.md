@@ -14,6 +14,9 @@ tags:
 description: "Complete guide to the Fujian Tulou — the UNESCO-listed Hakka earth buildings of southwestern Fujian. Massive circular and square fortified communal houses rising from tobacco and rice valleys, some continuously inhabited for 700 years."
 ---
 
+![Fujian Tulou aerial view — a perfectly circular five-story Hakka earth building surrounded by terraced fields, the single gate and central courtyard visible from above](https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=1200&q=85)
+*Fujian Tulou — UNESCO-listed Hakka earth buildings, some continuously inhabited for 700 years, massive circular fortified communities rising from agricultural valleys*
+
 The Fujian Tulou (福建土楼) are among the most extraordinary residential architecture in the world. Huge circular and square structures of rammed earth, some 5 stories high and 70 metres in diameter, containing hundreds of rooms arranged around a central courtyard — each building a self-sufficient community. They were built by the Hakka people (客家人) as defensive compounds and have been continuously inhabited for 400–700 years.
 
 In 2008, 46 of them were listed as a UNESCO World Heritage Site.
@@ -27,6 +30,9 @@ In 2008, 46 of them were listed as a UNESCO World Heritage Site.
 **Circular tulou (圆楼):** The most famous type — perfectly circular multi-story residential rings, with a single entrance gate, central open courtyard, and ancestor hall in the centre. Each floor of the ring contains rooms belonging to different families; kitchens and storage on the ground floor, living rooms on the second, bedrooms on upper floors.
 
 **Square tulou (方楼):** Rectangular versions — earlier in origin and considered more formal. The interior layout is otherwise similar.
+
+![Tulou interior courtyard — looking up from the central courtyard of a circular tulou, five stories of wooden balconies rising to the open sky above, laundry drying between levels](https://images.unsplash.com/photo-1570168007204-dfb528c6958f?w=1200&q=85)
+*Inside a tulou — the internal communal life of hundreds of family units sharing a single circular building, looking up through the open central well to the sky*
 
 ## The Main Tulou Clusters
 
@@ -42,11 +48,17 @@ The most visited cluster — specifically the **Hongkeng Village (洪坑村)** a
 
 **Chuxi Cluster:** A valley containing five tulou of different sizes and dates in a natural bowl setting — the most photogenic ensemble. The terraced fields around them show the agricultural life that sustained these communities.
 
+![Tianluokeng village tulou cluster — the famous 'four dishes and one soup' formation of four circular and one square tulou arranged on a terraced hillside, mist in the valley](https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=1200&q=85)
+*Tianluokeng's 'four dishes and one soup' — the most photographed tulou ensemble, five buildings on a natural bowl hillside creating an extraordinary composition*
+
 ### Nanjing (南靖)
 
 **Tianluokeng Village (田螺坑村):** The most-photographed tulou ensemble — four circular tulou and one square tulou arranged on a hillside terrace. Known as the "four dishes and one soup" (四菜一汤) formation. The aerial view from the hillside observation point, looking down at the circular buildings set in the terraced landscape, is the iconic tulou image.
 
 **Hekeng Village (河坑村):** 13 tulou in a small valley with a river running through it — less visited than Tianluokeng, with a more genuine village atmosphere. Several of the tulou are partially ruined, which paradoxically makes the inhabited ones more vivid by contrast.
+
+![Hekeng tulou village — 13 tulou buildings of different ages in a narrow valley with a river running between them, surrounded by terraced bamboo and tea cultivation](https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=1200&q=85)
+*Hekeng Tulou Village — 13 tulou in an intimate valley setting, less visited than Tianluokeng with a more authentic village atmosphere*
 
 ## Living in Tulou
 

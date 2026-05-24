@@ -16,30 +16,102 @@ const postUrl = getPostUrl(id, filePath, Astro.currentLocale);
 
 // Thumbnail map — all URLs verified accessible as of 2026-05
 const thumbnailMap: Record<string, string> = {
-  // Destinations — landmark photos
-  beijing:     "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=600&q=80",  // Great Wall autumn
-  shanghai:    "https://images.unsplash.com/photo-1538428494232-9c0d8a3ab403?w=600&q=80",  // Bund & Pudong skyline
-  xian:        "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=600&q=80",    // Terracotta Warriors
-  chengdu:     "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=600&q=80",  // Giant panda eating bamboo
-  guilin:      "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=600&q=80",  // Li River karst peaks
-  dali:        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80",    // Dali old town
-  hangzhou:    "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86?w=600&q=80",  // West Lake mist
-  tibet:       "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=600&q=80",  // Potala Palace
-  lijiang:     "https://images.unsplash.com/photo-1588666309990-d68f08e3d4a6?w=600&q=80",  // Lijiang old town
-  huangshan:   "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?w=600&q=80",  // Yellow Mountain sea of clouds
-  zhangjiajie: "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=600&q=80",  // Zhangjiajie pillars
-  dunhuang:    "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=600&q=80",  // Crescent Moon Lake sand dunes
-  sanya:       "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&q=80",  // Tropical beach
-  jiuzhaigou:  "https://images.unsplash.com/photo-1504198266287-1659872e6590?w=600&q=80",  // Turquoise lake
-  gulangyu:    "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=600&q=80",  // Gulangyu island
-  // Practical / toolkit topics
-  visa:        "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=600&q=80",  // Passport & airplane
-  payment:     "https://images.unsplash.com/photo-1556742111-a301076d9d18?w=600&q=80",    // Mobile payment QR
-  transport:   "https://images.unsplash.com/photo-1515658323406-25d61c141a6e?w=600&q=80",  // High-speed train
-  apps:        "https://images.unsplash.com/photo-1545893835-abaa50cbe628?w=600&q=80",    // Smartphone apps
-  food:        "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=600&q=80",  // Chinese street food dumplings
-  solo:        "https://images.unsplash.com/photo-1501555088652-021faa106b9b?w=600&q=80",  // Solo traveller with backpack
-  beginners:   "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=600&q=80",  // Travel planning map
+  // ── NORTH CHINA ──
+  beijing:        "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=600&q=80",  // Great Wall autumn
+  pingyao:        "https://images.unsplash.com/photo-1547245324-d777f6f3956b?w=600&q=80",    // Pingyao city wall
+  shanxi:         "https://images.unsplash.com/photo-1547245324-d777f6f3956b?w=600&q=80",    // Shanxi ancient city
+  datong:         "https://images.unsplash.com/photo-1584992236310-6ededdc08aa2?w=600&q=80",  // Yungang cave Buddha
+  hebei:          "https://images.unsplash.com/photo-1570168007204-dfb528c6958f?w=600&q=80",  // Chengde mountain resort
+  chengde:        "https://images.unsplash.com/photo-1570168007204-dfb528c6958f?w=600&q=80",  // Chengde summer palace
+  tianjin:        "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=600&q=80",  // European colonial street
+  // Inner Mongolia
+  innermongolia:  "https://images.unsplash.com/photo-1531761535209-180857e963b9?w=600&q=80",  // Hulunbuir grassland
+  hulunbuir:      "https://images.unsplash.com/photo-1531761535209-180857e963b9?w=600&q=80",  // Grassland & horses
+  // ── NORTHEAST ──
+  harbin:         "https://images.unsplash.com/photo-1578894381163-e72c17f2d45f?w=600&q=80",  // Ice and Snow World
+  jilin:          "https://images.unsplash.com/photo-1548013146-72479768bada?w=600&q=80",    // Rime ice trees
+  dalian:         "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=600&q=80",  // Coastal rock formations
+  shenyang:       "https://images.unsplash.com/photo-1591116851752-3f7f19f5e7b8?w=600&q=80",  // Imperial Palace
+  changbai:       "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=600&q=80",  // Changbai mountain lake
+  // ── EAST CHINA ──
+  shanghai:       "https://images.unsplash.com/photo-1538428494232-9c0d8a3ab403?w=600&q=80",  // Bund & Pudong skyline
+  hangzhou:       "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86?w=600&q=80",  // West Lake mist
+  qingdao:        "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=600&q=80",  // German old city red roofs
+  shandong:       "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=600&q=80",    // Qufu/culture heritage
+  qufu:           "https://images.unsplash.com/photo-1570168007204-dfb528c6958f?w=600&q=80",  // Kong Temple cypress
+  yangzhou:       "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86?w=600&q=80",  // Slender West Lake
+  jiangsu:        "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86?w=600&q=80",  // Garden / lake
+  ningbo:         "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=600&q=80",    // Putuoshan temple
+  zhoushan:       "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=600&q=80",    // Sacred island
+  wenzhou:        "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?w=600&q=80",  // Yandang mountain
+  zhejiang:       "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86?w=600&q=80",  // West Lake / Zhejiang
+  huangshan:      "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?w=600&q=80",  // Yellow Mountain clouds
+  anhui:          "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=600&q=80",    // Hongcun village
+  hongcun:        "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=600&q=80",    // Hongcun reflection
+  xidi:           "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=600&q=80",    // Huizhou village
+  // ── CENTRAL CHINA ──
+  wuhan:          "https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?w=600&q=80",  // Yellow Crane Tower
+  hubei:          "https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?w=600&q=80",  // Yellow Crane Tower night
+  changsha:       "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=600&q=80",  // Fenghuang stilt houses
+  fenghuang:      "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=600&q=80",  // Fenghuang river town
+  hunan:          "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=600&q=80",  // Zhangjiajie / Hunan
+  zhangjiajie:    "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=600&q=80",  // Zhangjiajie pillars
+  zhengzhou:      "https://images.unsplash.com/photo-1584992236310-6ededdc08aa2?w=600&q=80",  // Longmen Buddha
+  luoyang:        "https://images.unsplash.com/photo-1584992236310-6ededdc08aa2?w=600&q=80",  // Longmen Grottoes
+  henan:          "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=600&q=80",    // Historical culture
+  jiangxi:        "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?w=600&q=80",  // Lushan mountains
+  // ── SOUTH CHINA ──
+  guangzhou:      "https://images.unsplash.com/photo-1434854702235-6fe3c7e09831?w=600&q=80",  // Pearl River city
+  guangdong:      "https://images.unsplash.com/photo-1434854702235-6fe3c7e09831?w=600&q=80",  // Guangdong skyline
+  chaozhou:       "https://images.unsplash.com/photo-1534430480872-3498386e7856?w=600&q=80",  // Guangji bridge
+  chaoshan:       "https://images.unsplash.com/photo-1534430480872-3498386e7856?w=600&q=80",  // Chaoshan bridge
+  gulangyu:       "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=600&q=80",  // Gulangyu island
+  fujian:         "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=600&q=80",    // Tulou earth buildings
+  tulou:          "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=600&q=80",    // Circular tulou
+  fuzhou:         "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=600&q=80",  // Fuzhou
+  guilin:         "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=600&q=80",  // Li River karst peaks
+  guangxi:        "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=600&q=80",  // Karst landscape
+  longji:         "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=600&q=80",  // Longji rice terraces
+  hainan:         "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&q=80",  // Tropical beach
+  sanya:          "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&q=80",  // Beach
+  // ── SOUTHWEST ──
+  chongqing:      "https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?w=600&q=80",  // Hongya Cave night
+  chengdu:        "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=600&q=80",  // Giant panda
+  sichuan:        "https://images.unsplash.com/photo-1504198266287-1659872e6590?w=600&q=80",  // Jiuzhaigou
+  jiuzhaigou:     "https://images.unsplash.com/photo-1504198266287-1659872e6590?w=600&q=80",  // Turquoise lake
+  emei:           "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=600&q=80",  // Emei/Leshan Buddha
+  leshan:         "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=600&q=80",  // Giant Buddha
+  guizhou:        "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=600&q=80",    // Minority village
+  qiandongnan:    "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=600&q=80",  // Dong village towers
+  yunnan:         "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80",    // Dali / Yunnan
+  lijiang:        "https://images.unsplash.com/photo-1588666309990-d68f08e3d4a6?w=600&q=80",  // Lijiang old town
+  dali:           "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80",    // Dali old town
+  xishuangbanna:  "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=600&q=80",  // Tropical forest
+  yuanyang:       "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80",    // Rice terraces
+  shangri:        "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=600&q=80",  // Tibetan monastery
+  tibet:          "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=600&q=80",  // Potala Palace
+  shigatse:       "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=600&q=80",  // Tashilhunpo
+  lhasa:          "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=600&q=80",  // Potala Palace
+  // ── NORTHWEST ──
+  xian:           "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=600&q=80",    // Terracotta Warriors
+  shaanxi:        "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=600&q=80",    // Xi'an heritage
+  dunhuang:       "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=600&q=80",  // Crescent Moon Lake
+  lanzhou:        "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=600&q=80",  // Silk Road
+  gansu:          "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=600&q=80",  // Gobi desert/dunes
+  ningxia:        "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=600&q=80",  // Desert & Yellow River
+  yinchuan:       "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=600&q=80",    // Western Xia heritage
+  xinjiang:       "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=600&q=80",  // Kanas lake
+  kanas:          "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=600&q=80",  // Kanas autumn
+  urumqi:         "https://images.unsplash.com/photo-1531761535209-180857e963b9?w=600&q=80",  // Xinjiang landscape
+  qinghai:        "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=600&q=80",  // Qinghai Lake
+  // ── PRACTICAL / TOOLKIT TOPICS ──
+  visa:           "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=600&q=80",  // Passport & airplane
+  payment:        "https://images.unsplash.com/photo-1556742111-a301076d9d18?w=600&q=80",    // Mobile payment QR
+  transport:      "https://images.unsplash.com/photo-1515658323406-25d61c141a6e?w=600&q=80",  // High-speed train
+  apps:           "https://images.unsplash.com/photo-1545893835-abaa50cbe628?w=600&q=80",    // Smartphone apps
+  food:           "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=600&q=80",  // Chinese street food
+  solo:           "https://images.unsplash.com/photo-1501555088652-021faa106b9b?w=600&q=80",  // Solo traveller
+  beginners:      "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=600&q=80",  // Travel planning map
 };
 
 const firstTag = (tags?.[0] ?? "").toLowerCase().replace(/[^a-z]/g, "");
@@ -52,21 +124,78 @@ const category = tags?.[0] ?? "";
 
 // Badge colour per category
 const badgeColorMap: Record<string, string> = {
-  beijing:     "bg-red-100 text-red-700 dark:bg-red-900/40 dark:text-red-300",
-  shanghai:    "bg-blue-100 text-blue-700 dark:bg-blue-900/40 dark:text-blue-300",
-  xian:        "bg-amber-100 text-amber-700 dark:bg-amber-900/40 dark:text-amber-300",
-  chengdu:     "bg-green-100 text-green-700 dark:bg-green-900/40 dark:text-green-300",
-  guilin:      "bg-emerald-100 text-emerald-700 dark:bg-emerald-900/40 dark:text-emerald-300",
-  dali:        "bg-teal-100 text-teal-700 dark:bg-teal-900/40 dark:text-teal-300",
-  hangzhou:    "bg-cyan-100 text-cyan-700 dark:bg-cyan-900/40 dark:text-cyan-300",
-  tibet:       "bg-purple-100 text-purple-700 dark:bg-purple-900/40 dark:text-purple-300",
-  dunhuang:    "bg-orange-100 text-orange-700 dark:bg-orange-900/40 dark:text-orange-300",
-  transport:   "bg-indigo-100 text-indigo-700 dark:bg-indigo-900/40 dark:text-indigo-300",
-  visa:        "bg-rose-100 text-rose-700 dark:bg-rose-900/40 dark:text-rose-300",
-  payment:     "bg-lime-100 text-lime-700 dark:bg-lime-900/40 dark:text-lime-300",
-  food:        "bg-yellow-100 text-yellow-700 dark:bg-yellow-900/40 dark:text-yellow-300",
-  solo:        "bg-pink-100 text-pink-700 dark:bg-pink-900/40 dark:text-pink-300",
-  beginners:   "bg-sky-100 text-sky-700 dark:bg-sky-900/40 dark:text-sky-300",
+  // North China
+  beijing:       "bg-red-100 text-red-700 dark:bg-red-900/40 dark:text-red-300",
+  pingyao:       "bg-stone-100 text-stone-700 dark:bg-stone-900/40 dark:text-stone-300",
+  shanxi:        "bg-stone-100 text-stone-700 dark:bg-stone-900/40 dark:text-stone-300",
+  datong:        "bg-amber-100 text-amber-700 dark:bg-amber-900/40 dark:text-amber-300",
+  hebei:         "bg-neutral-100 text-neutral-700 dark:bg-neutral-900/40 dark:text-neutral-300",
+  chengde:       "bg-green-100 text-green-700 dark:bg-green-900/40 dark:text-green-300",
+  tianjin:       "bg-blue-100 text-blue-700 dark:bg-blue-900/40 dark:text-blue-300",
+  innermongolia: "bg-green-100 text-green-700 dark:bg-green-900/40 dark:text-green-300",
+  hulunbuir:     "bg-emerald-100 text-emerald-700 dark:bg-emerald-900/40 dark:text-emerald-300",
+  // Northeast
+  harbin:        "bg-sky-100 text-sky-700 dark:bg-sky-900/40 dark:text-sky-300",
+  jilin:         "bg-cyan-100 text-cyan-700 dark:bg-cyan-900/40 dark:text-cyan-300",
+  dalian:        "bg-blue-100 text-blue-700 dark:bg-blue-900/40 dark:text-blue-300",
+  shenyang:      "bg-indigo-100 text-indigo-700 dark:bg-indigo-900/40 dark:text-indigo-300",
+  changbai:      "bg-teal-100 text-teal-700 dark:bg-teal-900/40 dark:text-teal-300",
+  // East China
+  shanghai:      "bg-blue-100 text-blue-700 dark:bg-blue-900/40 dark:text-blue-300",
+  hangzhou:      "bg-cyan-100 text-cyan-700 dark:bg-cyan-900/40 dark:text-cyan-300",
+  qingdao:       "bg-sky-100 text-sky-700 dark:bg-sky-900/40 dark:text-sky-300",
+  shandong:      "bg-amber-100 text-amber-700 dark:bg-amber-900/40 dark:text-amber-300",
+  qufu:          "bg-amber-100 text-amber-700 dark:bg-amber-900/40 dark:text-amber-300",
+  yangzhou:      "bg-lime-100 text-lime-700 dark:bg-lime-900/40 dark:text-lime-300",
+  ningbo:        "bg-violet-100 text-violet-700 dark:bg-violet-900/40 dark:text-violet-300",
+  wenzhou:       "bg-teal-100 text-teal-700 dark:bg-teal-900/40 dark:text-teal-300",
+  huangshan:     "bg-emerald-100 text-emerald-700 dark:bg-emerald-900/40 dark:text-emerald-300",
+  anhui:         "bg-emerald-100 text-emerald-700 dark:bg-emerald-900/40 dark:text-emerald-300",
+  // Central China
+  wuhan:         "bg-red-100 text-red-700 dark:bg-red-900/40 dark:text-red-300",
+  changsha:      "bg-orange-100 text-orange-700 dark:bg-orange-900/40 dark:text-orange-300",
+  fenghuang:     "bg-amber-100 text-amber-700 dark:bg-amber-900/40 dark:text-amber-300",
+  zhangjiajie:   "bg-green-100 text-green-700 dark:bg-green-900/40 dark:text-green-300",
+  zhengzhou:     "bg-amber-100 text-amber-700 dark:bg-amber-900/40 dark:text-amber-300",
+  luoyang:       "bg-rose-100 text-rose-700 dark:bg-rose-900/40 dark:text-rose-300",
+  // South China
+  guangzhou:     "bg-red-100 text-red-700 dark:bg-red-900/40 dark:text-red-300",
+  chaoshan:      "bg-orange-100 text-orange-700 dark:bg-orange-900/40 dark:text-orange-300",
+  gulangyu:      "bg-blue-100 text-blue-700 dark:bg-blue-900/40 dark:text-blue-300",
+  fujian:        "bg-green-100 text-green-700 dark:bg-green-900/40 dark:text-green-300",
+  tulou:         "bg-amber-100 text-amber-700 dark:bg-amber-900/40 dark:text-amber-300",
+  guilin:        "bg-emerald-100 text-emerald-700 dark:bg-emerald-900/40 dark:text-emerald-300",
+  guangxi:       "bg-emerald-100 text-emerald-700 dark:bg-emerald-900/40 dark:text-emerald-300",
+  hainan:        "bg-cyan-100 text-cyan-700 dark:bg-cyan-900/40 dark:text-cyan-300",
+  sanya:         "bg-sky-100 text-sky-700 dark:bg-sky-900/40 dark:text-sky-300",
+  // Southwest
+  chongqing:     "bg-red-100 text-red-700 dark:bg-red-900/40 dark:text-red-300",
+  chengdu:       "bg-green-100 text-green-700 dark:bg-green-900/40 dark:text-green-300",
+  jiuzhaigou:    "bg-teal-100 text-teal-700 dark:bg-teal-900/40 dark:text-teal-300",
+  guizhou:       "bg-lime-100 text-lime-700 dark:bg-lime-900/40 dark:text-lime-300",
+  yunnan:        "bg-purple-100 text-purple-700 dark:bg-purple-900/40 dark:text-purple-300",
+  lijiang:       "bg-violet-100 text-violet-700 dark:bg-violet-900/40 dark:text-violet-300",
+  dali:          "bg-teal-100 text-teal-700 dark:bg-teal-900/40 dark:text-teal-300",
+  xishuangbanna: "bg-green-100 text-green-700 dark:bg-green-900/40 dark:text-green-300",
+  tibet:         "bg-purple-100 text-purple-700 dark:bg-purple-900/40 dark:text-purple-300",
+  shigatse:      "bg-purple-100 text-purple-700 dark:bg-purple-900/40 dark:text-purple-300",
+  // Northwest
+  xian:          "bg-amber-100 text-amber-700 dark:bg-amber-900/40 dark:text-amber-300",
+  shaanxi:       "bg-amber-100 text-amber-700 dark:bg-amber-900/40 dark:text-amber-300",
+  dunhuang:      "bg-orange-100 text-orange-700 dark:bg-orange-900/40 dark:text-orange-300",
+  lanzhou:       "bg-yellow-100 text-yellow-700 dark:bg-yellow-900/40 dark:text-yellow-300",
+  gansu:         "bg-yellow-100 text-yellow-700 dark:bg-yellow-900/40 dark:text-yellow-300",
+  ningxia:       "bg-amber-100 text-amber-700 dark:bg-amber-900/40 dark:text-amber-300",
+  xinjiang:      "bg-sky-100 text-sky-700 dark:bg-sky-900/40 dark:text-sky-300",
+  kanas:         "bg-teal-100 text-teal-700 dark:bg-teal-900/40 dark:text-teal-300",
+  qinghai:       "bg-cyan-100 text-cyan-700 dark:bg-cyan-900/40 dark:text-cyan-300",
+  // Toolkit
+  transport:     "bg-indigo-100 text-indigo-700 dark:bg-indigo-900/40 dark:text-indigo-300",
+  visa:          "bg-rose-100 text-rose-700 dark:bg-rose-900/40 dark:text-rose-300",
+  payment:       "bg-lime-100 text-lime-700 dark:bg-lime-900/40 dark:text-lime-300",
+  food:          "bg-yellow-100 text-yellow-700 dark:bg-yellow-900/40 dark:text-yellow-300",
+  solo:          "bg-pink-100 text-pink-700 dark:bg-pink-900/40 dark:text-pink-300",
+  beginners:     "bg-sky-100 text-sky-700 dark:bg-sky-900/40 dark:text-sky-300",
 };
 const badgeClass = badgeColorMap[firstTag] ?? "bg-muted text-muted-foreground";
 

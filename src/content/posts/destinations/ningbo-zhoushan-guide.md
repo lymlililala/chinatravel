@@ -15,6 +15,9 @@ tags:
 description: "A complete guide to Ningbo and the Zhoushan archipelago in Zhejiang — Putuoshan sacred island dedicated to Guanyin, the Tianyi Pavilion private library, Ningbo's Tang Dynasty Buddhist heritage, and island beaches."
 ---
 
+![Putuoshan island at dawn — mist rising over the forested hills and white sand beach, with the golden Nanhai Guanyin statue visible on the southern promontory](https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=1200&q=85)
+*Putuoshan — China's only sacred Buddhist island, dedicated to Guanyin, with over 30 active monasteries among its forested hills*
+
 Ningbo (宁波) and the Zhoushan archipelago 30 km offshore form one of the most interesting coastal zones in eastern China. Ningbo is one of China's oldest port cities — the overseas Chinese diaspora in Southeast Asia and Japan is substantially descended from Ningbo merchants — and the Zhoushan islands contain China's holiest Buddhist island.
 
 ## Table of contents
@@ -27,6 +30,9 @@ One of China's four sacred Buddhist mountains — unique in being an island (the
 
 **Getting there:** Ferry from Ningbo (2 hrs) or Shanghai Wusongkou (3 hrs); or ferry from Zhoushan island (Shenjiamen, 1 hr). The island entrance requires a conservation fee (¥160).
 
+![Putuoshan Puji Temple incense burning — enormous bronze incense burners with the main monastery hall rising behind, pilgrims in traditional costume on the stone steps](https://images.unsplash.com/photo-1584992236310-6ededdc08aa2?w=1200&q=85)
+*Puji Temple's main hall — the 10th century monastery with its famous large bronze incense burners where pilgrims gather at dawn*
+
 ### Key Sites
 
 **Puji Temple (普济寺):** The main monastery, founded in the 10th century, rebuilt multiple times. The bronze incense burners are the largest in any Zhoushan temple; the main hall contains a 9-metre Guanyin statue.
@@ -38,6 +44,9 @@ One of China's four sacred Buddhist mountains — unique in being an island (the
 **Nanhai Guanyin (南海观音):** The 33-metre bronze standing Guanyin statue on the southern promontory — the largest outdoor Buddhist statue in Zhejiang, visible from the sea.
 
 **Beaches:** Qianbu Beach (千步沙) and Baibue Beach (百步沙) are accessible, clean, and popular. Swimming in summer; winter walks in near-solitude.
+
+![Tianyi Pavilion Ningbo — the Ming Dynasty private library garden with ancient pavilions, moon gates, and a peaceful reflecting pond surrounded by scholar's rocks](https://images.unsplash.com/photo-1527576539890-dfa815648363?w=1200&q=85)
+*Tianyi Pavilion — the oldest surviving private library in Asia, built 1561, with a garden that achieves perfect humidity control through natural design*
 
 ## Ningbo City
 

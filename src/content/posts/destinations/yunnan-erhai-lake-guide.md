@@ -15,6 +15,9 @@ tags:
 description: "Your complete guide to cycling around Erhai Lake near Dali — the 117 km circuit through Bai minority fishing villages, ancient temples on lake islands, the famous photography spot at Haidong sunrise, and where to find the real slow-travel experience in Yunnan."
 ---
 
+![Erhai Lake Dali sunrise — the vast blue lake reflecting the Cangshan mountain snowline at dawn, a traditional wooden fishing boat in the foreground with white egrets](https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86?w=1200&q=85)
+*Erhai Lake at sunrise — the 250 km² lake at 1,972 metres, backed by the Cangshan mountains, at the heart of China's most celebrated slow-travel destination*
+
 Erhai Lake (洱海) is the defining landscape of the Dali region in Yunnan — a 250 km² freshwater lake at 1,972 metres, surrounded by the Cangshan mountains (苍山) to the west and the lower hills to the east. The combination of the lake, the mountains, the Bai minority villages, and the mild climate (Dali averages 15°C year-round) has created China's most famous slow-travel destination.
 
 ## Table of contents

@@ -14,6 +14,9 @@ tags:
 description: "Two contrasting northeast China experiences — the world-famous rime ice fog of Jilin City in winter, and Dalian's European-style coastal city with its beaches, Russian architecture, and fresh seafood."
 ---
 
+![Jilin rime ice at dawn — the riverside willow trees coated in white feathery frost crystals, glowing in the soft pink morning light along the Songhua River](https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&q=85)
+*Jilin rime ice at sunrise — the world's most spectacular frost phenomenon, formed when -20°C air meets open river water*
+
 Northeast China (*Dongbei*, 东北) offers two experiences that feel like different planets: the crystalline winter ice world of Jilin City, and the breezy coastal European-influenced streets of Dalian on the Yellow Sea. Both reward the traveller willing to venture beyond the more-visited regions.
 
 ## Table of contents
@@ -30,6 +33,9 @@ The specific conditions that produce Jilin's rime ice are unique: the **Songhua 
 
 **The viewing area:** The **Jiangdao (江堤)** — the riverside embankment in central Jilin City — is lined with willow trees that become the primary rime ice canvas. Early morning (7–9 AM) before the sun is high is the prime photography time.
 
+![Jilin rime ice close-up — individual ice crystal feathers covering every twig and branch in the willow trees, backlit by pale winter sun](https://images.unsplash.com/photo-1608501078713-8e445a709b39?w=1200&q=85)
+*Each rime ice crystal formation is unique — the feathery structures can reach 10 cm long on perfect mornings*
+
 ### Visiting
 
 Jilin City is a 1.5-hour journey from Changchun (长春) by bullet train. The rime ice season in Jilin coincides with the Harbin Ice Festival, making a combined northeast winter trip logical: Harbin (2–3 nights) → Jilin (1–2 nights) → Changchun (half day) as a winter circuit.
@@ -38,7 +44,12 @@ Jilin City is a 1.5-hour journey from Changchun (长春) by bullet train. The ri
 
 ---
 
+---
+
 ## Dalian (大连): The European City on the Yellow Sea
+
+![Dalian Zhongshan Square at golden hour — the 10 radiating avenues framing the circular plaza with Japanese imperial-era civic buildings surrounding it](https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&q=85)
+*Dalian's Zhongshan Square — a remarkable example of Japanese imperial urban planning from the 1920s, still the city's civic heart*
 
 Dalian occupies the tip of the Liaodong Peninsula — a warm-water port developed successively by the Qing Dynasty, Russia (as Port Arthur/Dalny, 1898–1905), and Japan (as Dairen, 1905–1945). Each colonial power left architectural traces; the result is a city of extraordinary visual variety.
 
@@ -55,6 +66,9 @@ Dalian's primary attraction for domestic visitors: multiple accessible beaches a
 **Golden Pebble Beach (金石滩):** 50 km northeast — dramatic rocky coastline with distinctive 600-million-year-old geological formations. National Scenic Area.
 
 **Tiger Beach (老虎滩):** Accessible rocky coastline with an adjacent marine park.
+
+![Dalian coastline at Golden Pebble Beach — dramatic 600-million-year-old geological formations rising from the Yellow Sea, with clear blue water](https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=1200&q=85)
+*Golden Pebble Beach — Dalian's most dramatic coastline with ancient geological formations emerging from the sea*
 
 ### Fresh Seafood
 

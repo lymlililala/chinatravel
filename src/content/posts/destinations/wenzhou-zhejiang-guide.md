@@ -14,6 +14,9 @@ tags:
 description: "Discover Wenzhou and the Yandang Mountains in southern Zhejiang — China's most underrated coastal mountain scenery, the ancient楠溪江 river valley, and the surprising cultural heritage of China's most entrepreneurial city."
 ---
 
+![Yandang Mountain volcanic rock towers — two enormous jagged peaks rising from the forested valley, with the ancient Lingfeng Temple nestled at their base](https://images.unsplash.com/photo-1490730141103-6cac27aaab94?w=1200&q=85)
+*Yandang Mountain's Lingfeng formations — the volcanic peaks described as "the most beautiful mountains south of the Yangtze"*
+
 Wenzhou (温州) has a global reputation as China's most entrepreneurial city — the origin of the "Wenzhou model" of private economy that influenced China's economic reforms. Every Italian leather shoe district, every French pocket watch market, every Brazilian shoe factory has a Wenzhou community. But the city itself, surrounded by dramatic coastal mountains and the ancient Nanxi River valley, is a surprisingly rewarding destination.
 
 ## Table of contents
@@ -27,6 +30,9 @@ One of China's most dramatically scenic mountain ranges — sharp volcanic rock 
 **Dalong Waterfall (大龙湫):** The most impressive waterfall in Zhejiang — a 197-metre single-drop waterfall visible from a valley floor approach. Best in late spring and after rain when the flow is highest. Ticket ¥60.
 
 **Lingyan Scenic Area (灵岩景区):** A different landscape — broad river valley with walls of stratified volcanic rock, accessed by a combination of hiking paths and cableways.
+
+![Dalong Waterfall Yandang — the 197-metre cascade plunging from volcanic cliffs into a misty valley pool, surrounded by subtropical forest](https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?w=1200&q=85)
+*Dalong Waterfall — Zhejiang's most impressive waterfall at 197 metres, most powerful after summer rains*
 
 ## Nanxi River Valley (楠溪江)
 

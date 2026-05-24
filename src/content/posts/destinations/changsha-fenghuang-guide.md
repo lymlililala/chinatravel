@@ -14,6 +14,9 @@ tags:
 description: "Your guide to Hunan's two essential destinations — Changsha's street food culture and Mawangdui Han Dynasty tombs, and the extraordinary Miao minority ancient town of Fenghuang on the Tuojiang River."
 ---
 
+![Fenghuang Ancient Town night view — wooden stilt-houses reflected in the Tuojiang River with red lanterns glowing, the ancient city wall rising on the hill behind](https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=1200&q=85)
+*Fenghuang Ancient Town at night — the most photogenic ancient river town in China, with Miao minority stilt-houses built directly over the Tuojiang River*
+
 Hunan Province produces three things that have shaped modern China beyond proportion to its size: Mao Zedong (who was born here), the country's most aggressively spicy cuisine, and Fenghuang — an ancient river town that may be the most photogenic town in China.
 
 ## Table of contents
@@ -43,11 +46,17 @@ Hunan street food is an assault on the senses — intense heat, deep umami, and 
 
 ---
 
+![Changsha street food — a Hunan stinky tofu vendor deep-frying the fermented tofu to crispy-outside, silky-inside perfection at an open-air night market stall](https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=1200&q=85)
+*Changsha's notorious stinky tofu — the city's most beloved street snack, with a smell that challenges but a taste that converts*
+
 ## Fenghuang Ancient Town (凤凰古城)
 
 In western Hunan on the Tuojiang River — a genuinely extraordinary preserved river town of the Miao and Tujia minority peoples, with stilted wooden houses built directly over the water on one bank and a continuous stone-paved commercial street on the other.
 
 **The image:** The most-photographed composition in Hunan — wooden stilt-houses (吊脚楼, *diàojiǎo lóu*) reflected in the Tuojiang River at night, with red lanterns hanging between the buildings and the ancient city wall rising on the hill behind.
+
+![Fenghuang stilt-houses at dawn — the Miao wooden stilt-houses lining the north bank of the Tuojiang River with mist rising from the water at first light](https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=1200&q=85)
+*Fenghuang's stilt-houses at dawn — the wooden buildings extend directly over the river on wooden columns, a tradition dating back to the Ming Dynasty*
 
 ### Layout
 
@@ -56,6 +65,9 @@ The old town occupies both banks of the Tuojiang River bend. The **south bank** 
 **North Gate City Wall (北城楼):** The original Ming Dynasty city gate — one of the best-preserved examples of defensive architecture in western Hunan. The view from the wall to the north — the stilt-house row along the river, the mountains behind — is the definitive Fenghuang image.
 
 **Shen Congwen's Former Residence (沈从文故居):** The birthplace of the writer considered China's greatest 20th-century novelist (though controversially never awarded the Nobel Prize) — the house where he was born and grew up is preserved with period furniture. Shen Congwen's novel *Border Town* (边城) is set in the Fenghuang area and remains the most celebrated fictional portrait of Miao river culture.
+
+![Fenghuang stone bridge at dusk — the ancient stepping stones crossing the Tuojiang River with the old city walls and traditional rooftops behind, golden evening light](https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=1200&q=85)
+*The historic stepping-stone bridge across the Tuojiang — the most intimate way to cross the river and connect the two banks of the old town*
 
 ### Evening on the Water
 

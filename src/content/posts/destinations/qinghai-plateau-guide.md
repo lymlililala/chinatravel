@@ -15,6 +15,9 @@ tags:
 description: "Beyond Qinghai Lake — a complete guide to Qinghai Province. The ancient Kumbum Monastery birthplace of Tsongkhapa, the Sanjiangyuan Three River Source Nature Reserve, Tibetan nomadic culture at Maduo, and the highland steppe that is the source of Asia's greatest rivers."
 ---
 
+![Qinghai Lake sunrise — China's largest lake at 3,196 metres, the deep blue saltwater lake catching the first dawn light with snow mountains and wild birds on the shore](https://images.unsplash.com/photo-1501854140801-50d01698950b?w=1200&q=85)
+*Qinghai Lake at dawn — China's largest lake and Asia's largest saltwater lake at 3,196 metres, on the edge of the Tibetan Plateau, with snowcapped mountains all around*
+
 Qinghai Province (青海) is China's third-largest province by area and most sparsely populated — 720,000 km² of the Tibetan Plateau at an average elevation of 3,000+ metres, with the source springs of Asia's three greatest rivers (the Yellow, Yangtze, and Mekong). The province is culturally Tibetan, geologically extreme, and largely inaccessible to mass tourism.
 
 ## Table of contents

@@ -14,6 +14,9 @@ tags:
 description: "A complete guide to Inner Mongolia — the endless Hulunbuir grasslands in summer, the Ergun River wetlands, Mongolian yurt stays, and the Badain Jaran Desert with its towering singing dunes."
 ---
 
+![Hulunbuir grassland in summer — a vast green steppe stretching to the horizon with a lone horseman and traditional yurts in the distance](https://images.unsplash.com/photo-1531761535209-180857e963b9?w=1200&q=85)
+*Hulunbuir Grassland in July — the world's finest temperate grassland covering 93,000 square kilometres*
+
 Inner Mongolia (内蒙古) stretches across 1.18 million square kilometres of northern China — over twice the area of France — encompassing the world's largest grassland system, the Gobi Desert edge, and some of China's most dramatic seasonal landscapes. In summer, the grasslands turn so intensely green they look artificial; in winter, the temperatures drop to -40°C and the landscape becomes a study in white and grey infinity.
 
 ## Table of contents
@@ -31,11 +34,17 @@ The most beautiful grassland in China — and arguably the world's finest temper
 
 **The best grassland area:** The **Morigele River (莫尔格勒河)** area northwest of Hailar — the river winds through the grassland in broad meanders (nicknamed "the first curve in the world"), creating the iconic Inner Mongolia landscape image.
 
+![Mongolian horse riding on the grassland — a rider on a stocky Mongolian horse galloping across wide-open green steppe at sunrise](https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?w=1200&q=85)
+*Horse riding across Hulunbuir — the Mongolian horses, bred for stamina rather than speed, are central to steppe life*
+
 ## Ergun Wetlands (额尔古纳湿地)
 
 On the Chinese-Russian border at Ergun, the second-largest wetland in China — a labyrinthine system of rivers, ox-bow lakes, and reed beds that hosts extraordinary migratory bird populations.
 
 **Sunrise from the viewing platform:** The wetland panorama at dawn, with mist rising from the water surfaces, reed beds reflecting the sky, and the silence of a landscape without roads — one of the most atmospheric natural experiences in northern China.
+
+![Ergun River wetlands from the sunrise observation platform — mist rising from braided river channels and ox-bow lakes in the early morning light](https://images.unsplash.com/photo-1504701954957-2010ec3bcec1?w=1200&q=85)
+*Ergun Wetlands at dawn — China's second-largest wetland, home to thousands of migratory birds*
 
 ## Badain Jaran Desert (巴丹吉林沙漠)
 
@@ -46,6 +55,9 @@ In the Alxa (阿拉善) area of western Inner Mongolia — the world's third-lar
 - **Temples in the desert:** Ancient Lamaist monasteries built at the dune-lake intersections
 
 **Access:** 4WD vehicles required; guides mandatory. Tours from Alxa Left Banner (阿拉善左旗) or Zhangye (Gansu).
+
+![Badain Jaran Desert — the world's highest stationary sand dunes rising 500 metres, with vivid blue freshwater lakes nestled between the dunes](https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=1200&q=85)
+*Badain Jaran Desert — towering singing dunes and deep blue lakes in an impossible desert landscape*
 
 ## Practical Tips
 

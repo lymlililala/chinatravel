@@ -14,6 +14,9 @@ tags:
 description: "Explore Tianjin — Beijing's underrated coastal neighbour with extraordinary European concession architecture, the legendary Goubuli steamed dumplings, the Five Great Avenues heritage district, and the Haihe River waterfront."
 ---
 
+![Tianjin Five Great Avenues — a quiet tree-lined street of European-style villas in the former British concession, with Tudor and neoclassical facades](https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=1200&q=85)
+*The Five Great Avenues — 230 European-style villas from 12 nations, the most concentrated colonial architecture in China*
+
 Tianjin sits 120 km southeast of Beijing, connected by a 30-minute high-speed rail link. It's the most dramatically underrated day-trip destination from the capital — a city of 15 million people with an extraordinary architectural heritage from the treaty port era and a food culture centred on one of China's most famous street foods.
 
 ## Table of contents
@@ -27,6 +30,9 @@ The streets were built from the 1900s to 1930s as residences for foreign consula
 **Walking route:** Start at Chengdu Road (成都道) and walk the full Five Avenues circuit — Munan Road (睦南道), Changde Road (常德道), Dali Road (大理道), Chongqing Road (重庆道). Allow 2 hours. Several buildings have been converted into boutique hotels and cafés.
 
 **Mingyuan Football Stadium (民园广场):** The 1930s sports ground at the circuit's centre, converted into a public square with the original grandstands preserved — atmospheric and photogenic.
+
+![Tianjin's Five Great Avenues villa district in autumn — golden plane tree leaves lining a European-style residential street with ornate iron gates](https://images.unsplash.com/photo-1565098772267-60af42b81ef2?w=1200&q=85)
+*Autumn in the Five Great Avenues — the European residential streetscapes are especially beautiful in October*
 
 ## The Italian Concession (意大利风情区)
 
@@ -44,6 +50,9 @@ Tianjin's most famous food — steamed pork dumplings that have been the subject
 
 **Jianbing Guozi (煎饼果子):** Tianjin's other famous street food — a folded savory crêpe with egg, crispy fried dough, bean paste, and chilli sauce. The Tianjin version is considered superior to Beijing's jianbing. Available from street carts everywhere in the morning.
 
+![Goubuli steamed dumplings — 18-fold pork dumplings with gelatinised broth inside, arranged in a bamboo steamer at a Tianjin restaurant](https://images.unsplash.com/photo-1563245372-f21724e3856d?w=1200&q=85)
+*Goubuli steamed dumplings — Tianjin's most famous food, each dumpling with exactly 18 folds since 1858*
+
 ## Haihe River (海河) Waterfront
 
 The Haihe River runs through the heart of Tianjin — widened and landscaped into a 15 km urban waterfront with bridges of different architectural styles and the illuminated European-style buildings reflected in the water.
@@ -51,6 +60,9 @@ The Haihe River runs through the heart of Tianjin — widened and landscaped int
 **Evening boat tour:** Several operators offer 1-hour evening cruises from the Liberation Bridge area. The combination of Baroque, Gothic, and Renaissance riverfront buildings illuminated at night, with the modern Tianjin Eye ferris wheel providing contemporary contrast, is spectacular.
 
 **Tianjin Eye (天津之眼):** A 110-metre ferris wheel built over the Yongle Bridge — one of the world's only ferris wheels mounted on a bridge. ¥100 per person; 30-minute circuit.
+
+![Tianjin Haihe River waterfront at night — illuminated European-style buildings reflected in the calm river water, with the Tianjin Eye ferris wheel in the distance](https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?w=1200&q=85)
+*The Haihe River waterfront at night — Baroque and Renaissance facades illuminated along the river, with the ferris wheel on Yongle Bridge*
 
 ## Practical Tips
 

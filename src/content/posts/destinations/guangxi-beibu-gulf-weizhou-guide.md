@@ -14,6 +14,9 @@ tags:
 description: "Explore China's least-visited coastal province — Guangxi's Beibu Gulf coast with the volcanic Weizhou Island, Beihai's colonial heritage and Silver Beach, and the Detian Waterfall on the Vietnam border."
 ---
 
+![Weizhou Island volcanic coastline — black lava rock formations meeting clear turquoise South China Sea water, with coral visible beneath the surface](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85)
+*Weizhou Island — China's largest volcanic island, with lava coastlines, coral reefs, and a 19th-century French Gothic church on the hilltop*
+
 The Guangxi coast along the Beibu Gulf (北部湾) is the least-visited coastal region in southern China — and arguably the most interesting. The volcanic island of Weizhou, the colonial-era port of Beihai, and the shared China-Vietnam waterfall at Detian create a coastal zone with extraordinary variety.
 
 ## Table of contents
@@ -38,6 +41,9 @@ China's largest and youngest volcanic island — formed by volcanic eruptions 3�
 
 **Accommodation:** Several boutique guesthouses and surf-oriented places. Book ahead during July–August peak season.
 
+![Weizhou Island Shengmu Cathedral — the 1883 Gothic church with pointed arch windows on the volcanic island hilltop, with the South China Sea visible on both horizons](https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=1200&q=85)
+*Shengmu Cathedral on Weizhou Island — an 1883 French Gothic church where volcanic island and European ecclesiastical architecture create a unique combination*
+
 ## Beihai (北海)
 
 A Qing Dynasty treaty port on the northern shore of the Beibu Gulf — one of the few southern China ports with intact colonial architecture and a distinctly multicultural history.
@@ -45,6 +51,9 @@ A Qing Dynasty treaty port on the northern shore of the Beibu Gulf — one of th
 **Old Street (北海老街):** A 1.4 km street of southern Chinese colonial shophouse architecture from the 1880s–1920s — long colonnaded arcades, European-style upper facades, Chinese-style internal courtyards. The best-preserved example of this architectural hybrid on the entire southwest coast.
 
 **Silver Beach (北海银滩):** A 24 km white sand beach with very fine-grained quartz sand — billed as the "first beach in the world" for sand quality. The beach is extremely long and more accessible than Hainan with fewer crowds and lower costs.
+
+![Beihai Silver Beach — the 24 km white quartz sand beach stretching along the Beibu Gulf coast, clear blue water and fine-grained sand with almost no crowds](https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=1200&q=85)
+*Beihai Silver Beach — 24 km of fine white quartz sand on the Beibu Gulf, far less crowded than Hainan's resorts*
 
 ## Detian Waterfall (德天大瀑布)
 

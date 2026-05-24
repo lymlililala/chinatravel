@@ -14,6 +14,9 @@ tags:
 description: "Complete guide to Wuhan — the Yellow Crane Tower that has inspired Chinese poets for 1,400 years, East Lake with its 87 km shoreline, the UNESCO Three Gorges region, and why this city of 11 million is one of China's most underrated destinations."
 ---
 
+![Yellow Crane Tower Wuhan — the five-storey tower rising above Snake Hill overlooking the Yangtze River at sunset, with the Wuhan Yangtze Bridge visible in the background](https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?w=1200&q=85)
+*Yellow Crane Tower — the tower that has inspired more Chinese poetry than any other building, overlooking the Yangtze for 1,800 years*
+
 Wuhan (武汉) sits at the confluence of the Yangtze and Han rivers — China's geographic centre, a natural crossroads that has made it a commercial hub for 3,000 years. Today it's a city of 11 million — China's seventh largest — with a university system that gives it the energy of a younger city than its history suggests.
 
 The Yellow Crane Tower has been a pilgrimage site for Chinese poets since the Tang Dynasty. East Lake is 33 times the size of Hangzhou's West Lake. The Three Gorges downstream make Wuhan the jumping-off point for one of the world's great river journeys. This city deserves more international attention than it gets.
@@ -30,6 +33,9 @@ The single most celebrated building in the history of Chinese poetry — referen
 
 **Ticket:** ¥80. Open 7:30 AM – 6:00 PM.
 
+![Yellow Crane Tower panorama at night — the illuminated tower on Snake Hill with the Yangtze River, Wuhan Yangtze Bridge, and city lights visible across both banks](https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=1200&q=85)
+*Yellow Crane Tower at night — the view from the top encompasses 1,800 years of Chinese poetic imagination condensed into one panorama*
+
 ## East Lake (东湖)
 
 Covering 87 km² — 33 times the size of Hangzhou's West Lake — East Lake is the largest urban lake in China. The shoreline is developed into a 100+ km cycling and walking path that winds through forests, wetlands, and botanical gardens.
@@ -38,6 +44,9 @@ Covering 87 km² — 33 times the size of Hangzhou's West Lake — East Lake is 
 
 **Cherry Blossom at Wuhan University (武汉大学):** The university campus has one of China's most famous cherry blossom events — March–early April, when the sakura trees on the central campus hill bloom simultaneously. Free during off-peak; ticketed during peak bloom to manage the 30,000+ daily visitors.
 
+![East Lake Wuhan cycling — cyclists on the 101 km East Lake Greenway path with the lake shimmering through willow trees in golden afternoon light](https://images.unsplash.com/photo-1501555088652-021faa106b9b?w=1200&q=85)
+*East Lake Greenway — 101 km of cycling and running paths around China's largest urban lake, 33 times the size of Hangzhou's West Lake*
+
 ## Hubei Provincial Museum (湖北省博物馆)
 
 Free. One of China's finest provincial museums, housing the most important archaeological collection from the ancient Chu Kingdom (楚国, 770–223 BC) — the civilisation that produced some of the most sophisticated bronze work, silk textiles, and lacquerware in the ancient world.
@@ -45,6 +54,9 @@ Free. One of China's finest provincial museums, housing the most important archa
 **The Marquis Yi of Zeng's Tomb (曾侯乙墓):** The central exhibit — an intact 433 BC aristocrat's tomb containing 15,000 objects, including the famous **65-piece chime bell set (编钟)** — the most complex musical instrument from the ancient world. The bells, cast in bronze, produce two different notes when struck at different positions; performing on a 2,400-year-old musical instrument with modern museum acoustics is extraordinary to witness.
 
 The museum also performs bell concerts (times posted at entrance). Free with museum admission.
+
+![Marquis Yi of Zeng chime bells — the 65-piece bronze bell set from 433 BC at the Hubei Provincial Museum, the most complex musical instrument from the ancient world](https://images.unsplash.com/photo-1584992236310-6ededdc08aa2?w=1200&q=85)
+*The 2,400-year-old Marquis Yi bronze chime bells — 65 bells that still produce two distinct notes each, performing concerts at the Hubei Museum*
 
 ## Hot Dry Noodles (热干面)
 

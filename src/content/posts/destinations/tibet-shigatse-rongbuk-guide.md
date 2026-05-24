@@ -15,6 +15,9 @@ tags:
 description: "Complete guide to western Tibet's holy city of Shigatse — seat of the Panchen Lama and home to Tashilhunpo Monastery — and the journey to Everest Base Camp at Rongbuk, the highest monastery in the world."
 ---
 
+![Tashilhunpo Monastery Shigatse — the golden rooftops and white monastery walls of the Panchen Lama's seat rising on the hillside, prayer flags streaming against the deep blue Tibetan sky](https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=1200&q=85)
+*Tashilhunpo Monastery — the largest functioning monastery in Tibet, home of the Panchen Lama since 1447, with golden rooftops rising above the city of Shigatse at 3,836 metres*
+
 Shigatse (日喀则, Xigazê) is Tibet's second city — the seat of the Panchen Lama, the second-highest figure in Tibetan Buddhism after the Dalai Lama. At 3,836 metres, it's the base for western Tibet exploration and the gateway to Mount Everest from the Tibetan side.
 
 ## Table of contents
@@ -38,6 +41,9 @@ The seat of the Panchen Lama — founded in 1447 by Gendun Drup, the first Dalai
 In Gyantse (江孜), 90 km southwest of Shigatse — a monastery complex notable for the **Gyantse Kumbum (江孜白居塔)**, a 35-metre ten-story stupa with 77 chapels arranged in a complex mandala design. Built in 1427, it contains 100,000 images (the *kumbum* means "100,000 images") — every surface of every chapel is covered in 15th-century Tibetan Buddhist murals.
 
 The murals here are better preserved than almost anywhere else in Tibet because the monastery was never destroyed during the Cultural Revolution (due to its political significance to the town). The 15th-century painting quality is extraordinary — intricate, colourful, spiritually intense.
+
+![Mount Everest north face from Rongbuk — the summit pyramid rising above the glacial moraine, the highest monastery in the world visible in the foreground with prayer flags](https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=1200&q=85)
+*Everest north face from Tibet — the 8,848-metre summit pyramid above Rongbuk Monastery (5,094m), the world's highest monastery, with prayer flags framing the view*
 
 ## Everest Base Camp (珠峰大本营) via Rongbuk
 

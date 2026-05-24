@@ -15,6 +15,9 @@ tags:
 description: "Complete guide to Gansu Province — the essential Silk Road corridor connecting China to Central Asia. Lanzhou's Yellow River noodles, Maiji Mountain's extraordinary cliff-face Buddhist sculptures, and the Hexi Corridor route to Dunhuang."
 ---
 
+![Dunhuang Crescent Moon Lake — the oasis spring surrounded by singing sand dunes, with the Buddhist pagodas reflected in the perfectly clear water](https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=1200&q=85)
+*Dunhuang Crescent Moon Lake — a spring surrounded by 1,700-metre sand dunes for 2,000 years without being engulfed, a natural miracle at the Silk Road's western gateway*
+
 Gansu Province (甘肃) is the neck of the bottle — the geographic corridor through which all Silk Road trade between China and Central Asia passed for 2,000 years. The Hexi Corridor (河西走廊), a 1,000 km river valley between the Tibetan Plateau and the Gobi Desert, contains the most concentrated sequence of historic sites in China outside Xi'an: Buddhist cave temples, beacon towers, Han Dynasty fortifications, and the landscape of the ancient routes.
 
 ## Table of contents
@@ -36,6 +39,9 @@ Available from ¥10–15 from 5 AM at hundreds of noodle houses throughout the c
 Home of the **Bronze Galloping Horse of Gansu (马踏飞燕)** — a Han Dynasty bronze horse with one hoof resting on a flying swallow, the most reproduced image in Chinese tourism. The museum's Silk Road collection includes Han and Wei Dynasty tomb goods, Buddhist sculpture, and textiles from the Dunhuang caves. Free.
 
 ---
+
+![Maiji Mountain Grottoes — the sheer cliff face of the sandstone haystack mountain covered with 221 cave openings and enormous Buddha sculptures, walkways visible on the rock face](https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=1200&q=85)
+*Maiji Mountain Grottoes — 221 caves carved into a sheer 142-metre cliff face, with clay and stucco sculptures up to 15 metres tall visible from across the valley*
 
 ## Maiji Mountain Grottoes (麦积山石窟)
 

@@ -15,6 +15,9 @@ tags:
 description: "Your guide to Henan Province — the peony capital of Luoyang in spring, the UNESCO Longmen Grottoes with thousands of Buddhist cave carvings, the legendary Shaolin Temple birthplace of Kung Fu, and the ancient capital of Zhengzhou."
 ---
 
+![Longmen Grottoes Fengxian Temple — the 17-metre seated Lushena Buddha carved in 672 AD, gazing serenely across the Yi River, attended by massive stone guardians](https://images.unsplash.com/photo-1584992236310-6ededdc08aa2?w=1200&q=85)
+*Longmen Fengxian Temple — the masterpiece of Tang Dynasty Buddhist sculpture, carved by order of Empress Wu Zetian, one of the great works of world art*
+
 Henan (河南) was the geographic and cultural centre of Chinese civilisation for 3,000 years. More Chinese capitals have been located in Henan than any other province — Shang, Zhou, Han, Tang, Song dynasties all established their power here. The Yellow River valley soil that enabled those civilisations is still visible in the cliffs and gorges around the cities; the heritage they left is among the most significant in China.
 
 ## Table of contents
@@ -35,6 +38,9 @@ A UNESCO World Heritage Site — 2,300 caves and niches carved into limestone cl
 
 **Ticket:** ¥90. Open 7:30 AM – 7:00 PM (summer). Allow 3 hours minimum.
 
+![Longmen Grottoes cliff face from the Yi River — the north cliff with hundreds of cave openings and Buddha figures carved over 400 years, reflected in the river](https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=1200&q=85)
+*Longmen Grottoes from the river — 110,000 Buddhist statues carved into 1 km of cliff face between 493 and 907 AD*
+
 ### Luoyang Peonies (洛阳牡丹)
 
 Luoyang has been China's peony cultivation centre since the Tang Dynasty — the imperial court's demand for rare peony varieties drove the development of hundreds of cultivars. Today the National Peony Garden (国家牡丹园) and several other parks display over 1,000 varieties, with the main bloom occurring in April (typically April 5–25).
@@ -46,6 +52,9 @@ During the **Luoyang Peony Festival (洛阳牡丹文化节)** the city essential
 A recently-restored historical zone preserving Luoyang's old city fabric — Tang-era street layouts, traditional architecture, and themed food streets. More curated than purely historical, but genuinely attractive and a good way to understand the scale of the old capital.
 
 ---
+
+![Luoyang peony festival — hundreds of bloom varieties in deep crimson, purple, and pale pink filling the National Peony Garden in April sunlight](https://images.unsplash.com/photo-1490730141103-6cac27aaab94?w=1200&q=85)
+*Luoyang Peony Festival — over 1,000 cultivated varieties blooming in April, continuing the Tang Dynasty imperial tradition of peony cultivation*
 
 ## Shaolin Temple (少林寺)
 

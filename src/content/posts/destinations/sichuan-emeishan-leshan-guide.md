@@ -15,6 +15,9 @@ tags:
 description: "Complete guide to Emei Mountain and Leshan Giant Buddha — both UNESCO World Heritage Sites in Sichuan, forming a natural 2-day circuit. The world's highest pre-modern Buddhist statue carved into the cliff face, and the misty cloud forests of sacred Emei."
 ---
 
+![Leshan Giant Buddha — the 71-metre seated stone Buddha carved into the red sandstone cliff, with the confluence of the Min, Dadu, and Qingyi rivers visible at his feet below](https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=1200&q=85)
+*Leshan Giant Buddha — the world's largest pre-modern stone sculpture at 71 metres, carved between 713 and 803 AD, gazing across the river confluence for 1,200 years*
+
 Emei Mountain (峨眉山) and Leshan Giant Buddha (乐山大佛) are jointly UNESCO-listed, sit 30 km apart in Sichuan, and together form one of China's most rewarding 2–3 day heritage journeys. One is a mountain carved by cloud and pilgrimage; the other is carved into a cliff face 1,300 years ago and is still the largest pre-modern Buddha statue in the world.
 
 ## Table of contents

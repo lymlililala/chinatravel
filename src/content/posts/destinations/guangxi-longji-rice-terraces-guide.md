@@ -15,6 +15,9 @@ tags:
 description: "Your guide to the Longji Rice Terraces (Dragon's Backbone) near Guilin — ancient Zhuang and Yao minority terraced fields carved into mountain ridges, with seasonal photography across spring flooding, summer green, autumn gold, and winter snow."
 ---
 
+![Longji Rice Terraces Dragon's Backbone — the concentric terrace bands curving around the mountain ridges at sunset, with the flooded spring terraces reflecting the golden sky](https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=1200&q=85)
+*Longji Rice Terraces "Dragon's Backbone" — 650-year-old terrace bands carved into the Guangxi mountains by the Zhuang and Red Yao peoples, best photographed in spring flooding season*
+
 The Longji Rice Terraces (龙脊梯田, "Dragon's Backbone") in Guangxi's Longsheng County are among the most photographed agricultural landscapes in China — steep mountain ridges carved into parallel terrace bands over 650 years by the Zhuang and Red Yao minority peoples, creating a landscape that looks architectural at a distance and reveals extraordinary agricultural engineering close up.
 
 ## Table of contents

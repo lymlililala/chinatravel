@@ -14,6 +14,9 @@ tags:
 description: "Complete guide to Harbin in winter — the Harbin International Ice and Snow Festival, the ice city of Zhaolin Park, Stalin Park along the Songhua River, Russian colonial architecture, and how to survive -30°C."
 ---
 
+![Harbin Ice and Snow World at night — enormous illuminated ice castle glowing electric blue against the dark sky, built from blocks cut from the frozen Songhua River](https://images.unsplash.com/photo-1578894381163-e72c17f2d45f?w=1200&q=85)
+*Harbin Ice and Snow World — entire city blocks built from river ice, illuminated from within in every colour of the spectrum*
+
 Harbin (哈尔滨) is China's coldest major city — January temperatures regularly drop to -25°C, occasionally touching -40°C. This extreme cold is not an obstacle but the entire point: Harbin in winter is one of the most spectacular urban environments in the world, a city that has embraced its climate and turned it into art.
 
 The **Harbin International Ice and Snow Festival** (哈尔滨国际冰雪节), held annually from January 5th, is the world's largest winter festival — an entire city of illuminated ice and snow sculptures covering multiple themed parks across the city.
@@ -32,6 +35,9 @@ The main festival venue on the north bank of the Songhua River — enormous stru
 
 **Duration:** 3–4 hours minimum. The park covers a large area; plan your route to see major structures while managing cold exposure.
 
+![Ice and Snow World illuminated ice palace at dusk — translucent blue ice walls glowing as the last daylight fades, visitors silhouetted in the foreground](https://images.unsplash.com/photo-1548625361-58a9d86b763b?w=1200&q=85)
+*The transition from blue dusk to full illumination is the most beautiful moment at Ice and Snow World*
+
 ### Zhaolin Park (兆麟公园)
 
 The original ice sculpture venue — smaller, more intimate, focused on carved ice sculptures rather than built architecture. The quality of the carving is extraordinary — figurative sculptures with detail that would be impressive in marble, executed in translucent ice with coloured internal lighting.
@@ -41,6 +47,9 @@ The original ice sculpture venue — smaller, more intimate, focused on carved i
 ### Sun Island (太阳岛)
 
 The annual **International Snow Sculpture Competition** venue — teams from countries worldwide create enormous snow sculptures (1–15 metres) over several days. The finished sculptures represent the peak of competitive snow carving internationally.
+
+![Zhaolin Park ice sculpture — a finely detailed figurative ice carving of a traditional Chinese dragon, backlit by internal lighting](https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=1200&q=85)
+*Zhaolin Park's international ice sculpture competition — the finest carving skills from teams worldwide*
 
 ## Russian Colonial Heritage
 
@@ -55,6 +64,9 @@ Harbin was founded as a railway engineering town by Russian workers in 1898, con
 The riverside park along the Songhua River embankment — named for Stalin in 1953 (when Harbin was heavily influenced by Soviet cultural norms), it has never been renamed. The park stretches for 1.7 km along the riverbank; in winter, the frozen Songhua River is crossed by locals on foot, by snowmobile, and occasionally by car.
 
 **Flood Control Memorial Tower (防洪纪念塔):** The cylindrical stone tower at the park's centre commemorates the 1957 flood defence that saved the city. The adjacent steps down to the frozen river are used for photos with the ice and the cathedral behind.
+
+![St. Sophia Cathedral Harbin — the green-domed Russian Orthodox church rising above a snow-covered square at night, lit in warm amber light](https://images.unsplash.com/photo-1520208422220-d12a3be5b530?w=1200&q=85)
+*St. Sophia Cathedral — Harbin's most iconic Russian Orthodox church, built 1932, the finest surviving European religious building in northeast China*
 
 ## Surviving Winter in Harbin
 

@@ -15,6 +15,9 @@ tags:
 description: "Explore Shenyang's Manchu imperial palace and the UNESCO Qing tombs, then venture to Yanbian Korean Autonomous Prefecture near the North Korean border for a unique Korean-Chinese border culture experience."
 ---
 
+![Shenyang Imperial Palace — the octagonal Dazheng Hall at dusk, its distinctive Manchu-Han hybrid architecture lit against the sky](https://images.unsplash.com/photo-1591116851752-3f7f19f5e7b8?w=1200&q=85)
+*Shenyang Imperial Palace — the pre-Beijing Qing Dynasty capital, a UNESCO World Heritage Site with unique Manchu architectural traditions*
+
 Liaoning and Jilin provinces hold two culturally distinct experiences that rarely appear in standard China itineraries: Shenyang's extraordinary Manchu imperial heritage that predates and parallels the Beijing Qing Dynasty; and the Korean cultural landscape of Yanbian, China's Korean autonomous prefecture on the North Korean border.
 
 ## Table of contents
@@ -33,6 +36,9 @@ The only imperial palace complex in China outside Beijing — a UNESCO World Her
 
 **Ticket:** ¥60. Open daily 8:30 AM – 5:30 PM.
 
+![Fuling Tomb Shenyang — the imperial approach road through autumn forest, with red walls and the distinctive Manchu-style architectural sequence](https://images.unsplash.com/photo-1599832054737-f7e1b2ff5a59?w=1200&q=85)
+*Fuling Tomb — the hilltop resting place of Nurhaci, founder of the Qing Dynasty, in the forested eastern suburbs of Shenyang*
+
 ### The Qing Dynasty Imperial Tombs
 
 Three tombs near Shenyang are jointly UNESCO-listed with the Eastern Qing Tombs near Beijing:
@@ -44,7 +50,12 @@ Both are free with Shenyang tourism cards or ¥50–80 entry.
 
 ---
 
+---
+
 ## Yanbian Korean Autonomous Prefecture (延边朝鲜族自治州)
+
+![Changbai Mountain Tianchi crater lake — the perfectly circular blue volcanic lake at 2,190 metres, surrounded by snowfields and the volcanic cone rim](https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=1200&q=85)
+*Changbai Mountain Tianchi — the world's highest volcanic crater lake on the China-North Korea border, 13 km in circumference*
 
 In the southeastern corner of Jilin Province, bordering North Korea across the Tumen River — the Yanbian prefecture is home to approximately 700,000 ethnic Koreans (조선족, Joseonjok), creating a landscape where Korean and Chinese cultures coexist in unique ways.
 

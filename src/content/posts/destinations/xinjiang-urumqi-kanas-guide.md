@@ -15,6 +15,9 @@ tags:
 description: "Complete guide to Xinjiang — the Kanas Lake alpine wilderness in the far north, the Tianchi Heavenly Lake above Urumqi, the flaming ruins of Turpan, Kashgar's ancient Sunday bazaar, and practical tips for traveling through China's largest province."
 ---
 
+![Kanas Lake Xinjiang in autumn — the deep blue glacial lake surrounded by birch and pine forest blazing in orange and gold, the Altai Mountains snowline visible above](https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=1200&q=85)
+*Kanas Lake in October — the birch and Siberian larch forests surrounding China's second deepest lake turn brilliant gold and orange, one of the most spectacular autumn scenes in China*
+
 Xinjiang (新疆) is China's largest province — 1.6 million square kilometres encompassing the Taklamakan Desert, the Tian Shan mountain range, the Karakoram Highway, and a cultural landscape where Uyghur, Kazakh, Kyrgyz, Han, Hui, and a dozen other ethnic groups have coexisted along the Silk Road for 2,000 years.
 
 The landscapes here are extreme: the Turpan Depression is the lowest point in China (154 m below sea level) and one of the hottest places on earth; the Pamir Plateau in the southwest is over 7,000 metres. The Taklamakan Desert ("you go in and you don't come out") is 337,000 km² of shifting sand dunes — the second-largest sand desert in the world.
@@ -37,6 +40,9 @@ In the far north of Xinjiang, on the border of Russia, Kazakhstan, and Mongolia 
 
 ---
 
+![Hemu Village Xinjiang in autumn mist — Tuwa wooden log houses in a forested valley with birch trees in golden autumn colours and morning mist rising from the river](https://images.unsplash.com/photo-1501854140801-50d01698950b?w=1200&q=85)
+*Hemu Village — the most photogenic village in Xinjiang, a Tuwa community of wooden log houses in an autumn-golden valley at the foot of the Altai Mountains*
+
 ## Tianchi Lake (天池, Heavenly Lake)
 
 110 km east of Urumqi — at 1,910 metres in the Tian Shan range, a glacial lake surrounded by snow-capped peaks and alpine meadow, with a Kazakh pastoral community living in yurts on the meadow shores.
@@ -48,6 +54,9 @@ In the far north of Xinjiang, on the border of Russia, Kazakhstan, and Mongolia 
 **Ticket:** ¥115. Day trip or overnight both work; overnight is strongly recommended.
 
 ---
+
+![Tianchi Lake Xinjiang — the deep blue alpine lake at 1,910 metres in the Tian Shan mountains, surrounded by spruce forest and snow-capped peaks in all directions](https://images.unsplash.com/photo-1531761535209-180857e963b9?w=1200&q=85)
+*Tianchi Lake — the "Heavenly Lake" at 1,910 metres in the Tian Shan, a blue alpine pool circled by forest and accessible as a day trip from Urumqi*
 
 ## Turpan (吐鲁番)
 
