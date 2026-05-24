@@ -1,0 +1,135 @@
+---
+author: Roam China Travel Editorial Team
+pubDatetime: 2026-04-16T08:00:00Z
+modDatetime: 2026-05-20T10:00:00Z
+title: "798 Art District Beijing: What to See, Best Galleries & How to Spend a Day"
+featured: false
+draft: false
+tags:
+  - beijing
+  - art
+  - contemporary culture
+  - 798
+  - neighbourhoods
+description: "Your guide to Beijing's 798 Art District — the best galleries currently showing, public sculptures, cafés, and what makes this converted Bauhaus factory complex worth visiting in 2026."
+---
+
+In the early 2000s, a cluster of decommissioned military electronics factories in northeast Beijing's Dashanzi area attracted a wave of artists priced out of the city centre. They converted the vast Bauhaus-style halls — built in the 1950s with East German technical assistance — into studios and galleries. The area became known as 798, after the most prominent factory unit.
+
+Today, 798 Art District (798艺术区) covers roughly 60 hectares and contains over 200 galleries, art spaces, design studios, bookshops, restaurants, and public sculpture installations. It is China's most significant contemporary art cluster and one of the most visited art districts in Asia.
+
+The quality varies enormously. Some spaces show rigorously curated contemporary art of genuine international standing; others sell decorative prints to tourists. This guide focuses on the former.
+
+## Table of contents
+
+## Essential Information
+
+| Detail | Info |
+|--------|------|
+| Address | 798 Art District, 4 Jiuxianqiao Road, Chaoyang District, Beijing |
+| Opening hours | Most galleries: 10:00 AM – 6:00 PM; closed Monday |
+| Admission | Most galleries free; major exhibitions ¥30–80 |
+| Getting there | No direct metro; take Subway Line 14 to Jiangtai, then taxi/DiDi (10 min); or taxi directly from anywhere in Beijing |
+| Best season | May–October (outdoor sculptures and events); also Spring Festival period for special exhibitions |
+| Recommended time | Half day (3–4 hours) to full day |
+
+## Layout: Understanding 798
+
+The district is organised along several main streets, with a labyrinth of smaller paths between factory buildings. The scale can be disorienting. The main north-south artery — **798 Road (798路)** — is the most gallery-dense and the logical starting point.
+
+Pick up a free gallery map from the visitor centre near the main entrance, or download the **798 Art District** WeChat mini-program, which has a real-time gallery map showing current exhibitions.
+
+## Major Galleries Worth Visiting
+
+### UCCA Center for Contemporary Art (尤伦斯当代艺术中心)
+
+The anchor institution of 798 — an internationally respected non-profit contemporary art museum founded by Belgian collectors Guy and Myriam Ullens in 2007. UCCA occupies a former munitions store, with the original industrial architecture preserved and dramatically lit.
+
+The exhibition programme focuses on Chinese contemporary art (both established and emerging) and major international shows. UCCA has hosted substantial exhibitions of Ai Weiwei, Cai Guo-Qiang, and major international artists. Tickets typically ¥50–100 depending on exhibition.
+
+**Check the current programme** at ucca.org.cn before visiting — the quality of the main exhibition significantly affects the visit.
+
+### Pace Gallery Beijing (佩斯北京)
+
+The Beijing outpost of the major New York gallery, in a converted factory hall. Pace represents internationally significant artists — Louise Nevelson, Alexander Calder, Agnes Martin — and also has a strong roster of Chinese contemporary artists. Exhibition quality is consistently very high. Free admission.
+
+### Tang Contemporary Art (唐人当代艺术中心)
+
+One of the oldest galleries in 798, founded in 1997. Strong programme of Chinese contemporary painting, sculpture, and installation. The director has a good eye for mid-career artists before they break internationally. Free.
+
+### Vitamin Creative Space (维他命艺术空间)
+
+A Guangzhou-based gallery with a strong Beijing programme — particularly good for younger conceptual artists and performance-based work. Less high-profile than UCCA or Pace, but often the most surprising work.
+
+### White Space Beijing (空白空间)
+
+Consistently rigorous programme with a focus on conceptual and abstract work. The building itself — a converted factory with soaring ceilings and good natural light — is one of the better exhibition spaces in the district. Free admission.
+
+## Public Sculpture: The Outdoor Collection
+
+Some of the best art in 798 is the permanent public sculpture installed throughout the streets and courtyard spaces. No ticket required; accessible at any time during daylight hours.
+
+- **Ai Weiwei's "Remembering"** — the original installation is gone, but several Ai works from the early 798 period are documented in the district's history. His studio was here before its demolition.
+- **The large industrial chimney** at the intersection of 798 Road and the internal east-west path has become the visual landmark of the district, used as an outdoor projection surface during festivals.
+- The stretch of **798 Road itself** is lined with large-scale sculptures — a mix of quality, but several genuinely strong pieces anchor the public realm.
+
+**Photo tip:** Early morning light (8–9 AM, before galleries open) is the best time to photograph the outdoor sculptures without crowds in frame. The industrial buildings create excellent shadows and geometric compositions.
+
+## The 798 Food Scene
+
+The district's food options have improved dramatically in recent years, with a cluster of genuinely good restaurants now operating alongside the galleries.
+
+### For Coffee
+- **UCCA Café:** Good espresso, outdoor seating in the courtyard; excellent for a break between galleries
+- **Soloist Coffee 798:** A branch of the well-regarded Wudaoying hutong café; excellent single-origin pour-overs
+- Several independent café-bookshop hybrids along the eastern section of the district
+
+### For Lunch
+- **The Kitchen (798厨房):** Reliable Chinese-Western fusion in the centre of the district; popular with gallery staff
+- **Pho Corner 798:** Extremely good Vietnamese; owned by a Beijing-based Vietnamese family
+- The cluster of small Chinese restaurants on the **north side of 798 Road** where it widens — these cater mainly to studio workers and are considerably cheaper than the tourist-facing spots
+
+### Bookshops
+**Timezone 8 Art Books** is the best English-language art bookshop in Beijing, located in 798. Strong selection of monographs on Chinese contemporary art, international art theory, architecture, and design. Worth visiting even if you don't buy anything.
+
+## The 798 Beyond the Galleries
+
+### Design Week and Art Fairs
+
+**Beijing Design Week** (usually late September) transforms 798 into a citywide design festival with particular concentration in the district. Worth planning a trip around if your interests overlap with design and architecture.
+
+**Art Beijing** (艺术北京), held in early May, is an annual art fair with galleries from across China and internationally. Good for seeing the commercial market for Chinese contemporary art.
+
+**798 International Art Festival** runs in autumn with a programme of performance, video art, and site-specific commissions. Free events mix with ticketed performances.
+
+### Hutong Projects: Beyond 798
+
+The **Caochangdi** (草场地) arts district, a 10-minute walk north of 798, is where many of the more experimental artist studios relocated as rents rose in 798. Fewer tourists, rawer spaces, more interesting work in some cases. Ai Weiwei's original studio (now demolished) was here; the area still has a strong sense of working artist community.
+
+## Getting There and Getting Around
+
+**No single metro stop serves 798 directly.** The most practical options:
+
+1. **DiDi or taxi** from anywhere in Beijing — straightforward, ¥30–60 depending on where you're coming from. The address in Chinese: 朝阳区酒仙桥路4号798艺术区
+2. **Metro Line 14 to Jiangtai**, then 10-minute taxi/DiDi ride
+3. **Bus 401, 909, or 955** to Dashanzi Lugou stop — a short walk to the main entrance
+
+Inside the district, everything is walkable. The main 798 Road is about 600 metres long; the full district perimeter is approximately 2 kilometres.
+
+## Practical Tips
+
+**Timing:** Most galleries open at 10 AM, many close at 6 PM, and almost all are closed Mondays. A weekday visit (Tuesday–Thursday) is significantly less crowded.
+
+**What to wear:** Gallery floors are polished concrete; comfortable walking shoes essential. The outdoor areas involve cobblestones and uneven surfaces.
+
+**Budget:** Mostly free, with a few major shows running ¥50–100. Budget an afternoon of essentially free world-class art.
+
+**Crowds:** 798 can be busy on weekends, especially in May and October, when the outdoor spaces become social destinations as much as art spaces. The galleries themselves remain less crowded than the streets.
+
+**English:** Most major galleries have staff who speak English and exhibition texts in both languages. Some smaller spaces are Chinese-only.
+
+---
+
+*798 in 2026 is no longer the raw, frontier art scene of 2005. But it remains the most concentrated space in China for seeing serious contemporary art — and on a good day, when a strong exhibition is on and the light hits the old factory roofs just right, it still feels like something is happening here.*
+
+*Last updated: May 2026*
