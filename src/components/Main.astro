@@ -19,17 +19,29 @@ const backUrl = config.features.showBackButton
 <main
   data-backUrl={backUrl}
   id="main-content"
-  class:list={["app-layout pb-4", className]}
+  class:list={["mx-auto w-full max-w-6xl px-4 pb-8 sm:px-6", className]}
 >
-  <h1 class="text-2xl font-semibold sm:text-3xl">{pageTitle}</h1>
-  <p class="mt-2 mb-6 italic">{pageDesc}</p>
-  <slot />
+  <!-- Page header -->
+  <div class="border-b border-border py-10">
+    <h1
+      class="text-3xl font-extrabold text-foreground sm:text-4xl"
+      style="font-family: var(--font-google-sans-code), monospace;"
+    >
+      {pageTitle}
+    </h1>
+    {pageDesc && (
+      <p class="mt-2 text-muted-foreground">{pageDesc}</p>
+    )}
+  </div>
+
+  <div class="pt-8">
+    <slot />
+  </div>
 </main>
 
 <script>
   document.addEventListener("astro:page-load", () => {
-    const mainContent: HTMLElement | null =
-      document.querySelector("#main-content");
+    const mainContent: HTMLElement | null = document.querySelector("#main-content");
     const backUrl = mainContent?.dataset?.backurl;
     if (backUrl) {
       sessionStorage.setItem("backUrl", backUrl);

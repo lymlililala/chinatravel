@@ -9,35 +9,61 @@
   --color-border: var(--border);
   --color-secondary: var(--secondary);
   --color-secondary-foreground: var(--secondary-foreground);
+  /* China-inspired custom tokens */
+  --color-bamboo: var(--bamboo);
+  --color-rice-paper: var(--rice-paper);
+  --color-slate-tile: var(--slate-tile);
   --font-app: var(--font-inter);
   --font-heading: var(--font-google-sans-code);
 }
 
-/* Light theme — warm ivory & China red */
+/* ──────────────────────────────────────────────
+   LIGHT THEME  —  Warm ivory & China red
+   With low-saturation Chinese cultural tones:
+   竹青 Bamboo Green  #4a7c59
+   宣纸 Rice Paper    #f5efe6
+   瓦灰 Slate Tile    #8a8a8a
+────────────────────────────────────────────── */
 :root,
 [data-theme="light"] {
-  --background: #fdf8f3;
-  --foreground: #1a1a1a;
-  --accent: #c0392b;
+  /* Core palette */
+  --background:    #fdf8f2;
+  --foreground:    #1c1a18;
+  --accent:        #c0392b;          /* China red — primary CTA */
   --accent-foreground: #ffffff;
-  --muted: #ede8e0;
-  --muted-foreground: #5a5a5a;
-  --border: #e0d8cc;
-  --secondary: #1a4b47;
+  --muted:         #ede8df;
+  --muted-foreground: #6b6360;
+  --border:        #e0d8cc;
+  --secondary:     #1a4b47;          /* Deep teal */
   --secondary-foreground: #ffffff;
-  --card-bg: #ffffff;
+  --card-bg:       #ffffff;
+
+  /* China-cultural accent tones (for subtle use) */
+  --bamboo:        #4a7c59;          /* 竹青 — nature / hiking tags */
+  --rice-paper:    #f5efe6;          /* 宣纸 — card tinted backgrounds */
+  --slate-tile:    #6b7280;          /* 瓦灰 — metadata / secondary text */
+
+  /* Section alternate background */
+  --section-alt:   #f7f2ea;
 }
 
-/* Dark theme — ink-black & gold */
+/* ──────────────────────────────────────────────
+   DARK THEME  —  Ink-black & gold
+────────────────────────────────────────────── */
 [data-theme="dark"] {
-  --background: #1a1410;
-  --foreground: #f0e8d8;
-  --accent: #e8a020;
-  --accent-foreground: #1a1410;
-  --muted: #2e2418;
+  --background:    #18140f;
+  --foreground:    #f0e8d8;
+  --accent:        #e8a020;          /* Amber gold — primary CTA */
+  --accent-foreground: #18140f;
+  --muted:         #2b2218;
   --muted-foreground: #a89070;
-  --border: #4a3820;
-  --secondary: #2a6b65;
+  --border:        #3d2e1e;
+  --secondary:     #2a6b65;
   --secondary-foreground: #f0e8d8;
-  --card-bg: #231d16;
+  --card-bg:       #211a12;
+
+  --bamboo:        #6aab7a;
+  --rice-paper:    #2b2218;
+  --slate-tile:    #9ca3af;
+  --section-alt:   #1e1810;
 }

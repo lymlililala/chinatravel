@@ -6,84 +6,166 @@ import Datetime from "./Datetime.astro";
 
 type Props = {
   variant?: "h2" | "h3";
+  cardStyle?: "list" | "grid";
 } & CollectionEntry<"posts">;
 
-const { variant: Heading = "h2", id, data, filePath } = Astro.props;
+const { variant: Heading = "h2", cardStyle = "list", id, data, filePath } = Astro.props;
 const { title, description, tags, pubDatetime, modDatetime } = data;
 
 const postUrl = getPostUrl(id, filePath, Astro.currentLocale);
 
-// Pick a representative thumbnail based on the first tag or title keywords
+// Thumbnail map
 const thumbnailMap: Record<string, string> = {
-  beijing: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=400&q=75",
-  shanghai: "https://images.unsplash.com/photo-1537944434965-cf4679d1a598?w=400&q=75",
-  xian: "https://images.unsplash.com/photo-1591451427710-ad34d2cfd9d1?w=400&q=75",
-  chengdu: "https://images.unsplash.com/photo-1569880153113-76e33fc52d5f?w=400&q=75",
-  guilin: "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=400&q=75",
-  dali: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&q=75",
-  hangzhou: "https://images.unsplash.com/photo-1567958855890-cff48e46f5b5?w=400&q=75",
-  tibet: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=400&q=75",
-  lijiang: "https://images.unsplash.com/photo-1558618047-3c8c76a8c9e7?w=400&q=75",
-  huangshan: "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&q=75",
-  zhangjiajie: "https://images.unsplash.com/photo-1540541338287-41700207dee6?w=400&q=75",
-  dunhuang: "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=400&q=75",
-  sanya: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=400&q=75",
-  jiuzhaigou: "https://images.unsplash.com/photo-1518021964703-4b2030f03085?w=400&q=75",
-  gulangyu: "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=400&q=75",
-  visa: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=400&q=75",
-  payment: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&q=75",
-  transport: "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=400&q=75",
-  apps: "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?w=400&q=75",
+  beijing:     "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=600&q=80",
+  shanghai:    "https://images.unsplash.com/photo-1537944434965-cf4679d1a598?w=600&q=80",
+  xian:        "https://images.unsplash.com/photo-1591451427710-ad34d2cfd9d1?w=600&q=80",
+  chengdu:     "https://images.unsplash.com/photo-1569880153113-76e33fc52d5f?w=600&q=80",
+  guilin:      "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=600&q=80",
+  dali:        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80",
+  hangzhou:    "https://images.unsplash.com/photo-1567958855890-cff48e46f5b5?w=600&q=80",
+  tibet:       "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=600&q=80",
+  lijiang:     "https://images.unsplash.com/photo-1558618047-3c8c76a8c9e7?w=600&q=80",
+  huangshan:   "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600&q=80",
+  zhangjiajie: "https://images.unsplash.com/photo-1540541338287-41700207dee6?w=600&q=80",
+  dunhuang:    "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=600&q=80",
+  sanya:       "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&q=80",
+  jiuzhaigou:  "https://images.unsplash.com/photo-1518021964703-4b2030f03085?w=600&q=80",
+  gulangyu:    "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=600&q=80",
+  visa:        "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=600&q=80",
+  payment:     "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&q=80",
+  transport:   "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=600&q=80",
+  apps:        "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?w=600&q=80",
+  food:        "https://images.unsplash.com/photo-1563245372-f21724e3856d?w=600&q=80",
+  solo:        "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=600&q=80",
+  beginners:   "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=600&q=80",
 };
 
 const firstTag = (tags?.[0] ?? "").toLowerCase().replace(/[^a-z]/g, "");
 const thumbnail =
   thumbnailMap[firstTag] ??
   thumbnailMap[Object.keys(thumbnailMap).find(k => title.toLowerCase().includes(k)) ?? ""] ??
-  "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=400&q=75";
+  "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=600&q=80";
 
 const category = tags?.[0] ?? "";
+
+// Badge colour per category
+const badgeColorMap: Record<string, string> = {
+  beijing:     "bg-red-100 text-red-700 dark:bg-red-900/40 dark:text-red-300",
+  shanghai:    "bg-blue-100 text-blue-700 dark:bg-blue-900/40 dark:text-blue-300",
+  xian:        "bg-amber-100 text-amber-700 dark:bg-amber-900/40 dark:text-amber-300",
+  chengdu:     "bg-green-100 text-green-700 dark:bg-green-900/40 dark:text-green-300",
+  guilin:      "bg-emerald-100 text-emerald-700 dark:bg-emerald-900/40 dark:text-emerald-300",
+  dali:        "bg-teal-100 text-teal-700 dark:bg-teal-900/40 dark:text-teal-300",
+  hangzhou:    "bg-cyan-100 text-cyan-700 dark:bg-cyan-900/40 dark:text-cyan-300",
+  tibet:       "bg-purple-100 text-purple-700 dark:bg-purple-900/40 dark:text-purple-300",
+  dunhuang:    "bg-orange-100 text-orange-700 dark:bg-orange-900/40 dark:text-orange-300",
+  transport:   "bg-indigo-100 text-indigo-700 dark:bg-indigo-900/40 dark:text-indigo-300",
+  visa:        "bg-rose-100 text-rose-700 dark:bg-rose-900/40 dark:text-rose-300",
+  payment:     "bg-lime-100 text-lime-700 dark:bg-lime-900/40 dark:text-lime-300",
+  food:        "bg-yellow-100 text-yellow-700 dark:bg-yellow-900/40 dark:text-yellow-300",
+  solo:        "bg-pink-100 text-pink-700 dark:bg-pink-900/40 dark:text-pink-300",
+  beginners:   "bg-sky-100 text-sky-700 dark:bg-sky-900/40 dark:text-sky-300",
+};
+const badgeClass = badgeColorMap[firstTag] ?? "bg-muted text-muted-foreground";
+
+// Simplified date display: "Updated May 2026"
+const displayDate = modDatetime ?? pubDatetime;
+const dateStr = displayDate.toLocaleDateString("en-US", { month: "short", year: "numeric" });
 ---
 
-<li class="group">
-  <a
-    href={postUrl}
-    class="flex gap-4 rounded-xl border border-border bg-[var(--card-bg,#fff)] p-4 shadow-sm transition-all duration-300 hover:shadow-md hover:-translate-y-0.5 sm:gap-5"
-  >
-    <!-- Thumbnail -->
-    <div class="h-24 w-32 flex-shrink-0 overflow-hidden rounded-lg bg-muted sm:h-28 sm:w-36">
-      <img
-        src={thumbnail}
-        alt={title}
-        class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-110"
-        loading="lazy"
-      />
-    </div>
-
-    <!-- Text content -->
-    <div class="flex min-w-0 flex-1 flex-col justify-between">
-      <div>
-        <!-- Category tag -->
+{cardStyle === "grid" ? (
+  <!-- ── GRID CARD ── -->
+  <li class="group">
+    <a
+      href={postUrl}
+      class="flex h-full flex-col overflow-hidden rounded-2xl border border-border bg-[var(--card-bg,#fff)] shadow-sm transition-all duration-300 hover:shadow-xl hover:-translate-y-2 hover:border-accent/20"
+    >
+      <!-- Image -->
+      <div class="relative h-48 overflow-hidden bg-muted">
+        <img
+          src={thumbnail}
+          alt={title}
+          class="h-full w-full object-cover transition-transform duration-500 ease-out group-hover:scale-108"
+          loading="lazy"
+        />
+        <!-- Gradient for badge readability -->
+        <div class="absolute inset-0 bg-gradient-to-t from-black/30 to-transparent opacity-0 transition-opacity group-hover:opacity-100"></div>
+        <!-- Badge on image -->
         {category && (
-          <span class="mb-1.5 inline-block text-xs font-semibold uppercase tracking-wider text-accent">
+          <span class:list={["absolute top-3 left-3 rounded-full px-2.5 py-0.5 text-xs font-bold uppercase tracking-wide shadow-sm", badgeClass]}>
             {category}
           </span>
         )}
-        <!-- Title -->
+      </div>
+
+      <!-- Text -->
+      <div class="flex flex-1 flex-col p-4">
         <Heading
           transition:name={slugifyStr(title.replaceAll(".", "-"))}
-          class="line-clamp-2 text-base font-bold leading-snug text-foreground group-hover:text-accent transition-colors sm:text-lg"
+          class="mb-2 line-clamp-2 text-base font-bold leading-snug text-foreground group-hover:text-accent transition-colors"
           style="font-family: var(--font-google-sans-code), monospace;"
         >
           {title}
         </Heading>
-        <!-- Description -->
-        <p class="mt-1.5 line-clamp-2 text-sm leading-relaxed text-muted-foreground">
+        <p class="flex-1 line-clamp-2 text-sm leading-relaxed text-muted-foreground">
           {description}
         </p>
+        <p class="mt-3 text-xs text-muted-foreground/70">
+          Updated {dateStr}
+        </p>
       </div>
-      <!-- Date -->
-      <Datetime {pubDatetime} {modDatetime} class="mt-2 text-xs" />
-    </div>
-  </a>
-</li>
+    </a>
+  </li>
+) : (
+  <!-- ── LIST CARD ── -->
+  <li class="group">
+    <a
+      href={postUrl}
+      class="flex gap-4 rounded-2xl border border-border bg-[var(--card-bg,#fff)] p-4 shadow-sm transition-all duration-300 hover:shadow-md hover:-translate-y-0.5 hover:border-accent/20 sm:gap-5"
+    >
+      <!-- Thumbnail -->
+      <div class="h-24 w-32 flex-shrink-0 overflow-hidden rounded-xl bg-muted sm:h-28 sm:w-36">
+        <img
+          src={thumbnail}
+          alt={title}
+          class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-108"
+          loading="lazy"
+        />
+      </div>
+
+      <!-- Text -->
+      <div class="flex min-w-0 flex-1 flex-col justify-between">
+        <div>
+          {category && (
+            <span class:list={["mb-2 inline-block rounded-full px-2.5 py-0.5 text-xs font-bold uppercase tracking-wide", badgeClass]}>
+              {category}
+            </span>
+          )}
+          <Heading
+            transition:name={slugifyStr(title.replaceAll(".", "-"))}
+            class="line-clamp-2 text-base font-bold leading-snug text-foreground group-hover:text-accent transition-colors sm:text-lg"
+            style="font-family: var(--font-google-sans-code), monospace;"
+          >
+            {title}
+          </Heading>
+          <p class="mt-1.5 line-clamp-2 text-sm leading-relaxed text-muted-foreground">
+            {description}
+          </p>
+        </div>
+        <p class="mt-2 text-xs text-muted-foreground/70">
+          Updated {dateStr}
+        </p>
+      </div>
+    </a>
+  </li>
+)}
+
+<style>
+  .group-hover\:scale-108:is(.group:hover *) {
+    transform: scale(1.08);
+  }
+  /* Fallback for scale-108 */
+  .group:hover .group-hover\:scale-108 {
+    transform: scale(1.08);
+  }
+</style>

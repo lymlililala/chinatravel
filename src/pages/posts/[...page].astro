@@ -1,13 +1,13 @@
 ---
 import type { GetStaticPaths } from "astro";
 import { getCollection } from "astro:content";
+import { getRelativeLocaleUrl } from "astro:i18n";
 import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
-import Breadcrumb from "@/components/Breadcrumb.astro";
-import Main from "@/components/Main.astro";
-import Card from "@/components/Card.astro";
 import Footer from "@/components/Footer.astro";
+import Card from "@/components/Card.astro";
 import Pagination from "@/components/Pagination.astro";
+import IconArrowRight from "@/assets/icons/IconArrowRight.svg";
 import { getSortedPosts } from "@/utils/getSortedPosts";
 import { useTranslations } from "@/i18n";
 import config from "@/config";
@@ -18,23 +18,123 @@ export const getStaticPaths = (async ({ paginate }) => {
 }) satisfies GetStaticPaths;
 
 const { page } = Astro.props;
-
 const locale = Astro.currentLocale ?? config.site.lang;
 const t = useTranslations(locale);
+
+// Category filter tabs (subset of popular tags)
+const filterTabs = [
+  { label: "All Guides",   tag: null },
+  { label: "Destinations", tag: "destinations" },
+  { label: "Toolkit",      tag: "toolkit" },
+  { label: "Food",         tag: "food" },
+  { label: "Nature",       tag: "nature" },
+  { label: "Solo Travel",  tag: "solo" },
+];
 ---
 
 <Layout title={`${t.pages.postsTitle} | ${config.site.title}`}>
   <Header />
 
-  <Breadcrumb />
+  <main id="main-content" class="pb-0">
 
-  <Main pageTitle={t.pages.postsTitle} pageDesc={t.pages.postsDesc}>
-    <ul>
-      {page.data.map(data => <Card {...data} />)}
-    </ul>
-  </Main>
+    <!-- Page header -->
+    <div class="relative overflow-hidden border-b border-border bg-gradient-to-br from-background via-muted/30 to-background py-12">
+      <div class="pointer-events-none absolute -top-16 -right-16 h-56 w-56 rounded-full bg-accent/5 blur-3xl"></div>
+      <div class="mx-auto max-w-6xl px-4 sm:px-6">
+        <nav class="mb-4 flex items-center gap-2 text-sm text-muted-foreground">
+          <a href={getRelativeLocaleUrl(locale, "")} class="transition-colors hover:text-accent">Home</a>
+          <span>/</span>
+          <span class="text-foreground">Articles</span>
+          {page.currentPage > 1 && <><span>/</span><span class="text-foreground">Page {page.currentPage}</span></>}
+        </nav>
+        <h1 class="text-4xl font-extrabold text-foreground sm:text-5xl" style="font-family: var(--font-google-sans-code), monospace;">
+          {t.pages.postsTitle}
+        </h1>
+        <p class="mt-2 text-lg text-muted-foreground">{t.pages.postsDesc}</p>
+      </div>
+    </div>
 
-  <Pagination {page} />
+    <!-- Filter tabs -->
+    <div class="sticky top-[60px] z-30 border-b border-border bg-background/95 backdrop-blur-md">
+      <div class="mx-auto max-w-6xl overflow-x-auto px-4 sm:px-6">
+        <div class="flex gap-1 py-2.5" id="filter-tabs">
+          {filterTabs.map(tab => (
+            <button
+              data-tag={tab.tag ?? "all"}
+              class:list={[
+                "filter-tab flex-shrink-0 rounded-full px-4 py-1.5 text-sm font-medium transition-all duration-200",
+                "border border-transparent",
+                tab.tag === null
+                  ? "bg-accent text-white shadow-sm"
+                  : "text-muted-foreground hover:text-foreground hover:bg-muted",
+              ]}
+            >
+              {tab.label}
+            </button>
+          ))}
+        </div>
+      </div>
+    </div>
+
+    <!-- Article grid -->
+    <div class="mx-auto max-w-6xl px-4 py-10 sm:px-6">
+      <ul id="posts-grid" class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        {page.data.map(data => (
+          <Card variant="h2" cardStyle="grid" {...data} />
+        ))}
+      </ul>
+
+      <!-- Empty state -->
+      <div id="empty-state" class="hidden py-20 text-center">
+        <span class="text-5xl">🔍</span>
+        <p class="mt-4 text-lg font-semibold text-foreground">No articles in this category yet</p>
+        <p class="mt-1 text-sm text-muted-foreground">Try another filter or browse all guides.</p>
+      </div>
+    </div>
+
+    <Pagination {page} />
+  </main>
 
   <Footer noMarginTop={page.lastPage > 1} />
 </Layout>
+
+<script>
+  document.addEventListener("astro:page-load", () => {
+    const tabs = document.querySelectorAll<HTMLButtonElement>(".filter-tab");
+    const cards = document.querySelectorAll<HTMLLIElement>("#posts-grid > li");
+    const emptyState = document.getElementById("empty-state");
+    const grid = document.getElementById("posts-grid");
+
+    if (!tabs.length) return;
+
+    tabs.forEach(tab => {
+      tab.addEventListener("click", () => {
+        const selectedTag = tab.dataset.tag ?? "all";
+
+        // Update active tab styles
+        tabs.forEach(t => {
+          t.classList.remove("bg-accent", "text-white", "shadow-sm", "border-accent");
+          t.classList.add("text-muted-foreground", "border-transparent");
+        });
+        tab.classList.add("bg-accent", "text-white", "shadow-sm");
+        tab.classList.remove("text-muted-foreground", "border-transparent");
+
+        // Filter cards
+        let visibleCount = 0;
+        cards.forEach(card => {
+          const link = card.querySelector("a");
+          const tagBadge = card.querySelector("span[class*='rounded-full']");
+          const cardTag = (tagBadge?.textContent ?? "").toLowerCase().trim();
+          const matches = selectedTag === "all" || cardTag.includes(selectedTag);
+          card.style.display = matches ? "" : "none";
+          if (matches) visibleCount++;
+        });
+
+        if (emptyState && grid) {
+          emptyState.classList.toggle("hidden", visibleCount > 0);
+          grid.classList.toggle("hidden", visibleCount === 0);
+        }
+      });
+    });
+  });
+</script>

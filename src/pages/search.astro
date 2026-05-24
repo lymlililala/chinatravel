@@ -3,8 +3,6 @@ import { getRelativeLocaleUrl } from "astro:i18n";
 import "@pagefind/default-ui/css/ui.css";
 import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
-import Breadcrumb from "@/components/Breadcrumb.astro";
-import Main from "@/components/Main.astro";
 import Footer from "@/components/Footer.astro";
 import { getAssetPath } from "@/utils/withBase";
 import { useTranslations } from "@/i18n";
@@ -23,100 +21,196 @@ const backUrl = config.features.showBackButton
   : getRelativeLocaleUrl(locale, "");
 
 const pagefindBundlePath = getAssetPath("pagefind/");
-
 const t = useTranslations(locale);
+
+// Popular searches for guidance
+const popularSearches = [
+  { label: "Visa-free entry", query: "visa free" },
+  { label: "Alipay for foreigners", query: "alipay foreign card" },
+  { label: "Great Wall guide", query: "great wall" },
+  { label: "High-speed train tickets", query: "train tickets" },
+  { label: "Best time to visit", query: "best time" },
+  { label: "Solo travel tips", query: "solo" },
+  { label: "Chengdu pandas", query: "chengdu panda" },
+  { label: "Street food guide", query: "street food" },
+  { label: "Tibet permit", query: "tibet" },
+  { label: "2-week itinerary", query: "itinerary" },
+];
+
+// Trending topics
+const trendingTopics = [
+  { emoji: "🏯", label: "Beijing",     tag: "beijing" },
+  { emoji: "🌆", label: "Shanghai",    tag: "shanghai" },
+  { emoji: "🐼", label: "Chengdu",     tag: "chengdu" },
+  { emoji: "⛰️", label: "Guilin",      tag: "guilin" },
+  { emoji: "🛂", label: "Visa",        tag: "visa" },
+  { emoji: "💳", label: "Payment",     tag: "payment" },
+];
 ---
 
 <Layout title={`${t.pages.searchTitle} | ${config.site.title}`}>
   <Header />
 
-  <Breadcrumb />
+  <main id="main-content" class="flex min-h-[calc(100svh-var(--header-h,64px))] flex-col">
 
-  <Main pageTitle={t.pages.searchTitle} pageDesc={t.pages.searchDesc}>
-    <div
-      id="pagefind-search"
-      transition:persist
-      data-backurl={backUrl}
-      data-bundle-path={pagefindBundlePath}
-    >
+    <!-- Search hero area -->
+    <div class="border-b border-border bg-gradient-to-br from-background via-muted/30 to-background py-12">
+      <div class="mx-auto max-w-3xl px-4 sm:px-6">
+
+        <!-- Breadcrumb -->
+        <nav class="mb-5 flex items-center gap-2 text-sm text-muted-foreground">
+          <a href={getRelativeLocaleUrl(locale, "")} class="transition-colors hover:text-accent">Home</a>
+          <span>/</span>
+          <span class="text-foreground">Search</span>
+        </nav>
+
+        <h1 class="mb-2 text-3xl font-extrabold text-foreground sm:text-4xl" style="font-family: var(--font-google-sans-code), monospace;">
+          Search Guides
+        </h1>
+        <p class="mb-8 text-muted-foreground">
+          Find destinations, practical guides, and travel tips for your China trip.
+        </p>
+
+        <!-- SINGLE Pagefind search box — no duplicate -->
+        <div
+          id="pagefind-search"
+          transition:persist
+          data-backurl={backUrl}
+          data-bundle-path={pagefindBundlePath}
+          class="pagefind-container"
+        >
+        </div>
+
+        <!-- Popular searches (shown before user types) -->
+        <div id="popular-searches" class="mt-8">
+          <p class="mb-3 text-xs font-semibold uppercase tracking-[0.15em] text-muted-foreground">
+            Popular searches
+          </p>
+          <div class="flex flex-wrap gap-2">
+            {popularSearches.map(s => (
+              <button
+                data-query={s.query}
+                class="popular-search-btn rounded-full border border-border bg-muted/60 px-3.5 py-1.5 text-sm text-foreground transition-all duration-200 hover:border-accent/40 hover:bg-accent/10 hover:text-accent"
+              >
+                {s.label}
+              </button>
+            ))}
+          </div>
+        </div>
+
+        <!-- Trending topics -->
+        <div id="trending-topics" class="mt-8">
+          <p class="mb-3 text-xs font-semibold uppercase tracking-[0.15em] text-muted-foreground">
+            Browse by destination
+          </p>
+          <div class="flex flex-wrap gap-2">
+            {trendingTopics.map(topic => (
+              <a
+                href={getRelativeLocaleUrl(locale, `tags/${topic.tag}`)}
+                class="flex items-center gap-1.5 rounded-full border border-border bg-[var(--card-bg,#fff)] px-4 py-2 text-sm font-medium text-foreground shadow-sm transition-all duration-200 hover:border-accent/40 hover:text-accent hover:shadow-md hover:-translate-y-0.5"
+              >
+                <span>{topic.emoji}</span>
+                <span>{topic.label}</span>
+              </a>
+            ))}
+          </div>
+        </div>
+      </div>
     </div>
-  </Main>
+
+    <!-- Results area (pagefind appends here) -->
+    <div class="flex-1 bg-background"></div>
+  </main>
 
   <Footer />
 </Layout>
 
 <script>
   function initSearch() {
-    const pageFindSearch: HTMLElement | null =
-      document.querySelector("#pagefind-search");
-
+    const pageFindSearch: HTMLElement | null = document.querySelector("#pagefind-search");
     if (!pageFindSearch) return;
 
     const bundlePath = pageFindSearch?.dataset?.bundlePath;
     if (!bundlePath) return;
 
     const params = new URLSearchParams(window.location.search);
-
-    const onIdle = window.requestIdleCallback || (cb => setTimeout(cb, 1));
+    const onIdle = window.requestIdleCallback || ((cb: () => void) => setTimeout(cb, 1));
 
     onIdle(async () => {
       // @ts-expect-error — Missing types for @pagefind/default-ui package.
       const { PagefindUI } = await import("@pagefind/default-ui");
 
-      // Display warning inn dev mode
       if (import.meta.env.DEV) {
         pageFindSearch.innerHTML = `
-            <div class="bg-muted/75 rounded p-4 space-y-4 mb-4">
-              <p><strong>DEV mode Warning! </strong>You need to build the project at least once to see the search results during development.</p>
-              <code class="block bg-black text-white px-2 py-1 rounded">pnpm run build</code>
-            </div>
-          `;
+          <div class="rounded-xl border border-border bg-muted/50 p-5 space-y-3 mb-4">
+            <p><strong>DEV mode:</strong> Build the project once to see search results.</p>
+            <code class="block rounded bg-black text-white px-3 py-2 text-sm">pnpm run build</code>
+          </div>
+        `;
       }
 
-      // Init pagefind ui
       const search = new PagefindUI({
         element: "#pagefind-search",
         bundlePath,
         showImages: false,
         showSubResults: true,
         processTerm: function (term: string) {
-          params.set("q", term); // Update the `q` parameter in the URL
-          history.replaceState(history.state, "", "?" + params.toString()); // Push the new URL without reloading
-
-          const backUrl =
-            pageFindSearch?.dataset?.backurl ?? window.location.pathname;
+          params.set("q", term);
+          history.replaceState(history.state, "", "?" + params.toString());
+          const backUrl = pageFindSearch?.dataset?.backurl ?? window.location.pathname;
           sessionStorage.setItem("backUrl", `${backUrl}?${params.toString()}`);
-
+          // Hide popular searches when user is actively searching
+          const popularEl = document.getElementById("popular-searches");
+          const trendingEl = document.getElementById("trending-topics");
+          if (term.trim()) {
+            popularEl?.classList.add("hidden");
+            trendingEl?.classList.add("hidden");
+          } else {
+            popularEl?.classList.remove("hidden");
+            trendingEl?.classList.remove("hidden");
+          }
           return term;
         },
       });
 
-      // If search param exists (eg: search?q=astro), trigger search
+      // Pre-fill from URL query
       const query = params.get("q");
       if (query) {
         search.triggerSearch(query);
+        document.getElementById("popular-searches")?.classList.add("hidden");
+        document.getElementById("trending-topics")?.classList.add("hidden");
       }
 
-      // Reset search param if search input is cleared
-      const searchInput = document.querySelector(".pagefind-ui__search-input");
+      // Popular search buttons → trigger pagefind
+      document.querySelectorAll<HTMLButtonElement>(".popular-search-btn").forEach(btn => {
+        btn.addEventListener("click", () => {
+          const q = btn.dataset.query ?? "";
+          if (q) search.triggerSearch(q);
+        });
+      });
+
+      // Clear button → show popular again
       const clearButton = document.querySelector(".pagefind-ui__search-clear");
-      searchInput?.addEventListener("input", resetSearchParam);
-      clearButton?.addEventListener("click", resetSearchParam);
-
-      function resetSearchParam(e: Event) {
-        if ((e.target as HTMLInputElement)?.value.trim() === "") {
+      const searchInput = document.querySelector<HTMLInputElement>(".pagefind-ui__search-input");
+      const resetPopular = (e: Event) => {
+        if ((e.target as HTMLInputElement)?.value?.trim() === "") {
           history.replaceState(history.state, "", window.location.pathname);
+          document.getElementById("popular-searches")?.classList.remove("hidden");
+          document.getElementById("trending-topics")?.classList.remove("hidden");
         }
-      }
+      };
+      searchInput?.addEventListener("input", resetPopular);
+      clearButton?.addEventListener("click", () => {
+        history.replaceState(history.state, "", window.location.pathname);
+        document.getElementById("popular-searches")?.classList.remove("hidden");
+        document.getElementById("trending-topics")?.classList.remove("hidden");
+      });
     });
   }
 
   document.addEventListener("astro:after-swap", () => {
     const pagefindSearch = document.querySelector("#pagefind-search");
-
-    // if pagefind search form already exists, don't initialize search component
     if (pagefindSearch && pagefindSearch.querySelector("form")) return;
-
     initSearch();
   });
   initSearch();
@@ -130,45 +224,53 @@ const t = useTranslations(locale);
     --pagefind-ui-border: var(--border);
     --pagefind-ui-primary: var(--accent);
     --pagefind-ui-tag: var(--background);
-    --pagefind-ui-border-radius: 0.375rem;
-    --pagefind-ui-border-width: 1px;
+    --pagefind-ui-border-radius: 0.75rem;
+    --pagefind-ui-border-width: 1.5px;
     --pagefind-ui-image-border-radius: 8px;
     --pagefind-ui-image-box-ratio: 3 / 2;
+  }
 
-    form::before {
-      background-color: var(--foreground);
-    }
+  #pagefind-search form::before {
+    background-color: var(--foreground);
+  }
 
-    input {
-      font-weight: 400;
-      border: 1px solid var(--border);
-    }
+  #pagefind-search input {
+    font-weight: 400;
+    border: 1.5px solid var(--border);
+    border-radius: 0.75rem;
+    padding: 0.75rem 1rem 0.75rem 2.75rem;
+    font-size: 1rem;
+    transition: border-color 0.2s, box-shadow 0.2s;
+  }
 
-    input:focus-visible {
-      outline: 1px solid var(--accent);
-    }
+  #pagefind-search input:focus-visible {
+    outline: none;
+    border-color: var(--accent);
+    box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 20%, transparent);
+  }
 
-    .pagefind-ui__result-title a {
-      color: var(--accent);
-      outline-offset: 1px;
-      outline-color: var(--accent);
-      text-decoration-style: dashed;
-      text-underline-offset: 4px;
-    }
+  #pagefind-search .pagefind-ui__result-title a {
+    color: var(--accent);
+    text-decoration-style: dashed;
+    text-underline-offset: 4px;
+  }
 
-    .pagefind-ui__result-title a:focus-visible,
-    .pagefind-ui__search-clear:focus-visible {
-      text-decoration-line: none;
-      outline-width: 2px;
-      outline-style: dashed;
-    }
+  #pagefind-search .pagefind-ui__result {
+    border-radius: 1rem;
+    padding: 1rem;
+    transition: background-color 0.15s;
+  }
 
-    .pagefind-ui__result:last-of-type {
-      border-bottom: 0;
-    }
+  #pagefind-search .pagefind-ui__result:hover {
+    background-color: var(--muted);
+  }
 
-    .pagefind-ui__result-nested .pagefind-ui__result-link:before {
-      font-family: system-ui;
-    }
+  #pagefind-search .pagefind-ui__result:last-of-type {
+    border-bottom: 0;
+  }
+
+  /* Override pagefind's built-in search input wrapper to remove its own search bar */
+  .pagefind-container .pagefind-ui__search-form {
+    margin-bottom: 0;
   }
 </style>

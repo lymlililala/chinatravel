@@ -75,7 +75,7 @@ const destinations = [
   },
 ];
 
-// Essential toolkit links
+// Toolkit with gradient colors
 const toolkitGuides = [
   {
     icon: "🛂",
@@ -83,6 +83,8 @@ const toolkitGuides = [
     desc: "144-hour & 15-day visa-free transit explained",
     href: getRelativeLocaleUrl(locale, "tags/visa"),
     cta: "Read guide",
+    gradient: "from-red-500/10 to-orange-400/10",
+    accent: "#c0392b",
   },
   {
     icon: "💳",
@@ -90,6 +92,8 @@ const toolkitGuides = [
     desc: "Link your foreign card to Alipay & WeChat Pay",
     href: getRelativeLocaleUrl(locale, "tags/payment"),
     cta: "Read guide",
+    gradient: "from-emerald-500/10 to-teal-400/10",
+    accent: "#1a4b47",
   },
   {
     icon: "📱",
@@ -97,6 +101,8 @@ const toolkitGuides = [
     desc: "Must-have apps and VPN-free connectivity tips",
     href: getRelativeLocaleUrl(locale, "tags/apps"),
     cta: "Read guide",
+    gradient: "from-blue-500/10 to-indigo-400/10",
+    accent: "#2563eb",
   },
   {
     icon: "🚄",
@@ -104,7 +110,17 @@ const toolkitGuides = [
     desc: "How to book & ride China's high-speed trains",
     href: getRelativeLocaleUrl(locale, "tags/transport"),
     cta: "Read guide",
+    gradient: "from-amber-500/10 to-yellow-400/10",
+    accent: "#d97706",
   },
+];
+
+// Stats bar
+const stats = [
+  { value: "24", label: "In-depth guides" },
+  { value: "15+", label: "Destinations covered" },
+  { value: "2026", label: "Fully updated" },
+  { value: "Free", label: "Always free" },
 ];
 ---
 
@@ -116,110 +132,183 @@ const toolkitGuides = [
     data-home-path={homePath}
   >
 
-    <!-- ═══ HERO SECTION ═══ -->
+    <!-- ═══════════════════════════════════════════
+         HERO — full-viewport-height immersive banner
+    ════════════════════════════════════════════ -->
     <section
       id="hero"
-      class="relative overflow-hidden border-b border-border"
-      style="min-height: 480px;"
+      class="relative -mt-[var(--header-h,64px)] flex flex-col overflow-hidden"
+      style="min-height: 100svh;"
     >
-      <!-- Background image -->
+      <!-- Background image with parallax hint -->
       <div class="absolute inset-0 z-0">
         <img
-          src="https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=1400&q=75"
+          src="https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=1600&q=80"
           alt="Stunning karst landscape in Guilin, China"
-          class="h-full w-full object-cover"
+          class="h-full w-full object-cover object-center"
           loading="eager"
+          fetchpriority="high"
         />
-        <!-- Deeper, more polished gradient overlay -->
-        <div class="absolute inset-0 bg-gradient-to-b from-black/60 via-black/40 to-black/80"></div>
+        <!-- Multi-stop gradient for depth & text readability -->
+        <div class="absolute inset-0 bg-gradient-to-b from-black/55 via-black/30 to-black/85"></div>
+        <!-- Subtle vignette on sides -->
+        <div class="absolute inset-0 bg-[radial-gradient(ellipse_at_center,transparent_50%,rgba(0,0,0,0.35)_100%)]"></div>
       </div>
 
-      <!-- Hero content -->
-      <div class="app-layout relative z-10 flex flex-col items-start justify-end py-20 sm:py-28" style="min-height: 480px;">
-        <p class="mb-3 text-xs font-semibold uppercase tracking-[0.2em] text-white/60">
-          Your independent guide to
-        </p>
-        <h1 class="mb-4 text-4xl font-extrabold leading-tight text-white sm:text-5xl lg:text-6xl" style="font-family: var(--font-google-sans-code), monospace;">
-          Travelling <span class="text-amber-400">China</span> in 2025
-        </h1>
-        <p class="mb-8 max-w-lg text-base text-white/80 sm:text-lg" style="font-family: var(--font-inter), system-ui, sans-serif; line-height: 1.7;">
-          Honest advice on visas, payments, transport, and hidden gems —
-          written for first-timers and seasoned backpackers alike.
-        </p>
-        <div class="flex flex-wrap gap-3">
-          <!-- Primary CTA: solid accent -->
-          <a
-            href={getRelativeLocaleUrl(locale, "posts")}
-            class="rounded-lg bg-accent px-6 py-3 text-sm font-semibold text-white shadow-lg transition-all duration-200 hover:opacity-90 hover:shadow-xl hover:-translate-y-0.5"
-          >
-            Explore Guides
-          </a>
-          <!-- Secondary CTA: glassmorphism -->
-          <a
-            href="#toolkit"
-            class="rounded-lg border border-white/50 bg-white/10 px-6 py-3 text-sm font-semibold text-white backdrop-blur-sm transition-all duration-200 hover:bg-white/20 hover:border-white/70"
-          >
-            Essential Toolkit ↓
-          </a>
+      <!-- Hero content — vertically centred with bottom push -->
+      <div class="relative z-10 mx-auto flex w-full max-w-6xl flex-1 flex-col items-start justify-center px-4 pt-24 pb-12 sm:px-6 sm:pt-28 sm:pb-16">
+
+        <div class="hero-animate-in max-w-2xl">
+          <p class="mb-3 text-xs font-semibold uppercase tracking-[0.25em] text-white/60">
+            Your independent guide to
+          </p>
+          <h1 class="mb-5 text-5xl font-extrabold leading-[1.1] text-white sm:text-6xl lg:text-7xl" style="font-family: var(--font-google-sans-code), monospace; text-shadow: 0 2px 20px rgba(0,0,0,0.4);">
+            Travelling<br />
+            <span class="text-amber-400">China</span>
+            <span class="font-light opacity-80"> in 2025</span>
+          </h1>
+          <p class="mb-8 max-w-xl text-base text-white/80 sm:text-lg leading-relaxed">
+            Honest advice on visas, payments, transport, and hidden gems —
+            written for first-timers and seasoned backpackers alike.
+          </p>
+
+          <!-- CTA buttons -->
+          <div class="mb-10 flex flex-wrap gap-3">
+            <a
+              href={getRelativeLocaleUrl(locale, "posts")}
+              class="group inline-flex items-center gap-2 rounded-xl bg-accent px-7 py-3.5 text-sm font-bold text-white shadow-lg shadow-accent/30 transition-all duration-300 hover:scale-105 hover:shadow-xl hover:shadow-accent/40"
+            >
+              Explore Guides
+              <IconArrowRight class="h-4 w-4 transition-transform group-hover:translate-x-1" />
+            </a>
+            <a
+              href="#toolkit"
+              class="inline-flex items-center gap-2 rounded-xl border border-white/40 bg-white/10 px-7 py-3.5 text-sm font-semibold text-white backdrop-blur-sm transition-all duration-300 hover:bg-white/20 hover:border-white/60"
+            >
+              Essential Toolkit ↓
+            </a>
+          </div>
+
+          <!-- Quick search bar -->
+          <div class="hero-search-bar relative w-full max-w-lg">
+            <div class="relative flex items-center overflow-hidden rounded-2xl border border-white/20 bg-white/12 backdrop-blur-md transition-all focus-within:border-white/50 focus-within:bg-white/18 focus-within:shadow-lg">
+              <span class="pointer-events-none pl-4 text-white/60">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-4.35-4.35M11 19a8 8 0 100-16 8 8 0 000 16z"/>
+                </svg>
+              </span>
+              <input
+                id="hero-search-input"
+                type="text"
+                placeholder="Search guides, destinations, topics…"
+                class="w-full bg-transparent px-3 py-3.5 text-sm text-white placeholder-white/50 outline-none"
+                autocomplete="off"
+              />
+              <a
+                id="hero-search-btn"
+                href={getRelativeLocaleUrl(locale, "search")}
+                class="mr-1.5 flex-shrink-0 rounded-xl bg-white/20 px-4 py-2 text-xs font-semibold text-white transition-all hover:bg-white/30"
+              >
+                Search
+              </a>
+            </div>
+            <!-- Quick tags below search -->
+            <div class="mt-3 flex flex-wrap gap-2">
+              {["Visa-free", "Train tickets", "Best time to visit", "Street food", "Alipay setup"].map(q => (
+                <a
+                  href={`${getRelativeLocaleUrl(locale, "search")}?q=${encodeURIComponent(q)}`}
+                  class="rounded-full border border-white/25 bg-white/10 px-3 py-1 text-xs text-white/75 backdrop-blur-sm transition-all hover:bg-white/20 hover:text-white hover:border-white/50"
+                >
+                  {q}
+                </a>
+              ))}
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Stats bar — anchored at bottom of hero -->
+      <div class="relative z-10 border-t border-white/10 bg-black/30 backdrop-blur-sm">
+        <div class="mx-auto grid max-w-6xl grid-cols-2 divide-x divide-white/10 px-4 sm:grid-cols-4 sm:px-6">
+          {stats.map(stat => (
+            <div class="flex flex-col items-center py-4 px-2 text-center">
+              <span class="text-2xl font-extrabold text-white sm:text-3xl">{stat.value}</span>
+              <span class="mt-0.5 text-xs text-white/55 uppercase tracking-wide">{stat.label}</span>
+            </div>
+          ))}
         </div>
       </div>
     </section>
 
-    <!-- ═══ ESSENTIAL TOOLKIT ═══ -->
-    <section id="toolkit" class="border-b border-border py-14 observe-fade">
-      <div class="app-layout">
-        <div class="mb-8">
-          <p class="text-xs font-semibold uppercase tracking-[0.15em] text-accent">
+    <!-- ═══════════════════════════════════════════
+         ESSENTIAL TOOLKIT — gradient micro-cards
+    ════════════════════════════════════════════ -->
+    <section id="toolkit" class="border-b border-border py-16 observe-fade">
+      <div class="mx-auto max-w-6xl px-4 sm:px-6">
+        <div class="mb-10 text-center">
+          <p class="mb-1 text-xs font-semibold uppercase tracking-[0.2em] text-accent">
             Before you go
           </p>
-          <h2 class="mt-1 text-2xl font-bold text-foreground">Essential Toolkit</h2>
-          <p class="mt-1 text-sm text-muted-foreground">
-            Everything international travellers need to know about navigating China.
+          <h2 class="text-3xl font-extrabold text-foreground sm:text-4xl" style="font-family: var(--font-google-sans-code), monospace;">
+            Essential Toolkit
+          </h2>
+          <p class="mt-2 text-muted-foreground">
+            Everything international travellers need to navigate China with confidence.
           </p>
         </div>
         <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
-          {toolkitGuides.map((guide, i) => (
+          {toolkitGuides.map((guide) => (
             <a
               href={guide.href}
               class:list={[
-                "group flex flex-col gap-3 rounded-2xl p-5",
-                "bg-[var(--card-bg,#fff)] border border-border",
+                "group relative flex flex-col gap-4 overflow-hidden rounded-2xl p-6",
+                "border border-border bg-gradient-to-br",
+                guide.gradient,
                 "shadow-sm transition-all duration-300",
-                "hover:shadow-lg hover:-translate-y-1 hover:border-accent/30",
+                "hover:shadow-lg hover:-translate-y-1.5 hover:border-accent/20",
               ]}
             >
-              <span class="text-4xl" aria-hidden="true">{guide.icon}</span>
-              <div>
-                <h3 class="font-bold text-foreground group-hover:text-accent transition-colors">
+              <!-- Icon circle -->
+              <div class="flex size-12 items-center justify-center rounded-xl bg-background/60 text-2xl shadow-sm backdrop-blur-sm transition-transform duration-300 group-hover:scale-110">
+                {guide.icon}
+              </div>
+              <div class="flex-1">
+                <h3 class="font-bold text-foreground transition-colors group-hover:text-accent">
                   {guide.title}
                 </h3>
-                <p class="mt-1 text-sm leading-relaxed text-muted-foreground">{guide.desc}</p>
+                <p class="mt-1.5 text-sm leading-relaxed text-muted-foreground">{guide.desc}</p>
               </div>
-              <span class="mt-auto flex items-center gap-1 text-sm font-semibold text-accent">
+              <span class="flex items-center gap-1.5 text-sm font-semibold text-accent">
                 {guide.cta}
-                <IconArrowRight class="h-3.5 w-3.5 transition-transform group-hover:translate-x-0.5" />
+                <IconArrowRight class="h-3.5 w-3.5 transition-transform group-hover:translate-x-1" />
               </span>
+              <!-- Decorative corner glow -->
+              <div class="pointer-events-none absolute -right-4 -bottom-4 h-20 w-20 rounded-full opacity-0 blur-2xl transition-opacity duration-500 group-hover:opacity-60" style={`background: ${guide.accent};`}></div>
             </a>
           ))}
         </div>
       </div>
     </section>
 
-    <!-- ═══ FEATURED DESTINATIONS ═══ -->
-    <section id="destinations" class="border-b border-border py-14 observe-fade">
-      <div class="app-layout">
-        <div class="mb-8 flex items-end justify-between">
+    <!-- ═══════════════════════════════════════════
+         FEATURED DESTINATIONS
+    ════════════════════════════════════════════ -->
+    <section id="destinations" class="border-b border-border py-16 observe-fade">
+      <div class="mx-auto max-w-6xl px-4 sm:px-6">
+        <div class="mb-10 flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between">
           <div>
-            <p class="text-xs font-semibold uppercase tracking-[0.15em] text-accent">
+            <p class="mb-1 text-xs font-semibold uppercase tracking-[0.2em] text-accent">
               Where to go
             </p>
-            <h2 class="mt-1 text-2xl font-bold text-foreground">Featured Destinations</h2>
+            <h2 class="text-3xl font-extrabold text-foreground sm:text-4xl" style="font-family: var(--font-google-sans-code), monospace;">
+              Featured Destinations
+            </h2>
           </div>
           <LinkButton
             href={getRelativeLocaleUrl(locale, "tags")}
-            class="flex items-center gap-1 text-sm font-medium text-accent hover:underline"
+            class="flex items-center gap-1.5 text-sm font-semibold text-accent transition-all hover:gap-2.5"
           >
-            All destinations <IconArrowRight class="h-3.5 w-3.5" />
+            All destinations <IconArrowRight class="h-4 w-4" />
           </LinkButton>
         </div>
         <div class="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
@@ -230,18 +319,22 @@ const toolkitGuides = [
       </div>
     </section>
 
-    <!-- ═══ FEATURED ARTICLES ═══ -->
+    <!-- ═══════════════════════════════════════════
+         FEATURED ARTICLES — horizontal scroll on mobile
+    ════════════════════════════════════════════ -->
     {
       featuredPosts.length > 0 && (
-        <section id="featured" class="border-b border-border py-14 observe-fade">
-          <div class="app-layout">
-            <p class="text-xs font-semibold uppercase tracking-[0.15em] text-accent">
+        <section id="featured" class="border-b border-border py-16 observe-fade">
+          <div class="mx-auto max-w-6xl px-4 sm:px-6">
+            <p class="mb-1 text-xs font-semibold uppercase tracking-[0.2em] text-accent">
               Editor's picks
             </p>
-            <h2 class="mt-1 mb-6 text-2xl font-bold text-foreground">{t.home.featured}</h2>
-            <ul class="flex flex-col gap-3">
+            <h2 class="mb-8 text-3xl font-extrabold text-foreground sm:text-4xl" style="font-family: var(--font-google-sans-code), monospace;">
+              {t.home.featured}
+            </h2>
+            <ul class="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
               {featuredPosts.map(data => (
-                <Card variant="h3" {...data} />
+                <Card variant="h3" {...data} cardStyle="grid" />
               ))}
             </ul>
           </div>
@@ -249,24 +342,28 @@ const toolkitGuides = [
       )
     }
 
-    <!-- ═══ RECENT ARTICLES ═══ -->
+    <!-- ═══════════════════════════════════════════
+         RECENT ARTICLES
+    ════════════════════════════════════════════ -->
     {
       recentPosts.length > 0 && (
-        <section id="recent-posts" class="border-b border-border py-14 observe-fade">
-          <div class="app-layout">
-            <p class="text-xs font-semibold uppercase tracking-[0.15em] text-accent">
+        <section id="recent-posts" class="border-b border-border py-16 observe-fade">
+          <div class="mx-auto max-w-6xl px-4 sm:px-6">
+            <p class="mb-1 text-xs font-semibold uppercase tracking-[0.2em] text-accent">
               Fresh off the press
             </p>
-            <h2 class="mt-1 mb-6 text-2xl font-bold text-foreground">{t.home.recentPosts}</h2>
-            <ul class="flex flex-col gap-3">
+            <h2 class="mb-8 text-3xl font-extrabold text-foreground sm:text-4xl" style="font-family: var(--font-google-sans-code), monospace;">
+              {t.home.recentPosts}
+            </h2>
+            <ul class="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
               {recentPosts.slice(0, postsConfig.perIndex).map(data => (
-                <Card variant="h3" {...data} />
+                <Card variant="h3" {...data} cardStyle="grid" />
               ))}
             </ul>
-            <div class="mt-8 text-center">
+            <div class="mt-10 text-center">
               <LinkButton
                 href={getRelativeLocaleUrl(locale, "posts")}
-                class="inline-flex items-center gap-2 rounded-lg border border-accent px-6 py-2.5 text-sm font-semibold text-accent transition-all hover:bg-accent hover:text-white"
+                class="inline-flex items-center gap-2 rounded-xl border-2 border-accent px-8 py-3 text-sm font-bold text-accent transition-all duration-300 hover:bg-accent hover:text-white hover:shadow-lg hover:shadow-accent/20"
               >
                 {t.home.allPosts}
                 <IconArrowRight class="h-4 w-4 rtl:-rotate-180" />
@@ -283,11 +380,29 @@ const toolkitGuides = [
 
 <script>
   document.addEventListener("astro:page-load", () => {
-    const indexLayout = (document.querySelector("#main-content") as HTMLElement)
-      ?.dataset;
+    const indexLayout = (document.querySelector("#main-content") as HTMLElement)?.dataset;
     const baseRoot = import.meta.env.BASE_URL.replace(/\/?$/, "/");
     if (indexLayout?.layout) {
       sessionStorage.setItem("backUrl", indexLayout.homePath ?? baseRoot);
+    }
+
+    // ── Hero search bar → redirect to search page ──
+    const heroInput = document.getElementById("hero-search-input") as HTMLInputElement;
+    const heroBtn = document.getElementById("hero-search-btn") as HTMLAnchorElement;
+    if (heroInput && heroBtn) {
+      const baseHref = heroBtn.getAttribute("href")?.split("?")[0] ?? "/search/";
+      heroInput.addEventListener("keydown", (e) => {
+        if (e.key === "Enter" && heroInput.value.trim()) {
+          window.location.href = `${baseHref}?q=${encodeURIComponent(heroInput.value.trim())}`;
+        }
+      });
+      heroInput.addEventListener("input", () => {
+        if (heroInput.value.trim()) {
+          heroBtn.setAttribute("href", `${baseHref}?q=${encodeURIComponent(heroInput.value.trim())}`);
+        } else {
+          heroBtn.setAttribute("href", baseHref);
+        }
+      });
     }
 
     // ── Fade-up on scroll using IntersectionObserver ──
@@ -298,22 +413,53 @@ const toolkitGuides = [
       entries => {
         entries.forEach(entry => {
           if (entry.isIntersecting) {
-            entry.target.classList.add("fade-up", "visible");
-            // Stagger children cards
-            const children = entry.target.querySelectorAll(
-              "a[class*='rounded'], li"
-            );
+            entry.target.classList.add("section-visible");
+            const children = entry.target.querySelectorAll("a[class*='rounded'], li, .grid > *");
             children.forEach((child, i) => {
-              (child as HTMLElement).style.animationDelay = `${i * 0.08}s`;
-              child.classList.add("fade-up", "visible");
+              (child as HTMLElement).style.animationDelay = `${i * 0.07}s`;
+              child.classList.add("card-pop-in");
             });
             observer.unobserve(entry.target);
           }
         });
       },
-      { threshold: 0.08 }
+      { threshold: 0.06 }
     );
-
     fadeTargets.forEach(el => observer.observe(el));
   });
 </script>
+
+<style>
+  /* Hero entrance animation */
+  .hero-animate-in {
+    animation: heroSlideUp 0.8s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+  }
+
+  @keyframes heroSlideUp {
+    from { opacity: 0; transform: translateY(32px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  /* Section fade-in */
+  .observe-fade {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.6s ease, transform 0.6s ease;
+  }
+  .observe-fade.section-visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  /* Card pop-in */
+  @keyframes cardPopIn {
+    from { opacity: 0; transform: translateY(16px) scale(0.98); }
+    to   { opacity: 1; transform: translateY(0) scale(1); }
+  }
+  .card-pop-in {
+    animation: cardPopIn 0.45s cubic-bezier(0.22, 1, 0.36, 1) both;
+  }
+
+  /* Hero min-height offset for sticky header */
+  :root { --header-h: 64px; }
+</style>

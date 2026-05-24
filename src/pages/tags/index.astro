@@ -1,32 +1,265 @@
 ---
 import { getCollection } from "astro:content";
+import { getRelativeLocaleUrl } from "astro:i18n";
 import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
-import Breadcrumb from "@/components/Breadcrumb.astro";
-import Main from "@/components/Main.astro";
 import Footer from "@/components/Footer.astro";
-import Tag from "@/components/Tag.astro";
-import { getUniqueTags } from "@/utils/getUniqueTags";
+import IconArrowRight from "@/assets/icons/IconArrowRight.svg";
 import { useTranslations } from "@/i18n";
 import config from "@/config";
 
 const posts = await getCollection("posts", ({ data }) => !data.draft);
-const tags = getUniqueTags(posts);
-
 const locale = Astro.currentLocale ?? config.site.lang;
 const t = useTranslations(locale);
+
+// ── Destination city data ──
+const cities = [
+  {
+    name: "Beijing",
+    emoji: "🏯",
+    tagline: "Imperial history & the Great Wall",
+    tag: "beijing",
+    image: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=600&q=80",
+    color: "from-red-600/80 to-red-900/90",
+  },
+  {
+    name: "Shanghai",
+    emoji: "🌆",
+    tagline: "Skyline, street food & art deco",
+    tag: "shanghai",
+    image: "https://images.unsplash.com/photo-1537944434965-cf4679d1a598?w=600&q=80",
+    color: "from-blue-600/80 to-blue-900/90",
+  },
+  {
+    name: "Xi'an",
+    emoji: "🏺",
+    tagline: "Terracotta Army & ancient walls",
+    tag: "xian",
+    image: "https://images.unsplash.com/photo-1591451427710-ad34d2cfd9d1?w=600&q=80",
+    color: "from-amber-600/80 to-amber-900/90",
+  },
+  {
+    name: "Chengdu",
+    emoji: "🐼",
+    tagline: "Pandas, hotpot & laid-back culture",
+    tag: "chengdu",
+    image: "https://images.unsplash.com/photo-1569880153113-76e33fc52d5f?w=600&q=80",
+    color: "from-green-600/80 to-green-900/90",
+  },
+  {
+    name: "Guilin",
+    emoji: "⛰️",
+    tagline: "Karst peaks & the Li River",
+    tag: "guilin",
+    image: "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=600&q=80",
+    color: "from-emerald-600/80 to-emerald-900/90",
+  },
+  {
+    name: "Dali",
+    emoji: "🌊",
+    tagline: "Ancient town & Erhai lakeside",
+    tag: "dali",
+    image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80",
+    color: "from-teal-600/80 to-teal-900/90",
+  },
+  {
+    name: "Hangzhou",
+    emoji: "🍵",
+    tagline: "West Lake & Dragon Well tea",
+    tag: "hangzhou",
+    image: "https://images.unsplash.com/photo-1567958855890-cff48e46f5b5?w=600&q=80",
+    color: "from-cyan-600/80 to-cyan-900/90",
+  },
+  {
+    name: "Zhangjiajie",
+    emoji: "🌁",
+    tagline: "Avatar mountains & glass bridges",
+    tag: "zhangjiajie",
+    image: "https://images.unsplash.com/photo-1540541338287-41700207dee6?w=600&q=80",
+    color: "from-violet-600/80 to-violet-900/90",
+  },
+  {
+    name: "Tibet",
+    emoji: "🏔️",
+    tagline: "Roof of the world & Potala Palace",
+    tag: "tibet",
+    image: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=600&q=80",
+    color: "from-purple-600/80 to-purple-900/90",
+  },
+  {
+    name: "Dunhuang",
+    emoji: "🐪",
+    tagline: "Silk Road, sand dunes & Mogao Caves",
+    tag: "dunhuang",
+    image: "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=600&q=80",
+    color: "from-orange-600/80 to-orange-900/90",
+  },
+  {
+    name: "Lijiang",
+    emoji: "🌸",
+    tagline: "Naxi culture & Jade Dragon Snow Mountain",
+    tag: "lijiang",
+    image: "https://images.unsplash.com/photo-1558618047-3c8c76a8c9e7?w=600&q=80",
+    color: "from-pink-600/80 to-pink-900/90",
+  },
+  {
+    name: "Sanya",
+    emoji: "🏖️",
+    tagline: "Tropical beaches & duty-free shopping",
+    tag: "sanya",
+    image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&q=80",
+    color: "from-sky-600/80 to-sky-900/90",
+  },
+];
+
+// ── Travel styles ──
+const travelStyles = [
+  { icon: "🍜", label: "Food & Cuisine",    tag: "food",      bg: "bg-amber-50 dark:bg-amber-900/20",    border: "border-amber-200 dark:border-amber-700/50",   text: "text-amber-700 dark:text-amber-300" },
+  { icon: "🏛️", label: "Culture & History", tag: "culture",   bg: "bg-red-50 dark:bg-red-900/20",        border: "border-red-200 dark:border-red-700/50",       text: "text-red-700 dark:text-red-300" },
+  { icon: "🥾", label: "Hiking & Nature",   tag: "nature",    bg: "bg-green-50 dark:bg-green-900/20",    border: "border-green-200 dark:border-green-700/50",   text: "text-green-700 dark:text-green-300" },
+  { icon: "🎒", label: "Solo Travel",       tag: "solo",      bg: "bg-purple-50 dark:bg-purple-900/20",  border: "border-purple-200 dark:border-purple-700/50", text: "text-purple-700 dark:text-purple-300" },
+  { icon: "👨‍👩‍👧", label: "Family Travel",    tag: "family",    bg: "bg-blue-50 dark:bg-blue-900/20",      border: "border-blue-200 dark:border-blue-700/50",    text: "text-blue-700 dark:text-blue-300" },
+  { icon: "📸", label: "Photography",       tag: "photography",bg: "bg-pink-50 dark:bg-pink-900/20",     border: "border-pink-200 dark:border-pink-700/50",    text: "text-pink-700 dark:text-pink-300" },
+  { icon: "🏖️", label: "Beach & Tropical",  tag: "beach",     bg: "bg-cyan-50 dark:bg-cyan-900/20",      border: "border-cyan-200 dark:border-cyan-700/50",    text: "text-cyan-700 dark:text-cyan-300" },
+  { icon: "🕌", label: "Buddhist Culture",  tag: "buddhist-culture", bg: "bg-orange-50 dark:bg-orange-900/20", border: "border-orange-200 dark:border-orange-700/50", text: "text-orange-700 dark:text-orange-300" },
+];
+
+// ── Practical info ──
+const practicalInfo = [
+  { icon: "🛂", label: "Visa & Entry",       tag: "visa",      desc: "Tourist visas, 144-hr & 15-day visa-free" },
+  { icon: "💳", label: "Money & Payment",    tag: "payment",   desc: "Alipay, WeChat Pay, foreign cards" },
+  { icon: "📱", label: "Apps & Internet",    tag: "apps",      desc: "VPN, maps, translation apps" },
+  { icon: "🚄", label: "Transport",          tag: "transport", desc: "High-speed trains, metro, flights" },
+  { icon: "🌐", label: "Connectivity",       tag: "connectivity", desc: "SIM cards, eSIM, Wi-Fi" },
+  { icon: "🚇", label: "Metro Systems",      tag: "metro",     desc: "Beijing, Shanghai subway guide" },
+];
 ---
 
-<Layout title={`${t.pages.tagsTitle} | ${config.site.title}`}>
+<Layout title={`Destinations & Guides | ${config.site.title}`}>
   <Header />
 
-  <Breadcrumb />
+  <main id="main-content" class="pb-0">
 
-  <Main pageTitle={t.pages.tagsTitle} pageDesc={t.pages.tagsDesc}>
-    <ul class="flex flex-wrap gap-2.5">
-      {tags.map(({ tag, tagName }) => <Tag {tag} {tagName} />)}
-    </ul>
-  </Main>
+    <!-- ── Page header banner ── -->
+    <div class="relative overflow-hidden border-b border-border bg-gradient-to-br from-background via-muted/40 to-background py-14">
+      <!-- Decorative circles -->
+      <div class="pointer-events-none absolute -top-20 -right-20 h-64 w-64 rounded-full bg-accent/5 blur-3xl"></div>
+      <div class="pointer-events-none absolute -bottom-10 -left-10 h-48 w-48 rounded-full bg-secondary/8 blur-3xl"></div>
+
+      <div class="mx-auto max-w-6xl px-4 sm:px-6">
+        <nav class="mb-4 flex items-center gap-2 text-sm text-muted-foreground">
+          <a href={getRelativeLocaleUrl(locale, "")} class="transition-colors hover:text-accent">Home</a>
+          <span>/</span>
+          <span class="text-foreground">Destinations</span>
+        </nav>
+        <h1 class="text-4xl font-extrabold text-foreground sm:text-5xl" style="font-family: var(--font-google-sans-code), monospace;">
+          Explore China
+        </h1>
+        <p class="mt-3 max-w-xl text-lg text-muted-foreground">
+          Browse by destination, travel style, or practical topic — find exactly what you need for your China trip.
+        </p>
+      </div>
+    </div>
+
+    <div class="mx-auto max-w-6xl space-y-16 px-4 py-12 sm:px-6">
+
+      <!-- ══ SECTION 1: Destinations ══ -->
+      <section>
+        <div class="mb-6 flex items-end justify-between">
+          <div>
+            <p class="mb-1 text-xs font-semibold uppercase tracking-[0.2em] text-accent">By city</p>
+            <h2 class="text-2xl font-extrabold text-foreground sm:text-3xl" style="font-family: var(--font-google-sans-code), monospace;">
+              Popular Destinations
+            </h2>
+          </div>
+        </div>
+
+        <!-- Horizontal-scroll grid -->
+        <div class="grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-4">
+          {cities.map(city => (
+            <a
+              href={getRelativeLocaleUrl(locale, `tags/${city.tag}`)}
+              class="group relative overflow-hidden rounded-2xl border border-border shadow-sm transition-all duration-300 hover:shadow-xl hover:-translate-y-1.5"
+              style="aspect-ratio: 3/2;"
+            >
+              <img
+                src={city.image}
+                alt={city.name}
+                class="absolute inset-0 h-full w-full object-cover transition-transform duration-500 group-hover:scale-110"
+                loading="lazy"
+              />
+              <div class:list={["absolute inset-0 bg-gradient-to-t", city.color]}></div>
+              <div class="absolute bottom-0 left-0 p-3">
+                <div class="flex items-center gap-1.5 text-white">
+                  <span class="text-lg">{city.emoji}</span>
+                  <span class="font-bold text-sm sm:text-base drop-shadow">{city.name}</span>
+                </div>
+                <p class="mt-0.5 text-xs text-white/75 leading-tight hidden sm:block">{city.tagline}</p>
+              </div>
+            </a>
+          ))}
+        </div>
+      </section>
+
+      <!-- ══ SECTION 2: Travel Styles ══ -->
+      <section>
+        <div class="mb-6">
+          <p class="mb-1 text-xs font-semibold uppercase tracking-[0.2em] text-accent">How you travel</p>
+          <h2 class="text-2xl font-extrabold text-foreground sm:text-3xl" style="font-family: var(--font-google-sans-code), monospace;">
+            Travel Styles
+          </h2>
+        </div>
+        <div class="grid grid-cols-2 gap-3 sm:grid-cols-4">
+          {travelStyles.map(style => (
+            <a
+              href={getRelativeLocaleUrl(locale, `tags/${style.tag}`)}
+              class:list={[
+                "group flex flex-col items-center gap-2 rounded-2xl border p-5 text-center transition-all duration-200 hover:shadow-md hover:-translate-y-1",
+                style.bg, style.border,
+              ]}
+            >
+              <span class="text-3xl transition-transform duration-200 group-hover:scale-115">{style.icon}</span>
+              <span class:list={["text-sm font-bold leading-tight", style.text]}>{style.label}</span>
+            </a>
+          ))}
+        </div>
+      </section>
+
+      <!-- ══ SECTION 3: Practical Info ══ -->
+      <section class="pb-4">
+        <div class="mb-6">
+          <p class="mb-1 text-xs font-semibold uppercase tracking-[0.2em] text-accent">Before you go</p>
+          <h2 class="text-2xl font-extrabold text-foreground sm:text-3xl" style="font-family: var(--font-google-sans-code), monospace;">
+            Practical Information
+          </h2>
+          <p class="mt-1.5 text-sm text-muted-foreground">High-priority topics every visitor needs to know.</p>
+        </div>
+        <div class="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+          {practicalInfo.map(item => (
+            <a
+              href={getRelativeLocaleUrl(locale, `tags/${item.tag}`)}
+              class="group flex items-start gap-4 rounded-2xl border border-border bg-[var(--card-bg,#fff)] p-4 shadow-sm transition-all duration-200 hover:border-accent/30 hover:shadow-md hover:-translate-y-0.5"
+            >
+              <span class="mt-0.5 flex size-10 flex-shrink-0 items-center justify-center rounded-xl bg-muted text-xl transition-transform group-hover:scale-110">
+                {item.icon}
+              </span>
+              <div class="min-w-0">
+                <h3 class="font-bold text-foreground transition-colors group-hover:text-accent">{item.label}</h3>
+                <p class="mt-0.5 text-sm text-muted-foreground">{item.desc}</p>
+              </div>
+              <IconArrowRight class="ml-auto mt-1 h-4 w-4 flex-shrink-0 text-muted-foreground/50 transition-all group-hover:translate-x-0.5 group-hover:text-accent" />
+            </a>
+          ))}
+        </div>
+      </section>
+
+    </div>
+  </main>
 
   <Footer />
 </Layout>
+
+<style>
+  .group-hover\:scale-115:is(.group:hover *) { transform: scale(1.15); }
+  .group:hover .group-hover\:scale-115 { transform: scale(1.15); }
+</style>

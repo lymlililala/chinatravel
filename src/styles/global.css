@@ -7,22 +7,37 @@
 @layer base {
   * {
     @apply border-border outline-accent/75;
-    scrollbar-width: auto;
+    scrollbar-width: thin;
     scrollbar-color: var(--color-muted) transparent;
+  }
+
+  html {
+    scroll-behavior: smooth;
   }
 
   /* Body uses Inter for readability */
   body {
     font-family: var(--font-inter), system-ui, sans-serif;
     color: var(--foreground);
+    background-color: var(--background);
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    /* Sticky footer: ensure body fills full height */
+    display: flex;
+    min-height: 100svh;
+    flex-direction: column;
   }
 
   /* Headings use the branded monospace font */
   h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-google-sans-code), monospace;
+    line-height: 1.2;
   }
+
+  /* Slightly larger base heading sizes for visual hierarchy */
+  h1 { font-size: clamp(1.875rem, 4vw, 3rem); font-weight: 800; }
+  h2 { font-size: clamp(1.5rem, 3vw, 2.25rem); font-weight: 700; }
+  h3 { font-size: clamp(1.125rem, 2vw, 1.5rem); font-weight: 700; }
 
   a,
   button {
@@ -32,8 +47,15 @@
   [role="button"]:not(:disabled) {
     cursor: pointer;
   }
+
+  /* Improve image rendering */
+  img {
+    -webkit-user-drag: none;
+    user-select: none;
+  }
 }
 
+/* ─── Layout utilities ─── */
 @utility max-w-app {
   @apply max-w-3xl;
 }
@@ -46,33 +68,141 @@
   @apply underline decoration-wavy decoration-2 underline-offset-8;
 }
 
-/* ── Fade-up animation for sections ── */
+/* ─── Animations ─── */
+
+/* Hero entrance */
+@keyframes heroSlideUp {
+  from { opacity: 0; transform: translateY(28px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* Section fade-up */
 @keyframes fadeUp {
-  from {
-    opacity: 0;
-    transform: translateY(24px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
+  from { opacity: 0; transform: translateY(20px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* Card pop-in with subtle scale */
+@keyframes cardPopIn {
+  from { opacity: 0; transform: translateY(16px) scale(0.97); }
+  to   { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+/* Shimmer for skeleton states */
+@keyframes shimmer {
+  0%   { background-position: -200% center; }
+  100% { background-position: 200% center; }
 }
 
 .fade-up {
   opacity: 0;
   animation: fadeUp 0.55s ease forwards;
 }
+.fade-up.visible { opacity: 1; }
 
-.fade-up.visible {
-  opacity: 1;
-}
-
-/* Staggered delay helpers */
+/* Stagger delay helpers */
+.delay-50  { animation-delay: 0.05s; }
 .delay-100 { animation-delay: 0.1s; }
+.delay-150 { animation-delay: 0.15s; }
 .delay-200 { animation-delay: 0.2s; }
 .delay-300 { animation-delay: 0.3s; }
 .delay-400 { animation-delay: 0.4s; }
 
+/* ─── Micro-interaction: image hover zoom ─── */
+.img-zoom-wrap {
+  overflow: hidden;
+}
+.img-zoom-wrap img {
+  transition: transform 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+.img-zoom-wrap:hover img {
+  transform: scale(1.07);
+}
+
+/* ─── Card hover lift shadow ─── */
+.card-lift {
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+.card-lift:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 20px 40px -8px rgba(0,0,0,0.12), 0 8px 16px -4px rgba(0,0,0,0.08);
+}
+
+/* ─── Rice-paper tinted section ─── */
+.section-rice-paper {
+  background-color: var(--section-alt);
+}
+
+/* ─── Bamboo accent line decoration ─── */
+.bamboo-line::before {
+  content: '';
+  display: inline-block;
+  width: 3px;
+  height: 1em;
+  background: var(--bamboo, #4a7c59);
+  border-radius: 2px;
+  margin-right: 0.5rem;
+  vertical-align: middle;
+}
+
+/* ─── Smooth page transitions ─── */
+::view-transition-old(root) {
+  animation: 0.2s ease-out both fade-out;
+}
+::view-transition-new(root) {
+  animation: 0.25s ease-in both fade-in;
+}
+
+@keyframes fade-out {
+  to { opacity: 0; }
+}
+@keyframes fade-in {
+  from { opacity: 0; }
+}
+
+/* ─── Anchor offset for sticky header ─── */
 :target {
-  scroll-margin-block: 1rem;
+  scroll-margin-block: 5rem;
+}
+
+/* ─── Scrollbar styling ─── */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background-color: var(--muted);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: var(--muted-foreground);
+}
+
+/* ─── Selection highlight ─── */
+::selection {
+  background-color: color-mix(in srgb, var(--accent) 25%, transparent);
+  color: var(--foreground);
+}
+
+/* ─── Focus ring (keyboard navigation) ─── */
+.focus-ring:focus-visible {
+  outline: 2px dashed var(--accent);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+/* ─── Skeleton loading shimmer ─── */
+.skeleton {
+  background: linear-gradient(
+    90deg,
+    var(--muted) 25%,
+    var(--rice-paper, #f5efe6) 50%,
+    var(--muted) 75%
+  );
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+  border-radius: 8px;
 }
