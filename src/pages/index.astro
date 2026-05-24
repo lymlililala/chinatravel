@@ -7,7 +7,6 @@ import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
 import Card from "@/components/Card.astro";
 import LinkButton from "@/components/LinkButton.astro";
-import DestinationCard from "@/components/DestinationCard.astro";
 import { getSortedPosts } from "@/utils/getSortedPosts";
 import { useTranslations } from "@/i18n";
 import config from "@/config";
@@ -23,59 +22,15 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
 const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
 const homePath = getRelativeLocaleUrl(locale, "");
 
-// Featured destinations data
-const destinations = [
-  {
-    name: "Beijing",
-    tagline: "Imperial grandeur meets modern China",
-    imageUrl: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=600&q=80",
-    imageAlt: "The Great Wall of China near Beijing",
-    href: getRelativeLocaleUrl(locale, "tags/beijing"),
-    highlights: ["Great Wall", "Forbidden City", "Temple of Heaven"],
-  },
-  {
-    name: "Shanghai",
-    tagline: "The city that never sleeps",
-    imageUrl: "https://images.unsplash.com/photo-1538428494232-9c0d8a3ab403?w=600&q=80",
-    imageAlt: "Shanghai Bund and Pudong skyline at night",
-    href: getRelativeLocaleUrl(locale, "tags/shanghai"),
-    highlights: ["The Bund", "Yu Garden", "French Concession"],
-  },
-  {
-    name: "Xi'an",
-    tagline: "Cradle of Chinese civilisation",
-    imageUrl: "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=600&q=80",
-    imageAlt: "Terracotta Warriors in Xi'an",
-    href: getRelativeLocaleUrl(locale, "tags/xian"),
-    highlights: ["Terracotta Army", "City Wall", "Muslim Quarter"],
-  },
-  {
-    name: "Chengdu",
-    tagline: "Pandas, hotpot & laid-back vibes",
-    imageUrl: "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=600&q=80",
-    imageAlt: "Giant panda eating bamboo in Chengdu",
-    href: getRelativeLocaleUrl(locale, "tags/chengdu"),
-    highlights: ["Giant Pandas", "Hotpot", "Leshan Buddha"],
-  },
-  {
-    name: "Guilin",
-    tagline: "Karst mountains & emerald rivers",
-    imageUrl: "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=600&q=80",
-    imageAlt: "Li River karst scenery in Guilin",
-    href: getRelativeLocaleUrl(locale, "tags/guilin"),
-    highlights: ["Li River Cruise", "Longji Terraces", "Reed Flute Cave"],
-  },
-  {
-    name: "Dali",
-    tagline: "Ancient town by the Erhai Lake",
-    imageUrl: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80",
-    imageAlt: "Old Town of Dali with Cangshan mountains",
-    href: getRelativeLocaleUrl(locale, "tags/dali"),
-    highlights: ["Old Town", "Erhai Lake", "Cangshan Mountains"],
-  },
+// Hero background image pool — rotates daily for freshness
+const heroImages = [
+  { url: "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=1800&q=85", alt: "Karst limestone peaks rising from the Li River mist in Guilin, China" },
+  { url: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1800&q=85", alt: "The Great Wall of China stretching over mountain ridges at golden hour" },
+  { url: "https://images.unsplash.com/photo-1538428494232-9c0d8a3ab403?w=1800&q=85", alt: "Shanghai Bund and Pudong skyline reflecting on the Huangpu River" },
 ];
+const heroImage = heroImages[new Date().getDate() % heroImages.length];
 
-// Toolkit with gradient colors
+// Toolkit guides
 const toolkitGuides = [
   {
     icon: "🛂",
@@ -83,8 +38,9 @@ const toolkitGuides = [
     desc: "144-hour & 15-day visa-free transit explained",
     href: getRelativeLocaleUrl(locale, "tags/visa"),
     cta: "Read guide",
-    gradient: "from-red-500/10 to-orange-400/10",
+    gradient: "from-red-500/12 to-orange-400/12",
     accent: "#c0392b",
+    border: "border-red-200/60 dark:border-red-900/40",
   },
   {
     icon: "💳",
@@ -92,8 +48,9 @@ const toolkitGuides = [
     desc: "Link your foreign card to Alipay & WeChat Pay",
     href: getRelativeLocaleUrl(locale, "tags/payment"),
     cta: "Read guide",
-    gradient: "from-emerald-500/10 to-teal-400/10",
+    gradient: "from-emerald-500/12 to-teal-400/12",
     accent: "#1a4b47",
+    border: "border-emerald-200/60 dark:border-emerald-900/40",
   },
   {
     icon: "📱",
@@ -101,8 +58,9 @@ const toolkitGuides = [
     desc: "Must-have apps and VPN-free connectivity tips",
     href: getRelativeLocaleUrl(locale, "tags/apps"),
     cta: "Read guide",
-    gradient: "from-blue-500/10 to-indigo-400/10",
+    gradient: "from-blue-500/12 to-indigo-400/12",
     accent: "#2563eb",
+    border: "border-blue-200/60 dark:border-blue-900/40",
   },
   {
     icon: "🚄",
@@ -110,18 +68,116 @@ const toolkitGuides = [
     desc: "How to book & ride China's high-speed trains",
     href: getRelativeLocaleUrl(locale, "tags/transport"),
     cta: "Read guide",
-    gradient: "from-amber-500/10 to-yellow-400/10",
+    gradient: "from-amber-500/12 to-yellow-400/12",
     accent: "#d97706",
+    border: "border-amber-200/60 dark:border-amber-900/40",
   },
 ];
 
 // Stats bar
 const stats = [
-  { value: "24", label: "In-depth guides" },
-  { value: "15+", label: "Destinations covered" },
+  { value: "100+", label: "In-depth guides" },
+  { value: "31", label: "Destinations" },
   { value: "2026", label: "Fully updated" },
   { value: "Free", label: "Always free" },
 ];
+
+// Bento grid destinations — varied sizes for visual interest
+const bentoDests = [
+  {
+    name: "Beijing",
+    tagline: "Imperial grandeur meets modern China",
+    image: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=900&q=80",
+    href: getRelativeLocaleUrl(locale, "tags/beijing"),
+    size: "large",  // spans 2 rows
+    emoji: "🏯",
+  },
+  {
+    name: "Shanghai",
+    tagline: "The skyline that never sleeps",
+    image: "https://images.unsplash.com/photo-1538428494232-9c0d8a3ab403?w=900&q=80",
+    href: getRelativeLocaleUrl(locale, "tags/shanghai"),
+    size: "medium",
+    emoji: "🌆",
+  },
+  {
+    name: "Guilin",
+    tagline: "Karst peaks & emerald rivers",
+    image: "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=700&q=80",
+    href: getRelativeLocaleUrl(locale, "tags/guilin"),
+    size: "small",
+    emoji: "⛰️",
+  },
+  {
+    name: "Xi'an",
+    tagline: "Cradle of Chinese civilisation",
+    image: "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=700&q=80",
+    href: getRelativeLocaleUrl(locale, "tags/xian"),
+    size: "small",
+    emoji: "🏺",
+  },
+  {
+    name: "Chengdu",
+    tagline: "Pandas, hotpot & laid-back vibes",
+    image: "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=900&q=80",
+    href: getRelativeLocaleUrl(locale, "tags/chengdu"),
+    size: "medium",
+    emoji: "🐼",
+  },
+  {
+    name: "Yunnan",
+    tagline: "Ancient towns & mountain kingdoms",
+    image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=700&q=80",
+    href: getRelativeLocaleUrl(locale, "tags/yunnan"),
+    size: "small",
+    emoji: "🌸",
+  },
+];
+
+// Featured article (first featured post for magazine hero layout)
+const featuredHero = featuredPosts[0];
+const featuredSidebar = featuredPosts.slice(1, 4);
+
+// Thumbnail helper function for magazine cards
+const thumbMap: Record<string, string> = {
+  beijing:   "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=900&q=80",
+  shanghai:  "https://images.unsplash.com/photo-1538428494232-9c0d8a3ab403?w=900&q=80",
+  xian:      "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=900&q=80",
+  chengdu:   "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=900&q=80",
+  guilin:    "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=900&q=80",
+  visa:      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=900&q=80",
+  transport: "https://images.unsplash.com/photo-1515658323406-25d61c141a6e?w=900&q=80",
+  food:      "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=900&q=80",
+  harbin:    "https://images.unsplash.com/photo-1578894381163-e72c17f2d45f?w=900&q=80",
+  yunnan:    "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=900&q=80",
+};
+const thumbMapSm: Record<string, string> = {
+  beijing:   "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=300&q=75",
+  shanghai:  "https://images.unsplash.com/photo-1538428494232-9c0d8a3ab403?w=300&q=75",
+  xian:      "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=300&q=75",
+  chengdu:   "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=300&q=75",
+  visa:      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=300&q=75",
+  transport: "https://images.unsplash.com/photo-1515658323406-25d61c141a6e?w=300&q=75",
+  food:      "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=300&q=75",
+  guilin:    "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=300&q=75",
+};
+const defaultThumb = "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=900&q=80";
+const defaultThumbSm = "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=300&q=75";
+
+function getPostThumb(tags: string[] | undefined, large = true): string {
+  const tag = (tags?.[0] ?? "").toLowerCase().replace(/[^a-z]/g, "");
+  return large ? (thumbMap[tag] ?? defaultThumb) : (thumbMapSm[tag] ?? defaultThumbSm);
+}
+
+// Pre-compute magazine thumbnails
+const featuredHeroThumb = featuredHero ? getPostThumb(featuredHero.data.tags, true) : defaultThumb;
+const featuredSidebarThumbs = featuredSidebar.map(p => getPostThumb(p.data.tags, false));
+const recentSidebarThumbs = recentPosts.slice(0, 3).map(p => getPostThumb(p.data.tags, false));
+
+// Post URL helper
+function getSimplePostUrl(id: string): string {
+  return `/posts/${id.replace(/^(destinations|toolkit)\//, "")}/`;
+}
 ---
 
 <Layout>
@@ -133,91 +189,105 @@ const stats = [
   >
 
     <!-- ═══════════════════════════════════════════
-         HERO — full-viewport-height immersive banner
+         HERO — full-viewport immersive banner
     ════════════════════════════════════════════ -->
     <section
       id="hero"
       class="relative -mt-[var(--header-h,64px)] flex flex-col overflow-hidden"
       style="min-height: 100svh;"
     >
-      <!-- Background image with parallax hint -->
-      <div class="absolute inset-0 z-0">
+      <!-- Background with parallax effect -->
+      <div class="absolute inset-0 z-0" id="hero-bg">
         <img
-          src="https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=1600&q=80"
-          alt="Stunning karst landscape in Guilin, China"
+          src={heroImage.url}
+          alt={heroImage.alt}
           class="h-full w-full object-cover object-center"
+          id="hero-img"
           loading="eager"
           fetchpriority="high"
+          draggable="false"
         />
-        <!-- Multi-stop gradient for depth & text readability -->
-        <div class="absolute inset-0 bg-gradient-to-b from-black/55 via-black/30 to-black/85"></div>
-        <!-- Subtle vignette on sides -->
-        <div class="absolute inset-0 bg-[radial-gradient(ellipse_at_center,transparent_50%,rgba(0,0,0,0.35)_100%)]"></div>
+        <!-- Multi-stop gradient — depth & readability -->
+        <div class="absolute inset-0 bg-gradient-to-b from-black/60 via-black/25 to-black/88"></div>
+        <!-- Radial vignette -->
+        <div class="absolute inset-0 bg-[radial-gradient(ellipse_at_center,transparent_45%,rgba(0,0,0,0.38)_100%)]"></div>
+        <!-- Warm colour grading overlay -->
+        <div class="absolute inset-0 bg-gradient-to-br from-amber-950/10 via-transparent to-red-950/15"></div>
       </div>
 
-      <!-- Hero content — vertically centred with bottom push -->
-      <div class="relative z-10 mx-auto flex w-full max-w-6xl flex-1 flex-col items-start justify-center px-4 pt-24 pb-12 sm:px-6 sm:pt-28 sm:pb-16">
+      <!-- Hero content -->
+      <div class="relative z-10 mx-auto flex w-full max-w-7xl flex-1 flex-col items-start justify-center px-4 pt-28 pb-16 sm:px-6 sm:pt-32 sm:pb-20">
 
-        <div class="hero-animate-in max-w-2xl">
-          <p class="mb-3 text-xs font-semibold uppercase tracking-[0.25em] text-white/60">
-            Your independent guide to
-          </p>
-          <h1 class="mb-5 text-5xl font-extrabold leading-[1.1] text-white sm:text-6xl lg:text-7xl" style="font-family: var(--font-google-sans-code), monospace; text-shadow: 0 2px 20px rgba(0,0,0,0.4);">
+        <div class="hero-animate-in max-w-2xl xl:max-w-3xl">
+          <div class="mb-4 inline-flex items-center gap-2 rounded-full border border-white/20 bg-white/10 px-3 py-1 backdrop-blur-sm">
+            <span class="h-1.5 w-1.5 animate-pulse rounded-full bg-amber-400"></span>
+            <span class="text-xs font-semibold uppercase tracking-[0.2em] text-white/80">Your independent guide to</span>
+          </div>
+
+          <h1
+            class="mb-5 leading-[1.08] text-white"
+            style="font-family: var(--font-playfair), Georgia, serif; font-size: clamp(2.6rem, 6vw, 5rem); font-weight: 800; text-shadow: 0 2px 24px rgba(0,0,0,0.35);"
+          >
             Travelling<br />
-            <span class="text-amber-400">China</span>
-            <span class="font-light opacity-80"> in 2025</span>
+            <span class="text-amber-400 italic">China</span>
+            <span class="font-light opacity-70 text-[0.75em]"> in 2026</span>
           </h1>
-          <p class="mb-8 max-w-xl text-base text-white/80 sm:text-lg leading-relaxed">
-            Honest advice on visas, payments, transport, and hidden gems —
-            written for first-timers and seasoned backpackers alike.
+
+          <p class="mb-8 max-w-xl text-base text-white/82 sm:text-lg leading-relaxed">
+            Honest, up-to-date advice on visas, payments, transport, and
+            hidden gems — written for first-timers and seasoned backpackers.
           </p>
 
           <!-- CTA buttons -->
           <div class="mb-10 flex flex-wrap gap-3">
             <a
               href={getRelativeLocaleUrl(locale, "posts")}
-              class="group inline-flex items-center gap-2 rounded-xl bg-accent px-7 py-3.5 text-sm font-bold text-white shadow-lg shadow-accent/30 transition-all duration-300 hover:scale-105 hover:shadow-xl hover:shadow-accent/40"
+              class="group inline-flex items-center gap-2 rounded-xl bg-accent px-7 py-3.5 text-sm font-bold text-white shadow-xl shadow-accent/30 transition-all duration-300 hover:scale-105 hover:shadow-2xl hover:shadow-accent/40 active:scale-100"
             >
               Explore Guides
-              <IconArrowRight class="h-4 w-4 transition-transform group-hover:translate-x-1" />
+              <IconArrowRight class="h-4 w-4 transition-transform duration-300 group-hover:translate-x-1" />
             </a>
             <a
-              href="#toolkit"
-              class="inline-flex items-center gap-2 rounded-xl border border-white/40 bg-white/10 px-7 py-3.5 text-sm font-semibold text-white backdrop-blur-sm transition-all duration-300 hover:bg-white/20 hover:border-white/60"
+              href={getRelativeLocaleUrl(locale, "tags")}
+              class="inline-flex items-center gap-2 rounded-xl border border-white/35 bg-white/10 px-7 py-3.5 text-sm font-semibold text-white backdrop-blur-sm transition-all duration-300 hover:bg-white/20 hover:border-white/55"
             >
-              Essential Toolkit ↓
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/>
+                <path stroke-linecap="round" stroke-linejoin="round" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/>
+              </svg>
+              Browse Destinations
             </a>
           </div>
 
           <!-- Quick search bar -->
           <div class="hero-search-bar relative w-full max-w-lg">
-            <div class="relative flex items-center overflow-hidden rounded-2xl border border-white/20 bg-white/12 backdrop-blur-md transition-all focus-within:border-white/50 focus-within:bg-white/18 focus-within:shadow-lg">
-              <span class="pointer-events-none pl-4 text-white/60">
-                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-4.35-4.35M11 19a8 8 0 100-16 8 8 0 000 16z"/>
+            <div class="relative flex items-center overflow-hidden rounded-2xl border border-white/22 bg-white/12 backdrop-blur-md transition-all duration-300 focus-within:border-white/50 focus-within:bg-white/18 focus-within:shadow-lg focus-within:shadow-black/20">
+              <span class="pointer-events-none pl-4 text-white/55">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-4.5 w-4.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-4.35-4.35M11 19a8 8 0 100-16 8 8 0 000 16z"/>
                 </svg>
               </span>
               <input
                 id="hero-search-input"
                 type="text"
                 placeholder="Search guides, destinations, topics…"
-                class="w-full bg-transparent px-3 py-3.5 text-sm text-white placeholder-white/50 outline-none"
+                class="w-full bg-transparent px-3 py-3.5 text-sm text-white placeholder-white/45 outline-none"
                 autocomplete="off"
               />
               <a
                 id="hero-search-btn"
                 href={getRelativeLocaleUrl(locale, "search")}
-                class="mr-1.5 flex-shrink-0 rounded-xl bg-white/20 px-4 py-2 text-xs font-semibold text-white transition-all hover:bg-white/30"
+                class="mr-1.5 flex-shrink-0 rounded-xl bg-white/20 px-4 py-2 text-xs font-bold text-white transition-all hover:bg-white/32 active:scale-95"
               >
                 Search
               </a>
             </div>
-            <!-- Quick tags below search -->
+            <!-- Quick-search tags -->
             <div class="mt-3 flex flex-wrap gap-2">
-              {["Visa-free", "Train tickets", "Best time to visit", "Street food", "Alipay setup"].map(q => (
+              {["Visa-free", "Train tickets", "Alipay setup", "Best time to visit", "Street food"].map(q => (
                 <a
                   href={`${getRelativeLocaleUrl(locale, "search")}?q=${encodeURIComponent(q)}`}
-                  class="rounded-full border border-white/25 bg-white/10 px-3 py-1 text-xs text-white/75 backdrop-blur-sm transition-all hover:bg-white/20 hover:text-white hover:border-white/50"
+                  class="rounded-full border border-white/22 bg-white/10 px-3 py-1 text-xs text-white/72 backdrop-blur-sm transition-all hover:bg-white/20 hover:text-white hover:border-white/45 active:scale-95"
                 >
                   {q}
                 </a>
@@ -227,13 +297,16 @@ const stats = [
         </div>
       </div>
 
-      <!-- Stats bar — anchored at bottom of hero -->
+      <!-- Stats bar -->
       <div class="relative z-10 border-t border-white/10 bg-black/30 backdrop-blur-sm">
-        <div class="mx-auto grid max-w-6xl grid-cols-2 divide-x divide-white/10 px-4 sm:grid-cols-4 sm:px-6">
+        <div class="mx-auto grid max-w-7xl grid-cols-2 divide-x divide-white/10 px-4 sm:grid-cols-4 sm:px-6">
           {stats.map(stat => (
             <div class="flex flex-col items-center py-4 px-2 text-center">
-              <span class="text-2xl font-extrabold text-white sm:text-3xl">{stat.value}</span>
-              <span class="mt-0.5 text-xs text-white/55 uppercase tracking-wide">{stat.label}</span>
+              <span
+                class="text-2xl font-extrabold text-white sm:text-3xl"
+                style="font-family: var(--font-playfair), Georgia, serif;"
+              >{stat.value}</span>
+              <span class="mt-0.5 text-[10px] text-white/52 uppercase tracking-widest">{stat.label}</span>
             </div>
           ))}
         </div>
@@ -241,18 +314,19 @@ const stats = [
     </section>
 
     <!-- ═══════════════════════════════════════════
-         ESSENTIAL TOOLKIT — gradient micro-cards
+         ESSENTIAL TOOLKIT
     ════════════════════════════════════════════ -->
     <section id="toolkit" class="border-b border-border py-16 observe-fade">
-      <div class="mx-auto max-w-6xl px-4 sm:px-6">
+      <div class="mx-auto max-w-7xl px-4 sm:px-6">
         <div class="mb-10 text-center">
-          <p class="mb-1 text-xs font-semibold uppercase tracking-[0.2em] text-accent">
-            Before you go
-          </p>
-          <h2 class="text-3xl font-extrabold text-foreground sm:text-4xl" style="font-family: var(--font-google-sans-code), monospace;">
+          <p class="overline mb-2">Before you go</p>
+          <h2
+            class="text-3xl font-extrabold text-foreground sm:text-4xl"
+            style="font-family: var(--font-playfair), Georgia, serif;"
+          >
             Essential Toolkit
           </h2>
-          <p class="mt-2 text-muted-foreground">
+          <p class="mt-2 text-base text-muted-foreground max-w-lg mx-auto">
             Everything international travellers need to navigate China with confidence.
           </p>
         </div>
@@ -262,18 +336,20 @@ const stats = [
               href={guide.href}
               class:list={[
                 "group relative flex flex-col gap-4 overflow-hidden rounded-2xl p-6",
-                "border border-border bg-gradient-to-br",
-                guide.gradient,
-                "shadow-sm transition-all duration-300",
-                "hover:shadow-lg hover:-translate-y-1.5 hover:border-accent/20",
+                "border bg-gradient-to-br",
+                guide.gradient, guide.border,
+                "bg-[var(--card-bg)] shadow-sm transition-all duration-300",
+                "hover:shadow-xl hover:-translate-y-2 hover:border-accent/25",
               ]}
             >
-              <!-- Icon circle -->
-              <div class="flex size-12 items-center justify-center rounded-xl bg-background/60 text-2xl shadow-sm backdrop-blur-sm transition-transform duration-300 group-hover:scale-110">
+              <div class="flex size-12 items-center justify-center rounded-xl bg-background/70 text-2xl shadow-sm backdrop-blur-sm transition-transform duration-300 group-hover:scale-110 group-hover:rotate-3">
                 {guide.icon}
               </div>
               <div class="flex-1">
-                <h3 class="font-bold text-foreground transition-colors group-hover:text-accent">
+                <h3
+                  class="font-bold text-foreground transition-colors group-hover:text-accent"
+                  style="font-family: var(--font-google-sans-code), monospace;"
+                >
                   {guide.title}
                 </h3>
                 <p class="mt-1.5 text-sm leading-relaxed text-muted-foreground">{guide.desc}</p>
@@ -283,7 +359,10 @@ const stats = [
                 <IconArrowRight class="h-3.5 w-3.5 transition-transform group-hover:translate-x-1" />
               </span>
               <!-- Decorative corner glow -->
-              <div class="pointer-events-none absolute -right-4 -bottom-4 h-20 w-20 rounded-full opacity-0 blur-2xl transition-opacity duration-500 group-hover:opacity-60" style={`background: ${guide.accent};`}></div>
+              <div
+                class="pointer-events-none absolute -right-4 -bottom-4 h-24 w-24 rounded-full opacity-0 blur-2xl transition-opacity duration-500 group-hover:opacity-55"
+                style={`background: ${guide.accent};`}
+              ></div>
             </a>
           ))}
         </div>
@@ -291,68 +370,229 @@ const stats = [
     </section>
 
     <!-- ═══════════════════════════════════════════
-         FEATURED DESTINATIONS
+         BENTO GRID DESTINATIONS
     ════════════════════════════════════════════ -->
-    <section id="destinations" class="border-b border-border py-16 observe-fade">
-      <div class="mx-auto max-w-6xl px-4 sm:px-6">
+    <section id="destinations" class="border-b border-border py-16 observe-fade section-rice-paper">
+      <div class="mx-auto max-w-7xl px-4 sm:px-6">
         <div class="mb-10 flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between">
           <div>
-            <p class="mb-1 text-xs font-semibold uppercase tracking-[0.2em] text-accent">
-              Where to go
-            </p>
-            <h2 class="text-3xl font-extrabold text-foreground sm:text-4xl" style="font-family: var(--font-google-sans-code), monospace;">
+            <p class="overline mb-2">Where to go</p>
+            <h2
+              class="text-3xl font-extrabold text-foreground sm:text-4xl"
+              style="font-family: var(--font-playfair), Georgia, serif;"
+            >
               Featured Destinations
             </h2>
           </div>
-          <LinkButton
+          <a
             href={getRelativeLocaleUrl(locale, "tags")}
-            class="flex items-center gap-1.5 text-sm font-semibold text-accent transition-all hover:gap-2.5"
+            class="group inline-flex items-center gap-1.5 text-sm font-semibold text-accent transition-all hover:gap-2.5"
           >
             All destinations <IconArrowRight class="h-4 w-4" />
-          </LinkButton>
+          </a>
         </div>
-        <div class="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-          {destinations.map(dest => (
-            <DestinationCard {...dest} />
+
+        <!-- Bento Grid: asymmetric responsive layout -->
+        <div class="bento-grid grid gap-4 sm:gap-5">
+          {bentoDests.map((dest, i) => (
+            <a
+              href={dest.href}
+              class:list={[
+                "bento-item group relative overflow-hidden rounded-2xl border border-border/60 shadow-sm",
+                "transition-all duration-400 hover:shadow-2xl hover:-translate-y-1.5 hover:border-accent/25",
+                `bento-${dest.size}`,
+                `bento-item-${i}`,
+              ]}
+              style="background: var(--muted);"
+            >
+              <img
+                src={dest.image}
+                alt={dest.name}
+                class="absolute inset-0 h-full w-full object-cover transition-transform duration-700 ease-out group-hover:scale-110"
+                loading={i < 3 ? "eager" : "lazy"}
+              />
+              <!-- Gradient overlay -->
+              <div class="absolute inset-0 bg-gradient-to-t from-black/82 via-black/20 to-transparent transition-opacity duration-300 group-hover:opacity-95"></div>
+              <!-- Warm colour tint -->
+              <div class="absolute inset-0 bg-gradient-to-br from-transparent to-black/20 opacity-0 transition-opacity group-hover:opacity-100"></div>
+
+              <!-- Content -->
+              <div class="absolute bottom-0 left-0 right-0 p-4 sm:p-5 transition-transform duration-300 group-hover:-translate-y-1">
+                <div class="flex items-center gap-2 text-white">
+                  <span class="text-xl sm:text-2xl" aria-hidden="true">{dest.emoji}</span>
+                  <h3
+                    class="font-extrabold text-white drop-shadow-lg"
+                    style={`font-family: var(--font-playfair), Georgia, serif; font-size: ${dest.size === 'large' ? '1.6rem' : dest.size === 'medium' ? '1.25rem' : '1.05rem'};`}
+                  >
+                    {dest.name}
+                  </h3>
+                </div>
+                <p class="mt-1 text-xs text-white/75 leading-snug sm:text-sm">{dest.tagline}</p>
+              </div>
+
+              <!-- Arrow hover -->
+              <div class="absolute right-3 top-3 flex size-8 items-center justify-center rounded-full bg-white/0 text-white/0 transition-all duration-300 group-hover:bg-white/20 group-hover:text-white">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+                </svg>
+              </div>
+            </a>
           ))}
         </div>
       </div>
     </section>
 
     <!-- ═══════════════════════════════════════════
-         FEATURED ARTICLES — horizontal scroll on mobile
+         MAGAZINE LAYOUT — Latest Guides
+         Left: large featured hero card
+         Right: 3-item vertical sidebar list
     ════════════════════════════════════════════ -->
     {
-      featuredPosts.length > 0 && (
+      featuredHero && (
         <section id="featured" class="border-b border-border py-16 observe-fade">
-          <div class="mx-auto max-w-6xl px-4 sm:px-6">
-            <p class="mb-1 text-xs font-semibold uppercase tracking-[0.2em] text-accent">
-              Editor's picks
-            </p>
-            <h2 class="mb-8 text-3xl font-extrabold text-foreground sm:text-4xl" style="font-family: var(--font-google-sans-code), monospace;">
+          <div class="mx-auto max-w-7xl px-4 sm:px-6">
+            <p class="overline mb-2">Editor's picks</p>
+            <h2
+              class="mb-8 text-3xl font-extrabold text-foreground sm:text-4xl"
+              style="font-family: var(--font-playfair), Georgia, serif;"
+            >
               {t.home.featured}
             </h2>
-            <ul class="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-              {featuredPosts.map(data => (
-                <Card variant="h3" {...data} cardStyle="grid" />
-              ))}
-            </ul>
+
+            <!-- Magazine grid: large hero left + sidebar right -->
+            <div class="grid gap-6 lg:grid-cols-5 lg:gap-8">
+
+              <!-- Hero featured card (col-span-3) -->
+              <a
+                href={`/posts/${featuredHero.id.replace(/^(destinations|toolkit)\//, "")}/`}
+                class="group magazine-hero relative col-span-full overflow-hidden rounded-2xl border border-border bg-[var(--card-bg)] shadow-sm transition-all duration-400 hover:shadow-2xl hover:-translate-y-1.5 lg:col-span-3"
+                style="min-height: 420px;"
+              >
+                <!-- Thumbnail -->
+                <div class="relative h-56 overflow-hidden bg-muted sm:h-72 lg:h-full lg:min-h-[420px]">
+                  <img
+                    src={featuredHeroThumb}
+                    alt={featuredHero.data.title}
+                    class="h-full w-full object-cover transition-transform duration-700 group-hover:scale-108"
+                    loading="lazy"
+                  />
+                  <div class="absolute inset-0 bg-gradient-to-t from-black/75 via-black/25 to-transparent"></div>
+                  <!-- Category badge -->
+                  {featuredHero.data.tags?.[0] && (
+                    <span class="absolute top-4 left-4 rounded-full bg-accent px-3 py-1 text-xs font-bold uppercase tracking-wider text-white shadow-sm">
+                      {featuredHero.data.tags[0]}
+                    </span>
+                  )}
+                  <!-- Title overlay on image -->
+                  <div class="absolute bottom-0 left-0 right-0 p-5 transition-transform duration-300 group-hover:-translate-y-1 lg:p-6">
+                    <h3
+                      class="mb-2 text-xl font-extrabold leading-tight text-white drop-shadow-lg sm:text-2xl"
+                      style="font-family: var(--font-playfair), Georgia, serif;"
+                    >
+                      {featuredHero.data.title}
+                    </h3>
+                    <p class="line-clamp-2 text-sm text-white/80 leading-relaxed">
+                      {featuredHero.data.description}
+                    </p>
+                    <span class="mt-3 inline-flex items-center gap-1.5 text-xs font-bold text-amber-300 transition-all group-hover:gap-2.5">
+                      Read full guide
+                      <svg xmlns="http://www.w3.org/2000/svg" class="h-3.5 w-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+                      </svg>
+                    </span>
+                  </div>
+                </div>
+              </a>
+
+              <!-- Sidebar: 3 articles (col-span-2) -->
+              <div class="col-span-full flex flex-col gap-4 lg:col-span-2">
+                {featuredSidebar.length > 0 ? featuredSidebar.map((post, idx) => (
+                  <a
+                    href={`/posts/${post.id.replace(/^(destinations|toolkit)\//, "")}/`}
+                    class="group flex gap-4 overflow-hidden rounded-xl border border-border bg-[var(--card-bg)] p-3.5 shadow-sm transition-all duration-300 hover:shadow-md hover:-translate-y-0.5 hover:border-accent/25"
+                  >
+                    <div class="h-20 w-24 flex-shrink-0 overflow-hidden rounded-lg bg-muted">
+                      <img
+                        src={featuredSidebarThumbs[idx]}
+                        alt={post.data.title}
+                        class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-110"
+                        loading="lazy"
+                      />
+                    </div>
+                    <div class="min-w-0 flex-1">
+                      {post.data.tags?.[0] && (
+                        <span class="mb-1 inline-block rounded-full bg-muted px-2 py-0.5 text-[10px] font-bold uppercase tracking-wider text-muted-foreground">
+                          {post.data.tags[0]}
+                        </span>
+                      )}
+                      <h4
+                        class="line-clamp-2 text-sm font-bold leading-snug text-foreground transition-colors group-hover:text-accent"
+                        style="font-family: var(--font-google-sans-code), monospace;"
+                      >
+                        {post.data.title}
+                      </h4>
+                      <p class="mt-1 line-clamp-1 text-xs text-muted-foreground">
+                        {post.data.description}
+                      </p>
+                    </div>
+                  </a>
+                )) : (
+                  <div class="flex flex-col gap-4">
+                    {recentPosts.slice(0, 3).map((post, idx) => (
+                      <a
+                        href={`/posts/${post.id.replace(/^(destinations|toolkit)\//, "")}/`}
+                        class="group flex gap-4 overflow-hidden rounded-xl border border-border bg-[var(--card-bg)] p-3.5 shadow-sm transition-all duration-300 hover:shadow-md hover:-translate-y-0.5 hover:border-accent/25"
+                      >
+                        <div class="h-20 w-24 flex-shrink-0 overflow-hidden rounded-lg bg-muted">
+                          <img
+                            src={recentSidebarThumbs[idx]}
+                            alt={post.data.title}
+                            class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-110"
+                            loading="lazy"
+                          />
+                        </div>
+                        <div class="min-w-0 flex-1">
+                          <h4
+                            class="line-clamp-2 text-sm font-bold leading-snug text-foreground transition-colors group-hover:text-accent"
+                            style="font-family: var(--font-google-sans-code), monospace;"
+                          >
+                            {post.data.title}
+                          </h4>
+                          <p class="mt-1 line-clamp-1 text-xs text-muted-foreground">
+                            {post.data.description}
+                          </p>
+                        </div>
+                      </a>
+                    ))}
+                  </div>
+                )}
+
+                <!-- "View all" link -->
+                <a
+                  href={getRelativeLocaleUrl(locale, "posts")}
+                  class="group flex items-center justify-center gap-2 rounded-xl border-2 border-dashed border-border py-3.5 text-sm font-semibold text-muted-foreground transition-all hover:border-accent/40 hover:text-accent"
+                >
+                  View all guides <IconArrowRight class="h-4 w-4 transition-transform group-hover:translate-x-1" />
+                </a>
+              </div>
+            </div>
           </div>
         </section>
       )
     }
 
     <!-- ═══════════════════════════════════════════
-         RECENT ARTICLES
+         RECENT ARTICLES GRID
     ════════════════════════════════════════════ -->
     {
       recentPosts.length > 0 && (
         <section id="recent-posts" class="border-b border-border py-16 observe-fade">
-          <div class="mx-auto max-w-6xl px-4 sm:px-6">
-            <p class="mb-1 text-xs font-semibold uppercase tracking-[0.2em] text-accent">
-              Fresh off the press
-            </p>
-            <h2 class="mb-8 text-3xl font-extrabold text-foreground sm:text-4xl" style="font-family: var(--font-google-sans-code), monospace;">
+          <div class="mx-auto max-w-7xl px-4 sm:px-6">
+            <p class="overline mb-2">Fresh off the press</p>
+            <h2
+              class="mb-8 text-3xl font-extrabold text-foreground sm:text-4xl"
+              style="font-family: var(--font-playfair), Georgia, serif;"
+            >
               {t.home.recentPosts}
             </h2>
             <ul class="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
@@ -360,19 +600,58 @@ const stats = [
                 <Card variant="h3" {...data} cardStyle="grid" />
               ))}
             </ul>
-            <div class="mt-10 text-center">
-              <LinkButton
+            <div class="mt-12 text-center">
+              <a
                 href={getRelativeLocaleUrl(locale, "posts")}
-                class="inline-flex items-center gap-2 rounded-xl border-2 border-accent px-8 py-3 text-sm font-bold text-accent transition-all duration-300 hover:bg-accent hover:text-white hover:shadow-lg hover:shadow-accent/20"
+                class="inline-flex items-center gap-2 rounded-xl border-2 border-accent px-8 py-3.5 text-sm font-bold text-accent transition-all duration-300 hover:bg-accent hover:text-white hover:shadow-lg hover:shadow-accent/20 active:scale-95"
               >
                 {t.home.allPosts}
-                <IconArrowRight class="h-4 w-4 rtl:-rotate-180" />
-              </LinkButton>
+                <IconArrowRight class="h-4 w-4 rtl:-rotate-180 transition-transform group-hover:translate-x-1" />
+              </a>
             </div>
           </div>
         </section>
       )
     }
+
+    <!-- ═══════════════════════════════════════════
+         NEWSLETTER CTA STRIP
+    ════════════════════════════════════════════ -->
+    <section class="observe-fade py-16 section-rice-paper">
+      <div class="mx-auto max-w-3xl px-4 text-center sm:px-6">
+        <span class="mb-4 inline-block text-4xl">✉️</span>
+        <h2
+          class="mb-3 text-2xl font-extrabold text-foreground sm:text-3xl"
+          style="font-family: var(--font-playfair), Georgia, serif;"
+        >
+          Never miss a guide
+        </h2>
+        <p class="mb-6 text-base text-muted-foreground">
+          Get our best China travel tips, visa updates, and hidden gems delivered straight to your inbox — no spam, ever.
+        </p>
+        <form
+          class="mx-auto flex max-w-md flex-col gap-3 sm:flex-row"
+          onsubmit="return false;"
+          aria-label="Newsletter signup"
+        >
+          <input
+            type="email"
+            placeholder="your@email.com"
+            required
+            class="flex-1 rounded-xl border border-border bg-[var(--card-bg)] px-4 py-3 text-sm text-foreground placeholder-muted-foreground outline-none transition-all focus:border-accent focus:ring-2 focus:ring-accent/20"
+          />
+          <button
+            type="submit"
+            class="rounded-xl bg-accent px-6 py-3 text-sm font-bold text-white shadow-md shadow-accent/25 transition-all hover:scale-105 hover:shadow-lg hover:shadow-accent/35 active:scale-100"
+          >
+            Subscribe
+          </button>
+        </form>
+        <p class="mt-3 text-xs text-muted-foreground">
+          Unsubscribe at any time. Read our <a href="#" class="underline hover:text-accent">privacy policy</a>.
+        </p>
+      </div>
+    </section>
 
   </main>
   <Footer />
@@ -386,7 +665,7 @@ const stats = [
       sessionStorage.setItem("backUrl", indexLayout.homePath ?? baseRoot);
     }
 
-    // ── Hero search bar → redirect to search page ──
+    // ── Hero search bar ──
     const heroInput = document.getElementById("hero-search-input") as HTMLInputElement;
     const heroBtn = document.getElementById("hero-search-btn") as HTMLAnchorElement;
     if (heroInput && heroBtn) {
@@ -405,7 +684,20 @@ const stats = [
       });
     }
 
-    // ── Fade-up on scroll using IntersectionObserver ──
+    // ── Subtle parallax on hero background ──
+    const heroImg = document.getElementById("hero-img");
+    if (heroImg && window.innerWidth > 768) {
+      const handleParallax = () => {
+        const scrollY = window.scrollY;
+        const vh = window.innerHeight;
+        if (scrollY < vh) {
+          (heroImg as HTMLElement).style.transform = `translateY(${scrollY * 0.28}px)`;
+        }
+      };
+      window.addEventListener("scroll", handleParallax, { passive: true });
+    }
+
+    // ── Fade-up on scroll ──
     const fadeTargets = document.querySelectorAll(".observe-fade");
     if (!fadeTargets.length) return;
 
@@ -414,16 +706,16 @@ const stats = [
         entries.forEach(entry => {
           if (entry.isIntersecting) {
             entry.target.classList.add("section-visible");
-            const children = entry.target.querySelectorAll("a[class*='rounded'], li, .grid > *");
+            const children = entry.target.querySelectorAll("a[class*='rounded'], li, .grid > *, .bento-item");
             children.forEach((child, i) => {
-              (child as HTMLElement).style.animationDelay = `${i * 0.07}s`;
+              (child as HTMLElement).style.animationDelay = `${i * 0.06}s`;
               child.classList.add("card-pop-in");
             });
             observer.unobserve(entry.target);
           }
         });
       },
-      { threshold: 0.06 }
+      { threshold: 0.05 }
     );
     fadeTargets.forEach(el => observer.observe(el));
   });
@@ -432,19 +724,14 @@ const stats = [
 <style>
   /* Hero entrance animation */
   .hero-animate-in {
-    animation: heroSlideUp 0.8s cubic-bezier(0.22, 1, 0.36, 1) forwards;
-  }
-
-  @keyframes heroSlideUp {
-    from { opacity: 0; transform: translateY(32px); }
-    to   { opacity: 1; transform: translateY(0); }
+    animation: heroSlideUp 0.85s cubic-bezier(0.22, 1, 0.36, 1) forwards;
   }
 
   /* Section fade-in */
   .observe-fade {
     opacity: 0;
-    transform: translateY(20px);
-    transition: opacity 0.6s ease, transform 0.6s ease;
+    transform: translateY(24px);
+    transition: opacity 0.65s ease, transform 0.65s ease;
   }
   .observe-fade.section-visible {
     opacity: 1;
@@ -453,13 +740,84 @@ const stats = [
 
   /* Card pop-in */
   @keyframes cardPopIn {
-    from { opacity: 0; transform: translateY(16px) scale(0.98); }
+    from { opacity: 0; transform: translateY(18px) scale(0.97); }
     to   { opacity: 1; transform: translateY(0) scale(1); }
   }
   .card-pop-in {
-    animation: cardPopIn 0.45s cubic-bezier(0.22, 1, 0.36, 1) both;
+    animation: cardPopIn 0.5s cubic-bezier(0.22, 1, 0.36, 1) both;
   }
 
-  /* Hero min-height offset for sticky header */
-  :root { --header-h: 64px; }
+  /* ── BENTO GRID LAYOUT ──
+     Desktop: 4 columns, varied heights
+     Tablet:  2 columns
+     Mobile:  2 columns, equal height */
+
+  .bento-grid {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: auto;
+  }
+
+  /* Mobile: all equal height */
+  .bento-item {
+    aspect-ratio: 4/3;
+  }
+
+  @media (min-width: 640px) {
+    .bento-grid {
+      grid-template-columns: repeat(3, 1fr);
+    }
+    .bento-large { grid-column: span 1; aspect-ratio: 4/3; }
+    .bento-medium { aspect-ratio: 4/3; }
+    .bento-small { aspect-ratio: 4/3; }
+  }
+
+  @media (min-width: 1024px) {
+    .bento-grid {
+      grid-template-columns: 2fr 1.3fr 1fr 1fr;
+      grid-template-rows: 260px 200px;
+    }
+    /* Item 0: Beijing — tall hero spanning 2 rows */
+    .bento-item-0 {
+      grid-column: 1;
+      grid-row: 1 / span 2;
+      aspect-ratio: auto;
+      height: 100%;
+    }
+    /* Item 1: Shanghai — medium, top row */
+    .bento-item-1 {
+      grid-column: 2;
+      grid-row: 1;
+      aspect-ratio: auto;
+    }
+    /* Item 2: Guilin — small, top row */
+    .bento-item-2 {
+      grid-column: 3;
+      grid-row: 1;
+      aspect-ratio: auto;
+    }
+    /* Item 3: Xi'an — small, top row */
+    .bento-item-3 {
+      grid-column: 4;
+      grid-row: 1;
+      aspect-ratio: auto;
+    }
+    /* Item 4: Chengdu — spans 2 cols, bottom row */
+    .bento-item-4 {
+      grid-column: 2 / span 2;
+      grid-row: 2;
+      aspect-ratio: auto;
+    }
+    /* Item 5: Yunnan — bottom row */
+    .bento-item-5 {
+      grid-column: 4;
+      grid-row: 2;
+      aspect-ratio: auto;
+    }
+  }
+
+  /* Magazine hero scale */
+  .group-hover\:scale-108:is(.group:hover *) { transform: scale(1.08); }
+  .group:hover .group-hover\:scale-108 { transform: scale(1.08); }
+  .duration-400 { transition-duration: 400ms; }
+  .duration-700 { transition-duration: 700ms; }
 </style>

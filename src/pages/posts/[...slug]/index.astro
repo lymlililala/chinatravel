@@ -91,6 +91,10 @@ if (!ogImageUrl && config.features.dynamicOgImage) {
 const ogImage = ogImageUrl
   ? new URL(ogImageUrl, Astro.url.origin).href
   : undefined;
+
+// Estimate reading time
+const wordCount = post.body?.split(/\s+/).length ?? 0;
+const readingTime = Math.ceil(wordCount / 200);
 ---
 
 <PostLayout
@@ -102,75 +106,228 @@ const ogImage = ogImageUrl
   modDatetime={modDatetime}
 >
   <Header />
-
   <BackButton />
 
-  <main
-    id="main-content"
-    class:list={["app-layout", { "mt-8": !config.features.showBackButton }]}
-    data-pagefind-body
-  >
-    <h1
-      style={{ viewTransitionName: slugifyStr(title.replaceAll(".", "-")) }}
-      class="text-accent inline-block text-2xl font-bold sm:text-3xl"
-    >
-      {title}
-    </h1>
+  <!-- Article layout wrapper: centre content + sticky TOC -->
+  <div class="relative mx-auto w-full max-w-7xl px-4 sm:px-6">
+    <div class="lg:flex lg:gap-10 xl:gap-14">
 
-    <div class="my-2 flex items-center gap-2">
-      <Datetime {pubDatetime} {modDatetime} {timezone} size="lg" />
-      <span
-        aria-hidden="true"
-        class:list={[
-          "text-muted-foreground max-sm:hidden",
-          { hidden: !config.features.editPost?.enabled || hideEditPost },
-        ]}
+      <!-- Left share column (desktop only) -->
+      <aside
+        class="hidden lg:flex lg:flex-col lg:items-center lg:gap-3 lg:pt-10 lg:w-12 xl:w-14 share-sidebar"
+        aria-label="Share article"
       >
-        |
-      </span>
-      <EditPost {hideEditPost} {post} class="max-sm:hidden" />
+        <div class="sticky top-24 flex flex-col items-center gap-3">
+          <span class="text-[10px] font-bold uppercase tracking-widest text-muted-foreground rotate-180 [writing-mode:vertical-rl]">Share</span>
+
+          <!-- Twitter/X -->
+          <a
+            href={`https://x.com/intent/post?url=${encodeURIComponent(Astro.url.href)}&text=${encodeURIComponent(title)}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Share on X"
+            class="share-btn flex size-9 items-center justify-center rounded-xl border border-border bg-[var(--card-bg)] text-muted-foreground shadow-sm transition-all hover:bg-foreground hover:text-background hover:scale-110"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="currentColor" viewBox="0 0 24 24">
+              <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.74l7.73-8.835L1.254 2.25H8.08l4.258 5.63 5.906-5.63zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+            </svg>
+          </a>
+
+          <!-- Facebook -->
+          <a
+            href={`https://www.facebook.com/sharer.php?u=${encodeURIComponent(Astro.url.href)}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Share on Facebook"
+            class="share-btn flex size-9 items-center justify-center rounded-xl border border-border bg-[var(--card-bg)] text-muted-foreground shadow-sm transition-all hover:bg-blue-600 hover:text-white hover:border-blue-600 hover:scale-110"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="currentColor" viewBox="0 0 24 24">
+              <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/>
+            </svg>
+          </a>
+
+          <!-- WhatsApp -->
+          <a
+            href={`https://wa.me/?text=${encodeURIComponent(title + " " + Astro.url.href)}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Share on WhatsApp"
+            class="share-btn flex size-9 items-center justify-center rounded-xl border border-border bg-[var(--card-bg)] text-muted-foreground shadow-sm transition-all hover:bg-green-500 hover:text-white hover:border-green-500 hover:scale-110"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="currentColor" viewBox="0 0 24 24">
+              <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/>
+            </svg>
+          </a>
+
+          <!-- Copy link -->
+          <button
+            id="copy-link-btn"
+            aria-label="Copy link"
+            class="share-btn flex size-9 items-center justify-center rounded-xl border border-border bg-[var(--card-bg)] text-muted-foreground shadow-sm transition-all hover:bg-accent hover:text-white hover:border-accent hover:scale-110"
+          >
+            <svg id="copy-icon" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z"/>
+            </svg>
+          </button>
+        </div>
+      </aside>
+
+      <!-- ── Main article ── -->
+      <main
+        id="main-content"
+        class:list={[
+          "min-w-0 flex-1 py-8",
+          { "mt-8": !config.features.showBackButton },
+        ]}
+        data-pagefind-body
+      >
+        <!-- Article meta header -->
+        <header class="mb-8 border-b border-border pb-8">
+          <!-- Tags as breadcrumb-style -->
+          <div class="mb-4 flex flex-wrap gap-2">
+            {tags.map(tag => (
+              <a
+                href={`/tags/${slugifyStr(tag)}/`}
+                class="inline-block rounded-full bg-muted px-3 py-1 text-xs font-bold uppercase tracking-wider text-muted-foreground transition-colors hover:bg-accent/15 hover:text-accent"
+              >
+                {tag}
+              </a>
+            ))}
+          </div>
+
+          <h1
+            style={{ viewTransitionName: slugifyStr(title.replaceAll(".", "-")), fontFamily: "var(--font-playfair), Georgia, serif" }}
+            class="mb-4 text-3xl font-extrabold leading-tight text-foreground sm:text-4xl"
+          >
+            {title}
+          </h1>
+
+          {description && (
+            <p class="mb-4 text-lg leading-relaxed text-muted-foreground">
+              {description}
+            </p>
+          )}
+
+          <div class="flex flex-wrap items-center gap-x-4 gap-y-2 text-sm text-muted-foreground">
+            <Datetime {pubDatetime} {modDatetime} {timezone} size="lg" />
+            <span class="text-border">|</span>
+            <span class="flex items-center gap-1.5">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/>
+              </svg>
+              {readingTime} min read
+            </span>
+            <span class="text-border">|</span>
+            <span class="flex items-center gap-1.5 text-foreground font-medium">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 text-accent" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"/>
+              </svg>
+              {config.site.author}
+            </span>
+            <EditPost {hideEditPost} {post} class="max-sm:hidden" />
+          </div>
+        </header>
+
+        <!-- Article body -->
+        <article
+          id="article"
+          class:list={[
+            "w-full",
+            "app-prose max-w-app",
+            "prose-pre:bg-(--shiki-light-bg) dark:prose-pre:bg-(--shiki-dark-bg)",
+          ]}
+        >
+          <Content />
+        </article>
+
+        <hr class="my-10 border-dashed" />
+
+        <EditPost class="sm:hidden mb-6" {hideEditPost} {post} />
+
+        <BackToTopButton />
+
+        <!-- Tags -->
+        <div class="mb-8">
+          <p class="mb-3 text-xs font-bold uppercase tracking-widest text-muted-foreground">Filed under</p>
+          <ul class="flex flex-wrap gap-3">
+            {tags.map(tag => <Tag tag={slugifyStr(tag)} tagName={tag} size="sm" />)}
+          </ul>
+        </div>
+
+        <!-- Mobile share buttons -->
+        <div class="mb-8 lg:hidden">
+          <p class="mb-3 text-xs font-bold uppercase tracking-widest text-muted-foreground">Share this article</p>
+          <ShareLinks />
+        </div>
+
+        <hr class="my-8 border-dashed" />
+
+        <!-- Author card -->
+        <div class="mb-10 flex gap-4 rounded-2xl border border-border bg-[var(--section-alt)] p-5 sm:p-6">
+          <div
+            class="flex size-14 flex-shrink-0 items-center justify-center rounded-full bg-accent text-white text-xl font-black sm:size-16"
+            aria-hidden="true"
+          >
+            旅
+          </div>
+          <div>
+            <p class="mb-1 text-xs font-bold uppercase tracking-widest text-accent">About the author</p>
+            <h3
+              class="mb-1.5 text-base font-extrabold text-foreground"
+              style="font-family: var(--font-playfair), Georgia, serif;"
+            >
+              {config.site.author}
+            </h3>
+            <p class="text-sm leading-relaxed text-muted-foreground">
+              A team of experienced travellers and China experts passionate about helping international visitors explore China confidently. We've visited over 30 provinces and written hundreds of guides so you don't have to figure it out alone.
+            </p>
+          </div>
+        </div>
+
+        <hr class="my-8 border-dashed" />
+
+        <AdjacentPostNav {prevPost} {nextPost} />
+      </main>
+
+      <!-- Right TOC sidebar (desktop only) -->
+      <aside
+        id="toc-sidebar"
+        class="hidden w-56 xl:w-64 shrink-0 xl:block"
+        aria-label="Table of contents"
+      >
+        <div class="sticky top-24 max-h-[calc(100vh-7rem)] overflow-y-auto py-8">
+          <p class="mb-4 text-xs font-bold uppercase tracking-widest text-muted-foreground">
+            On this page
+          </p>
+          <nav id="toc-nav" class="space-y-1 text-sm">
+            <!-- Filled by JS -->
+            <p class="text-xs italic text-muted-foreground">Loading…</p>
+          </nav>
+        </div>
+      </aside>
+
     </div>
+  </div>
 
-    <article
-      id="article"
-      class:list={[
-        "mt-8 w-full",
-        "app-prose max-w-app",
-        "prose-pre:bg-(--shiki-light-bg) dark:prose-pre:bg-(--shiki-dark-bg)",
-      ]}
-    >
-      <Content />
-    </article>
-
-    <hr class="my-8 border-dashed" />
-
-    <EditPost class="sm:hidden" {hideEditPost} {post} />
-
-    <BackToTopButton />
-
-    <ul class="mt-4 mb-8 flex flex-wrap gap-4 sm:my-8">
-      {tags.map(tag => <Tag tag={slugifyStr(tag)} tagName={tag} size="sm" />)}
-    </ul>
-
-    <ShareLinks />
-
-    <hr class="my-8 border-dashed" />
-
-    <AdjacentPostNav {prevPost} {nextPost} />
-  </main>
   <Footer />
 </PostLayout>
 
+<!-- Lightbox overlay container -->
+<div id="lightbox-overlay" class="hidden" role="dialog" aria-modal="true" aria-label="Image viewer">
+  <button class="lb-close" aria-label="Close image viewer">✕</button>
+  <img id="lightbox-img" src="" alt="" />
+</div>
+
 <script is:inline data-astro-rerun>
+  /* ── Reading progress bar ── */
   function createProgressBar() {
+    const existing = document.querySelector(".progress-container");
+    if (existing) existing.remove();
     const progressContainer = document.createElement("div");
-    progressContainer.className =
-      "progress-container fixed top-0 z-10 h-1 w-full bg-background";
-
+    progressContainer.className = "progress-container fixed top-0 z-50 h-0.5 w-full bg-transparent";
     const progressBar = document.createElement("div");
-    progressBar.className = "progress-bar h-1 w-0 bg-accent";
+    progressBar.className = "progress-bar h-full w-0 bg-accent transition-none";
     progressBar.id = "myBar";
-
     progressContainer.appendChild(progressBar);
     document.body.appendChild(progressContainer);
   }
@@ -178,33 +335,23 @@ const ogImage = ogImageUrl
 
   function updateScrollProgress() {
     document.addEventListener("scroll", () => {
-      const winScroll =
-        document.body.scrollTop || document.documentElement.scrollTop;
-      const height =
-        document.documentElement.scrollHeight -
-        document.documentElement.clientHeight;
+      const winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+      const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
       const scrolled = (winScroll / height) * 100;
-      if (document) {
-        const myBar = document.getElementById("myBar");
-        if (myBar) {
-          myBar.style.width = scrolled + "%";
-        }
-      }
-    });
+      const myBar = document.getElementById("myBar");
+      if (myBar) myBar.style.width = scrolled + "%";
+    }, { passive: true });
   }
   updateScrollProgress();
 
+  /* ── Heading anchor links ── */
   function addHeadingLinks() {
-    const headings = Array.from(
-      document.querySelectorAll("h2, h3, h4, h5, h6")
-    );
+    const headings = Array.from(document.querySelectorAll("#article h2, #article h3, #article h4"));
     for (const heading of headings) {
       heading.classList.add("group");
       const link = document.createElement("a");
-      link.className =
-        "heading-link ms-2 no-underline opacity-75 md:opacity-0 md:group-hover:opacity-100 md:focus:opacity-100";
+      link.className = "heading-link ms-2 no-underline opacity-60 md:opacity-0 md:group-hover:opacity-100 md:focus:opacity-100 text-accent";
       link.href = "#" + heading.id;
-
       const span = document.createElement("span");
       span.ariaHidden = "true";
       span.innerText = "#";
@@ -214,52 +361,165 @@ const ogImage = ogImageUrl
   }
   addHeadingLinks();
 
+  /* ── Code copy buttons ── */
   function attachCopyButtons() {
     const copyButtonLabel = "Copy";
     const codeBlocks = Array.from(document.querySelectorAll("pre"));
-
     for (const codeBlock of codeBlocks) {
       const wrapper = document.createElement("div");
       wrapper.style.position = "relative";
-
       const computedStyle = getComputedStyle(codeBlock);
-      const hasFileNameOffset =
-        computedStyle.getPropertyValue("--file-name-offset").trim() !== "";
-
-      const topClass = hasFileNameOffset
-        ? "top-(--file-name-offset)"
-        : "-top-3";
-
+      const hasFileNameOffset = computedStyle.getPropertyValue("--file-name-offset").trim() !== "";
+      const topClass = hasFileNameOffset ? "top-(--file-name-offset)" : "-top-3";
       const copyButton = document.createElement("button");
       copyButton.className = `copy-code absolute end-3 ${topClass} rounded bg-muted border border-muted px-2 py-1 text-xs leading-4 text-foreground font-medium`;
       copyButton.innerHTML = copyButtonLabel;
       codeBlock.setAttribute("tabindex", "0");
       codeBlock.appendChild(copyButton);
-
       codeBlock?.parentNode?.insertBefore(wrapper, codeBlock);
       wrapper.appendChild(codeBlock);
-
       copyButton.addEventListener("click", async () => {
-        await copyCode(codeBlock, copyButton);
+        const code = codeBlock.querySelector("code");
+        const text = code?.innerText;
+        await navigator.clipboard.writeText(text ?? "");
+        copyButton.innerText = "Copied ✓";
+        setTimeout(() => { copyButton.innerText = copyButtonLabel; }, 1200);
       });
-    }
-
-    async function copyCode(block, button) {
-      const code = block.querySelector("code");
-      const text = code?.innerText;
-
-      await navigator.clipboard.writeText(text ?? "");
-
-      button.innerText = "Copied";
-
-      setTimeout(() => {
-        button.innerText = copyButtonLabel;
-      }, 700);
     }
   }
   attachCopyButtons();
+
+  /* ── TOC generation & scroll-spy ── */
+  function buildToc() {
+    const tocNav = document.getElementById("toc-nav");
+    if (!tocNav) return;
+
+    const headings = Array.from(document.querySelectorAll("#article h2, #article h3"));
+    if (headings.length < 2) {
+      tocNav.innerHTML = '<p class="text-xs italic text-muted-foreground">No headings found.</p>';
+      return;
+    }
+
+    tocNav.innerHTML = "";
+    headings.forEach(heading => {
+      if (!heading.id) {
+        heading.id = heading.textContent?.trim().toLowerCase().replace(/\s+/g, "-").replace(/[^\w-]/g, "") ?? "";
+      }
+      const a = document.createElement("a");
+      a.href = "#" + heading.id;
+      a.textContent = heading.textContent?.replace(/#$/, "").trim() ?? "";
+      a.dataset.tocTarget = heading.id;
+      a.className = [
+        "toc-link block py-1 pr-2 text-sm text-muted-foreground transition-all duration-150",
+        "hover:text-foreground hover:pl-1",
+        heading.tagName === "H3" ? "pl-3 text-xs" : "pl-0 font-medium",
+      ].join(" ");
+      a.addEventListener("click", e => {
+        e.preventDefault();
+        document.getElementById(heading.id)?.scrollIntoView({ behavior: "smooth", block: "start" });
+      });
+      tocNav.appendChild(a);
+    });
+
+    // Scroll-spy
+    const tocLinks = tocNav.querySelectorAll(".toc-link");
+    const observer = new IntersectionObserver(entries => {
+      entries.forEach(entry => {
+        const id = entry.target.id;
+        const link = tocNav.querySelector(`[data-toc-target="${id}"]`);
+        if (!link) return;
+        if (entry.isIntersecting) {
+          tocLinks.forEach(l => l.classList.remove("toc-link-active", "text-accent", "font-semibold"));
+          link.classList.add("toc-link-active", "text-accent", "font-semibold");
+        }
+      });
+    }, { rootMargin: "-80px 0px -60% 0px", threshold: 0 });
+
+    headings.forEach(h => observer.observe(h));
+  }
+  buildToc();
+
+  /* ── Copy link button ── */
+  function initCopyLink() {
+    const btn = document.getElementById("copy-link-btn");
+    const icon = document.getElementById("copy-icon");
+    if (!btn) return;
+    btn.addEventListener("click", async () => {
+      try {
+        await navigator.clipboard.writeText(window.location.href);
+        btn.setAttribute("aria-label", "Copied!");
+        if (icon) icon.innerHTML = '<path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/>';
+        setTimeout(() => {
+          btn.setAttribute("aria-label", "Copy link");
+          if (icon) icon.innerHTML = '<path stroke-linecap="round" stroke-linejoin="round" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z"/>';
+        }, 1500);
+      } catch { /* silent */ }
+    });
+  }
+  initCopyLink();
+
+  /* ── Image lightbox ── */
+  function initLightbox() {
+    const overlay = document.getElementById("lightbox-overlay");
+    const lbImg = document.getElementById("lightbox-img");
+    const closeBtn = overlay?.querySelector(".lb-close");
+    if (!overlay || !lbImg) return;
+
+    function open(src, alt) {
+      lbImg.src = src;
+      lbImg.alt = alt ?? "";
+      overlay.classList.remove("hidden");
+      document.body.style.overflow = "hidden";
+    }
+    function close() {
+      overlay.classList.add("hidden");
+      document.body.style.overflow = "";
+      lbImg.src = "";
+    }
+
+    overlay.addEventListener("click", e => {
+      if (e.target === overlay) close();
+    });
+    closeBtn?.addEventListener("click", close);
+    document.addEventListener("keydown", e => {
+      if (e.key === "Escape") close();
+    });
+
+    document.querySelectorAll("#article img").forEach(img => {
+      img.style.cursor = "zoom-in";
+      img.addEventListener("click", () => {
+        open(img.src, img.alt);
+      });
+    });
+  }
+  initLightbox();
 
   document.addEventListener("astro:after-swap", () =>
     window.scrollTo({ left: 0, top: 0, behavior: "instant" })
   );
 </script>
+
+<style>
+  /* Share sidebar fade-in */
+  .share-sidebar {
+    opacity: 0;
+    animation: fadeIn 0.5s 0.3s ease forwards;
+  }
+  @keyframes fadeIn {
+    to { opacity: 1; }
+  }
+
+  /* TOC sidebar */
+  #toc-sidebar {
+    opacity: 0;
+    animation: fadeIn 0.5s 0.4s ease forwards;
+  }
+
+  /* Active TOC link */
+  .toc-link-active {
+    color: var(--accent) !important;
+    font-weight: 600;
+    padding-left: 0.5rem !important;
+    border-left: 2px solid var(--accent);
+  }
+</style>

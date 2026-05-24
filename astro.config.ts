@@ -52,6 +52,15 @@ export default defineConfig({
   },
   fonts: [
     {
+      name: "Playfair Display",
+      cssVariable: "--font-playfair",
+      provider: fontProviders.google(),
+      fallbacks: ["Georgia", "serif"],
+      weights: [400, 500, 600, 700, 800, 900],
+      styles: ["normal", "italic"],
+      formats: ["woff", "ttf"],
+    },
+    {
       name: "Google Sans Code",
       cssVariable: "--font-google-sans-code",
       provider: fontProviders.google(),

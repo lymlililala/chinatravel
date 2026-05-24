@@ -1,89 +1,207 @@
 @plugin "@tailwindcss/typography";
 
 @layer base {
-  /* ===== Override default Tailwind Typography styles ===== */
+  /* ===== Core prose overrides ===== */
   .app-prose {
     @apply prose;
+    /* Wider max width for article reading comfort */
+    max-width: 72ch;
 
-    h1,
-    h2,
-    h3,
-    h4,
-    th {
-      @apply text-foreground mb-3;
+    /* ── Headings: Playfair for h1/h2, monospace for h3+ ── */
+    h1, h2 {
+      font-family: var(--font-playfair), Georgia, serif;
+      @apply text-foreground mb-4 mt-10 leading-tight;
+      letter-spacing: -0.02em;
+    }
+
+    h3, h4, h5, h6 {
+      font-family: var(--font-google-sans-code), var(--font-inter), system-ui, sans-serif;
+      @apply text-foreground mb-3 mt-8;
+    }
+
+    h2 {
+      @apply text-2xl font-extrabold;
+      padding-bottom: 0.5rem;
+      border-bottom: 2px solid var(--border);
     }
 
     h3 {
-      @apply italic;
+      @apply text-xl font-bold;
     }
 
-    p,
-    strong,
-    ol,
-    ul,
-    figcaption,
-    table,
-    code {
+    h4 {
+      @apply text-base font-bold italic;
+    }
+
+    p {
+      @apply text-foreground leading-[1.85] mb-5;
+    }
+
+    strong {
+      @apply text-foreground font-bold;
+    }
+
+    ol, ul {
       @apply text-foreground;
     }
 
+    /* List spacing */
+    li {
+      @apply marker:text-accent mb-1 leading-relaxed;
+    }
+
+    /* ── Magazine-style blockquote ── */
+    blockquote {
+      border-left: 4px solid var(--accent) !important;
+      background: var(--section-alt);
+      border-radius: 0 12px 12px 0;
+      padding: 1.1rem 1.6rem !important;
+      margin: 2rem 0 !important;
+      font-style: italic;
+      font-size: 1.08em;
+      font-family: var(--font-playfair), Georgia, serif;
+      color: var(--foreground) !important;
+      opacity: 1 !important;
+      position: relative;
+    }
+
+    blockquote::before {
+      content: '\201C';
+      position: absolute;
+      top: -0.5rem;
+      left: 0.8rem;
+      font-size: 4rem;
+      line-height: 1;
+      color: var(--accent);
+      opacity: 0.25;
+      font-family: var(--font-playfair), Georgia, serif;
+    }
+
+    blockquote p {
+      margin: 0 !important;
+    }
+
+    /* ── Links ── */
     a {
-      @apply text-foreground hover:text-accent wrap-break-word decoration-dashed underline-offset-4 focus-visible:no-underline;
+      @apply text-accent hover:text-accent/80 wrap-break-word underline underline-offset-4 decoration-accent/40;
+      transition: color 0.15s ease, text-decoration-color 0.15s ease;
+    }
+    a:hover {
+      text-decoration-color: var(--accent);
     }
 
     ul {
       @apply overflow-x-clip;
     }
 
-    li {
-      @apply marker:text-accent;
-    }
-
     hr {
-      @apply border-border;
+      @apply border-border my-10;
+      border-style: dashed;
     }
 
+    /* ── Images: rounded with lightbox cursor ── */
     img {
-      @apply border-border mx-auto border;
+      @apply mx-auto rounded-xl border border-border;
+      cursor: zoom-in;
+      transition: opacity 0.2s ease, transform 0.3s ease;
+      max-width: 100%;
+    }
+    img:hover {
+      opacity: 0.92;
     }
 
     figcaption {
-      @apply opacity-75;
+      @apply text-center text-xs text-muted-foreground mt-2 mb-6 italic;
     }
 
+    /* Paragraph after image treated as caption */
+    img + em {
+      display: block;
+      text-align: center;
+      font-size: 0.82rem;
+      color: var(--muted-foreground);
+      margin-top: -0.25rem;
+      margin-bottom: 1.5rem;
+      font-style: italic;
+    }
+
+    /* ── Tables ── */
     table {
-      th,
-      td {
-        @apply border-border border p-2;
-      }
-
-      th {
-        @apply py-1.5;
-      }
+      @apply w-full text-sm;
+      border-collapse: collapse;
+      overflow: hidden;
+      border-radius: 8px;
     }
 
+    th, td {
+      @apply border-border border px-4 py-2.5;
+    }
+
+    th {
+      @apply bg-muted font-bold text-foreground text-left;
+      font-family: var(--font-google-sans-code), monospace;
+      font-size: 0.8rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    tr:nth-child(even) td {
+      background: color-mix(in srgb, var(--muted) 40%, transparent);
+    }
+
+    /* ── Code ── */
     code {
-      @apply bg-muted/75 text-foreground rounded p-1 wrap-break-word before:content-none after:content-none;
+      @apply bg-muted/80 text-foreground rounded px-1.5 py-0.5 text-[0.87em] wrap-break-word before:content-none after:content-none;
+      font-family: var(--font-google-sans-code), monospace;
     }
 
     .astro-code code {
       @apply flex-[1_0_100%] bg-inherit p-0;
     }
 
-    blockquote {
-      @apply border-s-accent/80 wrap-break-word opacity-80;
+    pre {
+      @apply rounded-xl border border-border;
+      @apply focus-visible:outline-accent focus-visible:border-transparent focus-visible:outline-2 focus-visible:outline-dashed;
     }
 
+    /* ── Details / Accordion ── */
     details {
-      @apply text-foreground inline-block cursor-pointer select-none [&_p]:hidden [&_ul]:my-0!;
+      @apply text-foreground border border-border rounded-xl px-4 py-1 mb-4 cursor-pointer;
+      transition: background 0.2s ease;
     }
-
-    summary {
+    details[open] {
+      background: var(--section-alt);
+    }
+    details > summary {
+      @apply py-2 font-semibold text-foreground list-none;
       @apply focus-visible:outline-accent focus-visible:no-underline focus-visible:outline-2 focus-visible:outline-offset-1 focus-visible:outline-dashed;
     }
+    details > summary::marker,
+    details > summary::-webkit-details-marker {
+      display: none;
+    }
+    details > summary::after {
+      content: '＋';
+      float: right;
+      font-size: 1rem;
+      color: var(--accent);
+      transition: transform 0.2s ease;
+    }
+    details[open] > summary::after {
+      transform: rotate(45deg);
+    }
+    details [&_p] {
+      @apply hidden;
+    }
+    details [&_ul] {
+      margin-top: 0 !important;
+      margin-bottom: 0 !important;
+    }
 
-    pre {
-      @apply focus-visible:outline-accent focus-visible:border-transparent focus-visible:outline-2 focus-visible:outline-dashed;
+    /* ── Horizontal scroll for wide tables on mobile ── */
+    .table-wrapper {
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
     }
   }
 
@@ -96,8 +214,7 @@
     @apply bg-(--shiki-dark-bg) text-(--shiki-dark) [&_span]:text-(--shiki-dark);
   }
 
-  /* Styles for Shiki transformers */
-  /* https://shiki.style/packages/transformers */
+  /* Shiki transformers */
   .astro-code {
     .line.diff.add {
       @apply relative inline-block w-full bg-green-400/20 before:absolute before:-left-3 before:text-green-500 before:content-['+'];

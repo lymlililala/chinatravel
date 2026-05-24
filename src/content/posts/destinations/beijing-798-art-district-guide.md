@@ -9,7 +9,7 @@ tags:
   - beijing
   - art
   - contemporary culture
-  - 798
+  - "798"
   - neighbourhoods
 description: "Your guide to Beijing's 798 Art District — the best galleries currently showing, public sculptures, cafés, and what makes this converted Bauhaus factory complex worth visiting in 2026."
 ---

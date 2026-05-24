@@ -15,28 +15,35 @@
     scroll-behavior: smooth;
   }
 
-  /* Body uses Inter for readability */
+  /* Body uses Inter for readable long-form content */
   body {
     font-family: var(--font-inter), system-ui, sans-serif;
     color: var(--foreground);
     background-color: var(--background);
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    /* Sticky footer: ensure body fills full height */
     display: flex;
     min-height: 100svh;
     flex-direction: column;
   }
 
-  /* Headings use the branded monospace font */
-  h1, h2, h3, h4, h5, h6 {
-    font-family: var(--font-google-sans-code), monospace;
+  /* ── Heading typography ──
+     h1/h2: Playfair Display (magazine editorial)
+     h3+:   Google Sans Code (clean structured) */
+  h1, h2 {
+    font-family: var(--font-playfair), Georgia, serif;
+    line-height: 1.15;
+    letter-spacing: -0.02em;
+  }
+
+  h3, h4, h5, h6 {
+    font-family: var(--font-google-sans-code), var(--font-inter), system-ui, sans-serif;
     line-height: 1.2;
   }
 
-  /* Slightly larger base heading sizes for visual hierarchy */
-  h1 { font-size: clamp(1.875rem, 4vw, 3rem); font-weight: 800; }
-  h2 { font-size: clamp(1.5rem, 3vw, 2.25rem); font-weight: 700; }
+  /* Responsive fluid heading scale */
+  h1 { font-size: clamp(2rem,   5vw, 3.5rem);  font-weight: 800; }
+  h2 { font-size: clamp(1.5rem, 3vw, 2.5rem);  font-weight: 700; }
   h3 { font-size: clamp(1.125rem, 2vw, 1.5rem); font-weight: 700; }
 
   a,
@@ -48,7 +55,6 @@
     cursor: pointer;
   }
 
-  /* Improve image rendering */
   img {
     -webkit-user-drag: none;
     user-select: none;
@@ -68,23 +74,28 @@
   @apply underline decoration-wavy decoration-2 underline-offset-8;
 }
 
+/* ─── Playfair heading helper ─── */
+@utility font-playfair {
+  font-family: var(--font-playfair), Georgia, serif;
+}
+
 /* ─── Animations ─── */
 
 /* Hero entrance */
 @keyframes heroSlideUp {
-  from { opacity: 0; transform: translateY(28px); }
+  from { opacity: 0; transform: translateY(32px); }
   to   { opacity: 1; transform: translateY(0); }
 }
 
 /* Section fade-up */
 @keyframes fadeUp {
-  from { opacity: 0; transform: translateY(20px); }
+  from { opacity: 0; transform: translateY(24px); }
   to   { opacity: 1; transform: translateY(0); }
 }
 
 /* Card pop-in with subtle scale */
 @keyframes cardPopIn {
-  from { opacity: 0; transform: translateY(16px) scale(0.97); }
+  from { opacity: 0; transform: translateY(18px) scale(0.97); }
   to   { opacity: 1; transform: translateY(0) scale(1); }
 }
 
@@ -94,9 +105,15 @@
   100% { background-position: 200% center; }
 }
 
+/* Subtle pulse for "new" badges */
+@keyframes subtlePulse {
+  0%, 100% { opacity: 1; }
+  50%       { opacity: 0.7; }
+}
+
 .fade-up {
   opacity: 0;
-  animation: fadeUp 0.55s ease forwards;
+  animation: fadeUp 0.55s cubic-bezier(0.22, 1, 0.36, 1) forwards;
 }
 .fade-up.visible { opacity: 1; }
 
@@ -107,13 +124,14 @@
 .delay-200 { animation-delay: 0.2s; }
 .delay-300 { animation-delay: 0.3s; }
 .delay-400 { animation-delay: 0.4s; }
+.delay-500 { animation-delay: 0.5s; }
 
 /* ─── Micro-interaction: image hover zoom ─── */
 .img-zoom-wrap {
   overflow: hidden;
 }
 .img-zoom-wrap img {
-  transition: transform 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  transition: transform 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94);
 }
 .img-zoom-wrap:hover img {
   transform: scale(1.07);
@@ -121,11 +139,11 @@
 
 /* ─── Card hover lift shadow ─── */
 .card-lift {
-  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  transition: transform 0.3s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.3s ease;
 }
 .card-lift:hover {
   transform: translateY(-6px);
-  box-shadow: 0 20px 40px -8px rgba(0,0,0,0.12), 0 8px 16px -4px rgba(0,0,0,0.08);
+  box-shadow: 0 24px 48px -10px rgba(0,0,0,0.13), 0 8px 16px -4px rgba(0,0,0,0.08);
 }
 
 /* ─── Rice-paper tinted section ─── */
@@ -145,12 +163,21 @@
   vertical-align: middle;
 }
 
-/* ─── Smooth page transitions ─── */
+/* ─── Overline label (section eyebrow text) ─── */
+.overline {
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+/* ─── Smooth page transitions (View Transitions API) ─── */
 ::view-transition-old(root) {
   animation: 0.2s ease-out both fade-out;
 }
 ::view-transition-new(root) {
-  animation: 0.25s ease-in both fade-in;
+  animation: 0.28s ease-in both fade-in;
 }
 
 @keyframes fade-out {
@@ -181,9 +208,9 @@
   background-color: var(--muted-foreground);
 }
 
-/* ─── Selection highlight ─── */
+/* ─── Text selection highlight ─── */
 ::selection {
-  background-color: color-mix(in srgb, var(--accent) 25%, transparent);
+  background-color: color-mix(in srgb, var(--accent) 22%, transparent);
   color: var(--foreground);
 }
 
@@ -205,4 +232,101 @@
   background-size: 200% 100%;
   animation: shimmer 1.5s infinite;
   border-radius: 8px;
+}
+
+/* ─── TOC (Table of Contents) active state ─── */
+.toc-link-active {
+  color: var(--accent) !important;
+  font-weight: 600;
+}
+.toc-link-active::before {
+  content: '';
+  display: inline-block;
+  width: 3px;
+  height: 0.9em;
+  background: var(--accent);
+  border-radius: 2px;
+  margin-right: 0.5rem;
+  vertical-align: middle;
+}
+
+/* ─── Lightbox overlay ─── */
+#lightbox-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  background: rgba(0, 0, 0, 0.92);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: zoom-out;
+  backdrop-filter: blur(4px);
+  animation: fadeUp 0.18s ease forwards;
+}
+#lightbox-overlay img {
+  max-width: 92vw;
+  max-height: 90vh;
+  object-fit: contain;
+  border-radius: 4px;
+  box-shadow: 0 32px 80px rgba(0,0,0,0.6);
+  user-select: none;
+}
+#lightbox-overlay .lb-close {
+  position: absolute;
+  top: 1.25rem;
+  right: 1.25rem;
+  width: 2.25rem;
+  height: 2.25rem;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.15);
+  color: #fff;
+  font-size: 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+#lightbox-overlay .lb-close:hover {
+  background: rgba(255,255,255,0.3);
+}
+
+/* ─── Magazine blockquote (typography.css supplement) ─── */
+.app-prose blockquote {
+  border-left: 4px solid var(--accent) !important;
+  background: var(--section-alt);
+  border-radius: 0 8px 8px 0;
+  padding: 1rem 1.5rem !important;
+  font-style: italic;
+  font-size: 1.1em;
+  color: var(--foreground) !important;
+  opacity: 1 !important;
+}
+
+/* ─── Article image caption ─── */
+.app-prose img + em,
+.app-prose img + p > em:only-child {
+  display: block;
+  text-align: center;
+  font-size: 0.82rem;
+  color: var(--muted-foreground);
+  margin-top: -0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+/* ─── Prose images: cursor zoom pointer ─── */
+.app-prose img {
+  cursor: zoom-in;
+  border-radius: 8px;
+  transition: opacity 0.2s ease;
+}
+.app-prose img:hover {
+  opacity: 0.92;
+}
+
+/* ─── Filter Pills active state ─── */
+.pill-active {
+  background-color: var(--accent) !important;
+  color: #fff !important;
+  border-color: var(--accent) !important;
 }

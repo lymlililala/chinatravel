@@ -13,57 +13,75 @@
   --color-bamboo: var(--bamboo);
   --color-rice-paper: var(--rice-paper);
   --color-slate-tile: var(--slate-tile);
+  --color-ink: var(--ink);
+  --color-gold: var(--gold);
+  --color-terracotta: var(--terracotta);
   --font-app: var(--font-inter);
-  --font-heading: var(--font-google-sans-code);
+  --font-heading: var(--font-playfair);
+  --font-mono: var(--font-google-sans-code);
 }
 
 /* ──────────────────────────────────────────────
-   LIGHT THEME  —  Warm ivory & China red
-   With low-saturation Chinese cultural tones:
-   竹青 Bamboo Green  #4a7c59
-   宣纸 Rice Paper    #f5efe6
-   瓦灰 Slate Tile    #8a8a8a
+   LIGHT THEME  —  宣纸暖白 × 朱砂红 × 墨绿
+   Cultural palette:
+   朱砂红  Zhu Sand Red   #c0392b  (primary CTA)
+   墨绿    Ink Green      #1a4b47  (secondary)
+   宣纸白  Rice Paper     #fdfbf7  (background)
+   竹青    Bamboo Green   #4a7c59
+   瓦灰    Slate Tile     #8a8a8a
+   金箔    Gold Leaf      #c9a84c
+   陶土橙  Terracotta     #b85c38
 ────────────────────────────────────────────── */
 :root,
 [data-theme="light"] {
   /* Core palette */
-  --background:    #fdf8f2;
-  --foreground:    #1c1a18;
-  --accent:        #c0392b;          /* China red — primary CTA */
+  --background:    #fdfbf7;           /* 宣纸白 — rice paper warmth */
+  --foreground:    #1c1917;           /* Near-black ink */
+  --accent:        #c0392b;           /* 朱砂红 — China red CTA */
   --accent-foreground: #ffffff;
-  --muted:         #ede8df;
-  --muted-foreground: #6b6360;
-  --border:        #e0d8cc;
-  --secondary:     #1a4b47;          /* Deep teal */
+  --muted:         #edeae4;           /* Warm light grey */
+  --muted-foreground: #6b6360;        /* Warm medium grey */
+  --border:        #e0d8cc;           /* Parchment border */
+  --secondary:     #1a4b47;           /* 墨绿 Deep teal */
   --secondary-foreground: #ffffff;
   --card-bg:       #ffffff;
 
-  /* China-cultural accent tones (for subtle use) */
-  --bamboo:        #4a7c59;          /* 竹青 — nature / hiking tags */
-  --rice-paper:    #f5efe6;          /* 宣纸 — card tinted backgrounds */
-  --slate-tile:    #6b7280;          /* 瓦灰 — metadata / secondary text */
+  /* China-cultural accent tones */
+  --bamboo:        #4a7c59;           /* 竹青 — nature tags */
+  --rice-paper:    #f7f2ea;           /* 宣纸 tinted background */
+  --slate-tile:    #6b7280;           /* 瓦灰 — metadata */
+  --ink:           #1c1917;           /* 墨 ink — headings */
+  --gold:          #c9a84c;           /* 金箔 — premium accents */
+  --terracotta:    #b85c38;           /* 陶土橙 — warm secondary */
 
   /* Section alternate background */
   --section-alt:   #f7f2ea;
+  /* Header height */
+  --header-h:      64px;
 }
 
 /* ──────────────────────────────────────────────
-   DARK THEME  —  Ink-black & gold
+   DARK THEME  —  墨黑 × 金箔 × 深茶
 ────────────────────────────────────────────── */
 [data-theme="dark"] {
-  --background:    #18140f;
-  --foreground:    #f0e8d8;
-  --accent:        #e8a020;          /* Amber gold — primary CTA */
-  --accent-foreground: #18140f;
-  --muted:         #2b2218;
-  --muted-foreground: #a89070;
-  --border:        #3d2e1e;
-  --secondary:     #2a6b65;
-  --secondary-foreground: #f0e8d8;
-  --card-bg:       #211a12;
+  --background:    #18130e;           /* 深墨黑 */
+  --foreground:    #f0e6d3;           /* 暖米白 */
+  --accent:        #e8a020;           /* 琥珀金 — amber gold CTA */
+  --accent-foreground: #18130e;
+  --muted:         #2a1f15;           /* Deep warm brown */
+  --muted-foreground: #a89070;        /* Aged paper brown */
+  --border:        #3d2e1e;           /* Dark warm border */
+  --secondary:     #2a6b65;           /* Deep teal */
+  --secondary-foreground: #f0e6d3;
+  --card-bg:       #201710;           /* Dark card surface */
 
   --bamboo:        #6aab7a;
   --rice-paper:    #2b2218;
   --slate-tile:    #9ca3af;
-  --section-alt:   #1e1810;
+  --ink:           #f0e6d3;
+  --gold:          #e8a020;
+  --terracotta:    #d4724f;
+
+  --section-alt:   #1e1610;
+  --header-h:      64px;
 }

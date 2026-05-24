@@ -7,7 +7,6 @@ import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
 import Card from "@/components/Card.astro";
 import Pagination from "@/components/Pagination.astro";
-import IconArrowRight from "@/assets/icons/IconArrowRight.svg";
 import { getSortedPosts } from "@/utils/getSortedPosts";
 import { useTranslations } from "@/i18n";
 import config from "@/config";
@@ -21,14 +20,14 @@ const { page } = Astro.props;
 const locale = Astro.currentLocale ?? config.site.lang;
 const t = useTranslations(locale);
 
-// Category filter tabs (subset of popular tags)
+// Filter tabs
 const filterTabs = [
-  { label: "All Guides",   tag: null },
-  { label: "Destinations", tag: "destinations" },
-  { label: "Toolkit",      tag: "toolkit" },
-  { label: "Food",         tag: "food" },
-  { label: "Nature",       tag: "nature" },
-  { label: "Solo Travel",  tag: "solo" },
+  { label: "All Guides",   tag: null,            emoji: "📚" },
+  { label: "Destinations", tag: "destinations",  emoji: "🗺️" },
+  { label: "Toolkit",      tag: "toolkit",       emoji: "🧰" },
+  { label: "Food",         tag: "food",          emoji: "🍜" },
+  { label: "Nature",       tag: "nature",        emoji: "🏔️" },
+  { label: "Solo Travel",  tag: "solo",          emoji: "🎒" },
 ];
 ---
 
@@ -38,37 +37,55 @@ const filterTabs = [
   <main id="main-content" class="pb-0">
 
     <!-- Page header -->
-    <div class="relative overflow-hidden border-b border-border bg-gradient-to-br from-background via-muted/30 to-background py-12">
-      <div class="pointer-events-none absolute -top-16 -right-16 h-56 w-56 rounded-full bg-accent/5 blur-3xl"></div>
-      <div class="mx-auto max-w-6xl px-4 sm:px-6">
-        <nav class="mb-4 flex items-center gap-2 text-sm text-muted-foreground">
+    <div class="relative overflow-hidden border-b border-border bg-gradient-to-br from-background via-muted/30 to-background py-12 sm:py-16">
+      <div class="pointer-events-none absolute -top-20 -right-20 h-64 w-64 rounded-full bg-accent/5 blur-3xl"></div>
+      <div class="pointer-events-none absolute bottom-0 left-10 h-40 w-40 rounded-full bg-secondary/6 blur-3xl"></div>
+
+      <div class="mx-auto max-w-7xl px-4 sm:px-6">
+        <nav class="mb-4 flex items-center gap-2 text-sm text-muted-foreground" aria-label="Breadcrumb">
           <a href={getRelativeLocaleUrl(locale, "")} class="transition-colors hover:text-accent">Home</a>
-          <span>/</span>
-          <span class="text-foreground">Articles</span>
-          {page.currentPage > 1 && <><span>/</span><span class="text-foreground">Page {page.currentPage}</span></>}
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-3.5 w-3.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+          <span class="text-foreground font-medium">Articles</span>
+          {page.currentPage > 1 && (
+            <>
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-3.5 w-3.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+              <span class="text-foreground font-medium">Page {page.currentPage}</span>
+            </>
+          )}
         </nav>
-        <h1 class="text-4xl font-extrabold text-foreground sm:text-5xl" style="font-family: var(--font-google-sans-code), monospace;">
+        <h1
+          class="text-4xl font-extrabold text-foreground sm:text-5xl"
+          style="font-family: var(--font-playfair), Georgia, serif; letter-spacing: -0.03em;"
+        >
           {t.pages.postsTitle}
         </h1>
         <p class="mt-2 text-lg text-muted-foreground">{t.pages.postsDesc}</p>
+
+        <!-- Article count -->
+        <p class="mt-4 text-sm text-muted-foreground">
+          Showing <strong class="text-foreground">{page.data.length}</strong> of
+          <strong class="text-foreground">{page.total}</strong> articles
+          {page.currentPage > 1 && <span>· Page {page.currentPage} of {page.lastPage}</span>}
+        </p>
       </div>
     </div>
 
-    <!-- Filter tabs -->
-    <div class="sticky top-[60px] z-30 border-b border-border bg-background/95 backdrop-blur-md">
-      <div class="mx-auto max-w-6xl overflow-x-auto px-4 sm:px-6">
-        <div class="flex gap-1 py-2.5" id="filter-tabs">
+    <!-- Sticky filter tabs -->
+    <div class="sticky top-[var(--header-h,64px)] z-30 border-b border-border bg-background/97 backdrop-blur-xl">
+      <div class="mx-auto max-w-7xl overflow-x-auto px-4 sm:px-6">
+        <div class="flex gap-1 py-2.5" id="filter-tabs" role="group" aria-label="Filter articles by category">
           {filterTabs.map(tab => (
             <button
               data-tag={tab.tag ?? "all"}
               class:list={[
-                "filter-tab flex-shrink-0 rounded-full px-4 py-1.5 text-sm font-medium transition-all duration-200",
-                "border border-transparent",
+                "filter-tab flex-shrink-0 flex items-center gap-1.5 rounded-full px-4 py-1.5 text-sm font-semibold transition-all duration-200",
+                "border",
                 tab.tag === null
-                  ? "bg-accent text-white shadow-sm"
-                  : "text-muted-foreground hover:text-foreground hover:bg-muted",
+                  ? "bg-accent text-white border-accent shadow-sm shadow-accent/20"
+                  : "border-border text-muted-foreground hover:text-foreground hover:bg-muted hover:border-border",
               ]}
             >
+              <span class="text-sm" aria-hidden="true">{tab.emoji}</span>
               {tab.label}
             </button>
           ))}
@@ -76,9 +93,26 @@ const filterTabs = [
       </div>
     </div>
 
-    <!-- Article grid -->
-    <div class="mx-auto max-w-6xl px-4 py-10 sm:px-6">
-      <ul id="posts-grid" class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+    <!-- Article grid with skeleton fallback -->
+    <div class="mx-auto max-w-7xl px-4 py-10 sm:px-6">
+
+      <!-- Skeleton screens (hidden after load) -->
+      <ul id="skeleton-grid" class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3" aria-hidden="true">
+        {Array.from({ length: 6 }).map(() => (
+          <li class="flex flex-col overflow-hidden rounded-2xl border border-border bg-[var(--card-bg)]">
+            <div class="skeleton h-48 w-full rounded-none"></div>
+            <div class="flex flex-col gap-3 p-4">
+              <div class="skeleton h-4 w-20 rounded-full"></div>
+              <div class="skeleton h-5 w-full"></div>
+              <div class="skeleton h-4 w-3/4"></div>
+              <div class="skeleton h-3 w-16 mt-1"></div>
+            </div>
+          </li>
+        ))}
+      </ul>
+
+      <!-- Actual articles grid -->
+      <ul id="posts-grid" class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3 hidden">
         {page.data.map(data => (
           <Card variant="h2" cardStyle="grid" {...data} />
         ))}
@@ -86,9 +120,15 @@ const filterTabs = [
 
       <!-- Empty state -->
       <div id="empty-state" class="hidden py-20 text-center">
-        <span class="text-5xl">🔍</span>
-        <p class="mt-4 text-lg font-semibold text-foreground">No articles in this category yet</p>
-        <p class="mt-1 text-sm text-muted-foreground">Try another filter or browse all guides.</p>
+        <span class="text-6xl">🔍</span>
+        <p class="mt-5 text-xl font-semibold text-foreground">No articles in this category yet</p>
+        <p class="mt-2 text-sm text-muted-foreground">Try another filter or browse all guides.</p>
+        <button
+          data-tag="all"
+          class="filter-tab mt-5 inline-flex items-center gap-2 rounded-full border border-accent px-5 py-2 text-sm font-semibold text-accent transition-all hover:bg-accent hover:text-white"
+        >
+          Show all guides
+        </button>
       </div>
     </div>
 
@@ -100,6 +140,25 @@ const filterTabs = [
 
 <script>
   document.addEventListener("astro:page-load", () => {
+    const skeletonGrid = document.getElementById("skeleton-grid");
+    const postsGrid = document.getElementById("posts-grid");
+
+    // Reveal real content after a micro-delay (simulates data loaded)
+    if (skeletonGrid && postsGrid) {
+      requestAnimationFrame(() => {
+        setTimeout(() => {
+          skeletonGrid.classList.add("hidden");
+          postsGrid.classList.remove("hidden");
+          // Stagger card entrance
+          const cards = postsGrid.querySelectorAll("li");
+          cards.forEach((card, i) => {
+            (card as HTMLElement).style.animationDelay = `${i * 0.05}s`;
+            card.classList.add("card-pop-in");
+          });
+        }, 100);
+      });
+    }
+
     const tabs = document.querySelectorAll<HTMLButtonElement>(".filter-tab");
     const cards = document.querySelectorAll<HTMLLIElement>("#posts-grid > li");
     const emptyState = document.getElementById("empty-state");
@@ -107,34 +166,53 @@ const filterTabs = [
 
     if (!tabs.length) return;
 
-    tabs.forEach(tab => {
-      tab.addEventListener("click", () => {
-        const selectedTag = tab.dataset.tag ?? "all";
+    function setActiveTab(selectedTag: string) {
+      // Update tab styles
+      tabs.forEach(t => {
+        const isActive = t.dataset.tag === selectedTag;
+        t.classList.toggle("bg-accent", isActive);
+        t.classList.toggle("text-white", isActive);
+        t.classList.toggle("border-accent", isActive);
+        t.classList.toggle("shadow-sm", isActive);
+        t.classList.toggle("text-muted-foreground", !isActive);
+        t.classList.toggle("border-border", !isActive);
+        t.classList.remove("bg-muted");
+      });
 
-        // Update active tab styles
-        tabs.forEach(t => {
-          t.classList.remove("bg-accent", "text-white", "shadow-sm", "border-accent");
-          t.classList.add("text-muted-foreground", "border-transparent");
-        });
-        tab.classList.add("bg-accent", "text-white", "shadow-sm");
-        tab.classList.remove("text-muted-foreground", "border-transparent");
-
-        // Filter cards
-        let visibleCount = 0;
-        cards.forEach(card => {
-          const link = card.querySelector("a");
-          const tagBadge = card.querySelector("span[class*='rounded-full']");
-          const cardTag = (tagBadge?.textContent ?? "").toLowerCase().trim();
-          const matches = selectedTag === "all" || cardTag.includes(selectedTag);
-          card.style.display = matches ? "" : "none";
-          if (matches) visibleCount++;
-        });
-
-        if (emptyState && grid) {
-          emptyState.classList.toggle("hidden", visibleCount > 0);
-          grid.classList.toggle("hidden", visibleCount === 0);
+      // Filter cards
+      let visibleCount = 0;
+      cards.forEach((card) => {
+        const tagBadge = card.querySelector("span[class*='rounded-full']");
+        const cardTag = (tagBadge?.textContent ?? "").toLowerCase().trim();
+        const matches = selectedTag === "all" || cardTag.includes(selectedTag);
+        card.style.display = matches ? "" : "none";
+        if (matches) {
+          (card as HTMLElement).style.animationDelay = `${(visibleCount % 12) * 0.05}s`;
+          card.classList.add("card-pop-in");
+          visibleCount++;
+        } else {
+          card.classList.remove("card-pop-in");
         }
       });
+
+      if (emptyState && grid) {
+        emptyState.classList.toggle("hidden", visibleCount > 0);
+        grid.classList.toggle("hidden", visibleCount === 0);
+      }
+    }
+
+    tabs.forEach(tab => {
+      tab.addEventListener("click", () => setActiveTab(tab.dataset.tag ?? "all"));
     });
   });
 </script>
+
+<style>
+  @keyframes cardPopIn {
+    from { opacity: 0; transform: translateY(16px) scale(0.97); }
+    to   { opacity: 1; transform: translateY(0) scale(1); }
+  }
+  .card-pop-in {
+    animation: cardPopIn 0.45s cubic-bezier(0.22, 1, 0.36, 1) both;
+  }
+</style>

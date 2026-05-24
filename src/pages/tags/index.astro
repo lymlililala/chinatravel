@@ -5,111 +5,70 @@ import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
 import IconArrowRight from "@/assets/icons/IconArrowRight.svg";
-import { useTranslations } from "@/i18n";
 import config from "@/config";
 
 const posts = await getCollection("posts", ({ data }) => !data.draft);
 const locale = Astro.currentLocale ?? config.site.lang;
-const t = useTranslations(locale);
 
-// ── Destination city data ──
+// ── Region filter data ──
+const regions = [
+  { id: "all",          label: "All China",     emoji: "🇨🇳" },
+  { id: "north",        label: "North",         emoji: "🏯" },
+  { id: "northeast",    label: "Northeast",     emoji: "❄️" },
+  { id: "east",         label: "East",          emoji: "🌆" },
+  { id: "central",      label: "Central",       emoji: "🏔️" },
+  { id: "south",        label: "South",         emoji: "🌊" },
+  { id: "southwest",    label: "Southwest",     emoji: "🐼" },
+  { id: "northwest",    label: "Northwest",     emoji: "🐪" },
+];
+
+// ── All destination cities with region tags ──
 const cities = [
-  {
-    name: "Beijing",
-    emoji: "🏯",
-    tagline: "Imperial history & the Great Wall",
-    tag: "beijing",
-    image: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=600&q=80",
-    color: "from-red-600/80 to-red-900/90",
-  },
-  {
-    name: "Shanghai",
-    emoji: "🌆",
-    tagline: "Skyline, street food & art deco",
-    tag: "shanghai",
-    image: "https://images.unsplash.com/photo-1538428494232-9c0d8a3ab403?w=600&q=80",
-    color: "from-blue-600/80 to-blue-900/90",
-  },
-  {
-    name: "Xi'an",
-    emoji: "🏺",
-    tagline: "Terracotta Army & ancient walls",
-    tag: "xian",
-    image: "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=600&q=80",
-    color: "from-amber-600/80 to-amber-900/90",
-  },
-  {
-    name: "Chengdu",
-    emoji: "🐼",
-    tagline: "Pandas, hotpot & laid-back culture",
-    tag: "chengdu",
-    image: "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=600&q=80",
-    color: "from-green-600/80 to-green-900/90",
-  },
-  {
-    name: "Guilin",
-    emoji: "⛰️",
-    tagline: "Karst peaks & the Li River",
-    tag: "guilin",
-    image: "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=600&q=80",
-    color: "from-emerald-600/80 to-emerald-900/90",
-  },
-  {
-    name: "Dali",
-    emoji: "🌊",
-    tagline: "Ancient town & Erhai lakeside",
-    tag: "dali",
-    image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80",
-    color: "from-teal-600/80 to-teal-900/90",
-  },
-  {
-    name: "Hangzhou",
-    emoji: "🍵",
-    tagline: "West Lake & Dragon Well tea",
-    tag: "hangzhou",
-    image: "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86?w=600&q=80",
-    color: "from-cyan-600/80 to-cyan-900/90",
-  },
-  {
-    name: "Zhangjiajie",
-    emoji: "🌁",
-    tagline: "Avatar mountains & glass bridges",
-    tag: "zhangjiajie",
-    image: "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=600&q=80",
-    color: "from-violet-600/80 to-violet-900/90",
-  },
-  {
-    name: "Tibet",
-    emoji: "🏔️",
-    tagline: "Roof of the world & Potala Palace",
-    tag: "tibet",
-    image: "https://images.unsplash.com/photo-1599571234909-29ed5d1321d6?w=600&q=80",
-    color: "from-purple-600/80 to-purple-900/90",
-  },
-  {
-    name: "Dunhuang",
-    emoji: "🐪",
-    tagline: "Silk Road, sand dunes & Mogao Caves",
-    tag: "dunhuang",
-    image: "https://images.unsplash.com/photo-1541544537156-7627a7a4aa1c?w=600&q=80",
-    color: "from-orange-600/80 to-orange-900/90",
-  },
-  {
-    name: "Lijiang",
-    emoji: "🌸",
-    tagline: "Naxi culture & Jade Dragon Snow Mountain",
-    tag: "lijiang",
-    image: "https://images.unsplash.com/photo-1588666309990-d68f08e3d4a6?w=600&q=80",
-    color: "from-pink-600/80 to-pink-900/90",
-  },
-  {
-    name: "Sanya",
-    emoji: "🏖️",
-    tagline: "Tropical beaches & duty-free shopping",
-    tag: "sanya",
-    image: "https://images.unsplash.com/photo-1473186578172-c141e6798cf4?w=600&q=80",
-    color: "from-sky-600/80 to-sky-900/90",
-  },
+  // North China
+  { name: "Beijing",        emoji: "🏯", tagline: "Imperial history & the Great Wall",          tag: "beijing",        image: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=700&q=80",  region: "north",     color: "from-red-700/80 to-red-950/90" },
+  { name: "Pingyao",        emoji: "🏰", tagline: "Best-preserved ancient walled city",          tag: "pingyao",        image: "https://images.unsplash.com/photo-1547245324-d777f6f3956b?w=700&q=80",  region: "north",     color: "from-stone-700/80 to-stone-950/90" },
+  { name: "Tianjin",        emoji: "🏛️", tagline: "European concessions & tianjin cuisine",      tag: "tianjin",        image: "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=700&q=80", region: "north",     color: "from-blue-700/80 to-blue-950/90" },
+  { name: "Inner Mongolia", emoji: "🐎", tagline: "Vast grasslands & nomadic culture",           tag: "innermongolia",  image: "https://images.unsplash.com/photo-1531761535209-180857e963b9?w=700&q=80", region: "north",     color: "from-green-700/80 to-green-950/90" },
+  // Northeast
+  { name: "Harbin",         emoji: "❄️", tagline: "Ice & Snow World festival",                   tag: "harbin",         image: "https://images.unsplash.com/photo-1578894381163-e72c17f2d45f?w=700&q=80", region: "northeast",  color: "from-sky-700/80 to-sky-950/90" },
+  { name: "Dalian",         emoji: "🌊", tagline: "Rocky coastlines & Russian architecture",     tag: "dalian",         image: "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=700&q=80", region: "northeast",  color: "from-blue-700/80 to-blue-950/90" },
+  { name: "Changbai Mts",   emoji: "🌋", tagline: "Heavenly Lake & virgin forests",              tag: "changbai",       image: "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=700&q=80", region: "northeast",  color: "from-teal-700/80 to-teal-950/90" },
+  // East China
+  { name: "Shanghai",       emoji: "🌆", tagline: "The skyline that never sleeps",               tag: "shanghai",       image: "https://images.unsplash.com/photo-1538428494232-9c0d8a3ab403?w=700&q=80", region: "east",      color: "from-blue-700/80 to-blue-950/90" },
+  { name: "Hangzhou",       emoji: "🍵", tagline: "West Lake & Dragon Well tea",                 tag: "hangzhou",       image: "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86?w=700&q=80", region: "east",      color: "from-cyan-700/80 to-cyan-950/90" },
+  { name: "Suzhou",         emoji: "🏡", tagline: "Classical gardens & canals",                  tag: "suzhou",         image: "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86?w=700&q=80", region: "east",      color: "from-emerald-700/80 to-emerald-950/90" },
+  { name: "Qingdao",        emoji: "🍺", tagline: "German heritage & blue sea",                  tag: "qingdao",        image: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=700&q=80", region: "east",      color: "from-sky-700/80 to-sky-950/90" },
+  { name: "Huangshan",      emoji: "🌄", tagline: "Sea of clouds & ancient pines",               tag: "huangshan",      image: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?w=700&q=80", region: "east",      color: "from-emerald-700/80 to-emerald-950/90" },
+  { name: "Ningbo",         emoji: "⛩️", tagline: "Putuoshan island & port heritage",            tag: "ningbo",         image: "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=700&q=80",  region: "east",      color: "from-violet-700/80 to-violet-950/90" },
+  // Central China
+  { name: "Wuhan",          emoji: "🏯", tagline: "Yellow Crane Tower & hot dry noodles",        tag: "wuhan",          image: "https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?w=700&q=80", region: "central",   color: "from-red-700/80 to-red-950/90" },
+  { name: "Zhangjiajie",    emoji: "🌁", tagline: "Avatar mountains & glass bridges",            tag: "zhangjiajie",    image: "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=700&q=80", region: "central",   color: "from-violet-700/80 to-violet-950/90" },
+  { name: "Fenghuang",      emoji: "🎐", tagline: "Ancient river town on stilts",               tag: "fenghuang",      image: "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=700&q=80", region: "central",   color: "from-amber-700/80 to-amber-950/90" },
+  { name: "Luoyang",        emoji: "🌸", tagline: "Peony capital & Longmen Grottoes",            tag: "luoyang",        image: "https://images.unsplash.com/photo-1584992236310-6ededdc08aa2?w=700&q=80", region: "central",   color: "from-rose-700/80 to-rose-950/90" },
+  { name: "Jiangxi",        emoji: "⛰️", tagline: "Lushan mountains & Jingdezhen porcelain",    tag: "jiangxi",        image: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?w=700&q=80", region: "central",   color: "from-green-700/80 to-green-950/90" },
+  // South China
+  { name: "Guangzhou",      emoji: "🐉", tagline: "Cantonese cuisine & Pearl River",             tag: "guangzhou",      image: "https://images.unsplash.com/photo-1434854702235-6fe3c7e09831?w=700&q=80", region: "south",     color: "from-red-700/80 to-red-950/90" },
+  { name: "Guilin",         emoji: "⛰️", tagline: "Karst peaks & Li River cruise",              tag: "guilin",         image: "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=700&q=80", region: "south",     color: "from-emerald-700/80 to-emerald-950/90" },
+  { name: "Gulangyu",       emoji: "🎵", tagline: "Piano island & colonial architecture",        tag: "gulangyu",       image: "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=700&q=80", region: "south",     color: "from-blue-700/80 to-blue-950/90" },
+  { name: "Fujian Tulou",   emoji: "🏠", tagline: "Hakka earth buildings & rice terraces",       tag: "fujian",         image: "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=700&q=80",  region: "south",     color: "from-amber-700/80 to-amber-950/90" },
+  { name: "Hainan",         emoji: "🏖️", tagline: "Tropical beaches & duty-free shopping",       tag: "hainan",         image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=700&q=80", region: "south",     color: "from-sky-700/80 to-sky-950/90" },
+  { name: "Chaoshan",       emoji: "🍜", tagline: "Teochew cuisine & Guangji Bridge",             tag: "chaoshan",       image: "https://images.unsplash.com/photo-1534430480872-3498386e7856?w=700&q=80", region: "south",     color: "from-orange-700/80 to-orange-950/90" },
+  // Southwest
+  { name: "Chengdu",        emoji: "🐼", tagline: "Pandas, hotpot & laid-back culture",          tag: "chengdu",        image: "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=700&q=80", region: "southwest", color: "from-green-700/80 to-green-950/90" },
+  { name: "Chongqing",      emoji: "🌶️", tagline: "Hillside mega-city & spicy hotpot",           tag: "chongqing",      image: "https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?w=700&q=80", region: "southwest", color: "from-red-700/80 to-red-950/90" },
+  { name: "Jiuzhaigou",     emoji: "💎", tagline: "Turquoise lakes & waterfalls",                tag: "jiuzhaigou",     image: "https://images.unsplash.com/photo-1504198266287-1659872e6590?w=700&q=80", region: "southwest", color: "from-teal-700/80 to-teal-950/90" },
+  { name: "Lijiang",        emoji: "🌸", tagline: "Naxi culture & Jade Dragon Snow Mountain",   tag: "lijiang",        image: "https://images.unsplash.com/photo-1588666309990-d68f08e3d4a6?w=700&q=80", region: "southwest", color: "from-pink-700/80 to-pink-950/90" },
+  { name: "Dali",           emoji: "🌊", tagline: "Ancient town by Erhai Lake",                  tag: "dali",           image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=700&q=80",  region: "southwest", color: "from-teal-700/80 to-teal-950/90" },
+  { name: "Yunnan",         emoji: "🌈", tagline: "Ancient towns & mountain kingdoms",           tag: "yunnan",         image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=700&q=80",  region: "southwest", color: "from-purple-700/80 to-purple-950/90" },
+  { name: "Guizhou",        emoji: "🎐", tagline: "Ethnic minority villages & waterfalls",       tag: "guizhou",        image: "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=700&q=80",  region: "southwest", color: "from-lime-700/80 to-lime-950/90" },
+  { name: "Tibet",          emoji: "🏔️", tagline: "Roof of the world & Potala Palace",          tag: "tibet",          image: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=700&q=80", region: "southwest", color: "from-purple-700/80 to-purple-950/90" },
+  { name: "Xishuangbanna",  emoji: "🌿", tagline: "Tropical rainforest & Dai culture",           tag: "xishuangbanna",  image: "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=700&q=80", region: "southwest", color: "from-green-700/80 to-green-950/90" },
+  // Northwest
+  { name: "Xi'an",          emoji: "🏺", tagline: "Terracotta Army & ancient walls",             tag: "xian",           image: "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=700&q=80",  region: "northwest", color: "from-amber-700/80 to-amber-950/90" },
+  { name: "Dunhuang",       emoji: "🐪", tagline: "Silk Road, dunes & Mogao Caves",              tag: "dunhuang",       image: "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=700&q=80", region: "northwest", color: "from-orange-700/80 to-orange-950/90" },
+  { name: "Xinjiang",       emoji: "🌄", tagline: "Kanas lake & Silk Road landscapes",           tag: "xinjiang",       image: "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=700&q=80", region: "northwest", color: "from-sky-700/80 to-sky-950/90" },
+  { name: "Qinghai",        emoji: "🦩", tagline: "Qinghai Lake & Tibetan plateau",              tag: "qinghai",        image: "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=700&q=80", region: "northwest", color: "from-cyan-700/80 to-cyan-950/90" },
+  { name: "Zhangye",        emoji: "🌈", tagline: "Rainbow Danxia landforms",                    tag: "zhangye",        image: "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=700&q=80", region: "northwest", color: "from-red-700/80 to-red-950/90" },
 ];
 
 // ── Travel styles ──
@@ -140,72 +99,146 @@ const practicalInfo = [
 
   <main id="main-content" class="pb-0">
 
-    <!-- ── Page header banner ── -->
-    <div class="relative overflow-hidden border-b border-border bg-gradient-to-br from-background via-muted/40 to-background py-14">
-      <!-- Decorative circles -->
-      <div class="pointer-events-none absolute -top-20 -right-20 h-64 w-64 rounded-full bg-accent/5 blur-3xl"></div>
-      <div class="pointer-events-none absolute -bottom-10 -left-10 h-48 w-48 rounded-full bg-secondary/8 blur-3xl"></div>
+    <!-- ── Page hero banner ── -->
+    <div class="relative overflow-hidden border-b border-border bg-gradient-to-br from-background via-muted/40 to-background py-14 sm:py-18">
+      <div class="pointer-events-none absolute -top-24 -right-24 h-72 w-72 rounded-full bg-accent/6 blur-3xl"></div>
+      <div class="pointer-events-none absolute -bottom-12 -left-12 h-56 w-56 rounded-full bg-secondary/8 blur-3xl"></div>
 
-      <div class="mx-auto max-w-6xl px-4 sm:px-6">
-        <nav class="mb-4 flex items-center gap-2 text-sm text-muted-foreground">
+      <div class="mx-auto max-w-7xl px-4 sm:px-6">
+        <nav class="mb-4 flex items-center gap-2 text-sm text-muted-foreground" aria-label="Breadcrumb">
           <a href={getRelativeLocaleUrl(locale, "")} class="transition-colors hover:text-accent">Home</a>
-          <span>/</span>
-          <span class="text-foreground">Destinations</span>
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-3.5 w-3.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+          <span class="text-foreground font-medium">Destinations</span>
         </nav>
-        <h1 class="text-4xl font-extrabold text-foreground sm:text-5xl" style="font-family: var(--font-google-sans-code), monospace;">
+        <h1
+          class="text-4xl font-extrabold text-foreground sm:text-5xl"
+          style="font-family: var(--font-playfair), Georgia, serif; letter-spacing: -0.03em;"
+        >
           Explore China
         </h1>
         <p class="mt-3 max-w-xl text-lg text-muted-foreground">
-          Browse by destination, travel style, or practical topic — find exactly what you need for your China trip.
+          Browse by destination, region, or travel style — everything you need for your China adventure.
         </p>
+
+        <!-- Quick stats -->
+        <div class="mt-6 flex flex-wrap gap-4 text-sm">
+          <span class="flex items-center gap-1.5 text-muted-foreground">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 text-accent" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/></svg>
+            <strong class="text-foreground">{cities.length}</strong> destinations
+          </span>
+          <span class="flex items-center gap-1.5 text-muted-foreground">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 text-accent" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
+            <strong class="text-foreground">{posts.length}</strong> guides published
+          </span>
+          <span class="flex items-center gap-1.5 text-muted-foreground">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 text-accent" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>
+            Updated <strong class="text-foreground">2026</strong>
+          </span>
+        </div>
       </div>
     </div>
 
-    <div class="mx-auto max-w-6xl space-y-16 px-4 py-12 sm:px-6">
+    <div class="mx-auto max-w-7xl space-y-16 px-4 py-12 sm:px-6">
 
-      <!-- ══ SECTION 1: Destinations ══ -->
+      <!-- ══ SECTION 1: Destinations with region filter ══ -->
       <section>
-        <div class="mb-6 flex items-end justify-between">
+        <div class="mb-6 flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
           <div>
-            <p class="mb-1 text-xs font-semibold uppercase tracking-[0.2em] text-accent">By city</p>
-            <h2 class="text-2xl font-extrabold text-foreground sm:text-3xl" style="font-family: var(--font-google-sans-code), monospace;">
+            <p class="overline mb-2">By city</p>
+            <h2
+              class="text-2xl font-extrabold text-foreground sm:text-3xl"
+              style="font-family: var(--font-playfair), Georgia, serif;"
+            >
               Popular Destinations
             </h2>
           </div>
         </div>
 
-        <!-- Horizontal-scroll grid -->
-        <div class="grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-4">
+        <!-- Region filter pills -->
+        <div
+          class="mb-6 flex flex-wrap gap-2"
+          id="region-filters"
+          role="group"
+          aria-label="Filter destinations by region"
+        >
+          {regions.map(region => (
+            <button
+              data-region={region.id}
+              class:list={[
+                "region-pill flex items-center gap-1.5 rounded-full border px-3.5 py-1.5 text-xs font-semibold transition-all duration-200",
+                region.id === "all"
+                  ? "bg-accent text-white border-accent shadow-sm shadow-accent/20 pill-active"
+                  : "border-border text-muted-foreground hover:border-accent/40 hover:text-foreground bg-background",
+              ]}
+            >
+              <span>{region.emoji}</span>
+              {region.label}
+            </button>
+          ))}
+        </div>
+
+        <!-- Cities grid -->
+        <div
+          id="cities-grid"
+          class="grid grid-cols-2 gap-3 sm:grid-cols-3 sm:gap-4 lg:grid-cols-4"
+        >
           {cities.map(city => (
             <a
               href={getRelativeLocaleUrl(locale, `tags/${city.tag}`)}
-              class="group relative overflow-hidden rounded-2xl border border-border shadow-sm transition-all duration-300 hover:shadow-xl hover:-translate-y-1.5"
+              data-region={city.region}
+              class="city-card group relative overflow-hidden rounded-2xl border border-border/60 shadow-sm transition-all duration-400 hover:shadow-xl hover:-translate-y-1.5 hover:border-accent/30"
               style="aspect-ratio: 3/2;"
             >
               <img
                 src={city.image}
                 alt={city.name}
-                class="absolute inset-0 h-full w-full object-cover transition-transform duration-500 group-hover:scale-110"
+                class="absolute inset-0 h-full w-full object-cover transition-transform duration-600 group-hover:scale-112"
                 loading="lazy"
               />
               <div class:list={["absolute inset-0 bg-gradient-to-t", city.color]}></div>
-              <div class="absolute bottom-0 left-0 p-3">
+              <!-- Hover glow tint -->
+              <div class="absolute inset-0 bg-accent/0 transition-all duration-400 group-hover:bg-accent/8"></div>
+
+              <div class="absolute bottom-0 left-0 p-3 transition-transform duration-300 group-hover:-translate-y-0.5">
                 <div class="flex items-center gap-1.5 text-white">
-                  <span class="text-lg">{city.emoji}</span>
-                  <span class="font-bold text-sm sm:text-base drop-shadow">{city.name}</span>
+                  <span class="text-base" aria-hidden="true">{city.emoji}</span>
+                  <span
+                    class="font-bold text-sm sm:text-base drop-shadow"
+                    style="font-family: var(--font-playfair), Georgia, serif;"
+                  >{city.name}</span>
                 </div>
-                <p class="mt-0.5 text-xs text-white/75 leading-tight hidden sm:block">{city.tagline}</p>
+                <p class="mt-0.5 text-[11px] text-white/72 leading-snug hidden sm:block line-clamp-1">{city.tagline}</p>
+              </div>
+
+              <!-- Arrow indicator -->
+              <div class="absolute right-2.5 top-2.5 flex size-7 items-center justify-center rounded-full bg-white/0 text-white/0 transition-all duration-300 group-hover:bg-white/20 group-hover:text-white">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-3.5 w-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+                </svg>
               </div>
             </a>
           ))}
+        </div>
+
+        <!-- Empty state -->
+        <div id="cities-empty" class="hidden py-12 text-center">
+          <span class="text-5xl">🗺️</span>
+          <p class="mt-4 text-lg font-semibold text-foreground">No destinations in this region yet</p>
+          <button
+            data-region="all"
+            class="region-pill mt-3 text-sm text-accent underline hover:no-underline"
+          >View all destinations</button>
         </div>
       </section>
 
       <!-- ══ SECTION 2: Travel Styles ══ -->
       <section>
         <div class="mb-6">
-          <p class="mb-1 text-xs font-semibold uppercase tracking-[0.2em] text-accent">How you travel</p>
-          <h2 class="text-2xl font-extrabold text-foreground sm:text-3xl" style="font-family: var(--font-google-sans-code), monospace;">
+          <p class="overline mb-2">How you travel</p>
+          <h2
+            class="text-2xl font-extrabold text-foreground sm:text-3xl"
+            style="font-family: var(--font-playfair), Georgia, serif;"
+          >
             Travel Styles
           </h2>
         </div>
@@ -214,7 +247,7 @@ const practicalInfo = [
             <a
               href={getRelativeLocaleUrl(locale, `tags/${style.tag}`)}
               class:list={[
-                "group flex flex-col items-center gap-2 rounded-2xl border p-5 text-center transition-all duration-200 hover:shadow-md hover:-translate-y-1",
+                "group flex flex-col items-center gap-2 rounded-2xl border p-4 sm:p-5 text-center transition-all duration-250 hover:shadow-md hover:-translate-y-1",
                 style.bg, style.border,
               ]}
             >
@@ -228,11 +261,14 @@ const practicalInfo = [
       <!-- ══ SECTION 3: Practical Info ══ -->
       <section class="pb-4">
         <div class="mb-6">
-          <p class="mb-1 text-xs font-semibold uppercase tracking-[0.2em] text-accent">Before you go</p>
-          <h2 class="text-2xl font-extrabold text-foreground sm:text-3xl" style="font-family: var(--font-google-sans-code), monospace;">
+          <p class="overline mb-2">Before you go</p>
+          <h2
+            class="text-2xl font-extrabold text-foreground sm:text-3xl"
+            style="font-family: var(--font-playfair), Georgia, serif;"
+          >
             Practical Information
           </h2>
-          <p class="mt-1.5 text-sm text-muted-foreground">High-priority topics every visitor needs to know.</p>
+          <p class="mt-1.5 text-sm text-muted-foreground">High-priority topics every international visitor needs to know.</p>
         </div>
         <div class="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
           {practicalInfo.map(item => (
@@ -240,14 +276,17 @@ const practicalInfo = [
               href={getRelativeLocaleUrl(locale, `tags/${item.tag}`)}
               class="group flex items-start gap-4 rounded-2xl border border-border bg-[var(--card-bg,#fff)] p-4 shadow-sm transition-all duration-200 hover:border-accent/30 hover:shadow-md hover:-translate-y-0.5"
             >
-              <span class="mt-0.5 flex size-10 flex-shrink-0 items-center justify-center rounded-xl bg-muted text-xl transition-transform group-hover:scale-110">
+              <span class="mt-0.5 flex size-11 flex-shrink-0 items-center justify-center rounded-xl bg-muted text-xl transition-transform group-hover:scale-110">
                 {item.icon}
               </span>
-              <div class="min-w-0">
-                <h3 class="font-bold text-foreground transition-colors group-hover:text-accent">{item.label}</h3>
+              <div class="min-w-0 flex-1">
+                <h3
+                  class="font-bold text-foreground transition-colors group-hover:text-accent"
+                  style="font-family: var(--font-google-sans-code), monospace;"
+                >{item.label}</h3>
                 <p class="mt-0.5 text-sm text-muted-foreground">{item.desc}</p>
               </div>
-              <IconArrowRight class="ml-auto mt-1 h-4 w-4 flex-shrink-0 text-muted-foreground/50 transition-all group-hover:translate-x-0.5 group-hover:text-accent" />
+              <IconArrowRight class="ml-auto mt-1.5 h-4 w-4 flex-shrink-0 text-muted-foreground/40 transition-all group-hover:translate-x-0.5 group-hover:text-accent" />
             </a>
           ))}
         </div>
@@ -259,7 +298,74 @@ const practicalInfo = [
   <Footer />
 </Layout>
 
+<script>
+  document.addEventListener("astro:page-load", () => {
+    const pills = document.querySelectorAll<HTMLButtonElement>(".region-pill");
+    const cards = document.querySelectorAll<HTMLAnchorElement>(".city-card");
+    const emptyState = document.getElementById("cities-empty");
+    const grid = document.getElementById("cities-grid");
+
+    if (!pills.length) return;
+
+    function filterCities(regionId: string) {
+      let visible = 0;
+
+      // Update pill states
+      pills.forEach(p => {
+        const isActive = p.dataset.region === regionId;
+        p.classList.toggle("bg-accent", isActive);
+        p.classList.toggle("text-white", isActive);
+        p.classList.toggle("border-accent", isActive);
+        p.classList.toggle("shadow-sm", isActive);
+        p.classList.toggle("pill-active", isActive);
+        p.classList.toggle("border-border", !isActive);
+        p.classList.toggle("text-muted-foreground", !isActive);
+        p.classList.toggle("bg-background", !isActive);
+      });
+
+      // Show/hide cards with stagger
+      cards.forEach((card, i) => {
+        const matches = regionId === "all" || card.dataset.region === regionId;
+        if (matches) {
+          card.style.display = "";
+          (card as HTMLElement).style.animationDelay = `${(i % 12) * 0.04}s`;
+          card.classList.add("fade-card-in");
+          visible++;
+        } else {
+          card.style.display = "none";
+          card.classList.remove("fade-card-in");
+        }
+      });
+
+      // Toggle empty state
+      if (emptyState && grid) {
+        emptyState.classList.toggle("hidden", visible > 0);
+        grid.classList.toggle("hidden", visible === 0);
+      }
+    }
+
+    pills.forEach(pill => {
+      pill.addEventListener("click", () => {
+        filterCities(pill.dataset.region ?? "all");
+      });
+    });
+  });
+</script>
+
 <style>
+  .group-hover\:scale-112:is(.group:hover *) { transform: scale(1.12); }
+  .group:hover .group-hover\:scale-112 { transform: scale(1.12); }
   .group-hover\:scale-115:is(.group:hover *) { transform: scale(1.15); }
   .group:hover .group-hover\:scale-115 { transform: scale(1.15); }
+  .duration-400 { transition-duration: 400ms; }
+  .duration-600 { transition-duration: 600ms; }
+  .duration-250 { transition-duration: 250ms; }
+
+  @keyframes fadeCardIn {
+    from { opacity: 0; transform: translateY(12px) scale(0.98); }
+    to   { opacity: 1; transform: translateY(0) scale(1); }
+  }
+  .fade-card-in {
+    animation: fadeCardIn 0.35s cubic-bezier(0.22, 1, 0.36, 1) both;
+  }
 </style>

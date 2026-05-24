@@ -209,41 +209,52 @@ const dateStr = displayDate.toLocaleDateString("en-US", { month: "short", year: 
   <li class="group">
     <a
       href={postUrl}
-      class="flex h-full flex-col overflow-hidden rounded-2xl border border-border bg-[var(--card-bg,#fff)] shadow-sm transition-all duration-300 hover:shadow-xl hover:-translate-y-2 hover:border-accent/20"
+      class="flex h-full flex-col overflow-hidden rounded-2xl border border-border/70 bg-[var(--card-bg,#fff)] shadow-sm transition-all duration-350 hover:shadow-2xl hover:-translate-y-2.5 hover:border-accent/25"
     >
       <!-- Image -->
       <div class="relative h-48 overflow-hidden bg-muted">
         <img
           src={thumbnail}
           alt={title}
-          class="h-full w-full object-cover transition-transform duration-500 ease-out group-hover:scale-108"
+          class="h-full w-full object-cover transition-transform duration-600 ease-out group-hover:scale-110"
           loading="lazy"
         />
-        <!-- Gradient for badge readability -->
-        <div class="absolute inset-0 bg-gradient-to-t from-black/30 to-transparent opacity-0 transition-opacity group-hover:opacity-100"></div>
-        <!-- Badge on image -->
+        <!-- Gradient overlay -->
+        <div class="absolute inset-0 bg-gradient-to-t from-black/45 via-black/5 to-transparent opacity-0 transition-opacity duration-300 group-hover:opacity-100"></div>
+        <!-- Category badge -->
         {category && (
-          <span class:list={["absolute top-3 left-3 rounded-full px-2.5 py-0.5 text-xs font-bold uppercase tracking-wide shadow-sm", badgeClass]}>
+          <span class:list={["absolute top-3 left-3 rounded-full px-2.5 py-0.5 text-xs font-bold uppercase tracking-wide shadow-sm backdrop-blur-sm", badgeClass]}>
             {category}
           </span>
         )}
+        <!-- Arrow indicator on hover -->
+        <div class="absolute right-3 bottom-3 flex size-7 items-center justify-center rounded-full bg-white/0 text-white/0 transition-all duration-300 group-hover:bg-white/25 group-hover:text-white">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-3.5 w-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+          </svg>
+        </div>
       </div>
 
-      <!-- Text -->
-      <div class="flex flex-1 flex-col p-4">
+      <!-- Text body -->
+      <div class="flex flex-1 flex-col p-4 sm:p-5">
         <Heading
           transition:name={slugifyStr(title.replaceAll(".", "-"))}
-          class="mb-2 line-clamp-2 text-base font-bold leading-snug text-foreground group-hover:text-accent transition-colors"
-          style="font-family: var(--font-google-sans-code), monospace;"
+          class="mb-2 line-clamp-2 text-base font-bold leading-snug text-foreground transition-colors duration-200 group-hover:text-accent"
+          style="font-family: var(--font-playfair), Georgia, serif; letter-spacing: -0.01em;"
         >
           {title}
         </Heading>
         <p class="flex-1 line-clamp-2 text-sm leading-relaxed text-muted-foreground">
           {description}
         </p>
-        <p class="mt-3 text-xs text-muted-foreground/70">
-          Updated {dateStr}
-        </p>
+        <div class="mt-3 flex items-center justify-between">
+          <p class="text-xs text-muted-foreground/65">
+            Updated {dateStr}
+          </p>
+          <span class="text-xs font-medium text-muted-foreground/50 transition-colors group-hover:text-accent">
+            Read →
+          </span>
+        </div>
       </div>
     </a>
   </li>
@@ -252,14 +263,14 @@ const dateStr = displayDate.toLocaleDateString("en-US", { month: "short", year: 
   <li class="group">
     <a
       href={postUrl}
-      class="flex gap-4 rounded-2xl border border-border bg-[var(--card-bg,#fff)] p-4 shadow-sm transition-all duration-300 hover:shadow-md hover:-translate-y-0.5 hover:border-accent/20 sm:gap-5"
+      class="flex gap-4 rounded-2xl border border-border/70 bg-[var(--card-bg,#fff)] p-4 shadow-sm transition-all duration-300 hover:shadow-lg hover:-translate-y-0.5 hover:border-accent/25 sm:gap-5"
     >
       <!-- Thumbnail -->
-      <div class="h-24 w-32 flex-shrink-0 overflow-hidden rounded-xl bg-muted sm:h-28 sm:w-36">
+      <div class="h-24 w-28 flex-shrink-0 overflow-hidden rounded-xl bg-muted sm:h-28 sm:w-36">
         <img
           src={thumbnail}
           alt={title}
-          class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-108"
+          class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-110"
           loading="lazy"
         />
       </div>
@@ -274,8 +285,8 @@ const dateStr = displayDate.toLocaleDateString("en-US", { month: "short", year: 
           )}
           <Heading
             transition:name={slugifyStr(title.replaceAll(".", "-"))}
-            class="line-clamp-2 text-base font-bold leading-snug text-foreground group-hover:text-accent transition-colors sm:text-lg"
-            style="font-family: var(--font-google-sans-code), monospace;"
+            class="line-clamp-2 text-base font-bold leading-snug text-foreground transition-colors duration-200 group-hover:text-accent sm:text-lg"
+            style="font-family: var(--font-playfair), Georgia, serif; letter-spacing: -0.01em;"
           >
             {title}
           </Heading>
@@ -283,7 +294,7 @@ const dateStr = displayDate.toLocaleDateString("en-US", { month: "short", year: 
             {description}
           </p>
         </div>
-        <p class="mt-2 text-xs text-muted-foreground/70">
+        <p class="mt-2 text-xs text-muted-foreground/65">
           Updated {dateStr}
         </p>
       </div>
@@ -292,11 +303,10 @@ const dateStr = displayDate.toLocaleDateString("en-US", { month: "short", year: 
 )}
 
 <style>
-  .group-hover\:scale-108:is(.group:hover *) {
-    transform: scale(1.08);
-  }
-  /* Fallback for scale-108 */
-  .group:hover .group-hover\:scale-108 {
-    transform: scale(1.08);
-  }
+  .group-hover\:scale-108:is(.group:hover *) { transform: scale(1.08); }
+  .group:hover .group-hover\:scale-108 { transform: scale(1.08); }
+  .group-hover\:scale-110:is(.group:hover *) { transform: scale(1.1); }
+  .group:hover .group-hover\:scale-110 { transform: scale(1.1); }
+  .duration-350 { transition-duration: 350ms; }
+  .duration-600 { transition-duration: 600ms; }
 </style>
