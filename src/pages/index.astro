@@ -74,11 +74,15 @@ const toolkitGuides = [
   },
 ];
 
-// Stats bar
+// Stats bar — dynamically computed from actual content
+const totalGuides = posts.length;
+const destinationCount = posts.filter(p => p.id.startsWith("destinations/")).length;
+const currentYear = new Date().getFullYear();
+
 const stats = [
-  { value: "100+", label: "In-depth guides" },
-  { value: "31", label: "Destinations" },
-  { value: "2026", label: "Fully updated" },
+  { value: `${totalGuides}+`, label: "In-depth guides" },
+  { value: `${destinationCount}+`, label: "Destinations" },
+  { value: String(currentYear), label: "Fully updated" },
   { value: "Free", label: "Always free" },
 ];
 
