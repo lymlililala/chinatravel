@@ -1,1 +1,564 @@
-{}
+{
+  "redirects": [
+    {
+      "source": "/posts/beijing-:path*",
+      "destination": "/posts/destinations/beijing-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/shanghai-:path*",
+      "destination": "/posts/destinations/shanghai-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/chengdu-:path*",
+      "destination": "/posts/destinations/chengdu-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/guangzhou-:path*",
+      "destination": "/posts/destinations/guangzhou-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/xian-:path*",
+      "destination": "/posts/destinations/xian-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/hangzhou-:path*",
+      "destination": "/posts/destinations/hangzhou-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/guilin-:path*",
+      "destination": "/posts/destinations/guilin-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/yangshuo-:path*",
+      "destination": "/posts/destinations/yangshuo-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/tibet-:path*",
+      "destination": "/posts/destinations/tibet-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/yunnan-:path*",
+      "destination": "/posts/destinations/yunnan-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/lijiang-:path*",
+      "destination": "/posts/destinations/lijiang-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/dali-:path*",
+      "destination": "/posts/destinations/dali-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/shangri-la-:path*",
+      "destination": "/posts/destinations/shangri-la-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/chongqing-:path*",
+      "destination": "/posts/destinations/chongqing-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/wuhan-:path*",
+      "destination": "/posts/destinations/wuhan-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/xiamen-:path*",
+      "destination": "/posts/destinations/xiamen-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/gulangyu-:path*",
+      "destination": "/posts/destinations/gulangyu-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/fujian-:path*",
+      "destination": "/posts/destinations/fujian-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/guangxi-:path*",
+      "destination": "/posts/destinations/guangxi-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/guizhou-:path*",
+      "destination": "/posts/destinations/guizhou-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/sichuan-:path*",
+      "destination": "/posts/destinations/sichuan-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/hainan-:path*",
+      "destination": "/posts/destinations/hainan-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/sanya-:path*",
+      "destination": "/posts/destinations/sanya-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/qinghai-:path*",
+      "destination": "/posts/destinations/qinghai-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/xinjiang-:path*",
+      "destination": "/posts/destinations/xinjiang-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/kashgar-:path*",
+      "destination": "/posts/destinations/kashgar-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/dunhuang-:path*",
+      "destination": "/posts/destinations/dunhuang-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/gansu-:path*",
+      "destination": "/posts/destinations/gansu-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/zhangye-:path*",
+      "destination": "/posts/destinations/zhangye-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/harbin-:path*",
+      "destination": "/posts/destinations/harbin-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/jilin-:path*",
+      "destination": "/posts/destinations/jilin-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/shenyang-:path*",
+      "destination": "/posts/destinations/shenyang-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/inner-mongolia-:path*",
+      "destination": "/posts/destinations/inner-mongolia-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/tianjin-:path*",
+      "destination": "/posts/destinations/tianjin-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/nanjing-:path*",
+      "destination": "/posts/destinations/nanjing-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/suzhou-:path*",
+      "destination": "/posts/destinations/suzhou-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/huangshan-:path*",
+      "destination": "/posts/destinations/huangshan-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/mount-huangshan-:path*",
+      "destination": "/posts/destinations/mount-huangshan-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/jiuzhaigou-:path*",
+      "destination": "/posts/destinations/jiuzhaigou-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/zhangjiajie-:path*",
+      "destination": "/posts/destinations/zhangjiajie-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/hong-kong-:path*",
+      "destination": "/posts/destinations/hong-kong-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/macau-:path*",
+      "destination": "/posts/destinations/macau-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/shenzhen-:path*",
+      "destination": "/posts/destinations/shenzhen-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/qingdao-:path*",
+      "destination": "/posts/destinations/qingdao-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/shanxi-:path*",
+      "destination": "/posts/destinations/shanxi-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/shaanxi-:path*",
+      "destination": "/posts/destinations/shaanxi-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/jiangxi-:path*",
+      "destination": "/posts/destinations/jiangxi-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/jiangnan-:path*",
+      "destination": "/posts/destinations/jiangnan-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/hunan-:path*",
+      "destination": "/posts/destinations/hunan-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/changsha-:path*",
+      "destination": "/posts/destinations/changsha-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/huizhou-:path*",
+      "destination": "/posts/destinations/huizhou-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/anhui-:path*",
+      "destination": "/posts/destinations/anhui-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/wuyishan-:path*",
+      "destination": "/posts/destinations/wuyishan-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/yangzhou-:path*",
+      "destination": "/posts/destinations/yangzhou-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/ningbo-:path*",
+      "destination": "/posts/destinations/ningbo-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/ningxia-:path*",
+      "destination": "/posts/destinations/ningxia-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/wenzhou-:path*",
+      "destination": "/posts/destinations/wenzhou-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/shandong-:path*",
+      "destination": "/posts/destinations/shandong-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/taishan-:path*",
+      "destination": "/posts/destinations/taishan-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/hebei-:path*",
+      "destination": "/posts/destinations/hebei-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/zhengzhou-:path*",
+      "destination": "/posts/destinations/zhengzhou-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/lanzhou-:path*",
+      "destination": "/posts/destinations/lanzhou-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/kunming-:path*",
+      "destination": "/posts/destinations/kunming-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/guangdong-:path*",
+      "destination": "/posts/destinations/guangdong-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/chaoshan-:path*",
+      "destination": "/posts/destinations/chaoshan-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/forbidden-city-:path*",
+      "destination": "/posts/destinations/forbidden-city-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/great-wall-:path*",
+      "destination": "/posts/destinations/great-wall-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-ancient-:path*",
+      "destination": "/posts/destinations/china-ancient-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-visa-:path*",
+      "destination": "/posts/toolkit/china-visa-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-payment-:path*",
+      "destination": "/posts/toolkit/china-payment-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-apps-:path*",
+      "destination": "/posts/toolkit/china-apps-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-transport-:path*",
+      "destination": "/posts/toolkit/china-transport-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-train-:path*",
+      "destination": "/posts/toolkit/china-train-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-metro-:path*",
+      "destination": "/posts/toolkit/china-metro-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-esim-:path*",
+      "destination": "/posts/toolkit/china-esim-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-vpn-:path*",
+      "destination": "/posts/toolkit/china-vpn-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-mobile-:path*",
+      "destination": "/posts/toolkit/china-mobile-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-public-:path*",
+      "destination": "/posts/toolkit/china-public-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-communication-:path*",
+      "destination": "/posts/toolkit/china-communication-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-maps-:path*",
+      "destination": "/posts/toolkit/china-maps-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-alipay-:path*",
+      "destination": "/posts/toolkit/china-alipay-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-wechat-:path*",
+      "destination": "/posts/toolkit/china-wechat-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-atm-:path*",
+      "destination": "/posts/toolkit/china-atm-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-unionpay-:path*",
+      "destination": "/posts/toolkit/china-unionpay-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-online-:path*",
+      "destination": "/posts/toolkit/china-online-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-didi-:path*",
+      "destination": "/posts/toolkit/china-didi-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-domestic-:path*",
+      "destination": "/posts/toolkit/china-domestic-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-overnight-:path*",
+      "destination": "/posts/toolkit/china-overnight-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-long-:path*",
+      "destination": "/posts/toolkit/china-long-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-cycling-:path*",
+      "destination": "/posts/toolkit/china-cycling-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-social-:path*",
+      "destination": "/posts/toolkit/china-social-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-food-:path*",
+      "destination": "/posts/toolkit/china-food-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-translation-:path*",
+      "destination": "/posts/toolkit/china-translation-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-accommodation-:path*",
+      "destination": "/posts/toolkit/china-accommodation-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-budget-:path*",
+      "destination": "/posts/toolkit/china-budget-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-culture-:path*",
+      "destination": "/posts/toolkit/china-culture-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-health-:path*",
+      "destination": "/posts/toolkit/china-health-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-safety-:path*",
+      "destination": "/posts/toolkit/china-safety-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-packing-:path*",
+      "destination": "/posts/toolkit/china-packing-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-weather-:path*",
+      "destination": "/posts/toolkit/china-weather-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-shopping-:path*",
+      "destination": "/posts/toolkit/china-shopping-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-solo-:path*",
+      "destination": "/posts/toolkit/china-solo-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-2-:path*",
+      "destination": "/posts/toolkit/china-2-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-10-:path*",
+      "destination": "/posts/toolkit/china-10-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-east-:path*",
+      "destination": "/posts/toolkit/china-east-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-southwest-:path*",
+      "destination": "/posts/toolkit/china-southwest-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-silk-:path*",
+      "destination": "/posts/toolkit/china-silk-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-yangtze-:path*",
+      "destination": "/posts/toolkit/china-yangtze-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-yunnan-:path*",
+      "destination": "/posts/toolkit/china-yunnan-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/best-time-:path*",
+      "destination": "/posts/toolkit/best-time-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/beijing-metro-:path*",
+      "destination": "/posts/toolkit/beijing-metro-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/posts/shanghai-metro-:path*",
+      "destination": "/posts/toolkit/shanghai-metro-:path*",
+      "permanent": true
+    }
+  ]
+}
