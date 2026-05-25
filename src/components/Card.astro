@@ -173,6 +173,26 @@ const thumbnailMap: Record<string, string> = {
   beaches:        "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&q=80",  // Beach
   grasslands:     "https://images.unsplash.com/photo-1531761535209-180857e963b9?w=600&q=80",  // Grassland
   gardens:        "https://images.unsplash.com/photo-1524673278499-8df96f00a4af?w=600&q=80",  // Classical garden
+  // New tags
+  yangtze:        "https://images.unsplash.com/photo-1530789253388-582c481c54b0?w=600&q=80",  // River gorge
+  trekking:       "https://images.unsplash.com/photo-1501554728187-ce583db33af7?w=600&q=80",  // Mountain hiking
+  hiking:         "https://images.unsplash.com/photo-1501554728187-ce583db33af7?w=600&q=80",  // Hiking trail
+  diving:         "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=600&q=80",    // Underwater coral
+  snorkeling:     "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=600&q=80",    // Tropical sea
+  pilgrimage:     "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=600&q=80",  // Sacred mountain
+  minorities:     "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=600&q=80",    // Village culture
+  festivals:      "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=600&q=80",  // Festival lights
+  cruise:         "https://images.unsplash.com/photo-1530789253388-582c481c54b0?w=600&q=80",  // River cruise
+  river:          "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=600&q=80",  // River landscape
+  tea:            "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&q=80",    // Tea plantation
+  village:        "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=600&q=80",    // Ancient village
+  ancient:        "https://images.unsplash.com/photo-1508804052814-cd3ba865a116?w=600&q=80",  // Ancient heritage
+  architecture:   "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=600&q=80",  // Architecture
+  hotpot:         "https://images.unsplash.com/photo-1563245372-f21724e3856d?w=600&q=80",    // Hotpot food
+  noodles:        "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=600&q=80",  // Chinese noodles
+  seafood:        "https://images.unsplash.com/photo-1550535424-2d54b7920c87?w=600&q=80",    // Seafood market
+  art:            "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=600&q=80",  // Contemporary art
+  nightlife:      "https://images.unsplash.com/photo-1536599018102-9f803c140fc1?w=600&q=80",  // City night lights
 };
 
 const firstTag = (tags?.[0] ?? "").toLowerCase().replace(/[^a-z]/g, "");
@@ -328,6 +348,28 @@ const badgeColorMap: Record<string, string> = {
   ferry:         "bg-teal-100 text-teal-700 dark:bg-teal-900/40 dark:text-teal-300",
   sleeper:       "bg-indigo-100 text-indigo-700 dark:bg-indigo-900/40 dark:text-indigo-300",
   "high-speed":  "bg-blue-100 text-blue-700 dark:bg-blue-900/40 dark:text-blue-300",
+  // New content tags
+  "silk-road":   "bg-amber-100 text-amber-700 dark:bg-amber-900/40 dark:text-amber-300",
+  yangtze:       "bg-blue-100 text-blue-700 dark:bg-blue-900/40 dark:text-blue-300",
+  trekking:      "bg-emerald-100 text-emerald-700 dark:bg-emerald-900/40 dark:text-emerald-300",
+  hiking:        "bg-green-100 text-green-700 dark:bg-green-900/40 dark:text-green-300",
+  diving:        "bg-cyan-100 text-cyan-700 dark:bg-cyan-900/40 dark:text-cyan-300",
+  snorkeling:    "bg-sky-100 text-sky-700 dark:bg-sky-900/40 dark:text-sky-300",
+  pilgrimage:    "bg-purple-100 text-purple-700 dark:bg-purple-900/40 dark:text-purple-300",
+  minorities:    "bg-fuchsia-100 text-fuchsia-700 dark:bg-fuchsia-900/40 dark:text-fuchsia-300",
+  festivals:     "bg-red-100 text-red-700 dark:bg-red-900/40 dark:text-red-300",
+  cruise:        "bg-blue-100 text-blue-700 dark:bg-blue-900/40 dark:text-blue-300",
+  river:         "bg-teal-100 text-teal-700 dark:bg-teal-900/40 dark:text-teal-300",
+  mountaineering:"bg-stone-100 text-stone-700 dark:bg-stone-900/40 dark:text-stone-300",
+  village:       "bg-lime-100 text-lime-700 dark:bg-lime-900/40 dark:text-lime-300",
+  ancient:       "bg-amber-100 text-amber-700 dark:bg-amber-900/40 dark:text-amber-300",
+  tea:           "bg-green-100 text-green-700 dark:bg-green-900/40 dark:text-green-300",
+  architecture:  "bg-stone-100 text-stone-700 dark:bg-stone-900/40 dark:text-stone-300",
+  hotpot:        "bg-red-100 text-red-700 dark:bg-red-900/40 dark:text-red-300",
+  noodles:       "bg-yellow-100 text-yellow-700 dark:bg-yellow-900/40 dark:text-yellow-300",
+  seafood:       "bg-cyan-100 text-cyan-700 dark:bg-cyan-900/40 dark:text-cyan-300",
+  art:           "bg-violet-100 text-violet-700 dark:bg-violet-900/40 dark:text-violet-300",
+  nightlife:     "bg-purple-100 text-purple-700 dark:bg-purple-900/40 dark:text-purple-300",
 };
 const badgeClass = badgeColorMap[firstTag] ?? "bg-muted text-muted-foreground";
 
