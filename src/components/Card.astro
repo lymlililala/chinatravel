@@ -136,9 +136,22 @@ const thumbnailMap: Record<string, string> = {
   jiayuguan:      "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=600&q=80",  // Great wall desert end
   // ── PRACTICAL / TOOLKIT TOPICS ──
   visa:           "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=600&q=80",  // Passport & airplane
+  entry:          "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=600&q=80",  // Passport / border
   payment:        "https://images.unsplash.com/photo-1556742111-a301076d9d18?w=600&q=80",    // Mobile payment QR
+  money:          "https://images.unsplash.com/photo-1556742111-a301076d9d18?w=600&q=80",    // Money / payment
+  alipay:         "https://images.unsplash.com/photo-1556742111-a301076d9d18?w=600&q=80",    // Alipay QR
+  wechat:         "https://images.unsplash.com/photo-1545893835-abaa50cbe628?w=600&q=80",    // WeChat app
   transport:      "https://images.unsplash.com/photo-1515658323406-25d61c141a6e?w=600&q=80",  // High-speed train
   apps:           "https://images.unsplash.com/photo-1545893835-abaa50cbe628?w=600&q=80",    // Smartphone apps
+  connectivity:   "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&q=80",  // Network / SIM
+  metro:          "https://images.unsplash.com/photo-1555400038-63f5ba517a47?w=600&q=80",    // Metro / subway
+  vpn:            "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=80",    // VPN / internet
+  wifi:           "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",  // WiFi symbol
+  cycling:        "https://images.unsplash.com/photo-1476055439777-977cdf3a5699?w=600&q=80",  // Cycling
+  flights:        "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=600&q=80",  // Airplane
+  ridehailing:    "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=600&q=80",  // Taxi
+  ferry:          "https://images.unsplash.com/photo-1530789253388-582c481c54b0?w=600&q=80",  // Ferry / boat
+  sleeper:        "https://images.unsplash.com/photo-1515658323406-25d61c141a6e?w=600&q=80",  // Train sleeper
   food:           "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=600&q=80",  // Chinese street food
   solo:           "https://images.unsplash.com/photo-1501555088652-021faa106b9b?w=600&q=80",  // Solo traveller
   beginners:      "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=600&q=80",  // Travel planning map
@@ -300,6 +313,21 @@ const badgeColorMap: Record<string, string> = {
   toolkit:       "bg-slate-100 text-slate-700 dark:bg-slate-900/40 dark:text-slate-300",
   urban:         "bg-zinc-100 text-zinc-700 dark:bg-zinc-900/40 dark:text-zinc-300",
   history:       "bg-stone-100 text-stone-700 dark:bg-stone-900/40 dark:text-stone-300",
+  // New tag categories (visa/payment/apps/transport/connectivity/metro)
+  entry:         "bg-rose-100 text-rose-700 dark:bg-rose-900/40 dark:text-rose-300",
+  money:         "bg-lime-100 text-lime-700 dark:bg-lime-900/40 dark:text-lime-300",
+  alipay:        "bg-blue-100 text-blue-700 dark:bg-blue-900/40 dark:text-blue-300",
+  wechat:        "bg-green-100 text-green-700 dark:bg-green-900/40 dark:text-green-300",
+  connectivity:  "bg-violet-100 text-violet-700 dark:bg-violet-900/40 dark:text-violet-300",
+  metro:         "bg-sky-100 text-sky-700 dark:bg-sky-900/40 dark:text-sky-300",
+  vpn:           "bg-purple-100 text-purple-700 dark:bg-purple-900/40 dark:text-purple-300",
+  wifi:          "bg-cyan-100 text-cyan-700 dark:bg-cyan-900/40 dark:text-cyan-300",
+  cycling:       "bg-green-100 text-green-700 dark:bg-green-900/40 dark:text-green-300",
+  flights:       "bg-sky-100 text-sky-700 dark:bg-sky-900/40 dark:text-sky-300",
+  ridehailing:   "bg-orange-100 text-orange-700 dark:bg-orange-900/40 dark:text-orange-300",
+  ferry:         "bg-teal-100 text-teal-700 dark:bg-teal-900/40 dark:text-teal-300",
+  sleeper:       "bg-indigo-100 text-indigo-700 dark:bg-indigo-900/40 dark:text-indigo-300",
+  "high-speed":  "bg-blue-100 text-blue-700 dark:bg-blue-900/40 dark:text-blue-300",
 };
 const badgeClass = badgeColorMap[firstTag] ?? "bg-muted text-muted-foreground";
 
