@@ -26,7 +26,7 @@ const regions = [
 const cities = [
   // North China
   { name: "Beijing",        emoji: "🏯", tagline: "Imperial history & the Great Wall",          tag: "beijing",        image: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=700&q=80",  region: "north",     },
-  { name: "Pingyao",        emoji: "🏰", tagline: "Best-preserved ancient walled city",          tag: "pingyao",        image: "https://images.unsplash.com/photo-1547245324-d777f6f3956b?w=700&q=80",  region: "north",     },
+  { name: "Pingyao",        emoji: "🏰", tagline: "Best-preserved ancient walled city",          tag: "pingyao",        image: "https://images.unsplash.com/photo-1570797197190-8e003a00c846?w=700&q=80", region: "north",     },
   { name: "Tianjin",        emoji: "🏛️", tagline: "European concessions & tianjin cuisine",      tag: "tianjin",        image: "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=700&q=80", region: "north",     },
   { name: "Inner Mongolia", emoji: "🐎", tagline: "Vast grasslands & nomadic culture",           tag: "innermongolia",  image: "https://images.unsplash.com/photo-1531761535209-180857e963b9?w=700&q=80", region: "north",     },
   // Northeast
@@ -36,7 +36,7 @@ const cities = [
   // East China
   { name: "Shanghai",       emoji: "🌆", tagline: "The skyline that never sleeps",               tag: "shanghai",       image: "https://images.unsplash.com/photo-1538428494232-9c0d8a3ab403?w=700&q=80", region: "east",      },
   { name: "Hangzhou",       emoji: "🍵", tagline: "West Lake & Dragon Well tea",                 tag: "hangzhou",       image: "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86?w=700&q=80", region: "east",      },
-  { name: "Suzhou",         emoji: "🏡", tagline: "Classical gardens & canals",                  tag: "suzhou",         image: "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86?w=700&q=80", region: "east",      },
+  { name: "Suzhou",         emoji: "🏡", tagline: "Classical gardens & canals",                  tag: "suzhou",         image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=700&q=80", region: "east",      },
   { name: "Qingdao",        emoji: "🍺", tagline: "German heritage & blue sea",                  tag: "qingdao",        image: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=700&q=80", region: "east",      },
   { name: "Huangshan",      emoji: "🌄", tagline: "Sea of clouds & ancient pines",               tag: "huangshan",      image: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?w=700&q=80", region: "east",      },
   { name: "Ningbo",         emoji: "⛩️", tagline: "Putuoshan island & port heritage",            tag: "ningbo",         image: "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=700&q=80",  region: "east",      },
@@ -44,29 +44,29 @@ const cities = [
   { name: "Wuhan",          emoji: "🏯", tagline: "Yellow Crane Tower & hot dry noodles",        tag: "wuhan",          image: "https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?w=700&q=80", region: "central",   },
   { name: "Zhangjiajie",    emoji: "🌁", tagline: "Avatar mountains & glass bridges",            tag: "zhangjiajie",    image: "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=700&q=80", region: "central",   },
   { name: "Fenghuang",      emoji: "🎐", tagline: "Ancient river town on stilts",               tag: "fenghuang",      image: "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=700&q=80", region: "central",   },
-  { name: "Luoyang",        emoji: "🌸", tagline: "Peony capital & Longmen Grottoes",            tag: "luoyang",        image: "https://images.unsplash.com/photo-1584992236310-6ededdc08aa2?w=700&q=80", region: "central",   },
-  { name: "Jiangxi",        emoji: "⛰️", tagline: "Lushan mountains & Jingdezhen porcelain",    tag: "jiangxi",        image: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?w=700&q=80", region: "central",   },
+  { name: "Luoyang",        emoji: "🌸", tagline: "Peony capital & Longmen Grottoes",            tag: "luoyang",        image: "https://images.unsplash.com/photo-1503174971373-b1f69850bded?w=700&q=80", region: "central",   },
+  { name: "Jiangxi",        emoji: "⛰️", tagline: "Lushan mountains & Jingdezhen porcelain",    tag: "jiangxi",        image: "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?w=700&q=80", region: "central",   },
   // South China
-  { name: "Guangzhou",      emoji: "🐉", tagline: "Cantonese cuisine & Pearl River",             tag: "guangzhou",      image: "https://images.unsplash.com/photo-1434854702235-6fe3c7e09831?w=700&q=80", region: "south",     },
+  { name: "Guangzhou",      emoji: "🐉", tagline: "Cantonese cuisine & Pearl River",             tag: "guangzhou",      image: "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?w=700&q=80", region: "south",     },
   { name: "Guilin",         emoji: "⛰️", tagline: "Karst peaks & Li River cruise",              tag: "guilin",         image: "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=700&q=80", region: "south",     },
   { name: "Gulangyu",       emoji: "🎵", tagline: "Piano island & colonial architecture",        tag: "gulangyu",       image: "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=700&q=80", region: "south",     },
-  { name: "Fujian Tulou",   emoji: "🏠", tagline: "Hakka earth buildings & rice terraces",       tag: "fujian",         image: "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=700&q=80",  region: "south",     },
+  { name: "Fujian Tulou",   emoji: "🏠", tagline: "Hakka earth buildings & rice terraces",       tag: "fujian",         image: "https://images.unsplash.com/photo-1566552881560-0be862a7c445?w=700&q=80", region: "south",     },
   { name: "Hainan",         emoji: "🏖️", tagline: "Tropical beaches & duty-free shopping",       tag: "hainan",         image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=700&q=80", region: "south",     },
   { name: "Chaoshan",       emoji: "🍜", tagline: "Teochew cuisine & Guangji Bridge",             tag: "chaoshan",       image: "https://images.unsplash.com/photo-1534430480872-3498386e7856?w=700&q=80", region: "south",     },
   // Southwest
   { name: "Chengdu",        emoji: "🐼", tagline: "Pandas, hotpot & laid-back culture",          tag: "chengdu",        image: "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=700&q=80", region: "southwest", },
-  { name: "Chongqing",      emoji: "🌶️", tagline: "Hillside mega-city & spicy hotpot",           tag: "chongqing",      image: "https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?w=700&q=80", region: "southwest", },
+  { name: "Chongqing",      emoji: "🌶️", tagline: "Hillside mega-city & spicy hotpot",           tag: "chongqing",      image: "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=700&q=80", region: "southwest", },
   { name: "Jiuzhaigou",     emoji: "💎", tagline: "Turquoise lakes & waterfalls",                tag: "jiuzhaigou",     image: "https://images.unsplash.com/photo-1504198266287-1659872e6590?w=700&q=80", region: "southwest", },
   { name: "Lijiang",        emoji: "🌸", tagline: "Naxi culture & Jade Dragon Snow Mountain",   tag: "lijiang",        image: "https://images.unsplash.com/photo-1588666309990-d68f08e3d4a6?w=700&q=80", region: "southwest", },
   { name: "Dali",           emoji: "🌊", tagline: "Ancient town by Erhai Lake",                  tag: "dali",           image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=700&q=80",  region: "southwest", },
-  { name: "Yunnan",         emoji: "🌈", tagline: "Ancient towns & mountain kingdoms",           tag: "yunnan",         image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=700&q=80",  region: "southwest", },
-  { name: "Guizhou",        emoji: "🎐", tagline: "Ethnic minority villages & waterfalls",       tag: "guizhou",        image: "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=700&q=80",  region: "southwest", },
+  { name: "Yunnan",         emoji: "🌈", tagline: "Ancient towns & mountain kingdoms",           tag: "yunnan",         image: "https://images.unsplash.com/photo-1548013146-72479768bada?w=700&q=80",  region: "southwest", },
+  { name: "Guizhou",        emoji: "🎐", tagline: "Ethnic minority villages & waterfalls",       tag: "guizhou",        image: "https://images.unsplash.com/photo-1583417267826-aebc4d1542e1?w=700&q=80",  region: "southwest", },
   { name: "Tibet",          emoji: "🏔️", tagline: "Roof of the world & Potala Palace",          tag: "tibet",          image: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=700&q=80", region: "southwest", },
   { name: "Xishuangbanna",  emoji: "🌿", tagline: "Tropical rainforest & Dai culture",           tag: "xishuangbanna",  image: "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=700&q=80", region: "southwest", },
   // Northwest
   { name: "Xi'an",          emoji: "🏺", tagline: "Terracotta Army & ancient walls",             tag: "xian",           image: "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=700&q=80",  region: "northwest", },
   { name: "Dunhuang",       emoji: "🐪", tagline: "Silk Road, dunes & Mogao Caves",              tag: "dunhuang",       image: "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=700&q=80", region: "northwest", },
-  { name: "Xinjiang",       emoji: "🌄", tagline: "Kanas lake & Silk Road landscapes",           tag: "xinjiang",       image: "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=700&q=80", region: "northwest", },
+  { name: "Xinjiang",       emoji: "🌄", tagline: "Kanas lake & Silk Road landscapes",           tag: "xinjiang",       image: "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=700&q=80", region: "northwest", },
   { name: "Qinghai",        emoji: "🦩", tagline: "Qinghai Lake & Tibetan plateau",              tag: "qinghai",        image: "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=700&q=80", region: "northwest", },
   { name: "Zhangye",        emoji: "🌈", tagline: "Rainbow Danxia landforms",                    tag: "zhangye",        image: "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=700&q=80", region: "northwest", },
 ];
