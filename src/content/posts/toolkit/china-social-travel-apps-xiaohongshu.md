@@ -10,6 +10,7 @@ tags:
   - toolkit
   - beginners
 description: "How foreign travellers can use Xiaohongshu (Little Red Book), Mafengwo, and other Chinese travel community apps to find hidden gems, read real reviews, and discover where locals actually go."
+ogImage: "https://images.unsplash.com/photo-1599202875854-23b7cd490ff4?w=900&q=80"
 ---
 
 The best travel research for China isn't on TripAdvisor or Google — it's on Chinese social platforms where millions of locals document their trips in real time. Even if you don't read Chinese, knowing how to navigate these platforms dramatically improves your trip quality. Here's how to use them as a foreigner.

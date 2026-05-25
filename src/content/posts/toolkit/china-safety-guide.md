@@ -11,6 +11,7 @@ tags:
   - solo
   - beginners
 description: "A candid, fact-based safety guide for travelling China in 2025 — petty crime, scams to avoid, health precautions, emergency numbers, and areas requiring extra caution."
+ogImage: "https://images.unsplash.com/photo-1498637841888-108c6b723fcb?w=900&q=80"
 ---
 
 China is one of the safest countries for international tourists by most measurable standards — violent crime against foreigners is exceptionally rare, and most visitors complete entire trips without a single security incident. But safety means more than avoiding danger. This guide covers everything you actually need to know.

@@ -10,6 +10,7 @@ tags:
   - nature
   - toolkit
 description: "How to explore Chinese cities and countryside by bike — from shared city bikes to multi-day cycle touring — with practical advice on renting, app setup, helmet rules, and the best cycling destinations in China."
+ogImage: "https://images.unsplash.com/photo-1476055439777-977cdf3a5699?w=900&q=80"
 ---
 
 China has more cyclists than any country on earth, and cycling infrastructure has improved dramatically over the past decade. Whether you want to explore a city neighbourhood, pedal around Hangzhou's West Lake, or take on a multi-day touring route through Yunnan, this guide gets you rolling.

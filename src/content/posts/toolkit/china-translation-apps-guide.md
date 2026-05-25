@@ -11,6 +11,7 @@ tags:
   - toolkit
   - beginners
 description: "Which translation apps actually work in China — offline and online — for reading menus, navigating signs, speaking with locals, and communicating in real situations? Tested and compared."
+ogImage: "https://images.unsplash.com/photo-1567427017947-545c5f8d16ad?w=900&q=80"
 ---
 
 You don't need to speak Mandarin to travel comfortably in China — but you do need the right translation tools. English-speaker density is high in tourist zones of major cities and near zero in rural areas and mid-sized cities. The apps you use make the difference between a frustrating communication breakdown and a successful interaction.

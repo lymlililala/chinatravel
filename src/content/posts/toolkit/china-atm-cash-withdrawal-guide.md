@@ -11,6 +11,7 @@ tags:
   - toolkit
   - beginners
 description: "Which ATMs in China accept foreign cards, how to find them, what fees to expect, and how much cash you actually need — the complete guide to withdrawing RMB as an international visitor."
+ogImage: "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=900&q=80"
 ---
 
 Despite China's reputation as the world's most cashless society, you still need some physical RMB (renminbi / yuan) as a foreign visitor — and getting it from the right ATM at the right time makes a significant difference to your costs and convenience.

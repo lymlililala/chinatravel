@@ -12,6 +12,7 @@ tags:
   - culture
   - transport
 description: "Is China safe for solo female travellers? The honest answer, with practical safety tips, accommodation advice, how to handle common situations, and why thousands of women travel China alone every year without incident."
+ogImage: "https://images.unsplash.com/photo-1501555088652-021faa106b9b?w=900&q=80"
 ---
 
 Every week, women from across the world ask the same question before their first trip to China: *is it actually safe to go alone?*

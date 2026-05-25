@@ -11,6 +11,7 @@ tags:
   - beijing
   - toolkit
 description: "How to use Beijing's subway system as a foreign visitor — buying tickets, using apps, the best lines for tourists, and which stations serve every major attraction from the Forbidden City to the Great Wall access points."
+ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=900&q=80"
 ---
 
 Beijing's metro is one of the world's most extensive subway systems — 27 lines, over 490 stations, and connections to virtually every major attraction in the city. Once you understand the system, it's the fastest, cheapest, and most stress-free way to get around the capital.

@@ -11,6 +11,7 @@ tags:
   - toolkit
   - connectivity
 description: "The definitive list of apps every international traveller needs in China — maps, transport, translation, food — plus honest advice on internet access and the Great Firewall."
+ogImage: "https://images.unsplash.com/photo-1545893835-abaa50cbe628?w=900&q=80"
 ---
 
 Your smartphone becomes your lifeline in China. This guide covers the apps you must install **before** you arrive, and explains your options for getting online — honestly, including the Great Firewall.

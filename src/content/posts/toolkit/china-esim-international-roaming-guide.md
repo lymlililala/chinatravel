@@ -11,6 +11,7 @@ tags:
   - internet
   - toolkit
 description: "How to use an eSIM or international roaming plan to stay connected in China — without queueing at airports or navigating Chinese SIM card shops. Updated options for 2025 including Airalo, Nomad, and major carrier roaming plans."
+ogImage: "https://images.unsplash.com/photo-1565120130276-dfbd9a7a3ad7?w=900&q=80"
 ---
 
 Getting a working data connection in China doesn't require visiting a Chinese mobile operator or figuring out registration requirements. eSIM technology and improved international roaming plans have made this dramatically easier — you can now set up reliable internet access before you even board your flight.

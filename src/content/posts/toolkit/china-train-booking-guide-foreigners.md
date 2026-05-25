@@ -11,6 +11,7 @@ tags:
   - toolkit
   - beginners
 description: "A plain-English guide to booking China's high-speed trains as a foreign visitor — using 12306, Trip.com, and station ticket offices, with passport registration, seat selection, and everything you need to know before your first journey."
+ogImage: "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=900&q=80"
 ---
 
 China's high-speed rail network is the largest in the world — over 45,000 kilometres of track connecting virtually every major city. Speeds reach 350 km/h on many routes. Trains are punctual, comfortable, and cheaper than flying once you factor in airport time and costs.

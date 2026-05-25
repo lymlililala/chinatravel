@@ -10,6 +10,7 @@ tags:
   - sim
   - toolkit
 description: "A realistic guide to mobile data coverage across China — which carriers have the best rural and mountain coverage, where 5G is available, and what connectivity to expect in Tibet, Xinjiang, and remote hiking areas."
+ogImage: "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=900&q=80"
 ---
 
 China has one of the world's most extensive mobile networks, but coverage isn't uniform across a country this vast and mountainous. Understanding where you'll have signal — and where you won't — helps you plan offline maps, communicate backup plans, and avoid being stranded without connectivity.

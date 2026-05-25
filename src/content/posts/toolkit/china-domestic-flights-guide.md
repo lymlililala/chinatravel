@@ -10,6 +10,7 @@ tags:
   - toolkit
   - beginners
 description: "Everything international travellers need to know about flying within China — which budget airlines are worth it, how to book as a foreigner, airport navigation tips, and when to fly vs take the train."
+ogImage: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=900&q=80"
 ---
 
 China has one of the world's busiest domestic aviation networks, with hundreds of routes connecting cities separated by terrain that would otherwise require full-day train journeys. For routes over 1,000km — or when crossing the Himalayas to Tibet — domestic flights are indispensable. Here's how to navigate China's air travel as a foreign visitor.

@@ -12,6 +12,7 @@ tags:
   - apps
   - toolkit
 description: "Beyond basic QR-code payments — how to use Alipay and WeChat Pay mini-programs to book restaurants, order food delivery, top up transit cards, and split bills as a foreign visitor in China."
+ogImage: "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=900&q=80"
 ---
 
 You've linked your foreign card to Alipay or WeChat Pay and made your first payment. Now what? These super-apps do far more than process transactions — they're your gateway to booking restaurants, accessing city services, translating menus, and navigating China's digital ecosystem as a foreigner. This guide covers the features most useful for travellers going beyond basic payments.

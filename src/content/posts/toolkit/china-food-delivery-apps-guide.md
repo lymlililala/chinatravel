@@ -10,6 +10,7 @@ tags:
   - food
   - toolkit
 description: "How to order food delivery in China as a foreign visitor using Ele.me and Meituan — setting up your address, translating menus, paying, and getting food delivered to your hotel room."
+ogImage: "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=900&q=80"
 ---
 
 China's food delivery infrastructure is extraordinary — nearly every restaurant in a city (not just fast food) offers 30-minute delivery, often at the same price as eating in. As a foreign visitor staying in a hotel or apartment, tapping into this means access to authentic local food 24 hours a day, even when your feet are tired or the weather is bad.

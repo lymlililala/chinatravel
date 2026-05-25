@@ -11,6 +11,7 @@ tags:
   - beginners
   - solo
 description: "Complete budget breakdown for travelling China in 2025 — daily costs, cheapest transport, free attractions, budget hotels, and money-saving tips that actually work."
+ogImage: "https://images.unsplash.com/photo-1565372195458-9de0b320ef04?w=900&q=80"
 ---
 
 China is one of the most affordable long-haul travel destinations in the world — if you know where to spend and where to save. This guide gives you real numbers, not guesswork.

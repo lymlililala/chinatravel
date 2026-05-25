@@ -11,6 +11,7 @@ tags:
   - shanghai
   - toolkit
 description: "A complete guide to Shanghai's metro system — 20 lines, the Maglev, how to pay, which lines serve every major attraction, and practical tips for using the metro efficiently as a first-time visitor."
+ogImage: "https://images.unsplash.com/photo-1538428494232-9c0d8a3ab403?w=900&q=80"
 ---
 
 Shanghai's metro is the world's longest subway system by total track length, yet it's remarkably intuitive to navigate. Clear English signage, multiple payment options, and a network that reaches virtually every tourist destination make it the backbone of getting around the city.

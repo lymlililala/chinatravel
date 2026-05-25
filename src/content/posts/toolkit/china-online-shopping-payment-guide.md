@@ -11,6 +11,7 @@ tags:
   - apps
   - toolkit
 description: "How to shop on Chinese e-commerce platforms as an international visitor — from setting up Taobao to paying at hotel checkouts online — with tips on delivery to hotels and navigating Chinese-language checkout pages."
+ogImage: "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=900&q=80"
 ---
 
 China's e-commerce ecosystem is the world's largest, and as a visitor you can tap into it for everything from last-minute camping gear to silk souvenirs at prices far below tourist-area shops. Here's how to navigate it as a foreigner with a non-Chinese payment method.

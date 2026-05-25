@@ -12,6 +12,7 @@ tags:
   - apps
   - toolkit
 description: "A complete guide to every payment method for Chinese metro systems — which app to use in which city, how to set up metro QR codes via Alipay and WeChat, transit card options, and how to avoid getting stuck at the turnstile."
+ogImage: "https://images.unsplash.com/photo-1535338454770-8be927b5a00b?w=900&q=80"
 ---
 
 Getting through a Chinese metro turnstile without delay — especially when 50 people are queuing behind you — requires knowing exactly which payment method to use before you arrive at the gate. This guide explains every option, city by city, and gets you set up before you leave your hotel.

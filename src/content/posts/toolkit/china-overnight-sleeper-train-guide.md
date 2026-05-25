@@ -10,6 +10,7 @@ tags:
   - toolkit
   - beginners
 description: "Everything you need to know about overnight sleeper trains in China — the difference between hard and soft sleeper, how to book as a foreigner, what to pack, and which routes are worth taking."
+ogImage: "https://images.unsplash.com/photo-1474487548417-781cb71495f3?w=900&q=80"
 ---
 
 Overnight sleeper trains are one of China's great travel experiences — falling asleep in one city and waking up in another, having saved a night's accommodation costs while covering hundreds of kilometres. They're comfortable, affordable, and give you a window into how Chinese people travel. Here's everything you need to know.

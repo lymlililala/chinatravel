@@ -10,6 +10,7 @@ tags:
   - chongqing
   - destinations
 description: "Everything you need to know about the Yangtze Three Gorges river cruise — from Chongqing downstream to Yichang (or reverse). Ship classes, booking platforms, what's included, the Three Gorges Dam, and how to choose between a 3-day or 5-day itinerary."
+ogImage: "https://images.unsplash.com/photo-1530789253388-582c481c54b0?w=900&q=80"
 ---
 
 The Yangtze River cruise through the Three Gorges (三峡) is one of China's iconic journeys — 300km of river canyon passing through towering limestone cliffs, ancient Ba Kingdom hanging coffin sites, lesser gorges of the Shennong Stream, and the extraordinary scale of the Three Gorges Dam. It's also one of the most misunderstood travel experiences in China: easy to do badly (tourist-trap boat, rushed day tours), excellent when done well.

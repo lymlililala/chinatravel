@@ -11,6 +11,7 @@ tags:
   - metro
   - toolkit
 description: "China's high-speed rail network is the world's largest. Here is exactly how to book tickets, navigate stations, and travel between cities like a local — even without Mandarin."
+ogImage: "https://images.unsplash.com/photo-1515658323406-25d61c141a6e?w=900&q=80"
 ---
 
 China's transport infrastructure is genuinely world-class. The high-speed rail network covers almost every major city, metros are fast and cheap, and ride-hailing apps mean taxis are a tap away. This guide covers everything you need to move around confidently.

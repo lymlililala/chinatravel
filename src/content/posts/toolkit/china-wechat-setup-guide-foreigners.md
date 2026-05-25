@@ -11,6 +11,7 @@ tags:
   - toolkit
   - beginners
 description: "A complete guide to setting up WeChat as a foreign visitor — registration without a Chinese phone number, account verification, setting up WeChat Pay, and the features that make it essential for travel in China."
+ogImage: "https://images.unsplash.com/photo-1606189934846-a527add8a77b?w=900&q=80"
 ---
 
 WeChat is not optional in China — it's the infrastructure that the country's digital life runs on. Restaurant menus, museum ticket booking, customer service contact, official tourist information, and countless other services are accessible only through WeChat. This guide gets you set up properly before you arrive.

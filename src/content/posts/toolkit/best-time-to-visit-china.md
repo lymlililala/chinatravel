@@ -12,6 +12,7 @@ tags:
   - nature
   - outdoors
 description: "When is the best time to visit China? A practical breakdown by month, region, and travel goal — covering Beijing, Shanghai, Chengdu, Guilin, Tibet, and more, with crowd levels, weather, and the public holidays that move millions of people."
+ogImage: "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=900&q=80"
 ---
 
 China is a country roughly the size of the United States or Europe. The "best time to visit" answer varies enormously depending on where you are going, what you want to do, and how much you mind crowds. This guide breaks it down honestly, region by region and month by month.

@@ -11,6 +11,7 @@ tags:
   - xinjiang
   - destinations
 description: "The definitive guide to travelling China's Silk Road from Xi'an to Kashgar — by train, bus, and flight. Covering Luoyang, Dunhuang, Turpan, Urumqi, and Kashgar, with day-by-day itinerary, transport options, permits, and accommodation."
+ogImage: "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=900&q=80"
 ---
 
 The ancient Silk Road — the network of trade routes connecting China to Central Asia, Persia, and Rome — is one of history's great journeys. The Chinese section, stretching from the ancient capital Xi'an westward through the Gobi Desert to Kashgar near the modern Kyrgyzstan border, passes through some of the world's most compelling historical and natural landscapes. This guide covers a realistic 12–16 day journey following this route.

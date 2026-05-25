@@ -11,6 +11,7 @@ tags:
   - toolkit
   - safety
 description: "Essential metro safety rules, unspoken etiquette norms, and practical survival tips for navigating China's subway systems as a foreign visitor — from security checks to rush hour survival."
+ogImage: "https://images.unsplash.com/photo-1501554728187-ce583db33af7?w=900&q=80"
 ---
 
 Understanding how to behave on a Chinese metro — and what to watch out for — makes the difference between a stressful, confusing experience and a smooth, efficient one. This guide covers the practical and cultural rules that guidebooks often overlook.

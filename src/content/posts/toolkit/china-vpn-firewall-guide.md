@@ -11,6 +11,7 @@ tags:
   - apps
   - toolkit
 description: "An honest, practical guide to internet censorship in China — what's blocked, which VPNs actually work in 2025, how to set one up before you arrive, and how to stay connected without relying solely on a VPN."
+ogImage: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=900&q=80"
 ---
 
 China's internet filtering system — commonly called the Great Firewall — blocks access to Google, YouTube, Instagram, Facebook, WhatsApp, X (Twitter), and thousands of other services. This guide explains what's affected, what solutions actually work, and how to prepare before you land.

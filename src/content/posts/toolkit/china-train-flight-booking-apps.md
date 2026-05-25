@@ -10,6 +10,7 @@ tags:
   - transport
   - toolkit
 description: "How to book China high-speed train tickets and domestic flights using the best apps for foreign visitors — including 12306, Trip.com, and Fliggy — with step-by-step setup and ticket collection instructions."
+ogImage: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=900&q=80"
 ---
 
 Booking transport in China as a foreigner has become much easier since 2023, but it still requires navigating a few app-specific quirks. This guide covers every practical method for securing train and flight tickets without a Chinese ID card.

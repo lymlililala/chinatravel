@@ -10,6 +10,7 @@ tags:
   - money
   - toolkit
 description: "A practical comparison of how Visa, Mastercard, and UnionPay foreign cards work in China — at ATMs, hotel checkouts, point-of-sale terminals, and online — with tips for avoiding transaction failures."
+ogImage: "https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?w=900&q=80"
 ---
 
 Knowing which payment cards work in China — and where — prevents the frustration of a declined payment at exactly the wrong moment. China's banking and payment infrastructure has specific quirks for foreign cards that are worth understanding before your trip.

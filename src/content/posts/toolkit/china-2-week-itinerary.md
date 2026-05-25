@@ -15,6 +15,7 @@ tags:
   - transport
   - culture
 description: "The definitive 14-day China itinerary covering Beijing, Xi'an, Chengdu, and Shanghai — with exact train connections, daily budgets, booking tips, and honest advice for independent travellers doing it without a tour group."
+ogImage: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=900&q=80"
 ---
 
 Two weeks is the sweet spot for a first visit to China. It is long enough to experience four genuinely different cities — imperial Beijing, ancient Xi'an, laid-back Chengdu, and cosmopolitan Shanghai — without feeling rushed. It is short enough to keep costs under control and maintain a healthy pace.

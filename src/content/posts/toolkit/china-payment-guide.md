@@ -12,6 +12,7 @@ tags:
   - wechat
   - toolkit
 description: "China is nearly cashless — here is exactly how to link your foreign Visa/Mastercard to Alipay and WeChat Pay so you can pay everywhere from street stalls to five-star restaurants."
+ogImage: "https://images.unsplash.com/photo-1556742111-a301076d9d18?w=900&q=80"
 ---
 
 China has become one of the world's most cashless societies. In many cities, street food vendors, supermarkets, taxis, and even small temples only accept **Alipay (支付宝)** or **WeChat Pay (微信支付)**. As a foreigner, navigating this system used to be tricky — but since 2023, both platforms have made it much easier to link a foreign credit or debit card.

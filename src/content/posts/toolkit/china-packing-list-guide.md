@@ -11,6 +11,7 @@ tags:
   - beginners
   - planning
 description: "The definitive packing list for travelling China — from electronics and documents to clothing, medicine, and the things you genuinely can't buy locally."
+ogImage: "https://images.unsplash.com/photo-1491555103944-7c647fd857e6?w=900&q=80"
 ---
 
 Packing for China requires a different mindset than most destinations. Some Western staples are impossible to find; many things you'd pack for other trips you can buy for next to nothing on arrival. Here's what actually matters.

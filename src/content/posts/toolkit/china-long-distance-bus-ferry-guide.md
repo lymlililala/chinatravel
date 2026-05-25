@@ -9,6 +9,7 @@ tags:
   - transport
   - toolkit
 description: "When the train doesn't go there — a practical guide to long-distance buses, sleeper coaches, and ferry services in China that reach destinations the high-speed network misses, including remote villages and island crossings."
+ogImage: "https://images.unsplash.com/photo-1530789253388-582c481c54b0?w=900&q=80"
 ---
 
 China's high-speed rail network is impressive, but it reaches fewer than 400 cities. Beyond those hubs lies a vast network of long-distance buses, scenic ferry routes, and rural minibuses that are essential for reaching some of the country's most rewarding destinations. This guide covers everything you need to know to use them comfortably as a foreigner.

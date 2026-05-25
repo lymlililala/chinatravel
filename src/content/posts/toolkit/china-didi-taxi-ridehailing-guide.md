@@ -10,6 +10,7 @@ tags:
   - apps
   - toolkit
 description: "How to use DiDi ride-hailing in China as a foreigner, plus a practical guide to flagging taxis, negotiating scams, and getting safely from airports to your hotel in any Chinese city."
+ogImage: "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=900&q=80"
 ---
 
 Getting between your hotel and anywhere else in a Chinese city is straightforward once you know the tools. DiDi — China's dominant ride-hailing app — handles 90% of situations, with traditional taxis as a reliable backup and a few special cases where other options apply.
