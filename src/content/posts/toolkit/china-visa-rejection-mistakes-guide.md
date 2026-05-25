@@ -10,6 +10,7 @@ tags:
   - entry
   - toolkit
 description: "The most common reasons China tourist and business visas get rejected, with specific fixes for each problem — from incomplete documentation to previous overstays and travel history red flags."
+ogImage: "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=900&q=80"
 ---
 
 A rejected China visa application is frustrating, but it's almost always preventable. Chinese consulates are generally systematic about what they need, and most rejections come down to a handful of recurring mistakes. This guide identifies every common rejection reason — and exactly how to fix each one before you reapply.

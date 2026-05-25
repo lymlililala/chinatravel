@@ -11,6 +11,7 @@ tags:
   - toolkit
   - beginners
 description: "A practical walkthrough of China's port-of-entry procedures — from landing to collecting your luggage — including arrival cards, biometrics, customs, and registration rules for foreign visitors."
+ogImage: "https://images.unsplash.com/photo-1578574577315-3fbeb0cecdc2?w=900&q=80"
 ---
 
 Your plane touches down in China. The landing card you expected isn't distributed on the flight. The immigration queue stretches further than you imagined. This guide walks you through every step, so you arrive prepared and get through arrivals without drama.

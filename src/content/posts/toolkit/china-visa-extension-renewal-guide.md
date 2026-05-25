@@ -10,6 +10,7 @@ tags:
   - entry
   - toolkit
 description: "Need more time in China? Here's exactly how to extend a tourist or residence visa at a Public Security Bureau office — documents required, common pitfalls, and which cities have the most foreigner-friendly process."
+ogImage: "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=900&q=80"
 ---
 
 You planned three weeks in China but fell in love with a place and want to stay longer. Or a work project ran over. Or typhoon season disrupted your flight schedule. Whatever the reason, extending your visa is possible — but it requires navigating China's bureaucratic system with the right preparation.

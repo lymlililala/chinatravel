@@ -10,6 +10,7 @@ tags:
   - entry
   - toolkit
 description: "A complete breakdown of every China visa category — tourist, business, student, family — with exact document requirements, processing times, and which type suits your trip."
+ogImage: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=900&q=80"
 ---
 
 Choosing the wrong visa type is one of the most common — and frustrating — mistakes travellers make when planning a China trip. The Chinese visa system uses single-letter categories, each covering a different purpose of visit. Getting this right from the start saves you rejected applications, wasted fees, and delayed travel plans.

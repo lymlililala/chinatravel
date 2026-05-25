@@ -10,6 +10,7 @@ tags:
   - entry
   - toolkit
 description: "Which passports can enter China without a visa in 2025–2026? The complete, up-to-date list of visa-free and visa-on-arrival eligible countries, with stay lengths, conditions, and what's changed recently."
+ogImage: "https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=900&q=80"
 ---
 
 China's visa-free access programme has expanded faster in 2024–2025 than at any point in the country's modern history. New bilateral agreements are signed regularly, and the existing 15-day and 30-day schemes continue to add nationalities. This guide compiles the current state of visa-free access as of mid-2026 — along with practical guidance on how to take advantage of it.

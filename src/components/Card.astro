@@ -18,9 +18,9 @@ const postUrl = getPostUrl(id, filePath, Astro.currentLocale);
 const thumbnailMap: Record<string, string> = {
   // ── NORTH CHINA ──
   beijing:        "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=600&q=80",  // Great Wall autumn
-  pingyao:        "https://images.unsplash.com/photo-1547245324-d777f6f3956b?w=600&q=80",    // Pingyao city wall
-  shanxi:         "https://images.unsplash.com/photo-1547245324-d777f6f3956b?w=600&q=80",    // Shanxi ancient city
-  datong:         "https://images.unsplash.com/photo-1584992236310-6ededdc08aa2?w=600&q=80",  // Yungang cave Buddha
+  pingyao:        "https://images.unsplash.com/photo-1570797197190-8e003a00c846?w=600&q=80",    // Pingyao ancient wall at night
+  shanxi:         "https://images.unsplash.com/photo-1570797197190-8e003a00c846?w=600&q=80",    // Shanxi ancient city
+  datong:         "https://images.unsplash.com/photo-1503174971373-b1f69850bded?w=600&q=80",  // Temple / stone sculpture
   hebei:          "https://images.unsplash.com/photo-1570168007204-dfb528c6958f?w=600&q=80",  // Chengde mountain resort
   chengde:        "https://images.unsplash.com/photo-1570168007204-dfb528c6958f?w=600&q=80",  // Chengde summer palace
   tianjin:        "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=600&q=80",  // European colonial street
@@ -46,9 +46,9 @@ const thumbnailMap: Record<string, string> = {
   wenzhou:        "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?w=600&q=80",  // Yandang mountain
   zhejiang:       "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86?w=600&q=80",  // West Lake / Zhejiang
   huangshan:      "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?w=600&q=80",  // Yellow Mountain clouds
-  anhui:          "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=600&q=80",    // Hongcun village
-  hongcun:        "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=600&q=80",    // Hongcun reflection
-  xidi:           "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=600&q=80",    // Huizhou village
+  anhui:          "https://images.unsplash.com/photo-1583417267826-aebc4d1542e1?w=600&q=80",    // Anhui village rice terraces
+  hongcun:        "https://images.unsplash.com/photo-1583417267826-aebc4d1542e1?w=600&q=80",    // Hongcun village
+  xidi:           "https://images.unsplash.com/photo-1583417267826-aebc4d1542e1?w=600&q=80",    // Huizhou village
   // ── CENTRAL CHINA ──
   wuhan:          "https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?w=600&q=80",  // Yellow Crane Tower
   hubei:          "https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?w=600&q=80",  // Yellow Crane Tower night
@@ -56,18 +56,18 @@ const thumbnailMap: Record<string, string> = {
   fenghuang:      "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=600&q=80",  // Fenghuang river town
   hunan:          "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=600&q=80",  // Zhangjiajie / Hunan
   zhangjiajie:    "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=600&q=80",  // Zhangjiajie pillars
-  zhengzhou:      "https://images.unsplash.com/photo-1584992236310-6ededdc08aa2?w=600&q=80",  // Longmen Buddha
-  luoyang:        "https://images.unsplash.com/photo-1584992236310-6ededdc08aa2?w=600&q=80",  // Longmen Grottoes
+  zhengzhou:      "https://images.unsplash.com/photo-1503174971373-b1f69850bded?w=600&q=80",  // Ancient stone grottoes
+  luoyang:        "https://images.unsplash.com/photo-1503174971373-b1f69850bded?w=600&q=80",  // Longmen Grottoes
   henan:          "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=600&q=80",    // Historical culture
   jiangxi:        "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?w=600&q=80",  // Lushan mountains
   // ── SOUTH CHINA ──
-  guangzhou:      "https://images.unsplash.com/photo-1434854702235-6fe3c7e09831?w=600&q=80",  // Pearl River city
-  guangdong:      "https://images.unsplash.com/photo-1434854702235-6fe3c7e09831?w=600&q=80",  // Guangdong skyline
+  guangzhou:      "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?w=600&q=80",  // Guangzhou city skyline
+  guangdong:      "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?w=600&q=80",  // Guangdong skyline
   chaozhou:       "https://images.unsplash.com/photo-1534430480872-3498386e7856?w=600&q=80",  // Guangji bridge
   chaoshan:       "https://images.unsplash.com/photo-1534430480872-3498386e7856?w=600&q=80",  // Chaoshan bridge
   gulangyu:       "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=600&q=80",  // Gulangyu island
-  fujian:         "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=600&q=80",    // Tulou earth buildings
-  tulou:          "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=600&q=80",    // Circular tulou
+  fujian:         "https://images.unsplash.com/photo-1566552881560-0be862a7c445?w=600&q=80",    // Fujian Tulou earth buildings
+  tulou:          "https://images.unsplash.com/photo-1566552881560-0be862a7c445?w=600&q=80",    // Circular tulou
   fuzhou:         "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=600&q=80",  // Fuzhou
   guilin:         "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=600&q=80",  // Li River karst peaks
   guangxi:        "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=600&q=80",  // Karst landscape
@@ -81,9 +81,9 @@ const thumbnailMap: Record<string, string> = {
   jiuzhaigou:     "https://images.unsplash.com/photo-1504198266287-1659872e6590?w=600&q=80",  // Turquoise lake
   emei:           "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=600&q=80",  // Emei/Leshan Buddha
   leshan:         "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=600&q=80",  // Giant Buddha
-  guizhou:        "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=600&q=80",    // Minority village
+  guizhou:        "https://images.unsplash.com/photo-1583417267826-aebc4d1542e1?w=600&q=80",    // Guizhou terraces & waterfalls
   qiandongnan:    "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=600&q=80",  // Dong village towers
-  yunnan:         "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80",    // Dali / Yunnan
+  yunnan:         "https://images.unsplash.com/photo-1548013146-72479768bada?w=600&q=80",    // Yunnan landscapes
   lijiang:        "https://images.unsplash.com/photo-1588666309990-d68f08e3d4a6?w=600&q=80",  // Lijiang old town
   dali:           "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80",    // Dali old town
   xishuangbanna:  "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=600&q=80",  // Tropical forest
@@ -116,7 +116,7 @@ const thumbnailMap: Record<string, string> = {
   shaolin:        "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=600&q=80",    // Shaolin temple
   wudang:         "https://images.unsplash.com/photo-1525362081669-2b476bb628c3?w=600&q=80",  // Wudang cliffside
   jingdezhen:     "https://images.unsplash.com/photo-1565799557576-91c5c4c8e2ef?w=600&q=80",  // Ceramics
-  wuyuan:         "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=600&q=80",    // Rapeseed fields + village
+  wuyuan:         "https://images.unsplash.com/photo-1583417267826-aebc4d1542e1?w=600&q=80",    // Wuyuan village & fields
   lushan:         "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=600&q=80",  // Mount Lu mist
   putuoshan:      "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=600&q=80",    // Sacred island temple
   shenzhen:       "https://images.unsplash.com/photo-1617870952348-7524edfb61b7?w=600&q=80",  // Shenzhen skyline
@@ -136,7 +136,7 @@ const thumbnailMap: Record<string, string> = {
   jiayuguan:      "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=600&q=80",  // Great wall desert end
   // ── PRACTICAL / TOOLKIT TOPICS ──
   visa:           "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=600&q=80",  // Passport & airplane
-  entry:          "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=600&q=80",  // Passport / border
+  entry:          "https://images.unsplash.com/photo-1423592707957-3b212afa6733?w=600&q=80",  // Airport terminal / arrivals
   payment:        "https://images.unsplash.com/photo-1556742111-a301076d9d18?w=600&q=80",    // Mobile payment QR
   money:          "https://images.unsplash.com/photo-1556742111-a301076d9d18?w=600&q=80",    // Money / payment
   alipay:         "https://images.unsplash.com/photo-1556742111-a301076d9d18?w=600&q=80",    // Alipay QR
@@ -148,7 +148,7 @@ const thumbnailMap: Record<string, string> = {
   vpn:            "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=80",    // VPN / internet
   wifi:           "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",  // WiFi symbol
   cycling:        "https://images.unsplash.com/photo-1476055439777-977cdf3a5699?w=600&q=80",  // Cycling
-  flights:        "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=600&q=80",  // Airplane
+  flights:        "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&q=80",  // Airplane boarding gate
   ridehailing:    "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=600&q=80",  // Taxi
   ferry:          "https://images.unsplash.com/photo-1530789253388-582c481c54b0?w=600&q=80",  // Ferry / boat
   sleeper:        "https://images.unsplash.com/photo-1515658323406-25d61c141a6e?w=600&q=80",  // Train sleeper
@@ -180,12 +180,12 @@ const thumbnailMap: Record<string, string> = {
   diving:         "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=600&q=80",    // Underwater coral
   snorkeling:     "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=600&q=80",    // Tropical sea
   pilgrimage:     "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=600&q=80",  // Sacred mountain
-  minorities:     "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=600&q=80",    // Village culture
+  minorities:     "https://images.unsplash.com/photo-1583417267826-aebc4d1542e1?w=600&q=80",    // Ethnic minority village
   festivals:      "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=600&q=80",  // Festival lights
   cruise:         "https://images.unsplash.com/photo-1530789253388-582c481c54b0?w=600&q=80",  // River cruise
   river:          "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=600&q=80",  // River landscape
   tea:            "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&q=80",    // Tea plantation
-  village:        "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=600&q=80",    // Ancient village
+  village:        "https://images.unsplash.com/photo-1566552881560-0be862a7c445?w=600&q=80",    // Ancient village (tulou)
   ancient:        "https://images.unsplash.com/photo-1508804052814-cd3ba865a116?w=600&q=80",  // Ancient heritage
   architecture:   "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=600&q=80",  // Architecture
   hotpot:         "https://images.unsplash.com/photo-1563245372-f21724e3856d?w=600&q=80",    // Hotpot food
@@ -196,10 +196,16 @@ const thumbnailMap: Record<string, string> = {
 };
 
 const firstTag = (tags?.[0] ?? "").toLowerCase().replace(/[^a-z]/g, "");
-const thumbnail =
+const tagThumbnail =
   thumbnailMap[firstTag] ??
   thumbnailMap[Object.keys(thumbnailMap).find(k => title.toLowerCase().includes(k)) ?? ""] ??
   "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=600&q=80";
+
+// Prefer article's own ogImage (string URL) over the tag-based map
+const { ogImage } = data;
+const thumbnail = (typeof ogImage === "string" && ogImage.startsWith("http"))
+  ? ogImage
+  : tagThumbnail;
 
 const category = tags?.[0] ?? "";
 
