@@ -1,31 +1,24 @@
 import { getRelativeLocaleUrl } from "astro:i18n";
-import { BLOG_PATH } from "@/content.config";
 import { slugifyStr } from "./slugify";
 import config from "@/config";
 
-function getPostPathSegments(filePath: string | undefined): string[] {
-  return (
-    filePath
-      ?.replace(BLOG_PATH, "")
-      .split("/")
-      .filter(path => path !== "")
-      .filter(path => !path.startsWith("_"))
-      .slice(0, -1)
-      .map(segment => slugifyStr(segment)) ?? []
-  );
-}
-
-function getIdSlug(id: string): string {
-  const postId = id.split("/");
-  return postId.length > 0 ? String(postId[postId.length - 1]) : id;
-}
-
-function getPostSlugPath(id: string, filePath: string | undefined): string {
-  const pathSegments = getPostPathSegments(filePath);
-  const slug = getIdSlug(id);
-  return pathSegments.length > 0
-    ? [...pathSegments, slug].join("/")
-    : String(slug);
+/**
+ * Derive the URL slug path directly from the collection `id`.
+ * Astro's glob loader sets `id` to the relative path inside the
+ * collection base, e.g. "toolkit/china-visa-entry-guide" or
+ * "destinations/beijing". Each segment is slugified individually so
+ * the result is URL-safe.
+ *
+ * Using `id` (always a clean relative path) instead of `filePath`
+ * (which can be an absolute path at build time) avoids the fragile
+ * string replace that previously broke sub-directory routing.
+ */
+function getPostSlugPath(id: string, _filePath?: string | undefined): string {
+  return id
+    .split("/")
+    .filter(seg => seg !== "" && !seg.startsWith("_"))
+    .map(seg => slugifyStr(seg))
+    .join("/");
 }
 
 /**
