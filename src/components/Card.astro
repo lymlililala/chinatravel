@@ -17,80 +17,80 @@ const postUrl = getPostUrl(id, filePath, Astro.currentLocale);
 // Thumbnail map — all URLs verified accessible as of 2026-05
 const thumbnailMap: Record<string, string> = {
   // ── NORTH CHINA ──
-  beijing:        "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=600&q=80",  // Great Wall autumn
-  pingyao:        "https://images.unsplash.com/photo-1570797197190-8e003a00c846?w=600&q=80",    // Pingyao ancient wall at night
-  shanxi:         "https://images.unsplash.com/photo-1570797197190-8e003a00c846?w=600&q=80",    // Shanxi ancient city
-  datong:         "https://images.unsplash.com/photo-1503174971373-b1f69850bded?w=600&q=80",  // Temple / stone sculpture
+  beijing:        "/destinations/beijing.jpg",  // Great Wall autumn
+  pingyao:        "/destinations/pingyao.jpg",    // Pingyao ancient wall at night
+  shanxi:         "/destinations/pingyao.jpg",    // Shanxi ancient city
+  datong:         "/destinations/luoyang.jpg",  // Temple / stone sculpture
   hebei:          "https://images.unsplash.com/photo-1570168007204-dfb528c6958f?w=600&q=80",  // Chengde mountain resort
   chengde:        "https://images.unsplash.com/photo-1570168007204-dfb528c6958f?w=600&q=80",  // Chengde summer palace
-  tianjin:        "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=600&q=80",  // European colonial street
+  tianjin:        "/destinations/tianjin.jpg",  // European colonial street
   // Inner Mongolia
   innermongolia:  "https://images.unsplash.com/photo-1531761535209-180857e963b9?w=600&q=80",  // Hulunbuir grassland
   hulunbuir:      "https://images.unsplash.com/photo-1531761535209-180857e963b9?w=600&q=80",  // Grassland & horses
   // ── NORTHEAST ──
-  harbin:         "https://images.unsplash.com/photo-1578894381163-e72c17f2d45f?w=600&q=80",  // Ice and Snow World
+  harbin:         "/destinations/harbin.jpg",  // Ice and Snow World
   jilin:          "https://images.unsplash.com/photo-1548013146-72479768bada?w=600&q=80",    // Rime ice trees
-  dalian:         "https://images.unsplash.com/photo-1519451241324-20b4ea2c4220?w=600&q=80",  // Dalian coastal scenery
-  shenyang:       "https://images.unsplash.com/photo-1570797197190-8e003a00c846?w=600&q=80",  // Shenyang Imperial Palace
-  changbai:       "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=600&q=80",  // Changbai mountain lake
+  dalian:         "/destinations/dalian.jpg",  // Dalian coastal scenery
+  shenyang:       "/destinations/pingyao.jpg",  // Shenyang Imperial Palace
+  changbai:       "/destinations/changbai.jpg",  // Changbai mountain lake
   // ── EAST CHINA ──
-  shanghai:       "https://images.unsplash.com/photo-1538428494232-9c0d8a3ab403?w=600&q=80",  // Bund & Pudong skyline
-  hangzhou:       "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86?w=600&q=80",  // West Lake mist
-  qingdao:        "https://images.unsplash.com/photo-1474487548417-781cb71495f3?w=600&q=80",  // Qingdao coastal landscape
+  shanghai:       "/destinations/shanghai.jpg",  // Bund & Pudong skyline
+  hangzhou:       "/destinations/hangzhou.jpg",  // West Lake mist
+  qingdao:        "/destinations/qingdao.jpg",  // Qingdao coastal landscape
   shandong:       "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=600&q=80",    // Qufu/culture heritage
   qufu:           "https://images.unsplash.com/photo-1570168007204-dfb528c6958f?w=600&q=80",  // Kong Temple cypress
-  yangzhou:       "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86?w=600&q=80",  // Slender West Lake
-  jiangsu:        "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86?w=600&q=80",  // Garden / lake
-  ningbo:         "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=600&q=80",    // Putuoshan temple
-  zhoushan:       "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=600&q=80",    // Sacred island
-  wenzhou:        "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?w=600&q=80",  // Yandang mountain
-  zhejiang:       "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86?w=600&q=80",  // West Lake / Zhejiang
-  huangshan:      "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?w=600&q=80",  // Yellow Mountain clouds
+  yangzhou:       "/destinations/hangzhou.jpg",  // Slender West Lake
+  jiangsu:        "/destinations/hangzhou.jpg",  // Garden / lake
+  ningbo:         "/destinations/jiangxi.jpg",    // Putuoshan temple
+  zhoushan:       "/destinations/jiangxi.jpg",    // Sacred island
+  wenzhou:        "/destinations/jiangxi.jpg",  // Yandang mountain
+  zhejiang:       "/destinations/hangzhou.jpg",  // West Lake / Zhejiang
+  huangshan:      "/destinations/huangshan.jpg",  // Yellow Mountain clouds
   anhui:          "/destinations/anhui.jpg",          // Hongcun village, Anhui
   hongcun:        "/destinations/anhui.jpg",          // Hongcun village pond
   xidi:           "/destinations/xidi.jpg",           // Xidi ancient village, Anhui
   // ── CENTRAL CHINA ──
-  wuhan:          "https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?w=600&q=80",  // Yellow Crane Tower
-  hubei:          "https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?w=600&q=80",  // Yellow Crane Tower night
-  changsha:       "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=600&q=80",  // Fenghuang stilt houses
-  fenghuang:      "https://images.unsplash.com/photo-1596204976717-1a9ff47f74ef?w=600&q=80",  // Fenghuang ancient river town
-  hunan:          "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=600&q=80",  // Zhangjiajie / Hunan
-  zhangjiajie:    "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=600&q=80",  // Zhangjiajie pillars
-  zhengzhou:      "https://images.unsplash.com/photo-1503174971373-b1f69850bded?w=600&q=80",  // Ancient stone grottoes
-  luoyang:        "https://images.unsplash.com/photo-1503174971373-b1f69850bded?w=600&q=80",  // Longmen Grottoes
+  wuhan:          "/destinations/wuhan.jpg",  // Yellow Crane Tower
+  hubei:          "/destinations/wuhan.jpg",  // Yellow Crane Tower night
+  changsha:       "/destinations/zhangjiajie.jpg",  // Fenghuang stilt houses
+  fenghuang:      "/destinations/fenghuang.jpg",  // Fenghuang ancient river town
+  hunan:          "/destinations/zhangjiajie.jpg",  // Zhangjiajie / Hunan
+  zhangjiajie:    "/destinations/zhangjiajie.jpg",  // Zhangjiajie pillars
+  zhengzhou:      "/destinations/luoyang.jpg",  // Ancient stone grottoes
+  luoyang:        "/destinations/luoyang.jpg",  // Longmen Grottoes
   henan:          "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=600&q=80",    // Historical culture
-  jiangxi:        "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?w=600&q=80",  // Lushan mountains
+  jiangxi:        "/destinations/jiangxi.jpg",  // Lushan mountains
   // ── SOUTH CHINA ──
-  guangzhou:      "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?w=600&q=80",  // Guangzhou city skyline
-  guangdong:      "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?w=600&q=80",  // Guangdong skyline
-  chaozhou:       "https://images.unsplash.com/photo-1534430480872-3498386e7856?w=600&q=80",  // Guangji bridge
-  chaoshan:       "https://images.unsplash.com/photo-1534430480872-3498386e7856?w=600&q=80",  // Chaoshan bridge
-  gulangyu:       "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=600&q=80",  // Gulangyu island scenery
+  guangzhou:      "/destinations/guangzhou.jpg",  // Guangzhou city skyline
+  guangdong:      "/destinations/guangzhou.jpg",  // Guangdong skyline
+  chaozhou:       "/destinations/chaoshan.jpg",  // Guangji bridge
+  chaoshan:       "/destinations/chaoshan.jpg",  // Chaoshan bridge
+  gulangyu:       "/destinations/gulangyu.jpg",  // Gulangyu island scenery
   fujian:         "https://images.unsplash.com/photo-1566552881560-0be862a7c445?w=600&q=80",    // Fujian Tulou earth buildings
   tulou:          "https://images.unsplash.com/photo-1566552881560-0be862a7c445?w=600&q=80",    // Circular tulou
   fuzhou:         "/destinations/fuzhou.jpg",         // Fuzhou Three Lanes Seven Alleys
-  guilin:         "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=600&q=80",  // Guilin Li River karst
-  guangxi:        "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=600&q=80",  // Guangxi karst landscape
-  longji:         "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=600&q=80",  // Longji rice terraces
-  hainan:         "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&q=80",  // Tropical beach
-  sanya:          "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&q=80",  // Beach
+  guilin:         "/destinations/guilin.jpg",  // Guilin Li River karst
+  guangxi:        "/destinations/guilin.jpg",  // Guangxi karst landscape
+  longji:         "/destinations/guilin.jpg",  // Longji rice terraces
+  hainan:         "/destinations/hainan.jpg",  // Tropical beach
+  sanya:          "/destinations/hainan.jpg",  // Beach
   // ── SOUTHWEST ──
-  chongqing:      "https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?w=600&q=80",  // Hongya Cave night
-  chengdu:        "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=600&q=80",  // Giant panda
-  sichuan:        "https://images.unsplash.com/photo-1504198266287-1659872e6590?w=600&q=80",  // Jiuzhaigou
-  jiuzhaigou:     "https://images.unsplash.com/photo-1504198266287-1659872e6590?w=600&q=80",  // Turquoise lake
-  emei:           "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=600&q=80",  // Emei/Leshan Buddha
-  leshan:         "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=600&q=80",  // Giant Buddha
+  chongqing:      "/destinations/chongqing.jpg",  // Hongya Cave night
+  chengdu:        "/destinations/chengdu.jpg",  // Giant panda
+  sichuan:        "/destinations/jiuzhaigou.jpg",  // Jiuzhaigou
+  jiuzhaigou:     "/destinations/jiuzhaigou.jpg",  // Turquoise lake
+  emei:           "/destinations/chengdu.jpg",  // Emei/Leshan Buddha
+  leshan:         "/destinations/chengdu.jpg",  // Giant Buddha
   guizhou:        "/destinations/guizhou.jpg",         // Guizhou Huangguoshu Waterfall
-  qiandongnan:    "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=600&q=80",  // Dong village towers
+  qiandongnan:    "/destinations/guizhou.jpg",  // Dong village towers
   yunnan:         "/destinations/yunnan.jpg",          // Tiger Leaping Gorge, Yunnan
-  lijiang:        "https://images.unsplash.com/photo-1588666309990-d68f08e3d4a6?w=600&q=80",  // Lijiang old town
+  lijiang:        "/destinations/lijiang.jpg",  // Lijiang old town
   dali:           "/destinations/dali.jpg",            // Dali Three Pagodas
   xishuangbanna:  "/destinations/xishuangbanna.jpg",   // Xishuangbanna landscape
   yuanyang:       "/destinations/yunnan.jpg",          // Yuanyang / Yunnan landscape
   kunming:        "/destinations/yunnan.jpg",          // Kunming / Yunnan landscape
-  macau:          "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?w=600&q=80",  // Macau ruins / skyline
-  macao:          "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?w=600&q=80",  // Macau city
+  macau:          "/destinations/macau.jpg",  // Macau ruins / skyline
+  macao:          "/destinations/macau.jpg",  // Macau city
   hongkong:       "https://images.unsplash.com/photo-1513407030348-c983a97b98d8?w=600&q=80",  // HK skyline
   shangri:        "/destinations/tibet.jpg",           // Tibetan monastery
   tibet:          "/destinations/tibet.jpg",           // Tibet Potala Palace
@@ -104,33 +104,33 @@ const thumbnailMap: Record<string, string> = {
   gansu:          "/destinations/dunhuang.jpg",        // Gansu desert landscape
   ningxia:        "/destinations/dunhuang.jpg",        // Ningxia desert
   yinchuan:       "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=600&q=80",    // Western Xia heritage
-  xinjiang:       "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=80",  // Xinjiang mountain landscape
-  kanas:          "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=80",  // Kanas autumn lake
-  urumqi:         "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=80",  // Urumqi Xinjiang
-  qinghai:        "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=600&q=80",  // Qinghai Lake
+  xinjiang:       "/destinations/xinjiang.jpg",  // Xinjiang mountain landscape
+  kanas:          "/destinations/xinjiang.jpg",  // Kanas autumn lake
+  urumqi:         "/destinations/xinjiang.jpg",  // Urumqi Xinjiang
+  qinghai:        "/destinations/qinghai.jpg",  // Qinghai Lake
   // ── EXTRA DESTINATIONS ──
-  nanjing:        "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?w=600&q=80",  // Nanjing city skyline
-  suzhou:         "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=600&q=80",  // Suzhou classical garden
-  jiangsu:        "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86?w=600&q=80",  // Canal district
+  nanjing:        "/destinations/wuhan.jpg",  // Nanjing city skyline
+  suzhou:         "/destinations/suzhou.jpg",  // Suzhou classical garden
+  jiangsu:        "/destinations/suzhou.jpg",  // Canal district
   kaifeng:        "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=600&q=80",    // Song Dynasty heritage
-  shaolin:        "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=600&q=80",    // Shaolin temple
+  shaolin:        "/destinations/luoyang.jpg",    // Shaolin temple
   wudang:         "https://images.unsplash.com/photo-1525362081669-2b476bb628c3?w=600&q=80",  // Wudang cliffside
-  jingdezhen:     "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?w=600&q=80",  // Jingdezhen ceramics culture
+  jingdezhen:     "/destinations/jiangxi.jpg",  // Jingdezhen ceramics culture
   wuyuan:         "/destinations/anhui.jpg",          // Wuyuan ancient village
-  lushan:         "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=600&q=80",  // Mount Lu mist
-  putuoshan:      "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=600&q=80",    // Sacred island temple
+  lushan:         "/destinations/jiangxi.jpg",  // Mount Lu mist
+  putuoshan:      "/destinations/hangzhou.jpg",    // Sacred island temple
   shenzhen:       "https://images.unsplash.com/photo-1617870952348-7524edfb61b7?w=600&q=80",  // Shenzhen skyline
-  nanning:        "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&q=80",  // Guangxi tropical coast
+  nanning:        "/destinations/guilin.jpg",  // Guangxi tropical coast
   detian:         "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=600&q=80",  // Waterfall
-  xiamen:         "https://images.unsplash.com/photo-1534430480872-3498386e7856?w=600&q=80",  // Gulangyu / Xiamen coast
-  wuyi:           "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=600&q=80",  // Wuyi tea mountain
+  xiamen:         "/destinations/gulangyu.jpg",  // Gulangyu / Xiamen coast
+  wuyi:           "/destinations/jiangxi.jpg",  // Wuyi mountain mist
   kashgar:        "/destinations/kashgar.jpg",         // Kashgar Silk Road
   taishan:        "https://images.unsplash.com/photo-1508804052814-cd3ba865a116?w=600&q=80",  // Mount Tai stairs
   huashan:        "https://images.unsplash.com/photo-1508804052814-cd3ba865a116?w=600&q=80",  // Huashan cliff plank
-  emei:           "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=600&q=80",  // Emei/Leshan Buddha
-  leshan:         "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=600&q=80",  // Giant Buddha
-  namtso:         "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=600&q=80",  // Namtso lake blue
-  qilian:         "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=600&q=80",  // Mountain meadow
+  emei:           "/destinations/chengdu.jpg",  // Emei/Leshan Buddha
+  leshan:         "/destinations/chengdu.jpg",  // Giant Buddha
+  namtso:         "/destinations/qinghai.jpg",  // Namtso lake blue
+  qilian:         "/destinations/qinghai.jpg",  // Mountain meadow
   zhangye:        "/destinations/zhangye.jpg",         // Zhangye Danxia colorful strata
   jiayuguan:      "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=600&q=80",  // Jiayuguan Great Wall desert
   // ── PRACTICAL / TOOLKIT TOPICS ──
@@ -169,9 +169,9 @@ const thumbnailMap: Record<string, string> = {
   temples:        "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=600&q=80",  // Temple (Putuoshan)
   islands:        "https://images.unsplash.com/photo-1530789253388-582c481c54b0?w=600&q=80",  // Island coast
   plateau:        "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=600&q=80",  // Tibetan plateau landscape
-  beaches:        "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&q=80",  // Beach
+  beaches:        "/destinations/hainan.jpg",  // Beach
   grasslands:     "https://images.unsplash.com/photo-1531761535209-180857e963b9?w=600&q=80",  // Grassland
-  gardens:        "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=600&q=80",  // Classical garden
+  gardens:        "/destinations/suzhou.jpg",  // Classical garden
   // New tags
   yangtze:        "https://images.unsplash.com/photo-1530789253388-582c481c54b0?w=600&q=80",  // River gorge
   trekking:       "https://images.unsplash.com/photo-1501554728187-ce583db33af7?w=600&q=80",  // Mountain hiking
@@ -182,11 +182,11 @@ const thumbnailMap: Record<string, string> = {
   minorities:     "/destinations/guizhou.jpg",         // Ethnic minority villages
   festivals:      "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=600&q=80",  // Festival lights
   cruise:         "https://images.unsplash.com/photo-1530789253388-582c481c54b0?w=600&q=80",  // River cruise
-  river:          "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=600&q=80",  // River landscape
+  river:          "/destinations/guilin.jpg",  // River landscape
   tea:            "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&q=80",    // Tea plantation
   village:        "https://images.unsplash.com/photo-1566552881560-0be862a7c445?w=600&q=80",    // Ancient village (tulou)
   ancient:        "https://images.unsplash.com/photo-1508804052814-cd3ba865a116?w=600&q=80",  // Ancient heritage
-  architecture:   "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=600&q=80",  // Architecture
+  architecture:   "/destinations/beijing.jpg",  // Architecture
   hotpot:         "https://images.unsplash.com/photo-1563245372-f21724e3856d?w=600&q=80",    // Hotpot food
   noodles:        "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=600&q=80",  // Chinese noodles
   seafood:        "https://images.unsplash.com/photo-1550535424-2d54b7920c87?w=600&q=80",    // Seafood market
