@@ -12,7 +12,7 @@ tags:
   - culture
   - nature
 description: "Jiangxi Province holds three extraordinary attractions rarely visited by international tourists — the world porcelain capital of Jingdezhen, the picture-perfect Huizhou villages of Wuyuan, and the mist-shrouded peaks of Mount Lu."
-ogImage: "https://images.unsplash.com/photo-1565799557576-91c5c4c8e2ef?w=1200&q=85"
+ogImage: "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?w=900&q=80"
 ---
 
 Jiangxi Province is one of China's least-visited regions for international tourists — which makes it one of the most rewarding. The landscapes are magnificent, the culture deep, and the crowds manageable even during peak season.

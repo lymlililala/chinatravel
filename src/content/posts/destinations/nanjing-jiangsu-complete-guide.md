@@ -12,7 +12,7 @@ tags:
   - history
   - urban
 description: "China's most historically significant secondary capital — Nanjing rewards visitors with Ming city walls, a moving war memorial, cherry blossoms on Purple Mountain, and one of China's great street food cultures."
-ogImage: "https://images.unsplash.com/photo-1599582166174-b0e8e3db22a5?w=1200&q=85"
+ogImage: "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?w=900&q=80"
 ---
 
 Nanjing (南京, "Southern Capital") served as China's capital under the early Ming Dynasty, the Republic of China, and the Taiping Heavenly Kingdom — three of the most dramatic moments in Chinese history. The city carries all three legacies with unusual thoughtfulness.

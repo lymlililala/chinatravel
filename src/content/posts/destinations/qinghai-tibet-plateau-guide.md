@@ -11,7 +11,7 @@ tags:
   - nature
   - plateau
 description: "Qinghai Province offers some of China's most spectacular high-altitude landscapes — the vast shimmering expanse of Qinghai Lake, the rainbow-coloured Zhangye Danxia nearby, and the lonely prayer-flag-lined roads toward Tibet."
-ogImage: "https://images.unsplash.com/photo-1597073048869-0d3e9fa3f1e7?w=1200&q=85"
+ogImage: "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=900&q=80"
 ---
 
 Qinghai Province sits on the eastern edge of the Tibetan Plateau — a vast, thin-aired landscape of salt lakes, nomadic grasslands, and mountain passes. It's one of China's least-visited provinces for foreign tourists, which makes it exceptional for those who make the journey.

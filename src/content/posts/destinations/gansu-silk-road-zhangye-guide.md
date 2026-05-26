@@ -12,7 +12,7 @@ tags:
   - northwest
   - history
 description: "Gansu Province is the spine of China's ancient Silk Road — the Hexi Corridor connecting China to Central Asia, dotted with frontier fortresses, Buddhist cave art, and the world's most colourful geological formations."
-ogImage: "https://images.unsplash.com/photo-1524081611516-a90e4ef5f6f5?w=1200&q=85"
+ogImage: "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=900&q=80"
 ---
 
 Gansu Province forms a narrow 1,600km corridor between the Tibetan Plateau and the Mongolian steppe — China's ancient Silk Road gateway. Every major civilisation to interact with China passed through here.

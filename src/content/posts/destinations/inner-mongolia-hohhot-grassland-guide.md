@@ -12,7 +12,7 @@ tags:
   - nature
   - north-china
 description: "Gallop across endless grasslands, sleep in a traditional Mongolian yurt, and witness the Naadam Festival — Inner Mongolia offers an adventure unlike anything else in China."
-ogImage: "https://images.unsplash.com/photo-1547820015-6d9ba7a2d8b2?w=1200&q=85"
+ogImage: "https://images.unsplash.com/photo-1531761535209-180857e963b9?w=900&q=80"
 ---
 
 Inner Mongolia Autonomous Region spans an extraordinary arc of terrain from the Gobi Desert in the west to the lush Hulunbuir grasslands in the northeast — one of the most diverse and least-visited regions in China for international travellers.

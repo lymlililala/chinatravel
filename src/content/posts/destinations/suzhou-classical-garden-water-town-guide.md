@@ -12,7 +12,7 @@ tags:
   - gardens
   - history
 description: "China's garden city — nine UNESCO classical gardens, ancient canals, silk traditions, and nearby water towns make Suzhou one of the most refined cultural experiences in China."
-ogImage: "https://images.unsplash.com/photo-1524673278499-8df96f00a4af?w=1200&q=85"
+ogImage: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=900&q=80"
 ---
 
 Marco Polo called Suzhou "the Venice of the Orient" in the 13th century — a city of canals, gardens, and refined arts that remains one of the most aesthetically accomplished in China. The classical gardens here represent the peak of Chinese landscape design philosophy.

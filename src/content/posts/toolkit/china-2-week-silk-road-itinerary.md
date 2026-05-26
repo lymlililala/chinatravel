@@ -14,7 +14,7 @@ tags:
   - transport
   - planning
 description: "The ultimate 14-day Silk Road journey through China — Xi'an's terracotta warriors, Zhangye's rainbow mountains, Dunhuang's Mogao Caves, and Xinjiang's desert landscapes to Kashgar."
-ogImage: "https://images.unsplash.com/photo-1581853836647-cd6b0c38f9ba?w=1200&q=85"
+ogImage: "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=900&q=80"
 ---
 
 The ancient Silk Road through China is one of the world's great overland journeys — a 4,000km route across China's dramatic northwest that connects the imperial capital of Xi'an with the Central Asian trading hub of Kashgar. This 14-day itinerary covers the essential highlights while still leaving room to breathe.
