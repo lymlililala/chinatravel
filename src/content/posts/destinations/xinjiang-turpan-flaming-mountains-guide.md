@@ -1,7 +1,7 @@
 ---
 title: "Turpan & Flaming Mountains: China's Ancient Desert Oasis Guide"
 description: "Complete guide to Turpan (Turfan) — China's lowest point, hottest temperatures, ancient Silk Road ruins, the Flaming Mountains, Jiaohe ancient city, and Turpan's extraordinary grape culture. Best time to visit and practical tips."
-pubDate: 2026-05-15
+pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/turpan-flaming-mountains.jpg"
 category: "destinations"
 tags: ["Turpan", "Xinjiang", "Silk Road", "desert", "Flaming Mountains", "ancient ruins"]

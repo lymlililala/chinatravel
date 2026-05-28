@@ -1,7 +1,7 @@
 ---
 title: "Penglai Shandong: Mythical Immortals' Island, Sea Mist & Coastal Fortresses"
 description: "Visit Penglai on Shandong's north coast — the legendary city of immortals where sea mirages appear each spring, home to a remarkably preserved Ming-dynasty naval fortress, China's oldest lighthouse, and superb seafood in a coastal setting unlike any other in northern China."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Shandong"
 tags: ["shandong", "penglai", "mythology", "mirage", "naval-fortress", "coastal", "seafood", "ming-dynasty", "immortals"]
 ---

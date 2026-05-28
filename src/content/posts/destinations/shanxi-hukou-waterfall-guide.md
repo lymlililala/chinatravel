@@ -1,7 +1,7 @@
 ---
 title: "Hukou Waterfall Guide: The Yellow River's Greatest Natural Spectacle"
 description: "Experience Hukou Waterfall on the Yellow River between Shanxi and Shaanxi — China's second largest waterfall and the largest yellow waterfall in the world, thundering through a narrow gorge in all four distinct seasonal moods, from spring flood to winter ice formations."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Shanxi"
 tags: ["shanxi", "hukou-waterfall", "yellow-river", "waterfall", "shaanxi", "natural-wonder", "photography", "seasonal"]
 ---

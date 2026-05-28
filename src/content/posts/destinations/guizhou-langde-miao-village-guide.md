@@ -1,7 +1,7 @@
 ---
 title: "Langde Miao Village Guizhou: Experiencing Genuine Miao Culture Without the Performance"
 description: "Discover Langde Upper Village in Guizhou — one of the most authentic Miao minority villages in China, where silver jewellery traditions, indigo batik, lusheng pipe music, and terraced rice farming continue as living culture rather than tourist performance, plus how to visit responsibly and combine with the broader Leishan County Miao route."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Guizhou"
 tags: ["guizhou", "langde", "miao-village", "minority-culture", "silver-jewellery", "batik", "lusheng", "terraced-rice"]
 ---

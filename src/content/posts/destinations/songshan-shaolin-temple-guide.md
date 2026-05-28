@@ -1,7 +1,7 @@
 ---
 title: "Shaolin Temple and Mount Song Travel Guide: Kung Fu, Buddhism and the Sacred Mountain"
 description: "Complete guide to visiting Shaolin Temple (少林寺) at Mount Song, Henan. Kung Fu performances, martial arts schools, hiking the mountain, overnight options and how to get there from Zhengzhou and Luoyang."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Shaolin Temple", "Kung Fu", "Henan", "Mount Song", "martial arts China", "Buddhist temple China", "少林寺"]
 ---

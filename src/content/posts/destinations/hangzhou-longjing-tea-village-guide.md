@@ -1,7 +1,7 @@
 ---
 title: "Hangzhou Longjing Tea Village: Picking, Tasting and the Tea Culture Experience"
 description: "Complete guide to visiting Longjing Village and its tea plantations in Hangzhou. When to visit for picking season, how to buy authentic Longjing tea, tea house experiences, and avoiding overpriced tourist traps."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Hangzhou", "Longjing tea", "Dragon Well tea", "tea village", "Hangzhou tea culture", "China tea"]
 ---

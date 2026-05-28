@@ -1,7 +1,7 @@
 ---
 title: "Shenzhen Travel Guide 2026: China's Innovation City for Visitors"
 description: "Explore Shenzhen — China's tech hub, design capital, and one of the world's fastest-growing cities. OCT-Loft creative zone, Dafen Oil Painting Village, food scene, and day trips from Hong Kong. Complete 2026 guide."
-pubDate: 2026-05-15
+pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/shenzhen-skyline.jpg"
 category: "destinations"
 tags: ["Shenzhen", "tech city", "Guangdong", "innovation", "day trip from Hong Kong"]

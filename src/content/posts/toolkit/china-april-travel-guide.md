@@ -1,7 +1,7 @@
 ---
 title: "China in April: Best Places to Visit, Cherry Blossoms & Qingming Festival"
 description: "Where to travel in China in April 2026 — cherry blossoms in Wuhan, Guizhou rapeseed flowers, Qingming Festival traditions, ideal spring weather destinations, and what to avoid. Complete April travel guide."
-pubDate: 2026-05-15
+pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/china-april-spring.jpg"
 category: "toolkit"
 tags: ["April travel", "spring China", "cherry blossom", "Qingming festival", "seasonal guide"]

@@ -1,7 +1,7 @@
 ---
 title: "Detian Transnational Waterfall Guide: China-Vietnam Border's Hidden Wonder"
 description: "Discover Detian Waterfall (Ban Gioc Falls) on the China-Vietnam border in Guangxi — the world's fourth largest transnational waterfall, limestone karst scenery, bamboo raft rides through the spray, and the unique experience of standing between two countries."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Guangxi"
 tags: ["guangxi", "detian-waterfall", "ban-gioc", "china-vietnam-border", "waterfall", "karst", "bamboo-raft", "daxin-county"]
 ---

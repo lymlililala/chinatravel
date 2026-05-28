@@ -1,7 +1,7 @@
 ---
 title: "Dali Erhai Lake Cycling Guide: The Ultimate Lake Loop in Yunnan"
 description: "Complete guide to cycling around Erhai Lake in Dali, Yunnan. The full 130km circuit, daily section routes, bike rental, lakeside villages, white sail boats, fishing cormorants and where to stay."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Dali", "Erhai Lake", "cycling Yunnan", "Yunnan travel", "Dali cycling", "China lakes", "洱海"]
 ---

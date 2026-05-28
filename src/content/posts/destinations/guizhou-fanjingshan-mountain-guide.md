@@ -1,7 +1,7 @@
 ---
 title: "Fanjingshan UNESCO Guide: Guizhou's Sacred Mountain & Mushroom Rock Formations"
 description: "Climb Fanjingshan in Guizhou — the world's newest UNESCO World Natural Heritage Site, famous for the extraordinary mushroom-shaped twin rock formations at the summit, ancient Buddhist temples clinging to vertical cliffs, and some of the richest temperate forest biodiversity in China."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Guizhou"
 tags: ["guizhou", "fanjingshan", "UNESCO", "sacred-mountain", "mushroom-rock", "biodiversity", "buddhist-temple", "trekking", "tongren"]
 ---

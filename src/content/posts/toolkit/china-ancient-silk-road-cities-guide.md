@@ -1,7 +1,7 @@
 ---
 title: "China Silk Road Cities Guide: Xi'an to Kashgar in 12 Days"
 description: "Plan the complete Chinese Silk Road journey from Xi'an through Gansu and Xinjiang to Kashgar — the major stops (Dunhuang, Turpan, Urumqi), the logistics of a route that covers 4,000 km, high-speed rail sections alongside remaining slow train stretches, the best timing for the desert and oasis towns, and what makes this journey unlike any other in China."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "silk-road", "xian", "dunhuang", "turpan", "kashgar", "xinjiang", "gansu", "itinerary", "ancient-route"]
 ---

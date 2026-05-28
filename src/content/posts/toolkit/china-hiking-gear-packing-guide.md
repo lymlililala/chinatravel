@@ -1,7 +1,7 @@
 ---
 title: "China Hiking Gear Guide: What to Pack for Mountains, Trails, and Altitude"
 description: "The practical gear guide for hiking in China — from Zhangjiajie's humid subtropical forest to the high-altitude trails of Tibet and Sichuan, the gear available locally vs. what to bring from home, China's domestic outdoor brands (Toread, Camel, Kailas) compared to international alternatives, and altitude-specific equipment needs."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "hiking", "gear", "packing", "mountains", "altitude", "outdoor-equipment", "trekking", "kailas", "toread"]
 ---

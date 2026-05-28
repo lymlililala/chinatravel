@@ -1,7 +1,7 @@
 ---
 title: "Sanxingdui Museum Guide: China's Most Mysterious Ancient Civilization"
 description: "Visit Sanxingdui Museum near Chengdu — home to the most enigmatic artifacts in Chinese archaeology, including the extraordinary bronze tree of life, enormous goggle-eyed masks, and evidence of a sophisticated Bronze Age civilization that existed entirely outside the written history of China's Yellow River cultures."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Sichuan"
 tags: ["sichuan", "sanxingdui", "museum", "ancient-civilization", "bronze-age", "archaeology", "chengdu", "mystery", "bronze-masks"]
 ---

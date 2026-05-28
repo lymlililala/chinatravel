@@ -1,7 +1,7 @@
 ---
 title: "Yuanyang Rice Terraces at Dawn: Photography, Hani Villages & Practical Guide"
 description: "Master a visit to Yuanyang's spectacular Hani rice terraces in Yunnan — the best sunrise viewpoints, how to reach the most photogenic spots, which Hani villages to explore, what to eat, when the terraces flood for maximum reflection, and accommodation near the fields."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Yunnan"
 tags: ["yunnan", "yuanyang", "rice-terraces", "hani-minority", "sunrise", "photography", "UNESCO", "honghe", "dawn-photography"]
 ---

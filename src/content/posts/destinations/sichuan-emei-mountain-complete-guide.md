@@ -1,7 +1,7 @@
 ---
 title: "Mount Emei Complete Guide: Buddhist Sacred Peak, Golden Summit & Holy Monkeys"
 description: "The definitive guide to Mount Emei (Emeishan) in Sichuan — one of China's Four Sacred Buddhist Mountains, home to the world's largest Buddha at nearby Leshan, a cable car to the cloud-shrouded Golden Summit at 3,099m, endemic red pandas and macaques, and the best hiking routes through ancient pilgrimage paths."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Sichuan"
 tags: ["sichuan", "emei-mountain", "emeishan", "buddhist-sacred", "golden-summit", "leshan-buddha", "hiking", "cable-car", "macaques"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "China Hostel & Budget Accommodation Guide 2026: Where to Stay for Under $20"
 description: "Complete guide to budget accommodation in China — best hostel chains, how to book on Chinese platforms, price expectations by city, what to expect from Chinese hostels, and tips for saving money on accommodation."
-pubDate: 2026-05-15
+pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/china-hostel.jpg"
 category: "toolkit"
 tags: ["budget travel", "hostels China", "cheap accommodation", "backpacker guide", "budget tips"]

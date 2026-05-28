@@ -1,7 +1,7 @@
 ---
 title: "Xi'an Dumpling Banquet & Tang Dynasty Cuisine Guide"
 description: "Everything about Xi'an's famous dumpling banquet (饺子宴) — what it is, where to eat it, prices, and how to experience authentic Tang dynasty-inspired Shaanxi cuisine. Complete food guide for Xi'an visitors."
-pubDate: 2026-05-15
+pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/xian-dumpling.jpg"
 category: "destinations"
 tags: ["Xi'an", "Shaanxi", "dumplings", "Tang dynasty", "food guide"]

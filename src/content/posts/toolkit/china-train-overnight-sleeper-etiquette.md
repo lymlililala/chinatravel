@@ -1,7 +1,7 @@
 ---
 title: "China Overnight Train Etiquette & Survival Guide: What No One Tells You"
 description: "The unwritten rules and practical survival tips for overnight trains in China — the social dynamics of a hard sleeper cabin, the cup noodle culture, morning queues for the bathroom, the snoring problem and how to handle it, how to make friends or keep to yourself, what food to bring, and why sleeper trains are one of China's best travel experiences."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "overnight-train", "sleeper-train", "hard-sleeper", "soft-sleeper", "train-etiquette", "travel-tips", "12306"]
 ---

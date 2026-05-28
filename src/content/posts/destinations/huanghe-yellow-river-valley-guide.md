@@ -1,7 +1,7 @@
 ---
 title: "Yellow River Valley Travel Guide: Zhengzhou, Kaifeng and China's Mother River"
 description: "Guide to traveling the central Yellow River (黄河) valley in Henan Province. Zhengzhou's Yellow River scenic area, Kaifeng ancient capital, Sanmenxia's swan lake and the deep history of China's 'cradle of civilization'."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Yellow River", "Henan", "Zhengzhou", "Kaifeng", "Chinese civilization", "China history", "河南"]
 ---

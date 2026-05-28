@@ -1,7 +1,7 @@
 ---
 title: "Gift Giving in China: What to Bring, What to Avoid and Business Etiquette"
 description: "Comprehensive guide to gift giving customs in China for tourists and business visitors. Covers appropriate gifts, forbidden items, red envelope customs, and navigating dinner invitations."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["China etiquette", "gift giving China", "Chinese culture", "business travel China", "red envelope", "Chinese customs"]
 ---

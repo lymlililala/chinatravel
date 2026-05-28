@@ -1,7 +1,7 @@
 ---
 title: "Shaxi Ancient Village Yunnan: The Forgotten Tea Horse Road Market Town"
 description: "Discover Shaxi in Yunnan's Jianchuan County — a perfectly preserved Tang-Qing dynasty market town on the Ancient Tea Horse Road, with a Friday bazaar that has operated continuously for 1,300 years, Bai minority culture, and the most authentic rural atmosphere in Yunnan untouched by mass tourism."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Yunnan"
 tags: ["yunnan", "shaxi", "tea-horse-road", "ancient-village", "bai-minority", "friday-market", "jianchuan", "authentic-travel"]
 ---

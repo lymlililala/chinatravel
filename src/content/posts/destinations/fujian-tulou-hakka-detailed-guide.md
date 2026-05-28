@@ -1,7 +1,7 @@
 ---
 title: "Fujian Tulou Hakka Earthen Buildings: Insider Guide to Living History"
 description: "Discover the Hakka earthen buildings (tulou) of Fujian — UNESCO-listed circular and square fortress-homes housing entire clans for centuries, with the best clusters near Yongding and Nanjing, insider tips for staying overnight inside a tulou, and the fascinating Hakka culture that created them."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Fujian"
 tags: ["fujian", "tulou", "hakka", "earthen-buildings", "UNESCO", "yongding", "nanjing-tulou", "circular-building", "clan-culture"]
 ---

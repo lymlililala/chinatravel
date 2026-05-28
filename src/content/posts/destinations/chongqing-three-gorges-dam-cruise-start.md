@@ -1,7 +1,7 @@
 ---
 title: "Starting a Yangtze Three Gorges Cruise from Chongqing: Complete Boarding Guide"
 description: "Everything you need to know about beginning a Yangtze River Three Gorges cruise from Chongqing — choosing the right pier, boarding procedures, cabin classes, embarkation day tips, and what to expect on the first night aboard."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Chongqing"
 tags: ["chongqing", "three-gorges", "yangtze-river", "cruise", "river-cruise", "boarding-guide", "chaotianmen", "gorges"]
 ---

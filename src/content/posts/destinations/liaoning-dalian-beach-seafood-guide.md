@@ -1,7 +1,7 @@
 ---
 title: "Dalian Beach & Seafood Guide: China's Most Liveable Northern Coast City"
 description: "Discover Dalian in Liaoning — northeast China's most beautiful coastal city, with European-style squares inherited from Russian and Japanese colonial periods, excellent beaches along the peninsula, world-class seafood, and a laid-back urban energy unlike any other northern Chinese city."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Liaoning"
 tags: ["liaoning", "dalian", "beach", "seafood", "northeast-china", "colonial-architecture", "coastal-city", "yellow-sea", "bohai"]
 ---

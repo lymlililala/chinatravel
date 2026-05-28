@@ -1,7 +1,7 @@
 ---
 title: "Shenyang Imperial Palace: The Manchu Forbidden City Before Beijing"
 description: "Visit the Shenyang Imperial Palace (Mukden Palace) in Liaoning — the original court of the Qing dynasty founders Nurhaci and Hong Taiji, built before the conquest of Beijing, a UNESCO World Heritage complex smaller but architecturally richer than its Beijing counterpart, and the best introduction to Manchu court culture in China."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Liaoning"
 tags: ["liaoning", "shenyang", "imperial-palace", "mukden-palace", "qing-dynasty", "manchu", "UNESCO", "northeast-china"]
 ---

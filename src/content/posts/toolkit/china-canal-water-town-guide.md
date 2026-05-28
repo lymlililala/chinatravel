@@ -1,7 +1,7 @@
 ---
 title: "China Canal Town Guide: Comparing Wuzhen, Xitang, Tongli, Nanxun & Zhouzhuang"
 description: "Compare China's most famous Jiangnan water towns — Wuzhen, Xitang, Tongli, Nanxun, and Zhouzhuang — with honest assessments of commercialisation level, genuine architectural heritage, crowd management, how to visit without the tour groups, and which town best matches your interests and travel style."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "water-towns", "jiangnan", "wuzhen", "xitang", "tongli", "nanxun", "zhouzhuang", "canal", "ancient-town"]
 ---

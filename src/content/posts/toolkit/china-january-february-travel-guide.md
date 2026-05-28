@@ -1,7 +1,7 @@
 ---
 title: "China January & February Travel Guide: Winter Highlights, Chinese New Year & Crowd Management"
 description: "Plan your China trip in January or February — the coldest months, the Chinese New Year travel surge, Harbin ice festival peak season, Yunnan's eternal spring, and the unique opportunity to see traditional festival culture that is invisible at any other time of year. Includes the complete Chinese New Year travel strategy."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "january", "february", "chinese-new-year", "spring-festival", "winter", "harbin", "yunnan", "seasonal-travel"]
 ---

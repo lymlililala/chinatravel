@@ -1,7 +1,7 @@
 ---
 title: "Sanya Hainan Beach Guide: China's Tropical Paradise for Winter Sun Seekers"
 description: "Navigate Sanya on Hainan Island — China's only tropical beach destination, with Yalong Bay's international resort strip, the wilder Dadonghai for budget travellers, the cultural experience of Nanshan Buddhist temple, how to escape the crowds to find uncrowded beaches, and why Hainan's seafood is worth a trip from anywhere in China."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Hainan"
 tags: ["hainan", "sanya", "beach", "tropical", "yalong-bay", "dadonghai", "seafood", "winter-sun", "resort"]
 ---

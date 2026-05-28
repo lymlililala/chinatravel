@@ -1,7 +1,7 @@
 ---
 title: "Accessible Travel in China: A Guide for Travelers with Disabilities 2026"
 description: "Practical guide for travelers with mobility issues, visual impairments, or other disabilities visiting China. Which cities are most accessible, how to navigate Chinese public transport, accessible hotels, and honest assessments of challenges."
-pubDate: 2026-05-15
+pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/china-accessible.jpg"
 category: "toolkit"
 tags: ["accessible travel", "disability travel", "wheelchair China", "mobility", "travel tips"]

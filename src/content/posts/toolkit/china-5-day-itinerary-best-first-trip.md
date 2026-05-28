@@ -1,7 +1,7 @@
 ---
 title: "China 5-Day First Trip Itinerary: The Perfect Short Visit to Beijing & Shanghai"
 description: "The ideal first-time China itinerary in 5 days — 2.5 days each in Beijing and Shanghai, covering the unmissable sights, the best food, how to move between the two cities on the high-speed train, the pace that allows genuine experience rather than a checklist sprint, and what to skip to keep the trip enjoyable."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "itinerary", "5-days", "beijing", "shanghai", "first-trip", "great-wall", "forbidden-city", "bund"]
 ---

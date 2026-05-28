@@ -1,7 +1,7 @@
 ---
 title: "China Architecture Guide: Reading 4,000 Years of Building History"
 description: "Understand Chinese architecture as a traveller — the logic of the courtyard house, the hierarchy of the imperial city, why all traditional buildings have upturned roof corners, the difference between Tang/Song and Ming/Qing architectural aesthetics, the regional variations from Fujian to Shanxi to Yunnan, and which buildings are the most important to seek out."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "architecture", "traditional-architecture", "forbidden-city", "courtyard", "pagoda", "hui-style", "tang-dynasty"]
 ---

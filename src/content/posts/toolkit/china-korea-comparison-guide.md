@@ -1,7 +1,7 @@
 ---
 title: "China vs South Korea Travel Comparison: Which is Right for You?"
 description: "Detailed comparison of traveling in China versus South Korea — costs, visa requirements, food, culture, ease of travel, and combined itineraries. Help deciding between China and Korea trips in 2026."
-pubDate: 2026-05-15
+pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/china-korea-comparison.jpg"
 category: "toolkit"
 tags: ["China vs Korea", "travel comparison", "trip planning", "Asia travel", "South Korea"]

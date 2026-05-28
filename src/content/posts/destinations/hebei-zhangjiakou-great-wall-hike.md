@@ -1,7 +1,7 @@
 ---
 title: "Zhangjiakou Great Wall Hiking: Wild Wall Sections Beyond the Tourist Crowds"
 description: "Explore remote, unrestored Great Wall sections near Zhangjiakou in Hebei — the wild wall at Juyongguan, dramatic Damaolin and Yanmenguan passes, grassland-meets-wall landscapes at Bashang, and practical hiking routes through some of the most photogenic and crowd-free sections in northern China."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Hebei"
 tags: ["hebei", "zhangjiakou", "great-wall", "wild-wall", "hiking", "unrestored-wall", "bashang", "winter-olympics-site", "frontier"]
 ---

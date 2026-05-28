@@ -1,7 +1,7 @@
 ---
 title: "China High-Speed Rail Complete Guide 2026: Every Question Answered"
 description: "The most comprehensive guide to China's high-speed rail network — how to book tickets, G vs D vs C trains, seat classes, booking apps, luggage rules, the experience of 350 km/h travel, and tips for making the most of the world's longest HSR network."
-pubDate: 2026-05-15
+pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/china-hsr-train.jpg"
 category: "toolkit"
 tags: ["high-speed rail", "HSR", "12306", "train travel", "China transport"]

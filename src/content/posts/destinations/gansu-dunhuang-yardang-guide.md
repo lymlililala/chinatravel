@@ -1,7 +1,7 @@
 ---
 title: "Dunhuang Yardang National Geopark: Moon City & Desert Landscapes"
 description: "Explore the Yardang National Geopark near Dunhuang — China's most dramatic desert erosion landscape, where wind-carved rock formations create an alien cityscape nicknamed Moon City, the backdrop for countless photography expeditions and the ideal partner to the nearby Mogao Caves."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Gansu"
 tags: ["gansu", "dunhuang", "yardang", "moon-city", "geopark", "desert-landscape", "photography", "silk-road", "wind-erosion"]
 ---

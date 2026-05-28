@@ -1,7 +1,7 @@
 ---
 title: "Qilian Mountains Guide: Qinghai's Wildest Landscape for Trekkers & Photographers"
 description: "Discover the Qilian Mountains between Qinghai and Gansu — dramatic alpine scenery with Tibetan grasslands, wildflower meadows, glaciers, the Zhangye Qilian Scenic Corridor, and some of China's best off-the-beaten-path trekking far from tourist crowds."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Qinghai"
 tags: ["qinghai", "qilian-mountains", "trekking", "alpine", "gansu", "tibetan-grasslands", "wildflowers", "photography", "remote-travel"]
 ---

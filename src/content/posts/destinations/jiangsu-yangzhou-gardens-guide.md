@@ -1,7 +1,7 @@
 ---
 title: "Yangzhou Gardens & Grand Canal: Salt Merchants' Legacy & Huaiyang Cuisine"
 description: "Explore Yangzhou in Jiangsu — the ancient salt-trading capital on the Grand Canal, with exquisite Qing-dynasty private gardens, the Slender West Lake, world-class Huaiyang cuisine, and the most literary urban atmosphere in the Yangtze Delta."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Jiangsu"
 tags: ["jiangsu", "yangzhou", "grand-canal", "gardens", "huaiyang-cuisine", "slender-west-lake", "salt-merchants", "qing-dynasty"]
 ---

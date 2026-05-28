@@ -1,7 +1,7 @@
 ---
 title: "Yangzhou Slender West Lake Guide: China's Most Beautiful Artificial Lake"
 description: "Complete guide to visiting Slender West Lake (瘦西湖) in Yangzhou. The pavilions, the White Pagoda, boat rides, spring cherry blossoms, admission and how to get there from Nanjing and Shanghai."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Yangzhou", "Slender West Lake", "瘦西湖", "Jiangsu tourism", "China gardens", "spring travel China"]
 ---

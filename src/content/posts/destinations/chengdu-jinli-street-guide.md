@@ -1,7 +1,7 @@
 ---
 title: "Chengdu Jinli Ancient Street: Complete Visitor Guide 2026"
 description: "Everything you need to know about Jinli Ancient Street in Chengdu — what to eat, what to buy, best times to visit, how to avoid tourist traps, and nearby Wuhou Shrine. Authentic guide with local tips."
-pubDate: 2026-05-15
+pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/chengdu-jinli.jpg"
 category: "destinations"
 tags: ["Chengdu", "Jinli", "street food", "Sichuan culture", "shopping"]

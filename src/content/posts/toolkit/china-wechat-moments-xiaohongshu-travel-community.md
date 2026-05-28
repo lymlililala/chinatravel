@@ -1,7 +1,7 @@
 ---
 title: "Using WeChat & Xiaohongshu to Discover Hidden China as a Tourist"
 description: "How foreign travelers can use WeChat, Xiaohongshu (Little Red Book) and Douyin to find authentic local experiences, hidden restaurants and travel tips that guidebooks miss."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["WeChat travel", "Xiaohongshu", "Little Red Book", "China social media", "travel tips China", "hidden restaurants China"]
 ---

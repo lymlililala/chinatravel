@@ -1,7 +1,7 @@
 ---
 title: "Group Tour vs Independent Travel in China: Which is Right for You in 2026?"
 description: "Honest comparison of guided group tours versus self-guided independent travel in China. Covers costs, language barriers, Tibet permits, time efficiency, and what type of traveler suits each option."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["China travel planning", "group tour", "independent travel", "travel tips", "Tibet", "budget travel"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Chongqing Hongya Cave Night Visit: What to See, Eat and Expect"
 description: "Complete guide to visiting Hongya Cave (洪崖洞) in Chongqing at night. What to expect, best photo spots, the Jialing River view, nearby attractions, hotpot restaurants and how to get there."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Chongqing", "Hongya Cave", "Chongqing night", "洪崖洞", "Chongqing food", "China travel"]
 ---

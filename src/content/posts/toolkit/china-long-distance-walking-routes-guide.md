@@ -1,7 +1,7 @@
 ---
 title: "China Long-Distance Walking Routes: The Great Wall, Sichuan to Tibet & Beyond"
 description: "Plan a multi-day walk in China — the increasingly popular unrestored Great Wall sections in Hebei, the Sichuan-Tibet Highway's parallel trekking routes, the ancient Tea Horse Road footpaths through Yunnan, the Camino-style pilgrim circuit of Wutai Mountain, and the practical information for independent long-distance walking in China."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "long-distance-walking", "great-wall-hike", "tea-horse-road", "trekking", "sichuan-tibet", "wutai-mountain", "pilgrimage"]
 ---

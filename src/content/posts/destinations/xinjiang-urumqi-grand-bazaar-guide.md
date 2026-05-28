@@ -1,7 +1,7 @@
 ---
 title: "Urumqi International Grand Bazaar and City Guide (Xinjiang 2026)"
 description: "Guide to visiting Urumqi's International Grand Bazaar (国际大巴扎), Erdaoqiao Market, Tianshan Mountains day trips, Xinjiang food and practical tips for foreign visitors."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Urumqi", "Xinjiang", "Grand Bazaar", "Xinjiang food", "Silk Road", "Central Asia China", "Uyghur culture"]
 ---

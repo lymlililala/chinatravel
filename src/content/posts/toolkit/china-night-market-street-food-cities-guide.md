@@ -1,7 +1,7 @@
 ---
 title: "China Night Market Guide: The Best Cities for Street Food After Dark"
 description: "Discover China's greatest night market cities and what to eat at each — Xi'an's Muslim Quarter lamb skewers, Chengdu's spice-soaked late-night scene, Wuhan's crayfish, Changsha's stinky tofu, Guangzhou's midnight dim sum, and the food stalls of Fujian. A city-by-city guide to eating well after 10 PM."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "night-market", "street-food", "food-guide", "xian-muslim-quarter", "chengdu-food", "wuhan-food", "guangzhou-food"]
 ---

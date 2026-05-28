@@ -1,7 +1,7 @@
 ---
 title: "Beijing Yonghe Lama Temple Guide: Tibetan Buddhism in the Capital"
 description: "Explore Beijing's Yonghe Temple (Lama Temple) — China's largest and most ornate Tibetan Buddhist temple complex, its 18-metre sandalwood Buddha, incense-thick courtyards, and the vibrant Mongolian-Tibetan cultural world it represents."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Beijing"
 tags: ["beijing", "yonghe-temple", "lama-temple", "tibetan-buddhism", "temple", "culture", "religion", "northeast-beijing"]
 ---

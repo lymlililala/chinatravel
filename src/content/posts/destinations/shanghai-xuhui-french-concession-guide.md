@@ -1,7 +1,7 @@
 ---
 title: "Shanghai Xuhui & French Concession: Complete Neighborhood Guide 2026"
 description: "Discover Shanghai's most romantic neighborhood — the French Concession and Xuhui district. Tree-lined streets, Art Deco villas, independent boutiques, and some of Shanghai's best restaurants. Everything you need to know."
-pubDate: 2026-05-15
+pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/shanghai-french-concession.jpg"
 category: "destinations"
 tags: ["Shanghai", "French Concession", "Xuhui", "neighborhood guide", "architecture"]

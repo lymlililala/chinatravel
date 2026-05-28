@@ -1,7 +1,7 @@
 ---
 title: "Shenzhen Metro Guide 2026: Lines, Border Crossings & Bay Area Travel"
 description: "Full guide to Shenzhen's metro system for tourists, Hong Kong visitors and business travelers. Covers Lok Ma Chau crossing, Futian checkpoint, shopping districts, and payment tips."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Shenzhen", "metro", "transport", "Hong Kong border", "China travel", "Bay Area"]
 ---

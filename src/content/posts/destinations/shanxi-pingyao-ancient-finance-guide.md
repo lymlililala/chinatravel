@@ -1,7 +1,7 @@
 ---
 title: "Pingyao Ancient City: China's First Banking Capital & Ming-Qing Architecture"
 description: "Explore Pingyao in Shanxi — China's best-preserved Ming and Qing dynasty walled city, birthplace of Chinese banking (draft exchange houses), stunning courtyard architecture, beef jerky, pingyao beef, and a genuinely intact ancient streetscape that has changed little in 300 years."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Shanxi"
 tags: ["shanxi", "pingyao", "ancient-city", "chinese-banking", "ming-dynasty", "qing-dynasty", "courtyard-architecture", "UNESCO", "draft-exchange"]
 ---

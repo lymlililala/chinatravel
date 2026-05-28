@@ -1,7 +1,7 @@
 ---
 title: "Currency Exchange in China 2026: Best Rates, ATMs and Avoiding Scams"
 description: "Where to exchange currency in China and get the best RMB rate. Covers airport exchanges, bank ATMs, hotel rates, black market risks, and using foreign cards in China."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["China currency", "RMB exchange", "Chinese yuan", "money China", "ATM China", "travel money"]
 ---

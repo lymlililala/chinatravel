@@ -1,7 +1,7 @@
 ---
 title: "Guangzhou Metro Guide 2026: All Lines, Fare Calculator & Tourist Tips"
 description: "Comprehensive guide to Guangzhou's metro for tourists and business travelers. Covers airport express, Canton Fair navigation, Guangzhou South Station, payment options and key stops."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Guangzhou", "metro", "transport", "subway", "Canton Fair", "China travel"]
 ---

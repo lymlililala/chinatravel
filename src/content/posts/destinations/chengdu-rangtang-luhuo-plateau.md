@@ -1,7 +1,7 @@
 ---
 title: "Chengdu to Seda & Rangtang: Tibetan Plateau Villages Off the Tourist Trail"
 description: "Explore western Sichuan's remote Tibetan plateau communities — Seda (色达) monastery, Rangtang (壤塘) frescoes, and the high-altitude grasslands few Western travelers reach. Route planning, logistics, and cultural insights."
-pubDate: 2026-05-15
+pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/seda-tibetan-plateau.jpg"
 category: "destinations"
 tags: ["western Sichuan", "Tibetan plateau", "Seda monastery", "off the beaten path", "Buddhist culture"]

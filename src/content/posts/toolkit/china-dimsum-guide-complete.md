@@ -1,7 +1,7 @@
 ---
 title: "Dim Sum Complete Guide: How to Order, What Everything Is, and Where to Eat Yum Cha"
 description: "Master dim sum in China — the complete guide to Cantonese yum cha culture, how to read the dim sum cart and menu, the essential dishes from har gow to egg tarts, the best dim sum cities (Guangzhou, Hong Kong, Shenzhen), regional variations across China, and how to have a proper dim sum morning without speaking Cantonese."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "dim-sum", "yum-cha", "cantonese", "guangzhou", "hong-kong", "har-gow", "siu-mai", "brunch"]
 ---

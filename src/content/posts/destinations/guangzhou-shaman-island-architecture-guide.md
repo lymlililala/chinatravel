@@ -1,7 +1,7 @@
 ---
 title: "Guangzhou Shamian Island: Colonial Architecture and Riverside Escape"
 description: "Guide to visiting Shamian Island (沙面岛) in Guangzhou — a former foreign concession island with beautifully preserved European colonial architecture, café culture and riverside walks."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Guangzhou", "Shamian Island", "沙面", "colonial architecture", "Guangzhou attractions", "Canton history"]
 ---

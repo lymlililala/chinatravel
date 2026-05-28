@@ -1,7 +1,7 @@
 ---
 title: "Hangzhou Song Dynasty Culture: History, Night Markets & Imperial Heritage"
 description: "Dive into Hangzhou's Song dynasty heritage — the city that served as China's imperial capital for 150 years, where the traditions of silk, tea, and refined aesthetics were perfected. Explore the Southern Song Imperial Street, Hefang Street night market, and the cultural legacy of China's most civilised dynasty."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Hangzhou"
 tags: ["hangzhou", "song-dynasty", "history", "hefang-street", "imperial-street", "culture", "silk", "heritage", "zhejiang"]
 ---

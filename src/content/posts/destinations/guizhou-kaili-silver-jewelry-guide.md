@@ -1,7 +1,7 @@
 ---
 title: "Kaili Guizhou: Miao Silver Jewelry, Traditional Costumes & Market Day Culture"
 description: "Explore Kaili and the Miao villages of Qiandongnan — China's most vibrant ethnic minority craft culture, where intricate silver headdresses can weigh 5kg, weekly village markets are genuinely local, and ancient textile traditions include batik and embroidery passed mother to daughter for generations."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Guizhou"
 tags: ["guizhou", "kaili", "miao-culture", "silver-jewelry", "batik", "embroidery", "ethnic-minority", "village-market", "qiandongnan"]
 ---

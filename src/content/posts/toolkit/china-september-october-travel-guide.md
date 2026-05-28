@@ -1,7 +1,7 @@
 ---
 title: "China in September & October: Golden Week, Autumn Colors & Best Destinations"
 description: "The complete guide to traveling China in September and October 2026 — navigating Golden Week (National Day Holiday), autumn foliage destinations, harvest festivals, and the year's most spectacular scenery."
-pubDate: 2026-05-15
+pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/china-autumn.jpg"
 category: "toolkit"
 tags: ["October travel", "September travel", "Golden Week", "autumn China", "seasonal guide"]

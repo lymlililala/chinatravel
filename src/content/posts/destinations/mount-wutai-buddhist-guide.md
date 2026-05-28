@@ -1,7 +1,7 @@
 ---
 title: "Mount Wutai (五台山): Complete Guide to China's Buddhist Sacred Mountain"
 description: "Everything about visiting Mount Wutai — UNESCO World Heritage Buddhist mountain, temple circuit, best seasons, altitude considerations, Tibetan Buddhism vs. Chinese Buddhism on the mountain, and practical logistics."
-pubDate: 2026-05-15
+pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/wutai-mountain.jpg"
 category: "destinations"
 tags: ["Wutai Mountain", "Shanxi", "Buddhist pilgrimage", "UNESCO", "sacred mountain"]

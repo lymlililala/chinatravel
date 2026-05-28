@@ -1,7 +1,7 @@
 ---
 title: "Tiantai Mountain Guide: Birthplace of Tiantai Buddhism in Zhejiang"
 description: "Complete guide to visiting Tiantai Mountain (天台山) in Zhejiang Province. Guoqing Temple, Stone Beam Falls, Cold Mountain Temple connection, hiking trails and how to get there."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Tiantai Mountain", "Zhejiang", "Buddhist pilgrimage", "Guoqing Temple", "China temples", "mountain hiking China"]
 ---

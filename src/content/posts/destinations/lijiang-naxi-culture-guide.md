@@ -1,7 +1,7 @@
 ---
 title: "Lijiang Naxi Culture Guide: Ancient Town, Dongba Script & Local Life"
 description: "Go beyond the tourist old town in Lijiang — discover Naxi culture, Dongba script (the world's last living pictographic writing), local music, Jade Dragon Snow Mountain hiking, and authentic Lijiang experiences."
-pubDate: 2026-05-15
+pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/lijiang-naxi.jpg"
 category: "destinations"
 tags: ["Lijiang", "Naxi", "Yunnan", "Dongba", "ancient town", "ethnic minority"]

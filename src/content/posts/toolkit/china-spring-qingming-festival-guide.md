@@ -1,7 +1,7 @@
 ---
 title: "China Spring & Qingming Festival Travel Guide: Cherry Blossoms & Tomb Sweeping"
 description: "Plan your China trip around the spring bloom season — the cherry blossom peaks in Wuhan, Beijing, and Shanghai, the Qingming Tomb Sweeping Festival that coincides with spring travel peaks, rapeseed flower fields across Jiangxi and Anhui, peach blossom valleys in Sichuan, and how to manage the spring holiday crowd surge."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "spring", "cherry-blossom", "qingming", "rapeseed-flowers", "wuhan", "seasonal-travel", "hanami"]
 ---

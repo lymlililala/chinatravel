@@ -1,7 +1,7 @@
 ---
 title: "China Travel Insurance Guide 2026: What Cover You Actually Need"
 description: "Choose the right travel insurance for China — medical evacuation costs that can reach $100,000+, which policies cover Chinese hospitals, how the healthcare system works for foreigners, adventure activities coverage for hiking and high-altitude trekking, trip cancellation considerations for visa delays, and the specific policy features that matter most for a China trip."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "travel-insurance", "medical-insurance", "evacuation", "healthcare", "visa", "trip-cancellation", "hiking-insurance"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "China in June: Summer Travel Guide — Dragon Boat Festival & Best Destinations"
 description: "Where to travel in China in June 2026 — Dragon Boat Festival celebrations, avoiding the heat, best summer destinations like Qinghai Lake, Inner Mongolia grasslands, and practical summer travel tips."
-pubDate: 2026-05-15
+pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/china-june-summer.jpg"
 category: "toolkit"
 tags: ["June travel", "summer China", "Dragon Boat Festival", "seasonal guide", "Qinghai Lake"]

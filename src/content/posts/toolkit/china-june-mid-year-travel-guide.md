@@ -1,7 +1,7 @@
 ---
 title: "China June Travel Guide: Dragon Boat Festival, Pre-Summer Destinations & Timing Tips"
 description: "Plan your China trip in June — the Dragon Boat Festival holiday, the transition into summer humidity, which destinations are best before the July-August peak, Yunnan's beginning of rainy season, the Yangtze Delta water towns before summer heat, and the specific weather patterns that make June ideal for some regions and challenging for others."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "june", "dragon-boat-festival", "summer", "seasonal-travel", "yunnan-rainy-season", "pre-summer"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Zhenyuan Ancient Town Guizhou: China's Most Beautiful Riverside Town"
 description: "Explore Zhenyuan in Guizhou — a 2,200-year-old town built into cliffs above the Wuyang River, with Ming and Qing architecture, ancient defensive walls, Dong and Miao minority villages, and stunning river gorge scenery that rivals any in China."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Guizhou"
 tags: ["guizhou", "zhenyuan", "ancient-town", "wuyang-river", "ming-dynasty", "dong-minority", "riverside", "heritage"]
 ---

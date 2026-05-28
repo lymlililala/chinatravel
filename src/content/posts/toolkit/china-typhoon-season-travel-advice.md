@@ -1,7 +1,7 @@
 ---
 title: "Typhoon Season Travel in China: When, Where and How to Stay Safe"
 description: "Guide to typhoon season in China for tourists. Covers which coastal regions are affected, typhoon season timing, how to monitor storms, travel insurance requirements, and contingency planning."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["China weather", "typhoon season", "China travel safety", "coastal China", "Hainan", "Guangdong", "weather tips"]
 ---

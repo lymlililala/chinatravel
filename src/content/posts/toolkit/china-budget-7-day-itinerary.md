@@ -1,7 +1,7 @@
 ---
 title: "China Budget 7-Day Itinerary: See the Best for Under $500 Total"
 description: "Experience China's top sights on a genuine budget — a realistic 7-day itinerary through Beijing and Xi'an with daily costs under $70 USD including accommodation, food, transport, and entry fees, the best budget accommodation options, which expensive attractions are worth it and which can be skipped, and the free experiences that are genuinely better than paid ones."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "budget-travel", "7-days", "beijing", "xian", "cheap-travel", "backpacker", "hostel", "frugal"]
 ---

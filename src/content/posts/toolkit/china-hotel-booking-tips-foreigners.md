@@ -1,7 +1,7 @@
 ---
 title: "Booking Hotels in China as a Foreigner: Tips, Platforms and Registration Rules"
 description: "Complete guide to booking hotels in China for foreign tourists. Covers police registration requirements, which hotels accept foreigners, Booking.com vs local platforms, and how to handle check-in."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["China hotel booking", "accommodation China", "foreigner hotel China", "Booking.com China", "hotel tips China", "police registration"]
 ---

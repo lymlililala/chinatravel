@@ -1,7 +1,7 @@
 ---
 title: "Beijing Fragrant Hills Autumn Foliage Guide: Red Leaves & Imperial Forest"
 description: "Visit Fragrant Hills (Xiangshan) in western Beijing for the famous autumn red-leaf season — when Chinese smoke trees turn crimson in mid-October, the imperial hunting park fills with colour, and visitors from across Beijing make the pilgrimage for what locals call 'the most beautiful season in the capital.'"
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Beijing"
 tags: ["beijing", "fragrant-hills", "xiangshan", "autumn-foliage", "red-leaves", "imperial-park", "western-hills", "photography"]
 ---

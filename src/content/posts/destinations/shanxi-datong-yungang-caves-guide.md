@@ -1,7 +1,7 @@
 ---
 title: "Datong & Yungang Grottoes: China's Greatest Buddhist Cave Art"
 description: "Complete guide to Datong and the Yungang Grottoes — UNESCO World Heritage Buddhist cave art, Hanging Monastery, Hengshan Mountain, and Datong Ancient City. Everything you need for a Datong trip in 2026."
-pubDate: 2026-05-15
+pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/yungang-caves.jpg"
 category: "destinations"
 tags: ["Datong", "Yungang", "Buddhist caves", "UNESCO", "Shanxi"]

@@ -1,7 +1,7 @@
 ---
 title: "Quanzhou: China's Maritime Silk Road Starting Point — Travel Guide 2026"
 description: "Discover Quanzhou, Fujian — a UNESCO World Heritage city and ancient hub of global maritime trade. Mosques, Hindu temples, Buddhist relics, and a multicultural history unlike anywhere else in China."
-pubDate: 2026-05-15
+pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/quanzhou-maritime.jpg"
 category: "destinations"
 tags: ["Quanzhou", "Fujian", "Maritime Silk Road", "UNESCO", "multicultural"]

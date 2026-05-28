@@ -1,7 +1,7 @@
 ---
 title: "Kaifeng Henan: Walking Through the Song Dynasty Capital's Surviving Streets"
 description: "Explore Kaifeng in Henan — the capital of China's most sophisticated dynasty, the Northern Song, where the famous scroll 'Along the River During Qingming Festival' was painted, where China's oldest surviving Jewish community established its synagogue, and where night markets still echo the 1,000-year-old tradition of urban entertainment culture."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Henan"
 tags: ["henan", "kaifeng", "song-dynasty", "qingming-festival-scroll", "night-market", "jewish-community", "iron-pagoda", "ancient-capital"]
 ---

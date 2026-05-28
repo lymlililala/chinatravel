@@ -1,7 +1,7 @@
 ---
 title: "China Land Border Crossing Guide 2026: Vietnam, Laos, Myanmar, Russia & More"
 description: "Complete guide to crossing China's land borders. Covers major crossings with Vietnam, Laos, Myanmar, Kazakhstan, Russia and Mongolia. Includes hours, visa requirements, transport links and practical tips."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["China border crossing", "overland travel", "Vietnam border", "Mongolia", "Laos", "border visa", "backpacking"]
 ---

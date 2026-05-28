@@ -1,7 +1,7 @@
 ---
 title: "Qingdao Travel Guide: Beer, Beaches, and German Architecture"
 description: "Complete guide to Qingdao — home of Tsingtao Beer, beautiful beaches, German colonial architecture, and fresh seafood. Best beaches, beer city walking routes, practical tips for visiting Qingdao in 2026."
-pubDate: 2026-05-15
+pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/qingdao-beach.jpg"
 category: "destinations"
 tags: ["Qingdao", "Shandong", "beach", "beer", "German architecture"]

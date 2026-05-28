@@ -1,7 +1,7 @@
 ---
 title: "Reed Flute Cave Guilin: China's Most Spectacular Underground Karst World"
 description: "Explore Reed Flute Cave (Ludi Yan) in Guilin — a 180-million-year-old limestone cave system with extraordinary stalactite and stalagmite formations, coloured lighting that transforms the underground world, and the 'Crystal Palace' chamber that holds 1,000 visitors at once."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Guangxi"
 tags: ["guangxi", "guilin", "reed-flute-cave", "karst-cave", "stalactites", "underground", "limestone", "crystal-palace"]
 ---

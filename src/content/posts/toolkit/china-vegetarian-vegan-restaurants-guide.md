@@ -1,7 +1,7 @@
 ---
 title: "Vegetarian and Vegan Eating in China: Beyond the Basics (2026 Guide)"
 description: "In-depth guide to vegetarian and vegan travel in China. Covers Buddhist vegetarian restaurants, how to order, regional vegetarian dishes, hidden animal ingredients, and city-by-city recommendations."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["vegetarian China", "vegan China", "plant-based China", "Buddhist vegetarian", "China food", "diet restrictions China"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Everest Advanced Base Camp Tibet: Complete Trekking Guide 2026"
 description: "Complete guide to reaching Everest Advanced Base Camp from the Tibet side — permits required, how to get there from Lhasa, acclimatization plan, what to expect at EBC, and the difference from Nepal's base camp route."
-pubDate: 2026-05-15
+pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/tibet-ebc.jpg"
 category: "destinations"
 tags: ["Everest Base Camp", "Tibet", "trekking", "permits", "altitude"]

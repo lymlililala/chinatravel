@@ -1,7 +1,7 @@
 ---
 title: "China River Cruise Guide: Yangtze, Li River, and Lesser-Known Waterways"
 description: "Compare China's river cruise options beyond the famous Yangtze — the Li River cruise from Guilin to Yangshuo, the Three Gorges cruise on the Yangtze, the Grand Canal routes in Jiangsu and Zhejiang, seasonal river journeys in Yunnan, and the practical decisions of which waterway best matches your interests, budget, and time."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "river-cruise", "li-river", "yangtze", "three-gorges", "guilin", "yangshuo", "grand-canal"]
 ---

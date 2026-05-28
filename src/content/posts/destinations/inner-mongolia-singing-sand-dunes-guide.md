@@ -1,7 +1,7 @@
 ---
 title: "Inner Mongolia Singing Sand Dunes: Resonant Sand Bay & Desert Experience"
 description: "Visit the Resonant Sand Bay (Xiangshawan) in Inner Mongolia — dramatic singing sand dunes in the Kubuqi Desert where you can sandboard, camel trek, see the desert-meets-grassland landscape, and camp under extraordinary star-filled skies."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Inner Mongolia"
 tags: ["inner-mongolia", "singing-sand-dunes", "xiangshawan", "kubuqi-desert", "camel-trekking", "desert", "sandboarding", "stargazing"]
 ---

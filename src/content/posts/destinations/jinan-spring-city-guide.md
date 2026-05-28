@@ -1,7 +1,7 @@
 ---
 title: "Jinan Travel Guide: The City of Springs, Daming Lake and Shandong Cuisine"
 description: "Complete guide to visiting Jinan (济南), the capital of Shandong Province. Famous springs, Daming Lake, Baotu Spring Park, Black Tiger Spring, local Shandong food and how to get there."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Jinan", "Shandong", "China travel", "Baotu Spring", "springs city", "Jinan food", "济南"]
 ---

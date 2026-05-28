@@ -1,7 +1,7 @@
 ---
 title: "Chengdu Metro Guide 2026: Lines, Maps, Fares & Tips for Tourists"
 description: "Complete guide to Chengdu's metro system for foreign visitors. Covers all lines, how to pay, airport connections, key tourist stops, and navigation tips."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Chengdu", "metro", "transport", "subway", "China travel", "practical guide"]
 ---

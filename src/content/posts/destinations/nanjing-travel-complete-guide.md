@@ -1,7 +1,7 @@
 ---
 title: "Nanjing Travel Guide 2026: History, Museums, and Modern Capital"
 description: "Complete guide to Nanjing — China's former imperial capital, the Ming Tombs, the Confucius Temple, Nanjing Massacre Memorial, and the city's famous duck blood vermicelli soup. Everything you need to visit Nanjing in 2026."
-pubDate: 2026-05-15
+pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/nanjing-travel.jpg"
 category: "destinations"
 tags: ["Nanjing", "Jiangsu", "Ming dynasty", "history", "travel guide"]

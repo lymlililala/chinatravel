@@ -1,7 +1,7 @@
 ---
 title: "Chengdu Hotpot Culture Guide: Mala Broth, Ordering Tips & Best Restaurants"
 description: "Master Chengdu's legendary hotpot culture — from understanding the numbing-spicy mala broth and ordering raw ingredients to choosing the best neighbourhood restaurants, managing heat levels, and pairing your meal with local baijiu or craft beer."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Chengdu"
 tags: ["chengdu", "hotpot", "sichuan-food", "mala", "sichuan-cuisine", "food-guide", "restaurants", "spicy-food"]
 ---

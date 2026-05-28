@@ -1,7 +1,7 @@
 ---
 title: "China Street Photography Guide: Best Urban Scenes, Timing & Ethical Practice"
 description: "Master street photography in Chinese cities — the best neighbourhoods for documentary urban photography in Beijing, Shanghai, Chengdu, and Guangzhou, the light and timing that transforms ordinary streets into extraordinary images, how to navigate the sensitivity around photographing people in public spaces, and what camera gear actually works for discreet urban shooting."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "street-photography", "urban-photography", "beijing-hutong", "shanghai", "photography-tips", "documentary", "camera-gear"]
 ---

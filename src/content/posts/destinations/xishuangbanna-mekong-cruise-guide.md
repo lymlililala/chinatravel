@@ -1,7 +1,7 @@
 ---
 title: "Xishuangbanna Mekong River Cruise and Rainforest Guide (Yunnan)"
 description: "Complete guide to the Mekong River cruise from Jinghong (Xishuangbanna) into Myanmar and Laos. Rainforest trekking, Dai minority villages, tropical fruit, and how this corner of Yunnan feels like Southeast Asia."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Xishuangbanna", "Mekong River", "Yunnan", "Dai minority", "tropical China", "nature travel", "China Southeast Asia"]
 ---

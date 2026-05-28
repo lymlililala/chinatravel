@@ -1,7 +1,7 @@
 ---
 title: "Beijing Olympic Park Guide: Bird's Nest, Water Cube & 2008 Legacy"
 description: "Visit Beijing's Olympic Park — the spectacular centerpiece of the 2008 Summer Olympics and 2022 Winter Olympics. Explore the Bird's Nest stadium, Water Cube aquatics center, and the broader Forest Park, with practical tips for getting there and making the most of your visit."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Beijing"
 tags: ["beijing", "olympic-park", "birds-nest", "water-cube", "2008-olympics", "architecture", "chaoyang-district", "modern-beijing"]
 ---

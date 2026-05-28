@@ -1,7 +1,7 @@
 ---
 title: "Learning Tai Chi & Kung Fu in China: A Real Guide for Visitors"
 description: "How to actually learn tai chi and kung fu in China — Wudang Mountain, Shaolin Monastery, short-term classes in major cities, what skill level to expect from different programs, and how to distinguish quality instruction."
-pubDate: 2026-05-15
+pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/china-taichi.jpg"
 category: "toolkit"
 tags: ["tai chi", "kung fu", "martial arts", "cultural experience", "Wudang", "Shaolin"]

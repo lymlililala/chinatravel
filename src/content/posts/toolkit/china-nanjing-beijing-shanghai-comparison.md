@@ -1,7 +1,7 @@
 ---
 title: "Beijing vs Shanghai vs Nanjing: Which Chinese City Is Right for You?"
 description: "Compare Beijing, Shanghai, and Nanjing for a first or second China trip — the honest differences in atmosphere, history depth, food, cost, English accessibility, and what each city is genuinely best at, to help you choose the right itinerary rather than defaulting to the standard Beijing-Shanghai circuit because everyone else does it."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "beijing", "shanghai", "nanjing", "city-comparison", "itinerary", "first-trip", "urban-travel"]
 ---

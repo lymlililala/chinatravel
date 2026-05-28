@@ -1,7 +1,7 @@
 ---
 title: "China Food Allergies & Dietary Restrictions Guide: Navigating Peanuts, Shellfish & More"
 description: "Managing food allergies and dietary restrictions in China — the specific challenges of peanut allergies in a cuisine that uses peanut oil extensively, shellfish and seafood avoidance when it appears in unexpected places, gluten-free eating when wheat is ubiquitous, nut-free dining, and the printable allergy cards in Chinese that actually communicate your needs effectively."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "food-allergies", "peanut-allergy", "dietary-restrictions", "gluten-free", "shellfish", "vegan", "allergy-cards"]
 ---

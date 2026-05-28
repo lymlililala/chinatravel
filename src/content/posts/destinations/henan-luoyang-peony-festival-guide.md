@@ -1,7 +1,7 @@
 ---
 title: "Luoyang Peony Festival & Ancient Capital Guide 2026"
 description: "Complete guide to Luoyang — peony festival in April, Longmen Grottoes UNESCO site, White Horse Temple, and exploring the city that was China's capital for 13 dynasties. Practical tips for 2026."
-pubDate: 2026-05-15
+pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/luoyang-peony.jpg"
 category: "destinations"
 tags: ["Luoyang", "Henan", "peony festival", "Longmen Grottoes", "ancient capital"]

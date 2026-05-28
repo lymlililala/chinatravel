@@ -1,7 +1,7 @@
 ---
 title: "Wuzhen and Xitang Water Towns: Which to Visit and When (Zhejiang Guide)"
 description: "Detailed comparison of Wuzhen vs Xitang water towns in Zhejiang. Which is more authentic, which is better for photography, how to avoid crowds, overnight vs day trip and transport from Shanghai and Hangzhou."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Wuzhen", "Xitang", "Zhejiang water towns", "China water villages", "day trip from Shanghai", "Jiangnan canal towns"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "China Cruise Port Guide: Shanghai, Tianjin, Qingdao & Beyond for Cruise Passengers"
 description: "Navigate China's cruise ports as a ship passenger — getting the most out of a day in Shanghai (cruise terminal to Bund and back), Tianjin's position as the gateway to Beijing (3 hours each way), Qingdao's European colonial architecture and German beer culture, and the practical port-to-city logistics for China's busiest cruise destinations."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "cruise", "shanghai-cruise", "tianjin-cruise", "qingdao", "port-guide", "day-trip", "shore-excursion"]
 ---

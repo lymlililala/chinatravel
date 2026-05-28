@@ -1,7 +1,7 @@
 ---
 title: "China Contemporary Art Guide: 798 Beijing, West Bund Shanghai & The New Scene"
 description: "Navigate China's contemporary art scene — Beijing's 798 Art District and Caochangdi, Shanghai's West Bund cultural corridor and M50, Chengdu's A4 and Blue Roof, the key Chinese artists whose work defines the post-1989 generation, gallery districts, art fairs, and how to experience one of the world's most dynamic art markets as a traveller."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "contemporary-art", "798-art-district", "west-bund", "shanghai", "beijing", "galleries", "art-scene"]
 ---

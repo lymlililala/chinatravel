@@ -1,7 +1,7 @@
 ---
 title: "Drinking Water & Food Hygiene in China: What's Safe and What to Avoid"
 description: "Essential guide to staying healthy in China. Covers tap water safety, bottled water, food hygiene standards at different venue types, stomach illness prevention and what to do if you get sick."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["China health", "food safety", "drinking water China", "travel health", "China hygiene", "stomach illness"]
 ---

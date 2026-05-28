@@ -1,7 +1,7 @@
 ---
 title: "Wuzhen Water Town Zhejiang: How to See the Real Village Behind the Tourist Facade"
 description: "Navigate Wuzhen — Zhejiang's most visited water town and China's most commercialised ancient village, where East Scenic Zone is a living museum of Jiangnan canal culture and West Scenic Zone is a resort. This honest guide explains what is genuine, what is staged, when to visit, and how to make the most of what is genuinely beautiful."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Zhejiang"
 tags: ["zhejiang", "wuzhen", "water-town", "jiangnan", "canal", "ancient-town", "night-scenery", "lu-xun"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Kunming Travel Guide: Spring City Gateway to Yunnan 2026"
 description: "Complete guide to Kunming, Yunnan's capital — the Stone Forest, Dianchi Lake, flower markets, and using Kunming as a base for Yunnan adventures. Climate, transport, food, and practical tips."
-pubDate: 2026-05-15
+pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/kunming-spring.jpg"
 category: "destinations"
 tags: ["Kunming", "Yunnan", "Stone Forest", "travel guide", "spring city"]

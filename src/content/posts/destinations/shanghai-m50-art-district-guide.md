@@ -1,7 +1,7 @@
 ---
 title: "Shanghai M50 Art District Guide: Contemporary Chinese Art in an Old Factory"
 description: "Complete guide to visiting M50 (莫干山路50号) creative art district in Shanghai. Gallery tours, artist studios, what to buy, how to support independent artists, nearby Suzhou Creek walk."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Shanghai", "M50 art district", "contemporary Chinese art", "Shanghai galleries", "Suzhou Creek", "Shanghai culture"]
 ---

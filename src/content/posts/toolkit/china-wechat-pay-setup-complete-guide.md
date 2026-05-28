@@ -1,7 +1,7 @@
 ---
 title: "WeChat Pay Setup Guide for Foreign Visitors 2026: Step-by-Step with Screenshots"
 description: "The complete 2026 guide to setting up WeChat Pay as a foreign visitor in China — the new international card binding process that eliminated the need for a Chinese bank account, troubleshooting common errors, the ¥6,000 monthly spending limit on foreign cards, which payment situations still require cash, and what to do when WeChat Pay fails."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "wechat-pay", "mobile-payment", "setup-guide", "foreign-visitor", "cashless", "visa-mastercard", "payment"]
 ---

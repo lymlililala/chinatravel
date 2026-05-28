@@ -1,7 +1,7 @@
 ---
 title: "Cycling Around Yangshuo: Complete Route Guide for Karst Mountains"
 description: "The ultimate cycling guide for Yangshuo — best cycling routes through karst peaks, Yulong River paths, Moon Hill, and the countryside villages. Bike rentals, road conditions, distances, and what to bring."
-pubDate: 2026-05-15
+pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/yangshuo-cycling.jpg"
 category: "destinations"
 tags: ["Yangshuo", "cycling", "Guilin", "karst mountains", "outdoor adventure"]

@@ -1,7 +1,7 @@
 ---
 title: "China's 55 Ethnic Minorities Guide: Culture, Festivals, and Where to Encounter Them"
 description: "Understand China's ethnic minority cultures — the 55 officially recognised minority nationalities, the key groups visitors encounter (Tibetan, Uyghur, Zhuang, Miao, Yi, Dai, Mongolian, Bai, Naxi), their distinctive festivals and traditions, where they live, how to visit their communities respectfully, and what the Han/minority dynamic means for the traveller."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "ethnic-minorities", "tibetan", "uyghur", "miao", "naxi", "dai", "mongolia", "minority-culture", "diversity"]
 ---

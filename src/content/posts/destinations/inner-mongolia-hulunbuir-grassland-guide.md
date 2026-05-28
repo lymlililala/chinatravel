@@ -1,7 +1,7 @@
 ---
 title: "Hulunbuir Grassland Inner Mongolia: The World's Most Beautiful Grassland in Summer"
 description: "Explore Hulunbuir Grassland in Inner Mongolia — often called the world's most beautiful grassland, covering 93,000 square kilometres with the Mörön River meandering through it, Mongolian and Evenki nomadic communities, Lake Hulun and Lake Buir, the Genghis Khan homeland, and the most accessible authentic nomadic experience in China."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Inner Mongolia"
 tags: ["inner-mongolia", "hulunbuir", "grassland", "nomadic", "mongolian-culture", "mangen-grassland", "hailar", "evenki"]
 ---

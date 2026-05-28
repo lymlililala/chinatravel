@@ -1,7 +1,7 @@
 ---
 title: "China National Parks & Hiking Guide 2026: Best Trails for Every Level"
 description: "Complete guide to hiking in China's national parks and scenic areas — best trails for beginners and experts, permit requirements, best seasons, and what makes China's mountain hiking unique compared to other countries."
-pubDate: 2026-05-15
+pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/china-hiking.jpg"
 category: "toolkit"
 tags: ["hiking", "national parks", "outdoor China", "trails", "adventure travel"]

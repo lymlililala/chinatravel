@@ -1,7 +1,7 @@
 ---
 title: "Pingyao Ancient City Shanxi: China's Best-Preserved Ming Dynasty Walled Town"
 description: "The complete guide to Pingyao in Shanxi — a UNESCO World Heritage walled city that has been continuously inhabited for 2,700 years, with the best-preserved Ming dynasty city walls in China, the origin of modern Chinese banking, a thriving traditional craft scene, and streets where the 19th century is still architecturally intact."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Shanxi"
 tags: ["shanxi", "pingyao", "ancient-city", "UNESCO", "ming-dynasty", "city-walls", "shanxi-banking", "courtyard-houses"]
 ---

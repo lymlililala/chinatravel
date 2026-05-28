@@ -1,7 +1,7 @@
 ---
 title: "Getting from Beijing Airport to City Center: All Transport Options Compared (2026)"
 description: "Complete guide to all transport options from Beijing Capital Airport (PEK) and Daxing Airport (PKX) to the city center. Airport Express train, taxi, Didi, bus routes and costs."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Beijing airport transport", "Beijing Capital Airport", "Beijing Daxing Airport", "airport express Beijing", "getting to Beijing", "China airport"]
 ---

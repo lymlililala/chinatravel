@@ -1,7 +1,7 @@
 ---
 title: "Traditional Chinese Medicine for Tourists: What to Try, Where to Go and What to Expect"
 description: "Guide to experiencing Traditional Chinese Medicine (TCM) in China as a tourist. Covers acupuncture, cupping, tui na massage, herbal tea, TCM hospitals vs tourist traps, and safety."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Traditional Chinese Medicine", "TCM", "acupuncture China", "Chinese massage", "cupping therapy", "China wellness", "health tourism"]
 ---

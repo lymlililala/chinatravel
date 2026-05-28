@@ -1,7 +1,7 @@
 ---
 title: "Ningxia Wine Country: Helan Mountain East Foot Wineries & Desert Landscape"
 description: "Discover Ningxia's emerging wine region in the shadow of the Helan Mountains — China's answer to Bordeaux, where Cabernet Sauvignon thrives at 1,200m altitude in desert conditions, award-winning wineries offer tastings, and the contrast of vines against arid landscape makes for unexpected beauty."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Ningxia"
 tags: ["ningxia", "wine", "helan-mountain", "winery", "vineyard", "yinchuan", "chinese-wine", "desert-wine", "cabernet"]
 ---

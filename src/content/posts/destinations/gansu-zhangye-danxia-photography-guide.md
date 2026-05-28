@@ -1,7 +1,7 @@
 ---
 title: "Zhangye Danxia Rainbow Mountains Photography Guide: Best Viewpoints and Golden Hour"
 description: "Complete photography guide to Zhangye Danxia National Geopark in Gansu. Best viewpoints for sunset, timing for perfect light, getting there, nearby attractions and tips for landscape photographers."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Zhangye Danxia", "rainbow mountains China", "Gansu", "China photography", "landscape photography", "Silk Road", "丹霞地貌"]
 ---

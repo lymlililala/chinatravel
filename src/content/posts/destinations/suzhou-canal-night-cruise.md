@@ -1,7 +1,7 @@
 ---
 title: "Suzhou Canal Night Cruise & Water Town Guide"
 description: "Complete guide to Suzhou's canal system — best night cruises, water town day trips (Zhouzhuang, Tongli, Wuzhen), how to take the boat rather than walking, and combining Suzhou's canals with its classical gardens."
-pubDate: 2026-05-15
+pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/suzhou-canal.jpg"
 category: "destinations"
 tags: ["Suzhou", "canals", "water town", "night cruise", "Jiangsu"]

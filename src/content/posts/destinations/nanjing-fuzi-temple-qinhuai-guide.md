@@ -1,7 +1,7 @@
 ---
 title: "Nanjing Fuzi Temple & Qinhuai River: Night Cruise, Street Food & History"
 description: "Discover Nanjing's Fuzi Temple (Confucius Temple) and Qinhuai River district — lantern-lit night cruises, Ming-era architecture, legendary local snacks like salted duck and tangbao, and the living history of China's ancient southern capital."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Nanjing"
 tags: ["nanjing", "fuzi-temple", "qinhuai-river", "jiangsu", "night-cruise", "street-food", "history", "confucius-temple"]
 ---

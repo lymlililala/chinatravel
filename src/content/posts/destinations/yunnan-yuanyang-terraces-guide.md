@@ -1,7 +1,7 @@
 ---
 title: "Yuanyang Rice Terraces: Complete Photography & Travel Guide"
 description: "Everything about visiting Yuanyang's famous Hani rice terraces in Yunnan — best viewpoints, sunrise and sunset photography spots, when the terraces flood (October-April), Hani village life, and practical logistics."
-pubDate: 2026-05-15
+pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/yuanyang-terraces.jpg"
 category: "destinations"
 tags: ["Yuanyang", "rice terraces", "Yunnan", "photography", "Hani minority"]

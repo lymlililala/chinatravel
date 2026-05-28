@@ -1,7 +1,7 @@
 ---
 title: "Jiuzhaigou and Huanglong Combined: The Ultimate Sichuan High-Altitude Tour"
 description: "Complete guide to visiting both Jiuzhaigou Valley and Huanglong Scenic Area in one trip. Combining routes, best season, altitude tips, transport between the two sites and 5-day itinerary."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Jiuzhaigou", "Huanglong", "Sichuan", "China UNESCO sites", "altitude travel", "turquoise lakes", "九寨沟"]
 ---

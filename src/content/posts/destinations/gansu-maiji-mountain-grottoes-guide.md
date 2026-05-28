@@ -1,7 +1,7 @@
 ---
 title: "Maijishan Grottoes Gansu: China's Most Dramatic Buddhist Cliff Sculptures"
 description: "Discover Maijishan in Gansu — one of China's four great Buddhist grotto complexes, carved into a sheer 142-metre cliff since the 4th century CE, with 7,200 clay sculptures visible on open-air walkways bolted into the rock face above a forested Silk Road valley."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Gansu"
 tags: ["gansu", "maijishan", "grottoes", "buddhist-art", "tianshui", "cliff-sculptures", "silk-road", "clay-figures"]
 ---

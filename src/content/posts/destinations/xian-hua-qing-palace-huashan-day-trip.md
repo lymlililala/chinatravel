@@ -1,7 +1,7 @@
 ---
 title: "Xi'an Day Trips: Hua Qing Palace Hot Springs and Mount Hua Overnight Hike"
 description: "Complete guide to two essential Xi'an day trips: the Hua Qing Palace imperial hot springs (骊山温泉) and the overnight hike on Mount Hua (华山). Logistics, timing, overnight strategy and the plank walk."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Xi'an", "Hua Qing Palace", "Mount Hua", "Huashan", "Xi'an day trips", "China hiking", "Shaanxi"]
 ---

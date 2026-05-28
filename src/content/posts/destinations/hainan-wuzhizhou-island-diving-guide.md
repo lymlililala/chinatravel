@@ -1,7 +1,7 @@
 ---
 title: "Wuzhizhou Island Hainan: China's Best Snorkeling & Tropical Diving"
 description: "Discover Wuzhizhou Island off Sanya, Hainan — China's premier tropical water sports destination, with excellent coral reef snorkeling, beginner and advanced scuba diving, glass-bottom boat tours, and pristine turquoise waters that rival Southeast Asian island destinations."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Hainan"
 tags: ["hainan", "wuzhizhou-island", "diving", "snorkeling", "sanya", "coral-reef", "water-sports", "tropical", "beach"]
 ---

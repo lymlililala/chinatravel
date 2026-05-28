@@ -1,7 +1,7 @@
 ---
 title: "Didi in China 2026: Complete Guide for Foreign Tourists (Setup, Payment, Safety)"
 description: "How foreign visitors can use Didi (China's Uber) with a non-Chinese phone number. Covers app setup, payment with foreign cards, safety features, communicating with drivers, and alternatives."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Didi China", "ride hailing China", "taxi China", "Didi app", "China transport", "China travel tips"]
 ---

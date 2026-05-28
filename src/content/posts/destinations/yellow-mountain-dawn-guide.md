@@ -1,7 +1,7 @@
 ---
 title: "Huangshan Dawn at the Top: Watching Sunrise at Yellow Mountain"
 description: "Complete guide to watching sunrise from Huangshan (Yellow Mountain) — which peaks offer the best dawn views, how to time your ascent, staying overnight on the mountain, and what photographers need to know."
-pubDate: 2026-05-15
+pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/huangshan-dawn.jpg"
 category: "destinations"
 tags: ["Huangshan", "Yellow Mountain", "sunrise", "photography", "Anhui"]

@@ -1,7 +1,7 @@
 ---
 title: "China Museum Guide: The 15 Best Collections Every Serious Visitor Should Know"
 description: "Navigate China's extraordinary museum landscape — from the National Museum of China's 1.4 million artefacts to provincial collections that outshine national ones, the Shaanxi History Museum's Silk Road gold, Shanghai Museum's bronze collection, and the lesser-known institutions that hold objects of international significance without the crowds."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "museums", "national-museum", "shaanxi-history-museum", "shanghai-museum", "palace-museum", "cultural-heritage", "archaeology"]
 ---

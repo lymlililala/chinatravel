@@ -1,7 +1,7 @@
 ---
 title: "Beijing Hutong and Siheyuan Guide: Living Inside the Ancient Capital's Alleyways"
 description: "Complete guide to exploring Beijing's hutong alleyways and siheyuan courtyard houses. The best hutong areas, what to look for architecturally, eating in the alleys, staying in a courtyard hotel, and what's disappearing."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Beijing hutong", "siheyuan", "Beijing history", "hutong tour", "courtyard hotel Beijing", "traditional Beijing"]
 ---

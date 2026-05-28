@@ -1,7 +1,7 @@
 ---
 title: "Photography in China: What You Can and Cannot Photograph (2026 Rules)"
 description: "Complete guide to photography rules in China for tourists. What's allowed at the Forbidden City, temples and tourist sites. What's prohibited near military, airports and sensitive areas. Camera gear tips."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["photography China", "China travel photography", "camera tips", "China photography rules", "tourist photography"]
 ---

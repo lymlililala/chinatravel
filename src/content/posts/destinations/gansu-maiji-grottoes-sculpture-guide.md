@@ -1,7 +1,7 @@
 ---
 title: "Maiji Mountain Grottoes Guide: Gansu's Cliffside Buddhist Sculptures"
 description: "Explore the Maiji Mountain Grottoes in Gansu — the fourth of China's Four Great Grottoes, with extraordinary clay and sandstone Buddhist sculptures from the Northern Wei through Song dynasties, carved into vertiginous cliffside galleries connected by ancient wooden scaffolding walkways."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Gansu"
 tags: ["gansu", "maiji-mountain", "grottoes", "buddhist-sculpture", "silk-road", "tianshui", "clay-sculpture", "cave-art", "UNESCO"]
 ---

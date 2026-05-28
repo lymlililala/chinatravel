@@ -1,7 +1,7 @@
 ---
 title: "Chengdu Tianfu New Area: Tech Parks, Science City & Future Sichuan"
 description: "Explore Chengdu's Tianfu New Area — China's newest national-level economic zone south of the city, featuring a futuristic science museum, tech parks, the Xinglong Lake district, and the emerging cultural venues that define contemporary Chengdu beyond pandas and hotpot."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Chengdu"
 tags: ["chengdu", "tianfu-new-area", "technology", "science-museum", "modern-chengdu", "xinglong-lake", "new-district", "innovation"]
 ---

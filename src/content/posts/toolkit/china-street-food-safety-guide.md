@@ -1,7 +1,7 @@
 ---
 title: "Eating Street Food in China Safely: What Locals Know"
 description: "Complete guide to safely eating Chinese street food — how to identify safe vendors, what to order, which foods to be cautious with, dealing with stomach issues abroad, and building confidence eating street food in China."
-pubDate: 2026-05-15
+pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/china-street-food.jpg"
 category: "toolkit"
 tags: ["street food", "food safety", "China travel tips", "eating guide", "health travel"]

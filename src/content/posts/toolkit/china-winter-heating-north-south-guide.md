@@ -1,7 +1,7 @@
 ---
 title: "Why Is It So Cold Inside in China? North vs South Heating System Explained"
 description: "The infamous difference between northern and southern China's heating systems and why buildings in Shanghai feel colder than buildings in Beijing in winter. Practical advice for winter travelers."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["China winter", "China heating", "winter travel China", "north vs south China", "accommodation tips", "cold weather"]
 ---

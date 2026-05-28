@@ -1,7 +1,7 @@
 ---
 title: "Yunnan Nujiang Grand Canyon: China's Last Frontier River Valley"
 description: "Journey through the Nujiang (Salween) Grand Canyon in northwest Yunnan — China's deepest and most remote river valley, home to Tibetan, Lisu, Nu, and Dulong ethnic communities, Catholic churches built by French missionaries, and stunning mountain scenery."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Yunnan"
 tags: ["yunnan", "nujiang", "salween", "grand-canyon", "ethnic-minorities", "lisu", "tibetan", "remote-travel", "trekking"]
 ---

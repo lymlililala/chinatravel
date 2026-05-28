@@ -1,7 +1,7 @@
 ---
 title: "Hefei & Anhui Province Travel Guide: Science City and Ancient Villages"
 description: "Discover Hefei, Anhui's modern capital, and the stunning villages and mountains of Anhui province. From Huizhou architecture in Hongcun to Huangshan mountain, plus practical tips for exploring Anhui in 2026."
-pubDate: 2026-05-15
+pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/hefei-anhui.jpg"
 category: "destinations"
 tags: ["Hefei", "Anhui", "Hongcun", "Huizhou", "ancient villages"]

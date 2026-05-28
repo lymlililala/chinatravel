@@ -1,7 +1,7 @@
 ---
 title: "China Landscape Photography Guide: The Best Locations, Light, and Seasons"
 description: "The landscape photographer's guide to China — the Zhangjiajie mist-filled pillar shots, the Yuanyang rice terrace reflections at dawn, the Badain Jaran Desert star trails, the Jiuzhaigou autumn colours, timing your shots around weather windows, and the practical permits, access, and camera gear considerations for China's most photogenic destinations."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "photography", "landscape-photography", "zhangjiajie", "yuanyang", "jiuzhaigou", "desert", "photography-tips"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Hong Kong Temple Street Night Market: Fortune Tellers, Street Opera & Best Stalls"
 description: "Navigate Hong Kong's most famous night market on Temple Street in Jordan — from fortune tellers and Cantonese opera singers to the best seafood stalls, jade market at Man Ming Lane, and the authentic working-class Kowloon neighbourhood it inhabits."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Hong Kong"
 tags: ["hong-kong", "temple-street", "night-market", "jordan", "kowloon", "fortune-tellers", "cantonese-opera", "seafood", "jade-market"]
 ---

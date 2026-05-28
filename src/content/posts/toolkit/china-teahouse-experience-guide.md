@@ -1,7 +1,7 @@
 ---
 title: "China Teahouse Experience Guide: From Chengdu Laziness to Hangzhou Ceremony"
 description: "Experience China's teahouse culture as a traveller — the complete guide to Chengdu's public park tea culture, Hangzhou's West Lake teahouses with Longjing tea, Beijing's hutong tea ceremony options, Fujian's Gongfu tea ritual, what to order, what to pay, and how to spend two hours in a teahouse as the best slow-travel activity available."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "teahouse", "tea-culture", "chengdu", "hangzhou", "longjing", "gongfu-tea", "slow-travel"]
 ---

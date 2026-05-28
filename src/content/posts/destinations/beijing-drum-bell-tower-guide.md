@@ -1,7 +1,7 @@
 ---
 title: "Beijing Drum Tower & Bell Tower Guide: Time in the Imperial Capital"
 description: "Complete guide to Beijing's Drum Tower and Bell Tower — history, what to see, climbing tips, the drum performances, and exploring the surrounding Gulou neighborhood with its cafes, hutongs, and local life."
-pubDate: 2026-05-15
+pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/beijing-drum-tower.jpg"
 category: "destinations"
 tags: ["Beijing", "Drum Tower", "Bell Tower", "Gulou", "hutong"]

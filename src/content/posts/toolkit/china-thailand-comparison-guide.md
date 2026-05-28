@@ -1,7 +1,7 @@
 ---
 title: "China vs Thailand Travel Comparison: Southeast Asia or East Asia for Your Trip?"
 description: "Comparing travel in China versus Thailand — costs, beaches vs. mountains, cultural experiences, visa ease, food, and the popular China-Thailand combined itinerary options."
-pubDate: 2026-05-15
+pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/china-thailand-comparison.jpg"
 category: "toolkit"
 tags: ["China vs Thailand", "travel comparison", "Southeast Asia", "trip planning", "Bangkok"]

@@ -1,7 +1,7 @@
 ---
 title: "Nanjing City Wall Guide: Walking the World's Longest Ancient City Wall"
 description: "Complete guide to walking Nanjing's Ming Dynasty city wall — the longest ancient city wall in the world. Best sections to walk, Zhonghua Gate fortress, history, practical info and where to access."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Nanjing", "city wall", "Ming Dynasty", "Zhonghua Gate", "Jiangsu tourism", "China history", "ancient fortification"]
 ---

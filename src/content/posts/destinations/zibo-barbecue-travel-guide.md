@@ -1,7 +1,7 @@
 ---
 title: "Zibo Barbecue Travel Guide: China's Viral Street Food City in Shandong"
 description: "Complete guide to visiting Zibo for its famous barbecue (烧烤). Where to find the best BBQ restaurants, what to order, how to use the special small grill and rolling technique, day trips and getting there."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Zibo", "Zibo BBQ", "Shandong food", "China food tourism", "street food", "烧烤", "China travel"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "China Visa Run & Border Crossing Guide 2026: Hong Kong, Macau & Land Borders"
 description: "Navigate visa runs and border crossings from China — leaving and re-entering via Hong Kong, Macau, Vietnam, Myanmar, and Kazakhstan for visa renewal or tourism extension, the 144-hour and 72-hour transit visa programs, how the border procedures actually work, and what has changed post-2023 for frequent China travellers."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "visa-run", "border-crossing", "hong-kong", "macau", "vietnam-border", "transit-visa", "visa-extension"]
 ---

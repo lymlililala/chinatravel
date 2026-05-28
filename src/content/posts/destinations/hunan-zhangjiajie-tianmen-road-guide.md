@@ -1,7 +1,7 @@
 ---
 title: "Tianmen Mountain Hunan: Glass Walkway, World's Highest Cable Car & Heaven's Gate"
 description: "Experience Tianmen Mountain near Zhangjiajie — ride the world's longest cable car over vertiginous cliffs, walk the glass skywalk, climb 999 steps to Heaven's Gate cave, and drive the famous 99-bend mountain road in one of China's most thrilling nature parks."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Hunan"
 tags: ["hunan", "zhangjiajie", "tianmen-mountain", "glass-walkway", "cable-car", "heavens-gate", "adventure", "nature"]
 ---

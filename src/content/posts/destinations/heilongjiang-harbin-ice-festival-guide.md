@@ -1,7 +1,7 @@
 ---
 title: "Harbin Ice Festival Guide: The World's Largest Ice and Snow Sculpture Event"
 description: "Everything you need to know about the Harbin International Ice and Snow Festival in Heilongjiang — the world's largest winter festival, with ice buildings the size of city blocks lit from within at night, intricate snow sculpture competitions, the best time to visit, how to handle -25°C temperatures, and what to eat in China's most Russian-influenced city."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Heilongjiang"
 tags: ["heilongjiang", "harbin", "ice-festival", "winter", "ice-sculpture", "snow-sculpture", "russia-influence", "cold-weather"]
 ---

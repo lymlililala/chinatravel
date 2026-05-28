@@ -1,7 +1,7 @@
 ---
 title: "Jingdezhen Jiangxi: The Porcelain Capital That Supplied the World for 1,000 Years"
 description: "Explore Jingdezhen in Jiangxi — China's ceramic capital for over 1,700 years, where imperial kilns produced porcelain for the Song, Ming, and Qing courts, and where today a vibrant community of ceramic artists from around the world continues the tradition. Includes kiln tours, workshops, the Imperial Kiln Museum, and where to buy genuine Jingdezhen ceramics."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Jiangxi"
 tags: ["jiangxi", "jingdezhen", "porcelain", "ceramics", "imperial-kiln", "blue-and-white", "ceramic-art", "workshop"]
 ---

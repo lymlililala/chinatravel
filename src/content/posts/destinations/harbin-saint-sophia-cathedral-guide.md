@@ -1,7 +1,7 @@
 ---
 title: "Harbin Architecture Guide: Saint Sophia Cathedral and Russian Heritage"
 description: "Guide to Harbin's extraordinary Russian and Art Nouveau architecture. Saint Sophia Cathedral, Zhongyang Pedestrian Street, the History Museum and why Harbin looks like a European city."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Harbin", "Saint Sophia Cathedral", "Harbin architecture", "Russian history China", "Heilongjiang", "Harbin travel"]
 ---

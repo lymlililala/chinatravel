@@ -1,7 +1,7 @@
 ---
 title: "China Bike & E-Scooter Sharing Guide 2026: Riding Meituan, Hello Bike & Didi"
 description: "Master China's extensive bike and electric scooter sharing system — registering on the three main platforms (Meituan Bike, Hello Bike, Didi Bike) with a foreign phone, deposit requirements, the difference between regular bikes and electric-assist, helmet rules, and how to use bike sharing for day trips that transform your experience of Chinese cities."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "bike-sharing", "e-scooter", "meituan-bike", "hello-bike", "didi-bike", "cycling", "transport", "urban-mobility"]
 ---

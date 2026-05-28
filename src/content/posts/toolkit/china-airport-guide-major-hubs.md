@@ -1,7 +1,7 @@
 ---
 title: "China Airport Guide 2026: Beijing, Shanghai, Guangzhou & All Major Hubs"
 description: "Complete guide to China's major airports for international travelers. Terminal layouts, transit procedures, immigration tips, duty-free, lounges, and connections to city centers."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["China airports", "Beijing Capital Airport", "Shanghai Pudong", "Guangzhou Baiyun", "airport guide", "transit visa"]
 ---

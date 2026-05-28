@@ -1,7 +1,7 @@
 ---
 title: "Shexian Ancient Memorial Arches: Huizhou's Greatest Stone Monuments"
 description: "Explore the Tang Yue Memorial Arches and ancient streets of Shexian in Anhui — the remarkable Huizhou memorial arch complex commemorating Bao Gong's loyal ancestors, the best-preserved ancient county town in Anhui, extraordinary ink stone craft tradition, and how to visit from Huangshan."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Anhui"
 tags: ["anhui", "shexian", "memorial-arches", "tang-yue", "huizhou", "architecture", "ink-stone", "bao-gong", "ancient-town"]
 ---

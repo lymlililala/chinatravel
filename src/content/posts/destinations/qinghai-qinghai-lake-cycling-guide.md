@@ -1,7 +1,7 @@
 ---
 title: "Qinghai Lake Cycling Guide: China's Largest Lake & High-Altitude Circuit"
 description: "The complete guide to cycling around Qinghai Lake — China's largest saltwater lake at 3,200m altitude, famous for its cobalt-blue water against snow-capped peaks, Tibetan grasslands with nomadic herders, and a 360km circuit that is one of China's best multi-day cycling routes."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Qinghai"
 tags: ["qinghai", "qinghai-lake", "cycling", "high-altitude", "tibetan-plateau", "lake", "adventure-travel", "photography"]
 ---

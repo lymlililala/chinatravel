@@ -1,7 +1,7 @@
 ---
 title: "Wuyuan Jiangxi: White-Walled Villages, Autumn Ginkgo & China's Most Beautiful Countryside"
 description: "Explore Wuyuan County in Jiangxi — famed as 'the most beautiful countryside in China', with well-preserved Huizhou villages of white walls and black tiles, spectacular autumn ginkgo trees turning gold against the architecture, rapeseed flowers in spring, and authentic rural Chinese life."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Jiangxi"
 tags: ["jiangxi", "wuyuan", "huizhou", "white-walls", "ginkgo-trees", "countryside", "ancient-village", "autumn", "rapeseed-flowers"]
 ---

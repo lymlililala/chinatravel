@@ -1,7 +1,7 @@
 ---
 title: "Qufu Confucius Temple, Cemetery & Mansion: Complete Guide 2026"
 description: "Complete guide to Qufu, birthplace of Confucius — the Kong Family Mansion, Confucius Temple, and Confucius Cemetery (the three Kongs). UNESCO World Heritage site in Shandong. Tickets, routes, and practical tips."
-pubDate: 2026-05-15
+pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/qufu-confucius.jpg"
 category: "destinations"
 tags: ["Qufu", "Shandong", "Confucius", "UNESCO", "Chinese culture"]

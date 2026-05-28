@@ -1,7 +1,7 @@
 ---
 title: "China Tai Chi & Wellness Retreat Guide: Where to Learn, Study & Practice"
 description: "Find authentic Tai Chi, Qigong, and traditional wellness experiences in China — Chen-style Tai Chi in Chenjiagou (the birthplace), Wudang Mountain's Taoist martial arts, TCM wellness centres in Chengdu and Beijing, the morning park exercise culture that every visitor can join, and multi-week study programmes for serious practitioners."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "tai-chi", "qigong", "wellness", "wudang", "taoist-martial-arts", "tcm", "morning-exercise", "retreat"]
 ---

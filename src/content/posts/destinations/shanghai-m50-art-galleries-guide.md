@@ -1,7 +1,7 @@
 ---
 title: "Shanghai M50 Art District & Contemporary Art Scene Guide"
 description: "Explore Shanghai's contemporary art scene — from the M50 galleries on Moganshan Road to the West Bund art corridor, Red Town, and the global art fairs that make Shanghai one of Asia's most important contemporary art cities. A guide for serious art visitors and curious tourists alike."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Shanghai"
 tags: ["shanghai", "contemporary-art", "M50", "moganshan-road", "west-bund", "art-galleries", "art-district", "modern-art", "culture"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Traveling China During Spring Festival (Lunar New Year) 2026: Complete Guide"
 description: "Everything you need to know about traveling in China during Chinese New Year / Spring Festival. Crowds, transport chaos, what's open, what's closed, celebrations to see, and whether it's worth visiting."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Spring Festival", "Chinese New Year", "China travel", "Lunar New Year", "China holidays", "festivals China"]
 ---

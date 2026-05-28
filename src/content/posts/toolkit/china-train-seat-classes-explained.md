@@ -1,7 +1,7 @@
 ---
 title: "China Train Seat Classes Explained: G, D, Z, K Trains and All Ticket Types"
 description: "Understand every class on Chinese trains: business class, first class, second class, soft sleeper, hard sleeper and hard seat. Includes prices, comfort levels and which to book."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["China train", "high-speed rail", "sleeper train", "seat classes", "China travel", "transport"]
 ---

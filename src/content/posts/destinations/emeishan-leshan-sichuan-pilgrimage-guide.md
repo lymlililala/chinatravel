@@ -1,7 +1,7 @@
 ---
 title: "Mount Emei and Leshan Giant Buddha: Sichuan's Ultimate UNESCO Pilgrimage"
 description: "Complete combined guide to Mount Emei (峨眉山) and Leshan Giant Buddha (乐山大佛) — two UNESCO World Heritage Sites in Sichuan. Summit strategy, the monkeys, the 71m Buddha, and 3-day itinerary."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Mount Emei", "Leshan Giant Buddha", "Sichuan", "UNESCO China", "Buddhist pilgrimage", "Emeishan", "China hiking"]
 ---

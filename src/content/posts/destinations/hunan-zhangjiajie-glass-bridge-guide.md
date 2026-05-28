@@ -1,7 +1,7 @@
 ---
 title: "Zhangjiajie Glass Bridge & Tianmen Mountain: The World's Most Thrilling Walks"
 description: "Navigate the Zhangjiajie Glass Bridge — the world's longest and highest glass-bottomed bridge — and Tianmen Mountain's Glass Skywalk and Heaven's Gate arch in Hunan. What to expect, how to prepare, ticketing logistics, the best photography spots, and how to combine with the Avatar Mountains in Zhangjiajie National Forest Park."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Hunan"
 tags: ["hunan", "zhangjiajie", "glass-bridge", "tianmen-mountain", "heaven-gate", "skywalk", "avatar-mountains", "adventure"]
 ---

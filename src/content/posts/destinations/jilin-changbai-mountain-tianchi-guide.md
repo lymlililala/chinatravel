@@ -1,7 +1,7 @@
 ---
 title: "Changbai Mountain Tianchi Guide: China's Sacred Volcanic Lake & Winter Wonderland"
 description: "Complete guide to Changbai Mountain and Tianchi (Heaven Lake) in Jilin — China's highest volcanic caldera lake on the North Korea border, the legendary North Slope waterfall, winter snow activities, and visiting this sacred mountain in each season."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Jilin"
 tags: ["jilin", "changbai-mountain", "tianchi", "heaven-lake", "volcanic-lake", "north-korea-border", "winter", "waterfall", "sacred-mountain"]
 ---

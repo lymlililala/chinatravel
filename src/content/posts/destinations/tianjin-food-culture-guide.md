@@ -1,7 +1,7 @@
 ---
 title: "Tianjin Food Culture Guide: Goubuli Baozi, Jianbing & Local Snack Streets"
 description: "Discover Tianjin's remarkable food culture — the famous Goubuli stuffed buns, the original jianbing crepe, 18th Street twisted dough sticks, distinctive local hotpot style, and the snack streets where Tianjin's working-class culinary pride lives on."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Tianjin"
 tags: ["tianjin", "food", "goubuli", "jianbing", "local-cuisine", "snacks", "baozi", "street-food", "hutong-food"]
 ---

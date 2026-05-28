@@ -1,7 +1,7 @@
 ---
 title: "Shanghai Jing'an District Guide: Temples, Malls & Hidden Cafes"
 description: "Explore Shanghai's Jing'an district — from the historic Jing'an Temple and Nanjing West Road luxury shopping to hidden specialty coffee shops and art spaces in Jing'an. A complete neighborhood guide for 2026."
-pubDate: 2026-05-15
+pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/shanghai-jingan.jpg"
 category: "destinations"
 tags: ["Shanghai", "Jing'an", "shopping", "temples", "neighborhood guide"]

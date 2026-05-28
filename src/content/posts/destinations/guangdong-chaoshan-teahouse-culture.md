@@ -1,7 +1,7 @@
 ---
 title: "Chaoshan Tea Culture Guide: The Most Serious Tea Drinkers in China"
 description: "Guide to Chaoshan (Chaozhou-Shantou) tea culture in Guangdong — the gongfu tea ceremony in its natural habitat, the best tea houses, Dancong oolong varieties, and why Chaoshan people drink tea more intensely than anywhere else."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Chaoshan", "Chaozhou tea", "gongfu tea ceremony", "Dancong oolong", "Guangdong tea culture", "Chinese tea"]
 ---

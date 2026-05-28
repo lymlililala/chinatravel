@@ -1,7 +1,7 @@
 ---
 title: "Wuyi Mountain Fujian: Rock Oolong Tea, Nine-Bend River & UNESCO Scenery"
 description: "Explore Wuyi Mountain in Fujian — birthplace of famous Da Hong Pao and other rock oolong teas, bamboo raft trips on the Nine-Bend River, ancient Taoist heritage, and stunning sandstone peak scenery in one of China's most distinctive UNESCO World Heritage landscapes."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Fujian"
 tags: ["fujian", "wuyi-mountain", "oolong-tea", "da-hong-pao", "nine-bend-river", "bamboo-raft", "wuyi-rock-tea", "UNESCO"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Sichuan Hot Pot Complete Guide: How to Order, What to Dip, and Survive the Spice"
 description: "Master Sichuan hot pot in Chengdu and Chongqing — the complete guide to choosing your broth (split pot, single broth), the essential and adventurous ingredients, the dipping sauce you build yourself, the correct order to cook ingredients, managing the numbing-spicy flavour, the best value hot pot experience versus the premium Haidilao chain, and the unwritten rules of hot pot dining."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "sichuan-hotpot", "chongqing-hotpot", "haidilao", "spicy-food", "food-guide", "chengdu", "communal-dining"]
 ---

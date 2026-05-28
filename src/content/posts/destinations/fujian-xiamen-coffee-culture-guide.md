@@ -1,7 +1,7 @@
 ---
 title: "Xiamen Coffee and Café Culture Guide: China's Best Coffee City"
 description: "Guide to Xiamen's extraordinary café and specialty coffee scene. Why Xiamen has the best coffee culture in China, the Zhongshan Road area cafés, island café hopping and the best local roasters."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Xiamen", "China coffee", "café Xiamen", "specialty coffee China", "Xiamen travel", "China café culture", "Fujian"]
 ---

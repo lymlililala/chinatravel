@@ -1,7 +1,7 @@
 ---
 title: "Guangzhou Dim Sum Guide: Where to Eat Yum Cha Like a Local"
 description: "Complete guide to eating dim sum (yum cha) in Guangzhou — the best traditional teahouses, what to order, how the ordering system works, tea culture, and the difference between Guangzhou dim sum and what you find outside China."
-pubDate: 2026-05-15
+pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/guangzhou-dimsum.jpg"
 category: "destinations"
 tags: ["Guangzhou", "dim sum", "yum cha", "Cantonese food", "teahouse"]

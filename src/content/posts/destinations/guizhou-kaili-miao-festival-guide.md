@@ -1,7 +1,7 @@
 ---
 title: "Kaili & Miao Festivals in Guizhou: Traditional Culture Immersion Guide"
 description: "Complete guide to experiencing Miao (Hmong) festivals in Kaili, Guizhou — the Miao New Year, Lusheng Festival, drumming competitions, traditional clothing, authentic village visits vs. staged performances."
-pubDate: 2026-05-15
+pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/kaili-miao-festival.jpg"
 category: "destinations"
 tags: ["Kaili", "Guizhou", "Miao", "ethnic festival", "cultural immersion"]

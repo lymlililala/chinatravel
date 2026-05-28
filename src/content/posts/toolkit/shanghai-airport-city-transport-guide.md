@@ -1,7 +1,7 @@
 ---
 title: "Getting from Shanghai Airport to City Center: Maglev, Metro & All Options (2026)"
 description: "Complete transport guide from Shanghai Pudong Airport (PVG) and Hongqiao Airport (SHA) to the city center. Includes maglev, metro Line 2, taxi, shuttle bus routes and fare comparison."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Shanghai airport transport", "Pudong Airport", "Hongqiao Airport", "maglev Shanghai", "getting to Shanghai", "airport guide Shanghai"]
 ---

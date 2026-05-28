@@ -1,7 +1,7 @@
 ---
 title: "China Night Train Experience: How to Enjoy an Overnight Sleeper Train Journey"
 description: "Complete guide to overnight sleeper train travel in China. What to pack, what to expect, hard vs soft sleeper comparison, dining car, hygiene tips and the best overnight routes."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["China sleeper train", "overnight train China", "hard sleeper", "soft sleeper", "train travel China", "budget travel"]
 ---

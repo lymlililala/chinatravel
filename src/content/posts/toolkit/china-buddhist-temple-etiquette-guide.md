@@ -1,7 +1,7 @@
 ---
 title: "China Buddhist Temple Etiquette Guide: How to Visit Respectfully and What to Expect"
 description: "Navigate Buddhist temples in China with confidence — the correct behaviour when entering temples, what the different hall types contain, the meaning of the rituals you'll observe, which temples are active religious sites versus tourist attractions, how to participate in incense burning if you choose to, and the etiquette for interacting with monks and nuns."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "buddhist-temple", "etiquette", "religion", "visiting-temples", "monks", "incense", "religious-sites"]
 ---

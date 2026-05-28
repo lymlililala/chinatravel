@@ -1,7 +1,7 @@
 ---
 title: "China Travel Scams Guide 2026: The 12 Most Common Tourist Scams and How to Avoid Them"
 description: "Protect yourself from the 12 most common scams targeting tourists in China in 2026 — the 'art student' scam, the tea ceremony trap, the fake monk, overpriced taxis, the nightclub bill shock, counterfeit goods, and how to recognise them before they cost you money. Includes the specific scripts used in each scam."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "scams", "safety", "tourist-traps", "art-student-scam", "tea-ceremony-scam", "travel-safety", "consumer-protection"]
 ---

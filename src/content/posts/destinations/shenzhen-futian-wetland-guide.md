@@ -1,7 +1,7 @@
 ---
 title: "Shenzhen Futian Mangrove Wetland Guide: Birdwatching and Urban Nature"
 description: "Guide to visiting Futian Mangrove Nature Reserve in Shenzhen — one of the world's smallest but most biodiverse urban wetlands. Best for birdwatching, cycling and escaping the city within the city."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Shenzhen", "Futian wetland", "mangrove", "birdwatching China", "Shenzhen nature", "urban park Shenzhen"]
 ---

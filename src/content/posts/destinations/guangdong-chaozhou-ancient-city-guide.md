@@ -1,7 +1,7 @@
 ---
 title: "Chaozhou Guangdong: The Ancient City Where Teochew Culture Was Born"
 description: "Discover Chaozhou in Guangdong — one of China's most culturally distinct cities, birthplace of Teochew cuisine and Gongfu tea culture, home to a remarkably intact ancient city with 1,600-year-old walls and streets of carved wooden shophouses, and the source of overseas Chinese communities across Southeast Asia."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Guangdong"
 tags: ["guangdong", "chaozhou", "teochew", "gongfu-tea", "ancient-city", "chaoshan", "cuisine", "overseas-chinese"]
 ---

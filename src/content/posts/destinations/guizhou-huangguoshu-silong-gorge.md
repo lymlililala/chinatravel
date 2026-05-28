@@ -1,7 +1,7 @@
 ---
 title: "Huangguoshu Waterfall and Silong Gorge: Guizhou's Waterfall Country"
 description: "Detailed guide to Huangguoshu Waterfall (黄果树大瀑布) and the Silong Gorge cave system in Guizhou. Best viewing seasons, the water curtain cave, boat rides, how to plan your day and getting there from Guiyang."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Huangguoshu Waterfall", "Guizhou", "China waterfalls", "nature travel China", "贵州", "Silong Gorge", "China adventure"]
 ---

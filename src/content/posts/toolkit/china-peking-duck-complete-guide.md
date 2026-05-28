@@ -1,7 +1,7 @@
 ---
 title: "Peking Duck Complete Guide: How to Order, Eat, and Find the Real Thing"
 description: "Master the Peking Duck experience — the complete guide to ordering correctly at a Beijing roast duck restaurant, the carving ceremony, how to assemble the perfect duck roll with the right condiments, the difference between the two main preparation schools (Quanjude vs. DaDong), budget versus luxury options, and the regional variations across China."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "peking-duck", "beijing-food", "roast-duck", "quanjude", "dadong", "chinese-cuisine", "beijing"]
 ---

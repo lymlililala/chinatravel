@@ -1,7 +1,7 @@
 ---
 title: "China November & December Travel Guide: Golden Autumn to Early Winter"
 description: "Plan your China trip in November or December — the autumn colour peak in Beijing and Shanghai, Yunnan's perfect dry season weather, the approach to Chinese New Year in December, the Shanghai design and art fair season, and why late autumn to early winter is one of China's most underrated travel windows for those who can handle cooler temperatures."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "november", "december", "autumn", "winter", "seasonal-travel", "yunnan-dry-season", "art-fair", "low-season"]
 ---

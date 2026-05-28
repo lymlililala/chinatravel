@@ -1,7 +1,7 @@
 ---
 title: "Essential Chinese for Travelers: 100 Phrases That Actually Work"
 description: "Practical Chinese language guide for travel — pronunciation basics, essential Mandarin phrases organized by situation, how to use tones, apps for translation, and why learning even 20 words changes your China travel experience dramatically."
-pubDate: 2026-05-15
+pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/chinese-language.jpg"
 category: "toolkit"
 tags: ["Chinese language", "Mandarin basics", "travel phrases", "language tips", "communication"]

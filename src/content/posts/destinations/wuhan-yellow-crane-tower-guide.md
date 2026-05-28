@@ -1,7 +1,7 @@
 ---
 title: "Yellow Crane Tower Wuhan: China's Most Celebrated Pavilion & Yangtze Views"
 description: "Visit Wuhan's Yellow Crane Tower — the most celebrated tower in Chinese literature, rebuilt to its Song-dynasty glory on Snake Hill above the Yangtze River, with stunning panoramic views over the river and city, and the story behind one of China's most quoted poems."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Wuhan"
 tags: ["wuhan", "yellow-crane-tower", "hubei", "yangtze-river", "chinese-poetry", "snake-hill", "historical-monument", "architecture"]
 ---

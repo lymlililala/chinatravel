@@ -1,7 +1,7 @@
 ---
 title: "Shanghai Bund Architecture Guide: 52 Buildings on the Waterfront"
 description: "Detailed architectural guide to the Bund's 52 historic buildings — the stories behind the HSBC building, Customs House clock tower, Sassoon House, and others. Best viewpoints, when to visit, and the Bund's history as Asia's greatest collection of 20th-century architecture."
-pubDate: 2026-05-15
+pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/shanghai-bund-architecture.jpg"
 category: "destinations"
 tags: ["Shanghai", "Bund", "architecture", "history", "photography"]

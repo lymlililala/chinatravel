@@ -1,7 +1,7 @@
 ---
 title: "Dongting Lake and Yueyang Tower Guide: China's Second Largest Freshwater Lake"
 description: "Guide to visiting Dongting Lake and the historic Yueyang Tower in Hunan Province. The famous classical essay, migratory birds,君山Island, local cuisine and how to visit from Changsha."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Dongting Lake", "Yueyang", "Hunan", "China travel", "classical Chinese culture", "birdwatching", "洞庭湖"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "China July & August Travel Guide: Where to Go When the Country Is on Holidays"
 description: "Plan a successful summer trip to China in July or August — the hottest, most crowded, most expensive season that is also unavoidable for many visitors. Covers altitude escapes from the heat, the best mountain destinations, managing the school holiday crowd surge, typhoon season impacts on east coast plans, and the summer destinations that are actually best in this season."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "july", "august", "summer-travel", "crowds", "altitude", "typhoon", "school-holidays", "heat"]
 ---

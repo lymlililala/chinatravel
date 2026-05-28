@@ -1,7 +1,7 @@
 ---
 title: "China Solo Male Travel Guide 2026: Making Friends, Staying Safe, Going Deep"
 description: "The practical guide for men travelling solo in China — how to meet people in a country where socialising happens in group contexts, navigating the KTV and nightlife scene without getting scammed, finding genuine connections in a culture that values introductions over cold approaches, and the specific safety considerations that apply to male solo travellers."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "solo-travel", "male-traveller", "socializing", "nightlife", "scams", "hostel", "meeting-people"]
 ---

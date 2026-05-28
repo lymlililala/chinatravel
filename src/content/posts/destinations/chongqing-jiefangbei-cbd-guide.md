@@ -1,7 +1,7 @@
 ---
 title: "Chongqing Jiefangbei CBD Guide: The Heart of the Mountain City"
 description: "Explore Jiefangbei, Chongqing's bustling central business district built on mountain ridges — the Liberation Monument, underground shopping city, Hongya Cave, and the famous 3D city experience."
-pubDate: 2026-05-15
+pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/chongqing-jiefangbei.jpg"
 category: "destinations"
 tags: ["Chongqing", "Jiefangbei", "CBD", "city center", "neighborhood guide"]

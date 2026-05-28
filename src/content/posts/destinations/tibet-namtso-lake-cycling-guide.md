@@ -1,7 +1,7 @@
 ---
 title: "Nam Tso Lake Cycling Guide: Tibet's Sacred Lake at 4,718m"
 description: "Complete guide to visiting and cycling around Nam Tso Lake (纳木错) in Tibet. Altitude preparation, camping, the best viewpoints, cycling routes from Lhasa, permit requirements and what to expect."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Nam Tso Lake", "纳木错", "Tibet cycling", "Tibet travel", "high altitude travel", "Tibet nature", "Lhasa day trip"]
 ---

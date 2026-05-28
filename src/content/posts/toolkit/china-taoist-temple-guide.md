@@ -1,7 +1,7 @@
 ---
 title: "Chinese Taoist Temples Guide: Understanding Daoism's Sacred Sites"
 description: "Navigate Taoist temples in China with confidence — the difference between Taoist and Buddhist temples, the key deities and their roles, the major Taoist sacred mountains, the five traditions of Taoism still active today, where to see authentic ceremonies, and how the philosophical and religious strands of Daoism connect to what you see at famous sites like Wudang Mountain."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "taoism", "daoism", "taoist-temple", "wudang", "sacred-mountains", "chinese-religion", "philosophy"]
 ---

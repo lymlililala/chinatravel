@@ -1,7 +1,7 @@
 ---
 title: "Chinese New Year Travel Guide: When to Go, What to See, and How to Avoid Chaos"
 description: "Navigate China during the Spring Festival — the Lunar New Year celebrations that transform the country, with specific advice on which cities are best for temple fairs and fireworks, how to book transport during the world's largest annual migration, which tourist sites close for the holiday, and how to experience authentic festival culture away from the tourist circuit."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "chinese-new-year", "spring-festival", "lunar-new-year", "temple-fair", "chunyun", "fireworks", "lantern-festival"]
 ---

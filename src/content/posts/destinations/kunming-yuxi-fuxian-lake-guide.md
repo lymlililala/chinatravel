@@ -1,7 +1,7 @@
 ---
 title: "Fuxian Lake Guide: China's Deepest Freshwater Lake in Yunnan"
 description: "Guide to visiting Fuxian Lake (抚仙湖) near Yuxi in Yunnan Province — China's deepest freshwater lake and one of its cleanest. Beaches, cycling, fishing villages, the submerged ruins mystery and how to get there from Kunming."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Fuxian Lake", "Yunnan", "Yuxi", "China lakes", "清澈湖泊", "Kunming day trip", "China nature travel"]
 ---

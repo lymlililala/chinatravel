@@ -1,7 +1,7 @@
 ---
 title: "Guangzhou Tianhe District Guide: Modern Canton's Commercial Heart"
 description: "Explore Guangzhou's Tianhe district — China's third-tallest skyline, the best shopping malls, Cantonese restaurants, and how this modern neighborhood connects to old Guangzhou. Complete guide for 2026."
-pubDate: 2026-05-15
+pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/guangzhou-tianhe.jpg"
 category: "destinations"
 tags: ["Guangzhou", "Tianhe", "shopping", "modern China", "neighborhood guide"]

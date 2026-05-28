@@ -1,7 +1,7 @@
 ---
 title: "Ganden Monastery Sunrise Trek: Tibet's Most Dramatic Pilgrim Circuit"
 description: "Complete guide to trekking the Ganden Kora pilgrim circuit near Lhasa — one of Tibet's most sacred walks with sunrise views over the Kyichu Valley, semi-ruined monastery buildings, meeting Tibetan pilgrims, and experiencing early morning Tibetan Buddhist ritual at high altitude."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Tibet"
 tags: ["tibet", "ganden-monastery", "ganden-kora", "trekking", "pilgrimage", "sunrise", "lhasa", "tibetan-buddhism", "altitude"]
 ---

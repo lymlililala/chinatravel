@@ -1,7 +1,7 @@
 ---
 title: "Nam Tso Lake Tibet: Sacred Salt Lake at 4,718m and the Pilgrim Circuit"
 description: "Visit Nam Tso (Namco) Lake in Tibet — the highest saltwater lake in the world at 4,718 metres, sacred to both Bon and Tibetan Buddhist traditions, accessible from Lhasa as a 2-day excursion, with the atmospheric pilgrim cave peninsula, breathtaking sky-lake reflections, and practical guidance on altitude, permits, and the best season."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Tibet"
 tags: ["tibet", "namtso", "nam-tso-lake", "sacred-lake", "high-altitude", "pilgrim-circuit", "tibetan-plateau", "tashi-dor"]
 ---

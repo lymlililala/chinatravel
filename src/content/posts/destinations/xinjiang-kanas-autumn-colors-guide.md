@@ -1,7 +1,7 @@
 ---
 title: "Xinjiang Kanas Lake Autumn Colors: October Photography & Tuva Villages"
 description: "Experience Kanas Lake in northern Xinjiang during peak autumn — brilliant birch and aspen gold against cold blue water, remote Tuva Mongolian villages, horse-riding through taiga forests, and the best photography opportunities in China's northwest."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Xinjiang"
 tags: ["xinjiang", "kanas", "autumn", "photography", "tuva-village", "hemu", "horse-riding", "altay-mountains"]
 ---

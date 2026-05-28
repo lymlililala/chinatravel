@@ -1,7 +1,7 @@
 ---
 title: "Fenghuang Ancient Town Hunan: Stilt Houses on the Tuojiang River"
 description: "Explore Fenghuang Ancient Town in western Hunan — the Miao and Tujia cultural capital perched above the Tuojiang River on traditional wooden stilt houses (diaojiaolou), with Ming-dynasty walls, red lantern reflections in the water, and authentic minority village culture in the surrounding hills."
-pubDate: 2026-05-27
+pubDatetime: 2026-05-27T08:00:00Z
 destination: "Hunan"
 tags: ["hunan", "fenghuang", "ancient-town", "tuojiang-river", "stilt-houses", "miao-culture", "tujia", "minority-culture", "xiangxi"]
 ---
