@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - beijing
-  - 798
+  - "798"
   - hutong
   - art
   - culture

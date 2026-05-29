@@ -10,10 +10,10 @@ tags:
   - kids
   - itinerary
   - Beijing
-  - Xi'an
+  - xian
   - Shanghai
   - Chengdu
-  - 2 weeks
+  - "2 weeks"
 description: "The complete 2-week family China itinerary for 2026, covering the classic route of Beijing, Xi'an, Shanghai, and Chengdu with children. Includes kid-friendly attractions, age-appropriate activities, accommodation recommendations, daily schedules, transportation tips, and honest advice on managing logistics with young travelers."
 ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
 ---
