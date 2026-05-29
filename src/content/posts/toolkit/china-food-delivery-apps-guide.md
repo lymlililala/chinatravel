@@ -1,153 +1,181 @@
 ---
 author: Roam China Travel Editorial Team
-pubDatetime: 2025-04-10T08:00:00Z
-modDatetime: 2026-05-15T10:00:00Z
-title: "Using Food Delivery Apps in China: Ele.me & Meituan for Foreigners"
+pubDatetime: 2026-05-29T08:00:00Z
+modDatetime: 2026-05-29T10:00:00Z
+title: "Food Delivery in China Guide 2026: Meituan, Eleme & How Foreigners Can Order"
 featured: false
 draft: false
 tags:
+  - food-delivery
+  - meituan
   - apps
+  - practical
   - food
-  - toolkit
-description: "How to order food delivery in China as a foreign visitor using Ele.me and Meituan — setting up your address, translating menus, paying, and getting food delivered to your hotel room."
-ogImage: "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=900&q=80"
+description: "Food delivery in China is among the world's most efficient and affordable — Meituan and Eleme deliver to virtually every address in every major city within 30–45 minutes. This 2026 guide explains how foreign visitors can use Chinese food delivery apps, set up accounts, navigate menus without reading Chinese, handle payment, and deal with common problems."
+ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
 ---
-
-China's food delivery infrastructure is extraordinary — nearly every restaurant in a city (not just fast food) offers 30-minute delivery, often at the same price as eating in. As a foreign visitor staying in a hotel or apartment, tapping into this means access to authentic local food 24 hours a day, even when your feet are tired or the weather is bad.
 
 ## Table of contents
 
+China's food delivery ecosystem is genuinely impressive. Millions of orders are fulfilled daily by an army of electric-scooter riders in matching uniforms, typically within 30–45 minutes of ordering. The price is extraordinarily reasonable — a full meal delivered to your hotel door for ¥25–¥50 ($3.5–$7) including delivery fee — and the variety covers everything from Sichuan hot pot kits to McDonald's to fresh sushi.
+
+For foreign visitors, the challenge is primarily navigational: the two major platforms (Meituan 美团 and Eleme 饿了么) operate almost entirely in Chinese. With some setup and a few workarounds, however, they're accessible to anyone with a Chinese payment method.
+
 ## The Two Main Platforms
 
-### Ele.me (饿了么) — Alibaba's Delivery App
+### Meituan (美团)
 
-Ele.me is owned by Alibaba and integrates with Alipay. If you have Alipay set up, Ele.me is immediately accessible from the Alipay home screen under "Food Delivery" — no separate download needed.
+The dominant food delivery platform in China, Meituan covers approximately 2,800 cities and counties. Founded by Wang Xing in 2010, it has expanded from food delivery into hotel booking, travel, grocery delivery and many other services. For food delivery, it's the first-choice platform in most cities.
 
-**Coverage**: Strong in tier-1 and tier-2 cities. Less coverage in smaller cities and rural areas.
+**Download:** Search "美团" in the iOS App Store (international) or Android (sideload or from third-party stores).
 
-### Meituan (美团) — The Market Leader
+### Eleme (饿了么)
 
-Meituan has slightly larger market share than Ele.me, particularly in lower-tier cities, and is known for faster delivery times in many areas. Accessible via:
-- The Meituan app (download separately)
-- WeChat Pay mini-program (search "美团外卖" in WeChat)
+Owned by Alibaba, Eleme ("Are you hungry?") is the second-largest platform and is particularly strong in Shanghai and eastern China. It integrates directly with Alipay, making payment somewhat easier for visitors who have set up Alipay with an international card.
 
----
+**Download:** Search "饿了么" in the App Store.
 
-## Setting Up for Foreigners
+### Which to Use?
 
-### The address challenge
+For most foreign visitors, **Eleme + Alipay** is the easier combination because Alipay has better international card integration. If you're using WeChat Pay, Meituan is equally accessible.
 
-This is the main barrier for foreign visitors. Chinese food delivery requires a precise address in Chinese characters — including the building number, floor, and room/door number.
+## Setting Up: What You Need
 
-**How to get your hotel address in Chinese:**
-1. Ask the hotel front desk for the address in Chinese — most will write it for you or have it on a business card
-2. Search your hotel name in Amap; the listing shows the full Chinese address
-3. Copy the address from your booking confirmation (Chinese booking sites show it in Chinese)
+### Payment Method (Essential)
 
-**Format expected**: Province → City → District → Street → Building number → Room number
+Both platforms require Chinese payment methods. Options for foreign visitors:
 
-Example: 上海市浦东新区世纪大道1号12楼1201室
+**Option 1: Alipay with International Card**
+Alipay has offered limited international card support since 2023. You can link a Visa or Mastercard to an Alipay account; the process is:
+1. Download Alipay
+2. Sign up with your phone number
+3. In the app: Profile → Bank Card → Add International Card
+4. Verification required via bank OTP
 
-### Step-by-step: Ordering on Ele.me (via Alipay)
+**Limits apply:** International Alipay accounts are typically limited to ¥2,000/month in spending. For short trips this is usually sufficient.
 
-1. Open **Alipay** → tap "Food Delivery" (外卖)
-2. First time: enter your delivery address in Chinese
-3. Browse restaurants — they're sorted by proximity, rating, and estimated delivery time
-4. Select a restaurant → browse the menu (photos help enormously)
-5. Add items to cart → proceed to checkout
-6. Confirm address → pay with Alipay International Balance
-7. Track delivery in real time within the app
+**Option 2: WeChat Pay with International Card**
+Similar process via WeChat: Wallet → Bank Cards → Add International Card. The same ¥2,000/month limit applies.
 
-### Step-by-step: Ordering on Meituan
+**Option 3: Have a local contact help order**
+If you have a Chinese friend, colleague or helpful hotel staff member, they can order on your behalf via their account. You pay them in cash.
 
-1. Download Meituan or access via WeChat mini-program
-2. Register with your phone number
-3. Enter delivery address in Chinese
-4. Browse restaurants → order → pay with WeChat Pay
-5. Track delivery (usually arrives with GPS rider tracking)
+**Option 4: Hotel concierge**
+Many hotels with international guest focus have staff accustomed to ordering food delivery for guests. Ask the front desk.
 
----
+### Phone Number Registration
 
-## Using the Apps Without Reading Chinese
+Both apps require a Chinese phone number for registration. Options:
+- Buy a local SIM card (China Mobile, China Unicom, China Telecom)
+- Use an international SIM if it has a Chinese number (some networks provide this)
+- Use your hotel's phone number for registration (ask front desk)
 
-### Photo menus are your friend
+## Navigating the Menu Without Chinese Reading Ability
 
-Most restaurant listings include photos for each menu item. You can point-and-tap without reading a single character.
+This is the main practical challenge. Solutions:
 
-### Filter by category
+### Use Google Translate Camera Feature
 
-Both apps let you filter by cuisine type using icons:
-- 🍜 Noodles / Rice dishes
-- 🥟 Dumplings / Dim sum
-- 🍔 Western food (McDonald's, KFC, local burger shops)
-- 🥗 Light / Vegetarian
-- 🍹 Drinks and bubble tea
+1. Open Google Translate (works offline for image recognition with downloaded Chinese language pack)
+2. Point the camera at your phone screen showing the menu
+3. The app overlays English translations on the Chinese text in real-time
 
-### Use Google Translate camera mode
+This works well for menu items and roughly conveys what you're ordering. It's not perfect but gets you 80% of the way.
 
-Screenshot the menu, open Google Translate, and use the image translation feature to get the gist of each item.
+### Using WeChat Translate
 
-### Copy-paste into DeepL or Microsoft Translator
+WeChat's built-in translation feature translates screenshots. Take a screenshot of the menu page, share it to WeChat, and use the translate function.
 
-Copy dish names from the app and paste into a translation app for more detailed explanations.
+### Restaurant Image Menus
 
----
+Many restaurants on both platforms provide photo menus. Look for items with photos — you can order by appearance without reading any Chinese. This is actually how most Chinese consumers order too.
 
-## What You Can Order
+### Pre-Search Strategy
 
-The range is extraordinary — it's not just Chinese food:
+Before opening the app, decide roughly what you want. Search terms that work even with Roman letters:
+- "hotpot" / "火锅" — hot pot delivery kits
+- "KFC" / "McDonald's" / "Pizza Hut" — these operate on both platforms with English product names
+- Enter your hotel's name in Chinese (ask front desk to write it) to find the address-based recommendations
 
-- **Local Chinese**: regional noodles, rice dishes, claypot, dim sum, grilled skewers, hotpot individual portions
-- **International**: Japanese, Korean, Thai, Indian, pizza, burgers, sushi
-- **Breakfast sets**: congee (粥), soy milk, fried dough sticks (油条), egg pancakes (煎饼果子)
-- **Late night**: many restaurants and food stalls deliver until 2–3am
-- **Drinks and tea**: bubble tea shops, fresh juice, milk tea
-- **Convenience items**: late-night snacks, instant noodles, bottled water
+## Step-by-Step: Placing an Order on Eleme
 
----
+1. **Open Eleme** and allow location access. The app shows restaurants delivering to your current location.
 
-## Costs and Delivery Times
+2. **Browse restaurants or use the search bar.** Categories (see icons at top) include: Chinese fast food, noodles, rice dishes, Western, desserts, grocery.
 
-**Delivery fees**: typically ¥3–¥8 per order, sometimes waived with first-time vouchers. Very occasional "surge pricing" during rain or late night.
+3. **Select a restaurant.** The rating (stars), average delivery time, minimum order and delivery fee are shown.
 
-**Minimum order**: usually ¥15–¥30. You'll rarely struggle to meet this.
+4. **Choose items.** Tap items to add to cart. Check quantity in the cart icon at the bottom.
 
-**Delivery time**: 20–45 minutes in central urban areas. Up to 60 minutes in outer districts.
+5. **Review cart.** Check the total including delivery fee (配送费) and any minimum order requirement (起送价).
 
-**Discounts**: Both platforms run constant promotions — first-order discounts, daily lunch specials, seasonal deals. Check the banner at the top of the home screen.
+6. **Check delivery address.** The app should show your location; verify it matches your hotel address. Ask front desk for the exact Chinese address characters.
 
----
+7. **Place order.** Select payment method and confirm.
 
-## Special Cases
+8. **Track delivery.** A real-time map shows your rider's position.
 
-### Ordering vegetarian or dietary-restricted food
+## Delivery Tips
 
-Search for: 素食 (sùshí = vegetarian/vegan), 清真 (qīngzhēn = halal), 无麸质 (wú fūzhì = gluten-free, less common)
+**Minimum order:** Most restaurants have a minimum order (起送价) of ¥15–¥30 ($2–$4). Some premium restaurants set ¥50–¥80.
 
-Halal restaurants are well-represented on both platforms in cities with significant Muslim populations (Xi'an, Lanzhou, Yinchuan, Urumqi, Linxia).
+**Delivery fees:** Typically ¥2–¥6 ($0.3–$0.9) for nearby restaurants; higher for farther ones or in bad weather. Both apps offer delivery fee coupons (in the "coupon" section of each restaurant page).
 
-### Ordering to public spaces
+**Delivery time:** Most orders arrive within 25–45 minutes. During peak meal times (12:00–13:00, 18:00–20:00) times can extend to 60 minutes.
 
-In China, it's completely normal to have food delivered to office buildings, parks, and even metro station entrances. Give the landmark as the address (e.g., "the east gate of Renmin Park") and the rider will call you.
+**Leaving instructions:** In the order notes (备注 beizhu) field, you can add delivery instructions. Common useful phrases:
+- "送到前台" (deliver to front desk) — for hotels where riders can't enter
+- "请打电话" (please call) — if you want a call when they arrive
+- If you can't write Chinese, ask your hotel to write the note for you
 
-### During Chinese New Year
+## Common Issues and Solutions
 
-Many restaurants close for 1–2 weeks during Chinese New Year. Delivery options thin out significantly during this period. Have backup plans (major hotel restaurants, convenience stores, supermarkets).
+### "Cannot find the address"
 
----
+The delivery system relies on precise Chinese address data. If your hotel address isn't auto-detecting, type the hotel name in Chinese into the delivery address field. Ask the front desk to write the hotel name in Chinese characters; copy-paste it into the address field.
 
-## Dianping (大众点评): China's Yelp for Eat-In
+### "The app won't register with my phone number"
 
-If you'd rather eat in than order delivery, **Dianping** is indispensable. It's the most comprehensive restaurant review platform in China:
+Some international numbers work; others don't. Purchase a local SIM card (from any China Mobile or Unicom store; from ¥20, $3) to guarantee this works.
 
-- Search by city, area, cuisine, price range
-- User-uploaded photos of actual dishes
-- Review scores from real customers
-- Queue time information
-- Integration with WeChat Pay for restaurant reservations
+### "Payment rejected"
 
-Available as a standalone app or via WeChat mini-program.
+International cards linked to Alipay/WeChat have intermittent acceptance issues. Carry cash as a backup; many restaurants in the building or block will offer direct walk-in ordering.
 
----
+### Order incorrect or missing items
 
-*Last updated: May 2026 · App interfaces change regularly. Screenshots may differ from current version.*
+Both apps have a customer service chat (客服) function. If items are wrong or missing, open the order history, select the order, and tap "after-sale service" (售后). Common resolutions are coupon credits for the value of the wrong item.
+
+## Grocery and Convenience Delivery
+
+Beyond restaurant food, both platforms offer grocery and convenience delivery services — often in under 30 minutes from local convenience stores.
+
+**Meituan's 美团优选** delivers from supermarkets and convenience stores including 7-Eleven, FamilyMart (operating as Quanjiamian in China) and local chains.
+
+**Eleme's 天猫超市** integration allows ordering from Alibaba's supermarket ecosystem.
+
+This is particularly useful for:
+- Late-night snacks when restaurants are closed
+- Bottled water and soft drinks at lower prices than hotel room prices
+- Medicines from registered pharmacies (see pharmacy section of the app)
+
+## Price Expectations
+
+To give a sense of the remarkable value in Chinese food delivery:
+
+| Meal type | Typical delivery price | With delivery fee |
+|-----------|----------------------|-------------------|
+| Rice + two dishes (fast food) | ¥18–¥30 | ¥21–¥36 ($3–$5) |
+| Noodle dish | ¥15–¥25 | ¥18–¥31 ($2.5–$4.3) |
+| Hot pot kit (2 people) | ¥60–¥120 | ¥65–¥127 ($9–$18) |
+| McDonald's meal | ¥35–¥50 | ¥40–¥58 ($5.6–$8) |
+| Coffee and pastry | ¥25–¥45 | ¥28–¥52 ($4–$7) |
+
+## Final Tips
+
+- **Order early:** Both platforms get very busy at 12:00 and 18:00; orders placed 30 minutes before peak times arrive faster.
+- **Save your address:** Once you've set your hotel as the delivery address, save it for easy reuse.
+- **Group orders:** Both platforms allow a single order from multiple menu items within one restaurant; split the cost with travel companions.
+- **Ratings:** Restaurant ratings on both platforms are reliable. Anything above 4.6 stars is consistently good.
+
+Food delivery in China is genuinely one of the great practical pleasures of travel here — particularly useful on arrival days when you're too tired to go out, during bad weather, or for a late-night meal. Set up the app before you need it, sort the payment method, and you'll have reliable access to thousands of restaurants from your hotel room.

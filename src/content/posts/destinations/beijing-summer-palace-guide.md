@@ -1,124 +1,146 @@
 ---
 author: Roam China Travel Editorial Team
-pubDatetime: 2026-04-10T08:00:00Z
-modDatetime: 2026-05-20T10:00:00Z
-title: "Summer Palace Beijing: Complete Guide to Kunming Lake & Longevity Hill"
+pubDatetime: 2026-05-29T08:00:00Z
+modDatetime: 2026-05-29T10:00:00Z
+title: "Summer Palace Beijing Complete Guide 2026: Kunming Lake, Long Corridor & Imperial History"
 featured: false
 draft: false
 tags:
   - beijing
-  - summer palace
-  - gardens
-  - UNESCO heritage
-  - day trips
-description: "A detailed visitor's guide to Beijing's Summer Palace — how to explore Kunming Lake, Longevity Hill, the Long Corridor, and lesser-visited temples without the crowds."
+  - summer-palace
+  - imperial
+  - history
+  - garden
+description: "The Summer Palace (颐和园) is Beijing's most beautiful imperial garden — 294 hectares of Kunming Lake, pavilion-topped hills, and the world's longest painted corridor. This 2026 complete guide covers all major areas of the garden, ticket options, best photography spots, how to avoid crowds, and the imperial history behind one of China's greatest landscape achievements."
+ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
 ---
-
-On a clear autumn morning, the Summer Palace looks like a classical Chinese painting brought to life. Willow trees trail their branches into Kunming Lake; a wooden boat drifts past the Marble Boat; the orange-roofed Temple of Buddhist Virtue blazes against a hill of green-gold foliage. This is the most beautiful imperial garden in China — and, crucially, one you can explore without the exhausting crowds of the Forbidden City.
-
-The Summer Palace (颐和园, *Yíhéyuán*) served as the summer retreat for Qing Dynasty emperors, rebuilt in its current form by Empress Dowager Cixi in 1888 after the Anglo-French forces burned the original structures in 1860. Today it covers 293 hectares — about three-quarters of which is water — and contains over 3,000 historic structures.
 
 ## Table of contents
 
-## Essential Information
+Beijing has no shortage of imperial grandeur — the Forbidden City, the Temple of Heaven, the Ming Tombs — but the Summer Palace has something the others don't: it's a living garden that changes with every season and every hour of the day. The Forbidden City is overwhelming and magnificent; the Summer Palace is beautiful in a way that makes you want to stay.
 
-| Detail | Info |
-|--------|------|
-| Opening hours | 6:30 AM – 8:00 PM (park); buildings close earlier at 5:00–6:00 PM |
-| Tickets | ¥30 (park only) in winter; ¥60 (combined: park + main buildings) in peak season (Apr–Oct) |
-| Getting there | Metro Line 4 to **Xiyuan** (North Gate) or **Beigongmen** station (direct) |
-| Best season | Spring (April–May) for flowers; Autumn (September–October) for foliage |
-| Recommended time | Half day minimum; full day to see everything |
+The palace was the summer retreat of Qing Dynasty emperors, particularly Empress Dowager Cixi who rebuilt and expanded it in the 1880s using funds notoriously diverted from the imperial navy budget. The result is 294 hectares of sculpted landscape — the southern two-thirds are Kunming Lake, the north is dominated by Longevity Hill with its pavilions, temple complex, and marble boat — all unified by the famous Long Corridor, a 728-meter painted gallery connecting the lakeside palaces.
 
-Book tickets in advance via the **ihly.com** official website or WeChat mini-program. Same-day tickets are usually available except on national holidays.
+## Getting There
 
-## What to See: The Main Highlights
+### By Metro
+The most convenient option. **Line 4 to Beigongmen Station** (北宫门站) brings you directly to the North Gate. Exit B is a short walk from the gate.
 
-### Longevity Hill (万寿山)
+**Line 4 to Xiyuan Station** (西苑站) serves the East Gate — a slightly longer walk.
 
-The focal point of the entire Summer Palace. The hill rises 58 metres from the shore and is topped with several distinct temple complexes.
+From the city center (Tiananmen area), the metro journey takes about 35–40 minutes.
 
-The **Tower of Buddhist Incense (佛香阁)** is the iconic eight-storey octagonal pavilion that appears in virtually every photograph of the Summer Palace. Climb it for panoramic views over Kunming Lake and the surrounding hills — one of the finest urban views in Beijing. The tower is included in the combined ticket; inner access costs an additional ¥10.
+### By Bus
+Multiple bus routes: 330, 331, 332, 346, 384, 394, 718, 726, 726 express, and others. Runs from multiple city center points.
 
-Behind the Tower of Buddhist Incense, the **Sea of Wisdom Temple (智慧海)** is a solid masonry structure with no interior wooden supports — an architectural marvel covered in glazed yellow and green Buddhist niches, each containing a small Buddha figure. It requires no additional fee.
+### By DiDi/Taxi
+From the Forbidden City area: approximately 30–40 minutes by car, ¥40–60 depending on traffic.
 
-**Tip:** Most visitors approach the tower from the lakeside (south face). Walk around to the **north slope** of Longevity Hill — it's almost entirely deserted, deeply forested, and contains beautiful Tibetan-style temples including the **Fragrant Sea Temple (香岩宗印之阁)**, modelled on the Potala Palace in Lhasa.
+### Important Note
+Beijing traffic can be severe, especially on weekends and holidays. The metro is almost always faster than road transport to the Summer Palace.
+
+## Tickets and Admission
+
+**Standard entry ticket**: ¥30 (year-round)
+- This gives access to most of the grounds but NOT to the interior of key buildings
+
+**Combined ticket (通票)**: ¥60 in peak season (April–October), ¥50 in off-season
+- Includes access to all main buildings: Garden of Virtue and Harmony (德和园, the theater), Hall of Benevolence and Longevity (仁寿殿), Hall of Jade Ripples (玉澜堂), and others
+
+**Which to buy**: If you're visiting for the first time, the combined ticket is worth the extra ¥30 — the interior of the theater building (where Empress Cixi watched Peking Opera performances) and the Hall of Benevolence and Longevity (the main audience hall) add significant historical context.
+
+**Online booking**: Required during peak times (National Day week, Spring Festival). Book on the Summer Palace WeChat mini-program (颐和园) or through major booking platforms. 
+
+**Opening hours**: 
+- Peak season (April 1–October 31): 6:30am–8pm (ticket offices close at 7pm)
+- Off-season (November 1–March 31): 7am–7pm (ticket offices close at 6pm)
+
+Entry starts at 6am — arriving at opening to walk the gardens in early light, before the masses arrive, is one of Beijing's great morning experiences.
+
+## Main Areas: The Essential Circuit
+
+### East Gate to the Long Corridor (东门 → 长廊)
+
+Most visitors enter from the East Gate (Dongmen) and head toward the lakefront. From the gate, the path leads through the administrative palace buildings where the Emperor conducted affairs of state — the Hall of Benevolence and Longevity (仁寿殿) is the main audience hall, with its elaborate throne and the garden of decorative rocks behind it.
+
+Continue west toward the lake and you'll reach the start of the Long Corridor (长廊, Chánglíng).
 
 ### The Long Corridor (长廊)
 
-A 728-metre covered walkway running along the north shore of Kunming Lake — the longest painted gallery in the world. Every beam and ceiling panel is painted with scenes from Chinese history, mythology, and landscape: over 14,000 individual paintings in total.
+This is arguably the single most remarkable architectural element in Beijing: a 728-meter covered walkway running along the northern bank of Kunming Lake, with over 14,000 paintings on its beams and crossbeams. Every panel of every beam section is painted with scenes from Chinese history, mythology, and landscape. No two panels are identical.
 
-Walking the Long Corridor takes about 20 minutes at a leisurely pace. The best time is early morning or late afternoon, when the light is soft and the crowds are manageable. Each section depicts different themes — look for the *Journey to the West* and *Romance of the Three Kingdoms* scenes that recur throughout.
+The Long Corridor was originally built in the 1750s and restored/expanded by Empress Cixi in the 1880s. Walking its full length takes 20–30 minutes, but longer if you stop to look at the paintings. Do stop — the range of subject matter is extraordinary, from famous battle scenes to delicate flower-and-bird compositions.
+
+The Long Corridor gives views of Kunming Lake to the south and Longevity Hill to the north throughout its length. On spring mornings when the peach trees alongside it are in bloom, or on winter days when frost coats the roof beams, it has a particular atmospheric quality.
+
+**Photography**: The morning light (8–10am) hits the painted beams beautifully. The perspective view down the full length is a classic composition. Detailed shots of individual painted panels reveal incredible miniaturist skill.
+
+### Longevity Hill (万寿山)
+
+The artificial hill (built from earth excavated to create Kunming Lake) rises to 58m above the lake. Its southern slope, facing the lake, is dense with pavilions, temples, and the massive Buddhist temple complex of the Sea of Wisdom Temple (智慧海) at the top.
+
+The main visual feature of the southern slope is the **Foxiang Ge** (佛香阁, Tower of the Fragrance of Buddha) — an octagonal, 41-meter-high tower that functions as the vertical focal point of the entire composition. You can see it from almost anywhere on the lake.
+
+**Ascending the hill**: Multiple staircase routes. The direct central staircase is steep but gives the best architecture views. Allow 30–40 minutes to reach the summit and return.
+
+From the summit, the view encompasses the entire Kunming Lake to the south, the Garden of Harmonious Interests to the east, and the Old Summer Palace ruins in the distance. On very clear days (typically October–November) the Western Hills are visible.
 
 ### Kunming Lake (昆明湖)
 
-The vast artificial lake — excavated by hundreds of thousands of labourers over decades — makes up three-quarters of the Summer Palace grounds. Several options for enjoying it:
+The lake covers 220 of the Summer Palace's 294 hectares — it's an enormous ornamental lake, more like a shallow sea within a garden. In summer, lotus flowers cover large sections. In winter, the lake freezes and locals have traditionally ice-skated on it.
 
-- **Hire a rowing boat** from the South Lake docks — ¥50–80/hour for a four-person boat. This is genuinely one of the best ways to appreciate the scale of the garden.
-- **Electric boat tours** circumnavigate the full lake: ¥45/person, approximately 40 minutes.
-- **Walk the eastern embankment** — the quietest path along the lake, with long views across the water to the western mountains.
+**Boat rental**: Available March–November from multiple points along the lakefront. Rowboats: ¥60 for 30 minutes. Small electric boats: ¥120 for 60 minutes. More atmospheric than walking and gives the reverse view of Longevity Hill and its tower from the water.
 
-The lake doesn't freeze in normal winters, but in exceptionally cold January weather, it can be used for ice skating — a popular activity for locals.
+**Seventeen-Arch Bridge (十七孔桥)**: Connecting the Eastern Causeway to Nanhu Island, this 150-meter bridge is named for its 17 arches. The bridge is a classic photography subject, particularly at sunrise when the stone lions along its railings catch the light. A famous photograph taken during the Winter Solstice sunset shows the sun perfectly aligned through all 17 arches simultaneously — this specific phenomenon draws crowds to the bridge every December.
+
+### Garden of Harmonious Interests (谐趣园)
+
+Often missed by casual visitors (it's at the northeast corner of the grounds), the Garden of Harmonious Interests is a garden-within-a-garden — a miniature classical garden with a central lotus pond, small pavilions, and covered walkways. It was modeled after Jichangyuan Garden in Wuxi.
+
+In late June and July when lotus flowers bloom, this is one of the most beautiful small spaces in all of Beijing. Arrive early morning.
 
 ### The Marble Boat (石舫)
 
-At the western end of the Long Corridor sits one of the more interesting stories in Chinese history. The Marble Boat is a permanent two-storey stone structure built on a submerged marble hull, meant to symbolise the stability of the Qing Dynasty.
-
-The irony: Empress Dowager Cixi allegedly diverted funds meant for modernising the Chinese navy to rebuild the Summer Palace in 1888 — and specifically to construct this ornamental boat. The underfunded navy was subsequently destroyed by the Japanese at the Battle of the Yalu River in 1894. Whether the diversion actually caused the defeat is disputed by historians, but the story has given the Marble Boat a permanent double meaning.
+One of Cixi's most famous projects — a marble pavilion in the form of a boat, extended onto the lake with an ornate Western-influenced upper deck added after the 1860s destruction by Anglo-French forces. The symbolism of this "unsinkable boat" funded by navy money is not lost on historians. It's picturesque if somewhat absurd, and the architectural detail is interesting.
 
 ### Suzhou Street (苏州街)
 
-On the north side of Longevity Hill, Suzhou Street is a reconstructed commercial street of the Qing Dynasty, built along a narrow canal. Emperor Qianlong had the original constructed so he could wander through a simulation of a Jiangnan market town without leaving the palace grounds.
+The lakefront shopping street to the east of the Marble Boat is a replica of a Suzhou canal market, built in the 18th century for the Emperor's amusement. It was destroyed by Anglo-French forces in 1860 and rebuilt in the 1990s. Now a commercial area within the park with snacks and souvenirs — not historically deep but visually interesting.
 
-Today it functions as a living museum with performers in period costume selling replica goods from traditional stalls. It's included in the combined ticket and is notably less crowded than the south-facing lakeside areas.
+## Seasonal Highlights
 
-## Hidden Corners: Beyond the Main Path
+**March–April**: Peach and cherry blossoms along the Long Corridor and on the hillsides. One of Beijing's finest spring experiences.
 
-### The Back Lake (后湖)
+**June–July**: Lotus flowers in full bloom on the lake and in the Garden of Harmonious Interests. Morning light on the flowers and reflections of Longevity Hill is extraordinary.
 
-Connected to Kunming Lake by a channel on the northern side of Longevity Hill, the Back Lake (also called Houhu) is an entirely different atmosphere. A narrow lake lined with willows, crossed by low stone bridges, with almost no other visitors mid-week. Rent a small wooden boat here (¥30/30 min) and row slowly through the willows.
+**October–November**: Clear autumn skies, best visibility for views of the hill and across the lake. Some foliage color on the hillsides.
 
-### The Garden of Harmonious Interests (谐趣园)
+**December–February**: Ice skating on the frozen lake (when conditions permit). Snow transforms the entire composition. Fewer visitors. Dress very warmly.
 
-A "garden within a garden" in the northeast corner — a miniature Jiangnan-style garden built around a central lotus pond, connected by zigzag bridges and covered galleries. Emperor Qianlong modelled it on Jichang Garden in Wuxi. Early morning here, with lotus flowers opening in summer, is extraordinary.
+## Photography Guide
 
-Entrance is ¥10 extra, included in some seasonal packages. Most visitors skip it entirely, making it one of the Summer Palace's most peaceful spots.
+**Best spots:**
+1. Seventeen-Arch Bridge at sunrise (east-facing, morning light)
+2. Long Corridor looking west (morning light on beams and lake)
+3. Foxiang Ge Tower from the Long Corridor (midday or afternoon)
+4. View from the top of Longevity Hill (morning or evening)
+5. Marble Boat from the water (rent a rowboat for this angle)
 
-### The Western Shore (西堤)
-
-The western embankment — modelled on Hangzhou's Su Causeway — runs the full length of the lake with six stone bridges, willow trees, and peach orchards. It sees a fraction of the foot traffic of the east shore. Spring (late March to mid-April) is spectacular when the peach trees bloom pink.
-
-## How to Spend Your Time
-
-### Half-Day Visit (4 hours)
-Enter at Beigongmen (North Gate) → Suzhou Street → North slope of Longevity Hill → Tower of Buddhist Incense → Long Corridor → Kunming Lake boat hire → exit South Gate
-
-### Full Day (7–8 hours)
-All of the above, plus: Garden of Harmonious Interests → Eastern Embankment walk → Marble Boat → Western Shore causeway walk → Wenchang Tower (museum inside)
-
-### Rainy Day
-The Summer Palace is actually more beautiful in light rain — mist rises from the lake, crowds thin dramatically, and the Long Corridor provides covered walking for most of the circuit. Pack a light rain jacket and come anyway.
-
-## Getting There and Away
-
-**Metro Line 4, Beigongmen Station** deposits you directly at the North Gate — the most convenient entry point and close to Suzhou Street and the north slope of the hill.
-
-**Metro Line 4, Xiyuan Station** is a 10-minute walk to the East Gate — the main entrance, but often busier.
-
-**From the Forbidden City:** Around 45 minutes by taxi or 60 minutes by metro (Line 1 to Xidan, transfer to Line 4). DiDi is the easiest option.
+**Avoiding crowds in photos**: The Summer Palace receives 20,000+ visitors daily in peak season. Strategies:
+- Arrive at opening (6:30am) — you'll have 60–90 minutes before crowds build
+- The back (north and east) sections of the grounds have much fewer visitors
+- Weekday mornings are significantly quieter than weekends
 
 ## Practical Tips
 
-**Early or late:** Opening time (6:30 AM) and late afternoon (after 4 PM) have noticeably fewer visitors. The Summer Palace is open until 8 PM in summer, and the lake at dusk is extraordinary.
+**How much time to allow**: Minimum 3 hours for a focused walk of the main circuit. Half a day (5 hours) for a thorough visit. A full day to do it justice including boat rental, hill climb, and garden exploration.
 
-**Food:** There are several restaurants inside the complex — the lakeside teahouses serve reasonable dim sum and set lunches. Prices are elevated but acceptable. The area around **Beigongmen Station** has good noodle and dumpling shops if you want to eat before entering.
+**Comfortable footwear**: You'll walk 5–8km in a thorough visit of the grounds.
 
-**Photography:** The classic shot of the Tower of Buddhist Incense with Kunming Lake below is best from the eastern shore in the morning (light comes from the east). For the Long Corridor, go at midday for even illumination of the ceiling paintings.
+**Food**: Restaurants and snack stands inside the park are overpriced. Eat before you come or bring snacks. The restaurant on Nanhu Island is decent for lunch. A convenience store just outside the East Gate has water and snacks at normal prices.
 
-**Crowds:** Beijing Golden Week (October 1–7) and Spring Festival are unbearable at the Summer Palace. April–May weekdays are ideal.
+**Combine with**: The Old Summer Palace (圆明园, Yuanmingyuan) ruins are a 15-minute walk from the Summer Palace's North Gate — a powerful and sobering complement to the intact palace grounds. The ruins were left unrestored after the 1860 destruction as a memorial to the devastation. Entry ¥25.
 
----
+**Combine with**: The Garden of the Great Achievement (畅春园 site, now Beijing University campus) is nearby and opens to the public — less touristic but interesting for its relationship to the Summer Palace's development.
 
-*The Summer Palace rewards those who walk further than the crowd. The lakeside main circuit is wonderful; the north slope, the Back Lake, and the Garden of Harmonious Interests are where the place becomes genuinely magical.*
-
-*Last updated: May 2026*
+The Summer Palace is a place that takes on different qualities in different seasons and at different times of day. If you're in Beijing for more than three days, it deserves at minimum a morning visit — and ideally a second visit in a different season to see how completely the same space can feel different.
