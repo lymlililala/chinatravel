@@ -1,7 +1,7 @@
 ---
 author: Roam China Travel Editorial Team
-pubDatetime: 2026-05-29T08:00:00Z
-modDatetime: 2026-05-29T10:00:00Z
+pubDatetime: 2026-05-01T08:00:00Z
+modDatetime: 2026-05-01T10:00:00Z
 title: "Li River Cruise Guilin to Yangshuo Guide 2026: Boats, Tickets & the Most Scenic 83km in China"
 featured: false
 draft: false

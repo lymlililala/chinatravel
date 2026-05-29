@@ -1,7 +1,7 @@
 ---
 author: Roam China Travel Editorial Team
-pubDatetime: 2026-05-28T08:00:00Z
-modDatetime: 2026-05-28T10:00:00Z
+pubDatetime: 2026-05-02T08:00:00Z
+modDatetime: 2026-05-02T10:00:00Z
 title: "Hainan Island 30-Day Visa-Free Guide 2026: 59 Nationalities, Sanya & Beyond"
 featured: false
 draft: false

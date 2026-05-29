@@ -1,7 +1,7 @@
 ---
 author: Roam China Travel Editorial Team
-pubDatetime: 2026-05-29T08:00:00Z
-modDatetime: 2026-05-29T10:00:00Z
+pubDatetime: 2026-05-01T08:00:00Z
+modDatetime: 2026-05-01T10:00:00Z
 title: "China SIM Card vs eSIM Comparison Guide 2026: Which to Get & Best Data Plans"
 featured: false
 draft: false

@@ -1,7 +1,7 @@
 ---
 author: Roam China Travel Editorial Team
-pubDatetime: 2026-05-28T08:00:00Z
-modDatetime: 2026-05-28T10:00:00Z
+pubDatetime: 2026-05-02T08:00:00Z
+modDatetime: 2026-05-02T10:00:00Z
 title: "Wuhan East Lake Guide 2026: Cherry Blossoms, Cycling & The Largest Urban Lake in China"
 featured: false
 draft: false

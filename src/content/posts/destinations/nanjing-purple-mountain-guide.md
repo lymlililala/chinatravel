@@ -1,7 +1,7 @@
 ---
 author: Roam China Travel Editorial Team
-pubDatetime: 2026-05-29T08:00:00Z
-modDatetime: 2026-05-29T10:00:00Z
+pubDatetime: 2026-05-01T08:00:00Z
+modDatetime: 2026-05-01T10:00:00Z
 title: "Nanjing Purple Mountain Guide 2026: Sun Yat-sen Mausoleum, Ming Tombs & Forest Hiking"
 featured: false
 draft: false

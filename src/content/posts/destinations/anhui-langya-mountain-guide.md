@@ -1,7 +1,7 @@
 ---
 author: Roam China Travel Editorial Team
-pubDatetime: 2026-05-28T08:00:00Z
-modDatetime: 2026-05-28T10:00:00Z
+pubDatetime: 2026-05-02T08:00:00Z
+modDatetime: 2026-05-02T10:00:00Z
 title: "Langya Mountain Anhui Guide 2026: Chuzhou, Ouyang Xiu's Pavilion & Forest Hiking"
 featured: false
 draft: false
