@@ -34,6 +34,13 @@ export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
 const { page, tagName } = Astro.props;
 const { tag } = Astro.params;
 
+// Thin tag pages (fewer than 3 posts) add little aggregation value; noindex
+// them so they stop showing up as "discovered – not indexed" in GSC. Keep
+// `follow` so the linked articles are still crawled. Mirrors the sitemap
+// exclusion in astro.config.ts (TAG_INDEX_THRESHOLD).
+const noindex = page.total < 3;
+
+
 const locale = Astro.currentLocale ?? config.site.lang;
 const t = useTranslations(locale);
 
@@ -182,7 +189,7 @@ const isDestinationTag = Boolean(destMeta);
 const heroImage = destMeta?.heroImage ?? `https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=1600&q=85`;
 ---
 
-<Layout title={`${t.pages.tagTitle}: ${tagName} | ${config.site.title}`}>
+<Layout title={`${t.pages.tagTitle}: ${tagName} | ${config.site.title}`} noindex={noindex}>
   <Header />
 
   <main id="main-content">

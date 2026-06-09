@@ -15,15 +15,33 @@ import {
   transformerNotationWordHighlight,
 } from "@shikijs/transformers";
 import { transformerFileName } from "./src/utils/transformers/fileName";
+import { getThinTagSlugs } from "./src/utils/thinTagSlugs";
 import config from "./astro-paper.config";
+
+// Tag pages with fewer than this many posts are thin/low-value: they are
+// noindexed at the page level and excluded from the sitemap below.
+const TAG_INDEX_THRESHOLD = 3;
+const thinTagSlugs = getThinTagSlugs(TAG_INDEX_THRESHOLD);
 
 export default defineConfig({
   site: config.site.url,
   integrations: [
     mdx(),
     sitemap({
-      filter: page =>
-        config.features?.showArchives !== false || !page.endsWith("/archives/"),
+      filter: page => {
+        if (
+          config.features?.showArchives === false &&
+          page.endsWith("/archives/")
+        ) {
+          return false;
+        }
+        // Drop thin tag pages (and their pagination) from the sitemap.
+        const tagMatch = page.match(/\/tags\/([^/]+)(?:\/|$)/);
+        if (tagMatch && thinTagSlugs.has(decodeURIComponent(tagMatch[1]))) {
+          return false;
+        }
+        return true;
+      },
     }),
   ],
   i18n: {
