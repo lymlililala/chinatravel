@@ -1,6 +1,16 @@
 {
   "redirects": [
     {
+      "source": "/tags/gluten-free",
+      "destination": "/tags/dietary/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/gluten-free/",
+      "destination": "/tags/dietary/",
+      "permanent": true
+    },
+    {
       "source": "/posts/beijing-:path*",
       "destination": "/posts/destinations/beijing-:path*",
       "permanent": true
