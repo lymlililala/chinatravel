@@ -20,13 +20,22 @@
  */
 
 import pkg from 'pg'
+import { existsSync } from 'node:fs'
 import { createClient } from '@supabase/supabase-js'
 const { Client } = pkg
 
+// Load .env (gitignored) so the secret key never lives in a tracked file.
+if (existsSync('.env')) process.loadEnvFile('.env')
+
 // ─── Supabase config ──────────────────────────────────────────────────────────
 const SUPABASE_URL = 'https://tixgzezefjjsyuzgdhcd.supabase.co'
-const SUPABASE_SERVICE_KEY =
-  'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InRpeGd6ZXplZmpqc3l1emdkaGNkIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc3ODE0OTM3OCwiZXhwIjoyMDkzNzI1Mzc4fQ.CBarLrHnr-tr5ZPaGs2JvW3NJE6O5O1Hw7oTWsHuI-E'
+// New-format Supabase secret key (sb_secret_…), read from the environment only.
+// Set it in .env (local) or as a Vercel env var — never hardcode it here.
+const SUPABASE_SECRET_KEY = process.env.SUPABASE_SECRET_KEY
+if (!SUPABASE_SECRET_KEY) {
+  console.error('❌ Missing SUPABASE_SECRET_KEY. Set it in .env or the environment.')
+  process.exit(1)
+}
 
 const DATABASE_URL = process.env.DATABASE_URL
 
@@ -330,7 +339,7 @@ async function main() {
   console.log('🚀 Discover China — Full DB init + seed')
   console.log(`   Project: tixgzezefjjsyuzgdhcd`)
 
-  const supabase = createClient(SUPABASE_URL, SUPABASE_SERVICE_KEY)
+  const supabase = createClient(SUPABASE_URL, SUPABASE_SECRET_KEY)
 
   // Step 1: Check if tables already exist
   const existing = await getExistingTables(supabase)

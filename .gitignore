@@ -25,3 +25,5 @@ pnpm-debug.log*
 
 # pagefind
 public/pagefind
+# GSC export reports (analysis artifacts)
+gsc/
