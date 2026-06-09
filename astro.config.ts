@@ -40,6 +40,11 @@ export default defineConfig({
         if (tagMatch && thinTagSlugs.has(decodeURIComponent(tagMatch[1]))) {
           return false;
         }
+        // Drop tag pagination pages (/tags/<slug>/2/, /3/, …) — "page 2+" of a
+        // tag listing is low-value; only the first page stays in the sitemap.
+        if (/\/tags\/[^/]+\/\d+\/?$/.test(page)) {
+          return false;
+        }
         return true;
       },
     }),
