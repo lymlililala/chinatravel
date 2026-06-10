@@ -1,6 +1,146 @@
 {
   "redirects": [
     {
+      "source": "/posts/toolkit/china-weather-when-to-visit-guide",
+      "destination": "/posts/toolkit/best-time-to-visit-china/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-weather-when-to-visit-guide/",
+      "destination": "/posts/toolkit/best-time-to-visit-china/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-weather-seasons-travel-planning",
+      "destination": "/posts/toolkit/best-time-to-visit-china/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-weather-seasons-travel-planning/",
+      "destination": "/posts/toolkit/best-time-to-visit-china/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-river-cruise-options-guide",
+      "destination": "/posts/toolkit/china-river-cruise-booking-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-river-cruise-options-guide/",
+      "destination": "/posts/toolkit/china-river-cruise-booking-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-food-guide-street-food-regions",
+      "destination": "/posts/toolkit/china-food-guide-street-food/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-food-guide-street-food-regions/",
+      "destination": "/posts/toolkit/china-food-guide-street-food/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-night-market-street-food-cities-guide",
+      "destination": "/posts/toolkit/china-food-guide-street-food/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-night-market-street-food-cities-guide/",
+      "destination": "/posts/toolkit/china-food-guide-street-food/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-muslim-halal-travel-guide",
+      "destination": "/posts/toolkit/china-halal-food-muslim-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-muslim-halal-travel-guide/",
+      "destination": "/posts/toolkit/china-halal-food-muslim-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-apps-internet-guide",
+      "destination": "/posts/toolkit/china-internet-apps-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-apps-internet-guide/",
+      "destination": "/posts/toolkit/china-internet-apps-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/shanghai-xuhui-french-concession-guide",
+      "destination": "/posts/destinations/shanghai-french-concession-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/shanghai-xuhui-french-concession-guide/",
+      "destination": "/posts/destinations/shanghai-french-concession-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/shanghai-m50-art-district-guide",
+      "destination": "/posts/destinations/shanghai-m50-art-galleries-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/shanghai-m50-art-district-guide/",
+      "destination": "/posts/destinations/shanghai-m50-art-galleries-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/wuhan-hubei-complete-guide",
+      "destination": "/posts/destinations/wuhan-complete-travel-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/wuhan-hubei-complete-guide/",
+      "destination": "/posts/destinations/wuhan-complete-travel-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/wuhan-hubei-travel-guide",
+      "destination": "/posts/destinations/wuhan-complete-travel-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/wuhan-hubei-travel-guide/",
+      "destination": "/posts/destinations/wuhan-complete-travel-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/kunming-yunnan-gateway-guide",
+      "destination": "/posts/destinations/kunming-spring-city-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/kunming-yunnan-gateway-guide/",
+      "destination": "/posts/destinations/kunming-spring-city-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/fujian-tulou-hakka-detailed-guide",
+      "destination": "/posts/destinations/fujian-tulou-hakka-full-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/fujian-tulou-hakka-detailed-guide/",
+      "destination": "/posts/destinations/fujian-tulou-hakka-full-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/fujian-tulou-hakka-guide",
+      "destination": "/posts/destinations/fujian-tulou-hakka-full-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/fujian-tulou-hakka-guide/",
+      "destination": "/posts/destinations/fujian-tulou-hakka-full-guide/",
+      "permanent": true
+    },
+    {
       "source": "/posts/toolkit/china-solo-travel-tips-guide",
       "destination": "/posts/toolkit/china-first-solo-trip-guide/",
       "permanent": true

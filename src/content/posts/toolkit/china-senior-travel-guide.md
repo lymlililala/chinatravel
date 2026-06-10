@@ -190,7 +190,7 @@ Flight from Chengdu 1.5 hours. Li River cruise by private boat. Yangshuo town at
 
 - [China Visa Guide](/posts/toolkit/china-visa-application-guide/) — eligibility by nationality
 - [China Payment Guide](/posts/toolkit/china-digital-payment-foreigners-guide/) — Alipay setup step-by-step
-- [China Apps Guide](/posts/toolkit/china-apps-internet-guide/) — navigation and translation tools
+- [China Apps Guide](/posts/toolkit/china-internet-apps-guide/) — navigation and translation tools
 - [China Safety Guide](/posts/toolkit/china-safety-guide/) — area-by-area notes
 - [China Health and Medical Guide](/posts/toolkit/china-health-medical-guide/) — hospitals, vaccinations, medications
 - [China Train Booking Guide](/posts/toolkit/china-train-booking-guide-foreigners/) — step-by-step HSR booking

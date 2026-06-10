@@ -328,7 +328,7 @@ If your trip is within the next 30 days:
 
 1. **Check your visa eligibility** → [Visa guide](/posts/toolkit/china-visa-application-guide/)
 2. **Set up Alipay with your foreign card** → [Payment guide](/posts/toolkit/china-digital-payment-foreigners-guide/)
-3. **Download Amap and DiDi** → [Apps guide](/posts/toolkit/china-apps-internet-guide/)
+3. **Download Amap and DiDi** → [Apps guide](/posts/toolkit/china-internet-apps-guide/)
 4. **Book your high-speed train tickets** → [Train guide](/posts/toolkit/china-train-booking-guide-foreigners/)
 5. **Buy or activate a China SIM/eSIM** → [SIM guide](/posts/toolkit/china-sim-card-esim-guide/)
 
