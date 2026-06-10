@@ -18,28 +18,48 @@ export async function getStaticPaths() {
   const posts = await getCollection("posts");
   const sortedPosts = getSortedPosts(posts);
 
-  return sortedPosts.map((post, index) => ({
-    params: { slug: getPostSlug(post.id, post.filePath) },
-    props: {
-      post,
-      prevPost:
-        index > 0
-          ? {
-              id: sortedPosts[index - 1].id,
-              title: sortedPosts[index - 1].data.title,
-              filePath: sortedPosts[index - 1].filePath,
-            }
-          : null,
-      nextPost:
-        index < sortedPosts.length - 1
-          ? {
-              id: sortedPosts[index + 1].id,
-              title: sortedPosts[index + 1].data.title,
-              filePath: sortedPosts[index + 1].filePath,
-            }
-          : null,
-    },
-  }));
+  // Precompute slugified tag sets for related-post scoring
+  const tagSets = sortedPosts.map(p => new Set((p.data.tags ?? []).map(slugifyStr)));
+
+  return sortedPosts.map((post, index) => {
+    // Related guides: other posts sharing the most tags (max 6)
+    const mine = tagSets[index];
+    const related = sortedPosts
+      .map((p, i) => {
+        if (i === index) return null;
+        let score = 0;
+        for (const t of tagSets[i]) if (mine.has(t)) score++;
+        return score > 0 ? { p, score } : null;
+      })
+      .filter((x): x is { p: (typeof sortedPosts)[number]; score: number } => x !== null)
+      .sort((a, b) => b.score - a.score)
+      .slice(0, 6)
+      .map(({ p }) => ({ id: p.id, title: p.data.title, filePath: p.filePath }));
+
+    return {
+      params: { slug: getPostSlug(post.id, post.filePath) },
+      props: {
+        post,
+        related,
+        prevPost:
+          index > 0
+            ? {
+                id: sortedPosts[index - 1].id,
+                title: sortedPosts[index - 1].data.title,
+                filePath: sortedPosts[index - 1].filePath,
+              }
+            : null,
+        nextPost:
+          index < sortedPosts.length - 1
+            ? {
+                id: sortedPosts[index + 1].id,
+                title: sortedPosts[index + 1].data.title,
+                filePath: sortedPosts[index + 1].filePath,
+              }
+            : null,
+      },
+    };
+  });
 }
 
 type AdjacentPost = {
@@ -48,14 +68,22 @@ type AdjacentPost = {
   filePath: string | undefined;
 } | null;
 
+type RelatedPost = {
+  id: string;
+  title: string;
+  filePath: string | undefined;
+};
+
 type Props = {
   post: CollectionEntry<"posts">;
   prevPost: AdjacentPost;
   nextPost: AdjacentPost;
+  related: RelatedPost[];
 };
 
-const { post, prevPost, nextPost } = Astro.props;
+const { post, prevPost, nextPost, related } = Astro.props;
 const locale = Astro.currentLocale ?? config.site.lang;
+const relatedLinks = related.map(r => ({ title: r.title, url: getPostUrl(r.id, r.filePath, locale) }));
 
 const {
   title,
@@ -327,6 +355,33 @@ const readingTime = Math.ceil(wordCount / 200);
         </div>
 
         <hr class="my-8 border-dashed" />
+
+        {relatedLinks.length > 0 && (
+          <section class="mb-10" aria-labelledby="related-heading">
+            <h2
+              id="related-heading"
+              class="mb-4 text-xl font-extrabold text-foreground sm:text-2xl"
+              style="font-family: var(--font-playfair), Georgia, serif;"
+            >
+              Related guides
+            </h2>
+            <ul class="grid gap-3 sm:grid-cols-2">
+              {relatedLinks.map(link => (
+                <li>
+                  <a
+                    href={link.url}
+                    class="group flex items-center gap-2 rounded-xl border border-border bg-[var(--card-bg)] px-4 py-3 text-sm font-medium text-foreground transition-all hover:border-accent/40 hover:text-accent hover:shadow-sm"
+                  >
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 flex-shrink-0 text-accent/70" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                      <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
+                    </svg>
+                    <span class="line-clamp-2">{link.title}</span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
 
         <AdjacentPostNav {prevPost} {nextPost} />
       </main>
