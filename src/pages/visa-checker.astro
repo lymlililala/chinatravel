@@ -1,0 +1,198 @@
+---
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import { getRelativeLocaleUrl } from "astro:i18n";
+import config from "@/config";
+
+const locale = Astro.currentLocale ?? config.site.lang;
+
+// Eligibility data (illustrative, 2026 — verify against official sources).
+// status: "visafree30" | "visafree15" | "transit" | "visa"
+const countries = [
+  { c: "United States", s: "transit" },
+  { c: "United Kingdom", s: "visafree30" },
+  { c: "Canada", s: "transit" },
+  { c: "Australia", s: "visafree30" },
+  { c: "Germany", s: "visafree30" },
+  { c: "France", s: "visafree30" },
+  { c: "Italy", s: "visafree30" },
+  { c: "Spain", s: "visafree30" },
+  { c: "Netherlands", s: "visafree30" },
+  { c: "Switzerland", s: "visafree30" },
+  { c: "Ireland", s: "visafree30" },
+  { c: "Austria", s: "visafree30" },
+  { c: "Belgium", s: "visafree30" },
+  { c: "Sweden", s: "visafree30" },
+  { c: "Norway", s: "visafree30" },
+  { c: "Denmark", s: "visafree30" },
+  { c: "Finland", s: "visafree30" },
+  { c: "Portugal", s: "visafree30" },
+  { c: "Poland", s: "visafree30" },
+  { c: "New Zealand", s: "visafree30" },
+  { c: "Japan", s: "visafree30" },
+  { c: "South Korea", s: "visafree30" },
+  { c: "Singapore", s: "visafree30" },
+  { c: "Malaysia", s: "visafree30" },
+  { c: "Thailand", s: "visafree30" },
+  { c: "Brazil", s: "visafree30" },
+  { c: "Brunei", s: "visafree15" },
+  { c: "United Arab Emirates", s: "visafree30" },
+  { c: "Qatar", s: "visafree30" },
+  { c: "India", s: "visa" },
+  { c: "Indonesia", s: "transit" },
+  { c: "Philippines", s: "transit" },
+  { c: "South Africa", s: "transit" },
+  { c: "Russia", s: "visafree15" },
+  { c: "Mexico", s: "transit" },
+];
+
+const meta = {
+  visafree30: {
+    label: "Visa-free up to 30 days",
+    color: "emerald",
+    text: "Great news — as of 2026 you can enter China visa-free for tourism, business, family visits or transit for up to 30 days. Just bring a passport valid for 6+ months. No application, no fee.",
+  },
+  visafree15: {
+    label: "Visa-free up to 15 days",
+    color: "emerald",
+    text: "You can enter China visa-free for up to 15 days. Bring a passport valid for 6+ months — no application or fee required for short stays within the limit.",
+  },
+  transit: {
+    label: "Visa-free transit (up to 240 hours) — or apply for a tourist visa",
+    color: "amber",
+    text: "You may not qualify for the general visa-free entry, but you can likely use China's visa-free transit (up to 240 hours / 10 days) if you're travelling onward to a third country through an eligible port. For ordinary tourism without onward transit, apply for a standard L tourist visa.",
+  },
+  visa: {
+    label: "Tourist visa required",
+    color: "rose",
+    text: "Based on current rules your nationality generally needs a standard L (tourist) visa arranged in advance through a Chinese visa centre or embassy. Check transit visa-free options if you have a connecting flight to a third country.",
+  },
+};
+
+const title = "China Visa Checker 2026: Do I Need a Visa for China?";
+const description = "Free China visa checker — select your nationality to instantly see whether you need a visa, qualify for 30-day visa-free entry, or can use visa-free transit in 2026.";
+---
+
+<Layout title={`${title} | ${config.site.title}`} description={description}>
+  <Header />
+
+  <main id="main-content" class="mx-auto w-full max-w-3xl px-4 py-12 sm:px-6 sm:py-16">
+    <nav class="mb-4 flex items-center gap-2 text-sm text-muted-foreground" aria-label="Breadcrumb">
+      <a href={getRelativeLocaleUrl(locale, "")} class="transition-colors hover:text-accent">Home</a>
+      <svg xmlns="http://www.w3.org/2000/svg" class="h-3.5 w-3.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+      <span class="text-foreground font-medium">Visa Checker</span>
+    </nav>
+
+    <h1
+      class="mb-3 text-3xl font-extrabold leading-tight text-foreground sm:text-4xl"
+      style="font-family: var(--font-playfair), Georgia, serif; letter-spacing: -0.02em;"
+    >
+      Do I need a visa for China?
+    </h1>
+    <p class="mb-8 text-lg text-muted-foreground">
+      Select your passport country to instantly check your 2026 entry options — visa-free, visa-free transit, or tourist visa.
+    </p>
+
+    <div class="rounded-2xl border border-border bg-[var(--card-bg)] p-5 shadow-sm sm:p-6">
+      <label for="nationality" class="mb-2 block text-sm font-bold text-foreground">Your passport country</label>
+      <select
+        id="nationality"
+        class="w-full rounded-xl border border-border bg-background px-4 py-3 text-base text-foreground outline-none transition-all focus:border-accent focus:ring-2 focus:ring-accent/20"
+      >
+        <option value="">— Select your nationality —</option>
+        {countries.sort((a, b) => a.c.localeCompare(b.c)).map(item => (
+          <option value={item.s}>{item.c}</option>
+        ))}
+        <option value="other">Other / not listed</option>
+      </select>
+
+      <div id="result" class="mt-5 hidden rounded-xl border p-4">
+        <p id="result-label" class="text-base font-bold"></p>
+        <p id="result-text" class="mt-2 text-sm leading-relaxed text-muted-foreground"></p>
+        <a
+          id="result-cta"
+          href={getRelativeLocaleUrl(locale, "posts/toolkit/china-visa-application-guide")}
+          class="mt-4 inline-flex items-center gap-1.5 text-sm font-bold text-accent transition-all hover:gap-2.5"
+        >
+          Read the full visa &amp; entry guide
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-3.5 w-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
+        </a>
+      </div>
+    </div>
+
+    <p class="mt-4 text-xs text-muted-foreground">
+      This tool is a general guide based on China's 2026 entry policies and is not legal advice. Rules change frequently — always confirm with the official Chinese embassy or visa centre for your country before booking.
+    </p>
+
+    <!-- Helpful internal links -->
+    <div class="mt-10 grid gap-3 sm:grid-cols-2">
+      <a href={getRelativeLocaleUrl(locale, "posts/toolkit/china-144-hour-transit-guide")} class="group flex items-center gap-2 rounded-xl border border-border bg-[var(--card-bg)] px-4 py-3 text-sm font-medium text-foreground transition-all hover:border-accent/40 hover:text-accent">
+        <span aria-hidden="true">✈️</span> 144/240-Hour Visa-Free Transit Guide
+      </a>
+      <a href={getRelativeLocaleUrl(locale, "posts/toolkit/china-visa-application-guide")} class="group flex items-center gap-2 rounded-xl border border-border bg-[var(--card-bg)] px-4 py-3 text-sm font-medium text-foreground transition-all hover:border-accent/40 hover:text-accent">
+        <span aria-hidden="true">🛂</span> How to Apply for a China Tourist Visa
+      </a>
+    </div>
+  </main>
+
+  <Footer />
+</Layout>
+
+<script
+  type="application/ld+json"
+  is:inline
+  set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: [
+      {
+        "@type": "Question",
+        name: "Do I need a visa to visit China in 2026?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "It depends on your nationality. As of 2026 many countries — including the UK, most of the EU, Australia, Japan, South Korea and others — can enter China visa-free for up to 30 days. Others can use visa-free transit of up to 240 hours when travelling onward to a third country, and the rest need a standard L tourist visa. Use the checker to see your category.",
+        },
+      },
+      {
+        "@type": "Question",
+        name: "How long can I stay in China without a visa?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Eligible nationalities can stay visa-free for up to 30 days for tourism, business or family visits as of 2026. Visa-free transit allows up to 240 hours (10 days) within eligible regions when continuing to a third country.",
+        },
+      },
+    ],
+  })}
+/>
+
+<script is:inline define:vars={{ meta }}>
+  document.addEventListener("astro:page-load", () => {
+    const sel = document.getElementById("nationality");
+    const box = document.getElementById("result");
+    const lbl = document.getElementById("result-label");
+    const txt = document.getElementById("result-text");
+    if (!sel || !box) return;
+
+    const colors = {
+      emerald: "border-emerald-200 bg-emerald-50 dark:border-emerald-800/50 dark:bg-emerald-900/15",
+      amber: "border-amber-200 bg-amber-50 dark:border-amber-800/50 dark:bg-amber-900/15",
+      rose: "border-rose-200 bg-rose-50 dark:border-rose-800/50 dark:bg-rose-900/15",
+    };
+    const textColors = {
+      emerald: "text-emerald-800 dark:text-emerald-300",
+      amber: "text-amber-800 dark:text-amber-300",
+      rose: "text-rose-800 dark:text-rose-300",
+    };
+
+    sel.addEventListener("change", () => {
+      const v = sel.value;
+      if (!v) { box.classList.add("hidden"); return; }
+      const m = meta[v] || meta.visa;
+      box.className = "mt-5 rounded-xl border p-4 " + (colors[m.color] || colors.rose);
+      lbl.className = "text-base font-bold " + (textColors[m.color] || textColors.rose);
+      lbl.textContent = m.label;
+      txt.textContent = m.text;
+    });
+  });
+</script>
