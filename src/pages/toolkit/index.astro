@@ -106,20 +106,20 @@ const toolkitArticles = posts.sort((a, b) => new Date(b.data.pubDatetime).getTim
 
 // Thumbnail map for toolkit articles
 const thumbs: Record<string, string> = {
-  "china-visa-application-guide":            "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=600&q=80",
-  "china-digital-payment-foreigners-guide":  "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=600&q=80",
-  "china-internet-apps-guide":               "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&q=80",
-  "china-train-booking-guide-foreigners":    "https://images.unsplash.com/photo-1515658323406-25d61c141a6e?w=600&q=80",
-  "china-transport-guide":                   "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=600&q=80",
-  "china-2-week-itinerary":                  "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=600&q=80",
-  "best-time-to-visit-china":                "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86?w=600&q=80",
-  "china-food-guide-street-food":            "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=600&q=80",
-  "china-solo-female-safety-guide":          "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=600&q=80",
-  "china-budget-travel-guide":               "https://images.unsplash.com/photo-1509016741186-e5e8a1e7d65e?w=600&q=80",
-  "china-packing-list-guide":                "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600&q=80",
-  "china-safety-guide":                      "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=600&q=80",
+  "china-visa-application-guide":            "/destinations/beijing.jpg",
+  "china-digital-payment-foreigners-guide":  "/destinations/shanghai.jpg",
+  "china-internet-apps-guide":               "/destinations/shanghai.jpg",
+  "china-train-booking-guide-foreigners":    "/destinations/shanghai.jpg",
+  "china-transport-guide":                   "/destinations/shanghai.jpg",
+  "china-2-week-itinerary":                  "/destinations/beijing.jpg",
+  "best-time-to-visit-china":                "/destinations/huangshan.jpg",
+  "china-food-guide-street-food":            "/destinations/chengdu.jpg",
+  "china-solo-female-safety-guide":          "/destinations/guilin.jpg",
+  "china-budget-travel-guide":               "/destinations/guilin.jpg",
+  "china-packing-list-guide":                "/destinations/xian.jpg",
+  "china-safety-guide":                      "/destinations/guilin.jpg",
 };
-const defaultThumb = "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=600&q=80";
+const defaultThumb = "/destinations/zhangjiajie.jpg";
 
 function getThumb(id: string): string {
   const slug = id.replace(/^toolkit\//, "");

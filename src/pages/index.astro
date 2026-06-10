@@ -24,9 +24,9 @@ const homePath = getRelativeLocaleUrl(locale, "");
 
 // Hero background image pool — rotates daily for freshness
 const heroImages = [
-  { url: "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=1800&q=85", alt: "Karst limestone peaks rising from the Li River mist in Guilin, China" },
-  { url: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1800&q=85", alt: "The Great Wall of China stretching over mountain ridges at golden hour" },
-  { url: "https://images.unsplash.com/photo-1538428494232-9c0d8a3ab403?w=1800&q=85", alt: "Shanghai Bund and Pudong skyline reflecting on the Huangpu River" },
+  { url: "/destinations/guilin.jpg", alt: "Karst limestone peaks rising from the Li River mist in Guilin, China" },
+  { url: "/destinations/beijing.jpg", alt: "The Great Wall of China stretching over mountain ridges at golden hour" },
+  { url: "/destinations/shanghai.jpg", alt: "Shanghai Bund and Pudong skyline reflecting on the Huangpu River" },
 ];
 const heroImage = heroImages[new Date().getDate() % heroImages.length];
 
@@ -95,7 +95,7 @@ const travelThemes = [
     href: getRelativeLocaleUrl(locale, "tags/visa"),
     tag: "HOT",
     tagColor: "bg-red-500",
-    image: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=600&q=80",
+    image: "/destinations/beijing.jpg",
   },
   {
     icon: "🐪",
@@ -104,7 +104,7 @@ const travelThemes = [
     href: getRelativeLocaleUrl(locale, "tags/xian"),
     tag: "EPIC",
     tagColor: "bg-amber-500",
-    image: "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=600&q=80",
+    image: "/destinations/dunhuang.jpg",
   },
   {
     icon: "🏔️",
@@ -113,7 +113,7 @@ const travelThemes = [
     href: getRelativeLocaleUrl(locale, "tags/nature"),
     tag: "SCENIC",
     tagColor: "bg-emerald-500",
-    image: "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=600&q=80",
+    image: "/destinations/zhangjiajie.jpg",
   },
   {
     icon: "🍜",
@@ -122,7 +122,7 @@ const travelThemes = [
     href: getRelativeLocaleUrl(locale, "tags/food"),
     tag: "TASTE",
     tagColor: "bg-orange-500",
-    image: "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=600&q=80",
+    image: "/destinations/chengdu.jpg",
   },
   {
     icon: "🏯",
@@ -131,7 +131,7 @@ const travelThemes = [
     href: getRelativeLocaleUrl(locale, "tags/culture"),
     tag: "CULTURE",
     tagColor: "bg-red-700",
-    image: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=600&q=80",
+    image: "/destinations/xian.jpg",
   },
   {
     icon: "🐼",
@@ -140,7 +140,7 @@ const travelThemes = [
     href: getRelativeLocaleUrl(locale, "tags/chengdu"),
     tag: "WILDLIFE",
     tagColor: "bg-green-600",
-    image: "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=600&q=80",
+    image: "/destinations/chengdu.jpg",
   },
 ];
 
@@ -189,7 +189,7 @@ const bentoDests = [
   {
     name: "Beijing",
     tagline: "Imperial grandeur meets modern China",
-    image: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=900&q=80",
+    image: "/destinations/zhangjiajie.jpg",
     href: getRelativeLocaleUrl(locale, "tags/beijing"),
     size: "large",  // spans 2 rows
     emoji: "🏯",
@@ -197,7 +197,7 @@ const bentoDests = [
   {
     name: "Shanghai",
     tagline: "The skyline that never sleeps",
-    image: "https://images.unsplash.com/photo-1538428494232-9c0d8a3ab403?w=900&q=80",
+    image: "/destinations/jiuzhaigou.jpg",
     href: getRelativeLocaleUrl(locale, "tags/shanghai"),
     size: "medium",
     emoji: "🌆",
@@ -205,7 +205,7 @@ const bentoDests = [
   {
     name: "Guilin",
     tagline: "Karst peaks & emerald rivers",
-    image: "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=700&q=80",
+    image: "/destinations/huangshan.jpg",
     href: getRelativeLocaleUrl(locale, "tags/guilin"),
     size: "small",
     emoji: "⛰️",
@@ -213,7 +213,7 @@ const bentoDests = [
   {
     name: "Xi'an",
     tagline: "Cradle of Chinese civilisation",
-    image: "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=700&q=80",
+    image: "/destinations/shanghai.jpg",
     href: getRelativeLocaleUrl(locale, "tags/xian"),
     size: "small",
     emoji: "🏺",
@@ -221,7 +221,7 @@ const bentoDests = [
   {
     name: "Chengdu",
     tagline: "Pandas, hotpot & laid-back vibes",
-    image: "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=900&q=80",
+    image: "/destinations/beijing.jpg",
     href: getRelativeLocaleUrl(locale, "tags/chengdu"),
     size: "medium",
     emoji: "🐼",
@@ -229,7 +229,7 @@ const bentoDests = [
   {
     name: "Yunnan",
     tagline: "Ancient towns & mountain kingdoms",
-    image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=700&q=80",
+    image: "/destinations/yunnan.jpg",
     href: getRelativeLocaleUrl(locale, "tags/yunnan"),
     size: "small",
     emoji: "🌸",
@@ -242,29 +242,29 @@ const featuredSidebar = featuredPosts.slice(1, 4);
 
 // Thumbnail helper function for magazine cards
 const thumbMap: Record<string, string> = {
-  beijing:   "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=900&q=80",
-  shanghai:  "https://images.unsplash.com/photo-1538428494232-9c0d8a3ab403?w=900&q=80",
-  xian:      "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=900&q=80",
-  chengdu:   "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=900&q=80",
-  guilin:    "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=900&q=80",
-  visa:      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=900&q=80",
-  transport: "https://images.unsplash.com/photo-1515658323406-25d61c141a6e?w=900&q=80",
-  food:      "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=900&q=80",
-  harbin:    "https://images.unsplash.com/photo-1578894381163-e72c17f2d45f?w=900&q=80",
-  yunnan:    "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=900&q=80",
+  beijing:   "/destinations/beijing.jpg",
+  shanghai:  "/destinations/shanghai.jpg",
+  xian:      "/destinations/xian.jpg",
+  chengdu:   "/destinations/chengdu.jpg",
+  guilin:    "/destinations/guilin.jpg",
+  visa:      "/destinations/beijing.jpg",
+  transport: "/destinations/shanghai.jpg",
+  food:      "/destinations/chengdu.jpg",
+  harbin:    "/destinations/harbin.jpg",
+  yunnan:    "/destinations/yunnan.jpg",
 };
 const thumbMapSm: Record<string, string> = {
-  beijing:   "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=300&q=75",
-  shanghai:  "https://images.unsplash.com/photo-1538428494232-9c0d8a3ab403?w=300&q=75",
-  xian:      "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=300&q=75",
-  chengdu:   "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=300&q=75",
-  visa:      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=300&q=75",
-  transport: "https://images.unsplash.com/photo-1515658323406-25d61c141a6e?w=300&q=75",
-  food:      "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=300&q=75",
-  guilin:    "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=300&q=75",
+  beijing:   "/destinations/beijing.jpg",
+  shanghai:  "/destinations/shanghai.jpg",
+  xian:      "/destinations/xian.jpg",
+  chengdu:   "/destinations/chengdu.jpg",
+  visa:      "/destinations/beijing.jpg",
+  transport: "/destinations/shanghai.jpg",
+  food:      "/destinations/chengdu.jpg",
+  guilin:    "/destinations/guilin.jpg",
 };
-const defaultThumb = "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=900&q=80";
-const defaultThumbSm = "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=300&q=75";
+const defaultThumb = "/destinations/zhangjiajie.jpg";
+const defaultThumbSm = "/destinations/jiuzhaigou.jpg";
 
 function getPostThumb(tags: string[] | undefined, large = true): string {
   const tag = (tags?.[0] ?? "").toLowerCase().replace(/[^a-z]/g, "");

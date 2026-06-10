@@ -63,7 +63,7 @@ const destinationMeta: Record<string, DestinationMeta> = {
   beijing: {
     emoji: "🏯",
     region: "North China",
-    heroImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1600&q=85",
+    heroImage: "/destinations/beijing.jpg",
     tagline: "Imperial grandeur, ancient hutongs, and the world's greatest concentration of UNESCO heritage sites",
     bestTime: "Apr–May & Sep–Oct",
     visaStatus: "144-hr & 15-day visa-free",
@@ -75,7 +75,7 @@ const destinationMeta: Record<string, DestinationMeta> = {
   shanghai: {
     emoji: "🌆",
     region: "East China",
-    heroImage: "https://images.unsplash.com/photo-1538428494232-9c0d8a3ab403?w=1600&q=85",
+    heroImage: "/destinations/shanghai.jpg",
     tagline: "A city of art-deco skylines, former French Concession leafy boulevards, and relentless forward momentum",
     bestTime: "Mar–May & Sep–Nov",
     visaStatus: "144-hr & 15-day visa-free",
@@ -87,7 +87,7 @@ const destinationMeta: Record<string, DestinationMeta> = {
   xian: {
     emoji: "🏺",
     region: "Northwest China",
-    heroImage: "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=1600&q=85",
+    heroImage: "/destinations/xian.jpg",
     tagline: "The ancient capital of 13 dynasties, home to the Terracotta Army and the original start of the Silk Road",
     bestTime: "Apr–Jun & Sep–Nov",
     visaStatus: "Visa required (most nationalities)",
@@ -99,7 +99,7 @@ const destinationMeta: Record<string, DestinationMeta> = {
   chengdu: {
     emoji: "🐼",
     region: "Southwest China",
-    heroImage: "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=1600&q=85",
+    heroImage: "/destinations/chengdu.jpg",
     tagline: "Giant pandas, legendary hotpot, and a laid-back café culture that makes every visitor want to move here",
     bestTime: "Mar–Jun & Sep–Nov",
     visaStatus: "Visa required (most nationalities)",
@@ -111,7 +111,7 @@ const destinationMeta: Record<string, DestinationMeta> = {
   guilin: {
     emoji: "⛰️",
     region: "South China",
-    heroImage: "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=1600&q=85",
+    heroImage: "/destinations/guilin.jpg",
     tagline: "Surreal karst peaks rising from the Li River — the landscape that defines China's scenic reputation",
     bestTime: "Apr–Oct",
     visaStatus: "Visa required (most nationalities)",
@@ -123,7 +123,7 @@ const destinationMeta: Record<string, DestinationMeta> = {
   hangzhou: {
     emoji: "🍵",
     region: "East China",
-    heroImage: "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86?w=1600&q=85",
+    heroImage: "/destinations/hangzhou.jpg",
     tagline: "West Lake's misty waters, Dragon Well tea plantations, and the gentle poetry of traditional Chinese landscapes",
     bestTime: "Mar–May & Sep–Nov",
     visaStatus: "144-hr & 15-day visa-free",
@@ -135,7 +135,7 @@ const destinationMeta: Record<string, DestinationMeta> = {
   yunnan: {
     emoji: "🌈",
     region: "Southwest China",
-    heroImage: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1600&q=85",
+    heroImage: "/destinations/yunnan.jpg",
     tagline: "Where 26 ethnic minorities, ancient trading towns, and the Himalayas' edge create China's most diverse province",
     bestTime: "Oct–Apr (dry season)",
     visaStatus: "Visa required (most nationalities)",
@@ -147,7 +147,7 @@ const destinationMeta: Record<string, DestinationMeta> = {
   tibet: {
     emoji: "🏔️",
     region: "Southwest China",
-    heroImage: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=1600&q=85",
+    heroImage: "/destinations/tibet.jpg",
     tagline: "The roof of the world — Potala Palace, high-altitude monasteries, and landscapes unlike anywhere on Earth",
     bestTime: "Apr–Oct",
     visaStatus: "Tibet Permit required + Chinese visa",
@@ -159,7 +159,7 @@ const destinationMeta: Record<string, DestinationMeta> = {
   harbin: {
     emoji: "❄️",
     region: "Northeast China",
-    heroImage: "https://images.unsplash.com/photo-1578894381163-e72c17f2d45f?w=1600&q=85",
+    heroImage: "/destinations/harbin.jpg",
     tagline: "The magical Ice and Snow World festival transforms the coldest city in China into a luminous winter fairyland",
     bestTime: "Dec–Feb (Ice Festival season)",
     visaStatus: "Visa required (most nationalities)",
@@ -171,7 +171,7 @@ const destinationMeta: Record<string, DestinationMeta> = {
   jiuzhaigou: {
     emoji: "💎",
     region: "Southwest China",
-    heroImage: "https://images.unsplash.com/photo-1504198266287-1659872e6590?w=1600&q=85",
+    heroImage: "/destinations/jiuzhaigou.jpg",
     tagline: "Impossibly turquoise lakes and multi-tiered waterfalls in a Tibetan valley that seems painted, not real",
     bestTime: "Sep–Nov (autumn colours) & Apr–Jun",
     visaStatus: "Visa required (most nationalities)",
@@ -187,7 +187,7 @@ const destMeta = destinationMeta[tag ?? ""];
 const isDestinationTag = Boolean(destMeta);
 
 // Thumbnail for the hero image
-const heroImage = destMeta?.heroImage ?? `https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=1600&q=85`;
+const heroImage = destMeta?.heroImage ?? `/destinations/shanghai.jpg
 ---
 
 <Layout title={`${t.pages.tagTitle}: ${tagName} | ${config.site.title}`} noindex={noindex}>

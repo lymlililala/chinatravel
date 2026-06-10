@@ -21,15 +21,15 @@ const thumbnailMap: Record<string, string> = {
   pingyao:        "/destinations/pingyao.jpg",    // Pingyao ancient wall at night
   shanxi:         "/destinations/pingyao.jpg",    // Shanxi ancient city
   datong:         "/destinations/luoyang.jpg",  // Temple / stone sculpture
-  hebei:          "https://images.unsplash.com/photo-1570168007204-dfb528c6958f?w=600&q=80",  // Chengde mountain resort
-  chengde:        "https://images.unsplash.com/photo-1570168007204-dfb528c6958f?w=600&q=80",  // Chengde summer palace
+  hebei:          "/destinations/huangshan.jpg",  // Chengde mountain resort
+  chengde:        "/destinations/beijing.jpg",  // Chengde summer palace
   tianjin:        "/destinations/tianjin.jpg",  // European colonial street
   // Inner Mongolia
-  innermongolia:  "https://images.unsplash.com/photo-1531761535209-180857e963b9?w=600&q=80",  // Hulunbuir grassland
-  hulunbuir:      "https://images.unsplash.com/photo-1531761535209-180857e963b9?w=600&q=80",  // Grassland & horses
+  innermongolia:  "/destinations/qinghai.jpg",  // Hulunbuir grassland
+  hulunbuir:      "/destinations/qinghai.jpg",  // Grassland & horses
   // ── NORTHEAST ──
   harbin:         "/destinations/harbin.jpg",  // Ice and Snow World
-  jilin:          "https://images.unsplash.com/photo-1548013146-72479768bada?w=600&q=80",    // Rime ice trees
+  jilin:          "/destinations/harbin.jpg",    // Rime ice trees
   dalian:         "/destinations/dalian.jpg",  // Dalian coastal scenery
   shenyang:       "/destinations/pingyao.jpg",  // Shenyang Imperial Palace
   changbai:       "/destinations/changbai.jpg",  // Changbai mountain lake
@@ -37,8 +37,8 @@ const thumbnailMap: Record<string, string> = {
   shanghai:       "/destinations/shanghai.jpg",  // Bund & Pudong skyline
   hangzhou:       "/destinations/hangzhou.jpg",  // West Lake mist
   qingdao:        "/destinations/qingdao.jpg",  // Qingdao coastal landscape
-  shandong:       "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=600&q=80",    // Qufu/culture heritage
-  qufu:           "https://images.unsplash.com/photo-1570168007204-dfb528c6958f?w=600&q=80",  // Kong Temple cypress
+  shandong:       "/destinations/pingyao.jpg",    // Qufu/culture heritage
+  qufu:           "/destinations/tibet.jpg",  // Kong Temple cypress
   yangzhou:       "/destinations/hangzhou.jpg",  // Slender West Lake
   jiangsu:        "/destinations/hangzhou.jpg",  // Garden / lake
   ningbo:         "/destinations/jiangxi.jpg",    // Putuoshan temple
@@ -58,7 +58,7 @@ const thumbnailMap: Record<string, string> = {
   zhangjiajie:    "/destinations/zhangjiajie.jpg",  // Zhangjiajie pillars
   zhengzhou:      "/destinations/luoyang.jpg",  // Ancient stone grottoes
   luoyang:        "/destinations/luoyang.jpg",  // Longmen Grottoes
-  henan:          "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=600&q=80",    // Historical culture
+  henan:          "/destinations/luoyang.jpg",    // Historical culture
   jiangxi:        "/destinations/jiangxi.jpg",  // Lushan mountains
   // ── SOUTH CHINA ──
   guangzhou:      "/destinations/guangzhou.jpg",  // Guangzhou city skyline
@@ -66,8 +66,8 @@ const thumbnailMap: Record<string, string> = {
   chaozhou:       "/destinations/chaoshan.jpg",  // Guangji bridge
   chaoshan:       "/destinations/chaoshan.jpg",  // Chaoshan bridge
   gulangyu:       "/destinations/gulangyu.jpg",  // Gulangyu island scenery
-  fujian:         "https://images.unsplash.com/photo-1566552881560-0be862a7c445?w=600&q=80",    // Fujian Tulou earth buildings
-  tulou:          "https://images.unsplash.com/photo-1566552881560-0be862a7c445?w=600&q=80",    // Circular tulou
+  fujian:         "/destinations/gulangyu.jpg",    // Fujian Tulou earth buildings
+  tulou:          "/destinations/gulangyu.jpg",    // Circular tulou
   fuzhou:         "/destinations/fuzhou.jpg",         // Fuzhou Three Lanes Seven Alleys
   guilin:         "/destinations/guilin.jpg",  // Guilin Li River karst
   guangxi:        "/destinations/guilin.jpg",  // Guangxi karst landscape
@@ -91,7 +91,7 @@ const thumbnailMap: Record<string, string> = {
   kunming:        "/destinations/yunnan.jpg",          // Kunming / Yunnan landscape
   macau:          "/destinations/macau.jpg",  // Macau ruins / skyline
   macao:          "/destinations/macau.jpg",  // Macau city
-  hongkong:       "https://images.unsplash.com/photo-1513407030348-c983a97b98d8?w=600&q=80",  // HK skyline
+  hongkong:       "/destinations/macau.jpg",  // HK skyline
   shangri:        "/destinations/tibet.jpg",           // Tibetan monastery
   tibet:          "/destinations/tibet.jpg",           // Tibet Potala Palace
   shigatse:       "/destinations/tibet.jpg",           // Tashilhunpo Shigatse
@@ -103,7 +103,7 @@ const thumbnailMap: Record<string, string> = {
   lanzhou:        "/destinations/dunhuang.jpg",        // Gansu Silk Road dunes
   gansu:          "/destinations/dunhuang.jpg",        // Gansu desert landscape
   ningxia:        "/destinations/dunhuang.jpg",        // Ningxia desert
-  yinchuan:       "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=600&q=80",    // Western Xia heritage
+  yinchuan:       "/destinations/pingyao.jpg",    // Western Xia heritage
   xinjiang:       "/destinations/xinjiang.jpg",  // Xinjiang mountain landscape
   kanas:          "/destinations/xinjiang.jpg",  // Kanas autumn lake
   urumqi:         "/destinations/xinjiang.jpg",  // Urumqi Xinjiang
@@ -112,97 +112,97 @@ const thumbnailMap: Record<string, string> = {
   nanjing:        "/destinations/wuhan.jpg",  // Nanjing city skyline
   suzhou:         "/destinations/suzhou.jpg",  // Suzhou classical garden
   jiangsu:        "/destinations/suzhou.jpg",  // Canal district
-  kaifeng:        "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=600&q=80",    // Song Dynasty heritage
+  kaifeng:        "/destinations/pingyao.jpg",    // Song Dynasty heritage
   shaolin:        "/destinations/luoyang.jpg",    // Shaolin temple
-  wudang:         "https://images.unsplash.com/photo-1525362081669-2b476bb628c3?w=600&q=80",  // Wudang cliffside
+  wudang:         "/destinations/huangshan.jpg",  // Wudang cliffside
   jingdezhen:     "/destinations/jiangxi.jpg",  // Jingdezhen ceramics culture
   wuyuan:         "/destinations/anhui.jpg",          // Wuyuan ancient village
   lushan:         "/destinations/jiangxi.jpg",  // Mount Lu mist
   putuoshan:      "/destinations/hangzhou.jpg",    // Sacred island temple
-  shenzhen:       "https://images.unsplash.com/photo-1617870952348-7524edfb61b7?w=600&q=80",  // Shenzhen skyline
+  shenzhen:       "/destinations/guangzhou.jpg",  // Shenzhen skyline
   nanning:        "/destinations/guilin.jpg",  // Guangxi tropical coast
-  detian:         "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=600&q=80",  // Waterfall
+  detian:         "/destinations/guilin.jpg",  // Waterfall
   xiamen:         "/destinations/gulangyu.jpg",  // Gulangyu / Xiamen coast
   wuyi:           "/destinations/jiangxi.jpg",  // Wuyi mountain mist
   kashgar:        "/destinations/kashgar.jpg",         // Kashgar Silk Road
-  taishan:        "https://images.unsplash.com/photo-1508804052814-cd3ba865a116?w=600&q=80",  // Mount Tai stairs
-  huashan:        "https://images.unsplash.com/photo-1508804052814-cd3ba865a116?w=600&q=80",  // Huashan cliff plank
+  taishan:        "/destinations/huangshan.jpg",  // Mount Tai stairs
+  huashan:        "/destinations/huangshan.jpg",  // Huashan cliff plank
   emei:           "/destinations/chengdu.jpg",  // Emei/Leshan Buddha
   leshan:         "/destinations/chengdu.jpg",  // Giant Buddha
   namtso:         "/destinations/qinghai.jpg",  // Namtso lake blue
   qilian:         "/destinations/qinghai.jpg",  // Mountain meadow
   zhangye:        "/destinations/zhangye.jpg",         // Zhangye Danxia colorful strata
-  jiayuguan:      "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=600&q=80",  // Jiayuguan Great Wall desert
+  jiayuguan:      "/destinations/beijing.jpg",  // Jiayuguan Great Wall desert
   // ── PRACTICAL / TOOLKIT TOPICS ──
-  visa:           "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=600&q=80",  // Passport & airplane
-  entry:          "https://images.unsplash.com/photo-1423592707957-3b212afa6733?w=600&q=80",  // Airport terminal / arrivals
-  payment:        "https://images.unsplash.com/photo-1556742111-a301076d9d18?w=600&q=80",    // Mobile payment QR
-  money:          "https://images.unsplash.com/photo-1556742111-a301076d9d18?w=600&q=80",    // Money / payment
-  alipay:         "https://images.unsplash.com/photo-1556742111-a301076d9d18?w=600&q=80",    // Alipay QR
-  wechat:         "https://images.unsplash.com/photo-1545893835-abaa50cbe628?w=600&q=80",    // WeChat app
-  transport:      "https://images.unsplash.com/photo-1515658323406-25d61c141a6e?w=600&q=80",  // High-speed train
-  apps:           "https://images.unsplash.com/photo-1545893835-abaa50cbe628?w=600&q=80",    // Smartphone apps
-  connectivity:   "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&q=80",  // Network / SIM
-  metro:          "https://images.unsplash.com/photo-1555400038-63f5ba517a47?w=600&q=80",    // Metro / subway
-  vpn:            "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=80",    // VPN / internet
-  wifi:           "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",  // WiFi symbol
-  cycling:        "https://images.unsplash.com/photo-1476055439777-977cdf3a5699?w=600&q=80",  // Cycling
-  flights:        "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&q=80",  // Airplane boarding gate
-  ridehailing:    "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=600&q=80",  // Taxi
-  ferry:          "https://images.unsplash.com/photo-1530789253388-582c481c54b0?w=600&q=80",  // Ferry / boat
-  sleeper:        "https://images.unsplash.com/photo-1515658323406-25d61c141a6e?w=600&q=80",  // Train sleeper
-  food:           "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=600&q=80",  // Chinese street food
-  solo:           "https://images.unsplash.com/photo-1501555088652-021faa106b9b?w=600&q=80",  // Solo traveller
-  beginners:      "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=600&q=80",  // Travel planning map
-  accommodation:  "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=600&q=80",  // Hotel room
-  shopping:       "https://images.unsplash.com/photo-1582650625119-3a31f8fa2699?w=600&q=80",  // Chinese market
-  culture:        "https://images.unsplash.com/photo-1563245372-f21724e3856d?w=600&q=80",    // Chinese culture
-  etiquette:      "https://images.unsplash.com/photo-1563245372-f21724e3856d?w=600&q=80",    // Cultural etiquette
-  health:         "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=600&q=80",    // Medical / health
-  weather:        "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=600&q=80",  // Landscape seasons
-  seasons:        "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=600&q=80",  // Seasonal travel
-  internet:       "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&q=80",  // SIM / phone
-  sim:            "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&q=80",  // SIM card
-  itinerary:      "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=600&q=80",  // Travel planning
-  "silk-road":    "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=600&q=80",  // Silk road desert
-  hotels:         "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=600&q=80",  // Hotel room
-  temples:        "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=600&q=80",  // Temple (Putuoshan)
-  islands:        "https://images.unsplash.com/photo-1530789253388-582c481c54b0?w=600&q=80",  // Island coast
-  plateau:        "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=600&q=80",  // Tibetan plateau landscape
+  visa:           "/destinations/beijing.jpg",  // Passport & airplane
+  entry:          "/destinations/beijing.jpg",  // Airport terminal / arrivals
+  payment:        "/destinations/shanghai.jpg",    // Mobile payment QR
+  money:          "/destinations/shanghai.jpg",    // Money / payment
+  alipay:         "/destinations/shanghai.jpg",    // Alipay QR
+  wechat:         "/destinations/shanghai.jpg",    // WeChat app
+  transport:      "/destinations/shanghai.jpg",  // High-speed train
+  apps:           "/destinations/shanghai.jpg",    // Smartphone apps
+  connectivity:   "/destinations/shanghai.jpg",  // Network / SIM
+  metro:          "/destinations/shanghai.jpg",    // Metro / subway
+  vpn:            "/destinations/shanghai.jpg",    // VPN / internet
+  wifi:           "/destinations/shanghai.jpg",  // WiFi symbol
+  cycling:        "/destinations/guilin.jpg",  // Cycling
+  flights:        "/destinations/shanghai.jpg",  // Airplane boarding gate
+  ridehailing:    "/destinations/shanghai.jpg",  // Taxi
+  ferry:          "/destinations/chongqing.jpg",  // Ferry / boat
+  sleeper:        "/destinations/shanghai.jpg",  // Train sleeper
+  food:           "/destinations/chengdu.jpg",  // Chinese street food
+  solo:           "/destinations/guilin.jpg",  // Solo traveller
+  beginners:      "/destinations/beijing.jpg",  // Travel planning map
+  accommodation:  "/destinations/shanghai.jpg",  // Hotel room
+  shopping:       "/destinations/guangzhou.jpg",  // Chinese market
+  culture:        "/destinations/beijing.jpg",    // Chinese culture
+  etiquette:      "/destinations/beijing.jpg",    // Cultural etiquette
+  health:         "/destinations/huangshan.jpg",    // Medical / health
+  weather:        "/destinations/jiuzhaigou.jpg",  // Landscape seasons
+  seasons:        "/destinations/jiuzhaigou.jpg",  // Seasonal travel
+  internet:       "/destinations/shanghai.jpg",  // SIM / phone
+  sim:            "/destinations/shanghai.jpg",  // SIM card
+  itinerary:      "/destinations/beijing.jpg",  // Travel planning
+  "silk-road":    "/destinations/dunhuang.jpg",  // Silk road desert
+  hotels:         "/destinations/shanghai.jpg",  // Hotel room
+  temples:        "/destinations/tibet.jpg",  // Temple (Putuoshan)
+  islands:        "/destinations/hainan.jpg",  // Island coast
+  plateau:        "/destinations/tibet.jpg",  // Tibetan plateau landscape
   beaches:        "/destinations/hainan.jpg",  // Beach
-  grasslands:     "https://images.unsplash.com/photo-1531761535209-180857e963b9?w=600&q=80",  // Grassland
+  grasslands:     "/destinations/qinghai.jpg",  // Grassland
   gardens:        "/destinations/suzhou.jpg",  // Classical garden
   // New tags
-  yangtze:        "https://images.unsplash.com/photo-1530789253388-582c481c54b0?w=600&q=80",  // River gorge
-  trekking:       "https://images.unsplash.com/photo-1501554728187-ce583db33af7?w=600&q=80",  // Mountain hiking
-  hiking:         "https://images.unsplash.com/photo-1501554728187-ce583db33af7?w=600&q=80",  // Hiking trail
-  diving:         "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=600&q=80",    // Underwater coral
-  snorkeling:     "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=600&q=80",    // Tropical sea
-  pilgrimage:     "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=600&q=80",  // Sacred pilgrimage site
+  yangtze:        "/destinations/chongqing.jpg",  // River gorge
+  trekking:       "/destinations/huangshan.jpg",  // Mountain hiking
+  hiking:         "/destinations/huangshan.jpg",  // Hiking trail
+  diving:         "/destinations/hainan.jpg",    // Underwater coral
+  snorkeling:     "/destinations/hainan.jpg",    // Tropical sea
+  pilgrimage:     "/destinations/tibet.jpg",  // Sacred pilgrimage site
   minorities:     "/destinations/guizhou.jpg",         // Ethnic minority villages
-  festivals:      "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=600&q=80",  // Festival lights
-  cruise:         "https://images.unsplash.com/photo-1530789253388-582c481c54b0?w=600&q=80",  // River cruise
+  festivals:      "/destinations/beijing.jpg",  // Festival lights
+  cruise:         "/destinations/chongqing.jpg",  // River cruise
   river:          "/destinations/guilin.jpg",  // River landscape
-  tea:            "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&q=80",    // Tea plantation
-  village:        "https://images.unsplash.com/photo-1566552881560-0be862a7c445?w=600&q=80",    // Ancient village (tulou)
-  ancient:        "https://images.unsplash.com/photo-1508804052814-cd3ba865a116?w=600&q=80",  // Ancient heritage
+  tea:            "/destinations/hangzhou.jpg",    // Tea plantation
+  village:        "/destinations/gulangyu.jpg",    // Ancient village (tulou)
+  ancient:        "/destinations/pingyao.jpg",  // Ancient heritage
   architecture:   "/destinations/beijing.jpg",  // Architecture
-  hotpot:         "https://images.unsplash.com/photo-1563245372-f21724e3856d?w=600&q=80",    // Hotpot food
-  noodles:        "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=600&q=80",  // Chinese noodles
-  seafood:        "https://images.unsplash.com/photo-1550535424-2d54b7920c87?w=600&q=80",    // Seafood market
-  art:            "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=600&q=80",  // Contemporary art
-  nightlife:      "https://images.unsplash.com/photo-1536599018102-9f803c140fc1?w=600&q=80",  // City night lights
+  hotpot:         "/destinations/chengdu.jpg",    // Hotpot food
+  noodles:        "/destinations/xian.jpg",  // Chinese noodles
+  seafood:        "/destinations/qingdao.jpg",    // Seafood market
+  art:            "/destinations/shanghai.jpg",  // Contemporary art
+  nightlife:      "/destinations/shanghai.jpg",  // City night lights
 };
 
 const firstTag = (tags?.[0] ?? "").toLowerCase().replace(/[^a-z]/g, "");
 const tagThumbnail =
   thumbnailMap[firstTag] ??
   thumbnailMap[Object.keys(thumbnailMap).find(k => title.toLowerCase().includes(k)) ?? ""] ??
-  "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=600&q=80";
+  "/destinations/xian.jpg";
 
 // Prefer article's own ogImage (string URL) over the tag-based map
 const { ogImage } = data;
-const thumbnail = (typeof ogImage === "string" && ogImage.startsWith("http"))
+const thumbnail = (typeof ogImage === "string" && ogImage.startsWith("/"))
   ? ogImage
   : tagThumbnail;
 
