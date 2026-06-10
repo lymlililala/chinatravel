@@ -1,5 +1,14 @@
 ---
-title: "Traditional Chinese Medicine for Tourists: What to Try, Where to Go and What to Expect"
+title: "TCM Retreats in China for Tourists 2026: Acupuncture, Wellness & What to Expect"
+faq:
+  - question: "Can tourists do a TCM retreat in China?"
+    answer: "Yes. Foreign visitors can book Traditional Chinese Medicine experiences ranging from single acupuncture, cupping or tui na massage sessions in cities, to multi-day TCM wellness retreats at hot-spring resorts and clinics. Larger wellness centres cater to international guests and often have English-speaking staff or translators."
+  - question: "Where are the best TCM retreats in China?"
+    answer: "Options cluster around hot-spring resorts in Yunnan, Sichuan and near Beijing, dedicated TCM clinics in major cities, and Buddhist/Taoist mountain retreats combining treatment with meditation and tai chi. Choose by goal — recovery and detox programmes, spa-style relaxation, or hands-on treatment."
+  - question: "What happens at a Chinese medicine retreat?"
+    answer: "A typical programme blends diagnosis (pulse and tongue reading), treatments such as acupuncture, cupping, moxibustion, herbal prescriptions and tui na massage, with dietary therapy, tai chi or qigong, and rest. Multi-day retreats add a structured daily schedule aimed at a specific outcome like stress relief or recovery."
+  - question: "Is TCM safe for foreign travellers?"
+    answer: "Mainstream treatments like acupuncture and massage are generally safe when done at reputable clinics or hospitals with licensed practitioners and sterile, single-use needles. Be cautious with unverified herbal remedies, share your medical history and any medications, and favour established TCM hospitals or well-reviewed wellness centres over street stalls."
 description: "Guide to experiencing Traditional Chinese Medicine (TCM) in China as a tourist. Covers acupuncture, cupping, tui na massage, herbal tea, TCM hospitals vs tourist traps, and safety."
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"

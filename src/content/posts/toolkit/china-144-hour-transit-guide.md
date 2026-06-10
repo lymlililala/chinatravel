@@ -3,6 +3,15 @@ author: Roam China Travel Editorial Team
 pubDatetime: 2026-05-02T08:00:00Z
 modDatetime: 2026-05-02T10:00:00Z
 title: "China 144-Hour Transit Visa-Free: Complete Guide to China's Best-Kept Travel Secret"
+faq:
+  - question: "What is the 144-hour visa-free transit in China?"
+    answer: "It's a visa exemption that lets eligible travellers stay up to 144 hours (6 days) in certain Chinese city clusters while transiting to a third country. You enter and exit through approved ports, hold a confirmed onward ticket to a different country than you arrived from, and stay within the permitted region — no visa or application required."
+  - question: "Who qualifies for the 144-hour transit visa-free policy?"
+    answer: "Passport holders of around 50 eligible countries (most of Europe, the US, Canada, Australia, and several Asian nations) qualify, provided you are travelling A→China→C (a third country, not back to A), have the onward ticket booked within 144 hours, and arrive at a participating port. Always confirm your nationality is on the current list before relying on it."
+  - question: "Which Chinese cities offer 144-hour visa-free transit?"
+    answer: "Major participating regions include Shanghai with Jiangsu and Zhejiang, Beijing with Tianjin and Hebei, Guangdong (Guangzhou/Shenzhen), Chengdu, Chongqing, Xi'an, Kunming and several others. Each region defines the area you may move within, so you generally must stay inside that cluster during your stay."
+  - question: "Is 144-hour transit the same as the new visa-free policy?"
+    answer: "No — they're separate. The 144-hour transit scheme requires onward travel to a third country and is region-limited. The expanded 15-day (and longer) unilateral visa-free entry for many nationalities allows ordinary tourism without the third-country transit requirement. Check which one fits your trip, as eligibility and rules differ."
 featured: false
 draft: false
 tags:
