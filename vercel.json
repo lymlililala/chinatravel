@@ -1,6 +1,36 @@
 {
   "redirects": [
     {
+      "source": "/posts/china-visa-entry-guide",
+      "destination": "/posts/toolkit/china-visa-application-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-visa-entry-guide/",
+      "destination": "/posts/toolkit/china-visa-application-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-payment-guide",
+      "destination": "/posts/toolkit/china-digital-payment-foreigners-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-payment-guide/",
+      "destination": "/posts/toolkit/china-digital-payment-foreigners-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-apps-internet-guide",
+      "destination": "/posts/toolkit/china-internet-apps-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/china-apps-internet-guide/",
+      "destination": "/posts/toolkit/china-internet-apps-guide/",
+      "permanent": true
+    },
+    {
       "source": "/posts/toolkit/china-weather-when-to-visit-guide",
       "destination": "/posts/toolkit/best-time-to-visit-china/",
       "permanent": true
