@@ -98,4 +98,4 @@ Citizens of many countries can enter Hong Kong and Macau without a Chinese mainl
 
 The most current source is the **Chinese Embassy or Consulate in your country**. The official Chinese government source is the Ministry of Foreign Affairs (www.mfa.gov.cn) — search in the English-language section.
 
-*Also see: [China Visa Guide for US Citizens](/posts/toolkit/china-travel-guide-americans-us-citizens/) | [UK Travellers Guide](/posts/toolkit/china-travel-guide-uk-british/) | [Australia NZ Guide](/posts/toolkit/china-travel-guide-australians/) | [China Entry Requirements Guide](/posts/toolkit/china-entry-requirements-guide/)*
+*Also see: [China Visa Guide for US Citizens](/posts/toolkit/china-travel-guide-americans/) | [UK Travellers Guide](/posts/toolkit/china-travel-guide-uk-british/) | [Australia NZ Guide](/posts/toolkit/china-travel-guide-australians/) | [China Entry Requirements Guide](/posts/toolkit/china-entry-requirements-guide/)*

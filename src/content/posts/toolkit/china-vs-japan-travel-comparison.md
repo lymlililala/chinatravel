@@ -159,7 +159,7 @@ Most Western passport holders (US, UK, EU, Australia, Canada, New Zealand) can e
 ### China
 China's visa policy is more complex. Citizens of around 50+ countries (including UK, EU, Australia, New Zealand) can enter for 15 days visa-free for tourism as of 2026. US citizens currently require a visa. The 144-hour transit exemption applies to 54 nationalities.
 
-See [China visa eligibility guide](/posts/toolkit/china-visa-entry-guide/) for full country-by-country breakdown.
+See [China visa eligibility guide](/posts/toolkit/china-visa-application-guide/) for full country-by-country breakdown.
 
 **Verdict:** Japan wins for countries not covered by China's visa-free scheme (primarily US citizens). For most European and Commonwealth passport holders, both are accessible without significant visa burden.
 

@@ -1,6 +1,196 @@
 {
   "redirects": [
     {
+      "source": "/posts/toolkit/china-visa-free-countries-2025",
+      "destination": "/posts/toolkit/china-visa-free-countries-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-visa-free-countries-2025/",
+      "destination": "/posts/toolkit/china-visa-free-countries-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-visa-on-arrival-port-entry",
+      "destination": "/posts/toolkit/china-visa-on-arrival-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-visa-on-arrival-port-entry/",
+      "destination": "/posts/toolkit/china-visa-on-arrival-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-visa-extension-renewal-guide",
+      "destination": "/posts/toolkit/china-visa-extension-psb-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-visa-extension-renewal-guide/",
+      "destination": "/posts/toolkit/china-visa-extension-psb-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-visa-entry-guide",
+      "destination": "/posts/toolkit/china-visa-application-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-visa-entry-guide/",
+      "destination": "/posts/toolkit/china-visa-application-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-travel-guide-americans-us-citizens",
+      "destination": "/posts/toolkit/china-travel-guide-americans/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-travel-guide-americans-us-citizens/",
+      "destination": "/posts/toolkit/china-travel-guide-americans/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-france-travellers-guide",
+      "destination": "/posts/toolkit/china-travel-guide-french/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-france-travellers-guide/",
+      "destination": "/posts/toolkit/china-travel-guide-french/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-germany-travellers-guide",
+      "destination": "/posts/toolkit/china-travel-guide-german/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-germany-travellers-guide/",
+      "destination": "/posts/toolkit/china-travel-guide-german/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-indian-travellers-guide",
+      "destination": "/posts/toolkit/china-travel-guide-indian/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-indian-travellers-guide/",
+      "destination": "/posts/toolkit/china-travel-guide-indian/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/zhejiang-wuzhen-water-town-guide",
+      "destination": "/posts/destinations/wuzhen-xitang-water-towns-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/zhejiang-wuzhen-water-town-guide/",
+      "destination": "/posts/destinations/wuzhen-xitang-water-towns-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/zhujiajiao-water-town-guide",
+      "destination": "/posts/destinations/shanghai-zhujiajiao-water-town-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/zhujiajiao-water-town-guide/",
+      "destination": "/posts/destinations/shanghai-zhujiajiao-water-town-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/xiamen-gulangyu-island-guide",
+      "destination": "/posts/destinations/gulangyu-island-xiamen-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/xiamen-gulangyu-island-guide/",
+      "destination": "/posts/destinations/gulangyu-island-xiamen-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/xiamen-gulangyu-travel-guide",
+      "destination": "/posts/destinations/gulangyu-island-xiamen-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/xiamen-gulangyu-travel-guide/",
+      "destination": "/posts/destinations/gulangyu-island-xiamen-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/shanxi-datong-yungang-caves-guide",
+      "destination": "/posts/destinations/datong-yungang-caves-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/shanxi-datong-yungang-caves-guide/",
+      "destination": "/posts/destinations/datong-yungang-caves-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/tianjin-travel-complete-guide",
+      "destination": "/posts/destinations/tianjin-travel-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/tianjin-travel-complete-guide/",
+      "destination": "/posts/destinations/tianjin-travel-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/tianjin-food-culture-guide",
+      "destination": "/posts/destinations/tianjin-food-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/tianjin-food-culture-guide/",
+      "destination": "/posts/destinations/tianjin-food-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/nanjing-jiangsu-complete-guide",
+      "destination": "/posts/destinations/nanjing-travel-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/nanjing-jiangsu-complete-guide/",
+      "destination": "/posts/destinations/nanjing-travel-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/nanjing-travel-guide",
+      "destination": "/posts/destinations/nanjing-travel-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/nanjing-travel-guide/",
+      "destination": "/posts/destinations/nanjing-travel-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/macau-macao-travel-guide",
+      "destination": "/posts/destinations/macau-complete-travel-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/macau-macao-travel-guide/",
+      "destination": "/posts/destinations/macau-complete-travel-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/kashgar-xinjiang-guide",
+      "destination": "/posts/destinations/kashgar-xinjiang-travel-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/kashgar-xinjiang-guide/",
+      "destination": "/posts/destinations/kashgar-xinjiang-travel-guide/",
+      "permanent": true
+    },
+    {
       "source": "/posts/destinations/zhangjiajie-avatar-mountains-guide",
       "destination": "/posts/destinations/hunan-zhangjiajie-complete-guide/",
       "permanent": true

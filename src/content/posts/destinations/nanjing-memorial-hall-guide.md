@@ -65,4 +65,4 @@ Nanjing has a rich historical landscape beyond the massacre memorial:
 - **Ming Xiaoling Mausoleum**: Ming dynasty imperial tomb in the eastern suburban mountains
 - **City Wall**: The most complete surviving Ming dynasty city wall in China; walkable for 12km
 
-*Also see: [Nanjing Complete Guide](/posts/destinations/nanjing-jiangsu-complete-guide/) | [China History Travel Guide](/posts/toolkit/china-history-travel-guide/) | [Shanghai Suzhou Hangzhou Itinerary](/posts/toolkit/shanghai-suzhou-hangzhou-5-day-itinerary/)*
+*Also see: [Nanjing Complete Guide](/posts/destinations/nanjing-travel-complete-guide/) | [China History Travel Guide](/posts/toolkit/china-history-travel-guide/) | [Shanghai Suzhou Hangzhou Itinerary](/posts/toolkit/shanghai-suzhou-hangzhou-5-day-itinerary/)*

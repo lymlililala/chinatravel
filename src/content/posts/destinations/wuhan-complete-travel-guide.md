@@ -197,4 +197,4 @@ Wuhan's cherry blossom window is narrow — follow the official Wuhan University
 
 **Language:** Limited English outside tourist sites and international hotels. Amap navigates all public transport in English.
 
-**Visa:** Wuhan is included in China's 15-day visa-free program for eligible nationalities. See [China visa guide](/posts/toolkit/china-visa-entry-guide/).
+**Visa:** Wuhan is included in China's 15-day visa-free program for eligible nationalities. See [China visa guide](/posts/toolkit/china-visa-application-guide/).

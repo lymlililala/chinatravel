@@ -221,4 +221,4 @@ International flights and the China portion of your trip are additional.
 
 ---
 
-*Related guides: [Tibet Complete Guide — Lhasa, Potala Palace & Namtso](/posts/destinations/tibet-potala-palace-lhasa-guide/) | [Tibet Shigatse and Rongbuk Guide](/posts/destinations/tibet-shigatse-rongbuk-guide/) | [China Visa Guide](/posts/toolkit/china-visa-entry-guide/)*
+*Related guides: [Tibet Complete Guide — Lhasa, Potala Palace & Namtso](/posts/destinations/tibet-potala-palace-lhasa-guide/) | [Tibet Shigatse and Rongbuk Guide](/posts/destinations/tibet-shigatse-rongbuk-guide/) | [China Visa Guide](/posts/toolkit/china-visa-application-guide/)*

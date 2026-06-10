@@ -32,7 +32,7 @@ It depends entirely on your passport. As of 2026, citizens of over 50 countries 
 
 The separate **144-hour transit visa-free** policy applies to 54 nationalities transiting through designated cities including Beijing, Shanghai, Guangzhou, Chengdu, and others. It requires a confirmed onward ticket to a third country.
 
-Check the full updated list in our [China visa-free countries guide](/posts/toolkit/china-visa-free-countries-2025/).
+Check the full updated list in our [China visa-free countries guide](/posts/toolkit/china-visa-free-countries-2026/).
 
 ### How long does it take to get a Chinese tourist visa?
 
@@ -42,7 +42,7 @@ Apply at least **3 to 4 weeks before travel** during peak seasons (March–May, 
 
 ### Can I extend my visa while in China?
 
-Yes. Tourist visas can be extended once at a local Public Security Bureau (PSB) Exit-Entry Administration office. Extensions are typically granted for 30 days. Bring your passport, a recent passport photo, proof of accommodation, and your onward travel itinerary. Processing takes around 7 working days. See our [visa extension guide](/posts/toolkit/china-visa-extension-renewal-guide/) for the step-by-step process.
+Yes. Tourist visas can be extended once at a local Public Security Bureau (PSB) Exit-Entry Administration office. Extensions are typically granted for 30 days. Bring your passport, a recent passport photo, proof of accommodation, and your onward travel itinerary. Processing takes around 7 working days. See our [visa extension guide](/posts/toolkit/china-visa-extension-psb-guide/) for the step-by-step process.
 
 ### What happens if I overstay my visa?
 
@@ -326,7 +326,7 @@ For first-time visitors to complex sites — Forbidden City, Terracotta Warriors
 
 If your trip is within the next 30 days:
 
-1. **Check your visa eligibility** → [Visa guide](/posts/toolkit/china-visa-entry-guide/)
+1. **Check your visa eligibility** → [Visa guide](/posts/toolkit/china-visa-application-guide/)
 2. **Set up Alipay with your foreign card** → [Payment guide](/posts/toolkit/china-digital-payment-foreigners-guide/)
 3. **Download Amap and DiDi** → [Apps guide](/posts/toolkit/china-apps-internet-guide/)
 4. **Book your high-speed train tickets** → [Train guide](/posts/toolkit/china-train-booking-guide-foreigners/)

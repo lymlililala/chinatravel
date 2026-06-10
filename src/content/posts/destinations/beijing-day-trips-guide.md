@@ -59,7 +59,7 @@ Tianjin was a treaty port from 1860 onwards, and its concession zones — Britis
 
 Tianjin also has excellent food: Goubuli steamed buns (狗不理包子, one of China's "Three Famous Flavours of Tianjin"), jianbing (煎饼, crepe breakfast), and mahua (麻花, fried dough twist).
 
-Day trip from Beijing is easy (35 min each way). [Full Tianjin guide](/posts/destinations/tianjin-travel-complete-guide/).
+Day trip from Beijing is easy (35 min each way). [Full Tianjin guide](/posts/destinations/tianjin-travel-guide/).
 
 ## North: Yanqing Valley and Longqing Gorge
 
@@ -69,4 +69,4 @@ Yanqing was the 2022 Winter Olympics venue — the alpine skiing and bobsled fac
 
 **Ice Lantern Festival at Longqing Gorge** (January–February): One of the best outside Harbin — ice sculptures lit at night in the enclosed gorge. Much less crowded than the Harbin equivalents.
 
-*Also see: [Beijing 3-Day Itinerary](/posts/toolkit/beijing-3-day-itinerary/) | [Great Wall Guide](/posts/destinations/great-wall-badaling-guide/) | [Tianjin Travel Guide](/posts/destinations/tianjin-travel-complete-guide/)*
+*Also see: [Beijing 3-Day Itinerary](/posts/toolkit/beijing-3-day-itinerary/) | [Great Wall Guide](/posts/destinations/great-wall-badaling-guide/) | [Tianjin Travel Guide](/posts/destinations/tianjin-travel-guide/)*

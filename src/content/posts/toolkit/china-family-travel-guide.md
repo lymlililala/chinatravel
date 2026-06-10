@@ -207,7 +207,7 @@ The overall budget for a well-organised 10-day family trip for two adults and tw
 
 ## Essential Resources for Family Travel
 
-- [China Visa Guide](/posts/toolkit/china-visa-entry-guide/) — check if your nationality needs a visa
+- [China Visa Guide](/posts/toolkit/china-visa-application-guide/) — check if your nationality needs a visa
 - [Alipay Setup for Foreigners](/posts/toolkit/china-digital-payment-foreigners-guide/) — set up mobile payment before you leave
 - [China Apps Guide](/posts/toolkit/china-apps-internet-guide/) — what to download for navigation and communication
 - [Train Booking Guide](/posts/toolkit/china-train-booking-guide-foreigners/) — how to book high-speed trains with children

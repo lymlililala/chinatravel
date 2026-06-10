@@ -57,4 +57,4 @@ The culture: Yangzhou residents eat morning tea from 7am onwards. The older teah
 
 **Stay**: The historic district has several good boutique hotels converted from Qing dynasty merchant residences.
 
-*Also see: [Nanjing Complete Guide](/posts/destinations/nanjing-jiangsu-complete-guide/) | [Suzhou Classical Gardens Guide](/posts/destinations/suzhou-classical-gardens-complete-guide/) | [Jiangnan Water Towns Guide](/posts/destinations/jiangnan-water-towns-complete-guide/)*
+*Also see: [Nanjing Complete Guide](/posts/destinations/nanjing-travel-complete-guide/) | [Suzhou Classical Gardens Guide](/posts/destinations/suzhou-classical-gardens-complete-guide/) | [Jiangnan Water Towns Guide](/posts/destinations/jiangnan-water-towns-complete-guide/)*

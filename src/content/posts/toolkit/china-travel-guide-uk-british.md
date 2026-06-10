@@ -147,4 +147,4 @@ Suggested departure: London–Beijing (Air China direct), return Shanghai–Lond
 
 ---
 
-*Also see: [China Visa Guide](/posts/toolkit/china-visa-entry-guide/) | [China Payment Setup](/posts/toolkit/china-digital-payment-foreigners-guide/) | [Best Time to Visit China](/posts/toolkit/best-time-to-visit-china/)*
+*Also see: [China Visa Guide](/posts/toolkit/china-visa-application-guide/) | [China Payment Setup](/posts/toolkit/china-digital-payment-foreigners-guide/) | [Best Time to Visit China](/posts/toolkit/best-time-to-visit-china/)*
