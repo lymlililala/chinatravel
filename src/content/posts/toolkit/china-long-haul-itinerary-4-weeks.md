@@ -44,7 +44,7 @@ Beijing (4 days) → Xi'an (3 days) → Chengdu (3 days) → Chongqing (1 day) �
 
 **Day 7**: Big Wild Goose Pagoda morning → Small Wild Goose Pagoda + Shaanxi History Museum → evening Tang Paradise fountain show OR Yongxingfang food street.
 
-*See [Xi'an Terracotta Warriors Guide](/posts/destinations/xian-terracotta-warriors-city-wall-guide/) for detail.*
+*See [Xi'an Terracotta Warriors Guide](/posts/destinations/xian-terracotta-army-complete-guide/) for detail.*
 
 ### Chengdu (Days 8–10)
 

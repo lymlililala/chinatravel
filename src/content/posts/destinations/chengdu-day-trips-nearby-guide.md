@@ -39,7 +39,7 @@ The Leshan Giant Buddha is the world's largest pre-modern stone Buddha (71 metre
 
 **The surrounding park:** The Lingyun Temple above the Buddha has been here since the 7th century. The views from the temple terrace over the confluence of the three rivers — looking down on the Buddha's crown — provide the third major viewing angle.
 
-[Full Leshan guide](/posts/destinations/sichuan-emeishan-leshan-guide/).
+[Full Leshan guide](/posts/destinations/sichuan-emei-mountain-guide/).
 
 ---
 

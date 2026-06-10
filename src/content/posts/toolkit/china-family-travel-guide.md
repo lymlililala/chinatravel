@@ -54,7 +54,7 @@ Beijing is the strongest family destination in China, largely because the attrac
 
 The undisputed family highlight of inland China.
 
-**Chengdu Giant Panda Base** — Arrive at 8:30am for feeding time. Cubs, adults, red pandas, and the memorable chaos of 50 giant pandas eating bamboo at speed. Allow 2 to 3 hours. Book tickets online in advance — they sell out, especially on weekends and holidays. This is the non-negotiable family experience in China. [Full guide here](/posts/destinations/chengdu-panda-base-leshan-guide/).
+**Chengdu Giant Panda Base** — Arrive at 8:30am for feeding time. Cubs, adults, red pandas, and the memorable chaos of 50 giant pandas eating bamboo at speed. Allow 2 to 3 hours. Book tickets online in advance — they sell out, especially on weekends and holidays. This is the non-negotiable family experience in China. [Full guide here](/posts/destinations/chengdu-panda-research-base-guide/).
 
 **Leshan Giant Buddha** — A 71-metre stone Buddha carved into a cliff face above the confluence of three rivers. Children find the scale extraordinary — the thumbnail alone is 1.5 metres long. Approach by boat for the full effect.
 

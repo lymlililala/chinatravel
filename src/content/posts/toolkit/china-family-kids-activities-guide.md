@@ -72,4 +72,4 @@ Karst cycling for older children and teenagers. Li River boat trip is suitable f
 
 **Days 9–10: Shanghai** — Natural History Museum. Pudong observation deck. Zhujiajiao water town.
 
-*Also see: [China Family Travel Guide](/posts/toolkit/china-family-travel-guide/) | [Chengdu Panda Base Guide](/posts/destinations/chengdu-panda-base-leshan-guide/) | [Beijing 3-Day Itinerary](/posts/toolkit/beijing-3-day-itinerary/)*
+*Also see: [China Family Travel Guide](/posts/toolkit/china-family-travel-guide/) | [Chengdu Panda Base Guide](/posts/destinations/chengdu-panda-research-base-guide/) | [Beijing 3-Day Itinerary](/posts/toolkit/beijing-3-day-itinerary/)*

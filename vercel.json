@@ -1,6 +1,256 @@
 {
   "redirects": [
     {
+      "source": "/posts/destinations/emeishan-complete-guide",
+      "destination": "/posts/destinations/sichuan-emei-mountain-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/emeishan-complete-guide/",
+      "destination": "/posts/destinations/sichuan-emei-mountain-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/emeishan-leshan-sichuan-pilgrimage-guide",
+      "destination": "/posts/destinations/sichuan-emei-mountain-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/emeishan-leshan-sichuan-pilgrimage-guide/",
+      "destination": "/posts/destinations/sichuan-emei-mountain-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/sichuan-emei-mountain-complete-guide",
+      "destination": "/posts/destinations/sichuan-emei-mountain-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/sichuan-emei-mountain-complete-guide/",
+      "destination": "/posts/destinations/sichuan-emei-mountain-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/sichuan-emeishan-leshan-guide",
+      "destination": "/posts/destinations/sichuan-emei-mountain-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/sichuan-emeishan-leshan-guide/",
+      "destination": "/posts/destinations/sichuan-emei-mountain-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/sichuan-leshan-emei-chengdu-guide",
+      "destination": "/posts/destinations/sichuan-emei-mountain-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/sichuan-leshan-emei-chengdu-guide/",
+      "destination": "/posts/destinations/sichuan-emei-mountain-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/panda-base-chengdu-guide",
+      "destination": "/posts/destinations/chengdu-panda-research-base-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/panda-base-chengdu-guide/",
+      "destination": "/posts/destinations/chengdu-panda-research-base-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/chengdu-panda-base-leshan-guide",
+      "destination": "/posts/destinations/chengdu-panda-research-base-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/chengdu-panda-base-leshan-guide/",
+      "destination": "/posts/destinations/chengdu-panda-research-base-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/suzhou-canal-gardens-guide",
+      "destination": "/posts/destinations/suzhou-classical-gardens-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/suzhou-canal-gardens-guide/",
+      "destination": "/posts/destinations/suzhou-classical-gardens-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/suzhou-classical-garden-water-town-guide",
+      "destination": "/posts/destinations/suzhou-classical-gardens-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/suzhou-classical-garden-water-town-guide/",
+      "destination": "/posts/destinations/suzhou-classical-gardens-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/suzhou-classical-gardens-guide",
+      "destination": "/posts/destinations/suzhou-classical-gardens-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/suzhou-classical-gardens-guide/",
+      "destination": "/posts/destinations/suzhou-classical-gardens-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/suzhou-classical-gardens-visit-guide",
+      "destination": "/posts/destinations/suzhou-classical-gardens-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/suzhou-classical-gardens-visit-guide/",
+      "destination": "/posts/destinations/suzhou-classical-gardens-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/suzhou-gardens-detailed-guide",
+      "destination": "/posts/destinations/suzhou-classical-gardens-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/suzhou-gardens-detailed-guide/",
+      "destination": "/posts/destinations/suzhou-classical-gardens-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/xian-terracotta-warriors-city-wall-guide",
+      "destination": "/posts/destinations/xian-terracotta-army-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/xian-terracotta-warriors-city-wall-guide/",
+      "destination": "/posts/destinations/xian-terracotta-army-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/xian-terracotta-warriors-tickets-guide",
+      "destination": "/posts/destinations/xian-terracotta-army-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/xian-terracotta-warriors-tickets-guide/",
+      "destination": "/posts/destinations/xian-terracotta-army-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/lhasa-potala-palace-guide",
+      "destination": "/posts/destinations/tibet-potala-palace-lhasa-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/lhasa-potala-palace-guide/",
+      "destination": "/posts/destinations/tibet-potala-palace-lhasa-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/tibet-potala-palace-guide",
+      "destination": "/posts/destinations/tibet-potala-palace-lhasa-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/tibet-potala-palace-guide/",
+      "destination": "/posts/destinations/tibet-potala-palace-lhasa-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/tibet-namtso-lake-pilgrim-circuit-guide",
+      "destination": "/posts/destinations/tibet-namtso-lake-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/tibet-namtso-lake-pilgrim-circuit-guide/",
+      "destination": "/posts/destinations/tibet-namtso-lake-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/tibet-everest-advanced-base-camp",
+      "destination": "/posts/destinations/tibet-everest-base-camp-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/tibet-everest-advanced-base-camp/",
+      "destination": "/posts/destinations/tibet-everest-base-camp-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/tibet-trekking-everest-base-camp-guide",
+      "destination": "/posts/destinations/tibet-everest-base-camp-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/tibet-trekking-everest-base-camp-guide/",
+      "destination": "/posts/destinations/tibet-everest-base-camp-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/forbidden-city-detailed-route-guide",
+      "destination": "/posts/destinations/forbidden-city-palace-museum-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/forbidden-city-detailed-route-guide/",
+      "destination": "/posts/destinations/forbidden-city-palace-museum-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/lijiang-naxi-culture-guide",
+      "destination": "/posts/destinations/lijiang-naxi-old-town-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/lijiang-naxi-culture-guide/",
+      "destination": "/posts/destinations/lijiang-naxi-old-town-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/yunnan-lijiang-naxi-guide",
+      "destination": "/posts/destinations/lijiang-naxi-old-town-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/yunnan-lijiang-naxi-guide/",
+      "destination": "/posts/destinations/lijiang-naxi-old-town-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/jiuzhaigou-practical-guide",
+      "destination": "/posts/destinations/jiuzhaigou-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/jiuzhaigou-practical-guide/",
+      "destination": "/posts/destinations/jiuzhaigou-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/jiuzhaigou-valley-turquoise-lakes-guide",
+      "destination": "/posts/destinations/jiuzhaigou-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/jiuzhaigou-valley-turquoise-lakes-guide/",
+      "destination": "/posts/destinations/jiuzhaigou-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/sichuan-jiuzhaigou-season-guide",
+      "destination": "/posts/destinations/sichuan-jiuzhaigou-autumn-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/sichuan-jiuzhaigou-season-guide/",
+      "destination": "/posts/destinations/sichuan-jiuzhaigou-autumn-guide/",
+      "permanent": true
+    },
+    {
       "source": "/posts/toolkit/china-alipay-setup-guide",
       "destination": "/posts/toolkit/china-digital-payment-foreigners-guide/",
       "permanent": true

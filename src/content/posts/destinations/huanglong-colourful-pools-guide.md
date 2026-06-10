@@ -58,4 +58,4 @@ Huanglong and Jiuzhaigou are 120km apart on the same mountain road — most visi
 
 **Avoid July–August**: Peak Chinese tourist season, maximum altitude adaptation challenge in summer heat.
 
-*Also see: [Jiuzhaigou Best Season Guide](/posts/destinations/sichuan-jiuzhaigou-season-guide/) | [Sichuan Western Plateau Guide](/posts/destinations/sichuan-western-plateau-guide/) | [Tibet Trekking Guide](/posts/destinations/tibet-trekking-everest-base-camp-guide/)*
+*Also see: [Jiuzhaigou Best Season Guide](/posts/destinations/sichuan-jiuzhaigou-autumn-guide/) | [Sichuan Western Plateau Guide](/posts/destinations/sichuan-western-plateau-guide/) | [Tibet Trekking Guide](/posts/destinations/tibet-everest-base-camp-guide/)*

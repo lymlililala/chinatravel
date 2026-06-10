@@ -65,4 +65,4 @@ Less walked than the causeways. Beishan Road along the northern shore passes thr
 
 **Winter**: Snow scenes. The Broken Bridge snow scene. Very few visitors.
 
-*Also see: [Hangzhou Longjing Tea Village Guide](/posts/destinations/hangzhou-longjing-tea-culture/) | [Shanghai Suzhou Hangzhou 5-Day Itinerary](/posts/toolkit/shanghai-suzhou-hangzhou-5-day-itinerary/) | [Suzhou Classical Gardens Guide](/posts/destinations/suzhou-canal-gardens-guide/)*
+*Also see: [Hangzhou Longjing Tea Village Guide](/posts/destinations/hangzhou-longjing-tea-culture/) | [Shanghai Suzhou Hangzhou 5-Day Itinerary](/posts/toolkit/shanghai-suzhou-hangzhou-5-day-itinerary/) | [Suzhou Classical Gardens Guide](/posts/destinations/suzhou-classical-gardens-complete-guide/)*

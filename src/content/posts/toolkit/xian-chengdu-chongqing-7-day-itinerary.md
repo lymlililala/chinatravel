@@ -216,4 +216,4 @@ Chongqing is built on steep cliffs between two rivers and has an urban architect
 
 ---
 
-*Also see: [Xi'an Terracotta Warriors Guide](/posts/destinations/xian-terracotta-warriors-city-wall-guide/) | [Chengdu Complete Guide](/posts/destinations/chengdu-travel-guide/) | [Chongqing Food Guide](/posts/destinations/chongqing-food-hotpot-guide/)*
+*Also see: [Xi'an Terracotta Warriors Guide](/posts/destinations/xian-terracotta-army-complete-guide/) | [Chengdu Complete Guide](/posts/destinations/chengdu-travel-guide/) | [Chongqing Food Guide](/posts/destinations/chongqing-food-hotpot-guide/)*

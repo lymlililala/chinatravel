@@ -77,4 +77,4 @@ The exception: tourist sites within cities (Forbidden City, Yuyuan Garden, West 
 | Dragon Boat Festival | ~June | 3 days | Minor impact |
 | **National Day (Golden Week)** | **Oct 1–7** | **Very large** | **See strategies above** |
 
-*Also see: [China Festivals Holidays Guide](/posts/toolkit/china-festivals-holidays-guide/) | [China Autumn Fall Guide](/posts/toolkit/china-autumn-fall-travel-guide/) | [Jiuzhaigou Season Guide](/posts/destinations/sichuan-jiuzhaigou-season-guide/)*
+*Also see: [China Festivals Holidays Guide](/posts/toolkit/china-festivals-holidays-guide/) | [China Autumn Fall Guide](/posts/toolkit/china-autumn-fall-travel-guide/) | [Jiuzhaigou Season Guide](/posts/destinations/sichuan-jiuzhaigou-autumn-guide/)*
