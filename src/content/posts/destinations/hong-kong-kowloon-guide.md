@@ -3,6 +3,15 @@ author: Roam China Travel Editorial Team
 pubDatetime: 2026-05-02T08:00:00Z
 modDatetime: 2026-05-02T10:00:00Z
 title: "Kowloon Complete Guide 2026: Mong Kok, Sham Shui Po & the Real Hong Kong"
+faq:
+  - question: "What is Kowloon in Hong Kong?"
+    answer: "Kowloon is the densely populated peninsula on the mainland side of Victoria Harbour, directly across the water from Hong Kong Island. It includes districts such as Tsim Sha Tsui, Mong Kok and Yau Ma Tei, and is famous for its markets, neon streets, shopping and harbourfront views back towards the island skyline."
+  - question: "What is there to do in Mong Kok, Kowloon?"
+    answer: "Mong Kok is one of the world's most crowded shopping districts, packed with street markets such as the Ladies' Market, Sneaker Street and the flower and goldfish markets, plus cheap eats and electronics. Evenings are the liveliest time, when the neon lights and night-market stalls are at their busiest."
+  - question: "Is Kowloon a good area for shopping?"
+    answer: "Yes, Kowloon is Hong Kong's street-shopping heart. Tsim Sha Tsui has luxury malls and Nathan Road's Golden Mile, while Mong Kok and Sham Shui Po are the places for markets, bargains, electronics and local goods. It generally offers cheaper and more varied shopping than Hong Kong Island."
+  - question: "How do I get from Hong Kong Island to Kowloon?"
+    answer: "The quickest ways are the MTR Tsuen Wan line under the harbour, or the historic Star Ferry from Central or Wan Chai to Tsim Sha Tsui, which takes about ten minutes and offers the best harbour views. Cross-harbour buses and taxis through the tunnels are also available."
 featured: false
 draft: false
 tags:

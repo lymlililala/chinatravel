@@ -3,6 +3,15 @@ author: Roam China Travel Editorial Team
 pubDatetime: 2026-05-02T08:00:00Z
 modDatetime: 2026-05-02T10:00:00Z
 title: "Beijing Metro Guide 2026: Lines, Fares, Tourist Routes & Practical Tips"
+faq:
+  - question: "How much does the Beijing subway cost in 2026?"
+    answer: "Beijing's subway uses distance-based pricing that starts at 3 yuan for trips up to 6km and rises in steps for longer journeys, with most cross-city rides costing 4-7 yuan. The Daxing and Capital Airport Expresses are priced separately. You pay by scanning a QR code in the Yikatong, Alipay or WeChat transit mini-program, or with a physical transit card."
+  - question: "How do I pay for the Beijing metro as a foreigner?"
+    answer: "The easiest way is the transit QR code inside Alipay or WeChat: add the Beijing Transport (Yikatong) card once and scan it at the gates. You can also buy a physical Yikatong card at any station service window with a small deposit, or buy single-journey tickets from the machines. Bank cards are not tapped directly at the gates."
+  - question: "What are the Beijing subway operating hours?"
+    answer: "Most lines run from roughly 05:00 to 23:00, with central lines like Line 1 and Line 2 running slightly later. Exact first and last train times are posted at every station entrance and differ by direction, so check the platform sign if you are travelling near closing time."
+  - question: "Is the Beijing subway easy to use without Chinese?"
+    answer: "Yes. Every station name, sign and announcement is bilingual, lines are colour-coded and numbered, and ticket machines have an English option. Security screening of bags is required at every entrance, so allow a few extra minutes at busy stations."
 featured: false
 draft: false
 tags:

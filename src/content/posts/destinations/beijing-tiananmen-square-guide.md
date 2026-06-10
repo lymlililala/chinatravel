@@ -3,6 +3,15 @@ author: Roam China Travel Editorial Team
 pubDatetime: 2026-05-01T08:00:00Z
 modDatetime: 2026-05-01T10:00:00Z
 title: "Tiananmen Square Beijing Guide 2026: What to See, Flag Ceremony & Practical Visit Tips"
+faq:
+  - question: "Do you need to book to visit Tiananmen Square?"
+    answer: "Yes. Visitors must make a free, timed reservation in advance through the official mini-program and bring the passport that matches the booking. Entry is by security check at designated points around the square, and your passport is scanned against the reservation."
+  - question: "What are the security rules at Tiananmen Square?"
+    answer: "Expect airport-style screening: passport and reservation check, bag X-ray and a personal security check at every entrance. Large bags, liquids and sharp objects may be refused, and you should carry your passport at all times. Arrive early, as queues at the checkpoints can be long at peak times."
+  - question: "Is Tiananmen Square free to visit?"
+    answer: "The square itself is free, but you need the advance timed reservation to enter. Surrounding attractions are ticketed separately: the Forbidden City to the north, the Mao Zedong Mausoleum, and the National Museum on the east side each have their own entry rules."
+  - question: "What is the best time to visit Tiananmen Square?"
+    answer: "Early morning is best: it is cooler, less crowded, and you can catch the sunrise flag-raising ceremony performed by the honour guard. Times shift with the seasons, so check the day's sunrise time and allow extra minutes for the security queues."
 featured: false
 draft: false
 tags:

@@ -3,6 +3,15 @@ author: Roam China Travel Editorial Team
 pubDatetime: 2026-05-01T08:00:00Z
 modDatetime: 2026-05-01T10:00:00Z
 title: "China Digital Payment Guide for Foreigners 2026: Alipay, WeChat Pay & Practical Setup"
+faq:
+  - question: "Can foreigners use Alipay and WeChat Pay in China?"
+    answer: "Yes. Both apps now let overseas visitors link an international Visa, Mastercard or other foreign card and pay by QR code almost everywhere, including shops, restaurants, taxis, metro and street stalls. You set this up in the app's wallet section; small transactions may carry a fee, and very large ones can require ID verification."
+  - question: "Do I need a Chinese bank account to pay with my phone in China?"
+    answer: "No. Since the apps added international card support, a Chinese bank account is no longer required for everyday spending, and you can bind a foreign card directly to Alipay or WeChat. A local bank account is only worth it for long stays or large, frequent transactions."
+  - question: "Should I set up Alipay or WeChat Pay before arriving in China?"
+    answer: "Set it up before you go. Download the app, complete identity verification and link your card while you still have reliable internet, because the verification steps are far easier before you are behind the Great Firewall. Then you can pay from the moment you land."
+  - question: "Is cash still accepted in China?"
+    answer: "Cash is legally accepted and vendors must take it, but mobile payment is so dominant that some places struggle to give change. Carry a small amount of yuan as backup, but expect to pay by QR code for almost everything day to day."
 featured: false
 draft: false
 tags:

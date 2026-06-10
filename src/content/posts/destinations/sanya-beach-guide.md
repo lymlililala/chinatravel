@@ -2,6 +2,15 @@
 author: Roam China Travel Editorial Team
 pubDatetime: 2026-05-27T20:55:00Z
 title: "Sanya Beach Guide 2026: Hainan's Best Beaches, Diving, Snorkelling & Tropical Resorts"
+faq:
+  - question: "Which are the best beaches in Sanya?"
+    answer: "Sanya's three main bays each have a different character: Yalong Bay has the clearest water and the big resorts, Dadonghai is the most central and lively with easy access from the city, and Sanya Bay is a long palm-lined stretch popular for sunsets. Wuzhizhou Island, offshore, has the best snorkelling and diving."
+  - question: "Can you snorkel in Sanya, Hainan?"
+    answer: "Yes. The clearest snorkelling and diving are at Wuzhizhou Island, a short boat ride from Sanya, where you find coral and reef fish. Yalong Bay also has decent visibility. Conditions are best from roughly October to April when the sea is calmest and clearest."
+  - question: "When is the best time to visit Sanya's beaches?"
+    answer: "The dry season from November to April is ideal: warm, sunny and far less humid, which is why Sanya is China's top winter beach escape. Summer is hotter, more humid and brings occasional typhoons, though the sea stays warm year-round."
+  - question: "Is Sanya good for a beach holiday?"
+    answer: "Very. It sits at roughly the same latitude as Hawaii and offers tropical beaches, warm water all year, resorts, water sports and fresh seafood. Yalong Bay suits resort relaxation, while Dadonghai suits travellers who want beach plus restaurants and nightlife within walking distance."
 featured: false
 draft: false
 tags:

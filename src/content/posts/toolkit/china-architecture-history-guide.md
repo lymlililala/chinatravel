@@ -1,5 +1,14 @@
 ---
 title: "China Architecture Guide: Reading 4,000 Years of Building History"
+faq:
+  - question: "What are the main types of traditional Chinese architecture?"
+    answer: "The main categories are imperial palaces such as the Forbidden City, religious buildings including Buddhist and Taoist temples and pagodas, defensive structures like the Great Wall and city walls, classical gardens such as Suzhou's scholar gardens, and vernacular dwellings such as the Hakka tulou and Beijing's courtyard hutongs. Each follows principles of symmetry, timber framing and harmony with the landscape."
+  - question: "Where can I see the best examples of Chinese architecture?"
+    answer: "Beijing has the Forbidden City and Temple of Heaven, Xi'an preserves its Ming city wall, Suzhou is famous for classical gardens, Pingyao and Lijiang retain whole ancient towns, and Shanghai's Bund shows colonial-era Western architecture. Fujian's tulou and Beijing's courtyard homes show vernacular styles."
+  - question: "What makes Chinese architecture distinctive?"
+    answer: "Traditional Chinese buildings are built around timber post-and-beam frames rather than load-bearing walls, use sweeping tiled roofs with upturned eaves, follow strict bilateral symmetry along a central axis, and are arranged according to feng shui and hierarchy. Colour and roof detail signalled the owner's status."
+  - question: "How old is Chinese architecture?"
+    answer: "Chinese architectural traditions stretch back over 3,000 years, with consistent principles of wooden frames, courtyards and axial planning visible from the Bronze Age through the imperial dynasties. Surviving timber buildings date mainly from the Tang dynasty onward, while later Ming and Qing structures like the Forbidden City are the best preserved."
 description: "Understand Chinese architecture as a traveller — the logic of the courtyard house, the hierarchy of the imperial city, why all traditional buildings have upturned roof corners, the difference between Tang/Song and Ming/Qing architectural aesthetics, the regional variations from Fujian to Shanxi to Yunnan, and which buildings are the most important to seek out."
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"

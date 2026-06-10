@@ -3,6 +3,15 @@ author: Roam China Travel Editorial Team
 pubDatetime: 2026-05-02T08:00:00Z
 modDatetime: 2026-05-02T10:00:00Z
 title: "Tipping in China 2026: Where to Tip, Where Not to & Service Culture Explained"
+faq:
+  - question: "Do you tip in China?"
+    answer: "Generally no. Tipping is not part of everyday Chinese culture, and restaurants, taxis and most services do not expect a tip. The main exceptions are tourism roles such as private tour guides and drivers, and high-end international hotels, where a modest tip is appreciated."
+  - question: "How much should I tip a tour guide in China?"
+    answer: "For a private guide, 100-200 yuan per day is a typical, well-received amount, with 50-100 yuan per day for a driver. On group tours, guides are sometimes tipped collectively at the end. There is no fixed rule, so tip according to how helpful the service was rather than a percentage."
+  - question: "Do restaurants in China add a service charge?"
+    answer: "Ordinary local restaurants do not. Upscale restaurants and hotel dining rooms sometimes add a 10-15 percent service charge, which is shown on the bill, and in that case no extra tip is needed. Always check the receipt before adding anything."
+  - question: "What are the main dos and don'ts of etiquette in China?"
+    answer: "Do accept and offer items with both hands, let your host order and pour tea, and arrive on time. Avoid sticking chopsticks upright in rice, tipping where it isn't expected, and overt displays of anger, since keeping calm and saving face matters more than being blunt."
 featured: false
 draft: false
 tags:
