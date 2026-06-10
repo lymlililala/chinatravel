@@ -1,6 +1,236 @@
 {
   "redirects": [
     {
+      "source": "/posts/toolkit/china-solo-travel-tips-guide",
+      "destination": "/posts/toolkit/china-first-solo-trip-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-solo-travel-tips-guide/",
+      "destination": "/posts/toolkit/china-first-solo-trip-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-solo-travel-safety-complete-guide",
+      "destination": "/posts/toolkit/china-first-solo-trip-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-solo-travel-safety-complete-guide/",
+      "destination": "/posts/toolkit/china-first-solo-trip-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-solo-female-travel-guide",
+      "destination": "/posts/toolkit/china-solo-female-safety-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-solo-female-travel-guide/",
+      "destination": "/posts/toolkit/china-solo-female-safety-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-hiking-gear-packing-guide",
+      "destination": "/posts/toolkit/china-hiking-gear-packing-list/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-hiking-gear-packing-guide/",
+      "destination": "/posts/toolkit/china-hiking-gear-packing-list/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-trekking-equipment-guide",
+      "destination": "/posts/toolkit/china-hiking-gear-packing-list/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-trekking-equipment-guide/",
+      "destination": "/posts/toolkit/china-hiking-gear-packing-list/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-hiking-trekking-guide",
+      "destination": "/posts/toolkit/china-hiking-trails-best-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-hiking-trekking-guide/",
+      "destination": "/posts/toolkit/china-hiking-trails-best-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-trekking-routes-guide",
+      "destination": "/posts/toolkit/china-hiking-trails-best-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-trekking-routes-guide/",
+      "destination": "/posts/toolkit/china-hiking-trails-best-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-national-parks-booking-guide",
+      "destination": "/posts/toolkit/china-national-parks-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-national-parks-booking-guide/",
+      "destination": "/posts/toolkit/china-national-parks-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-where-to-stay-guide",
+      "destination": "/posts/toolkit/china-accommodation-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-where-to-stay-guide/",
+      "destination": "/posts/toolkit/china-accommodation-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-hostel-guide",
+      "destination": "/posts/toolkit/china-budget-hostel-guide-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-hostel-guide/",
+      "destination": "/posts/toolkit/china-budget-hostel-guide-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-disability-accessible-travel",
+      "destination": "/posts/toolkit/china-accessible-travel-wheelchair-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-disability-accessible-travel/",
+      "destination": "/posts/toolkit/china-accessible-travel-wheelchair-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-disability-travel-guide",
+      "destination": "/posts/toolkit/china-accessible-travel-wheelchair-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-disability-travel-guide/",
+      "destination": "/posts/toolkit/china-accessible-travel-wheelchair-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-senior-travel-tips-guide",
+      "destination": "/posts/toolkit/china-senior-travel-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-senior-travel-tips-guide/",
+      "destination": "/posts/toolkit/china-senior-travel-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-older-senior-travel",
+      "destination": "/posts/toolkit/china-senior-travel-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-older-senior-travel/",
+      "destination": "/posts/toolkit/china-senior-travel-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-family-with-kids-guide",
+      "destination": "/posts/toolkit/china-family-travel-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-family-with-kids-guide/",
+      "destination": "/posts/toolkit/china-family-travel-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-family-kids-activities-guide",
+      "destination": "/posts/toolkit/china-family-travel-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-family-kids-activities-guide/",
+      "destination": "/posts/toolkit/china-family-travel-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-lgbtq-travel-guide",
+      "destination": "/posts/toolkit/china-lgbtq-travel-guide-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-lgbtq-travel-guide/",
+      "destination": "/posts/toolkit/china-lgbtq-travel-guide-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-packing-list-complete",
+      "destination": "/posts/toolkit/china-packing-list-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-packing-list-complete/",
+      "destination": "/posts/toolkit/china-packing-list-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-japan-comparison-guide",
+      "destination": "/posts/toolkit/china-vs-japan-travel-comparison/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-japan-comparison-guide/",
+      "destination": "/posts/toolkit/china-vs-japan-travel-comparison/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/luoyang-peony-festival-guide",
+      "destination": "/posts/destinations/henan-luoyang-peony-festival-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/luoyang-peony-festival-guide/",
+      "destination": "/posts/destinations/henan-luoyang-peony-festival-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/taishan-mountain-guide",
+      "destination": "/posts/destinations/shandong-mount-tai-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/taishan-mountain-guide/",
+      "destination": "/posts/destinations/shandong-mount-tai-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/shanghai-bund-night-photography-guide",
+      "destination": "/posts/destinations/shanghai-bund-night-view-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/shanghai-bund-night-photography-guide/",
+      "destination": "/posts/destinations/shanghai-bund-night-view-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/xinjiang-kanas-hemu-village-guide",
+      "destination": "/posts/destinations/kanas-hemu-xinjiang-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/xinjiang-kanas-hemu-village-guide/",
+      "destination": "/posts/destinations/kanas-hemu-xinjiang-guide/",
+      "permanent": true
+    },
+    {
       "source": "/posts/toolkit/china-visa-free-countries-2025",
       "destination": "/posts/toolkit/china-visa-free-countries-2026/",
       "permanent": true

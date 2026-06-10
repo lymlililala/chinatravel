@@ -234,4 +234,4 @@ Hostel Wi-Fi is adequate for most needs. Download offline maps (Amap offline mod
 
 ---
 
-*Related guides: [China 2-Week Itinerary](/posts/toolkit/china-2-week-itinerary/) | [China Safety Guide](/posts/toolkit/china-safety-guide/) | [Solo Female Travel in China](/posts/toolkit/china-solo-female-travel-guide/)*
+*Related guides: [China 2-Week Itinerary](/posts/toolkit/china-2-week-itinerary/) | [China Safety Guide](/posts/toolkit/china-safety-guide/) | [Solo Female Travel in China](/posts/toolkit/china-solo-female-safety-guide/)*

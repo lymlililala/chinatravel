@@ -43,4 +43,4 @@ From Kunming's South Bus Station (昆明南部客运站), direct buses to Shilin
 
 **As part of a Kunming day**: Morning departure to Stone Forest (arrive 10am), 3–4 hours in the park, return to Kunming by 5pm. Combine with Kunming's Green Lake (翠湖公园) evening for a full day.
 
-*Also see: [Kunming City Guide](/posts/destinations/kunming-city-guide/) | [Yunnan Travel Guide](/posts/destinations/yunnan-complete-guide/) | [China Hiking Trekking Guide](/posts/toolkit/china-hiking-trekking-guide/)*
+*Also see: [Kunming City Guide](/posts/destinations/kunming-city-guide/) | [Yunnan Travel Guide](/posts/destinations/yunnan-complete-guide/) | [China Hiking Trekking Guide](/posts/toolkit/china-hiking-trails-best-guide/)*

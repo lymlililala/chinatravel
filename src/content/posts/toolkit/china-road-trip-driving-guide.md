@@ -175,4 +175,4 @@ For travellers who want the road trip experience without the driving complexity,
 
 ---
 
-*Related guides: [Yunnan Province Guide](/tags/yunnan/) | [Xinjiang Kanas & Hemu Village Guide](/posts/destinations/xinjiang-kanas-hemu-village-guide/) | [Tibet Complete Guide](/posts/destinations/tibet-potala-palace-lhasa-guide/) | [Silk Road Route Guide](/posts/toolkit/china-silk-road-route-guide/)*
+*Related guides: [Yunnan Province Guide](/tags/yunnan/) | [Xinjiang Kanas & Hemu Village Guide](/posts/destinations/kanas-hemu-xinjiang-guide/) | [Tibet Complete Guide](/posts/destinations/tibet-potala-palace-lhasa-guide/) | [Silk Road Route Guide](/posts/toolkit/china-silk-road-route-guide/)*

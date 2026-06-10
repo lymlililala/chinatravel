@@ -66,4 +66,4 @@ The toboggan — a metal sled on a stainless steel track running down the mounta
 
 3km east of Mutianyu's eastern terminal tower, the unrestored Jiankou section begins. This is the dramatic, dangerous, knife-edge wall that appears in most "extreme Great Wall" photography. Access requires proper hiking equipment and physical fitness. No facilities, no safety infrastructure. Start with a guide for the first visit.
 
-*Also see: [Beijing Day Trips Guide](/posts/destinations/beijing-day-trips-guide/) | [Beijing 3-Day Itinerary](/posts/toolkit/beijing-3-day-itinerary/) | [China Hiking Guide](/posts/toolkit/china-hiking-trekking-guide/)*
+*Also see: [Beijing Day Trips Guide](/posts/destinations/beijing-day-trips-guide/) | [Beijing 3-Day Itinerary](/posts/toolkit/beijing-3-day-itinerary/) | [China Hiking Guide](/posts/toolkit/china-hiking-trails-best-guide/)*

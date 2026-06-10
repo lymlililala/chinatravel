@@ -291,7 +291,7 @@ Yes, perhaps surprisingly so. Buddhist vegetarian restaurants (素食 sùshí) e
 
 ### Is China a good destination for solo travel?
 
-One of the best in the world for solo travellers. China is safe, transport is excellent and easy to navigate solo, the hostel scene is active, and the sheer scale and variety of the country means there is always something new around the corner. Solo female travellers face very low risk — see our dedicated [solo female travel guide](/posts/toolkit/china-solo-female-travel-guide/).
+One of the best in the world for solo travellers. China is safe, transport is excellent and easy to navigate solo, the hostel scene is active, and the sheer scale and variety of the country means there is always something new around the corner. Solo female travellers face very low risk — see our dedicated [solo female travel guide](/posts/toolkit/china-solo-female-safety-guide/).
 
 ### Can I visit China as an older or senior traveller?
 

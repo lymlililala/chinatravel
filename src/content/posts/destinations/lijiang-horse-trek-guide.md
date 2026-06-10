@@ -52,4 +52,4 @@ Family-run horse operators are found at:
 
 **Physical condition**: Basic horse trekking requires no riding experience. The horses are accustomed to inexperienced riders and the routes are well-defined.
 
-*Also see: [Lijiang Old Town Guide](/posts/destinations/lijiang-naxi-old-town-guide/) | [Tiger Leaping Gorge in Hiking Guide](/posts/toolkit/china-hiking-trekking-guide/) | [Yunnan Lijiang Shangri-La Route](/posts/destinations/yunnan-lijiang-shangri-la-full-guide/)*
+*Also see: [Lijiang Old Town Guide](/posts/destinations/lijiang-naxi-old-town-guide/) | [Tiger Leaping Gorge in Hiking Guide](/posts/toolkit/china-hiking-trails-best-guide/) | [Yunnan Lijiang Shangri-La Route](/posts/destinations/yunnan-lijiang-shangri-la-full-guide/)*
