@@ -2,6 +2,15 @@
 author: Roam China Travel Editorial Team
 pubDatetime: 2026-05-27T18:35:00Z
 title: "Dali Cangshan Mountain & Erhai Lake Guide: Beyond the Old Town in 2026"
+faq:
+  - question: "What is there to do around Erhai Lake in Dali?"
+    answer: "The classic experience is a loop around Erhai Lake — by e-bike, scooter or car — stopping at lakeside villages like Xizhou and Shuanglang, Bai-minority towns, cafes and viewpoints. You can also take a boat on the lake and pair it with hikes on the Cangshan range behind it."
+  - question: "How do you get around Erhai Lake?"
+    answer: "The roughly 120km lakeshore loop is best done by rented electric scooter or bicycle for the freedom to stop, or by car or a day-tour bus if you'd rather not drive. Many travellers split it over a relaxed day or two, basing themselves in the old town, Xizhou or Shuanglang."
+  - question: "Is Cangshan Mountain worth visiting in Dali?"
+    answer: "Yes — the Cangshan range rising above Dali offers cable cars, a cliffside walking path with sweeping views over Erhai Lake, alpine meadows and waterfalls. It's an easy half-day from the old town and a good contrast to the lakeside scenery below."
+  - question: "How many days should I spend in Dali?"
+    answer: "Two to three days lets you enjoy the old town, loop Erhai Lake at a relaxed pace, and add a half-day on Cangshan Mountain. Dali is a place many travellers slow down in, so it's easy to stay longer."
 featured: false
 draft: false
 tags:

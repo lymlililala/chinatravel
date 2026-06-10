@@ -3,6 +3,15 @@ author: Roam China Travel Editorial Team
 pubDatetime: 2025-05-01T08:00:00Z
 modDatetime: 2026-05-20T10:00:00Z
 title: "Beijing Complete Guide 2025: Forbidden City, Hutongs, Temple of Heaven & Hidden Gems"
+faq:
+  - question: "Do I need to book tickets for the Forbidden City?"
+    answer: "Yes. Forbidden City tickets are timed and must be booked online in advance with your passport, and daily numbers are capped, so popular days sell out. Bring the passport you booked with to enter, and arrive near your slot time as entry is from the south (Meridian) gate only."
+  - question: "How many days do you need in Beijing?"
+    answer: "Three to four days covers the essentials — a day for the Forbidden City and Tiananmen, a day for the Great Wall, and a day or two for the Temple of Heaven, Summer Palace and hutong neighbourhoods. Add more time for day trips and a slower pace."
+  - question: "What are the best hutongs to visit in Beijing?"
+    answer: "Nanluoguxiang is the most famous and lively, while the lanes around Gulou (the Drum and Bell Towers), Shichahai and Wudaoying offer a quieter, more local feel with courtyard cafes and shops. Exploring on foot or by bike is the best way to experience them."
+  - question: "What is the best way to get around Beijing?"
+    answer: "The subway is fast, cheap and bilingual, and is the easiest way to reach most sights; pay with the transit QR code in Alipay or WeChat. Taxis and DiDi fill the gaps, and for the Great Wall you'll want a tour, chartered car or dedicated bus."
 featured: true
 draft: false
 tags:

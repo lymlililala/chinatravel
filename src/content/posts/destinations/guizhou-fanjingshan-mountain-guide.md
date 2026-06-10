@@ -1,5 +1,14 @@
 ---
 title: "Fanjingshan UNESCO Guide: Guizhou's Sacred Mountain & Mushroom Rock Formations"
+faq:
+  - question: "What is Fanjingshan famous for?"
+    answer: "Fanjingshan is a UNESCO World Natural Heritage Site in Guizhou, best known for the surreal twin temples perched on the Red Clouds Golden Summit, a narrow pillar of rock reached by a stairway and chain bridge. It's also one of China's most biodiverse temperate forests and a sacred Buddhist mountain."
+  - question: "How do you climb Fanjingshan?"
+    answer: "Most visitors take the cableway partway up, then climb thousands of steps to the summit area and the famous Golden Summit. It's strenuous but manageable for reasonably fit walkers; allow most of a day, start early, and be ready for crowds and queues at the narrow summit stairs."
+  - question: "How do I get to Fanjingshan?"
+    answer: "The nearest hubs are Tongren and Jiangkou in Guizhou, reachable by high-speed train and bus, with onward transport to the park's east or west entrance. Many travellers base themselves in a nearby town the night before so they can be at the gate when it opens."
+  - question: "When is the best time to visit Fanjingshan?"
+    answer: "Late spring through autumn offers the best weather, with clear days giving the famous sea-of-clouds views around the summit. Avoid Chinese public holidays when the summit stairs become extremely crowded, and check the forecast since mist and rain are common on the mountain."
 description: "Climb Fanjingshan in Guizhou — the world's newest UNESCO World Natural Heritage Site, famous for the extraordinary mushroom-shaped twin rock formations at the summit, ancient Buddhist temples clinging to vertical cliffs, and some of the richest temperate forest biodiversity in China."
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Guizhou"

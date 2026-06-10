@@ -3,6 +3,15 @@ author: Roam China Travel Editorial Team
 pubDatetime: 2026-05-02T08:00:00Z
 modDatetime: 2026-05-02T10:00:00Z
 title: "China Money & Budget Guide 2026: Daily Costs, Cash vs Mobile Payment & ATMs"
+faq:
+  - question: "How much money do you need per day in China?"
+    answer: "Budget travellers can manage on roughly 200-350 yuan a day using hostels, local food and public transport; mid-range comfort runs about 500-900 yuan a day with private hotel rooms and the odd taxi; and higher-end travel rises from there. Big cities like Shanghai cost more than smaller towns."
+  - question: "Should I use cash or mobile payment in China?"
+    answer: "Mobile payment via Alipay or WeChat Pay dominates and is the smoothest option for visitors, who can now link a foreign card. Carry some cash as backup for small vendors and rural areas, but expect to pay by QR code almost everywhere day to day."
+  - question: "Can I use foreign cards and ATMs in China?"
+    answer: "Foreign Visa and Mastercard work at upmarket hotels and some larger shops but are not widely accepted elsewhere. ATMs at major banks such as Bank of China and ICBC usually accept international cards for cash withdrawals, though daily limits and fees apply, so withdraw a sensible amount at once."
+  - question: "What is the currency in China?"
+    answer: "The currency is the renminbi (RMB), with the yuan as its main unit, written CNY or with the symbol used locally. Notes come in denominations up to 100 yuan; 50 and 100 notes can be hard to break with small vendors, so keep smaller notes for street stalls and buses."
 featured: false
 draft: false
 tags:

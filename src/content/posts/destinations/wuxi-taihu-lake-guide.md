@@ -3,6 +3,15 @@ author: Roam China Travel Editorial Team
 pubDatetime: 2026-05-02T08:00:00Z
 modDatetime: 2026-05-02T10:00:00Z
 title: "Wuxi & Lake Tai (Taihu) Travel Guide 2026: Gardens, Ferries & Jiangnan Scenery"
+faq:
+  - question: "What is Wuxi known for?"
+    answer: "Wuxi sits on the shore of Lake Tai (Taihu), one of China's largest freshwater lakes, and is known for classical Jiangnan gardens, the Lingshan Grand Buddha, lakeside parks like Yuantouzhu (Turtle Head Isle), and as a calmer alternative to nearby Suzhou and Shanghai."
+  - question: "Is Wuxi worth visiting?"
+    answer: "Yes, especially for lake and garden scenery with fewer crowds than the big neighbours. A day or two covers Turtle Head Isle on Lake Tai, the Lingshan Buddha complex and a classical garden, and it slots easily into a Jiangnan loop with Suzhou and Shanghai."
+  - question: "How do I get to Wuxi?"
+    answer: "Wuxi is on the main Shanghai-Nanjing high-speed line, roughly 30-45 minutes from Shanghai and Suzhou by bullet train, so it's an easy day trip or stopover. The station connects to the lake and sights by metro, bus and taxi."
+  - question: "What is the best time to visit Lake Tai?"
+    answer: "Spring and autumn are ideal, with mild weather and, in late March to April, cherry blossom around Turtle Head Isle. Summer is warm and humid but green, while the lake's misty Jiangnan scenery has its own appeal in the cooler months."
 featured: false
 draft: false
 tags:

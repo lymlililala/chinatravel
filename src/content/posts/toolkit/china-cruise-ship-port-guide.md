@@ -1,5 +1,14 @@
 ---
 title: "China Cruise Port Guide: Shanghai, Tianjin, Qingdao & Beyond for Cruise Passengers"
+faq:
+  - question: "Do cruise passengers need a visa for China?"
+    answer: "Many cruise visitors can go ashore visa-free on an organised ship excursion at certain ports, and the 144-hour transit visa-free policy covers some itineraries. Rules depend on your nationality, the port and whether you leave the tour group, so confirm with your cruise line and check the current policy before sailing."
+  - question: "How do I get from Tianjin port to Beijing?"
+    answer: "Tianjin is the gateway port for Beijing, but the city is about 3 hours each way by road, so a full day ashore is needed and time on the ground is limited. Ship shore excursions handle the logistics; independent travellers can use high-speed rail from Tianjin, but must watch the all-aboard time carefully."
+  - question: "What can I do on a day in port in Shanghai?"
+    answer: "From Shanghai's cruise terminal you can reach the Bund, Yu Garden and Nanjing Road within a short taxi or metro ride, making a self-guided day very doable. Confirm which terminal your ship uses, as transfer times to the centre vary, and leave a buffer for getting back."
+  - question: "What is Qingdao known for as a cruise stop?"
+    answer: "Qingdao is famous for its German colonial architecture, seaside promenade and beer culture centred on the historic Tsingtao brewery. The old town and beaches are close to the port, making it an easy and pleasant day ashore."
 description: "Navigate China's cruise ports as a ship passenger — getting the most out of a day in Shanghai (cruise terminal to Bund and back), Tianjin's position as the gateway to Beijing (3 hours each way), Qingdao's European colonial architecture and German beer culture, and the practical port-to-city logistics for China's busiest cruise destinations."
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"

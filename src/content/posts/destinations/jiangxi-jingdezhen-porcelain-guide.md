@@ -1,5 +1,14 @@
 ---
 title: "Jingdezhen Jiangxi: The Porcelain Capital That Supplied the World for 1,000 Years"
+faq:
+  - question: "Why is Jingdezhen famous for porcelain?"
+    answer: "Jingdezhen has produced ceramics for over a thousand years and was home to the imperial kilns that made porcelain for the Song, Ming and Qing courts. Its local kaolin clay and centuries of craft made it China's, and for a long time the world's, porcelain capital — a tradition that continues today."
+  - question: "What is there to do in Jingdezhen?"
+    answer: "Visit the Imperial Kiln Museum and the ancient kiln sites, watch potters at work, try a hands-on ceramics workshop, browse the creative markets at the Taoxichuan and Sculpture Factory districts, and shop for genuine handmade porcelain directly from artists."
+  - question: "How do I get to Jingdezhen?"
+    answer: "Jingdezhen has its own high-speed rail station with connections from Shanghai, Nanchang, Huangshan and other cities, plus a small airport. It pairs well with a trip to nearby Huangshan or Wuyuan, so many travellers combine them on one Jiangxi-Anhui loop."
+  - question: "Where can I buy authentic Jingdezhen porcelain?"
+    answer: "Buy directly from artists and studios in the Taoxichuan and Sculpture Factory creative zones, or from established kilns and the markets around them, where you can see the work being made. Prices range from inexpensive market pieces to collectible studio ceramics."
 description: "Explore Jingdezhen in Jiangxi — China's ceramic capital for over 1,700 years, where imperial kilns produced porcelain for the Song, Ming, and Qing courts, and where today a vibrant community of ceramic artists from around the world continues the tradition. Includes kiln tours, workshops, the Imperial Kiln Museum, and where to buy genuine Jingdezhen ceramics."
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Jiangxi"

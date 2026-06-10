@@ -3,6 +3,15 @@ author: Roam China Travel Editorial Team
 pubDatetime: 2026-05-02T08:00:00Z
 modDatetime: 2026-05-02T10:00:00Z
 title: "China Etiquette & Cultural Customs Guide 2026: What to Know Before You Go"
+faq:
+  - question: "What are the most important etiquette rules in China?"
+    answer: "Offer and receive things — business cards, gifts, tea — with both hands, let your host lead at meals and seating, and avoid causing someone to lose face by criticising them publicly. Punctuality, modest dress at temples, and a calm, polite manner go a long way."
+  - question: "What should you not do in China?"
+    answer: "Don't stick chopsticks upright in a bowl of rice (it resembles funeral incense), don't tip where it isn't expected, avoid loud confrontation or public anger, and don't give clocks or sharp objects as gifts, as both carry unlucky associations. Be cautious discussing sensitive political topics."
+  - question: "Are there dining etiquette customs I should know?"
+    answer: "Wait to be seated, let the host order and start, and try a bit of everything offered. It's polite to let others refill your tea and to refill theirs, to use serving chopsticks or the reverse ends for shared dishes, and to leave a little food rather than scraping the plate clean."
+  - question: "Is tipping expected in China?"
+    answer: "Generally no — tipping is not customary in restaurants, taxis or most services, and change is often refused. The exceptions are tour guides, drivers and high-end international hotels, where a modest tip is welcome but never obligatory."
 featured: false
 draft: false
 tags:

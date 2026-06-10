@@ -3,6 +3,15 @@ author: Roam China Travel Editorial Team
 pubDatetime: 2026-05-02T08:00:00Z
 modDatetime: 2026-05-02T10:00:00Z
 title: "Freelancer & Remote Worker in China Guide 2026: Visa, Co-working Spaces & Internet"
+faq:
+  - question: "Can I work remotely from China as a digital nomad?"
+    answer: "You can do your own remote work for clients abroad while in China, but note there is no dedicated digital-nomad visa — most remote workers enter on tourist or business visas, which do not permit local employment. For longer stays you'll need an appropriate visa, and you must plan around internet access."
+  - question: "How do I get online for work in China?"
+    answer: "Blocked services like Google Workspace, Gmail, Slack, GitHub and many others require a reliable VPN, which you should install before you arrive. Pair that with a strong local data plan or eSIM, and treat hotel and co-working Wi-Fi as backup rather than your only connection."
+  - question: "Are there co-working spaces in China?"
+    answer: "Yes — major cities like Shanghai, Beijing, Shenzhen and Chengdu have plenty of co-working spaces with day passes and monthly desks, fast wired internet and meeting rooms. They're a good base for focused work, though you'll still want your own VPN for blocked tools."
+  - question: "Which Chinese cities are best for remote work?"
+    answer: "Shanghai and Shenzhen offer the most international infrastructure and co-working options, Chengdu and Kunming are popular for lower costs and lifestyle, and Dali draws a long-stay community. Weigh internet reliability, cost of living and visa logistics when choosing a base."
 featured: false
 draft: false
 tags:

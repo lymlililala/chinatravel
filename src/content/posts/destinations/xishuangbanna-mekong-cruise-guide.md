@@ -1,5 +1,14 @@
 ---
 title: "Xishuangbanna Mekong River Cruise and Rainforest Guide (Yunnan)"
+faq:
+  - question: "Where is Xishuangbanna and what is it like?"
+    answer: "Xishuangbanna is a tropical prefecture in southern Yunnan bordering Myanmar and Laos, centred on the city of Jinghong on the Mekong (Lancang) River. With rainforest, Dai-minority culture, tropical fruit and Theravada Buddhist temples, it feels more like Southeast Asia than the rest of China."
+  - question: "Can you take a Mekong River cruise from Xishuangbanna?"
+    answer: "Yes. From Jinghong you can take river trips on the Mekong, and at times international sailings have run downstream towards Laos and Thailand. Routes and cross-border services vary with the season and regulations, so check current operations and any visa requirements before planning a through-journey."
+  - question: "What is there to do in Xishuangbanna?"
+    answer: "Highlights include the tropical botanical garden at Menglun, rainforest parks and treetop walks, Dai villages and the lively night markets of Jinghong, plus the gilded temples and the Mekong riverfront. The food and fruit are a draw in their own right."
+  - question: "When is the best time to visit Xishuangbanna?"
+    answer: "The cool, dry season from roughly November to April is the most comfortable, with the Dai Water-Splashing Festival in mid-April a colourful highlight. The summer wet season is hotter and rainier but lush, and the rainforest is at its greenest."
 description: "Complete guide to the Mekong River cruise from Jinghong (Xishuangbanna) into Myanmar and Laos. Rainforest trekking, Dai minority villages, tropical fruit, and how this corner of Yunnan feels like Southeast Asia."
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
