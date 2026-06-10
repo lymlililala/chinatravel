@@ -68,7 +68,7 @@ Beijing (4 days) → Xi'an (3 days) → Chengdu (3 days) → Chongqing (1 day) �
 
 **Day 15**: Day trip — Longji Rice Terraces (1.5 hours, spectacular especially in October or May) OR morning walk in town, depart to Kunming afternoon.
 
-*See [Guilin Li River Guide](/posts/destinations/guilin-lijiang-river-yangshuo-guide/) for detail.*
+*See [Guilin Li River Guide](/posts/destinations/guilin-li-river-cruise-guide/) for detail.*
 
 ### Kunming (Days 16–17)
 

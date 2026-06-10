@@ -143,7 +143,7 @@ Zhangjiajie's "pillar mountains" — sandstone columns rising hundreds of metres
 - **Tianzi Mountain Nature Reserve** — cable car to ridgeline with multiple path options through the pillars
 - **Golden Whip Brook (金鞭溪)** — an 8km forest valley walk at the base of the pillars: clear stream, monkeys, no elevation change
 
-[Full Zhangjiajie guide](/posts/destinations/zhangjiajie-avatar-mountains-guide/).
+[Full Zhangjiajie guide](/posts/destinations/hunan-zhangjiajie-complete-guide/).
 
 ---
 

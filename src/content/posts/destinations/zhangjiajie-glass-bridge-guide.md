@@ -50,4 +50,4 @@ The Zhangjiajie National Forest Park (Wulingyuan area) — the Avatar Mountains 
 
 **Getting there**: Flights direct to Zhangjiajie Hehua Airport from Beijing, Shanghai, Guangzhou, Chengdu. Train connections from Changsha (3.5 hours).
 
-*Also see: [Zhangjiajie Avatar Mountains Guide](/posts/destinations/zhangjiajie-avatar-mountains-guide/) | [Zhangjiajie Tianmen Mountain Guide](/posts/destinations/zhangjiajie-tianmen-mountain-guide/)*
+*Also see: [Zhangjiajie Avatar Mountains Guide](/posts/destinations/hunan-zhangjiajie-complete-guide/) | [Zhangjiajie Tianmen Mountain Guide](/posts/destinations/wulingyuan-tianmen-mountain-glasswalk/)*

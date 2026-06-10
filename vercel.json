@@ -1,6 +1,146 @@
 {
   "redirects": [
     {
+      "source": "/posts/destinations/zhangjiajie-avatar-mountains-guide",
+      "destination": "/posts/destinations/hunan-zhangjiajie-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/zhangjiajie-avatar-mountains-guide/",
+      "destination": "/posts/destinations/hunan-zhangjiajie-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/guizhou-zhangjiajie-wulingyuan-detailed-guide",
+      "destination": "/posts/destinations/hunan-zhangjiajie-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/guizhou-zhangjiajie-wulingyuan-detailed-guide/",
+      "destination": "/posts/destinations/hunan-zhangjiajie-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/hunan-wulingyuan-zhangjiajie-guide",
+      "destination": "/posts/destinations/hunan-zhangjiajie-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/hunan-wulingyuan-zhangjiajie-guide/",
+      "destination": "/posts/destinations/hunan-zhangjiajie-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/zhangjiajie-avatar-floating-mountains",
+      "destination": "/posts/destinations/hunan-zhangjiajie-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/zhangjiajie-avatar-floating-mountains/",
+      "destination": "/posts/destinations/hunan-zhangjiajie-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/zhangjiajie-wulingyuan-hiking-guide",
+      "destination": "/posts/destinations/hunan-zhangjiajie-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/zhangjiajie-wulingyuan-hiking-guide/",
+      "destination": "/posts/destinations/hunan-zhangjiajie-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/zhangjiajie-tianmen-mountain-detailed",
+      "destination": "/posts/destinations/wulingyuan-tianmen-mountain-glasswalk/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/zhangjiajie-tianmen-mountain-detailed/",
+      "destination": "/posts/destinations/wulingyuan-tianmen-mountain-glasswalk/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/zhangjiajie-tianmen-mountain-guide",
+      "destination": "/posts/destinations/wulingyuan-tianmen-mountain-glasswalk/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/zhangjiajie-tianmen-mountain-guide/",
+      "destination": "/posts/destinations/wulingyuan-tianmen-mountain-glasswalk/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/hunan-zhangjiajie-tianmen-road-guide",
+      "destination": "/posts/destinations/wulingyuan-tianmen-mountain-glasswalk/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/hunan-zhangjiajie-tianmen-road-guide/",
+      "destination": "/posts/destinations/wulingyuan-tianmen-mountain-glasswalk/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/hunan-zhangjiajie-glass-bridge-guide",
+      "destination": "/posts/destinations/zhangjiajie-glass-bridge-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/hunan-zhangjiajie-glass-bridge-guide/",
+      "destination": "/posts/destinations/zhangjiajie-glass-bridge-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/guilin-travel-guide",
+      "destination": "/posts/destinations/guilin-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/guilin-travel-guide/",
+      "destination": "/posts/destinations/guilin-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/guilin-niche-guide",
+      "destination": "/posts/destinations/guilin-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/guilin-niche-guide/",
+      "destination": "/posts/destinations/guilin-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/li-river-cruise-detailed-guide",
+      "destination": "/posts/destinations/guilin-li-river-cruise-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/li-river-cruise-detailed-guide/",
+      "destination": "/posts/destinations/guilin-li-river-cruise-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/guilin-lijiang-river-yangshuo-guide",
+      "destination": "/posts/destinations/guilin-li-river-cruise-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/guilin-lijiang-river-yangshuo-guide/",
+      "destination": "/posts/destinations/guilin-li-river-cruise-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/guilin-yangshuo-countryside-guide",
+      "destination": "/posts/destinations/yangshuo-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/guilin-yangshuo-countryside-guide/",
+      "destination": "/posts/destinations/yangshuo-complete-guide/",
+      "permanent": true
+    },
+    {
       "source": "/posts/toolkit/china-12306-train-booking-guide",
       "destination": "/posts/toolkit/china-train-booking-guide-foreigners/",
       "permanent": true

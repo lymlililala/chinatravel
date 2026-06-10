@@ -46,4 +46,4 @@ Anshun is 1.5 hours from Guiyang by HSR (安顺西站, Anshun West station). The
 
 **Day trip from Guiyang**: Possible but rushed (4 hours total transport). Better to overnight in Anshun.
 
-*Also see: [Guizhou Miao Dong Village Guide](/posts/destinations/guizhou-miao-minority-village-guide/) | [Guizhou Kaili Guide](/posts/destinations/guizhou-kaili-miao-dong-guide/) | [Guangxi Guilin Guide](/posts/destinations/guilin-travel-guide/)*
+*Also see: [Guizhou Miao Dong Village Guide](/posts/destinations/guizhou-miao-minority-village-guide/) | [Guizhou Kaili Guide](/posts/destinations/guizhou-kaili-miao-dong-guide/) | [Guangxi Guilin Guide](/posts/destinations/guilin-complete-guide/)*
