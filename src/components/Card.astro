@@ -194,13 +194,33 @@ const thumbnailMap: Record<string, string> = {
   nightlife:      "/destinations/shanghai.jpg",  // City night lights
 };
 
-const firstTag = (tags?.[0] ?? "").toLowerCase().replace(/[^a-z]/g, "");
-const tagThumbnail =
-  thumbnailMap[firstTag] ??
-  thumbnailMap[Object.keys(thumbnailMap).find(k => title.toLowerCase().includes(k)) ?? ""] ??
-  "/destinations/xian.jpg";
+// Variety pool — every local destination image, picked deterministically by
+// slug hash so topic/listing cards don't all repeat the same photo.
+const POOL = ["beijing","pingyao","harbin","tianjin","dalian","changbai","shanghai","hangzhou","huangshan","suzhou","qingdao","nanjing","anhui","xidi","jiangxi","wuhan","zhangjiajie","fenghuang","luoyang","guangzhou","hainan","guilin","gulangyu","chaoshan","fuzhou","macau","chengdu","chongqing","jiuzhaigou","lijiang","zhangye","yunnan","dali","guizhou","tibet","xishuangbanna","xian","dunhuang","xinjiang","qinghai","kashgar"];
+function poolPick(seed: string): string {
+  let h = 5381;
+  for (let i = 0; i < seed.length; i++) h = ((h << 5) + h + seed.charCodeAt(i)) >>> 0;
+  return `/destinations/${POOL[h % POOL.length]}.jpg`;
+}
 
-// Prefer article's own ogImage (string URL) over the tag-based map
+// Practical/topic tags don't map to a single place — give them varied imagery
+const TOPIC_TAGS = new Set(["visa","entry","payment","money","alipay","wechat","transport","apps","connectivity","metro","vpn","wifi","internet","sim","flights","ridehailing","sleeper","cycling","solo","beginners","accommodation","hotels","shopping","etiquette","customs","health","weather","seasons","itinerary","budget","packing","planning","safety","toolkit","urban","history","honeymoon","family","lgbtq","senior","disability","wellness","photography","language","practical","technology"]);
+
+const firstTag = (tags?.[0] ?? "").toLowerCase().replace(/[^a-z]/g, "");
+
+// 1) explicit destination tag → 2) destination keyword in title → 3) varied pool
+let baseThumb: string | undefined;
+if (!TOPIC_TAGS.has(firstTag) && thumbnailMap[firstTag]) {
+  baseThumb = thumbnailMap[firstTag];
+} else {
+  const k = Object.keys(thumbnailMap).find(
+    key => !TOPIC_TAGS.has(key) && key.length >= 4 && title.toLowerCase().includes(key)
+  );
+  if (k) baseThumb = thumbnailMap[k];
+}
+const tagThumbnail = baseThumb ?? poolPick(id);
+
+// Prefer article's own local ogImage over the derived thumbnail
 const { ogImage } = data;
 const thumbnail = (typeof ogImage === "string" && ogImage.startsWith("/"))
   ? ogImage
