@@ -40,7 +40,7 @@ The **Beijing → Xi'an → Chengdu → Shanghai** circuit is China's most logic
 Do these things before you board your international flight:
 
 1. **Sort your visa** — Check whether your nationality qualifies for the 15-day visa-free programme or 144-hour transit exemption. If not, apply for an L (tourist) visa at least three weeks before departure. [Full visa guide here](/posts/toolkit/china-visa-entry-guide/).
-2. **Set up mobile payments** — Download Alipay and link your foreign Visa or Mastercard before you land. China is nearly cashless, and having this sorted saves enormous stress at the airport. [Payment guide here](/posts/toolkit/china-payment-guide/).
+2. **Set up mobile payments** — Download Alipay and link your foreign Visa or Mastercard before you land. China is nearly cashless, and having this sorted saves enormous stress at the airport. [Payment guide here](/posts/toolkit/china-digital-payment-foreigners-guide/).
 3. **Download essential apps** — Maps.me (offline maps), DiDi (ride-hailing), and Pleco (Chinese dictionary) work without a VPN. [Full apps guide here](/posts/toolkit/china-apps-internet-guide/).
 4. **Buy a SIM card** — China Unicom's tourist SIM cards can be bought at Beijing Capital, Shanghai Pudong, or other international airports. Get data immediately on arrival.
 

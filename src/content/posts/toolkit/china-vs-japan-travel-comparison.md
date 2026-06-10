@@ -145,7 +145,7 @@ The Great Firewall blocks Google services, WhatsApp, Facebook, Instagram, YouTub
 Japan accepts cash widely and reliably. Major international credit cards are increasingly accepted. IC transport cards (Suica, Pasmo) simplify metro and convenience store payments. Foreigners can use standard international payment methods with minimal setup.
 
 ### China
-China has moved almost entirely to mobile QR-code payments (Alipay, WeChat Pay). Physical cash is the backup. International credit cards work at large international hotels and upmarket restaurants only. Foreigners must set up Alipay before relying on it. See [full Alipay guide for foreigners](/posts/toolkit/china-payment-guide/).
+China has moved almost entirely to mobile QR-code payments (Alipay, WeChat Pay). Physical cash is the backup. International credit cards work at large international hotels and upmarket restaurants only. Foreigners must set up Alipay before relying on it. See [full Alipay guide for foreigners](/posts/toolkit/china-digital-payment-foreigners-guide/).
 
 **Verdict:** Japan is easier for visitors who prefer not to modify their payment habits. China requires pre-trip payment setup but, once done, is extremely efficient.
 

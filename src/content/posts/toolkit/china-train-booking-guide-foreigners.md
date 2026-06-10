@@ -91,7 +91,7 @@ Click the search button. Available trains appear in a list with times, duration,
 
 ### Step 4: Select and pay
 
-Choose your train and seat class. Add your passport details if prompted again. Proceed to payment — 12306 accepts **Alipay** and **WeChat Pay**, which both accept foreign cards (see the [payment guide](/posts/toolkit/china-payment-guide/) for setup instructions).
+Choose your train and seat class. Add your passport details if prompted again. Proceed to payment — 12306 accepts **Alipay** and **WeChat Pay**, which both accept foreign cards (see the [payment guide](/posts/toolkit/china-digital-payment-foreigners-guide/) for setup instructions).
 
 You will receive an e-ticket (PDF/email). You do **not** need to print it — show the PDF or the booking confirmation on your phone at the ticket gate, along with your passport.
 

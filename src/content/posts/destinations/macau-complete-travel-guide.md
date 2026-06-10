@@ -171,4 +171,4 @@ The casinos are architecturally interesting in their own way — the Paris Macao
 
 ---
 
-*Also see: [Hong Kong Travel Guide](/posts/destinations/hong-kong-travel-guide/) | [Guangdong Pearl River Delta Guide](/posts/destinations/guangdong-pearl-river-delta-guide/) | [China Payment Guide](/posts/toolkit/china-payment-guide/)*
+*Also see: [Hong Kong Travel Guide](/posts/destinations/hong-kong-travel-guide/) | [Guangdong Pearl River Delta Guide](/posts/destinations/guangdong-pearl-river-delta-guide/) | [China Payment Guide](/posts/toolkit/china-digital-payment-foreigners-guide/)*

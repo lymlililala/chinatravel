@@ -85,7 +85,7 @@ China's daily life runs on Alipay and WeChat Pay — QR-code mobile payments. Ca
 
 Since 2024, US Visa and Mastercard can be linked directly to Alipay without a Chinese bank account. Set this up before departure — the app's English interface is straightforward.
 
-**Download:** Alipay (available on the US App Store). Link your Visa/Mastercard debit or credit card. Verify your identity with passport number. [Full guide here](/posts/toolkit/china-payment-guide/).
+**Download:** Alipay (available on the US App Store). Link your Visa/Mastercard debit or credit card. Verify your identity with passport number. [Full guide here](/posts/toolkit/china-digital-payment-foreigners-guide/).
 
 ### 2. Replace Your Google Apps
 
@@ -184,6 +184,6 @@ Total international flight time from the US West Coast: ~12 hours to Shanghai or
 - [Chinese Visa from the US — Official CVASC](https://www.visaforchina.cn/)
 - [US Embassy in China — Emergency Contacts](https://china.usembassy-china.org.cn/)
 - [TSA Approved Travel to China](https://www.state.gov/countries-areas/china/)
-- [Alipay setup for foreigners](/posts/toolkit/china-payment-guide/)
-- [VPN guide for China](/posts/toolkit/china-vpn-firewall-guide/)
+- [Alipay setup for foreigners](/posts/toolkit/china-digital-payment-foreigners-guide/)
+- [VPN guide for China](/posts/toolkit/china-vpn-guide-2026/)
 - [China safety guide](/posts/toolkit/china-safety-guide/)

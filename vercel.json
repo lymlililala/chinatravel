@@ -1,6 +1,286 @@
 {
   "redirects": [
     {
+      "source": "/posts/toolkit/china-alipay-setup-guide",
+      "destination": "/posts/toolkit/china-digital-payment-foreigners-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-alipay-setup-guide/",
+      "destination": "/posts/toolkit/china-digital-payment-foreigners-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-alipay-wechat-advanced-guide",
+      "destination": "/posts/toolkit/china-digital-payment-foreigners-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-alipay-wechat-advanced-guide/",
+      "destination": "/posts/toolkit/china-digital-payment-foreigners-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-alipay-wechat-setup-foreigners-2026",
+      "destination": "/posts/toolkit/china-digital-payment-foreigners-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-alipay-wechat-setup-foreigners-2026/",
+      "destination": "/posts/toolkit/china-digital-payment-foreigners-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-wechat-alipay-setup-foreigner",
+      "destination": "/posts/toolkit/china-digital-payment-foreigners-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-wechat-alipay-setup-foreigner/",
+      "destination": "/posts/toolkit/china-digital-payment-foreigners-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-wechat-pay-setup-complete-guide",
+      "destination": "/posts/toolkit/china-digital-payment-foreigners-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-wechat-pay-setup-complete-guide/",
+      "destination": "/posts/toolkit/china-digital-payment-foreigners-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-wechat-setup-guide-foreigners",
+      "destination": "/posts/toolkit/china-digital-payment-foreigners-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-wechat-setup-guide-foreigners/",
+      "destination": "/posts/toolkit/china-digital-payment-foreigners-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-payment-guide",
+      "destination": "/posts/toolkit/china-digital-payment-foreigners-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-payment-guide/",
+      "destination": "/posts/toolkit/china-digital-payment-foreigners-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-vpn-firewall-guide",
+      "destination": "/posts/toolkit/china-vpn-guide-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-vpn-firewall-guide/",
+      "destination": "/posts/toolkit/china-vpn-guide-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-vpn-internet-access-guide-2026",
+      "destination": "/posts/toolkit/china-vpn-guide-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-vpn-internet-access-guide-2026/",
+      "destination": "/posts/toolkit/china-vpn-guide-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-didi-guide-foreigners",
+      "destination": "/posts/toolkit/china-didi-ridehailing-guide-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-didi-guide-foreigners/",
+      "destination": "/posts/toolkit/china-didi-ridehailing-guide-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-didi-taxi-ridehailing-guide",
+      "destination": "/posts/toolkit/china-didi-ridehailing-guide-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-didi-taxi-ridehailing-guide/",
+      "destination": "/posts/toolkit/china-didi-ridehailing-guide-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-ride-hailing-didi-guide",
+      "destination": "/posts/toolkit/china-didi-ridehailing-guide-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-ride-hailing-didi-guide/",
+      "destination": "/posts/toolkit/china-didi-ridehailing-guide-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-dixi-apps-navigation-guide",
+      "destination": "/posts/toolkit/china-didi-ridehailing-guide-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-dixi-apps-navigation-guide/",
+      "destination": "/posts/toolkit/china-didi-ridehailing-guide-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-honeymoon-guide-2026",
+      "destination": "/posts/toolkit/china-honeymoon-travel-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-honeymoon-guide-2026/",
+      "destination": "/posts/toolkit/china-honeymoon-travel-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-couple-honeymoon-guide-2026",
+      "destination": "/posts/toolkit/china-honeymoon-travel-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-couple-honeymoon-guide-2026/",
+      "destination": "/posts/toolkit/china-honeymoon-travel-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-romantic-couples-guide",
+      "destination": "/posts/toolkit/china-honeymoon-travel-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-romantic-couples-guide/",
+      "destination": "/posts/toolkit/china-honeymoon-travel-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-group-tour-vs-solo",
+      "destination": "/posts/toolkit/china-group-tour-vs-independent-travel/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-group-tour-vs-solo/",
+      "destination": "/posts/toolkit/china-group-tour-vs-independent-travel/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-group-vs-independent-travel",
+      "destination": "/posts/toolkit/china-group-tour-vs-independent-travel/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-group-vs-independent-travel/",
+      "destination": "/posts/toolkit/china-group-tour-vs-independent-travel/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-teahouse-experience-guide",
+      "destination": "/posts/toolkit/china-tea-house-experience-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-teahouse-experience-guide/",
+      "destination": "/posts/toolkit/china-tea-house-experience-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-travel-insurance-coverage-guide",
+      "destination": "/posts/toolkit/china-travel-insurance-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-travel-insurance-coverage-guide/",
+      "destination": "/posts/toolkit/china-travel-insurance-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-travel-insurance-detailed-guide",
+      "destination": "/posts/toolkit/china-travel-insurance-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-travel-insurance-detailed-guide/",
+      "destination": "/posts/toolkit/china-travel-insurance-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/sanya-beach-resort-complete-guide",
+      "destination": "/posts/destinations/sanya-beach-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/sanya-beach-resort-complete-guide/",
+      "destination": "/posts/destinations/sanya-beach-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/sanya-hainan-beach-guide",
+      "destination": "/posts/destinations/sanya-beach-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/sanya-hainan-beach-guide/",
+      "destination": "/posts/destinations/sanya-beach-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/sanya-hainan-beach-resort-guide",
+      "destination": "/posts/destinations/sanya-beach-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/sanya-hainan-beach-resort-guide/",
+      "destination": "/posts/destinations/sanya-beach-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/qinghai-lake-tour-guide",
+      "destination": "/posts/destinations/qinghai-lake-travel-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/qinghai-lake-tour-guide/",
+      "destination": "/posts/destinations/qinghai-lake-travel-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/qinghai-lake-travel-guide",
+      "destination": "/posts/destinations/qinghai-lake-travel-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/qinghai-lake-travel-guide/",
+      "destination": "/posts/destinations/qinghai-lake-travel-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/qinghai-qinghai-lake-cycling-guide",
+      "destination": "/posts/destinations/qinghai-lake-cycling-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/qinghai-qinghai-lake-cycling-guide/",
+      "destination": "/posts/destinations/qinghai-lake-cycling-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-tai-chi-wellness-retreat-guide",
+      "destination": "/posts/toolkit/china-wellness-retreat-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-tai-chi-wellness-retreat-guide/",
+      "destination": "/posts/toolkit/china-wellness-retreat-guide/",
+      "permanent": true
+    },
+    {
       "source": "/tags/gluten-free",
       "destination": "/tags/dietary/",
       "permanent": true

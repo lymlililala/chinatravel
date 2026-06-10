@@ -156,7 +156,7 @@ Book on the day — no advance booking needed for short-hop HSR trips in this co
 
 **Best time:** April (cherry blossoms at Hangzhou, spring garden flowers in Suzhou) and October (clear skies, West Lake autumn reflection, Suzhou osmanthus bloom).
 
-**Payment:** Alipay works everywhere in this corridor. [Setup guide here](/posts/toolkit/china-payment-guide/).
+**Payment:** Alipay works everywhere in this corridor. [Setup guide here](/posts/toolkit/china-digital-payment-foreigners-guide/).
 
 **Language:** More English available in this region than in inland China — many Shanghai restaurant staff and Suzhou garden ticket counters have basic English.
 

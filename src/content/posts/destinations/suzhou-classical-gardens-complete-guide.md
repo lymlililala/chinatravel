@@ -203,7 +203,7 @@ Suzhou cuisine sits at the sweet end of the Jiangnan flavour spectrum: dishes he
 
 **Avoid:** Chinese Golden Week (October 1–7) — the gardens become very crowded and accommodation prices spike.
 
-**Currency and payment:** Suzhou accepts Alipay, WeChat Pay, and major cards at larger establishments. See our [China payment guide](/posts/toolkit/china-payment-guide/) for setup.
+**Currency and payment:** Suzhou accepts Alipay, WeChat Pay, and major cards at larger establishments. See our [China payment guide](/posts/toolkit/china-digital-payment-foreigners-guide/) for setup.
 
 **Language:** English is minimal outside larger hotels and the most tourist-facing shops. The Amap navigation app (in English) handles getting around without Mandarin.
 

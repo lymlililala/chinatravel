@@ -143,7 +143,7 @@ A morning in the botanical garden with the monks' breakfast of congee (if you ti
 
 **Currency:** Yuan (CNY). Alipay and WeChat Pay are universal. International card ATMs at banks throughout the city.
 
-**Internet:** The Great Firewall applies in Shenzhen (unlike Macau and Hong Kong). VPN if needed. [VPN guide here](/posts/toolkit/china-vpn-firewall-guide/).
+**Internet:** The Great Firewall applies in Shenzhen (unlike Macau and Hong Kong). VPN if needed. [VPN guide here](/posts/toolkit/china-vpn-guide-2026/).
 
 **Weather:** Shenzhen's subtropical climate means: March–May (pleasant, some rain), June–October (hot, humid, typhoon season possible), November–February (mild, dry, ideal).
 

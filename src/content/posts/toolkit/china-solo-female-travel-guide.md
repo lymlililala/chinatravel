@@ -73,4 +73,4 @@ Western women may also experience well-meaning photo requests from Chinese touri
 
 China's extensive public surveillance camera network — widely criticised for privacy implications — has a tangible side effect for visitor safety: street-level crime is documented in a way that significantly deters certain criminal activity. This is not an endorsement of the surveillance state; it's an acknowledgment that the safety benefit exists.
 
-*Also see: [China Budget Backpacker Guide](/posts/toolkit/china-budget-backpacker-guide/) | [China Apps Navigation Guide](/posts/toolkit/china-dixi-apps-navigation-guide/) | [China First-Timer Guide](/posts/toolkit/china-first-time-visitor-guide/)*
+*Also see: [China Budget Backpacker Guide](/posts/toolkit/china-budget-backpacker-guide/) | [China Apps Navigation Guide](/posts/toolkit/china-didi-ridehailing-guide-2026/) | [China First-Timer Guide](/posts/toolkit/china-first-time-visitor-guide/)*

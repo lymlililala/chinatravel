@@ -32,7 +32,7 @@ This itinerary is built around what actually works: realistic timing, specific r
 **Download before landing:**
 - Amap (高德地图) for navigation
 - DiDi for taxis
-- Alipay for payments — see [setup guide](/posts/toolkit/china-payment-guide/)
+- Alipay for payments — see [setup guide](/posts/toolkit/china-digital-payment-foreigners-guide/)
 
 **Get your Beijing Card or transit card:** At any Beijing Metro station, buy a Yikatong transit card (¥20 deposit, refundable). Load ¥100. Used for all metro journeys and buses — much faster than buying individual tickets.
 
@@ -146,7 +146,7 @@ A 2-hour walk through 798 shows a completely different Beijing from the imperial
 
 **Metro:** The most reliable option for Tiananmen/Forbidden City (Line 1), Temple of Heaven (Line 5), and city movement. Buy a Yikatong transit card on arrival.
 
-**DiDi:** Essential for the Great Wall day trip arrangement and for any cross-city movement where the metro doesn't go directly. Set up before arrival. [DiDi guide here](/posts/toolkit/china-didi-taxi-ridehailing-guide/).
+**DiDi:** Essential for the Great Wall day trip arrangement and for any cross-city movement where the metro doesn't go directly. Set up before arrival. [DiDi guide here](/posts/toolkit/china-didi-ridehailing-guide-2026/).
 
 **Avoid:** Regular taxis for tourist routes — DiDi's upfront pricing is simpler. The "black taxi" unofficial cab operators outside tourist sites charge 5–10x normal prices.
 

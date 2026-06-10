@@ -82,7 +82,7 @@ Plan a "sightseeing budget" separately from your daily costs — a week of heavy
 
 ### International calls and data
 
-If relying on roaming or a pocket WiFi device, data costs add up quickly. See our [connectivity guide](/posts/toolkit/china-vpn-firewall-guide/) for options.
+If relying on roaming or a pocket WiFi device, data costs add up quickly. See our [connectivity guide](/posts/toolkit/china-vpn-guide-2026/) for options.
 
 ### Flight connections within China
 

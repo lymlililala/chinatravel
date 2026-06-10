@@ -62,7 +62,7 @@ China's retail payment ecosystem has moved almost entirely to mobile QR-code pay
 
 ### Can foreigners use Alipay?
 
-Yes — and this has improved dramatically. Since 2024, foreigners can link international **Visa or Mastercard** debit and credit cards directly to Alipay without needing a Chinese bank account. The process takes about 10 minutes on the app. Our [complete Alipay setup guide for foreigners](/posts/toolkit/china-payment-guide/) walks through every step with screenshots.
+Yes — and this has improved dramatically. Since 2024, foreigners can link international **Visa or Mastercard** debit and credit cards directly to Alipay without needing a Chinese bank account. The process takes about 10 minutes on the app. Our [complete Alipay setup guide for foreigners](/posts/toolkit/china-digital-payment-foreigners-guide/) walks through every step with screenshots.
 
 ### How much cash should I carry in China?
 
@@ -94,7 +94,7 @@ You cannot access Google Maps on a Chinese SIM without a VPN. The reliable alter
 
 ### Do I need a VPN?
 
-Only if you need access to Google services, WhatsApp, Instagram, or similar blocked platforms. A VPN needs to be **downloaded and tested before you arrive in China** — the VPN providers' own websites are blocked from within China, making them impossible to download on arrival. See our [VPN and firewall guide](/posts/toolkit/china-vpn-firewall-guide/).
+Only if you need access to Google services, WhatsApp, Instagram, or similar blocked platforms. A VPN needs to be **downloaded and tested before you arrive in China** — the VPN providers' own websites are blocked from within China, making them impossible to download on arrival. See our [VPN and firewall guide](/posts/toolkit/china-vpn-guide-2026/).
 
 ### What is the best SIM card for tourists in China?
 
@@ -141,7 +141,7 @@ See our [city metro guide](/posts/toolkit/china-metro-city-guide/) for full airp
 
 ### Should I take taxis or DiDi (China's Uber)?
 
-**DiDi** is overwhelmingly preferable for foreign visitors. The app shows price before booking, no cash needed, GPS tracking is built in, and you can show the driver the destination on-screen without speaking any Chinese. Traditional taxis require negotiating (or pointing at map) and may use meters inconsistently outside the city centre. Download DiDi before arrival. [Full DiDi guide here](/posts/toolkit/china-didi-taxi-ridehailing-guide/).
+**DiDi** is overwhelmingly preferable for foreign visitors. The app shows price before booking, no cash needed, GPS tracking is built in, and you can show the driver the destination on-screen without speaking any Chinese. Traditional taxis require negotiating (or pointing at map) and may use meters inconsistently outside the city centre. Download DiDi before arrival. [Full DiDi guide here](/posts/toolkit/china-didi-ridehailing-guide-2026/).
 
 ---
 
@@ -314,7 +314,7 @@ China uses **Type A, C, and I** sockets (220V, 50Hz). The most common socket in 
 
 ### How do I get a WeChat account?
 
-WeChat requires a phone number (any country) to register, and then must be verified by an existing WeChat user — which means you need someone who already has WeChat to approve your new account. The easiest approach: ask the hotel reception or a hostel staff member when you arrive. Most are used to this request. See our [WeChat setup guide for foreigners](/posts/toolkit/china-wechat-setup-guide-foreigners/).
+WeChat requires a phone number (any country) to register, and then must be verified by an existing WeChat user — which means you need someone who already has WeChat to approve your new account. The easiest approach: ask the hotel reception or a hostel staff member when you arrive. Most are used to this request. See our [WeChat setup guide for foreigners](/posts/toolkit/china-digital-payment-foreigners-guide/).
 
 ### Is it worth hiring a local guide?
 
@@ -327,7 +327,7 @@ For first-time visitors to complex sites — Forbidden City, Terracotta Warriors
 If your trip is within the next 30 days:
 
 1. **Check your visa eligibility** → [Visa guide](/posts/toolkit/china-visa-entry-guide/)
-2. **Set up Alipay with your foreign card** → [Payment guide](/posts/toolkit/china-payment-guide/)
+2. **Set up Alipay with your foreign card** → [Payment guide](/posts/toolkit/china-digital-payment-foreigners-guide/)
 3. **Download Amap and DiDi** → [Apps guide](/posts/toolkit/china-apps-internet-guide/)
 4. **Book your high-speed train tickets** → [Train guide](/posts/toolkit/china-train-booking-guide-foreigners/)
 5. **Buy or activate a China SIM/eSIM** → [SIM guide](/posts/toolkit/china-sim-card-esim-guide/)

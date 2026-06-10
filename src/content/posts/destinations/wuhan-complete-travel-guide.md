@@ -193,7 +193,7 @@ Wuhan's cherry blossom window is narrow — follow the official Wuhan University
 
 ## Practical Information
 
-**Currency and payment:** Alipay and WeChat Pay are the primary payment methods. See [China payment guide](/posts/toolkit/china-payment-guide/).
+**Currency and payment:** Alipay and WeChat Pay are the primary payment methods. See [China payment guide](/posts/toolkit/china-digital-payment-foreigners-guide/).
 
 **Language:** Limited English outside tourist sites and international hotels. Amap navigates all public transport in English.
 

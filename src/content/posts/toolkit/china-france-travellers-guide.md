@@ -84,4 +84,4 @@ French wine is available in major Chinese cities at international import shops a
 
 For wine exploration while in China: the Chinese wine industry has developed significantly — the Ningxia region's Helan Mountain east slope produces wines (Helan Qingxue, Silver Heights, many others) that have won international awards. Very interesting to explore for French wine enthusiasts.
 
-*See also: [China Visa-Free Countries Guide](/posts/toolkit/china-visa-free-countries-2026/) | [China Budget Guide](/posts/toolkit/china-budget-backpacker-guide/) | [WeChat Alipay Setup Guide](/posts/toolkit/china-wechat-alipay-setup-foreigner/)*
+*See also: [China Visa-Free Countries Guide](/posts/toolkit/china-visa-free-countries-2026/) | [China Budget Guide](/posts/toolkit/china-budget-backpacker-guide/) | [WeChat Alipay Setup Guide](/posts/toolkit/china-digital-payment-foreigners-guide/)*

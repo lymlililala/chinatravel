@@ -50,7 +50,7 @@ Since October 2023, Alipay has allowed international visitors to link foreign Vi
 
 **This unlocks:** Restaurant QR code payments, market stalls, street food, DiDi ride-hailing, metro ticket machines, ticket booking apps, almost everything a tourist needs.
 
-[Full Alipay setup guide here](/posts/toolkit/china-payment-guide/).
+[Full Alipay setup guide here](/posts/toolkit/china-digital-payment-foreigners-guide/).
 
 ---
 
@@ -174,4 +174,4 @@ Before departing for China:
 
 ---
 
-*Also see: [China Payment Guide (Alipay/WeChat Setup)](/posts/toolkit/china-payment-guide/) | [China ATM Cash Guide](/posts/toolkit/china-atm-cash-withdrawal-guide/) | [China Budget Travel Guide](/posts/toolkit/china-budget-travel-guide/)*
+*Also see: [China Payment Guide (Alipay/WeChat Setup)](/posts/toolkit/china-digital-payment-foreigners-guide/) | [China ATM Cash Guide](/posts/toolkit/china-atm-cash-withdrawal-guide/) | [China Budget Travel Guide](/posts/toolkit/china-budget-travel-guide/)*

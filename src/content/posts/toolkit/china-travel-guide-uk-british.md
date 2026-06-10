@@ -101,7 +101,7 @@ UK Visa and Mastercard debit and credit cards (Barclays, HSBC, Lloyds, NatWest, 
 4. Verify identity with passport number
 5. Test a small top-up transaction
 
-[Full Alipay setup guide here](/posts/toolkit/china-payment-guide/).
+[Full Alipay setup guide here](/posts/toolkit/china-digital-payment-foreigners-guide/).
 
 ---
 
@@ -147,4 +147,4 @@ Suggested departure: London–Beijing (Air China direct), return Shanghai–Lond
 
 ---
 
-*Also see: [China Visa Guide](/posts/toolkit/china-visa-entry-guide/) | [China Payment Setup](/posts/toolkit/china-payment-guide/) | [Best Time to Visit China](/posts/toolkit/best-time-to-visit-china/)*
+*Also see: [China Visa Guide](/posts/toolkit/china-visa-entry-guide/) | [China Payment Setup](/posts/toolkit/china-digital-payment-foreigners-guide/) | [Best Time to Visit China](/posts/toolkit/best-time-to-visit-china/)*

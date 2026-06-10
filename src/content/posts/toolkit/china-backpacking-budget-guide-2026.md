@@ -216,7 +216,7 @@ This excludes international flights and major entrance fees (allow another USD 1
 
 ## Managing Money in China
 
-**Set up Alipay before departure** with your foreign Visa or Mastercard. This single action eliminates most ATM fees for daily spending. See [full Alipay guide](/posts/toolkit/china-payment-guide/).
+**Set up Alipay before departure** with your foreign Visa or Mastercard. This single action eliminates most ATM fees for daily spending. See [full Alipay guide](/posts/toolkit/china-digital-payment-foreigners-guide/).
 
 **Carry ¥300–500 cash** as backup. Some rural areas, small towns, and traditional vendors are cash-only.
 

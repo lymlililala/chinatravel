@@ -148,7 +148,7 @@ Buy a **China Unicom**, **China Mobile**, or **China Telecom** SIM at any carrie
 
 **Xiaohongshu (小红书 / Little Red Book)** — Lifestyle, recommendations, fashion, and local tips. Increasingly used by expats to find English-speaking services, expat-friendly neighborhoods, and local recommendations.
 
-**DiDi (滴滴出行)** — Ride-hailing. Works better than tourist apps once you have a Chinese number. [DiDi guide here](/posts/toolkit/china-didi-taxi-ridehailing-guide/).
+**DiDi (滴滴出行)** — Ride-hailing. Works better than tourist apps once you have a Chinese number. [DiDi guide here](/posts/toolkit/china-didi-ridehailing-guide-2026/).
 
 **Pinduoduo (拼多多) and Taobao (淘宝)** — Online shopping. Taobao is Amazon equivalent. Pinduoduo is discount group-buying. Both used extensively by residents for everyday purchases.
 
@@ -186,4 +186,4 @@ Buy a **China Unicom**, **China Mobile**, or **China Telecom** SIM at any carrie
 
 ---
 
-*Also see: [China Visa Types Guide](/posts/toolkit/china-visa-types-complete-guide/) | [China Payment Guide](/posts/toolkit/china-payment-guide/) | [China VPN Guide](/posts/toolkit/china-vpn-firewall-guide/)*
+*Also see: [China Visa Types Guide](/posts/toolkit/china-visa-types-complete-guide/) | [China Payment Guide](/posts/toolkit/china-digital-payment-foreigners-guide/) | [China VPN Guide](/posts/toolkit/china-vpn-guide-2026/)*

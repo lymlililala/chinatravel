@@ -45,7 +45,7 @@ China's payment system has moved to mobile QR codes (Alipay and WeChat Pay). Phy
 
 **What if setting up Alipay feels overwhelming?**
 1. Ask a younger family member or tech-comfortable friend to help you before you leave — this is genuinely a 15-minute task for someone comfortable with smartphone apps
-2. Use our [step-by-step Alipay guide](/posts/toolkit/china-payment-guide/) which has screenshots and plain-language instructions
+2. Use our [step-by-step Alipay guide](/posts/toolkit/china-digital-payment-foreigners-guide/) which has screenshots and plain-language instructions
 3. Alternatively, carry more cash (¥1,000–2,000) and use ATMs — this is a workable though less convenient fallback
 
 **Bank of China ATMs** are the most reliable for foreign cards and are widely distributed in cities.
@@ -189,7 +189,7 @@ Flight from Chengdu 1.5 hours. Li River cruise by private boat. Yangshuo town at
 ## Essential Resources
 
 - [China Visa Guide](/posts/toolkit/china-visa-entry-guide/) — eligibility by nationality
-- [China Payment Guide](/posts/toolkit/china-payment-guide/) — Alipay setup step-by-step
+- [China Payment Guide](/posts/toolkit/china-digital-payment-foreigners-guide/) — Alipay setup step-by-step
 - [China Apps Guide](/posts/toolkit/china-apps-internet-guide/) — navigation and translation tools
 - [China Safety Guide](/posts/toolkit/china-safety-guide/) — area-by-area notes
 - [China Health and Medical Guide](/posts/toolkit/china-health-medical-guide/) — hospitals, vaccinations, medications

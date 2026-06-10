@@ -162,7 +162,7 @@ China produces 75–80% of the world's silk, which means prices are a fraction o
 
 ## Payment at Shops
 
-Alipay and WeChat Pay work at virtually all Chinese shops. Cash is accepted everywhere. International cards work at department stores and shopping malls in major cities but often not at market stalls. [Full payment guide here](/posts/toolkit/china-payment-guide/).
+Alipay and WeChat Pay work at virtually all Chinese shops. Cash is accepted everywhere. International cards work at department stores and shopping malls in major cities but often not at market stalls. [Full payment guide here](/posts/toolkit/china-digital-payment-foreigners-guide/).
 
 ---
 

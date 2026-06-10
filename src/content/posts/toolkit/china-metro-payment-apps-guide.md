@@ -32,7 +32,7 @@ Each major city has an official transit QR code system, accessible via:
 
 **Advantages**: no physical card needed, no deposit, linked to your existing Alipay/WeChat account.
 
-**Disadvantage**: requires Alipay or WeChat Pay to be set up with a working payment method (see our [payment guide](/posts/toolkit/china-payment-guide/)).
+**Disadvantage**: requires Alipay or WeChat Pay to be set up with a working payment method (see our [payment guide](/posts/toolkit/china-digital-payment-foreigners-guide/)).
 
 ### Method 2: Physical Transit Card
 

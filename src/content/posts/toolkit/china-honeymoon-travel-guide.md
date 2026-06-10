@@ -176,4 +176,4 @@ The sweet spot for most China honeymoons is **late September through early Octob
 
 **Carry small-denomination cash.** Even in major cities, romantic spots — night markets, temple stalls, canal-side snack vendors — often prefer cash. Keep ¥300–500 in smaller bills at all times.
 
-**Arrange Alipay before leaving home.** Trying to set it up on arrival is stressful. The 20 minutes you spend before departure will save hours of frustration. [Complete setup guide here](/posts/toolkit/china-payment-guide/).
+**Arrange Alipay before leaving home.** Trying to set it up on arrival is stressful. The 20 minutes you spend before departure will save hours of frustration. [Complete setup guide here](/posts/toolkit/china-digital-payment-foreigners-guide/).
