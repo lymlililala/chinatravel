@@ -2,6 +2,15 @@
 author: Roam China Travel Editorial Team
 pubDatetime: 2026-05-27T18:05:00Z
 title: "China Golden Week October 2026: How to Travel Around (or Avoid) the Busiest Week"
+faq:
+  - question: "When is China's Golden Week in October 2026?"
+    answer: "The October Golden Week is built around National Day on 1 October and runs as a seven-day public holiday, typically 1-7 October, sometimes adjusted with 'make-up' working weekends either side. It is one of two week-long national holidays, alongside Spring Festival, when most of the country travels at once."
+  - question: "Should I travel in China during Golden Week?"
+    answer: "If you can avoid it, do. Major sights, trains and highways are at their most crowded and expensive, and tickets sell out far in advance. If your dates are fixed, favour less-touristed cities and book everything early; the first and last days are the worst for transport while the middle of the week is slightly calmer at attractions."
+  - question: "How crowded is China during Golden Week?"
+    answer: "Extremely. Hundreds of millions of people travel, top sites like the Great Wall and Forbidden City hit visitor caps, and high-speed trains sell out within minutes of release. Expect long queues, timed-entry limits and premium hotel pricing throughout the week."
+  - question: "How do I book trains and tickets for Golden Week?"
+    answer: "Book as early as the booking window opens — high-speed train tickets are released around 15 days ahead and the popular routes go almost instantly. Reserve attraction entries, intercity trains and hotels the moment dates are confirmed, and have backup routes ready in case your first choice sells out."
 featured: false
 draft: false
 tags:

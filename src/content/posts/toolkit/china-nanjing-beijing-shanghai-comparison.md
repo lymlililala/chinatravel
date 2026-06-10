@@ -1,5 +1,14 @@
 ---
 title: "Beijing vs Shanghai vs Nanjing: Which Chinese City Is Right for You?"
+faq:
+  - question: "Should I visit Beijing, Shanghai or Nanjing?"
+    answer: "Choose Beijing for imperial history and headline sights like the Great Wall and Forbidden City, Shanghai for a modern, international city of skylines, shopping and food, and Nanjing for deep history with far fewer crowds. Many first-timers pair Beijing and Shanghai; Nanjing is an excellent, quieter add-on between them."
+  - question: "How far is Nanjing from Beijing and Shanghai?"
+    answer: "Nanjing sits on the main high-speed line between the two. It's roughly 1 hour to 1.5 hours by bullet train to Shanghai, and around 3.5 to 4.5 hours to Beijing, which makes it easy to slot into a Beijing-Shanghai itinerary rather than a separate trip."
+  - question: "Is Nanjing worth visiting?"
+    answer: "Yes, especially if you like history with breathing room. As a former capital, Nanjing has the Ming city wall, Sun Yat-sen Mausoleum, Confucius Temple quarter and moving WWII memorials, with notably smaller crowds and lower prices than Beijing or Shanghai."
+  - question: "Which city is best for history, Beijing, Shanghai or Nanjing?"
+    answer: "Beijing has the grandest imperial monuments, while Nanjing offers a different, layered history as a repeated dynastic capital and the site of major modern events. Shanghai is the youngest of the three and is more about colonial-era architecture and contemporary energy than ancient history."
 description: "Compare Beijing, Shanghai, and Nanjing for a first or second China trip — the honest differences in atmosphere, history depth, food, cost, English accessibility, and what each city is genuinely best at, to help you choose the right itinerary rather than defaulting to the standard Beijing-Shanghai circuit because everyone else does it."
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"

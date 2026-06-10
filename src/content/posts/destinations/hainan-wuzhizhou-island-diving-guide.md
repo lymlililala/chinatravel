@@ -1,5 +1,14 @@
 ---
 title: "Wuzhizhou Island Hainan: China's Best Snorkeling & Tropical Diving"
+faq:
+  - question: "Is Wuzhizhou Island good for snorkelling?"
+    answer: "Yes — Wuzhizhou Island off Sanya has some of the clearest water and best coral in China, making it the country's top spot for snorkelling and beginner diving. You can rent gear on the island or join a guided snorkel, and glass-bottom boats let non-swimmers see the reef too."
+  - question: "How do I get to Wuzhizhou Island?"
+    answer: "Travel to the ferry pier northeast of Sanya (about an hour from the city by taxi or bus), then take the short ferry across to the island, which is included in the entry ticket. Most visitors come on a day trip, though there is resort accommodation on the island itself."
+  - question: "How much does Wuzhizhou Island cost to visit?"
+    answer: "Entry combines the island admission and the round-trip ferry, with water sports such as diving, jet-skiing and the glass-bottom boat charged separately on top. Buy the main ticket at the pier or online in advance, and budget extra for whichever activities you want."
+  - question: "When is the best time to dive or snorkel at Wuzhizhou Island?"
+    answer: "The dry season from roughly October to April offers the calmest, clearest water and the most comfortable weather. Visibility is generally good year-round, but summer brings more humidity and the occasional typhoon, so check conditions before booking water activities."
 description: "Discover Wuzhizhou Island off Sanya, Hainan — China's premier tropical water sports destination, with excellent coral reef snorkeling, beginner and advanced scuba diving, glass-bottom boat tours, and pristine turquoise waters that rival Southeast Asian island destinations."
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Hainan"

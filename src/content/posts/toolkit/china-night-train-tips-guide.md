@@ -3,6 +3,15 @@ author: Roam China Travel Editorial Team
 pubDatetime: 2026-05-01T08:00:00Z
 modDatetime: 2026-05-01T10:00:00Z
 title: "China Night Train Tips Guide 2026: Sleeper Classes, Etiquette & Overnight Journey Advice"
+faq:
+  - question: "What is the difference between hard sleeper and soft sleeper on Chinese trains?"
+    answer: "Hard sleeper is an open carriage of bunks stacked three high in bays of six, with no doors and a firmer mattress — cheaper and more sociable. Soft sleeper is a closable four-berth compartment with two lower and two upper bunks, softer bedding and more privacy, at a higher price. On newer trains there are also two-berth 'deluxe soft sleeper' cabins."
+  - question: "Which sleeper class should I book on a China night train?"
+    answer: "For comfort and privacy, choose soft sleeper, and aim for a lower bunk, which has the most headroom and sitting space. Budget travellers and those who don't mind an open carriage do fine in hard sleeper. On all classes the lower bunks cost a little more than the uppers."
+  - question: "Are overnight sleeper trains in China safe and comfortable?"
+    answer: "Yes. Sleeper trains are widely used, monitored by staff, and generally very safe; keep valuables close and use the under-bunk storage. Comfort depends on class — soft sleeper is restful, while hard sleeper is fine but busier and brighter. Bring earplugs, an eye mask and snacks."
+  - question: "How do I book a sleeper train ticket in China?"
+    answer: "Book through the official 12306 system or a trusted booking app, ideally as soon as the roughly 15-day sales window opens, since overnight routes sell out. You need your passport to buy and to board, and on popular lines lower-bunk soft sleepers go first."
 featured: false
 draft: false
 tags:

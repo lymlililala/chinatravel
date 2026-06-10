@@ -1,5 +1,14 @@
 ---
 title: "Photography in China: What You Can and Cannot Photograph (2026 Rules)"
+faq:
+  - question: "What can't you photograph in China?"
+    answer: "Avoid photographing military installations and personnel, police and security forces, airports' restricted zones, government and some border facilities, and the interiors of many museums and temples where signs prohibit it. These restrictions are taken seriously, so when in doubt, don't shoot and look for posted signs."
+  - question: "Can I fly a drone in China as a tourist?"
+    answer: "Drones are heavily regulated. Most models must be registered with the authorities, and large no-fly zones cover cities, airports, and sensitive and scenic areas. Many famous sites ban drones outright. Check the local rules for each location before flying, as penalties and confiscation are common."
+  - question: "Is photography allowed in Chinese temples and museums?"
+    answer: "Often yes for general areas, but many halls ban photography of Buddha statues, relics and murals to protect them, and flash and tripods are frequently prohibited. Always follow the posted signs and staff instructions, and ask before photographing worshippers."
+  - question: "Can I take photos of people in China?"
+    answer: "Street photography is generally fine, but it's polite to ask before taking close portraits, especially of ethnic-minority residents, monks or vendors. Some people may expect a small payment for posing. Be respectful and stop if someone declines."
 description: "Complete guide to photography rules in China for tourists. What's allowed at the Forbidden City, temples and tourist sites. What's prohibited near military, airports and sensitive areas. Camera gear tips."
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"

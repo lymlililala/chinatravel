@@ -3,6 +3,15 @@ author: Roam China Travel Editorial Team
 pubDatetime: 2026-05-02T08:00:00Z
 modDatetime: 2026-05-02T10:00:00Z
 title: "China Wellness & Retreat Guide 2026: Hot Springs, TCM Clinics & Meditation Centers"
+faq:
+  - question: "What is a TCM retreat in China?"
+    answer: "A TCM (Traditional Chinese Medicine) retreat combines treatments like acupuncture, herbal medicine, cupping, tuina massage and dietary therapy with rest in a calm setting, often a hot-spring resort or clinic. Programmes range from a day of treatments to multi-week stays aimed at recovery, detox or stress relief."
+  - question: "Where are the best wellness retreats in China?"
+    answer: "Options span hot-spring resorts across Yunnan, Sichuan and around Beijing, Buddhist and Taoist mountain monasteries offering meditation, dedicated TCM clinics in cities, and luxury wellness resorts on Hainan. Choose by focus — hot springs and spa, TCM treatment, or meditation and tai chi."
+  - question: "Can foreigners do a TCM or wellness retreat in China?"
+    answer: "Yes. Many resorts and clinics cater to international guests, and larger ones have English-speaking staff or translators. For medical-style TCM programmes it helps to book ahead and share your health background; for spa, hot-spring and meditation retreats you can often just turn up or reserve online."
+  - question: "What treatments are offered at Chinese wellness retreats?"
+    answer: "Common offerings include acupuncture, cupping, moxibustion, herbal prescriptions, tuina and foot massage, hot-spring bathing, dietary therapy, plus tai chi, qigong and guided meditation. Wellness resorts add Western-style spa treatments, yoga and fitness alongside the traditional options."
 featured: false
 draft: false
 tags:
