@@ -228,7 +228,7 @@ This excludes international flights and major entrance fees (allow another USD 1
 
 ## Staying Connected on a Budget
 
-A **China Unicom tourist SIM** bought at the airport costs approximately ¥99–199 for 30 days of data. This is more than sufficient for navigation, communication, and translation apps. [Full SIM and eSIM guide here](/posts/toolkit/china-esim-international-roaming-guide/).
+A **China Unicom tourist SIM** bought at the airport costs approximately ¥99–199 for 30 days of data. This is more than sufficient for navigation, communication, and translation apps. [Full SIM and eSIM guide here](/posts/toolkit/china-sim-card-esim-guide/).
 
 Hostel Wi-Fi is adequate for most needs. Download offline maps (Amap offline mode or Maps.me) before leaving your accommodation.
 

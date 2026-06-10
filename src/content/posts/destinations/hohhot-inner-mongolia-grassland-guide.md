@@ -42,7 +42,7 @@ The Hulunbuir Plain is an uninterrupted sea of grass from horizon to horizon wit
 
 The **Ewenki (鄂温克族)** and **Buryat Mongol** minority communities in this region maintain reindeer herding and nomadic practices.
 
-[Full Hulunbuir guide](/posts/destinations/inner-mongolia-hulunbuir-guide/).
+[Full Hulunbuir guide](/posts/destinations/inner-mongolia-hulunbuir-grassland-guide/).
 
 ## Nadam Festival (那达慕)
 
@@ -60,4 +60,4 @@ For visitors: book accommodation well in advance for Nadam period (hotels and gr
 
 **Transport**: Hiring a private car and driver in Hohhot for 2–3 days is the most practical approach for grassland touring. Standard rate: ¥400–600/day.
 
-*Also see: [Inner Mongolia Hohhot Guide](/posts/destinations/inner-mongolia-hohhot-grassland-guide/) | [Hulunbuir Complete Guide](/posts/destinations/inner-mongolia-hulunbuir-guide/)*
+*Also see: [Inner Mongolia Hohhot Guide](/posts/destinations/inner-mongolia-hohhot-grassland-guide/) | [Hulunbuir Complete Guide](/posts/destinations/inner-mongolia-hulunbuir-grassland-guide/)*

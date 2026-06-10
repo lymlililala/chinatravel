@@ -93,4 +93,4 @@ Reliable commercial VPNs for China (as of 2026): ExpressVPN, NordVPN, Astrill. P
 
 **Legal note**: Personal VPN use in China is in a grey area — technically requiring licensed providers, but personal use by tourists is not enforced. Do not use VPNs for business data processing.
 
-*Also see: [China WeChat Alipay Setup Guide](/posts/toolkit/china-wechat-alipay-setup-foreigner/) | [China SIM Card Guide](/posts/toolkit/china-sim-card-comparison-guide/) | [China First-Timer Practical Guide](/posts/toolkit/china-first-time-visitor-guide/)*
+*Also see: [China WeChat Alipay Setup Guide](/posts/toolkit/china-wechat-alipay-setup-foreigner/) | [China SIM Card Guide](/posts/toolkit/china-sim-card-esim-guide/) | [China First-Timer Practical Guide](/posts/toolkit/china-first-time-visitor-guide/)*

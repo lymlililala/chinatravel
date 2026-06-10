@@ -102,7 +102,7 @@ At major international airports (Beijing Capital, Shanghai Pudong, Guangzhou Bai
 - **China Unicom Tourist SIM** — available at airport counters, offers 30-day data packages, works with most foreign phones
 - **eSIM** — several providers (Airalo, KnowRoaming) offer China-compatible eSIMs that can be activated before departure
 
-See our full [SIM and eSIM guide for China](/posts/toolkit/china-esim-international-roaming-guide/).
+See our full [SIM and eSIM guide for China](/posts/toolkit/china-sim-card-esim-guide/).
 
 ### Which navigation app works best in China without VPN?
 
@@ -330,6 +330,6 @@ If your trip is within the next 30 days:
 2. **Set up Alipay with your foreign card** → [Payment guide](/posts/toolkit/china-payment-guide/)
 3. **Download Amap and DiDi** → [Apps guide](/posts/toolkit/china-apps-internet-guide/)
 4. **Book your high-speed train tickets** → [Train guide](/posts/toolkit/china-train-booking-guide-foreigners/)
-5. **Buy or activate a China SIM/eSIM** → [SIM guide](/posts/toolkit/china-esim-international-roaming-guide/)
+5. **Buy or activate a China SIM/eSIM** → [SIM guide](/posts/toolkit/china-sim-card-esim-guide/)
 
 These five actions will handle 90% of the logistical challenges that catch first-time China visitors off guard.

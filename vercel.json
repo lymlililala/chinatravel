@@ -11,6 +11,116 @@
       "permanent": true
     },
     {
+      "source": "/posts/toolkit/china-communication-sim-guide",
+      "destination": "/posts/toolkit/china-sim-card-esim-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-communication-sim-guide/",
+      "destination": "/posts/toolkit/china-sim-card-esim-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-esim-international-roaming-guide",
+      "destination": "/posts/toolkit/china-sim-card-esim-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-esim-international-roaming-guide/",
+      "destination": "/posts/toolkit/china-sim-card-esim-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-sim-card-comparison-guide",
+      "destination": "/posts/toolkit/china-sim-card-esim-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-sim-card-comparison-guide/",
+      "destination": "/posts/toolkit/china-sim-card-esim-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-sim-card-esim-comparison-guide",
+      "destination": "/posts/toolkit/china-sim-card-esim-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-sim-card-esim-comparison-guide/",
+      "destination": "/posts/toolkit/china-sim-card-esim-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-tipping-customs-etiquette-guide",
+      "destination": "/posts/toolkit/china-tipping-etiquette-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-tipping-customs-etiquette-guide/",
+      "destination": "/posts/toolkit/china-tipping-etiquette-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-architecture-guide",
+      "destination": "/posts/toolkit/china-architecture-history-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-architecture-guide/",
+      "destination": "/posts/toolkit/china-architecture-history-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-culture-etiquette-guide",
+      "destination": "/posts/toolkit/china-etiquette-customs-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-culture-etiquette-guide/",
+      "destination": "/posts/toolkit/china-etiquette-customs-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/inner-mongolia-hulunbuir-guide",
+      "destination": "/posts/destinations/inner-mongolia-hulunbuir-grassland-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/inner-mongolia-hulunbuir-guide/",
+      "destination": "/posts/destinations/inner-mongolia-hulunbuir-grassland-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-vegan-vegetarian-guide",
+      "destination": "/posts/toolkit/china-vegetarian-vegan-travel-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-vegan-vegetarian-guide/",
+      "destination": "/posts/toolkit/china-vegetarian-vegan-travel-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-vegetarian-vegan-restaurants-guide",
+      "destination": "/posts/toolkit/china-vegetarian-vegan-travel-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-vegetarian-vegan-restaurants-guide/",
+      "destination": "/posts/toolkit/china-vegetarian-vegan-travel-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-night-train-experience-guide",
+      "destination": "/posts/toolkit/china-night-train-tips-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-night-train-experience-guide/",
+      "destination": "/posts/toolkit/china-night-train-tips-guide/",
+      "permanent": true
+    },
+    {
       "source": "/posts/beijing-:path*",
       "destination": "/posts/destinations/beijing-:path*",
       "permanent": true
