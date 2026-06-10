@@ -3,6 +3,15 @@ author: Roam China Travel Editorial Team
 pubDatetime: 2025-02-10T08:00:00Z
 modDatetime: 2026-05-01T10:00:00Z
 title: "Xi'an Travel Guide: Terracotta Warriors, the Silk Road & Muslim Quarter Food"
+faq:
+  - question: "How many days do you need in Xi'an?"
+    answer: "Two to three days is ideal: a half to full day for the Terracotta Army outside the city, a day for the Ming city wall, Bell and Drum Towers and the Muslim Quarter, and time for the Big Wild Goose Pagoda. Many travellers visit Xi'an as a two-night stop between Beijing and other cities."
+  - question: "How do I get to the Terracotta Army from Xi'an?"
+    answer: "The Terracotta Army is about an hour east of the city. Take the dedicated tourist bus (line 5/306) from near Xi'an Railway Station, or use a taxi, DiDi or an organised tour. Go early to beat the crowds, and allow several hours to see all three excavation pits."
+  - question: "Is Xi'an's Muslim Quarter worth visiting?"
+    answer: "Yes — the Muslim Quarter is one of Xi'an's highlights, a warren of lively lanes packed with Hui-Muslim street food like roujiamo, biangbiang noodles, lamb skewers and persimmon cakes, plus the historic Great Mosque. It's best experienced in the evening when the stalls are buzzing."
+  - question: "Can you cycle on the Xi'an city wall?"
+    answer: "Yes. The Ming-era city wall is fully intact and you can rent a bike at the top to ride the roughly 14km circuit, which takes one to two hours at a relaxed pace. It's one of the best ways to see the old city and a highlight in its own right."
 featured: false
 draft: false
 tags:

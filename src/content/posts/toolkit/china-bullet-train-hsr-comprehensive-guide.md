@@ -1,5 +1,14 @@
 ---
 title: "China High-Speed Rail Complete Guide 2026: Every Question Answered"
+faq:
+  - question: "How fast are China's high-speed trains?"
+    answer: "The fastest G-class services cruise at up to 350 km/h, covering Beijing to Shanghai (about 1,300km) in roughly 4.5 hours. China has the world's largest high-speed network, linking almost every major city, which often makes the train faster and easier than flying once you count airport time."
+  - question: "Are Chinese high-speed trains worth it compared to flying?"
+    answer: "For trips up to around 1,000-1,300km, high-speed rail usually beats flying: city-centre to city-centre, no long security lines, generous luggage, reliable punctuality and spacious seats. For very long distances, flights win on time, but trains remain more comfortable and often better value."
+  - question: "What seat classes are there on Chinese bullet trains?"
+    answer: "Most trains offer Second Class (comfortable and the best value), First Class (wider seats, more legroom) and Business Class (lie-flat or premium seats at a higher price). Overnight services may add sleeper berths. Second Class is fine for most journeys; upgrade for long trips or extra space."
+  - question: "How do I book China high-speed rail tickets?"
+    answer: "Use the official 12306 system or a trusted booking app, entering your passport details. Tickets open about 15 days ahead and popular routes sell out, so book early. You usually travel paperless by scanning your passport at the station gates."
 description: "The most comprehensive guide to China's high-speed rail network — how to book tickets, G vs D vs C trains, seat classes, booking apps, luggage rules, the experience of 350 km/h travel, and tips for making the most of the world's longest HSR network."
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/china-hsr-train.jpg"

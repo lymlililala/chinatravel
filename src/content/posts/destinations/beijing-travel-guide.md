@@ -3,6 +3,15 @@ author: Roam China Travel Editorial Team
 pubDatetime: 2025-02-01T08:00:00Z
 modDatetime: 2026-05-01T10:00:00Z
 title: "Beijing Travel Guide: Imperial History, Modern Buzz & Practical Tips"
+faq:
+  - question: "How many days do you need in Beijing?"
+    answer: "Three to four days covers the essentials: a day for the Forbidden City and Tiananmen Square, a day for the Great Wall, and a day or two for the Temple of Heaven, Summer Palace and hutong neighbourhoods. Add more time for day trips and a slower pace."
+  - question: "What are the must-see attractions in Beijing?"
+    answer: "The headline sights are the Forbidden City, Tiananmen Square, the Great Wall (Mutianyu or Badaling), the Temple of Heaven and the Summer Palace, plus the hutong lanes around the Drum and Bell Towers. Reserve the Forbidden City and Great Wall ahead, as both use timed entry."
+  - question: "What is the best way to get around Beijing?"
+    answer: "The subway is fast, cheap and bilingual, and reaches most sights; pay with the transit QR code in Alipay or WeChat. Taxis and DiDi fill the gaps, while the Great Wall is best reached by tour, chartered car or a dedicated bus."
+  - question: "When is the best time to visit Beijing?"
+    answer: "Spring (April-May) and autumn (September-October) are ideal, with mild weather and clearer skies. Summer is hot, humid and busy, and winter is cold but quiet. Avoid the early-October Golden Week holiday, when the major sights are at their most crowded."
 featured: true
 draft: false
 tags:

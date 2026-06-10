@@ -3,6 +3,15 @@ author: Roam China Travel Editorial Team
 pubDatetime: 2025-02-05T08:00:00Z
 modDatetime: 2026-05-01T10:00:00Z
 title: "Shanghai Travel Guide: The Bund, Art Deco Glamour & the City That Never Sleeps"
+faq:
+  - question: "How many days do you need in Shanghai?"
+    answer: "Three days is enough for the highlights: the Bund and Pudong skyline, Yu Garden and the Old City, the leafy former French Concession, and a museum or two, with time for the food and nightlife. Add a day for a water-town or Suzhou day trip if you can."
+  - question: "What are the must-see sights in Shanghai?"
+    answer: "Don't miss the Bund waterfront and its colonial architecture, the Pudong skyline and its observation decks, Yu Garden and the surrounding bazaar, the French Concession's tree-lined streets and Tianzifang, and the Shanghai Museum. Sunset over the Huangpu River is a highlight."
+  - question: "Is Shanghai easy to get around?"
+    answer: "Yes. Shanghai has one of the world's largest metro systems — clean, cheap and bilingual — plus the Maglev to the airport and plentiful DiDi rides. Pay for the metro with the transit QR code in Alipay or WeChat, and the city is very walkable in its central districts."
+  - question: "When is the best time to visit Shanghai?"
+    answer: "Spring and autumn (roughly March-May and September-November) offer the most comfortable weather. Summer is hot and humid with a chance of typhoons, and winter is chilly and damp. Avoid the national holiday weeks for fewer crowds at the main sights."
 featured: false
 draft: false
 tags:

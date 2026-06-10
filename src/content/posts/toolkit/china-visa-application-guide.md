@@ -3,6 +3,15 @@ author: Roam China Travel Editorial Team
 pubDatetime: 2026-05-02T08:00:00Z
 modDatetime: 2026-05-02T10:00:00Z
 title: "China Tourist Visa Application Guide 2026: Step-by-Step for Every Nationality"
+faq:
+  - question: "Do I need a visa to visit China in 2026?"
+    answer: "It depends on your nationality and itinerary. Many travellers now qualify for visa-free entry of up to 15 or 30 days, or the 144-hour transit visa-free scheme, while others still need a tourist (L) visa arranged in advance. Check your nationality's current eligibility before assuming you need a visa."
+  - question: "How do I apply for a China tourist visa?"
+    answer: "You apply through the Chinese visa centre (CVASC) or embassy serving your country: complete the online application form, gather your passport, photo, flight and hotel bookings and an itinerary, then submit in person or by post and pay the fee. Processing typically takes about four to seven working days, with express options at some centres."
+  - question: "What documents do I need for a China visa application?"
+    answer: "Usually a passport valid for at least six months with blank pages, a completed application form, a recent passport photo to spec, proof of round-trip flights, hotel reservations or an invitation letter, and sometimes proof of funds or employment. Requirements vary slightly by country, so check your local visa centre's checklist."
+  - question: "How long does a China tourist visa take to process?"
+    answer: "Standard processing is generally around four working days once your application is accepted, plus postage time if you apply by mail. Express and rush services can shorten this at some visa centres for an extra fee. Apply two to four weeks before travel to be safe."
 featured: false
 draft: false
 tags:

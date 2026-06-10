@@ -3,6 +3,15 @@ author: Roam China Travel Editorial Team
 pubDatetime: 2026-05-24T08:00:00Z
 modDatetime: 2026-05-24T08:00:00Z
 title: "2 Weeks in China: The Ultimate Independent Itinerary for First-Timers"
+faq:
+  - question: "Is two weeks enough time to visit China?"
+    answer: "Two weeks is a great length for a first trip — enough to cover the classic highlights without rushing. A common route is Beijing, Xi'an, a scenic stop like Guilin or Zhangjiajie, and Shanghai, linked by high-speed train and the odd internal flight. China is huge, so focus on a region rather than trying to see everything."
+  - question: "What is a good 2-week China itinerary for first-timers?"
+    answer: "A reliable first-timer loop is Beijing (Great Wall, Forbidden City) for 3-4 days, Xi'an (Terracotta Army) for 2, a landscape highlight such as Guilin-Yangshuo or Zhangjiajie for 2-3, and Shanghai for 3, with day trips to Suzhou or Hangzhou. High-speed trains connect them efficiently."
+  - question: "How much does two weeks in China cost?"
+    answer: "Independent mid-range travel runs roughly 500-900 yuan per person per day for hotels, food, transport and sights, so a two-week trip often lands in the region of a few thousand US dollars per person plus international flights. Budget travel can be far cheaper, and luxury much more."
+  - question: "How do you get around China on a two-week trip?"
+    answer: "High-speed trains are the backbone — fast, comfortable and city-centre to city-centre — supplemented by the occasional internal flight for long hops like Beijing to Guilin. Within cities, use the metro and DiDi, and book intercity trains a couple of weeks ahead for popular routes."
 featured: true
 draft: false
 tags:

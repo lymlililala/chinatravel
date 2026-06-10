@@ -3,6 +3,15 @@ author: Roam China Travel Editorial Team
 pubDatetime: 2025-02-15T08:00:00Z
 modDatetime: 2026-05-01T10:00:00Z
 title: "Chengdu Travel Guide: Giant Pandas, Sichuan Hotpot & a City That Knows How to Live"
+faq:
+  - question: "How many days do you need in Chengdu?"
+    answer: "Three days suits most visitors: a morning at the Giant Panda Breeding Base, a day for the city's teahouses, temples and Jinli and Kuanzhai old streets, and a day trip to the Leshan Giant Buddha or Mount Emei. Add more time to use Chengdu as a base for western Sichuan."
+  - question: "What is the best time to see the pandas in Chengdu?"
+    answer: "Visit the Giant Panda Breeding Base early in the morning, ideally right at opening, when the pandas are most active during feeding before the midday heat makes them sleepy. Cooler months also keep them livelier. Book ahead and arrive early to avoid the biggest crowds."
+  - question: "What food is Chengdu famous for?"
+    answer: "Chengdu is a UNESCO City of Gastronomy famous for fiery Sichuan cuisine: bubbling mala hotpot, mapo tofu, dan dan noodles, kung pao chicken and countless street snacks, all defined by the tongue-tingling Sichuan peppercorn. The teahouse culture is part of the experience too."
+  - question: "Is Chengdu a good base for exploring Sichuan?"
+    answer: "Yes. Chengdu is the gateway to western Sichuan, with easy connections to the Leshan Giant Buddha, Mount Emei, Jiuzhaigou and the Tibetan-edge highlands. Its airport and high-speed rail links make it the natural hub for a wider Sichuan trip."
 featured: false
 draft: false
 tags:

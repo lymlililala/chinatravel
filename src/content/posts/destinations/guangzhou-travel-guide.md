@@ -3,6 +3,15 @@ author: Roam China Travel Editorial Team
 pubDatetime: 2026-04-24T08:00:00Z
 modDatetime: 2026-05-20T10:00:00Z
 title: "Guangzhou Travel Guide: Cantonese Food, Old Town Canton & Pearl River"
+faq:
+  - question: "What is Guangzhou known for?"
+    answer: "Guangzhou, historically known as Canton, is famous for Cantonese cuisine and dim sum, its Pearl River waterfront, the colonial-era island of Shamian, the Canton Tower, and as southern China's trade and business hub home to the giant Canton Fair. It's a food-lover's city with a long international history."
+  - question: "How many days do you need in Guangzhou?"
+    answer: "Two days covers the highlights: a day for dim sum, Shamian Island, the old town and a Pearl River cruise, and a day for the Canton Tower, Yuexiu Park and the city's modern districts. It also pairs well with day trips to Foshan or Shenzhen."
+  - question: "What food should I try in Guangzhou?"
+    answer: "Guangzhou is the home of Cantonese cooking, so start with a proper dim sum (yum cha) breakfast, then try roast goose, steamed seafood, claypot rice and morning rice noodle rolls. The city's emphasis on fresh, delicate flavours makes it one of China's best eating destinations."
+  - question: "Is Guangzhou worth visiting for tourists?"
+    answer: "Yes, especially for food and a less touristy big-city experience. While it has fewer marquee monuments than Beijing or Xi'an, Guangzhou rewards visitors with superb Cantonese cuisine, the charming Shamian Island, riverfront views and easy high-speed links to Hong Kong and the wider Pearl River Delta."
 featured: false
 draft: false
 tags:
