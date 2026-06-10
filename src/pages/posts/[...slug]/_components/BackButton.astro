@@ -11,7 +11,7 @@ const t = useTranslations(locale);
 
 {
   config.features.showBackButton && (
-    <div class="app-layout flex items-center justify-start">
+    <div class="mx-auto flex w-full max-w-7xl items-center justify-start px-4 sm:px-6">
       <LinkButton
         id="back-button"
         href={getRelativeLocaleUrl(locale, "")}
