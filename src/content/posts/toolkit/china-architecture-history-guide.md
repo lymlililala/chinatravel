@@ -1,5 +1,5 @@
 ---
-title: "China Architecture Guide: Reading 4,000 Years of Building History"
+title: "Chinese Architecture Guide 2026: Types, History & Where to See Each Style"
 faq:
   - question: "What are the main types of traditional Chinese architecture?"
     answer: "The main categories are imperial palaces such as the Forbidden City, religious buildings including Buddhist and Taoist temples and pagodas, defensive structures like the Great Wall and city walls, classical gardens such as Suzhou's scholar gardens, and vernacular dwellings such as the Hakka tulou and Beijing's courtyard hutongs. Each follows principles of symmetry, timber framing and harmony with the landscape."

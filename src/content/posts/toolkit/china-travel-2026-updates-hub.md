@@ -12,7 +12,6 @@ tags:
   - "2026"
   - itinerary
 description: "Your 2026 China travel hub — the latest visa-free policy updates, the full public-holiday and festival calendar (Spring Festival, Golden Week, cherry blossom season), and the practical changes every international traveller should know before booking."
-ogImage: "/destinations/beijing.jpg"
 faq:
   - question: "What's new for travelling to China in 2026?"
     answer: "The headline change is the continued expansion of visa-free entry: many nationalities can now visit for up to 30 days without a visa, and the transit visa-free scheme has been extended to 240 hours (10 days) at eligible ports. Mobile payment for foreigners (linking Visa/Mastercard to Alipay and WeChat Pay) is also far smoother than a couple of years ago."
