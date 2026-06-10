@@ -61,4 +61,4 @@ Qingdao has six main beaches along its southern coast:
 
 **Stay**: The old city area (Zhongshan Road district) is the most interesting base — boutique hotels in converted colonial buildings.
 
-*Also see: [Shandong Travel Guide](/posts/destinations/shandong-jinan-tai-shan-guide/) | [China Coastal Cities Guide](/posts/destinations/china-coastal-cities-guide/)*
+*Also see: [Shandong Travel Guide](/posts/destinations/jinan-mount-tai-shandong-guide/) | [China Coastal Cities Guide](/posts/destinations/sanya-beach-guide/)*

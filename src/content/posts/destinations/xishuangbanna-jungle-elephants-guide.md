@@ -53,4 +53,4 @@ Book accommodation 6–8 weeks in advance for Water Splashing Festival period.
 
 **From Laos**: Border crossing at Mohan (磨憨) connects to Boten, Laos — the starting point of the Laos-China HSR. This creates an unusual overland option: Chengdu → Kunming → Jinghong → Mohan → Laos → Thailand by train and bus.
 
-*Also see: [Yunnan Complete Guide](/posts/destinations/yunnan-complete-guide/) | [Yunnan Minorities Culture Guide](/posts/destinations/yunnan-ethnic-minorities-guide/) | [China-Southeast Asia Border Guide](/posts/toolkit/china-southeast-asia-border-crossing-guide/)*
+*Also see: [Yunnan Complete Guide](/posts/destinations/yunnan-lijiang-shangri-la-full-guide/) | [Yunnan Minorities Culture Guide](/posts/destinations/yunnan-ethnic-minorities-culture-guide/) | [China-Southeast Asia Border Guide](/posts/toolkit/china-border-crossing-guide/)*

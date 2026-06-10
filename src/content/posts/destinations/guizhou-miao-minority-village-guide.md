@@ -54,4 +54,4 @@ Rongjiang's weekly market (held every 5 days on the Dong calendar) gathers Dong,
 
 **Festival timing**: Miao New Year (苗年, date varies by village) and the Lusheng Festival are the most spectacular cultural events. 
 
-*Also see: [Guizhou Travel Guide](/posts/destinations/guizhou-kaili-miao-dong-guide/) | [Yunnan Minorities Guide](/posts/destinations/yunnan-ethnic-minorities-guide/) | [China Minority Culture Guide](/posts/destinations/china-ethnic-minorities-guide/)*
+*Also see: [Guizhou Travel Guide](/posts/destinations/guizhou-miao-dong-culture-guide/) | [Yunnan Minorities Guide](/posts/destinations/yunnan-ethnic-minorities-culture-guide/) | [China Minority Culture Guide](/posts/toolkit/china-minority-culture-guide/)*

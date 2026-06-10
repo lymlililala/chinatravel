@@ -51,4 +51,4 @@ Kaifeng's night market (鼓楼夜市) is considered the best in Henan province �
 
 **Dengfeng from Zhengzhou**: 1.5 hours by bus. No direct HSR.
 
-*Also see: [Luoyang Peony Festival Guide](/posts/destinations/henan-luoyang-peony-festival-guide/) | [Zhengzhou Henan Guide](/posts/destinations/zhengzhou-kaifeng-luoyang-guide/) | [China Martial Arts Culture Guide](/posts/destinations/china-martial-arts-culture-guide/)*
+*Also see: [Luoyang Peony Festival Guide](/posts/destinations/henan-luoyang-peony-festival-guide/) | [Zhengzhou Henan Guide](/posts/destinations/zhengzhou-kaifeng-luoyang-guide/) | [China Martial Arts Culture Guide](/posts/toolkit/china-wudang-martial-arts-guide/)*

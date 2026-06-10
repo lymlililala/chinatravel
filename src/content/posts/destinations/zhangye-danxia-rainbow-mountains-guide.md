@@ -72,4 +72,4 @@ Xi'an → Lanzhou → Zhangye (Danxia) → Jiayuguan (last Great Wall pass) → 
 
 This 10–14 day circuit represents one of China's most historically and visually extraordinary travel routes — the full Silk Road corridor from the Tang dynasty capital to the Xinjiang border.
 
-*Also see: [Gansu Silk Road Guide](/posts/destinations/gansu-silk-road-complete-guide/) | [Dunhuang Mogao Caves Guide](/posts/destinations/dunhuang-mogao-caves-crescent-lake-guide/) | [Jiayuguan Great Wall Guide](/posts/destinations/jiayuguan-great-wall-desert-guide/)*
+*Also see: [Gansu Silk Road Guide](/posts/destinations/gansu-silk-road-zhangye-guide/) | [Dunhuang Mogao Caves Guide](/posts/destinations/dunhuang-mogao-caves-silk-road-guide/) | Jiayuguan Great Wall Guide*

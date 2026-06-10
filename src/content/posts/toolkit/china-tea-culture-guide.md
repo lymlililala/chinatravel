@@ -74,4 +74,4 @@ The tea tourist scam is one of China's most common — friendly strangers invite
 3. **Ask for tasting before buying** — legitimate shops always allow this
 4. **Learn the approximate price ranges**: Grade-A Longjing from Longjing Village is ¥300–1,000 per 250g; if you're paying ¥5,000 you're paying tourist markup
 
-*Also see: [Hangzhou West Lake Guide](/posts/destinations/hangzhou-west-lake-guide/) | [Fujian Tea Guide](/posts/destinations/fujian-wuyi-mountain-tea-guide/) | [China Shopping Guide](/posts/toolkit/china-shopping-what-to-buy-guide/)*
+*Also see: [Hangzhou West Lake Guide](/posts/destinations/hangzhou-west-lake-guide/) | [Fujian Tea Guide](/posts/destinations/fujian-wuyi-mountain-oolong-guide/) | [China Shopping Guide](/posts/toolkit/china-shopping-what-to-buy-guide/)*

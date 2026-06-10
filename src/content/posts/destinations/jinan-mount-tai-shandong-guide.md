@@ -69,4 +69,4 @@ Taishan's cliff faces are covered in inscribed text accumulated over 2,500 years
 
 **Accommodation**: Stay in Taishan city (extensive hotel options) or at the summit (mountain guesthouses, cold but memorable for overnight visits).
 
-*Also see: [China Hiking Guide](/posts/toolkit/china-hiking-trails-best-guide/) | [Shandong Jinan Qingdao Guide](/posts/destinations/shandong-jinan-tai-shan-guide/) | [China Mountains Sacred Sites](/posts/destinations/china-sacred-mountains-guide/)*
+*Also see: [China Hiking Guide](/posts/toolkit/china-hiking-trails-best-guide/) | Shandong Jinan Qingdao Guide | [China Mountains Sacred Sites](/posts/toolkit/china-buddhist-sacred-mountains-guide/)*

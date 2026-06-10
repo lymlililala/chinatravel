@@ -61,4 +61,4 @@ Xinjiang requires additional documentation processes for foreign visitors that m
 
 **Transport**: Flights to Urumqi from major Chinese cities (2–3 hours). Urumqi to Kashgar: 25 hours by train or 1.5-hour flight.
 
-*Also see: [Xinjiang Complete Guide](/posts/destinations/xinjiang-complete-guide/) | [Silk Road Gansu Guide](/posts/destinations/gansu-silk-road-complete-guide/) | [Zhangye Danxia Rainbow Mountains Guide](/posts/destinations/zhangye-danxia-rainbow-mountains-guide/)*
+*Also see: [Xinjiang Complete Guide](/posts/destinations/xinjiang-complete-guide/) | [Silk Road Gansu Guide](/posts/destinations/gansu-silk-road-zhangye-guide/) | [Zhangye Danxia Rainbow Mountains Guide](/posts/destinations/zhangye-danxia-rainbow-mountains-guide/)*

@@ -52,4 +52,4 @@ The Potala Palace — the winter palace of the Dalai Lamas, visible from everywh
 
 All visits to Tibet require a Tibet Travel Permit (西藏旅游许可证) in addition to a Chinese visa. This must be arranged through a licensed Tibet travel agency before booking flights to Lhasa. [Full Tibet permit guide](/posts/toolkit/tibet-permit-travel-guide-foreigners/).
 
-*Also see: [Tibet Everest Base Camp Guide](/posts/destinations/tibet-everest-base-camp-guide/) | [Tibet Lhasa Complete Guide](/posts/destinations/tibet-lhasa-complete-guide/) | [China Buddhist Heritage Guide](/posts/destinations/china-buddhist-temples-guide/)*
+*Also see: [Tibet Everest Base Camp Guide](/posts/destinations/tibet-everest-base-camp-guide/) | [Tibet Lhasa Complete Guide](/posts/destinations/tibet-lhasa-complete-guide/) | [China Buddhist Heritage Guide](/posts/toolkit/china-buddhist-sacred-mountains-guide/)*

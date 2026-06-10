@@ -51,4 +51,4 @@ Black-faced spoonbill, Saunders's gull, bar-tailed godwit, red-necked stint — 
 
 All areas accessible by MTR or bus from Kowloon and Hong Kong Island. The MTR East Rail line (境外郵輪碼頭 → Lo Wu / Lok Ma Chau) serves the northern New Territories. Minibuses serve remote coastal areas not on the MTR.
 
-*Also see: [Hong Kong Complete Guide](/posts/destinations/hong-kong-complete-guide/) | [Hong Kong Kowloon Guide](/posts/destinations/hong-kong-kowloon-guide/) | [Hong Kong Day Trips Guide](/posts/destinations/hong-kong-day-trips-guide/)*
+*Also see: [Hong Kong Complete Guide](/posts/destinations/hong-kong-travel-guide/) | [Hong Kong Kowloon Guide](/posts/destinations/hong-kong-kowloon-guide/) | Hong Kong Day Trips Guide*

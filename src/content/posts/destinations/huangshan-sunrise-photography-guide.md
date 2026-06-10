@@ -61,4 +61,4 @@ The canyon section provides the most vertigo-inducing walking on the mountain �
 
 **What to bring for overnight**: Warm layer even in summer (summit temperatures 10–15°C colder than base), headlamp, camera tripod (if serious photographer), rain cover for gear.
 
-*Also see: [Huangshan Complete Guide](/posts/destinations/huangshan-yellow-mountain-hongcun-guide/) | [Anhui Hongcun Village Guide](/posts/destinations/anhui-hongcun-xidi-village-guide/) | [China Photography Destinations Guide](/posts/destinations/china-photography-destinations-guide/)*
+*Also see: [Huangshan Complete Guide](/posts/destinations/huangshan-complete-visit-guide/) | Anhui Hongcun Village Guide | [China Photography Destinations Guide](/posts/toolkit/china-photography-tips-landscape-guide/)*

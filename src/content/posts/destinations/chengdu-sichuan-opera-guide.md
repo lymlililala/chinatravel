@@ -54,4 +54,4 @@ Historically, Sichuan Opera was performed in teahouses rather than formal theatr
 
 **The tradition**: Before the performance, an ear-cleaning (采耳) session at your table, a pot of green tea, and the gradual filling of the teahouse as the show time approaches represents the original experience that has been happening in Chengdu for 200+ years.
 
-*Also see: [Chengdu Food Street Guide](/posts/destinations/chengdu-food-street-guide/) | [Chengdu Wide and Narrow Lanes Guide](/posts/destinations/chengdu-wide-narrow-lanes-guide/) | [China Cultural Performances Guide](/posts/toolkit/china-cultural-performances-guide/)*
+*Also see: [Chengdu Food Street Guide](/posts/destinations/chengdu-food-street-guide/) | [Chengdu Wide and Narrow Lanes Guide](/posts/destinations/chengdu-wide-narrow-lanes-guide/) | [China Cultural Performances Guide](/posts/toolkit/china-etiquette-customs-guide/)*

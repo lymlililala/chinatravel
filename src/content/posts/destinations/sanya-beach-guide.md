@@ -82,4 +82,4 @@ Compared to Southeast Asian alternatives (Phuket, Bali, Boracay), Sanya offers a
 
 **Sanya's advantage**: Chinese-language comfort for Chinese visitors; good value for domestic flights; no visa issues for Chinese nationals. For international visitors, Sanya is a different experience from Southeast Asia — worth visiting as a China holiday component, but not a direct substitute for the Southeast Asian destinations.
 
-*Also see: [Hainan Island Guide](/posts/destinations/hainan-island-complete-guide/) | [China Summer Travel Guide](/posts/toolkit/china-summer-travel-guide/) | [China Beach Destinations Guide](/posts/destinations/china-beach-destinations-guide/)*
+*Also see: [Hainan Island Guide](/posts/destinations/hainan-island-complete-guide/) | [China Summer Travel Guide](/posts/toolkit/china-summer-travel-guide/) | China Beach Destinations Guide*

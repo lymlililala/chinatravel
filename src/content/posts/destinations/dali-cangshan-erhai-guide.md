@@ -78,4 +78,4 @@ The Bai people are the ethnic majority in the Dali area — their language, arch
 
 **Bai food**: Slightly different from mainstream Yunnan food — more dairy products (Yunnan milk cheese, rubing 乳饼), more river fish, and some Central Asian trade route influences in the spice use.
 
-*Also see: [Yunnan Dali Lijiang Guide](/posts/destinations/yunnan-dali-lijiang-complete-guide/) | [Yunnan Lijiang Shangri-La Route](/posts/destinations/yunnan-lijiang-shangri-la-full-guide/) | [Yunnan Travel Guide](/posts/destinations/yunnan-complete-guide/)*
+*Also see: [Yunnan Dali Lijiang Guide](/posts/destinations/yunnan-lijiang-shangri-la-full-guide/) | Yunnan Lijiang Shangri-La Route | Yunnan Travel Guide*
