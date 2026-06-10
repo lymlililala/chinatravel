@@ -32,6 +32,38 @@ const rssHref = getRelativeLocaleUrl(
   Astro.currentLocale ?? config.site.lang,
   "rss.xml"
 );
+
+// Sitewide Organization + WebSite structured data (E-E-A-T / brand signals)
+const siteUrl = config.site.url.replace(/\/$/, "");
+const orgSchema = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": `${siteUrl}/#organization`,
+      name: config.site.title,
+      url: `${siteUrl}/`,
+      logo: `${siteUrl}/${config.site.ogImage}`,
+      description: config.site.description,
+    },
+    {
+      "@type": "WebSite",
+      "@id": `${siteUrl}/#website`,
+      name: config.site.title,
+      url: `${siteUrl}/`,
+      publisher: { "@id": `${siteUrl}/#organization` },
+      inLanguage: config.site.lang,
+      potentialAction: {
+        "@type": "SearchAction",
+        target: {
+          "@type": "EntryPoint",
+          urlTemplate: `${siteUrl}/search/?q={search_term_string}`,
+        },
+        "query-input": "required name=search_term_string",
+      },
+    },
+  ],
+};
 ---
 
 <!doctype html>
@@ -48,6 +80,11 @@ const rssHref = getRelativeLocaleUrl(
     <link rel="canonical" href={canonicalURL} />
     {noindex && <meta name="robots" content="noindex, follow" />}
     <meta name="generator" content={Astro.generator} />
+    <script
+      type="application/ld+json"
+      is:inline
+      set:html={JSON.stringify(orgSchema)}
+    />
 
     <!-- Fonts -->
     <Font
