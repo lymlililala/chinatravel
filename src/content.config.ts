@@ -21,6 +21,11 @@ const posts = defineCollection({
       canonicalURL: z.string().optional(),
       hideEditPost: z.boolean().optional(),
       timezone: z.string().optional(),
+      // Optional Q&A block — rendered as a visible FAQ section and emitted as
+      // FAQPage structured data (rich results + AI/GEO citation).
+      faq: z
+        .array(z.object({ question: z.string(), answer: z.string() }))
+        .optional(),
     }),
 });
 

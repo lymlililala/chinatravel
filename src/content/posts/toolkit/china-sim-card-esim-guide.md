@@ -12,6 +12,17 @@ tags:
   - planning
 description: "Mobile data in China for foreign visitors — buying a local SIM on arrival (China Unicom 'Tourist SIM' at major airports, ¥100-200 for 30 days), using an international roaming SIM (expensive but setup-free), Hong Kong SIM cards that work in mainland China, eSIM options for 2026, and the relationship between your SIM and Alipay/WeChat (they need separate verification)."
 ogImage: "https://images.unsplash.com/photo-1537944434965-cf4679d1a598?w=1200&q=85"
+faq:
+  - question: "What is the best travel SIM card for China?"
+    answer: "For most visitors the China Unicom Tourist SIM bought at the airport is the easiest option — around ¥99–200 for 20–100GB over 30 days, activated on the spot with your passport. If you would rather arrive already connected, a travel eSIM from a provider like Airalo or Holafly works the moment you land and routes around the Great Firewall, which a local SIM does not."
+  - question: "How do I get a Chinese eSIM as a tourist?"
+    answer: "You do not buy it in China — install it before you travel. Download an eSIM app (Airalo, Holafly, Nomad or similar), pick a China or Asia data plan, pay, and scan the QR code it sends you. Your phone must be eSIM-compatible and carrier-unlocked. Many travel eSIMs connect through a Hong Kong or Singapore gateway, so popular apps like Google Maps, WhatsApp and Instagram work without a separate VPN."
+  - question: "Can I buy a China tourist SIM card at the airport?"
+    answer: "Yes. China Unicom, China Mobile and China Telecom all run counters in the arrivals halls of major airports including Beijing, Shanghai Pudong, Guangzhou and Chengdu. Bring your passport for the mandatory registration; the whole process takes about 10–15 minutes. Counters at smaller airports can keep shorter hours, so an eSIM is a useful backup for late-night arrivals."
+  - question: "Will a China SIM card let me use Google, WhatsApp and Instagram?"
+    answer: "A local Chinese SIM connects to networks behind the Great Firewall, so Google, WhatsApp, Instagram and similar services stay blocked unless you install a VPN before you arrive. Most international travel eSIMs and Hong Kong SIMs instead route your data outside mainland China, so those apps work normally with no VPN needed."
+  - question: "Does one SIM card work in both mainland China and Hong Kong?"
+    answer: "A mainland Chinese SIM works in Hong Kong only with roaming, and a Hong Kong SIM used in the mainland roams onto Chinese networks — usefully, that roaming traffic is not filtered, so blocked apps keep working. If you are visiting both, a regional eSIM that covers China and Hong Kong, or a Hong Kong SIM with mainland roaming, is the most convenient single option."
 ---
 
 Getting mobile data sorted on arrival in China is one of the most important things you can do for your trip. Without a working data connection, you can't use DiDi (no taxis), can't use Alipay or WeChat Pay (payment problems), can't use maps (getting lost), and can't use translation apps (language barrier). It takes about 15 minutes at the airport SIM counter and makes everything dramatically easier.

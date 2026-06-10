@@ -9,12 +9,20 @@ type Props = {
   canonicalURL?: string;
   pubDatetime?: Date;
   modDatetime?: Date | null;
+  faq?: { question: string; answer: string }[];
 };
 
 const { site } = config;
 
-const { title, description, ogImage, canonicalURL, pubDatetime, modDatetime } =
-  Astro.props;
+const {
+  title,
+  description,
+  ogImage,
+  canonicalURL,
+  pubDatetime,
+  modDatetime,
+  faq,
+} = Astro.props;
 
 const structuredData = {
   "@context": "https://schema.org",
@@ -31,6 +39,19 @@ const structuredData = {
     },
   ],
 };
+
+const faqStructuredData =
+  faq && faq.length
+    ? {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        mainEntity: faq.map(item => ({
+          "@type": "Question",
+          name: item.question,
+          acceptedAnswer: { "@type": "Answer", text: item.answer },
+        })),
+      }
+    : null;
 ---
 
 <Layout {title} {description} {ogImage} {canonicalURL}>
@@ -60,6 +81,15 @@ const structuredData = {
       is:inline
       set:html={JSON.stringify(structuredData)}
     />
+    {
+      faqStructuredData && (
+        <script
+          type="application/ld+json"
+          is:inline
+          set:html={JSON.stringify(faqStructuredData)}
+        />
+      )
+    }
   </Fragment>
 
   <slot />
