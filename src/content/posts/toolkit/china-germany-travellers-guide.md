@@ -92,4 +92,4 @@ Germany is China's largest European trading partner. The business travel infrast
 
 **The efficiency**: China's high-speed rail system, digital payment infrastructure, and urban transit are notably more advanced than their German equivalents in 2026. The HSR from Beijing to Shanghai (5 hours, 1,318km) is often cited by German visitors as the most impressive single transportation experience in China.
 
-*See also: [China Visa-Free Countries Guide](/posts/toolkit/china-visa-free-countries-2026/) | [WeChat Alipay Setup Guide](/posts/toolkit/china-digital-payment-foreigners-guide/) | [China High Speed Train Guide](/posts/toolkit/china-high-speed-train-guide-foreigners/)*
+*See also: [China Visa-Free Countries Guide](/posts/toolkit/china-visa-free-countries-2026/) | [WeChat Alipay Setup Guide](/posts/toolkit/china-digital-payment-foreigners-guide/) | [China High Speed Train Guide](/posts/toolkit/china-bullet-train-hsr-comprehensive-guide/)*

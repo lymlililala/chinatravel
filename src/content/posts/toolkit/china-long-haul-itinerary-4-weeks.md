@@ -113,4 +113,4 @@ Beijing (4 days) → Xi'an (3 days) → Chengdu (3 days) → Chongqing (1 day) �
 | Dali – Lijiang | HSR | 1 hour | ¥80 |
 | Lijiang – HK/Shanghai | Flight | 2.5–3 hours | ¥500–1,200 |
 
-*Also see: [Beijing 3-Day Itinerary](/posts/toolkit/beijing-3-day-itinerary/) | [7-Day Xi'an Chengdu Chongqing](/posts/toolkit/xian-chengdu-chongqing-7-day-itinerary/) | [China High Speed Train Guide](/posts/toolkit/china-high-speed-train-guide-foreigners/)*
+*Also see: [Beijing 3-Day Itinerary](/posts/toolkit/beijing-3-day-itinerary/) | [7-Day Xi'an Chengdu Chongqing](/posts/toolkit/xian-chengdu-chongqing-7-day-itinerary/) | [China High Speed Train Guide](/posts/toolkit/china-bullet-train-hsr-comprehensive-guide/)*

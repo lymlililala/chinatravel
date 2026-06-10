@@ -64,7 +64,7 @@ If you arrive without proper cold-weather gear, Harbin's market areas sell cheap
 
 **The Zhaolin Park ice sculptures** (older, central park venue) have a more artistic and intimate character than the massive Ice and Snow World theme park. Do both.
 
-**How long to stay:** 2 nights allows both venues plus the Siberian Tiger Park and the Russian-influenced old city architecture. [Full Harbin guide here](/posts/destinations/harbin-ice-festival-guide/).
+**How long to stay:** 2 nights allows both venues plus the Siberian Tiger Park and the Russian-influenced old city architecture. [Full Harbin guide here](/posts/toolkit/china-harbin-ice-festival-guide-2026/).
 
 ---
 
@@ -158,4 +158,4 @@ The holiday is celebrated for 15 days, with the peak travel period running from 
 
 ---
 
-*Also see: [Best Time to Visit China](/posts/toolkit/best-time-to-visit-china/) | [Harbin Ice Festival Guide](/posts/destinations/harbin-ice-festival-guide/) | [China Packing List Guide](/posts/toolkit/china-packing-list-guide/)*
+*Also see: [Best Time to Visit China](/posts/toolkit/best-time-to-visit-china/) | [Harbin Ice Festival Guide](/posts/toolkit/china-harbin-ice-festival-guide-2026/) | [China Packing List Guide](/posts/toolkit/china-packing-list-guide/)*

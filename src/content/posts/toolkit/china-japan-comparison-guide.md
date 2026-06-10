@@ -86,4 +86,4 @@ Days 13–14: Osaka → fly home
 
 **If budget is constrained**: China — same trip budget goes significantly further.
 
-*See also: [China 4-Week Grand Tour Itinerary](/posts/toolkit/china-long-haul-itinerary-4-weeks/) | [China Visa-Free Countries Guide](/posts/toolkit/china-visa-free-countries-2026/) | [China Transport Guide](/posts/toolkit/china-high-speed-train-guide-foreigners/)*
+*See also: [China 4-Week Grand Tour Itinerary](/posts/toolkit/china-long-haul-itinerary-4-weeks/) | [China Visa-Free Countries Guide](/posts/toolkit/china-visa-free-countries-2026/) | [China Transport Guide](/posts/toolkit/china-bullet-train-hsr-comprehensive-guide/)*

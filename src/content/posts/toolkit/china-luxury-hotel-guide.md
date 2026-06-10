@@ -60,4 +60,4 @@ The most interesting hotel experiences in China in 2026 are the small boutique h
 - **Anji Bamboo Forest Hotels (安吉)**: The area that filmed Ang Lee's "Crouching Tiger Hidden Dragon" has developed a sophisticated rural luxury hotel circuit in converted farm buildings surrounded by bamboo
 - **Moganshan (莫干山) Hill Stations**: The historic foreign summer retreat in the Zhejiang hills has several exceptional small properties in 1920s stone villas
 
-*Also see: [China Accommodation Budget Guide](/posts/toolkit/china-accommodation-guide/) | [China Boutique Hotel Guide](/posts/toolkit/china-boutique-hotel-guide/) | [Hangzhou West Lake Guide](/posts/destinations/west-lake-hangzhou-complete-guide/)*
+*Also see: [China Accommodation Budget Guide](/posts/toolkit/china-accommodation-guide/) | [China Boutique Hotel Guide](/posts/toolkit/china-boutique-hotel-guide/) | [Hangzhou West Lake Guide](/posts/destinations/hangzhou-west-lake-guide/)*

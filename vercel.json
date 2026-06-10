@@ -1,6 +1,226 @@
 {
   "redirects": [
     {
+      "source": "/posts/toolkit/china-12306-train-booking-guide",
+      "destination": "/posts/toolkit/china-train-booking-guide-foreigners/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-12306-train-booking-guide/",
+      "destination": "/posts/toolkit/china-train-booking-guide-foreigners/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-train-booking-12306-guide",
+      "destination": "/posts/toolkit/china-train-booking-guide-foreigners/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-train-booking-12306-guide/",
+      "destination": "/posts/toolkit/china-train-booking-guide-foreigners/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-high-speed-train-booking-guide",
+      "destination": "/posts/toolkit/china-train-booking-guide-foreigners/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-high-speed-train-booking-guide/",
+      "destination": "/posts/toolkit/china-train-booking-guide-foreigners/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-high-speed-train-guide-foreigners",
+      "destination": "/posts/toolkit/china-bullet-train-hsr-comprehensive-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-high-speed-train-guide-foreigners/",
+      "destination": "/posts/toolkit/china-bullet-train-hsr-comprehensive-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-train-seat-classes-explained",
+      "destination": "/posts/toolkit/china-train-classes-explained-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-train-seat-classes-explained/",
+      "destination": "/posts/toolkit/china-train-classes-explained-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-chinese-new-year-guide-travel",
+      "destination": "/posts/toolkit/china-spring-festival-how-to-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-chinese-new-year-guide-travel/",
+      "destination": "/posts/toolkit/china-spring-festival-how-to-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-chinese-new-year-guide",
+      "destination": "/posts/toolkit/china-spring-festival-how-to-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-chinese-new-year-guide/",
+      "destination": "/posts/toolkit/china-spring-festival-how-to-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-spring-festival-lunar-new-year-travel",
+      "destination": "/posts/toolkit/china-spring-festival-how-to-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-spring-festival-lunar-new-year-travel/",
+      "destination": "/posts/toolkit/china-spring-festival-how-to-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/beijing-metro-complete-guide",
+      "destination": "/posts/toolkit/beijing-subway-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/beijing-metro-complete-guide/",
+      "destination": "/posts/toolkit/beijing-subway-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/chengdu-metro-subway-guide",
+      "destination": "/posts/toolkit/chengdu-metro-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/chengdu-metro-subway-guide/",
+      "destination": "/posts/toolkit/chengdu-metro-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/guangzhou-metro-guide",
+      "destination": "/posts/toolkit/guangzhou-metro-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/guangzhou-metro-guide/",
+      "destination": "/posts/toolkit/guangzhou-metro-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/shanghai-metro-guide",
+      "destination": "/posts/toolkit/shanghai-metro-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/shanghai-metro-guide/",
+      "destination": "/posts/toolkit/shanghai-metro-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/shenzhen-metro-complete-guide",
+      "destination": "/posts/toolkit/shenzhen-metro-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/shenzhen-metro-complete-guide/",
+      "destination": "/posts/toolkit/shenzhen-metro-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/west-lake-hangzhou-complete-guide",
+      "destination": "/posts/destinations/hangzhou-west-lake-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/west-lake-hangzhou-complete-guide/",
+      "destination": "/posts/destinations/hangzhou-west-lake-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/hangzhou-longjing-tea-culture",
+      "destination": "/posts/destinations/hangzhou-longjing-tea-village-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/hangzhou-longjing-tea-culture/",
+      "destination": "/posts/destinations/hangzhou-longjing-tea-village-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/hangzhou-tea-culture-longjing-guide",
+      "destination": "/posts/destinations/hangzhou-longjing-tea-village-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/hangzhou-tea-culture-longjing-guide/",
+      "destination": "/posts/destinations/hangzhou-longjing-tea-village-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/harbin-ice-festival-guide",
+      "destination": "/posts/toolkit/china-harbin-ice-festival-guide-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/harbin-ice-festival-guide/",
+      "destination": "/posts/toolkit/china-harbin-ice-festival-guide-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/heilongjiang-harbin-ice-festival-guide",
+      "destination": "/posts/toolkit/china-harbin-ice-festival-guide-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/heilongjiang-harbin-ice-festival-guide/",
+      "destination": "/posts/toolkit/china-harbin-ice-festival-guide-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-backpacking-budget-guide",
+      "destination": "/posts/toolkit/china-backpacking-budget-guide-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-backpacking-budget-guide/",
+      "destination": "/posts/toolkit/china-backpacking-budget-guide-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-budget-backpacker-guide",
+      "destination": "/posts/toolkit/china-backpacking-budget-guide-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-budget-backpacker-guide/",
+      "destination": "/posts/toolkit/china-backpacking-budget-guide-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-shopping-souvenirs-guide",
+      "destination": "/posts/toolkit/china-shopping-souvenirs-authentic-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-shopping-souvenirs-guide/",
+      "destination": "/posts/toolkit/china-shopping-souvenirs-authentic-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-souvenir-authentic-guide",
+      "destination": "/posts/toolkit/china-shopping-souvenirs-authentic-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-souvenir-authentic-guide/",
+      "destination": "/posts/toolkit/china-shopping-souvenirs-authentic-guide/",
+      "permanent": true
+    },
+    {
       "source": "/posts/destinations/emeishan-complete-guide",
       "destination": "/posts/destinations/sichuan-emei-mountain-guide/",
       "permanent": true
