@@ -20,6 +20,11 @@ const { page } = Astro.props;
 const locale = Astro.currentLocale ?? config.site.lang;
 const t = useTranslations(locale);
 
+// Noindex pagination beyond page 1 — "/posts/2/" and on are low-value,
+// duplicative listing pages. Page 1 (/posts/) stays indexed. Mirrors the
+// sitemap exclusion in astro.config.ts.
+const noindex = page.currentPage > 1;
+
 // Filter tabs
 const filterTabs = [
   { label: "All Guides",   tag: null,            emoji: "📚" },
@@ -31,7 +36,7 @@ const filterTabs = [
 ];
 ---
 
-<Layout title={`${t.pages.postsTitle} | ${config.site.title}`}>
+<Layout title={`${t.pages.postsTitle} | ${config.site.title}`} noindex={noindex}>
   <Header />
 
   <main id="main-content" class="pb-0">

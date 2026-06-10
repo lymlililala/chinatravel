@@ -45,6 +45,11 @@ export default defineConfig({
         if (/\/tags\/[^/]+\/\d+\/?$/.test(page)) {
           return false;
         }
+        // Drop main article-listing pagination (/posts/2/, /posts/3/, …).
+        // Article pages live under /posts/<section>/<slug>/ so they are safe.
+        if (/\/posts\/\d+\/?$/.test(page)) {
+          return false;
+        }
         return true;
       },
     }),
