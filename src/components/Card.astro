@@ -14,188 +14,9 @@ const { title, description, tags, pubDatetime, modDatetime } = data;
 
 const postUrl = getPostUrl(id, filePath, Astro.currentLocale);
 
-// Thumbnail map — all URLs verified accessible as of 2026-05
-const thumbnailMap: Record<string, string> = {
-  // ── NORTH CHINA ──
-  beijing:        "/destinations/beijing.jpg",  // Great Wall autumn
-  pingyao:        "/destinations/pingyao.jpg",    // Pingyao ancient wall at night
-  shanxi:         "/destinations/pingyao.jpg",    // Shanxi ancient city
-  datong:         "/destinations/luoyang.jpg",  // Temple / stone sculpture
-  hebei:          "/destinations/huangshan.jpg",  // Chengde mountain resort
-  chengde:        "/destinations/beijing.jpg",  // Chengde summer palace
-  tianjin:        "/destinations/tianjin.jpg",  // European colonial street
-  // Inner Mongolia
-  innermongolia:  "/destinations/qinghai.jpg",  // Hulunbuir grassland
-  hulunbuir:      "/destinations/qinghai.jpg",  // Grassland & horses
-  // ── NORTHEAST ──
-  harbin:         "/destinations/harbin.jpg",  // Ice and Snow World
-  jilin:          "/destinations/harbin.jpg",    // Rime ice trees
-  dalian:         "/destinations/dalian.jpg",  // Dalian coastal scenery
-  shenyang:       "/destinations/pingyao.jpg",  // Shenyang Imperial Palace
-  changbai:       "/destinations/changbai.jpg",  // Changbai mountain lake
-  // ── EAST CHINA ──
-  shanghai:       "/destinations/shanghai.jpg",  // Bund & Pudong skyline
-  hangzhou:       "/destinations/hangzhou.jpg",  // West Lake mist
-  qingdao:        "/destinations/qingdao.jpg",  // Qingdao coastal landscape
-  shandong:       "/destinations/pingyao.jpg",    // Qufu/culture heritage
-  qufu:           "/destinations/tibet.jpg",  // Kong Temple cypress
-  yangzhou:       "/destinations/hangzhou.jpg",  // Slender West Lake
-  jiangsu:        "/destinations/hangzhou.jpg",  // Garden / lake
-  ningbo:         "/destinations/jiangxi.jpg",    // Putuoshan temple
-  zhoushan:       "/destinations/jiangxi.jpg",    // Sacred island
-  wenzhou:        "/destinations/jiangxi.jpg",  // Yandang mountain
-  zhejiang:       "/destinations/hangzhou.jpg",  // West Lake / Zhejiang
-  huangshan:      "/destinations/huangshan.jpg",  // Yellow Mountain clouds
-  anhui:          "/destinations/anhui.jpg",          // Hongcun village, Anhui
-  hongcun:        "/destinations/anhui.jpg",          // Hongcun village pond
-  xidi:           "/destinations/xidi.jpg",           // Xidi ancient village, Anhui
-  // ── CENTRAL CHINA ──
-  wuhan:          "/destinations/wuhan.jpg",  // Yellow Crane Tower
-  hubei:          "/destinations/wuhan.jpg",  // Yellow Crane Tower night
-  changsha:       "/destinations/zhangjiajie.jpg",  // Fenghuang stilt houses
-  fenghuang:      "/destinations/fenghuang.jpg",  // Fenghuang ancient river town
-  hunan:          "/destinations/zhangjiajie.jpg",  // Zhangjiajie / Hunan
-  zhangjiajie:    "/destinations/zhangjiajie.jpg",  // Zhangjiajie pillars
-  zhengzhou:      "/destinations/luoyang.jpg",  // Ancient stone grottoes
-  luoyang:        "/destinations/luoyang.jpg",  // Longmen Grottoes
-  henan:          "/destinations/luoyang.jpg",    // Historical culture
-  jiangxi:        "/destinations/jiangxi.jpg",  // Lushan mountains
-  // ── SOUTH CHINA ──
-  guangzhou:      "/destinations/guangzhou.jpg",  // Guangzhou city skyline
-  guangdong:      "/destinations/guangzhou.jpg",  // Guangdong skyline
-  chaozhou:       "/destinations/chaoshan.jpg",  // Guangji bridge
-  chaoshan:       "/destinations/chaoshan.jpg",  // Chaoshan bridge
-  gulangyu:       "/destinations/gulangyu.jpg",  // Gulangyu island scenery
-  fujian:         "/destinations/gulangyu.jpg",    // Fujian Tulou earth buildings
-  tulou:          "/destinations/gulangyu.jpg",    // Circular tulou
-  fuzhou:         "/destinations/fuzhou.jpg",         // Fuzhou Three Lanes Seven Alleys
-  guilin:         "/destinations/guilin.jpg",  // Guilin Li River karst
-  guangxi:        "/destinations/guilin.jpg",  // Guangxi karst landscape
-  longji:         "/destinations/guilin.jpg",  // Longji rice terraces
-  hainan:         "/destinations/hainan.jpg",  // Tropical beach
-  sanya:          "/destinations/hainan.jpg",  // Beach
-  // ── SOUTHWEST ──
-  chongqing:      "/destinations/chongqing.jpg",  // Hongya Cave night
-  chengdu:        "/destinations/chengdu.jpg",  // Giant panda
-  sichuan:        "/destinations/jiuzhaigou.jpg",  // Jiuzhaigou
-  jiuzhaigou:     "/destinations/jiuzhaigou.jpg",  // Turquoise lake
-  emei:           "/destinations/chengdu.jpg",  // Emei/Leshan Buddha
-  leshan:         "/destinations/chengdu.jpg",  // Giant Buddha
-  guizhou:        "/destinations/guizhou.jpg",         // Guizhou Huangguoshu Waterfall
-  qiandongnan:    "/destinations/guizhou.jpg",  // Dong village towers
-  yunnan:         "/destinations/yunnan.jpg",          // Tiger Leaping Gorge, Yunnan
-  lijiang:        "/destinations/lijiang.jpg",  // Lijiang old town
-  dali:           "/destinations/dali.jpg",            // Dali Three Pagodas
-  xishuangbanna:  "/destinations/xishuangbanna.jpg",   // Xishuangbanna landscape
-  yuanyang:       "/destinations/yunnan.jpg",          // Yuanyang / Yunnan landscape
-  kunming:        "/destinations/yunnan.jpg",          // Kunming / Yunnan landscape
-  macau:          "/destinations/macau.jpg",  // Macau ruins / skyline
-  macao:          "/destinations/macau.jpg",  // Macau city
-  hongkong:       "/destinations/macau.jpg",  // HK skyline
-  shangri:        "/destinations/tibet.jpg",           // Tibetan monastery
-  tibet:          "/destinations/tibet.jpg",           // Tibet Potala Palace
-  shigatse:       "/destinations/tibet.jpg",           // Tashilhunpo Shigatse
-  lhasa:          "/destinations/tibet.jpg",           // Potala Palace Lhasa
-  // ── NORTHWEST ──
-  xian:           "/destinations/xian.jpg",            // Xi'an Terracotta Army
-  shaanxi:        "/destinations/xian.jpg",            // Shaanxi - Terracotta Warriors
-  dunhuang:       "/destinations/dunhuang.jpg",        // Dunhuang Crescent Moon Lake & dunes
-  lanzhou:        "/destinations/dunhuang.jpg",        // Gansu Silk Road dunes
-  gansu:          "/destinations/dunhuang.jpg",        // Gansu desert landscape
-  ningxia:        "/destinations/dunhuang.jpg",        // Ningxia desert
-  yinchuan:       "/destinations/pingyao.jpg",    // Western Xia heritage
-  xinjiang:       "/destinations/xinjiang.jpg",  // Xinjiang mountain landscape
-  kanas:          "/destinations/xinjiang.jpg",  // Kanas autumn lake
-  urumqi:         "/destinations/xinjiang.jpg",  // Urumqi Xinjiang
-  qinghai:        "/destinations/qinghai.jpg",  // Qinghai Lake
-  // ── EXTRA DESTINATIONS ──
-  nanjing:        "/destinations/wuhan.jpg",  // Nanjing city skyline
-  suzhou:         "/destinations/suzhou.jpg",  // Suzhou classical garden
-  jiangsu:        "/destinations/suzhou.jpg",  // Canal district
-  kaifeng:        "/destinations/pingyao.jpg",    // Song Dynasty heritage
-  shaolin:        "/destinations/luoyang.jpg",    // Shaolin temple
-  wudang:         "/destinations/huangshan.jpg",  // Wudang cliffside
-  jingdezhen:     "/destinations/jiangxi.jpg",  // Jingdezhen ceramics culture
-  wuyuan:         "/destinations/anhui.jpg",          // Wuyuan ancient village
-  lushan:         "/destinations/jiangxi.jpg",  // Mount Lu mist
-  putuoshan:      "/destinations/hangzhou.jpg",    // Sacred island temple
-  shenzhen:       "/destinations/guangzhou.jpg",  // Shenzhen skyline
-  nanning:        "/destinations/guilin.jpg",  // Guangxi tropical coast
-  detian:         "/destinations/guilin.jpg",  // Waterfall
-  xiamen:         "/destinations/gulangyu.jpg",  // Gulangyu / Xiamen coast
-  wuyi:           "/destinations/jiangxi.jpg",  // Wuyi mountain mist
-  kashgar:        "/destinations/kashgar.jpg",         // Kashgar Silk Road
-  taishan:        "/destinations/huangshan.jpg",  // Mount Tai stairs
-  huashan:        "/destinations/huangshan.jpg",  // Huashan cliff plank
-  emei:           "/destinations/chengdu.jpg",  // Emei/Leshan Buddha
-  leshan:         "/destinations/chengdu.jpg",  // Giant Buddha
-  namtso:         "/destinations/qinghai.jpg",  // Namtso lake blue
-  qilian:         "/destinations/qinghai.jpg",  // Mountain meadow
-  zhangye:        "/destinations/zhangye.jpg",         // Zhangye Danxia colorful strata
-  jiayuguan:      "/destinations/beijing.jpg",  // Jiayuguan Great Wall desert
-  // ── PRACTICAL / TOOLKIT TOPICS ──
-  visa:           "/destinations/beijing.jpg",  // Passport & airplane
-  entry:          "/destinations/beijing.jpg",  // Airport terminal / arrivals
-  payment:        "/destinations/shanghai.jpg",    // Mobile payment QR
-  money:          "/destinations/shanghai.jpg",    // Money / payment
-  alipay:         "/destinations/shanghai.jpg",    // Alipay QR
-  wechat:         "/destinations/shanghai.jpg",    // WeChat app
-  transport:      "/destinations/shanghai.jpg",  // High-speed train
-  apps:           "/destinations/shanghai.jpg",    // Smartphone apps
-  connectivity:   "/destinations/shanghai.jpg",  // Network / SIM
-  metro:          "/destinations/shanghai.jpg",    // Metro / subway
-  vpn:            "/destinations/shanghai.jpg",    // VPN / internet
-  wifi:           "/destinations/shanghai.jpg",  // WiFi symbol
-  cycling:        "/destinations/guilin.jpg",  // Cycling
-  flights:        "/destinations/shanghai.jpg",  // Airplane boarding gate
-  ridehailing:    "/destinations/shanghai.jpg",  // Taxi
-  ferry:          "/destinations/chongqing.jpg",  // Ferry / boat
-  sleeper:        "/destinations/shanghai.jpg",  // Train sleeper
-  food:           "/destinations/chengdu.jpg",  // Chinese street food
-  solo:           "/destinations/guilin.jpg",  // Solo traveller
-  beginners:      "/destinations/beijing.jpg",  // Travel planning map
-  accommodation:  "/destinations/shanghai.jpg",  // Hotel room
-  shopping:       "/destinations/guangzhou.jpg",  // Chinese market
-  culture:        "/destinations/beijing.jpg",    // Chinese culture
-  etiquette:      "/destinations/beijing.jpg",    // Cultural etiquette
-  health:         "/destinations/huangshan.jpg",    // Medical / health
-  weather:        "/destinations/jiuzhaigou.jpg",  // Landscape seasons
-  seasons:        "/destinations/jiuzhaigou.jpg",  // Seasonal travel
-  internet:       "/destinations/shanghai.jpg",  // SIM / phone
-  sim:            "/destinations/shanghai.jpg",  // SIM card
-  itinerary:      "/destinations/beijing.jpg",  // Travel planning
-  "silk-road":    "/destinations/dunhuang.jpg",  // Silk road desert
-  hotels:         "/destinations/shanghai.jpg",  // Hotel room
-  temples:        "/destinations/tibet.jpg",  // Temple (Putuoshan)
-  islands:        "/destinations/hainan.jpg",  // Island coast
-  plateau:        "/destinations/tibet.jpg",  // Tibetan plateau landscape
-  beaches:        "/destinations/hainan.jpg",  // Beach
-  grasslands:     "/destinations/qinghai.jpg",  // Grassland
-  gardens:        "/destinations/suzhou.jpg",  // Classical garden
-  // New tags
-  yangtze:        "/destinations/chongqing.jpg",  // River gorge
-  trekking:       "/destinations/huangshan.jpg",  // Mountain hiking
-  hiking:         "/destinations/huangshan.jpg",  // Hiking trail
-  diving:         "/destinations/hainan.jpg",    // Underwater coral
-  snorkeling:     "/destinations/hainan.jpg",    // Tropical sea
-  pilgrimage:     "/destinations/tibet.jpg",  // Sacred pilgrimage site
-  minorities:     "/destinations/guizhou.jpg",         // Ethnic minority villages
-  festivals:      "/destinations/beijing.jpg",  // Festival lights
-  cruise:         "/destinations/chongqing.jpg",  // River cruise
-  river:          "/destinations/guilin.jpg",  // River landscape
-  tea:            "/destinations/hangzhou.jpg",    // Tea plantation
-  village:        "/destinations/gulangyu.jpg",    // Ancient village (tulou)
-  ancient:        "/destinations/pingyao.jpg",  // Ancient heritage
-  architecture:   "/destinations/beijing.jpg",  // Architecture
-  hotpot:         "/destinations/chengdu.jpg",    // Hotpot food
-  noodles:        "/destinations/xian.jpg",  // Chinese noodles
-  seafood:        "/destinations/qingdao.jpg",    // Seafood market
-  art:            "/destinations/shanghai.jpg",  // Contemporary art
-  nightlife:      "/destinations/shanghai.jpg",  // City night lights
-};
-
-// Variety pool — every local destination image, picked deterministically by
-// slug hash so topic/listing cards don't all repeat the same photo.
+// Thumbnail — deterministic per-article pick from the local image pool, so
+// every card gets a distinct, stable image instead of all same-city articles
+// sharing one photo (variety across listings; bento/themes stay place-accurate).
 const POOL = ["beijing","pingyao","harbin","tianjin","dalian","changbai","shanghai","hangzhou","huangshan","suzhou","qingdao","nanjing","anhui","xidi","jiangxi","wuhan","zhangjiajie","fenghuang","luoyang","guangzhou","hainan","guilin","gulangyu","chaoshan","fuzhou","macau","chengdu","chongqing","jiuzhaigou","lijiang","zhangye","yunnan","dali","guizhou","tibet","xishuangbanna","xian","dunhuang","xinjiang","qinghai","kashgar"];
 function poolPick(seed: string): string {
   let h = 5381;
@@ -203,28 +24,13 @@ function poolPick(seed: string): string {
   return `/destinations/${POOL[h % POOL.length]}.jpg`;
 }
 
-// Practical/topic tags don't map to a single place — give them varied imagery
-const TOPIC_TAGS = new Set(["visa","entry","payment","money","alipay","wechat","transport","apps","connectivity","metro","vpn","wifi","internet","sim","flights","ridehailing","sleeper","cycling","solo","beginners","accommodation","hotels","shopping","etiquette","customs","health","weather","seasons","itinerary","budget","packing","planning","safety","toolkit","urban","history","honeymoon","family","lgbtq","senior","disability","wellness","photography","language","practical","technology"]);
-
 const firstTag = (tags?.[0] ?? "").toLowerCase().replace(/[^a-z]/g, "");
 
-// 1) explicit destination tag → 2) destination keyword in title → 3) varied pool
-let baseThumb: string | undefined;
-if (!TOPIC_TAGS.has(firstTag) && thumbnailMap[firstTag]) {
-  baseThumb = thumbnailMap[firstTag];
-} else {
-  const k = Object.keys(thumbnailMap).find(
-    key => !TOPIC_TAGS.has(key) && key.length >= 4 && title.toLowerCase().includes(key)
-  );
-  if (k) baseThumb = thumbnailMap[k];
-}
-const tagThumbnail = baseThumb ?? poolPick(id);
-
-// Prefer article's own local ogImage over the derived thumbnail
+// Prefer the article's own local ogImage; otherwise a per-id pool image
 const { ogImage } = data;
 const thumbnail = (typeof ogImage === "string" && ogImage.startsWith("/"))
   ? ogImage
-  : tagThumbnail;
+  : poolPick(id);
 
 const category = tags?.[0] ?? "";
 
