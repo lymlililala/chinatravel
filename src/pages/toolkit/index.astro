@@ -104,7 +104,7 @@ const compareRows = [
 // ── All toolkit articles ──
 const toolkitArticles = posts.sort((a, b) => new Date(b.data.pubDatetime).getTime() - new Date(a.data.pubDatetime).getTime());
 
-// Thumbnail map for toolkit articles
+// Thumbnail map for toolkit articles — explicit picks for key guides
 const thumbs: Record<string, string> = {
   "china-visa-application-guide":            "/destinations/beijing.jpg",
   "china-digital-payment-foreigners-guide":  "/destinations/shanghai.jpg",
@@ -119,11 +119,17 @@ const thumbs: Record<string, string> = {
   "china-packing-list-guide":                "/destinations/xian.jpg",
   "china-safety-guide":                      "/destinations/guilin.jpg",
 };
-const defaultThumb = "/destinations/zhangjiajie.jpg";
+
+// Variety pool so unmapped toolkit guides don't all share one default image
+const THUMB_POOL = ["beijing","pingyao","harbin","tianjin","dalian","changbai","shanghai","hangzhou","huangshan","suzhou","qingdao","nanjing","anhui","xidi","jiangxi","wuhan","zhangjiajie","fenghuang","luoyang","guangzhou","hainan","guilin","gulangyu","chaoshan","fuzhou","macau","chengdu","chongqing","jiuzhaigou","lijiang","zhangye","yunnan","dali","guizhou","tibet","xishuangbanna","xian","dunhuang","xinjiang","qinghai","kashgar"];
 
 function getThumb(id: string): string {
   const slug = id.replace(/^toolkit\//, "");
-  return thumbs[slug] ?? defaultThumb;
+  if (thumbs[slug]) return thumbs[slug];
+  // deterministic spread across the pool by slug hash
+  let h = 5381;
+  for (let i = 0; i < slug.length; i++) h = ((h << 5) + h + slug.charCodeAt(i)) >>> 0;
+  return `/destinations/${THUMB_POOL[h % THUMB_POOL.length]}.jpg`;
 }
 ---
 
