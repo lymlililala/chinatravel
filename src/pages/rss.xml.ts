@@ -12,6 +12,7 @@ export async function GET() {
     title: config.site.title,
     description: config.site.description,
     site: config.site.url,
+    stylesheet: "/rss-styles.xsl",
     items: sortedPosts.map(({ data, id, filePath }) => ({
       link: getPostUrl(id, filePath, config.site.lang),
       title: data.title,
