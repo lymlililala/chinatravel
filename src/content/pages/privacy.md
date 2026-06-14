@@ -29,6 +29,7 @@ We use a small number of cookies and browser local storage to:
 - Remember your light/dark theme preference.
 - Keep your saved/bookmarked articles on your device.
 - Power anonymous analytics.
+- Serve and measure advertising (see [Advertising](#advertising) below). These ad-related cookies may be set by Google and other third-party vendors.
 
 You can clear or block these through your browser settings at any time. Blocking them won't break the site — you'll just lose conveniences like remembering your theme.
 
@@ -49,8 +50,20 @@ A few trusted services help us run the site, and your data may pass through them
 
 - **Hosting & analytics** — our host provides the infrastructure and privacy-focused analytics that keep the site fast and measurable.
 - **Email** — our newsletter and contact email are handled by email service providers.
+- **Advertising** — Google AdSense and other ad partners serve the ads that keep this site free (see [Advertising](#advertising) below).
 
 These providers process data on our behalf and are bound by their own privacy commitments. We don't sell or rent your information to anyone.
+
+## Advertising
+
+To keep our guides free, we display ads on this site, including through **Google AdSense** and other advertising partners.
+
+- **Third-party cookies.** Third-party vendors, including Google, use cookies to serve ads based on your prior visits to this site and other sites on the internet.
+- **Google's advertising cookie.** Google's use of advertising cookies (such as the DoubleClick cookie) enables it and its partners to serve ads to you based on your visits to this and other websites.
+- **Opting out.** You can opt out of personalised advertising by visiting [Google Ads Settings](https://www.google.com/settings/ads). You can also opt out of a third-party vendor's use of cookies for personalised advertising at [www.aboutads.info](https://www.aboutads.info/choices/).
+- **What advertisers see.** Ad partners may receive technical data such as your IP address, device and browser type, and the pages you view, so they can serve and measure ads. We do not share your name or email address with advertisers.
+
+For more information on how Google uses data when you use our site, see [Google's Privacy & Terms](https://policies.google.com/technologies/partner-sites).
 
 ## Affiliate links
 
