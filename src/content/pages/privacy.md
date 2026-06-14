@@ -13,7 +13,7 @@ Roam China Travel is an independent publication offering English-language travel
 
 ## What we collect
 
-We collect very little, and we never sell your data.
+Here's what we collect, and we never sell your data.
 
 - **Analytics data.** We use privacy-friendly, aggregated analytics to understand which pages are popular and how the site performs. This includes things like page views, approximate region (country/city level), device type, and referring site. It does not identify you personally.
 - **Newsletter sign-ups.** If you subscribe to our newsletter, we store the email address you provide so we can send you updates. That's the only personal detail we ask for, and you can unsubscribe at any time.
@@ -24,14 +24,14 @@ We do **not** collect names, addresses, phone numbers, or payment details, and w
 
 ## Cookies and local storage
 
-We use a small number of cookies and browser local storage to:
+We use cookies and browser local storage to:
 
 - Remember your light/dark theme preference.
 - Keep your saved/bookmarked articles on your device.
 - Power anonymous analytics.
 - Serve and measure advertising (see [Advertising](#advertising) below). These ad-related cookies may be set by Google and other third-party vendors.
 
-You can clear or block these through your browser settings at any time. Blocking them won't break the site — you'll just lose conveniences like remembering your theme.
+You can manage or clear cookies through your browser settings at any time, and you can opt out of personalised advertising using the links in the [Advertising](#advertising) section below.
 
 ## How we use your information
 
