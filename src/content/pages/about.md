@@ -27,7 +27,7 @@ We are a small team of long-term China residents, travel writers, and content ed
 
 ## Get in touch
 
-Found an error? Have a tip or a story you'd like to share? Reach us at **hello@roamchinatravel.com**. We read every message.
+Found an error? Have a tip or a story you'd like to share? Reach us at **[hello@roamchinatravel.com](mailto:hello@roamchinatravel.com)** — or see our [Contact page](/contact) for everything we can help with. We read every message.
 
 ---
 

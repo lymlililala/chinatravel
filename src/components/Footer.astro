@@ -2,6 +2,7 @@
 import type { HTMLAttributes } from "astro/types";
 import { useTranslations } from "@/i18n";
 import { getRelativeLocaleUrl } from "astro:i18n";
+import Socials from "@/components/Socials.astro";
 
 type Props = {
   noMarginTop?: boolean;
@@ -71,6 +72,7 @@ const footerLinks = {
           <p class="mb-6 max-w-xs text-sm leading-relaxed text-muted-foreground">
             Your independent guide to travelling China — visas, payments, transport, and authentic local experiences for international visitors.
           </p>
+          <Socials />
         </div>
 
         <!-- Link columns -->
@@ -109,8 +111,9 @@ const footerLinks = {
       </p>
       <div class="flex items-center gap-4 text-xs text-muted-foreground">
         <a href={getRelativeLocaleUrl(locale, "about")} class="transition-colors hover:text-foreground">About</a>
-        <a href="#" class="transition-colors hover:text-foreground">Privacy Policy</a>
-        <a href="#" class="transition-colors hover:text-foreground">Terms of Use</a>
+        <a href={getRelativeLocaleUrl(locale, "contact")} class="transition-colors hover:text-foreground">Contact</a>
+        <a href={getRelativeLocaleUrl(locale, "privacy")} class="transition-colors hover:text-foreground">Privacy Policy</a>
+        <a href={getRelativeLocaleUrl(locale, "terms")} class="transition-colors hover:text-foreground">Terms of Use</a>
         <a href={getRelativeLocaleUrl(locale, "rss.xml")} class="transition-colors hover:text-accent">RSS Feed</a>
       </div>
     </div>

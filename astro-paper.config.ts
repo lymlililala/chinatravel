@@ -28,7 +28,9 @@ export default defineAstroPaperConfig({
     },
     search: "pagefind",
   },
-  socials: [],
+  socials: [
+    { name: "mail", url: "mailto:hello@roamchinatravel.com" },
+  ],
   shareLinks: [
     { name: "whatsapp", url: "https://wa.me/?text=" },
     { name: "facebook", url: "https://www.facebook.com/sharer.php?u=" },
