@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+import type { APIRoute } from "astro";
+
+// Served as an Astro route (not from public/) so the build's asset scanner
+// never tries to parse the .xsl as a JS module. Referenced from rss.xml.ts
+// via an <?xml-stylesheet?> processing instruction.
+const XSL = `<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <xsl:output method="html" version="1.0" encoding="UTF-8" indent="yes"/>
   <xsl:template match="/rss/channel">
@@ -112,3 +117,9 @@
     </html>
   </xsl:template>
 </xsl:stylesheet>
+`;
+
+export const GET: APIRoute = () =>
+  new Response(XSL, {
+    headers: { "Content-Type": "text/xsl; charset=utf-8" },
+  });
