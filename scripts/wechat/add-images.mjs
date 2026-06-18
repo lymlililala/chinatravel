@@ -74,17 +74,39 @@ function clean(s) {
 function mainSubject(title, tags) {
   const head = (title || '').split(/[:：|—-]/)[0]               // 冒号前主词
   const s = clean(head)
-  // 兜底：加一个地名 tag 增强（如 gansu/sichuan…）
-  const geo = (tags || []).find(t => /^[a-z-]+$/.test(t) && !['destinations', 'nature', 'culture', 'history', 'food', 'itinerary', 'hiking', 'photography', 'adventure', 'coastal', 'urban'].includes(t))
-  return { subject: s || head.trim(), geo: geo || '' }
+  // 兜底地名 tag（gansu/sichuan…）；若主词里已含该地名则不重复附加
+  let geo = (tags || []).find(t => /^[a-z-]+$/.test(t) && !['destinations', 'nature', 'culture', 'history', 'food', 'itinerary', 'hiking', 'photography', 'adventure', 'coastal', 'urban'].includes(t)) || ''
+  if (geo && new RegExp(`\\b${geo}\\b`, 'i').test(s)) geo = '' // 主词已含省份 → 去重，避免 "Beijing beijing"
+  return { subject: s || head.trim(), geo }
 }
 
-// 给一个 H2 标题 + 主景点，组合搜图关键词
-function sectionKeyword(subject, geo, h2) {
-  const sec = clean((h2 || '').replace(/^##\s*/, ''))
-  // 主景点 + 章节实义词（章节太泛时只用主景点）
-  const generic = /inside|park|getting|season|logistics|circuit|route|light|photograph|overview|practical|tips/i.test(sec)
-  return [subject, geo, generic ? '' : sec].filter(Boolean).join(' ').trim()
+// 从一个 H2 标题提取「具体景点」搜图词：
+//   - 取分隔符（— : | （）前的主段，剥掉 "Day N:"/"Part N:" 等前缀
+//   - 优先保留括号内中文景点名对应的英文主段（中文搜图命中差，故用英文段 + 中文仅作语义）
+//   - 去掉通用词/数字；若剥完为空（纯通用章节如 Practical Tips），返回 ''（交由上层降级）
+const SECTION_GENERIC = /^(essential information|a brief history|the main structures?|practical (tips|information)|before you (arrive|go)|overview|getting (there|around)|recommended itinerary|where to stay|what to (see|do)|costs?|best time|food|dining|tips|history|introduction)$/i
+function sectionSubject(h2) {
+  let s = (h2 || '').replace(/^##\s*/, '').trim()
+  s = s.replace(/^(day|part|stop|stage)\s*\d+\s*[:：-]\s*/i, '') // 去 "Day 2:" 前缀
+  const head = s.split(/[—–\-:：|(（]/)[0].trim()                  // 取分隔符前主段
+  if (SECTION_GENERIC.test(head)) return ''                       // 纯通用章节 → 无具体景点
+  const cleaned = clean(head)
+  return cleaned
+}
+
+// 给一个 H2 标题 + 主景点，产出「具体优先、逐级扩大」的查询列表（按优先级，逐个试到命中为止）。
+function sectionQueries(subject, geo, h2) {
+  const sec = sectionSubject(h2)
+  const subjGeo = [subject, geo].filter(Boolean).join(' ').trim()
+  const qs = []
+  if (sec) {
+    qs.push([sec, geo].filter(Boolean).join(' ').trim()) // ① 章节景点 + 省份（最具体）
+    qs.push(sec)                                          // ② 章节景点单独
+    qs.push([sec, subject].filter(Boolean).join(' ').trim()) // ③ 章节景点 + 主景点
+  }
+  qs.push(subjGeo)                                        // ④ 主景点 + 省份（兜底）
+  // 去重、去空、去过短
+  return [...new Set(qs)].filter(q => q && q.length >= 3)
 }
 
 // 不在这些「非内容章节」前插图（ToC 占位、FAQ、相关推荐等）
@@ -123,15 +145,21 @@ for (const slug of slugs) {
   const coverKw = [subject, geo].filter(Boolean).join(' ')
   const cover = await finder.find(coverKw, title)
 
-  // 逐个插入点搜图
+  // 逐个插入点搜图：每个 H2 按「具体景点→省份→主景点」分级查询，命中即停
   const inserts = {} // lineIndex -> markdown image
+  const insertKw = {} // lineIndex -> 实际命中的查询词（dry-run 展示用）
   for (const li of picks) {
     const h2 = lines[li]
-    const kw = sectionKeyword(subject, geo, h2) || coverKw
-    const hit = await finder.find(kw, `${title} ${h2}`)
+    const queries = sectionQueries(subject, geo, h2)
+    let hit = null, usedKw = ''
+    for (const q of queries) {
+      hit = await finder.find(q, `${title} ${h2}`)
+      if (hit) { usedKw = q; break }
+    }
     if (hit) {
       const altBase = h2.replace(/^##\s*/, '').trim()
       inserts[li] = `![${subject}${altBase ? ' — ' + altBase : ''}](${hit.url})\n`
+      insertKw[li] = usedKw
     }
   }
 
@@ -140,7 +168,7 @@ for (const slug of slugs) {
   console.log(`  封面: ${cover ? cover.source : '未命中(跳过封面)'}`)
   console.log(`  正文插图: ${Object.keys(inserts).length}/${picks.length} 命中`)
   if (DRY) {
-    for (const li of picks) console.log(`    @${lines[li]}  -> ${inserts[li] ? inserts[li].trim().slice(0, 70) : '未命中'}`)
+    for (const li of picks) console.log(`    @${lines[li]}  -> ${inserts[li] ? `[kw: ${insertKw[li]}] ` + inserts[li].trim().slice(0, 50) : '未命中'}`)
     continue
   }
 
