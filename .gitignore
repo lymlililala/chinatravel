@@ -16,6 +16,12 @@ pnpm-debug.log*
 # environment variables
 .env
 .env.production
+# nested env files (e.g. WeChat pipeline credentials)
+**/.env
+!**/.env.example
+
+# WeChat content pipeline artifacts (sources/clusters/drafts/published)
+scripts/wechat/data/
 
 # macOS-specific files
 .DS_Store

@@ -1,0 +1,77 @@
+name: Add images to posts
+
+# 给仓库现有「无正文图」的文章批量配图（封面 ogImage + 正文若干张），
+# 图来自 Pexels（主）/ Unsplash（回退），按景点关键词搜，命中校验 + 关键词降级。
+# 不直接改 main —— 生成后开一个 PR，人工审图满意再合并。
+#
+# 前置：在仓库 Settings → Secrets and variables → Actions 配置
+#   PEXELS_API_KEY      （必填）
+#   UNSPLASH_ACCESS_KEY （可选，作为 Pexels 未命中的回退源）
+
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: '本次处理多少篇无图文章'
+        required: true
+        default: '20'
+      inline:
+        description: '每篇正文插图数量'
+        required: true
+        default: '3'
+
+# 同时只跑一个，避免并发改同一批文件
+concurrency:
+  group: add-images
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  add-images:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # add-images.mjs 与 lib/* 零依赖（Node 原生 fetch），无需安装依赖
+
+      - name: Add images to posts without images
+        env:
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
+        run: |
+          if [ -z "$PEXELS_API_KEY" ] && [ -z "$UNSPLASH_ACCESS_KEY" ]; then
+            echo "::error::未配置 PEXELS_API_KEY / UNSPLASH_ACCESS_KEY（Settings → Secrets → Actions）"
+            exit 1
+          fi
+          node scripts/wechat/add-images.mjs \
+            --all \
+            --limit "${{ inputs.limit }}" \
+            --inline "${{ inputs.inline }}"
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: chore/auto-add-images
+          base: main
+          commit-message: "chore(content): add Pexels/Unsplash images to image-less posts"
+          title: "chore(content): 给无图文章批量配图"
+          body: |
+            自动给现有「无正文图」文章配图（封面 ogImage + 正文 ${{ inputs.inline }} 张）。
+
+            - 图源：Pexels（主）/ Unsplash（回退），按景点关键词搜 + 命中校验。
+            - 本批处理上限：${{ inputs.limit }} 篇。
+            - 仅热链图床 CDN，未下载本地。
+
+            ⚠️ 请抽查几篇配图是否贴合景点，满意再合并。原文改动可在 diff 里逐篇核对。
+          add-paths: |
+            src/content/posts/**/*.md
+          delete-branch: true

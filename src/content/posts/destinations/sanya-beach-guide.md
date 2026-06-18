@@ -20,11 +20,14 @@ tags:
   - beach
   - diving
 description: "Sanya and Hainan Island — China's only tropical island province. The best beaches (Yalong Bay, Haitang Bay, Dadonghai), diving and snorkelling sites, resort options from budget to ultra-luxury, and how Hainan compares to Phuket or Bali."
+ogImage: "https://images.pexels.com/photos/12736036/pexels-photo-12736036.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Sanya (三亚) is China's primary beach resort destination — the southern tip of Hainan Island (海南岛), China's only tropical province. It sits at 18°N latitude, giving it a genuinely tropical climate: warm year-round (27–33°C in summer, 21–26°C in winter), with a dry season that makes it China's premier winter-escape destination.
 
 Compared to Southeast Asian alternatives (Phuket, Bali, Boracay), Sanya offers a different experience: Chinese resort infrastructure at Chinese prices, beautiful beaches with some world-class resorts, and the specific dynamic of being China's domestic beach holiday capital.
+
+![Sanya Beach 2026 — The Main Beach Areas](https://images.pexels.com/photos/13318779/pexels-photo-13318779.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Main Beach Areas
 
@@ -50,6 +53,8 @@ Compared to Southeast Asian alternatives (Phuket, Bali, Boracay), Sanya offers a
 
 **The scenic point**: The rocky headland with distinctive rock formations — historically considered the end of the world ("天涯海角" = "Edge of the Sky, End of the Sea") and inscribed with calligraphy commemorating various banished officials. More scenic than swimable. Worth a half-day visit.
 
+![Sanya Beach 2026 — Water Activities](https://images.pexels.com/photos/12736037/pexels-photo-12736037.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Water Activities
 
 **Diving**: Sanya has multiple dive sites with warm clear water. The most popular:
@@ -60,6 +65,8 @@ Compared to Southeast Asian alternatives (Phuket, Bali, Boracay), Sanya offers a
 **Snorkelling**: Strong at Wuzhizhou Island and in the outer Yalong Bay. Mask and fins available for rent at all beach areas.
 
 **Surfing**: North Hainan (Wanning, Riyue Bay 日月湾) has China's best surf — not Sanya itself.
+
+![Sanya Beach 2026 — Best Season](https://images.pexels.com/photos/4242876/pexels-photo-4242876.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Best Season
 

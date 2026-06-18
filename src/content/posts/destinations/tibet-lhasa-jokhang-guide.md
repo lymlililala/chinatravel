@@ -11,9 +11,12 @@ tags:
   - buddhism
   - spirituality
 description: "The Jokhang Temple and Barkhor Street circuit — the most sacred route in Tibetan Buddhism. When to walk the Barkhor, what the prostrating pilgrims are doing, what's inside the Jokhang, and how to experience this active religious life rather than just photograph it."
+ogImage: "https://images.pexels.com/photos/16154562/pexels-photo-16154562.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 The Barkhor (八廊街) circuit around the Jokhang Temple (大昭寺) is the most important pilgrimage route in Tibetan Buddhism — and one of the most emotionally affecting travel experiences in China. The constant circumambulation (always clockwise) of pilgrims from every region of Tibet and the Himalayan world, many prostrating every three steps, some completing the full circuit in full-body prostrations (touching their face to the ground at each step), creates an atmosphere of concentrated devotional intensity unlike anything in the wider China experience.
+
+![Lhasa Jokhang Temple & Barkhor Circuit — The Jokhang Temple (大昭寺)](https://images.pexels.com/photos/11827192/pexels-photo-11827192.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Jokhang Temple (大昭寺)
 
@@ -28,6 +31,8 @@ The Jokhang is the most sacred temple in Tibet — built in 641 AD by King Songt
 
 **The living temple**: The Jokhang is not a museum — monks conduct rituals, pilgrims offer scarves and butter lamp donations, the elderly woman counting her mani beads in a corner is not posing. Photographing respectfully means observing without interrupting, and asking before photographing individuals.
 
+![Lhasa Jokhang Temple & Barkhor Circuit — The Barkhor Circuit](https://images.pexels.com/photos/29370347/pexels-photo-29370347.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The Barkhor Circuit
 
 The Barkhor is a roughly 800m circumambulation route around the Jokhang — the "middle circuit" of Lhasa's three sacred kora routes (the inner circuit is inside the temple; the outer Lingkhor goes around all of old Lhasa).
@@ -37,6 +42,8 @@ The Barkhor is a roughly 800m circumambulation route around the Jokhang — the 
 **The prostrating pilgrims**: Full-body prostration (五体投地) is the most physically demanding form of devotional circumambulation. The pilgrim stands, puts hands together, raises them overhead (1), then bends to touch the ground with hands (2), then lowers full body to the ground face-forward (3), then rises and advances their body length before repeating. The circuit takes hours. Many pilgrims travel days to reach Lhasa specifically to complete this.
 
 **The market and shops**: The Barkhor commercial area sells Tibetan religious items (prayer wheels, thangka paintings, mani stones, butter lamps), turquoise and coral jewellery, yak wool garments. The religious items are genuine; many are used by actual pilgrims. Prices are negotiable.
+
+![Lhasa Jokhang Temple & Barkhor Circuit — The Potala Palace (布达拉宫)](https://images.pexels.com/photos/8608899/pexels-photo-8608899.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Potala Palace (布达拉宫)
 
