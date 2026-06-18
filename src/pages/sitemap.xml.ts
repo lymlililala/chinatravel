@@ -3,8 +3,16 @@ import { getCollection } from "astro:content";
 import { getSortedPosts } from "@/utils/getSortedPosts";
 import { getPostUrl } from "@/utils/getPostPaths";
 import { getUniqueTags } from "@/utils/getUniqueTags";
+import { postFilter } from "@/utils/postFilter";
 import { slugifyStr } from "@/utils/slugify";
 import config from "@/config";
+
+// Tag pages with fewer than this many posts are thin/low-value: they are
+// noindexed at the page level (src/pages/tags/[tag]/[...page].astro) and
+// excluded from the @astrojs/sitemap output (astro.config.ts). Mirror the same
+// threshold here so this sitemap never advertises a noindexed URL — submitting
+// a noindexed page is what triggers GSC's "excluded by noindex" warning.
+const TAG_INDEX_THRESHOLD = 3;
 
 function xmlEscape(str: string): string {
   return str
@@ -28,6 +36,15 @@ export const GET: APIRoute = async ({ site }) => {
   const sortedPosts = getSortedPosts(posts);
   const uniqueTags = getUniqueTags(posts);
 
+  // Count non-draft posts per tag slug so we can drop thin tag pages, matching
+  // getUniqueTags' slugging and the [tag] route's noindex condition.
+  const tagCounts = new Map<string, number>();
+  for (const post of posts.filter(postFilter)) {
+    for (const slug of new Set(post.data.tags.map(slugifyStr))) {
+      tagCounts.set(slug, (tagCounts.get(slug) ?? 0) + 1);
+    }
+  }
+
   const urls: string[] = [];
 
   // Homepage
@@ -49,9 +66,11 @@ export const GET: APIRoute = async ({ site }) => {
     urls.push(buildUrl(postUrl, site));
   }
 
-  // All tag pages
+  // All tag pages — skip thin ones (they are noindexed, so they must not
+  // appear in the sitemap).
   for (const { tag } of uniqueTags) {
-    urls.push(buildUrl(`/tags/${slugifyStr(tag)}/`, site));
+    if ((tagCounts.get(tag) ?? 0) < TAG_INDEX_THRESHOLD) continue;
+    urls.push(buildUrl(`/tags/${tag}/`, site));
   }
 
   const urlsetEntries = urls
