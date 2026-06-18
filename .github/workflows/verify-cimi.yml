@@ -1,0 +1,20 @@
+name: Verify cimidata IP
+
+on:
+  workflow_dispatch:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Run cimidata verification
+        env:
+          CIMIDATA_APP_ID: ${{ secrets.CIMIDATA_APP_ID }}
+          CIMIDATA_APP_SECRET: ${{ secrets.CIMIDATA_APP_SECRET }}
+        run: node scripts/wechat/verify-cimi.mjs
