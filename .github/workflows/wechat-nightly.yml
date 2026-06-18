@@ -61,7 +61,10 @@ jobs:
           cache: pnpm
 
       - name: Install dependencies
-        run: pnpm install --frozen-lockfile
+        # 本流水线只跑 .mjs 脚本（fetch + @supabase/supabase-js + pg，纯 JS 无需原生编译）。
+        # --ignore-scripts 跳过 sharp/esbuild 等 build 脚本，避免 pnpm 10+ 的
+        # ERR_PNPM_IGNORED_BUILDS 直接失败；这些包构建产物本流水线用不到。
+        run: pnpm install --frozen-lockfile --ignore-scripts
 
       - name: Run pipeline
         env:
