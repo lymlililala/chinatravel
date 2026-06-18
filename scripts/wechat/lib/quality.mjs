@@ -69,5 +69,13 @@ export function checkQuality(draft, opts = {}) {
   const cjk = (content.match(/[一-龥]/g) || []).length
   if (cjk > content.length * 0.05) reasons.push(`HIGH-CJK:${cjk}疑似未译彻底`)
 
-  return { pass: reasons.length === 0, reasons, faqPairs, len: content.length }
+  // 配图：正文须含 ≥3 张图占位（![alt](IMG: kw)），保证封面 + 正文有图（伤 SEO 的素面页拦在这）
+  const imgPlaceholders = (content.match(/!\[[^\]]*\]\(\s*IMG:[^)]*\)/gi) || []).length
+  if (opts.requireImages !== false && imgPlaceholders < 3) reasons.push(`IMG:${imgPlaceholders}<3`)
+
+  // 站内链接：须含 ≥2 条 /tags/ 内链（内链建设 + 降跳出）
+  const internalLinks = (content.match(/\]\(\/tags\/[a-z0-9-]+\/?\)/gi) || []).length
+  if (opts.requireLinks !== false && internalLinks < 2) reasons.push(`LINKS:${internalLinks}<2`)
+
+  return { pass: reasons.length === 0, reasons, faqPairs, len: content.length, images: imgPlaceholders, links: internalLinks }
 }

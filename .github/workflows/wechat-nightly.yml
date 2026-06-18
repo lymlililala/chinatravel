@@ -1,0 +1,125 @@
+name: WeChat nightly content pipeline
+
+# 每晚 22:00（北京）自动：采集旅游公众号原文 → 入库(Supabase) → 同步 dc_posts 镜像
+# → 跨天聚类 → 合成英文原创(含判重) → 质量闸门发布(含单次上限) → 直接 commit & push main。
+# push main 触发 Vercel 部署，动态 sitemap.xml 自动重生成（无需额外步骤）。
+#
+# 前置（仓库 Settings → Secrets and variables → Actions）：
+#   CIMIDATA_APP_ID, CIMIDATA_APP_SECRET   采集凭证（必填）
+#   DEEPSEEK_API_KEY                       合成/聚类/评分（必填）；可选 DEEPSEEK_BASE_URL / DEEPSEEK_MODEL
+#   SUPABASE_SECRET_KEY                    入库 + 判重镜像（必填）
+#   PEXELS_API_KEY                         配图主源（必填）；可选 UNSPLASH_ACCESS_KEY 回退
+# 密钥只进 GitHub Secrets，绝不入仓。
+
+on:
+  schedule:
+    - cron: '0 14 * * *' # UTC 14:00 = 北京 22:00
+  workflow_dispatch:
+    inputs:
+      days:
+        description: '聚类回看天数（滚动窗口）'
+        required: true
+        default: '3'
+      max_clusters:
+        description: '本次最多聚多少簇'
+        required: true
+        default: '6'
+      max_publish:
+        description: '本次最多发布几篇（其余留草稿）'
+        required: true
+        default: '4'
+      max_pages:
+        description: '每个公众号采集多少页历史'
+        required: true
+        default: '2'
+
+concurrency:
+  group: wechat-nightly
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run pipeline
+        env:
+          CIMIDATA_APP_ID: ${{ secrets.CIMIDATA_APP_ID }}
+          CIMIDATA_APP_SECRET: ${{ secrets.CIMIDATA_APP_SECRET }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          DEEPSEEK_BASE_URL: ${{ secrets.DEEPSEEK_BASE_URL }}
+          DEEPSEEK_MODEL: ${{ secrets.DEEPSEEK_MODEL }}
+          SUPABASE_SECRET_KEY: ${{ secrets.SUPABASE_SECRET_KEY }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
+          DAYS: ${{ github.event.inputs.days || '3' }}
+          MAX_CLUSTERS: ${{ github.event.inputs.max_clusters || '6' }}
+          MAX_PUBLISH: ${{ github.event.inputs.max_publish || '4' }}
+          MAX_PAGES: ${{ github.event.inputs.max_pages || '2' }}
+        run: |
+          set -euo pipefail
+          # 必填密钥自检
+          for k in CIMIDATA_APP_ID CIMIDATA_APP_SECRET DEEPSEEK_API_KEY SUPABASE_SECRET_KEY PEXELS_API_KEY; do
+            if [ -z "${!k:-}" ]; then echo "::error::缺少 Secret $k"; exit 1; fi
+          done
+
+          echo "==> 1) 采集（入库 dc_wx_sources，按 sn 去重）"
+          node scripts/wechat/1-crawl.mjs --max-pages "$MAX_PAGES"
+
+          echo "==> 2) 同步 dc_posts 镜像（判重依据）"
+          node scripts/dc_sync-posts.mjs
+
+          echo "==> 3) 聚类（最近 $DAYS 天，最多 $MAX_CLUSTERS 簇）"
+          node scripts/wechat/2-cluster.mjs --days "$DAYS" --max-clusters "$MAX_CLUSTERS"
+
+          echo "==> 4) 合成（含与 dc_posts 判重）"
+          node scripts/wechat/3-synthesize.mjs
+
+          echo "==> 5) 发布（质量闸门 + 单次上限 $MAX_PUBLISH；过线写 .md 并回写 dc_posts）"
+          node scripts/wechat/4-publish.mjs --max-publish "$MAX_PUBLISH"
+
+      - name: Commit & push new posts
+        run: |
+          set -euo pipefail
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # 仅纳入正式发布(draft:false)的文章；草稿不渲染、也不污染 main
+          git add src/content/posts/destinations/*.md
+          if git diff --cached --quiet; then
+            echo "本次无新文章，跳过提交。"
+            exit 0
+          fi
+          # 过滤掉只含草稿的改动：若暂存区里没有 draft:false 的新文件则不提交
+          changed=$(git diff --cached --name-only)
+          publishable=0
+          for f in $changed; do
+            if [ -f "$f" ] && grep -q '^draft: false' "$f"; then publishable=1; fi
+          done
+          if [ "$publishable" -eq 0 ]; then
+            echo "本次仅产生草稿，跳过提交。"
+            git reset
+            exit 0
+          fi
+          count=$(echo "$changed" | wc -l | tr -d ' ')
+          git commit -m "feat(content): 自动发布旅游英文指南（每晚流水线，$count 篇变更）
+
+          来源：旅游公众号采集 → 聚类 → DeepSeek 英文合成 → 质量闸门。
+          自动生成，未经人工逐字审校；如有问题可回滚本提交。
+
+          Co-Authored-By: Claude Opus 4.8 (1M context) <noreply@anthropic.com>"
+          git push origin HEAD:main

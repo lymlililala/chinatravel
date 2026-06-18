@@ -11,6 +11,7 @@ import { DeepSeek } from './deepseek.mjs'
 import { checkQuality } from './lib/quality.mjs'
 import { ImageFinder } from './lib/images.mjs'
 import { DATA_DIR, POSTS_DIR } from './lib/env.mjs'
+import { hasSupabase, getSupabase } from './lib/supabase.mjs'
 
 function arg(name, def) {
   const i = process.argv.indexOf(name)
@@ -19,7 +20,8 @@ function arg(name, def) {
   return v && !v.startsWith('--') ? v : true
 }
 const DRY = arg('--dry-run', false) === true
-const THRESHOLD = Number(arg('--threshold', 80))
+const THRESHOLD = Number(arg('--threshold', 82))
+const MAX_PUBLISH = Number(arg('--max-publish', 4)) // 单次最多发布几篇（全自动护栏：防一晚灌水伤 SEO）
 
 const AUTHOR = 'Roam China Travel Editorial Team'
 
@@ -93,8 +95,9 @@ async function resolveImages(content, tags, slug, finder) {
     out = out.replace(whole, `![${alt.trim()}](${url})`)
   }
 
-  // 封面 ogImage：优先复用正文第一张图；没有则按 tags 选写死池一张
-  let ogImage = firstImages[0]
+  // 封面 ogImage：优先用正文第二张图，避免封面与正文首图重复（同一张图出现两次）；
+  // 不足两张时退而用第一张；都没有则按 tags 选写死池一张。
+  let ogImage = firstImages[1] || firstImages[0]
   if (!ogImage) {
     const t = (tags || []).map(x => themeFor(x)).find(Boolean)
     const pool = (t && IMG_THEMES[t]) || ALL_IDS
@@ -173,7 +176,13 @@ for (const d of drafts) {
       score = { overall: 0, issues: ['评分失败:' + e.message] }
     }
     decision = (score.overall ?? 0) >= THRESHOLD ? 'publish' : 'draft'
-    reasonText = `overall=${score.overall} (阈值${THRESHOLD}) faq=${q.faqPairs} len=${q.len}`
+    reasonText = `overall=${score.overall} (阈值${THRESHOLD}) faq=${q.faqPairs} len=${q.len} img=${q.images} links=${q.links}`
+  }
+
+  // 单次发布上限：已达上限的，过线也转草稿（不渲染），留待后续放行
+  if (decision === 'publish' && pub >= MAX_PUBLISH) {
+    decision = 'draft'
+    reasonText += ` | 超过单次上限 ${MAX_PUBLISH}，转草稿`
   }
 
   console.log(`${decision === 'publish' ? '🟢 发布' : '🟡 草稿'}  ${d.slug}`)
@@ -183,10 +192,11 @@ for (const d of drafts) {
   // 解析正文图片占位 ![alt](IMG: kw) → 真实图（Pexels 按景点搜，未命中回退写死池）
   const { content: bodyWithImages, ogImage } = await resolveImages(d.content, d.tags, d.slug, finder)
 
+  const pubDatetime = new Date().toISOString().replace(/\.\d{3}Z$/, 'Z')
   const frontmatter = buildFrontmatter({
     title: d.title,
     description: d.description || d.summary || '',
-    pubDatetime: new Date().toISOString().replace(/\.\d{3}Z$/, 'Z'),
+    pubDatetime,
     tags: d.tags,
     ogImage,
     faq: d.faq,
@@ -201,6 +211,28 @@ for (const d of drafts) {
     try {
       writeFileSync(filePath, md)
       action = `${decision}:written`
+      // 发布成功的同步进 dc_posts 镜像，让后续判重立刻能查到这篇（避免下一轮重复生成）
+      if (decision === 'publish' && hasSupabase()) {
+        try {
+          await getSupabase().from('dc_posts').upsert({
+            slug: d.slug,
+            file_path: `src/content/posts/destinations/${d.slug}.md`,
+            title: d.title,
+            description: d.description || d.summary || '',
+            author: AUTHOR,
+            tags: d.tags || [],
+            category: d.category || 'destination',
+            featured: false,
+            draft: false,
+            pub_datetime: pubDatetime,
+            og_image: ogImage,
+            content: bodyWithImages.trim(),
+            updated_at: new Date().toISOString(),
+          }, { onConflict: 'slug' })
+        } catch (e) {
+          console.log(`     ⚠️  dc_posts 回写失败（不影响发布）: ${e.message}`)
+        }
+      }
     } catch (e) {
       action = 'error'
       console.log(`     ✗ 写文件失败: ${e.message}`)

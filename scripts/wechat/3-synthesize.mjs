@@ -8,6 +8,7 @@ import { join } from 'node:path'
 import { DeepSeek } from './deepseek.mjs'
 import { truncate } from './lib/clean-html.mjs'
 import { uniqueSlug } from './lib/slug.mjs'
+import { loadExistingPosts, isDuplicate } from './lib/dedup.mjs'
 import { fetchSources } from './lib/sources.mjs'
 import { DATA_DIR, POSTS_DIR } from './lib/env.mjs'
 
@@ -66,7 +67,7 @@ IRON RULES:
 
 Return ONLY JSON:
 {
- "slug":"lowercase-hyphenated-url-slug (no suffix, I add one)",
+ "slug":"clean-lowercase-hyphenated-slug, max 6 words, start with the place/topic, NO date, NO random suffix (e.g. northwest-china-landscapes-guide)",
  "title":"English title (50-70 chars, compelling, includes the destination)",
  "description":"150-160 char English meta description",
  "content":"full Markdown body (starts with a short intro paragraph, then '## Table of contents', includes 3-5 ![alt](IMG: ...) image placeholders)",
@@ -80,10 +81,19 @@ Return ONLY JSON:
 const drafts = existsSync(OUT) ? JSON.parse(readFileSync(OUT, 'utf8')) : []
 const doneTopics = new Set(drafts.map(d => d._topic))
 
+// 库内已发布文章（dc_posts 镜像）——合成前判重的依据。无库则为 null（仅站内 slug 兜底）。
+const existingPosts = await loadExistingPosts()
+if (existingPosts) console.log(`判重库：dc_posts 已有 ${existingPosts.length} 篇\n`)
+let skippedDup = 0
+
 for (const c of clusters) {
   if (doneTopics.has(c.topic)) { console.log(`✓ 已合成跳过: ${c.topic}`); continue }
   const members = (c.sources || []).map(s => bySn.get(s.sn)).filter(Boolean)
   if (members.length < 2) { console.log(`✗ 源文不足跳过: ${c.topic}`); continue }
+
+  // 判重：与库内已有文章实质重复则跳过（省合成费 + 防伤 SEO）
+  const dup = await isDuplicate(c, existingPosts, ds)
+  if (dup.dup) { console.log(`⊘ 判重跳过: ${c.working_title}  [${dup.reason}] ↔ ${dup.match || ''}`); skippedDup++; continue }
 
   const material = members
     .map((m, i) => `### Source ${i + 1}: ${m.title}（WeChat account: ${m.account}）\n${truncate(m.body_text, 5000)}`)
@@ -112,6 +122,6 @@ for (const c of clusters) {
   }
 }
 
-console.log(`\n已写入 ${OUT}（共 ${drafts.length} 篇草稿）`)
+console.log(`\n已写入 ${OUT}（共 ${drafts.length} 篇草稿，本次判重跳过 ${skippedDup}）`)
 console.log('用量:', ds.costEstimate())
 console.log('⚠️  抽查 drafts.json 1-2 篇（原创度/英文质量/frontmatter/FAQ/字数），再跑 4-publish.mjs')
