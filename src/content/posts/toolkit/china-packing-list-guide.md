@@ -22,7 +22,7 @@ Packing for China requires a different mindset than most destinations. Some West
 
 ### Documents
 - ✅ **Passport** (valid for at least 6 months beyond your departure date)
-- ✅ **Visa or visa-free documentation** — check our [Visa Guide](/posts/china-visa-entry-guide/) to confirm your entry route
+- ✅ **Visa or visa-free documentation** — check our [Visa Guide](/posts/toolkit/china-visa-application-guide/) to confirm your entry route
 - ✅ **Travel insurance documents** — digital or printed, with emergency number
 - ✅ **Hotel booking confirmations** — needed for some accommodation check-ins
 - ✅ **Emergency contact card** — write key addresses in Chinese characters (your hotel, hospital near your route)
@@ -31,7 +31,7 @@ Packing for China requires a different mindset than most destinations. Some West
 ### Money
 - ✅ **Credit/debit card** (Visa or Mastercard with low foreign transaction fees)
 - ✅ **Cash in USD/GBP/EUR** for airport exchange on arrival (avoid exchanging at home — airport rates in China are reasonable)
-- ✅ **Alipay or WeChat Pay set up on your phone** — see our [Payment Guide](/posts/china-payment-guide/)
+- ✅ **Alipay or WeChat Pay set up on your phone** — see our [Payment Guide](/posts/toolkit/china-digital-payment-foreigners-guide/)
 
 ---
 

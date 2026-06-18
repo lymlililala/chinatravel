@@ -97,7 +97,7 @@ Every major Chinese city now has a metro system. They are:
 
 ### DiDi (滴滴)
 
-As mentioned in our [Apps Guide](/posts/toolkit/china-apps-internet-guide), **DiDi** is the dominant ride-hailing platform. It is:
+As mentioned in our [Apps Guide](/posts/toolkit/china-internet-apps-guide/), **DiDi** is the dominant ride-hailing platform. It is:
 - Generally cheaper than street taxis
 - Metered, so no price negotiation needed
 - Trackable by family or friends via shared trip links

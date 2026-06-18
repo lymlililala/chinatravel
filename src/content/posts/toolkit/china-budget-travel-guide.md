@@ -154,7 +154,7 @@ Many of China's most iconic experiences cost nothing:
 ## Money and Payments
 
 ### Cash vs Digital
-China is largely cashless — Alipay and WeChat Pay dominate. **You must set these up before relying on them** (see our [China Payment Guide](/posts/china-payment-guide/)).
+China is largely cashless — Alipay and WeChat Pay dominate. **You must set these up before relying on them** (see our [China Payment Guide](/posts/toolkit/china-digital-payment-foreigners-guide/)).
 
 ### ATMs
 - Available everywhere, but international card fees stack up (¥15–25 per withdrawal + your bank's foreign transaction fee)
