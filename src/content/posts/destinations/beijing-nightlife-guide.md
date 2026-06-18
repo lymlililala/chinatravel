@@ -11,12 +11,14 @@ tags:
   - food
   - urban
 description: "Beijing's nightlife scene — Sanlitun bar street (the tourist circuit but still fun), the quieter hutong cocktail bars around Nanluoguxiang and Beixinqiao, Yugong Yishan for indie and jazz, the late-night jianbing stalls around Dongzhimen, and a realistic picture of going out in Beijing as a foreigner. What works and what doesn't."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/5067339/pexels-photo-5067339.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Beijing doesn't have Shanghai's reputation for nightlife, and that's partly because Beijing's nightlife scene is less performative — there's less emphasis on sky-high rooftop bars and curated cocktail lists, and more on the neighbourhood bar that's been running in a converted hutong courtyard for fifteen years. That doesn't mean Beijing is quiet after dark. The city supports a genuine bar culture, a serious live music scene, and a late-night food tradition that will keep you occupied well past 2am if you want.
 
 ## Table of contents
+
+![Beijing Nightlife — Sanlitun: The Tourist Circuit That's Still Worth Doing](https://images.unsplash.com/photo-1486108334972-f02b6c78ba07?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwyfHxzYW5saXR1bnxlbnwwfDB8fHwxNzgxNzg0MTkxfDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## Sanlitun: The Tourist Circuit That's Still Worth Doing
 
@@ -52,6 +54,8 @@ The **Gulou area** (鼓楼, Drum Tower) and its surrounding hutong alleyways con
 
 **The hutong bar evening format:** Start at Great Leap or Arrow Factory for craft beer, walk the nearby hutong alleys, find a courtyard terrace bar for a later drink. Most hutong bars close between midnight and 2am on weekdays, later on weekends.
 
+![Beijing Nightlife — Live Music: Yugong Yishan and Beyond](https://images.pexels.com/photos/10423281/pexels-photo-10423281.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Live Music: Yugong Yishan and Beyond
 
 **Yugong Yishan** (愚公移山) in Zhangzizhong Road is Beijing's most important live music venue for indie, jazz, folk, and experimental music. It runs shows most nights, capacity around 500, and the programming has been consistently adventurous for over 15 years. Check their WeChat account or Dianping page for upcoming shows. Tickets ¥60-180 depending on the act.
@@ -67,6 +71,8 @@ The **Gulou area** (鼓楼, Drum Tower) and its surrounding hutong alleyways con
 Beijing has megaclubs — **Lantern**, **Spark**, **The World** — that host international DJs and run until 5am or later on weekends. They're expensive (¥200+ cover on peak nights), operate table service at obscene bottle pricing, and require some navigation of Chinese VIP culture.
 
 These aren't recommended for most international visitors, not because they're bad but because they represent a specific Chinese nightlife format that's most enjoyable if you're part of a group with local connections. Going alone or as a couple is awkward and expensive.
+
+![Beijing Nightlife — Late-Night Food in Beijing](https://images.pexels.com/photos/6005007/pexels-photo-6005007.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Late-Night Food in Beijing
 

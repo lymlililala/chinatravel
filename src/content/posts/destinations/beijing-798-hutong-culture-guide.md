@@ -12,7 +12,7 @@ tags:
   - art
   - culture
 description: "Two faces of Beijing's creative soul: the 798 Art District in Dashanzi — former Bauhaus-designed military factory turned contemporary art hub — and the ancient hutong alleyway neighbourhoods of the old city. This 2026 guide combines both worlds, covering the best galleries, hutong neighbourhoods to explore, food, cycling routes, accommodation and what makes Beijing's cultural scene so unexpectedly rich."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/4567288/pexels-photo-4567288.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -20,6 +20,8 @@ ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=
 Beijing has two distinct artistic identities running simultaneously. One is contemporary, international and housed in enormous former industrial buildings at the northeast edge of the city. The other is centuries-old, labyrinthine and lived-in, threaded through the alleys around the imperial city centre. To understand Beijing's creative energy in 2026, you need both.
 
 This guide covers the 798 Art District and Beijing's hutong neighbourhoods as a combined cultural experience — either as two half-days on the same visit, or as separate targeted excursions.
+
+![Beijing Art District & Hutong Culture Combined — 798 Art District (798艺术区)](https://images.pexels.com/photos/11985451/pexels-photo-11985451.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## 798 Art District (798艺术区)
 
@@ -82,6 +84,8 @@ The hutong are living neighbourhoods, not heritage museums — residents go abou
 
 **Courtyard Hotel stays:** Staying in a renovated siheyuan courtyard hotel is one of Beijing's best accommodation experiences. See accommodation section below.
 
+![Beijing Art District & Hutong Culture Combined — Combining 798 and Hutong in One Day](https://images.pexels.com/photos/13806858/pexels-photo-13806858.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Combining 798 and Hutong in One Day
 
 **A possible combined day:**
@@ -108,6 +112,8 @@ The hutong are living neighbourhoods, not heritage museums — residents go abou
 - **Da Zhai Men (大宅门):** Traditional courtyard restaurant in Shichahai; Shandong-influenced Beijing cuisine in a converted siheyuan
 - **Dali Courtyard (大理院子):** Yunnan cuisine in a beautiful courtyard; a perennial favourite
 - **Any jianbing stall:** The wheat-and-egg crepe sold from street carts throughout hutong areas; ¥5–¥8 each, the best Beijing street food
+
+![Beijing Art District & Hutong Culture Combined — Accommodation: Courtyard Hotels](https://images.pexels.com/photos/20317466/pexels-photo-20317466.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Accommodation: Courtyard Hotels
 

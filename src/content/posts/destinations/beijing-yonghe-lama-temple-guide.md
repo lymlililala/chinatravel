@@ -1,6 +1,7 @@
 ---
 title: "Beijing Yonghe Lama Temple Guide: Tibetan Buddhism in the Capital"
 description: "Explore Beijing's Yonghe Temple (Lama Temple) — China's largest and most ornate Tibetan Buddhist temple complex, its 18-metre sandalwood Buddha, incense-thick courtyards, and the vibrant Mongolian-Tibetan cultural world it represents."
+ogImage: "https://images.pexels.com/photos/34439091/pexels-photo-34439091.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Beijing"
 tags: ["beijing", "yonghe-temple", "lama-temple", "tibetan-buddhism", "temple", "culture", "religion", "northeast-beijing"]
@@ -11,6 +12,8 @@ tags: ["beijing", "yonghe-temple", "lama-temple", "tibetan-buddhism", "temple", 
 The smoke from thousands of incense sticks drifts across five successive courtyards, each more elaborate than the last, until it rises past the 18-metre Maitreya Buddha carved from a single white sandalwood tree and disappears into a Beijing sky the colour of pale jade. This is the **Yonghe Temple (雍和宫)** — the Lama Temple — and it is arguably Beijing's most atmospheric religious site.
 
 ---
+
+![Beijing Yonghe Lama Temple — History: From Imperial Bedroom to Sacred Temple](https://images.pexels.com/photos/32646536/pexels-photo-32646536.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## History: From Imperial Bedroom to Sacred Temple
 
@@ -40,6 +43,8 @@ The spiritual heart of the complex, Falun Hall houses a **6-metre bronze statue 
 The climax of the visit. Step into this three-storey pavilion and look up: a **18-metre Maitreya carved from a single white sandalwood trunk** sent by the 7th Dalai Lama as a gift to the Qianlong Emperor. The statue's base alone is buried several metres underground. It is listed in the *Guinness World Records* as the world's tallest single-piece sandalwood statue. The scale is difficult to process — you notice the toes before you can see the face.
 
 ---
+
+![Beijing Yonghe Lama Temple — Observing Buddhist Practice](https://images.pexels.com/photos/14632258/pexels-photo-14632258.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Observing Buddhist Practice
 
@@ -78,6 +83,8 @@ Bundles of incense (¥10–¥30) are sold at the gate and from vendors throughou
 - **Avoid:** National holidays, weekend afternoons.
 
 ---
+
+![Beijing Yonghe Lama Temple — The Surrounding District: Guozijian Street](https://images.pexels.com/photos/15775577/pexels-photo-15775577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Surrounding District: Guozijian Street
 

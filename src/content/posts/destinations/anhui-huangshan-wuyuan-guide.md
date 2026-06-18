@@ -12,12 +12,14 @@ tags:
   - nature
   - history
 description: "Anhui Province offers China's most dramatic mountain photography destination at Huangshan, the world's most beautiful rural landscape at Wuyuan, and the extraordinary cultural legacy of the Huizhou merchant civilization."
-ogImage: "https://images.unsplash.com/photo-1589802829985-817e51171b92?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/28987502/pexels-photo-28987502.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Anhui Province sits at the junction of China's great mountain chains and river systems — an inland province where extraordinary granite peaks rise from tea plantation valleys and whitewashed merchant mansions decay gracefully in riverside villages.
 
 ## Table of contents
+
+![Anhui — Huangshan (黄山) — Yellow Mountain](https://images.pexels.com/photos/28957341/pexels-photo-28957341.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Huangshan (黄山) — Yellow Mountain
 
@@ -48,6 +50,8 @@ A UNESCO World Heritage Site (natural + cultural) — 72 granite peaks rising fr
 
 ---
 
+![Anhui — Wuyuan (婺源) — China's Most Beautiful Rural Landscape](https://images.pexels.com/photos/30183123/pexels-photo-30183123.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Wuyuan (婺源) — China's Most Beautiful Rural Landscape
 
 Wuyuan (technically in Jiangxi Province but culturally Huizhou and accessed from Anhui) — see Jiangxi guide for full detail. Brief summary:
@@ -55,6 +59,8 @@ Wuyuan (technically in Jiangxi Province but culturally Huizhou and accessed from
 **Best visit:** Late March–early April for rapeseed flower season. October for autumn persimmon and melon drying.
 
 ---
+
+![Anhui — Huizhou Culture (徽州文化)](https://images.pexels.com/photos/28968968/pexels-photo-28968968.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Huizhou Culture (徽州文化)
 

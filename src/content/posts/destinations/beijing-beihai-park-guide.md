@@ -12,10 +12,12 @@ tags:
   - lotus flowers
   - beijing parks
 description: "Beihai Park is one of Beijing's oldest and most beloved imperial gardens, home to the iconic White Dagoba pagoda, lotus-covered lake waters, and centuries of Chinese garden design. This 2026 guide covers tickets, the best areas to explore, seasonal highlights from winter ice skating to summer lotus blooms, and tips for combining it with the nearby Forbidden City and Jingshan Park."
-ogImage: "https://images.unsplash.com/photo-1591017403286-fd8493524e1e?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/20694749/pexels-photo-20694749.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
+
+![Beihai Park Beijing — Beihai Park: A Thousand Years of Imperial Leisure](https://images.pexels.com/photos/6903495/pexels-photo-6903495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Beihai Park: A Thousand Years of Imperial Leisure
 
@@ -58,6 +60,8 @@ One of Beijing's most famous old-style restaurants, Fangshan specialises in recr
 ### White Dagoba Temple (白塔寺) Area
 At the base of the island on the north shore, several temple buildings house Buddhist statues and religious art. The Hall of the Wheel of the Law (法轮殿) contains a large bronze Buddha and is often fragrant with incense.
 
+![Beihai Park Beijing — The Lotus Flowers: Summer's Greatest Spectacle](https://images.pexels.com/photos/33059564/pexels-photo-33059564.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The Lotus Flowers: Summer's Greatest Spectacle
 
 From late June through August, Beihai Lake transforms. The northern stretches of the lake become a sea of pink and white lotus flowers, the blooms rising above round green pads floating on the dark water. On still mornings before 9 AM, the lotus garden is extraordinarily beautiful — the flowers open fully in warm sunlight and close in the evening.
@@ -79,6 +83,8 @@ The craftsmanship is extraordinary — examine the individual tiles up close to 
 Just outside the South Gate of Beihai Park, the Round City is a small, circular fortification that predates most of what surrounds it. Within its walls, a courtyard contains two remarkable trees — a white pine (白皮松) said to have been given the rank of "Brigadier General" by the Qianlong Emperor for providing shade on a hot day, and a 500-year-old Chinese juniper.
 
 A jade bowl said to have belonged to Kublai Khan is displayed in the main hall. Entry ¥1, one of the best bargains in Beijing.
+
+![Beihai Park Beijing — Seasonal Highlights](https://images.pexels.com/photos/1726957/pexels-photo-1726957.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Seasonal Highlights
 

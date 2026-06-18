@@ -10,11 +10,14 @@ tags:
   - culture
   - hutong
 description: "Explore Beijing's Xicheng District — the Beihai imperial lake park, Shichahai's three connected lakes and bar street, the most authentic hutong neighbourhood, the Drum and Bell Towers, and the Mei Lanfang Memorial Hall."
+ogImage: "https://images.pexels.com/photos/6560974/pexels-photo-6560974.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Xicheng District (西城区) is Beijing's most atmospheric residential district — the western half of the old inner city, where traditional grey-tiled courtyard houses (四合院) still line the hutong alleyways around the Shichahai lakes, and where the pace feels closest to what Beijing was before the modernisation of the last 40 years.
 
 The district contains three of Beijing's most significant experiences for visitors: Beihai Park, the Shichahai lake complex, and the densest surviving hutong neighbourhood in any Chinese city.
+
+![Beijing Xicheng District — Beihai Park (北海公园)](https://images.pexels.com/photos/37836126/pexels-photo-37836126.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Beihai Park (北海公园)
 
@@ -27,6 +30,8 @@ One of the oldest imperial parks in China, Beihai (literally "North Sea") was a 
 
 **Best time**: Early morning — locals practice tai chi, row boats, and do water calligraphy on the stone paths. On weekday mornings, the park has a genuine serenity that the main tourist sites lack.
 
+![Beijing Xicheng District — Shichahai Lakes (什刹海)](https://images.pexels.com/photos/34939617/pexels-photo-34939617.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Shichahai Lakes (什刹海)
 
 Three connected lakes — **Qianhai (前海)**, **Houhai (后海)**, and **Xihai (西海)** — form the recreational heart of old Beijing. Willows drape over the water; historic courtyards crowd the shoreline; the Bell Tower and Drum Tower mark the northern boundary.
@@ -36,6 +41,8 @@ Three connected lakes — **Qianhai (前海)**, **Houhai (后海)**, and **Xihai
 **Hutong exploration**: The alleys branching off the lake shore are among the most intact in Beijing. Yandai Xiejie (烟袋斜街, Tobacco Pouch Street) is a curved lane of indie shops; Mao'er Hutong (帽儿胡同) has some of the best-preserved courtyard architecture.
 
 **Rickshaw tours**: Available from vendors near the Drum Tower. A 1-hour circuit covers the key hutong courtyards, the former mansion of Prince Gong (恭王府 — the most impressive surviving Qing prince's residence in Beijing), and the lake shoreline. About ¥120–180 per person.
+
+![Beijing Xicheng District — Drum Tower & Bell Tower (鼓楼/钟楼)](https://images.pexels.com/photos/33480873/pexels-photo-33480873.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Drum Tower & Bell Tower (鼓楼/钟楼)
 

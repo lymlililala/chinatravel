@@ -10,11 +10,14 @@ tags:
   - culture
   - destinations
 description: "A guide to Beijing's contemporary cultural districts — the 798 Art Zone (China's most important contemporary art hub), Sanlitun's bar and shopping scene, and the creative neighbourhoods that show another side of the ancient capital."
+ogImage: "https://images.pexels.com/photos/28266736/pexels-photo-28266736.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Beijing's reputation is anchored in imperial history, but the city is equally compelling as a contemporary cultural capital. The 798 Art Zone and Sanlitun represent the modern city — galleries, bars, independent design, international dining, and a creative energy that has evolved alongside China's economic transformation.
 
 ## Table of contents
+
+![Beijing Art District & Sanlitun — 798 Art District (798艺术区)](https://images.pexels.com/photos/18031739/pexels-photo-18031739.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## 798 Art District (798艺术区)
 
@@ -56,6 +59,8 @@ Located in the Chaoyang District (朝阳区) factory complex built in the 1950s 
 
 ---
 
+![Beijing Art District & Sanlitun — Sanlitun (三里屯)](https://images.unsplash.com/photo-1486108334972-f02b6c78ba07?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwyfHxTYW5saXR1bnxlbnwwfDB8fHwxNzgxNzg0MTM4fDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
+
 ## Sanlitun (三里屯)
 
 ### Overview
@@ -89,6 +94,8 @@ Sanlitun's original identity was as the bar street for foreign diplomats and exp
 The Workers' Stadium (工体) recently completed a major renovation and now hosts international concerts, football matches, and large events. The surrounding ring of bars and restaurants is the densest nightlife cluster in Beijing.
 
 ---
+
+![Beijing Art District & Sanlitun — Gulou / Drum Tower Creative District](https://images.pexels.com/photos/29474210/pexels-photo-29474210.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Gulou / Drum Tower Creative District
 

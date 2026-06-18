@@ -12,7 +12,7 @@ tags:
   - nature
   - gateway
 description: "Hefei is Anhui's provincial capital and one of China's fastest-growing technology hubs — a city that combines serious R&D investment with accessible historical parks, the massive Chao Lake shoreline, and an excellent position as the rail gateway to Huangshan, Jiuhuashan and the Xin'an River valley. This 2026 guide covers what to see in Hefei itself, how to use it as a travel base, dining highlights and practical transport information."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/15737902/pexels-photo-15737902.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -22,6 +22,8 @@ Most travellers pass through Hefei rather than stopping for it. The city sits at
 Hefei is China's "science city" — a deliberate national project to build a major innovation hub in the Yangtze River Delta interior. The USTC (University of Science and Technology of China) anchors a technology ecosystem that has produced globally significant quantum computing and photonics research. Visitors won't have access to labs, of course, but the city's identity as a modern Chinese knowledge economy is visible in its architecture, its cafe culture and the unusually high concentration of young, educated locals.
 
 And then there's Chao Lake — one of China's five largest freshwater lakes, sitting right on Hefei's doorstep.
+
+![Hefei Anhui — Top Sights in Hefei](https://images.pexels.com/photos/30607308/pexels-photo-30607308.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Top Sights in Hefei
 
@@ -81,6 +83,8 @@ Hefei's food is distinctly Anhui — heavy use of preserved meats, wild plants a
 
 **Restaurant areas:** The Huaihe Road Pedestrian Street (淮河路步行街) has concentrated street food and casual restaurants. For sit-down meals, the area around Wanda Plaza has the most variety.
 
+![Hefei Anhui — Day Trips from Hefei](https://images.pexels.com/photos/22500569/pexels-photo-22500569.png?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Day Trips from Hefei
 
 ### Sanhe Ancient Town (三河古镇)
@@ -116,6 +120,8 @@ This is arguably the strongest reason to spend a night in Hefei: the city is the
 **From Beijing:** 3–3.5 hours by high-speed; tickets ¥250–¥400 ($35–$56).
 
 **By air:** Hefei Xinqiao International Airport (HFE) has flights from most major Chinese cities. The airport is 30 km from the city centre; express bus or DiDi to central Hefei costs ¥25–¥50 ($3.5–$7).
+
+![Hefei Anhui — Where to Stay](https://images.pexels.com/photos/27269479/pexels-photo-27269479.png?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Where to Stay
 

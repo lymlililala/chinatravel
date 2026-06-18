@@ -20,6 +20,7 @@ tags:
   - culture
   - history
 description: "Everything you need to plan a trip to Beijing — the Great Wall, Forbidden City, hutong neighbourhoods, food, day trips, and how to get around China's capital."
+ogImage: "https://images.pexels.com/photos/11144232/pexels-photo-11144232.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Beijing is one of those cities that immediately earns its reputation. From the moment you stand in the vast, wind-swept expanse of Tiananmen Square and look north through the Gate of Heavenly Peace, you feel the weight of 3,000 years of history. Yet turn around and you will find contemporary China in full swing: Michelin-starred restaurants, cutting-edge contemporary art galleries, and a nightlife scene that runs until 4am.
@@ -27,6 +28,8 @@ Beijing is one of those cities that immediately earns its reputation. From the m
 Most first-time visitors discover that three days barely scratches the surface. Five to seven days is a more realistic minimum.
 
 ## Table of contents
+
+![Beijing — Top Things to See and Do](https://images.pexels.com/photos/1750268/pexels-photo-1750268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Top Things to See and Do
 
@@ -80,6 +83,8 @@ The grey-tiled alley networks that once covered the whole city are now concentra
 
 ---
 
+![Beijing — Where to Eat](https://images.pexels.com/photos/9054062/pexels-photo-9054062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Where to Eat
 
 Beijing's food scene goes far beyond Peking Duck (though you must eat it at least once).
@@ -102,6 +107,8 @@ The canonical dish, dating back to imperial kitchens. Thin slices of roasted duc
 Beijing's distinctive hotpot style uses a distinctive copper charcoal pot. Thin slices of lamb are swirled through a light broth and dipped in sesame paste. **Donglaishun** (东来顺) is the heritage restaurant for this dish.
 
 ---
+
+![Beijing — Getting Around Beijing](https://images.pexels.com/photos/32885186/pexels-photo-32885186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting Around Beijing
 

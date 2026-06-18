@@ -11,12 +11,14 @@ tags:
   - hiking
   - culture
 description: "A 5-day Anhui itinerary combining Yellow Mountain's sea of clouds with the perfectly preserved Huizhou-style villages of Hongcun and Xidi (both UNESCO sites), the Wuyuan rapeseed fields if timing is right, and the Jiuhuashan Buddhist sacred mountain."
-ogImage: "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/31582902/pexels-photo-31582902.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Anhui province delivers a concentrated dose of what makes China so compelling to travel through. Within a 200km radius you'll find a mountain famous enough to inspire an entire school of classical painting, two villages so perfectly preserved they've barely changed in 400 years, a Buddhist mountain that draws millions of pilgrims a year, and rolling countryside that turns brilliant yellow every spring. This five-day circuit is genuinely one of the best regional itineraries in China.
 
 ## Table of contents
+
+![Huangshan & Anhui — Day 1: Arrival & Tunxi Old Street](https://images.pexels.com/photos/5516765/pexels-photo-5516765.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day 1: Arrival & Tunxi Old Street
 
@@ -33,6 +35,8 @@ Take a morning bus or taxi (about 45 minutes, ¥15-20 by bus) to Hongcun village
 Walk the path around South Lake first. The reflection of the whitewashed Huizhou buildings in the still water is one of the most photographed scenes in China, and for good reason — it's genuinely beautiful. Then explore the interior lanes, where merchants' mansions have been preserved with original wooden screens, stone floors, and central courtyards open to the sky (the "skywell" design that brings light and rainwater into the house). The Cheng Zhiliang House is the finest interior to visit.
 
 The village charges ¥104 admission. Budget roughly half a day here.
+
+![Huangshan & Anhui — Day 3: Xidi Village & Yellow Mountain Base](https://images.pexels.com/photos/29612000/pexels-photo-29612000.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day 3: Xidi Village & Yellow Mountain Base
 
@@ -53,6 +57,8 @@ If you stayed on the mountain the night before (summit hotels start at ¥1,500 p
 The full circuit takes 6-8 hours of moderate hiking. Descend on the Western Steps (西海大峡谷) for more dramatic scenery, or take the Yuping Cable Car down if your legs are finished.
 
 **Entrance fee:** ¥190. Cable cars cost ¥80-100 each way.
+
+![Huangshan & Anhui — Day 5: Jiuhuashan or Wuyuan](https://images.pexels.com/photos/29612001/pexels-photo-29612001.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day 5: Jiuhuashan or Wuyuan
 

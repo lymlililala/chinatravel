@@ -12,7 +12,7 @@ tags:
   - photography
   - china
 description: "Jiankou is Beijing's most dramatic unrestored Great Wall section — crumbling crenellations on steep ridgelines, atmospheric ruins, and views that reward the challenging approach. This guide covers the hiking access routes, the key features, photography positions, and safety considerations for visiting this wild section of wall."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/19031655/pexels-photo-19031655.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Jiankou (箭扣) is the section of the Great Wall that photographers have been seeking out for two decades — an unrestored section on a dramatic ridgeline in Huairou District, about 80km north of Beijing. The wall here has been untouched since the Ming Dynasty, and centuries of weathering have created a specific kind of beauty that the fully restored sections at Badaling or Mutianyu don't have: moss-covered stones, crumbling watchtowers, and sections where the wall has partially collapsed to leave dramatic gaps.
@@ -20,6 +20,8 @@ Jiankou (箭扣) is the section of the Great Wall that photographers have been s
 It is also genuinely challenging and sometimes dangerous. This is not a family outing.
 
 ## Table of contents
+
+![Jiankou Great Wall Beijing — Why Jiankou Is Different](https://images.pexels.com/photos/21939167/pexels-photo-21939167.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Why Jiankou Is Different
 
@@ -37,6 +39,8 @@ This is the appeal, especially for photographers. The ruined quality and the wil
 
 **Nine-Eye Tower (九眼楼):** A massive tower at the highest point of this section with nine arrow windows per side (hence the name). The most impressive single structure, about 2 hours walk from the main access village.
 
+![Jiankou Great Wall Beijing — Getting There](https://images.pexels.com/photos/36726127/pexels-photo-36726127.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Getting There
 
 **From Beijing:**
@@ -53,6 +57,8 @@ This is the appeal, especially for photographers. The ruined quality and the wil
 **Arrow Nock to Beijing Knot (北京结) loop:** A longer traverse following the ridgeline. About 4–5 hours total. Involves some exposed sections.
 
 **Full traverse to Mutianyu:** An ambitious day connecting Jiankou to the restored Mutianyu section. About 8–10 hours total. Requires a prearranged pick-up at Mutianyu or the cable car down.
+
+![Jiankou Great Wall Beijing — Photography Tips](https://images.pexels.com/photos/2981806/pexels-photo-2981806.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Photography Tips
 

@@ -11,7 +11,7 @@ tags:
   - beginners
   - north-china
 description: "A practical 3-day Beijing itinerary for first-time visitors — Day 1 covering the Forbidden City and Tiananmen, Day 2 for the Great Wall and 798, Day 3 for hutongs and local food. Includes metro directions, ticket booking tips, and realistic timing."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/9431177/pexels-photo-9431177.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Three days isn't enough to see everything Beijing has to offer — that's just a fact. But it's absolutely enough to hit the major sights, eat well, and get a real feel for this city's remarkable depth. Beijing has been a capital for over 700 years, and that history shows up everywhere: in the grand imperial architecture, the labyrinth of hutong alleyways, and the sheer scale of things.
@@ -19,6 +19,8 @@ Three days isn't enough to see everything Beijing has to offer — that's just a
 This itinerary focuses on the essentials without overloading your schedule. Beijing traffic and queues are real — planning with that in mind will save you a lot of frustration.
 
 ## Table of contents
+
+![Beijing — Before You Arrive](https://images.pexels.com/photos/33716157/pexels-photo-33716157.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Before You Arrive
 
@@ -31,6 +33,8 @@ This itinerary focuses on the essentials without overloading your schedule. Beij
 **Beijing metro:** Clean, cheap, and covers everything you need. Single journeys start at ¥3. Get a Transportation Card (交通一卡通) from any station — it's rechargeable and works on buses too.
 
 ---
+
+![Beijing — Day 1: Tiananmen Square, Forbidden City & Wangfujing](https://images.pexels.com/photos/30346248/pexels-photo-30346248.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day 1: Tiananmen Square, Forbidden City & Wangfujing
 
@@ -57,6 +61,8 @@ Head to **Nanluoguxiang** (南锣鼓巷) in the evening — this 800-meter huton
 **Metro:** Nanluoguxiang Station (Line 8), or walk from Beixinqiao (Line 5).
 
 ---
+
+![Beijing — Day 2: Mutianyu Great Wall & 798 Art District](https://images.pexels.com/photos/33899285/pexels-photo-33899285.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day 2: Mutianyu Great Wall & 798 Art District
 

@@ -12,7 +12,7 @@ tags:
   - hiking
   - chinese-literature
 description: "Langya Mountain in Chuzhou, Anhui, is inseparable from the essays of Ouyang Xiu, the Song Dynasty polymath who wrote the famous 'Drunkard's Pavilion' here in 1046. The mountain is a forested park with walking trails, the beautifully preserved Zuiweng Pavilion complex, a cave waterfall system, and genuine seasonal beauty. This guide covers everything you need to plan a visit."
-ogImage: "https://images.unsplash.com/photo-1583309219338-a582f1db9a18?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/5916301/pexels-photo-5916301.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Langya Mountain (琅琊山) in Chuzhou (滁州), northern Anhui, is one of those places that has literary significance embedded so deeply in its character that it's hard to separate the landscape from the writing about it. Ouyang Xiu (欧阳修, 1007–1072), the Song Dynasty statesman, poet, historian, and essayist, was posted to Chuzhou as regional governor from 1045 to 1048 after being demoted. During his time here, he wrote "The Record of the Old Drunkard's Pavilion" (醉翁亭记), one of the most celebrated prose essays in Chinese literature.
@@ -20,6 +20,8 @@ Langya Mountain (琅琊山) in Chuzhou (滁州), northern Anhui, is one of those
 The essay's opening line — "Among all the mountains surrounding Chu Prefecture, Langya Mountain is the most beautiful" — has been memorized by Chinese schoolchildren for nearly a thousand years. The pavilion Ouyang Xiu named still stands, reconstructed on the original site. The mountain itself is a forested ridge rising to about 317 meters, accessible, genuinely beautiful, and not particularly crowded except during national holidays.
 
 ## Table of contents
+
+![Langya Mountain Anhui — Getting to Chuzhou and Langya Mountain](https://images.pexels.com/photos/16004928/pexels-photo-16004928.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting to Chuzhou and Langya Mountain
 
@@ -59,6 +61,8 @@ The current structure is primarily Ming and Qing Dynasty rebuilding on original 
 **The calligraphy tablets:**
 Inside the pavilion complex, stone-carved tablets display the Zuiweng Ting Ji essay text in multiple calligraphic styles, including versions attributed to Su Shi (苏轼) and other Song calligraphers. These are among the finest examples of Song-style carved stone calligraphy in China.
 
+![Langya Mountain Anhui — Langya Temple (琅琊寺)](https://images.pexels.com/photos/29606775/pexels-photo-29606775.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Langya Temple (琅琊寺)
 
 Nestled in a valley about halfway up the mountain, Langya Temple (also called Kaiyuan Temple) was established in the Tang Dynasty and is one of the key religious sites in the region.
@@ -85,6 +89,8 @@ A karst cave system on the mountain's lower slopes, with limestone formations in
 
 **Entry:** ¥30 per person (separate from main scenic area ticket)  
 **Tip:** Visit mid-afternoon when the temperature contrast with the summer heat outside is most welcome.
+
+![Langya Mountain Anhui — Hiking Trails](https://images.pexels.com/photos/2076968/pexels-photo-2076968.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Hiking Trails
 

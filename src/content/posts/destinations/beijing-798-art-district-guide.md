@@ -12,6 +12,7 @@ tags:
   - "798"
   - neighbourhoods
 description: "Your guide to Beijing's 798 Art District — the best galleries currently showing, public sculptures, cafés, and what makes this converted Bauhaus factory complex worth visiting in 2026."
+ogImage: "https://images.pexels.com/photos/34939606/pexels-photo-34939606.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 In the early 2000s, a cluster of decommissioned military electronics factories in northeast Beijing's Dashanzi area attracted a wave of artists priced out of the city centre. They converted the vast Bauhaus-style halls — built in the 1950s with East German technical assistance — into studios and galleries. The area became known as 798, after the most prominent factory unit.
@@ -21,6 +22,8 @@ Today, 798 Art District (798艺术区) covers roughly 60 hectares and contains o
 The quality varies enormously. Some spaces show rigorously curated contemporary art of genuine international standing; others sell decorative prints to tourists. This guide focuses on the former.
 
 ## Table of contents
+
+![Art District Beijing — Essential Information](https://images.pexels.com/photos/36541875/pexels-photo-36541875.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Essential Information
 
@@ -38,6 +41,8 @@ The quality varies enormously. Some spaces show rigorously curated contemporary 
 The district is organised along several main streets, with a labyrinth of smaller paths between factory buildings. The scale can be disorienting. The main north-south artery — **798 Road (798路)** — is the most gallery-dense and the logical starting point.
 
 Pick up a free gallery map from the visitor centre near the main entrance, or download the **798 Art District** WeChat mini-program, which has a real-time gallery map showing current exhibitions.
+
+![Art District Beijing — Major Galleries Worth Visiting](https://images.pexels.com/photos/27044013/pexels-photo-27044013.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Major Galleries Worth Visiting
 
@@ -74,6 +79,8 @@ Some of the best art in 798 is the permanent public sculpture installed througho
 - The stretch of **798 Road itself** is lined with large-scale sculptures — a mix of quality, but several genuinely strong pieces anchor the public realm.
 
 **Photo tip:** Early morning light (8–9 AM, before galleries open) is the best time to photograph the outdoor sculptures without crowds in frame. The industrial buildings create excellent shadows and geometric compositions.
+
+![Art District Beijing — The 798 Food Scene](https://images.pexels.com/photos/12811304/pexels-photo-12811304.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The 798 Food Scene
 

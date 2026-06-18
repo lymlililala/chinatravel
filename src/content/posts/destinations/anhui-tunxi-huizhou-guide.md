@@ -13,10 +13,12 @@ tags:
   - tea-market
   - ancient-architecture
 description: "Step into the living museum of Huizhou culture in Tunxi, where the famous Old Street preserves 300-year-old merchant architecture, tea shops still sell Huangshan Maofeng from brass canisters, and the scent of ink stones and cured ham drifts through narrow lanes. This 2026 guide explores the best of Tunxi and the wider Huizhou cultural region — from architectural wonders and tea tasting to local cuisine, nearby villages, and practical travel advice for experiencing this often-overlooked corner of Anhui."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/33866942/pexels-photo-33866942.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
+
+![Tunxi & Huizhou Old Street Anhui — Tunxi — The Gateway to Huizhou Culture](https://images.pexels.com/photos/28927399/pexels-photo-28927399.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Tunxi — The Gateway to Huizhou Culture
 
@@ -71,6 +73,8 @@ Understanding Huizhou architecture enriches every village visit in the region:
 
 **Xidi Village (西递):** A UNESCO World Heritage Site along with Hongcun, Xidi is often overlooked in favour of its more famous neighbour. This is actually an advantage — it's quieter and arguably more atmospheric. The Huizhou merchant homes here are exceptionally well-preserved. Entrance ¥104 ($14 USD).
 
+![Tunxi & Huizhou Old Street Anhui — The Xin'an River and Surrounding Nature](https://images.pexels.com/photos/13274253/pexels-photo-13274253.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The Xin'an River and Surrounding Nature
 
 ### River Walk and Night View
@@ -114,6 +118,8 @@ Several tea farms on the lower slopes of Huangshan offer visitor experiences. Th
 ### Keemun Black Tea
 
 While Huangshan Maofeng gets most of the attention, the Anhui region also produces Keemun (祁门, Qímén) black tea — one of the world's most celebrated black teas and a favourite of the British royal family. The Qimen tea region is about 2 hours from Tunxi by road, and several producers offer visits. A day trip with a hired car costs ¥600-800 ($83-111 USD).
+
+![Tunxi & Huizhou Old Street Anhui — Practical Information](https://images.pexels.com/photos/29326490/pexels-photo-29326490.png?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Practical Information
 

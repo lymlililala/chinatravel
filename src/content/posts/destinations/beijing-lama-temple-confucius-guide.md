@@ -12,7 +12,7 @@ tags:
   - buddhism
   - history
 description: "Two of Beijing's most important religious and cultural sites sit within walking distance of each other in the northeast of the city: the magnificent Yonghe Lama Temple — China's largest Tibetan Buddhist temple outside Tibet — and the tranquil Confucius Temple complex. This 2026 guide covers both sites comprehensively, with visiting tips, ticket information, transport, and what to eat in the surrounding neighbourhood."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/32463464/pexels-photo-32463464.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -20,6 +20,8 @@ ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=
 In the northeast of Beijing's old city, two extraordinary sacred complexes sit within a ten-minute walk of each other. One burns with incense, roars with devotional noise and houses the world's largest carved wooden Buddha. The other is silent, shaded by ancient cypress trees and protected by carved stone tablets, encoding the memory of the man who more than any other individual shaped Chinese civilisation.
 
 Combining the Yonghe Lama Temple and the Beijing Confucius Temple complex into a single half-day is one of Beijing's most rewarding cultural experiences — not because of tourist infrastructure, but because of genuine atmosphere.
+
+![Yonghe Lama Temple & Confucius Temple Beijing — Yonghe Lama Temple (雍和宫)](https://images.pexels.com/photos/32005102/pexels-photo-32005102.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Yonghe Lama Temple (雍和宫)
 
@@ -91,6 +93,8 @@ The temple's courtyards contain 198 steles recording the names of examination gr
 
 **Photography:** Excellent throughout. The Biyong Pavilion is particularly beautiful for photography in late afternoon light.
 
+![Yonghe Lama Temple & Confucius Temple Beijing — Guozijian Street (国子监街)](https://images.pexels.com/photos/18439754/pexels-photo-18439754.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Guozijian Street (国子监街)
 
 The hutong alley between the two complexes — Guozijian Street — is one of Beijing's best-preserved 18th-century commercial streets. Lined with low buildings selling traditional calligraphy materials, antique books, scholarly curios and tea, the street is also home to several excellent small restaurants and snack shops.
@@ -106,6 +110,8 @@ The neighbourhood around Yonghe Temple and Guozijian Street has a good concentra
 **Local neighbourhood restaurants near Yonghe Metro:** Multiple small restaurants serving Beijing noodles, zhajiangmian (炸酱面, noodles with minced pork sauce) and dumplings at local prices (¥15–¥30 per person, $2–$4).
 
 **Vegetarian option:** Several vegetarian Buddhist restaurants serve the area around Yonghe Temple; look for signs with lotus imagery. A full lunch costs ¥40–¥80 ($6–$11).
+
+![Yonghe Lama Temple & Confucius Temple Beijing — Getting There](https://images.pexels.com/photos/6952101/pexels-photo-6952101.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting There
 

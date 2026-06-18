@@ -12,7 +12,7 @@ tags:
   - culture
   - china
 description: "Nanluoguxiang is Beijing's most accessible hutong district — a 786-metre alley lined with courtyard houses, indie cafes, snack vendors, and craft shops. This guide covers the main street highlights, the quieter side lanes worth exploring, best local food, and how to get the most out of a Beijing hutong visit."
-ogImage: "https://images.unsplash.com/photo-1536098561742-ca998e48cbcc?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/34939614/pexels-photo-34939614.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Nanluoguxiang (南锣鼓巷, South Gong and Drum Lane) is Beijing's most famous hutong — a 786-metre pedestrian alley running north-south through the Drum Tower neighbourhood, lined with Ming and Qing dynasty courtyard houses that have been converted into boutiques, cafes, snack stalls, and craft workshops. It's become genuinely touristy over the past decade, but the main lane remains worth visiting, and the side alleys branching off it retain real neighbourhood character that rewards slower exploration.
@@ -20,6 +20,8 @@ Nanluoguxiang (南锣鼓巷, South Gong and Drum Lane) is Beijing's most famous 
 The name comes from the gong-and-drum towers visible from the north end of the alley — the Drum Tower (鼓楼) and Bell Tower (钟楼) that marked time for the imperial city. The area developed during the Yuan Dynasty when Kublai Khan laid out Beijing on a grid, and the hutong system here dates from that era, making it over 700 years old.
 
 ## Table of contents
+
+![Nanluoguxiang Hutong Beijing — The Main Lane](https://images.pexels.com/photos/6122271/pexels-photo-6122271.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Main Lane
 
@@ -45,6 +47,8 @@ Eight traditional hutong lanes branch off the main Nanluoguxiang alley, alternat
 
 **Juzi Hutong (菊儿胡同):** Has a famous contemporary courtyard housing development by architect Wu Liangyong that won the Aga Khan Award for Architecture. Worth seeking out if you're interested in how traditional hutong forms can be updated.
 
+![Nanluoguxiang Hutong Beijing — The Drum Tower Area](https://images.unsplash.com/photo-1733456504084-affcfe01a6e9?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw1fHxkcnVtJTIwdG93ZXJ8ZW58MHwwfHx8MTc4MTc4NDE4OXww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
+
 ## The Drum Tower Area
 
 At the north end of Nanluoguxiang, you emerge near the Drum Tower (鼓楼) and Bell Tower (钟楼). The Drum Tower (¥30 entry) has a collection of percussion instruments and hourly drum performances. The Bell Tower is currently periodically closed for restoration — check before visiting. The square between them has good benches and a different view back down toward the alley.
@@ -60,6 +64,8 @@ From the Drum Tower area, it's a short walk north to the Shichahai lake area (�
 **Winter:** The hutong in winter has a particular quality — bare trees, distant smell of coal heating (less common now but still present in some areas), the buildings photographing beautifully in low angled light. Cold but rewarding.
 
 **Summer evenings:** The outdoor seating of bars and cafes fills with locals, and there's a lively neighbourhood energy around 7–9pm.
+
+![Nanluoguxiang Hutong Beijing — Getting There](https://images.pexels.com/photos/36647047/pexels-photo-36647047.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting There
 

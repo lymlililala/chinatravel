@@ -12,10 +12,12 @@ tags:
   - water-cube
   - winter-olympics
 description: "Explore Beijing's Olympic Park, the stunning architectural showcase that hosted both the 2008 Summer and 2022 Winter Olympics — making Beijing the world's first dual Olympic city. This 2026 guide covers the iconic Bird's Nest and Water Cube, the Olympic Forest Park, the Ling Long Tower, winter sports experiences you can try yourself, dining and entertainment options, and practical tips for visiting this modern landmark district in northern Beijing."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/7462950/pexels-photo-7462950.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
+
+![Beijing Olympic Park — Dual Olympic City — A Unique Distinction](https://images.pexels.com/photos/30941720/pexels-photo-30941720.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Dual Olympic City — A Unique Distinction
 
@@ -71,6 +73,8 @@ For the 2022 Winter Olympics, the building was ingeniously converted into the "I
 
 Both the Bird's Nest and Water Cube are illuminated after dark, and the effect is stunning. The Water Cube cycles through colours — blue, green, purple — while the Bird's Nest glows red and gold. The best viewing spot is the Olympic Square between the two venues. Start your evening visit around 7:00 PM for the full effect.
 
+![Beijing Olympic Park — Olympic Forest Park (奥林匹克森林公园)](https://images.pexels.com/photos/31350268/pexels-photo-31350268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Olympic Forest Park (奥林匹克森林公园)
 
 ### The Green Heart
@@ -120,6 +124,8 @@ The 2022 Winter Olympics created a boom in winter sports participation across Ch
 **Curling Experience:** The Water Cube offers curling taster sessions on the actual Olympic curling sheets. ¥120 ($17 USD) for a 45-minute session including instruction. Available on weekends only; book ahead.
 
 **Nearby Ski Slopes:** Several ski resorts within 1-2 hours of Beijing offer day trips. Qiaobo Indoor Ski Resort in Shunyi has year-round indoor skiing, about 40 minutes from the Olympic Park by taxi. Day pass ¥300-500 ($42-69 USD).
+
+![Beijing Olympic Park — Dining and Entertainment](https://images.pexels.com/photos/8257971/pexels-photo-8257971.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Dining and Entertainment
 

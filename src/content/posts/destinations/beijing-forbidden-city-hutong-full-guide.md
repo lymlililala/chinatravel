@@ -21,12 +21,14 @@ tags:
   - culture
   - urban
 description: "The definitive Beijing travel guide — how to spend 3–5 days in China's imperial capital, from the Forbidden City to the best hutong courtyards, Peking duck, and lesser-known neighbourhood gems."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/1182334/pexels-photo-1182334.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Beijing is one of the world's great capital cities — 3,000 years of continuous habitation, the seat of five dynasties, and home to six UNESCO World Heritage Sites within city limits. It's also a thoroughly modern metropolis with extraordinary restaurants, cutting-edge galleries, and a creative energy that constantly surprises first-time visitors.
 
 ## Table of contents
+
+![Beijing — Top Attractions](https://images.pexels.com/photos/34449552/pexels-photo-34449552.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Top Attractions
 
@@ -77,6 +79,8 @@ Beijing's most famous hutong (traditional alley) area — a 786-metre pedestrian
 
 ---
 
+![Beijing — Neighbourhoods to Explore](https://images.pexels.com/photos/15556606/pexels-photo-15556606.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Neighbourhoods to Explore
 
 ### Sanlitun (三里屯)
@@ -89,6 +93,8 @@ University district with Peking University and Tsinghua University nearby. Young
 The area southwest of Tiananmen has been partially gentrified into an arts and design district while retaining traditional commercial character. Old shops selling silk, shoes, and traditional medicines sit alongside architecture studios.
 
 ---
+
+![Beijing — Food](https://images.pexels.com/photos/20683315/pexels-photo-20683315.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Food
 

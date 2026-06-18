@@ -11,12 +11,14 @@ tags:
   - street-food
   - north-china
 description: "Where to eat street food in Beijing — Wangfujing Snack Street (touristy but fun for scorpion-on-sticks), Guijie (Ghost Street) for late-night hotpot, the Sanlitun food lanes, and the local breakfast spots around hutong areas where you'll find jianbing and doujiang. What to order and realistic prices."
-ogImage: "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/33583796/pexels-photo-33583796.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Beijing's food scene is more than Peking duck and imperial palace banquets. The city runs on street food — the morning jianbing (煎饼) eaten during a rushed commute, the midnight lamb skewers around Sanlitun, the hotpot shops that stay open until 3am on Guijie. Getting this part of Beijing right means eating where actual Beijingers eat, not just where the tour groups stop for photos.
 
 ## Table of contents
+
+![Beijing Street Food & Night Markets — Wangfujing Snack Street: Touristy, But Worth It Once](https://images.pexels.com/photos/29714920/pexels-photo-29714920.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Wangfujing Snack Street: Touristy, But Worth It Once
 
@@ -46,6 +48,8 @@ Guijie genuinely picks up after 9pm and reaches full chaos around 11pm to midnig
 
 **Getting there:** Beixinqiao metro station, Line 5, then walk east about 5 minutes.
 
+![Beijing Street Food & Night Markets — Hutong Breakfast: What Beijingers Actually Eat in the Morning](https://images.pexels.com/photos/10751717/pexels-photo-10751717.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Hutong Breakfast: What Beijingers Actually Eat in the Morning
 
 The best Beijing breakfast culture happens inside the hutong alleyways, not on main tourist streets. The pattern is consistent: residents emerge around 7am, queue at their preferred breakfast stall, and eat on the street or take food back home.
@@ -71,6 +75,8 @@ Steamed buns with fillings — pork and fennel, pork and cabbage, or egg and chi
 The **Sanlitun Village** shopping complex and the surrounding lanes have everything from Japanese ramen to Turkish kebabs to Yunnan rice noodle shops. The **Ghost Street spinoff** area near Gongti North Road has some good late-night options.
 
 For street food specifically, the lanes east of Sanlitun bar street have **lamb skewer (羊肉串, yángròu chuàn) vendors** from Xinjiang operating out of converted three-wheelers. These are typically better quality than the tourist-facing versions — **¥3-5 per skewer**, minimum order usually 5-10 sticks. The lamb is marinated in cumin and chilli and cooked over charcoal.
+
+![Beijing Street Food & Night Markets — The Donghuamen Night Market Area](https://images.pexels.com/photos/36837717/pexels-photo-36837717.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Donghuamen Night Market Area
 

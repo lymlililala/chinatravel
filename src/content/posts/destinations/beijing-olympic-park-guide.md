@@ -1,6 +1,7 @@
 ---
 title: "Beijing Olympic Park Guide: Bird's Nest, Water Cube & 2008 Legacy"
 description: "Visit Beijing's Olympic Park — the spectacular centerpiece of the 2008 Summer Olympics and 2022 Winter Olympics. Explore the Bird's Nest stadium, Water Cube aquatics center, and the broader Forest Park, with practical tips for getting there and making the most of your visit."
+ogImage: "https://images.pexels.com/photos/16310139/pexels-photo-16310139.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Beijing"
 tags: ["beijing", "olympic-park", "birds-nest", "water-cube", "2008-olympics", "architecture", "chaoyang-district", "modern-beijing"]
@@ -11,6 +12,8 @@ tags: ["beijing", "olympic-park", "birds-nest", "water-cube", "2008-olympics", "
 When the sun sets over northern Beijing and the 91,000-seat **National Stadium** begins to glow amber in the dusk, it remains one of the most arresting pieces of architecture in the world. Nearly two decades after hosting the 2008 Summer Olympics — and then again the 2022 Winter Games — Beijing's Olympic Park has evolved from a sporting venue into a vast urban forest park that functions as the city's northern green lung and one of its most visited landmarks.
 
 ---
+
+![Beijing Olympic Park — The Two Olympic Games: A Unique Legacy](https://images.pexels.com/photos/24286129/pexels-photo-24286129.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Two Olympic Games: A Unique Legacy
 
@@ -56,6 +59,8 @@ The interior has been partially converted into a **water park** — slides, wave
 
 ---
 
+![Beijing Olympic Park — Olympic Forest Park](https://images.pexels.com/photos/11064032/pexels-photo-11064032.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Olympic Forest Park
 
 Immediately north of the main stadium complex, the **Olympic Forest Park (奥林匹克森林公园)** is a 680-hectare green space divided into two sections by the North Fifth Ring Road:
@@ -84,6 +89,8 @@ Connecting the venues, the **Olympic Green** is a formal landscape of tree-lined
 From central Beijing (Tiananmen), the journey takes approximately 35–40 minutes by metro.
 
 ---
+
+![Beijing Olympic Park — When to Visit](https://images.pexels.com/photos/30027097/pexels-photo-30027097.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## When to Visit
 

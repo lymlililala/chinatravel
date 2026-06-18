@@ -10,11 +10,14 @@ tags:
   - culture
   - shopping
 description: "The complete guide to Beijing's Chaoyang District — the international embassy zone, 798 Art District, Sanlitun nightlife and shopping, Chaoyang Park, and the most cosmopolitan neighbourhood in China's capital."
+ogImage: "https://images.pexels.com/photos/7479314/pexels-photo-7479314.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Beijing's Chaoyang District (朝阳区) is the city's most international zone — home to virtually every foreign embassy, the largest concentration of expats, the 798 contemporary art hub, and the Sanlitun bar and shopping district that serves as the beating heart of Beijing's nightlife.
 
 Chaoyang is where modern Beijing lives: the gleaming business towers of Guomao, the gallery-lined warehouses of 798, the rooftop bars of Sanlitun, and the weekend market culture of Panjiayuan.
+
+![Beijing Chaoyang District — Getting Around Chaoyang](https://images.pexels.com/photos/5302327/pexels-photo-5302327.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting Around Chaoyang
 
@@ -33,6 +36,8 @@ Sanlitun (三里屯) began as an embassy-adjacent bar street in the 1990s and ev
 **Bar Street North** (Sanlitun North Bar Street, 三里屯北路) still has the gritty original bar strip energy. **Gongti** (Workers' Stadium) nearby has Beijing's best nightclubs.
 
 **For visitors:** Sanlitun is useful for a Western meal if you need a break from Chinese food, or for evening drinks in a setting that requires less navigation than the hutong bar districts.
+
+![Beijing Chaoyang District — 798 Art District](https://images.pexels.com/photos/20523156/pexels-photo-20523156.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## 798 Art District
 
@@ -64,6 +69,8 @@ The 798 Art District (798艺术区) was built as military electronics factory co
 - Hand-crafted jewellery from ethnic minority artisans
 
 **Negotiation is expected.** Starting at 40–50% of the initial quoted price is reasonable. Very few items are genuinely antique — most are reproductions or "collectible" rather than museum-quality — but that's understood by both buyers and sellers.
+
+![Beijing Chaoyang District — Chaoyang Park](https://images.pexels.com/photos/26886992/pexels-photo-26886992.png?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Chaoyang Park
 

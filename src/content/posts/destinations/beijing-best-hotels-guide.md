@@ -11,12 +11,14 @@ tags:
   - planning
   - north-china
 description: "The best places to stay in Beijing by area — Dongcheng hutong district for atmosphere, Chaoyang for expat convenience, Wangfujing for tourist central access. Specific hotel and hostel picks at budget (¥200-400/night), mid-range (¥600-1200/night), and luxury (¥1500+/night). The trade-off between character and convenience."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/37506200/pexels-photo-37506200.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 The best neighbourhood to stay in Beijing depends entirely on what you want from the city. If this is your first time and the Forbidden City, hutongs, and Tiananmen are the priorities, the old Dongcheng district is the obvious answer. If you're here for business or want the most international amenities, Chaoyang is your district. If you want to be central to everything without necessarily being in the most atmospheric area, the Wangfujing/Wangfujing vicinity works. Beijing is a large city with a good metro system, so the consequences of a less-than-ideal neighbourhood choice are less severe than in a city without good transport.
 
 ## Table of contents
+
+![Stay Beijing — Neighbourhood Guide: Where to Base Yourself](https://images.pexels.com/photos/36647050/pexels-photo-36647050.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Neighbourhood Guide: Where to Base Yourself
 
@@ -44,6 +46,8 @@ The downside: you're farther from the historic sights, and the neighbourhood its
 
 **Xicheng** (西城区) contains the Summer Palace, Beihai Park, the historic hutong areas west of the Forbidden City, and the Nanluogu-adjacent areas. Often overlooked by visitors who default to Dongcheng, but equally atmospheric and often slightly cheaper. Good local eating options.
 
+![Stay Beijing — Budget Hotels and Hostels (¥200-400/night)](https://images.pexels.com/photos/7969105/pexels-photo-7969105.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Budget Hotels and Hostels (¥200-400/night)
 
 **Hutong courtyard hostels around Nanluoguxiang** — the best budget experience in Beijing. Private double rooms with shared bathroom in traditional courtyard architecture, ¥200-350/night. Some offer dorm beds at ¥80-120/night. Excellent atmosphere, knowledgeable staff, proximity to the hutong food scene.
@@ -53,6 +57,8 @@ The downside: you're farther from the historic sights, and the neighbourhood its
 **Standard Chinese business hotels (快捷酒店)** in the ¥200-350 range are plentiful throughout Beijing. Brands like Home Inn (如家), 7 Days (7天), and Hanting (汉庭) are clean, reliable, and often have included breakfast. English service is limited but check-in is straightforward.
 
 **Things to watch at budget level:** Check that the hotel accepts foreign passports (see the accommodation guide for details). Read recent reviews for any indication of current cleanliness or service issues.
+
+![Stay Beijing — Mid-Range Hotels (¥600-1,200/night)](https://images.pexels.com/photos/12232871/pexels-photo-12232871.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Mid-Range Hotels (¥600-1,200/night)
 

@@ -11,12 +11,14 @@ tags:
   - family
   - entertainment
 description: "The complete guide to Universal Studios Beijing — which lands to prioritize, how to book tickets online, the must-do rides, Express Passes, dining options, and how to avoid the longest queues."
-ogImage: "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/34042832/pexels-photo-34042832.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Universal Studios Beijing opened in September 2021 and immediately became one of the biggest entertainment stories in China. It's the largest Universal park ever built, covering 4 square kilometers, and it has several exclusive attractions that don't exist anywhere else in the Universal system. For visitors to Beijing who have a day or two to spare, it's a legitimate competitor for your time — even if you're not normally a theme park person.
 
 ## Table of contents
+
+![Beijing Universal Studios Resort — Booking Tickets](https://images.pexels.com/photos/32642491/pexels-photo-32642491.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Booking Tickets
 
@@ -46,6 +48,8 @@ The resort is in Tongzhou district, northeast Beijing. The most straightforward 
 By Didi from the CBD or Sanlitun: expect **¥50–80** and 30–50 minutes outside of rush hour. During peak park opening times (8–10am) traffic can add significant time.
 
 The resort is in an area with limited walking options around it, so plan to eat inside or arrive with snacks.
+
+![Beijing Universal Studios Resort — The Seven Themed Worlds](https://images.pexels.com/photos/9189258/pexels-photo-9189258.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Seven Themed Worlds
 
@@ -82,6 +86,8 @@ Universal Studios Beijing has made a real effort with food quality — probably 
 **Street carts throughout the park** sell popcorn, churros, and snacks for ¥30–55.
 
 **Tip:** You cannot bring outside food into Universal Studios Beijing (unlike Shanghai Disneyland). Plan your meals or budget accordingly. A full day for one adult including two meals and a couple of snacks will run ¥250–350 in food alone.
+
+![Beijing Universal Studios Resort — Practical Planning Tips](https://images.unsplash.com/photo-1587822766378-e47b139c56ad?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw4fHxQcmFjdGljYWwlMjBQbGFubmluZ3xlbnwwfDB8fHwxNzgxNzg0MjE2fDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## Practical Planning Tips
 

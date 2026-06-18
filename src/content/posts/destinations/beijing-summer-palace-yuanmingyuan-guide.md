@@ -11,9 +11,12 @@ tags:
   - gardens
   - culture
 description: "The Summer Palace and the Old Summer Palace (Yuanmingyuan) — Beijing's two great imperial garden complexes. How they differ, the specific sites in each, the historical story of the 1860 destruction, and how to combine both in one Beijing day."
+ogImage: "https://images.pexels.com/photos/20224297/pexels-photo-20224297.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Beijing has two extraordinary imperial garden complexes 2km apart in the northwestern suburbs — the Summer Palace (颐和园) and the Old Summer Palace / Yuanmingyuan (圆明园). They represent China's imperial garden tradition at its most ambitious, and the gap between them encapsulates one of the most significant events in Chinese history.
+
+![Summer Palace & Old Summer Palace — The Summer Palace (颐和园)](https://images.pexels.com/photos/2845940/pexels-photo-2845940.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Summer Palace (颐和园)
 
@@ -37,6 +40,8 @@ The Summer Palace is the largest and best-preserved classical Chinese imperial g
 
 **Getting there**: Metro Line 4, Xiyuan or Beigongmen stations.
 
+![Summer Palace & Old Summer Palace — The Old Summer Palace (圆明园, Yuanmingyuan)](https://images.pexels.com/photos/18180709/pexels-photo-18180709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The Old Summer Palace (圆明园, Yuanmingyuan)
 
 Yuanmingyuan ("Garden of Perfect Brightness") was the largest and most magnificent imperial garden complex in Chinese history — 350 hectares containing dozens of palace complexes built over 150 years by the Qianlong, Jiaqing, and Daoguang emperors. The Western Mansions section contained baroque palaces designed by Jesuit missionaries.
@@ -48,6 +53,8 @@ On October 6–18, 1860, British and French troops looted and burned Yuanmingyua
 **The cultural resonance**: Yuanmingyuan's destruction is a defining national trauma narrative in modern China — the "Century of Humiliation" (百年屈辱) begins symbolically with these ruins. Visiting Chinese students often have emotional responses at the site.
 
 **The rest of the park**: Beyond the ruins, the original Chinese garden areas are being reconstructed. Some sections have been rebuilt; others remain as landscape with reconstructed labels indicating original buildings.
+
+![Summer Palace & Old Summer Palace — Combining Both Sites](https://images.pexels.com/photos/1445646/pexels-photo-1445646.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Combining Both Sites
 

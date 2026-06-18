@@ -11,7 +11,7 @@ tags:
   - beginners
   - sichuan
 description: "A 3-day Chengdu itinerary — morning at the Giant Panda Base, afternoon at the Jinli Ancient Street, a day trip to Leshan Giant Buddha, and how to eat Sichuan food without burning your mouth off. Practical metro and transport info included."
-ogImage: "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/18505677/pexels-photo-18505677.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Chengdu has figured out how to be a world-class tourism destination while remaining genuinely livable. It's relaxed in a way that Beijing isn't, with an eating and drinking culture that prioritizes pleasure — long lunches, mahjong in teahouses, and hotpot dinners that last three hours. Yes, you're here partly to see the pandas. But stay a bit longer and you'll understand why Chengdu consistently ranks as the city Chinese people most want to move to.
@@ -19,6 +19,8 @@ Chengdu has figured out how to be a world-class tourism destination while remain
 This itinerary covers the pandas, a day trip to the Leshan Giant Buddha, and enough time to eat your way through the city properly.
 
 ## Table of contents
+
+![Chengdu — Before You Arrive](https://images.pexels.com/photos/3945233/pexels-photo-3945233.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Before You Arrive
 
@@ -31,6 +33,8 @@ This itinerary covers the pandas, a day trip to the Leshan Giant Buddha, and eno
 **Sichuan cuisine warning:** "Mild" in Chengdu can still be spicy by most standards. When ordering, specify **微辣 (wēi là)** for the mildest option. Numbing spice (from Sichuan peppercorns) is different from heat — it makes your lips tingle rather than burn, which catches first-timers off guard.
 
 ---
+
+![Chengdu — Day 1: Giant Panda Base & Jinli Ancient Street](https://images.pexels.com/photos/31639676/pexels-photo-31639676.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day 1: Giant Panda Base & Jinli Ancient Street
 
@@ -63,6 +67,8 @@ Tonight you eat hotpot. **Haidilao** is the reliable international chain (queues
 Key order items: thin-sliced beef (肥牛), tripe (毛肚), lotus root (莲藕), enoki mushrooms (金针菇), sesame dipping sauce. Go half-and-half broth (鸳鸯锅) — one spicy side, one clear soup side.
 
 ---
+
+![Chengdu — Day 2: Leshan Giant Buddha Day Trip](https://images.pexels.com/photos/879359/pexels-photo-879359.png?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day 2: Leshan Giant Buddha Day Trip
 

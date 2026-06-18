@@ -10,11 +10,14 @@ tags:
   - food
   - destinations
 description: "The definitive food guide to Beijing — from the perfect Peking duck restaurant to hutong snack alleys, lamb hotpot, zhajiangmian noodles, and the night markets that locals love and tourists miss."
+ogImage: "https://images.pexels.com/photos/3603453/pexels-photo-3603453.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Beijing's food scene is one of China's most distinctive — shaped by imperial court cuisine, northern Chinese staples, Muslim halal cooking, and the collision of 22 million people from every province. This is the guide to eating well in the capital, from celebrated roast duck houses to narrow hutong snack lanes.
 
 ## Table of contents
+
+![Beijing Food — The Crown Jewel: Peking Duck (北京烤鸭)](https://images.pexels.com/photos/31135839/pexels-photo-31135839.png?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Crown Jewel: Peking Duck (北京烤鸭)
 
@@ -55,6 +58,8 @@ Mongolian-influenced lamb hotpot is Beijing's quintessential cold-weather meal. 
 
 ---
 
+![Beijing Food — Zhajiangmian (炸酱面): The Soul of Beijing Noodles](https://images.pexels.com/photos/3603456/pexels-photo-3603456.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Zhajiangmian (炸酱面): The Soul of Beijing Noodles
 
 Zhajiangmian — thick wheat noodles topped with a rich pork-and-fermented bean paste sauce (炸酱), shredded cucumber, radish, edamame, and bean sprouts — is Beijing's most beloved everyday dish.
@@ -84,6 +89,8 @@ The hutong areas around Drum Tower, Nanluoguxiang, and Guozijian Street have Bei
 **Lu Zhu Huo Shao (卤煮火烧)** — a working-class Beijing staple: slow-braised pork intestines and tofu in a rich broth, served with wheat flatbread (火烧). Sounds confronting; tastes extraordinary. Look for shops with massive copper vats at the front.
 
 ---
+
+![Beijing Food — Guijie (簋街): Beijing's 24-Hour Food Street](https://images.pexels.com/photos/36647057/pexels-photo-36647057.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Guijie (簋街): Beijing's 24-Hour Food Street
 

@@ -1,6 +1,7 @@
 ---
 title: "Shexian Ancient Memorial Arches: Huizhou's Greatest Stone Monuments"
 description: "Explore the Tang Yue Memorial Arches and ancient streets of Shexian in Anhui — the remarkable Huizhou memorial arch complex commemorating Bao Gong's loyal ancestors, the best-preserved ancient county town in Anhui, extraordinary ink stone craft tradition, and how to visit from Huangshan."
+ogImage: "https://images.pexels.com/photos/8665072/pexels-photo-8665072.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Anhui"
 tags: ["anhui", "shexian", "memorial-arches", "tang-yue", "huizhou", "architecture", "ink-stone", "bao-gong", "ancient-town"]
@@ -13,6 +14,8 @@ tags: ["anhui", "shexian", "memorial-arches", "tang-yue", "huizhou", "architectu
 The **Tang Yue Memorial Arch Group (棠樾牌坊群)** — seven arches standing in a line outside Shexian — is the finest surviving example of this tradition.
 
 ---
+
+![Shexian Ancient Memorial Arches — Tang Yue Memorial Arches (棠樾牌坊群)](https://images.pexels.com/photos/4095421/pexels-photo-4095421.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Tang Yue Memorial Arches (棠樾牌坊群)
 
@@ -28,6 +31,8 @@ Reading from east to west, the arches alternate between **loyalty arches** (comm
 
 ---
 
+![Shexian Ancient Memorial Arches — Shexian Ancient County Town](https://images.pexels.com/photos/33672248/pexels-photo-33672248.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Shexian Ancient County Town
 
 The county town itself is one of the best-preserved ancient administrative centres in Anhui:
@@ -37,6 +42,8 @@ The county town itself is one of the best-preserved ancient administrative centr
 **Bao Gong Ancestral Hall (包公祠堂):** A memorial to the famous Northern Song official **Bao Zheng** (999–1062 CE) — the most celebrated incorruptible judge in Chinese history, whose ancestors originated from Shexian. The ancestral hall contains documents and artefacts related to the Bao clan lineage and the historical Judge Bao.
 
 ---
+
+![Shexian Ancient Memorial Arches — Shexian Ink Stone (歙砚)](https://images.pexels.com/photos/8627038/pexels-photo-8627038.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Shexian Ink Stone (歙砚)
 

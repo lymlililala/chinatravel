@@ -11,12 +11,14 @@ tags:
   - hiking
   - north-china
 description: "The most practical Great Wall section for visitors — Mutianyu's combination of restored wall, dramatic scenery, and the toboggan slide descent that makes it beloved by families. The ticket options (cable car up + toboggan down vs full hike), the best viewing tower to reach, the two-hour vs four-hour visit comparison, and transport from Beijing."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/33899286/pexels-photo-33899286.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 The Great Wall has 21,196km of walls, trenches, and fortifications according to the most comprehensive survey conducted by the Chinese government. Of this, visitors can realistically access perhaps a dozen sections with existing infrastructure. Mutianyu (慕田峪) — 73km northeast of Beijing in Huairou District — is the one that best balances dramatic scenery, quality restoration, manageable crowds, and practical accessibility. It's not the most authentic (that would be an unrestored section), nor the most famous (Badaling gets more visitors), but for most travellers it's the best combination.
 
 ## Table of contents
+
+![Great Wall at Mutianyu — Why Mutianyu Over Badaling](https://images.pexels.com/photos/37065039/pexels-photo-37065039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Why Mutianyu Over Badaling
 
@@ -25,6 +27,8 @@ Badaling is the most visited section of the Great Wall on Earth — over 10 mill
 Mutianyu has good facilities, solid restoration, and significantly fewer visitors — typically 10-20% of Badaling's volume on the same day. The section of wall here is slightly longer (4.5km of walkable wall with 23 watchtowers) and the scenery arguably more dramatic, particularly in autumn when the forest that covers the hillsides below the wall turns red and yellow.
 
 The toboggan slide descent (discussed below) is also a strong distinguishing feature that families with children find decisive.
+
+![Great Wall at Mutianyu — The Section Layout](https://images.pexels.com/photos/34449563/pexels-photo-34449563.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Section Layout
 
@@ -35,6 +39,8 @@ Mutianyu's accessible section runs roughly east-west along a mountain ridge. The
 **West (toward Tower 4 and Tower 6):** The western section includes the Ox-Horn Wall (牛角边) — a section where the outer wall extends at a sharp angle from the main wall line, a defensive design that allowed archers to shoot at attackers approaching the main gate from the side. This section is less crowded than the eastern approach and the views west into the folded mountain ranges are extensive in clear weather.
 
 Allow at least 2 hours on the wall to walk the main section properly. A thorough exploration of both east and west sections takes 4 hours. There is nowhere to buy substantial food on the wall itself — the restaurant area is at the base.
+
+![Great Wall at Mutianyu — Tickets & Access Options](https://images.pexels.com/photos/4568193/pexels-photo-4568193.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Tickets & Access Options
 

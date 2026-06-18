@@ -11,7 +11,7 @@ tags:
   - beginners
   - north-china
 description: "A detailed 5-day Beijing itinerary — Forbidden City and Tiananmen on Day 1, Summer Palace and Yuanmingyuan on Day 2, Great Wall at Mutianyu on Day 3, Temple of Heaven and Panjiayuan market on Day 4, 798 Art District and hutong dinner on Day 5. Metro routes, ticket booking, and restaurant picks."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/9586996/pexels-photo-9586996.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Five days in Beijing lets you breathe. You can see the Forbidden City without rushing, spend a proper morning at the Great Wall, and still have time to wander hutongs without an agenda. This itinerary is designed for first-time visitors who want depth rather than a checklist — structured days that leave room for the unexpected.
@@ -19,6 +19,8 @@ Five days in Beijing lets you breathe. You can see the Forbidden City without ru
 Beijing is large and its traffic is genuinely challenging. The metro is the answer to most transportation problems. This guide is built around metro access, with taxi alternatives noted where they save meaningful time.
 
 ## Table of contents
+
+![Beijing — Before You Arrive](https://images.pexels.com/photos/3053838/pexels-photo-3053838.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Before You Arrive
 
@@ -54,6 +56,8 @@ Start at 7:30am. Beijing's most popular sights are best in the early morning bef
 **Houhai** (后海) in Xicheng is a 20-minute taxi from Wangfujing. This lake area surrounded by bars, restaurants, and hutongs is one of Beijing's most pleasant evening spots. Grab dinner at one of the traditional courtyard restaurants around the lake (¥80-150/person for proper Sichuan or Beijing cuisine), then walk the lakeside path after dark.
 
 ---
+
+![Beijing — Day 2: Summer Palace & Yuanmingyuan](https://images.pexels.com/photos/16158517/pexels-photo-16158517.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day 2: Summer Palace & Yuanmingyuan
 
@@ -98,6 +102,8 @@ Mutianyu offers 22 towers on a preserved Ming Dynasty section with stunning ridg
 For dinner tonight: try **Peking Duck at Siji Minfu** (四季民福) near the Forbidden City (¥120-160/person) — one of Beijing's best duck restaurants without the white-tablecloth prices of Da Dong.
 
 ---
+
+![Beijing — Day 4: Temple of Heaven & Panjiayuan Market](https://images.pexels.com/photos/18180711/pexels-photo-18180711.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day 4: Temple of Heaven & Panjiayuan Market
 

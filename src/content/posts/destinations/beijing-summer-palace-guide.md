@@ -12,7 +12,7 @@ tags:
   - history
   - garden
 description: "The Summer Palace (颐和园) is Beijing's most beautiful imperial garden — 294 hectares of Kunming Lake, pavilion-topped hills, and the world's longest painted corridor. This 2026 complete guide covers all major areas of the garden, ticket options, best photography spots, how to avoid crowds, and the imperial history behind one of China's greatest landscape achievements."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/12112852/pexels-photo-12112852.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -20,6 +20,8 @@ ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=
 Beijing has no shortage of imperial grandeur — the Forbidden City, the Temple of Heaven, the Ming Tombs — but the Summer Palace has something the others don't: it's a living garden that changes with every season and every hour of the day. The Forbidden City is overwhelming and magnificent; the Summer Palace is beautiful in a way that makes you want to stay.
 
 The palace was the summer retreat of Qing Dynasty emperors, particularly Empress Dowager Cixi who rebuilt and expanded it in the 1880s using funds notoriously diverted from the imperial navy budget. The result is 294 hectares of sculpted landscape — the southern two-thirds are Kunming Lake, the north is dominated by Longevity Hill with its pavilions, temple complex, and marble boat — all unified by the famous Long Corridor, a 728-meter painted gallery connecting the lakeside palaces.
+
+![Summer Palace Beijing — Getting There](https://images.pexels.com/photos/30836814/pexels-photo-30836814.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting There
 
@@ -56,6 +58,8 @@ Beijing traffic can be severe, especially on weekends and holidays. The metro is
 - Off-season (November 1–March 31): 7am–7pm (ticket offices close at 6pm)
 
 Entry starts at 6am — arriving at opening to walk the gardens in early light, before the masses arrive, is one of Beijing's great morning experiences.
+
+![Summer Palace Beijing — Main Areas: The Essential Circuit](https://images.pexels.com/photos/38163825/pexels-photo-38163825.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Main Areas: The Essential Circuit
 
@@ -116,6 +120,8 @@ The lakefront shopping street to the east of the Marble Boat is a replica of a S
 **October–November**: Clear autumn skies, best visibility for views of the hill and across the lake. Some foliage color on the hillsides.
 
 **December–February**: Ice skating on the frozen lake (when conditions permit). Snow transforms the entire composition. Fewer visitors. Dress very warmly.
+
+![Summer Palace Beijing — Photography Guide](https://images.pexels.com/photos/20719367/pexels-photo-20719367.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Photography Guide
 

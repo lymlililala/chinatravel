@@ -12,10 +12,12 @@ tags:
   - monastery-stay
   - pilgrimage
 description: "Journey to Jiuhua Mountain, one of China's four sacred Buddhist mountains and the bodhimanda of Ksitigarbha, the Bodhisattva of the Great Vow. This 2026 guide covers the ancient temples where monks have chanted for over a millennium, the pilgrimage trails connecting sacred peaks, monastery guesthouse stays, the famous flesh-body relics, vegetarian Buddhist cuisine, and practical advice for experiencing this profoundly spiritual mountain in southern Anhui."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/31582900/pexels-photo-31582900.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
+
+![Jiuhua Mountain Anhui — Jiuhua — The Mountain of the Great Vow](https://images.pexels.com/photos/15766744/pexels-photo-15766744.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Jiuhua — The Mountain of the Great Vow
 
@@ -56,6 +58,8 @@ One of the four great temples of Jiuhua, Zhiyuan is known for its beautiful arch
 ### Tending Garden Monastery (旃檀林)
 
 The largest temple complex on Jiuhua, built in the Ming Dynasty and extensively renovated. The complex includes three major halls dedicated to different Buddhist figures, and the main Ksitigarbha statue is 12 metres tall. The monastery is active, with about 50 resident monks, and you can observe — or participate in — daily chanting sessions.
+
+![Jiuhua Mountain Anhui — Pilgrimage Trails and Peaks](https://images.pexels.com/photos/10887389/pexels-photo-10887389.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Pilgrimage Trails and Peaks
 
@@ -108,6 +112,8 @@ Jiuhua's vegetarian tradition is one of the oldest and most refined in China, wi
 **Temple Restaurants:** Most major temples serve vegetarian meals to visitors. Lunch ¥20-30 ($2.80-4.20 USD), dinner ¥25-40 ($3.50-5.50 USD). The food is simple but well-prepared.
 
 **Jiuhua Street Restaurants:** The commercial street near Huacheng Temple has several vegetarian restaurants. Meals ¥30-50 ($4.20-7 USD) per person.
+
+![Jiuhua Mountain Anhui — Practical Information](https://images.pexels.com/photos/31835392/pexels-photo-31835392.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Practical Information
 

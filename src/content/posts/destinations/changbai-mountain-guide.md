@@ -11,7 +11,7 @@ tags:
   - winter
   - northeast-china
 description: "Changbai Mountain (长白山) on the China-North Korea border — the Heaven Lake (天池) volcanic crater lake split between China and North Korea (you can see North Korean territory from the north peak), the valley of hot springs, the Changbai Waterfall, and the seasonal consideration (north slope for best views, west slope for hot springs access year-round)."
-ogImage: "https://images.unsplash.com/photo-1437846972679-9e6e537be46e?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/15528404/pexels-photo-15528404.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Changbai Mountain (长白山, Baekdu Mountain in Korean) straddles the border between China's Jilin Province and North Korea, and its volcanic crater lake — Heaven Lake (天池) — is split exactly along the international boundary. From the Chinese north peak, you look south across the deepest alpine lake in China to the North Korean side of the rim. It is one of the stranger border experiences available to tourists.
@@ -19,6 +19,8 @@ Changbai Mountain (长白山, Baekdu Mountain in Korean) straddles the border be
 The mountain itself is extraordinary independent of geopolitics. The Heaven Lake caldera was formed by a massive volcanic eruption around 946 CE — one of the most powerful volcanic events in the past 2,000 years — and the lake that filled the crater is 2,189 metres above sea level, 384 metres deep, and an almost supernatural shade of blue-green.
 
 ## Table of contents
+
+![Changbai Mountain — The Three Slopes: Which to Choose](https://images.pexels.com/photos/15528406/pexels-photo-15528406.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Three Slopes: Which to Choose
 
@@ -42,6 +44,8 @@ From the North Slope, the standard procedure is to take a shuttle bus to the Sky
 
 The crater rim walk is exposed to wind and cold even in summer. Bring a jacket regardless of the weather at the mountain base.
 
+![Changbai Mountain — The Changbai Waterfall](https://images.pexels.com/photos/34257268/pexels-photo-34257268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The Changbai Waterfall
 
 The Changbai Waterfall (长白瀑布) is the outflow point of Heaven Lake — the water exits the crater at the north gap and falls 68 metres in a single drop before continuing as the headwaters of the Songhua River. The waterfall is at its most impressive in late spring and summer when snowmelt augments the flow.
@@ -55,6 +59,8 @@ The Julong Hot Springs Valley (聚龙温泉) on the North Slope is where geother
 The springs are coloured with mineral deposits — yellow, orange, and white — and emit sulfurous steam that is visible from a distance. The valley is a short walk from the main path to the waterfall. Entry is included in the main scenic area ticket.
 
 In winter (December–March), the contrast between the frozen landscape and the steaming, bubbling springs is particularly atmospheric.
+
+![Changbai Mountain — Winter vs Summer: Seasonal Reality](https://images.pexels.com/photos/35491820/pexels-photo-35491820.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Winter vs Summer: Seasonal Reality
 

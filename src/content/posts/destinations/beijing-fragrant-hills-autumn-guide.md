@@ -1,6 +1,7 @@
 ---
 title: "Beijing Fragrant Hills Autumn Foliage Guide: Red Leaves & Imperial Forest"
 description: "Visit Fragrant Hills (Xiangshan) in western Beijing for the famous autumn red-leaf season — when Chinese smoke trees turn crimson in mid-October, the imperial hunting park fills with colour, and visitors from across Beijing make the pilgrimage for what locals call 'the most beautiful season in the capital.'"
+ogImage: "https://images.pexels.com/photos/5714052/pexels-photo-5714052.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Beijing"
 tags: ["beijing", "fragrant-hills", "xiangshan", "autumn-foliage", "red-leaves", "imperial-park", "western-hills", "photography"]
@@ -13,6 +14,8 @@ Every year in mid-October, when the temperatures drop below 10°C at night and t
 The autumn foliage display here — centred on the **Chinese smoke tree (黄栌, huánglú)** whose leaves produce a spectrum from yellow-gold to deep crimson — is the most celebrated seasonal event in Beijing after the Spring Festival. The hills have been an imperial hunting park since the Jin dynasty (12th century CE); the Qing emperors built a formal garden complex here in the 18th century. But locals come in October not for history but for colour.
 
 ---
+
+![Beijing Fragrant Hills Autumn Foliage — The Autumn Colour Display](https://images.pexels.com/photos/21914736/pexels-photo-21914736.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Autumn Colour Display
 
@@ -29,6 +32,8 @@ The colour change is triggered by **cold nights below 5°C** combined with sunny
 Beyond the smoke trees, ginkgo, maple, and various oak species in the park contribute yellows and ambers. The most concentrated colour is on the **south slope** of the main peak, accessible from the East Gate.
 
 ---
+
+![Beijing Fragrant Hills Autumn Foliage — The Park](https://images.pexels.com/photos/5800214/pexels-photo-5800214.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Park
 
@@ -47,6 +52,8 @@ A Qing dynasty garden complex near the East Gate — a miniature imperial garden
 A Tibetan-style Buddhist temple complex built by the Qianlong Emperor as a gesture toward the Panchen Lama. The yellow-tiled stupa and prayer hall are architecturally distinctive in this landscape of Han-style Chinese garden buildings.
 
 ---
+
+![Beijing Fragrant Hills Autumn Foliage — Practical Information](https://images.pexels.com/photos/14554767/pexels-photo-14554767.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Practical Information
 
