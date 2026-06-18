@@ -1482,12 +1482,12 @@
     },
     {
       "source": "/tags/gluten-free",
-      "destination": "/tags/dietary/",
+      "destination": "/tags/food/",
       "permanent": true
     },
     {
       "source": "/tags/gluten-free/",
-      "destination": "/tags/dietary/",
+      "destination": "/tags/food/",
       "permanent": true
     },
     {
@@ -2158,6 +2158,236 @@
     {
       "source": "/posts/shanghai-metro-:path*",
       "destination": "/posts/toolkit/shanghai-metro-:path*",
+      "permanent": true
+    },
+    {
+      "source": "/tags/li-culture",
+      "destination": "/tags/minority-culture/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/li-culture/",
+      "destination": "/tags/minority-culture/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/tuwa-people",
+      "destination": "/tags/minority-culture/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/tuwa-people/",
+      "destination": "/tags/minority-culture/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/allergy-cards",
+      "destination": "/tags/health/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/allergy-cards/",
+      "destination": "/tags/health/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/peanut-allergy",
+      "destination": "/tags/health/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/peanut-allergy/",
+      "destination": "/tags/health/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/permits",
+      "destination": "/tags/visa/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/permits/",
+      "destination": "/tags/visa/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/macaques",
+      "destination": "/tags/nature/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/macaques/",
+      "destination": "/tags/nature/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/rural-china",
+      "destination": "/tags/nature/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/rural-china/",
+      "destination": "/tags/nature/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/hemu-village",
+      "destination": "/tags/xinjiang/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/hemu-village/",
+      "destination": "/tags/xinjiang/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/hakka",
+      "destination": "/tags/fujian/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/hakka/",
+      "destination": "/tags/fujian/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/avatar-mountains",
+      "destination": "/tags/zhangjiajie/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/avatar-mountains/",
+      "destination": "/tags/zhangjiajie/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/wulingyuan",
+      "destination": "/tags/zhangjiajie/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/wulingyuan/",
+      "destination": "/tags/zhangjiajie/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/women-travellers",
+      "destination": "/tags/solo-travel/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/women-travellers/",
+      "destination": "/tags/solo-travel/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/couple",
+      "destination": "/tags/solo-travel/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/couple/",
+      "destination": "/tags/solo-travel/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/south",
+      "destination": "/tags/south-china/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/south/",
+      "destination": "/tags/south-china/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/lijiang-river",
+      "destination": "/tags/guilin/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/lijiang-river/",
+      "destination": "/tags/guilin/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/emei",
+      "destination": "/tags/sacred-mountain/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/emei/",
+      "destination": "/tags/sacred-mountain/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/emei-mountain",
+      "destination": "/tags/sacred-mountain/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/emei-mountain/",
+      "destination": "/tags/sacred-mountain/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/duty-free",
+      "destination": "/tags/shopping/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/duty-free/",
+      "destination": "/tags/shopping/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/dietary-restrictions",
+      "destination": "/tags/food/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/dietary-restrictions/",
+      "destination": "/tags/food/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/vegan-china",
+      "destination": "/tags/food/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/vegan-china/",
+      "destination": "/tags/food/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/buddhist-food",
+      "destination": "/tags/food/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/buddhist-food/",
+      "destination": "/tags/food/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/baozi",
+      "destination": "/tags/food/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/baozi/",
+      "destination": "/tags/food/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/chunyun",
+      "destination": "/tags/spring-festival/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/chunyun/",
+      "destination": "/tags/spring-festival/",
       "permanent": true
     }
   ]
