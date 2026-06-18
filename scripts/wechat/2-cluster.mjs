@@ -19,7 +19,7 @@ mkdirSync(DATA_DIR, { recursive: true })
 const OUT = join(DATA_DIR, 'clusters.json')
 
 const sources = await fetchSources({ sinceDays: DAYS, minBodyLen: 200 })
-console.log(`从 sources.json 读取最近 ${DAYS} 天：${sources.length} 篇`)
+console.log(`读取源文最近 ${DAYS} 天：${sources.length} 篇（Supabase dc_wx_sources 或本地 sources.json）`)
 // 给模型的精简清单（不含全文，省 token）
 const list = sources.map((s, i) => ({ id: i, account: s.account, title: s.title, digest: (s.digest || '').slice(0, 80) }))
 
