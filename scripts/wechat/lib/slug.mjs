@@ -10,6 +10,7 @@ const MAX_LEN = 60
 export function slugify(s) {
   const kebab = (s || '')
     .toLowerCase()
+    .replace(/[''’`]/g, '')        // 先去撇号/引号：China's → chinas（而非 china-s）
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/^-+|-+$/g, '')
     .replace(/-{2,}/g, '-')

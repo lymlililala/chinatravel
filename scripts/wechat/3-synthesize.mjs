@@ -16,6 +16,15 @@ function arg(name, def) {
   const i = process.argv.indexOf(name)
   return i === -1 ? def : process.argv[i + 1]
 }
+
+// meta description 兜底裁剪到 ≤160（质量闸门上限 165，留余量）：按词边界截断，不留半词/省略号。
+function clampDesc(s, max = 160) {
+  const desc = (s || '').trim()
+  if (desc.length <= max) return desc
+  const cut = desc.slice(0, max)
+  const lastSpace = cut.lastIndexOf(' ')
+  return (lastSpace > 80 ? cut.slice(0, lastSpace) : cut).replace(/[\s,;:.\-–—]+$/, '')
+}
 const LIMIT = arg('--limit', null) ? Number(arg('--limit', null)) : null
 const DAYS = Number(arg('--days', 14))
 
@@ -69,7 +78,7 @@ Return ONLY JSON:
 {
  "slug":"clean-lowercase-hyphenated-slug, max 6 words, start with the place/topic, NO date, NO random suffix (e.g. northwest-china-landscapes-guide)",
  "title":"English title (50-70 chars, compelling, includes the destination)",
- "description":"150-160 char English meta description",
+ "description":"English meta description, STRICTLY 140-158 characters (never exceed 160), one sentence, no trailing ellipsis",
  "content":"full Markdown body (starts with a short intro paragraph, then '## Table of contents', includes 3-5 ![alt](IMG: ...) image placeholders)",
  "tags":["english lowercase tags, prefer on-site tags"],
  "faq":[{"question":"...","answer":"..."}],  // >= 3 pairs, foreigner-relevant
@@ -105,6 +114,7 @@ for (const c of clusters) {
   try {
     const d = await ds.chatJSON([{ role: 'system', content: SYS }, { role: 'user', content: userMsg }], { maxTokens: 12000, temperature: 0.6 })
     d.slug = uniqueSlug(d.slug || c.working_title, existing)
+    d.description = clampDesc(d.description)
     // 用建议值兜底
     d.category = d.category || c.suggested_category || 'destination'
     d.level = d.level || c.suggested_level || 'intermediate'
