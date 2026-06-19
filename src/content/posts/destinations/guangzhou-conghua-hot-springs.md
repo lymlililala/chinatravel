@@ -12,12 +12,14 @@ tags:
   - guangdong
   - spa resort
 description: "Conghua Hot Springs is Guangdong's premier spa destination — a valley of natural mineral springs in the mountains north of Guangzhou used by emperors, elite athletes, and weekend city escapes for centuries. This 2026 guide covers the best resorts, how the springs differ, prices, transport from Guangzhou, and tips for combining your hot springs stay with hiking and local food."
-ogImage: "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/1069765/pexels-photo-1069765.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
 
 ## Conghua Hot Springs: Guangdong's Original Wellness Escape
+
+![Conghua Hot Springs Guangzhou — Conghua Hot Springs: Guangdong's Original Wellness Escape](https://images.pexels.com/photos/15289946/pexels-photo-15289946.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Long before wellness tourism became a global industry, people in Guangdong were making the trip to Conghua. The valley sits about 80km north of Guangzhou city centre in the mountains where the Liu River flows cold and clear through bamboo forest and persimmon orchards. Beneath these mountains, geothermal activity produces hot spring water that emerges at 30–50°C and is high in radon and bicarbonate minerals long credited with therapeutic properties.
 
@@ -37,6 +39,8 @@ The most medically studied type in the region. Radon-containing springs are moni
 
 ### Bicarbonate Springs
 Slightly effervescent, with a softer mineral character. These spring pools often have a milky appearance due to CO2 dissolved in the water. Considered particularly effective for skin conditions and stress relief.
+
+![Conghua Hot Springs Guangzhou — Best Resorts in Conghua (2026)](https://images.pexels.com/photos/15587173/pexels-photo-15587173.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Best Resorts in Conghua (2026)
 
@@ -88,6 +92,8 @@ The drive from central Guangzhou to Conghua takes 1–1.5 hours in normal traffi
 
 ### By High-Speed Train (from Further Afield)
 Visitors from Shenzhen, Hong Kong, or other cities can take a high-speed train to Guangzhou and then transfer to the Metro Line 14 route.
+
+![Conghua Hot Springs Guangzhou — Best Time to Visit Conghua](https://images.pexels.com/photos/5868296/pexels-photo-5868296.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Best Time to Visit Conghua
 

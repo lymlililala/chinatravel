@@ -23,6 +23,8 @@ I first stumbled into Shantou by accident, catching an overnight bus from Xiamen
 
 ## Why Visit Shantou in 2026
 
+![Shantou Guangdong — Why Visit Shantou in 2026](https://images.pexels.com/photos/13092792/pexels-photo-13092792.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 Shantou is one of China's original Special Economic Zones — designated alongside Shenzhen and Zhuhai back in 1980 — but it never quite got the same explosive development. That's turned out to be a gift for travelers. The old city has retained its layered architecture of colonial trading houses, overseas Chinese mansion-style buildings, and narrow lanes that smell of incense and dried seafood.
 
 There's genuine buzz here in 2026. The OCT Group (known for their Happy Valley theme parks) has developed a creative cultural park and film studio on the western edge of the city, drawing young Chinese tourists who want something more experiential than a museum visit. Meanwhile, the food scene that has always existed here is finally getting national attention, with Teochew restaurants in Shanghai and Beijing sparking curiosity about the source.
@@ -49,6 +51,8 @@ Buses connect Shantou with most Guangdong cities and parts of Fujian. The main b
 Shantou is compact enough that a combination of walking and DiDi taxis handles most needs. The base taxi fare is ¥8 for the first 2km, then ¥2.6/km. Most rides within the city center cost ¥15–30.
 
 Shared bicycles (mainly Hello Bike and Meituan Bike) are everywhere and perfect for exploring the old city and seafront. Hourly cost is about ¥1.5–3. Download one app and register before you arrive.
+
+![Shantou Guangdong — Shantou Old City (汕头老市区)](https://images.pexels.com/photos/37280871/pexels-photo-37280871.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Shantou Old City (汕头老市区)
 
@@ -108,6 +112,8 @@ Morning congee at a traditional shop costs ¥15–25 per person including severa
 - **Shacha Street (沙茶街)**: The most concentrated restaurant zone, open from lunch through late night
 - **Jinping Night Market**: Starts around 6pm, runs until 2am — chaotic, delicious, cheap
 - **Zhongshan Park Morning Market**: Locals do breakfast here from 5:30am
+
+![Shantou Guangdong — Beaches and Coastal Areas](https://images.pexels.com/photos/28833728/pexels-photo-28833728.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Beaches and Coastal Areas
 

@@ -12,7 +12,7 @@ tags:
   - dim-sum
   - south-china
 description: "The complete Guangzhou food guide — the city that gave the world Cantonese food. The best dim sum restaurants, where to find char siu and roast goose, the Guangzhou congee (粥) culture at breakfast, seafood in Xiacun, and what's on the menu at a proper Cantonese family restaurant."
-ogImage: "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/7614897/pexels-photo-7614897.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 If there's one city in China where the food genuinely matters above everything else — where locals will spend two hours discussing where to get the best braised goose feet, where restaurants live and die on the quality of their stock — it's Guangzhou. Cantonese cuisine is the world's most exported Chinese food, but what you get in Guangzhou bears very little resemblance to what got exported. This is the source material.
@@ -20,6 +20,8 @@ If there's one city in China where the food genuinely matters above everything e
 ## Table of contents
 
 ## Yum Cha: Guangzhou's Social Institution
+
+![Guangzhou Food — Yum Cha: Guangzhou's Social Institution](https://images.pexels.com/photos/6185751/pexels-photo-6185751.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **Yum cha** (饮茶, literally "drink tea") is the Cantonese practice of eating dim sum over morning or midday tea. In Guangzhou, it's less a meal and more an institution — families meet here on weekends, business is done over bamboo steamers, and older Guangzhou residents will tell you the yum cha session is the centrepiece of their social lives.
 
@@ -58,6 +60,8 @@ Cantonese **roast meat** (烧味, shāowèi) shops are everywhere in Guangzhou �
 
 **Siu yuk** (烧肉) — Cantonese roast pork with shatteringly crispy crackling. Served over rice or as a cold plate. ¥30-50.
 
+![Guangzhou Food — Guangzhou Congee Culture (粥)](https://images.pexels.com/photos/35272164/pexels-photo-35272164.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Guangzhou Congee Culture (粥)
 
 Rice congee (粥, zhōu) in Guangzhou is a completely different thing from the watery rice soup found elsewhere in China. Cantonese congee is slow-cooked until the rice completely breaks down into a silky, rich stock. It's a breakfast staple and a midnight meal.
@@ -81,6 +85,8 @@ Rice congee (粥, zhōu) in Guangzhou is a completely different thing from the w
 - **River shrimp** (河虾) — smaller and sweeter than sea prawns, ¥60-100/jin
 
 **Panyu District** (番禺) has larger-scale seafood wholesale restaurants where groups go for celebratory meals. Taxi from the city centre or metro to Shiqiao station and taxi from there.
+
+![Guangzhou Food — A Proper Cantonese Family Restaurant Dinner](https://images.unsplash.com/photo-1592284165799-7971b3029268?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxQcm9wZXIlMjBDYW50b25lc2UlMjBGYW1pbHklMjBSZXN0YXVyYW50JTIwRGlubmVyfGVufDB8MHx8fDE3ODE4NDMyMDh8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## A Proper Cantonese Family Restaurant Dinner
 

@@ -1,6 +1,7 @@
 ---
 title: "Guangzhou Dim Sum Guide: Where to Eat Yum Cha Like a Local"
 description: "Complete guide to eating dim sum (yum cha) in Guangzhou — the best traditional teahouses, what to order, how the ordering system works, tea culture, and the difference between Guangzhou dim sum and what you find outside China."
+ogImage: "https://images.pexels.com/photos/7563033/pexels-photo-7563033.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/guangzhou-dimsum.jpg"
 category: "destinations"
@@ -13,6 +14,8 @@ author: "RoamChina Travel"
 Dim sum (点心, diǎn xīn) and yum cha (饮茶, yǐn chá — "drink tea") are Chinese institutions that originated in Guangdong province. Guangzhou, as the province's capital and the center of Cantonese culinary culture for centuries, is the source code for all the dim sum served around the world.
 
 The experience in Guangzhou differs significantly from dim sum outside China: the variety is greater, the quality ceiling is higher, the social atmosphere is more intense, and the ritual of the tea service has greater depth. Understanding the differences — and the etiquette around them — transforms the meal from a confusing round of small plates into one of Asia's most culturally rich dining experiences.
+
+![Guangzhou Dim Sum — What is Yum Cha?](https://images.unsplash.com/photo-1653558148655-af4633794c4d?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxXaGF0JTIwaXMlMjBZdW0lMjBDaGElM0Z8ZW58MHwwfHx8MTc4MTg0MzE5N3ww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## What is Yum Cha?
 
@@ -37,6 +40,8 @@ Tea selection is the first step at any Cantonese teahouse. A server brings a men
 - Tap two fingers on the table to thank someone for pouring your tea (representing a prostrating bow; the story goes that an emperor incognito served tea to his minister, who couldn't bow publicly without revealing the identity, so he tapped his fingers instead — this custom has remained).
 - When you want the teapot refilled with hot water, open the lid slightly to signal the server.
 - Never let your guest's cup go empty if you're pouring.
+
+![Guangzhou Dim Sum — What to Order: Essential Dim Sum](https://images.pexels.com/photos/6529688/pexels-photo-6529688.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## What to Order: Essential Dim Sum
 
@@ -85,6 +90,8 @@ Famous particularly for its enormous variety of dim sum — reportedly over 400 
 ### Yindu Restaurant (银都酒家)
 
 A reliable everyday choice popular with Guangzhou's business community. More accessible for visitors unfamiliar with the full traditional teahouse format — written menus available alongside cart service.
+
+![Guangzhou Dim Sum — How to Navigate the Ordering System](https://images.pexels.com/photos/12935100/pexels-photo-12935100.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## How to Navigate the Ordering System
 

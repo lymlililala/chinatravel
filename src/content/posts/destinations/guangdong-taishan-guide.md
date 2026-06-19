@@ -25,6 +25,8 @@ Today, Taishan is a mid-sized city with excellent hot springs, a fascinating Ove
 
 ## Getting to Taishan
 
+![Taishan Guangdong — Getting to Taishan](https://images.unsplash.com/photo-1586223754361-710ed15b3570?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxUYWlzaGFufGVufDB8MHx8fDE3ODE4NDMxMzl8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
+
 **From Guangzhou:**
 - **By bus:** Express buses from Guangzhou Tianhe Bus Terminal or Fangcun Bus Terminal; 2–2.5 hours; departures every 30 minutes; tickets ¥60–80
 - **By train:** High-speed train from Guangzhou South to Taishan North Station; about 1.5 hours; ¥80–120
@@ -60,6 +62,8 @@ The best starting point for understanding what makes Taishan distinctive is this
 **Entry:** Free  
 **Hours:** 9:00am–5:00pm (closed Mondays)
 
+![Taishan Guangdong — The Overseas Chinese Architecture (华侨建筑)](https://images.pexels.com/photos/17774908/pexels-photo-17774908.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The Overseas Chinese Architecture (华侨建筑)
 
 The remittance money that flowed back to Taishan from North America and Southeast Asia from the 1880s onward funded an extraordinary building boom in the villages surrounding the city. The result is a distinctive architectural style — stone and brick buildings combining Cantonese vernacular construction with Western architectural elements (classical columns, arched windows, Art Deco ornament) that the emigrants had encountered abroad.
@@ -92,6 +96,8 @@ A more upscale resort with natural mineral water pools; located in a forested se
 Less developed and more natural-feeling; good option for those who find the larger resort atmosphere too commercial; ¥60–80 per person.
 
 **Best time for hot springs:** Any time of year, but autumn and winter (October–March) are especially popular — soaking in warm mineral water while cool air provides a temperature contrast is the ideal experience.
+
+![Taishan Guangdong — Taishan Food Culture](https://images.pexels.com/photos/32176505/pexels-photo-32176505.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Taishan Food Culture
 

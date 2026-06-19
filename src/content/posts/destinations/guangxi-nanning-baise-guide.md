@@ -12,7 +12,7 @@ tags:
   - nature
   - culture
 description: "Beyond Guilin's famous karst peaks, Guangxi offers Asia's largest cross-border waterfall, ancient Zhuang pictograph cliffs, and a vibrant ethnic minority food culture in the subtropical border region."
-ogImage: "https://images.unsplash.com/photo-1526392060635-9d6019884377?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/36535024/pexels-photo-36535024.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Guangxi Zhuang Autonomous Region is home to the world's largest ethnic minority group — the Zhuang people (壮族, 18 million in Guangxi alone). Beyond the famous karst of Guilin and Yangshuo, Guangxi has extraordinary natural and cultural resources rarely visited by international tourists.
@@ -20,6 +20,8 @@ Guangxi Zhuang Autonomous Region is home to the world's largest ethnic minority 
 ## Table of contents
 
 ## Nanning (南宁) — Green City
+
+![Guangxi — Nanning (南宁) — Green City](https://images.pexels.com/photos/16939254/pexels-photo-16939254.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Guangxi's subtropical capital has a pleasant year-round climate and is gateway to the stunning Detian Waterfall and the Vietnam border.
 
@@ -37,6 +39,8 @@ Nanning is the capital of Zhuang food culture:
 
 ---
 
+![Guangxi — Detian Transnational Waterfall (德天跨国大瀑布)](https://images.pexels.com/photos/30796777/pexels-photo-30796777.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Detian Transnational Waterfall (德天跨国大瀑布)
 
 Asia's largest transnational waterfall — the Guichun River drops over a series of limestone steps at the China-Vietnam border, with Vietnam on one side and China on the other. The falls are 208 metres wide (wider than they are tall) and are most spectacular during the rainy season (May–September).
@@ -46,6 +50,8 @@ Asia's largest transnational waterfall — the Guichun River drops over a series
 **Entry:** ¥80. 3 hours from Nanning by bus via Chongzuo.
 
 ---
+
+![Guangxi — Hua Shan Cliff Murals (花山岩画)](https://images.pexels.com/photos/32762654/pexels-photo-32762654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Hua Shan Cliff Murals (花山岩画)
 

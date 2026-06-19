@@ -1,6 +1,7 @@
 ---
 title: "Detian Transnational Waterfall Guide: China-Vietnam Border's Hidden Wonder"
 description: "Discover Detian Waterfall (Ban Gioc Falls) on the China-Vietnam border in Guangxi — the world's fourth largest transnational waterfall, limestone karst scenery, bamboo raft rides through the spray, and the unique experience of standing between two countries."
+ogImage: "https://images.pexels.com/photos/6872855/pexels-photo-6872855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Guangxi"
 tags: ["guangxi", "detian-waterfall", "ban-gioc", "china-vietnam-border", "waterfall", "karst", "bamboo-raft", "daxin-county"]
@@ -13,6 +14,8 @@ In the far southwest of Guangxi, where the Guichun River curves along the Vietna
 What makes Detian unique is not just its scale but its **geographical and political drama**: the international border runs directly through the waterfall itself, meaning that from the Chinese side you can see — and sometimes hear — Vietnamese tourists on bamboo rafts on the opposite bank, with only the white water of the falls between two nations.
 
 ---
+
+![Detian Transnational Waterfall — Geography: How a River Became a Border](https://images.pexels.com/photos/14776287/pexels-photo-14776287.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Geography: How a River Became a Border
 
@@ -41,6 +44,8 @@ Separated by rocky outcrops and vegetation; the second cascade spreads wider and
 
 ---
 
+![Detian Transnational Waterfall — Bamboo Raft Tours](https://images.pexels.com/photos/18198024/pexels-photo-18198024.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Bamboo Raft Tours
 
 The signature experience at Detian is the **bamboo raft ride** into the mist spray zone at the base of the falls. Traditional wooden-pole rafts, each holding 3–4 passengers and a helmsman, launch from below the first cascade and work their way upstream along the Chinese bank until the spray is heavy enough to require rain ponchos.
@@ -65,6 +70,8 @@ A 3-km riverside walking trail follows the Guichun River upstream from the sceni
 At the base of the falls, visible on a rock outcrop above the waterline, is a **stone stele erected in 1883** marking the Sino-French border. The marker predates the formal 1895 treaty; its inscription in classical Chinese proclaims the boundary with the formal gravity of imperial administration. It has been photographed by every visitor for 140 years and, remarkably, remains largely intact.
 
 ---
+
+![Detian Transnational Waterfall — Practical Information](https://images.pexels.com/photos/30174295/pexels-photo-30174295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Practical Information
 

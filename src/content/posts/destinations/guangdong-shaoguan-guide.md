@@ -24,6 +24,8 @@ Northern Guangdong province is dramatically different from the coastal megacitie
 
 ## Danxia Mountain (丹霞山)
 
+![Shaoguan Guangdong — Danxia Mountain (丹霞山)](https://images.pexels.com/photos/37193108/pexels-photo-37193108.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 Danxia Mountain is the type location for an entire category of geological formation — "Danxia landforms" are defined internationally as the type of red sandstone pillar-and-cliff landscapes found here, now identified in dozens of locations across China and elsewhere. The landscape was formed by geological uplift and erosion over 100 million years, creating the characteristic vertical red cliffs, pinnacles, and buttes that glow in the morning and evening light with a genuinely extraordinary warmth.
 
 The mountain was designated a UNESCO World Heritage Site in 2010 as part of the "China Danxia" serial nomination alongside five other Danxia landscape sites across the country.
@@ -51,6 +53,8 @@ The temple complex is large and architecturally coherent, with several impressiv
 **Visiting:** The temple remains active as a functioning monastery with resident monks. Morning and evening prayer services are open to respectful observation. The complex includes significant collections of Buddhist art and the original Tang dynasty Bodhi tree.
 
 **Admission:** ¥50 per person. Open 6:30am-5:30pm. Temple canteen serves vegetarian meals (¥15-30) at lunchtime.
+
+![Shaoguan Guangdong — Other Attractions Near Shaoguan](https://images.pexels.com/photos/5189810/pexels-photo-5189810.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Other Attractions Near Shaoguan
 

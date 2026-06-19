@@ -11,7 +11,7 @@ tags:
   - accommodation
   - guangxi
 description: "Guilin vs Yangshuo for accommodation — staying in Guilin city (transport hub, larger hotel selection) vs Yangshuo town (direct karst views, backpacker atmosphere, much cheaper), the Yulong River countryside guesthouses (truly stunning setting), and which specific properties actually deliver the karst mountain views they advertise."
-ogImage: "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/36304650/pexels-photo-36304650.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 The first accommodation decision for the Guilin-Yangshuo region is which town to base yourself in. Many visitors split their time between both, but if you're choosing one, understand what you're choosing between: Guilin is the transit hub with more hotel options and better transport connections; Yangshuo is the destination with the immediate karst scenery, the cycling and kayaking culture, the backpacker scene, and much cheaper prices. For pure experience, Yangshuo wins almost every time.
@@ -19,6 +19,8 @@ The first accommodation decision for the Guilin-Yangshuo region is which town to
 ## Table of contents
 
 ## Guilin City: Why You Might Stay Here
+
+![Stay Guilin & Yangshuo — Guilin City: Why You Might Stay Here](https://images.pexels.com/photos/20073724/pexels-photo-20073724.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **Guilin** (桂林) is the regional transport hub — trains and flights connect here rather than Yangshuo. The city has a pleasant central lake area (Banyan Lake and Fir Lake, 两湖, liǎng hú) surrounded by karst peaks, good restaurants, and the full range of hotel options from budget to international luxury.
 
@@ -38,6 +40,8 @@ The first accommodation decision for the Guilin-Yangshuo region is which town to
 ### The Li River Boat Trip Logistics
 
 The famous Li River (漓江) cruise from Guilin to Yangshuo (the 4-hour boat journey through the karst peaks that you've seen on the 20 yuan banknote) starts from **Zhujiang Pier** (竹江码头) about 20km south of Guilin city. If you're doing this trip, you need to either stay in Guilin (and take a bus to the pier) or overnight in Yangshuo (and the boat drops you off in town). Most visitors do the boat from Guilin to Yangshuo and then stay in Yangshuo for 1-3 nights.
+
+![Stay Guilin & Yangshuo — Yangshuo Town: The Place to Be](https://images.pexels.com/photos/24887037/pexels-photo-24887037.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Yangshuo Town: The Place to Be
 
@@ -66,6 +70,8 @@ Guesthouses and hostels here are convenient for everything and slightly more exp
 ### Quieter Lanes Behind West Street
 
 The lanes running off West Street in any direction get noticeably quieter within 200 metres. Properties here offer better sleep, lower prices, and still 5-minute walking distance to the restaurant and bar options. The better value choice for most visitors.
+
+![Stay Guilin & Yangshuo — The Yulong River Countryside: The Truly Stunning Option](https://images.pexels.com/photos/24246271/pexels-photo-24246271.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Yulong River Countryside: The Truly Stunning Option
 

@@ -13,7 +13,7 @@ tags:
   - beach
   - old town
 description: "Beihai in Guangxi is one of China's best beach destinations with the famous Silver Beach (Yintan) and a well-preserved colonial-era old street. This 2026 guide covers Silver Beach (free entry), the old town, Weizhou Island, seafood dining (50-200 yuan per person), transport from Nanning and Guilin, and the best time to visit."
-ogImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/36204294/pexels-photo-36204294.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -23,6 +23,8 @@ Chinese travellers who know Beihai tend to get a slightly evangelical quality wh
 Beihai sits on the southern coast of Guangxi, facing the Beibu Gulf (Gulf of Tonkin). It has Silver Beach — one of the genuinely excellent beaches on the Chinese coast, with white quartz sand and clear subtropical water. It has an Old Street (Zhongshan Road) of colonial-era shophouses built during the late Qing dynasty when Beihai was a treaty port. It has Weizhou Island offshore — a coral island with excellent snorkelling and dramatically clear water. And it has remained substantially below the radar of international tourism in a way that makes visiting in 2026 feel pleasantly like discovery.
 
 ## Silver Beach (银滩, Yintan)
+
+![Beihai Guangxi — Silver Beach (银滩, Yintan)](https://images.pexels.com/photos/31856122/pexels-photo-31856122.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Silver Beach is Beihai's headline attraction and justifies the name. The beach runs for approximately 24km along the western edge of Beihai city, with a finer and more accessible public section near the Silver Beach Park. The sand here is genuinely silver-white — composed largely of quartz fragments — and unusually fine-grained. Combined with the generally warm, clear water of the Beibu Gulf (swimming season roughly April-November), it produces a beach experience that easily matches or exceeds most of what you'll find in Hainan.
 
@@ -45,6 +47,8 @@ In the early 20th century, Beihai was designated a treaty port and became an act
 **Best visited:** Early morning (before 9am) when the light is good, the food stalls are active, and the tourist crowds haven't arrived. Come back in the late afternoon for the golden-hour photography.
 
 **Free to walk through.** The surrounding streets of the Old Town have more colonial-era buildings worth exploring if you wander off the main street.
+
+![Beihai Guangxi — Weizhou Island (涠洲岛)](https://images.pexels.com/photos/35650314/pexels-photo-35650314.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Weizhou Island (涠洲岛)
 
@@ -69,6 +73,8 @@ Beihai's seafood is the main culinary draw, and with good reason. The Beibu Gulf
 - Conch soup (海螺汤): Slow-cooked with vegetables, a local breakfast staple
 
 **Fish porridge (海鲜粥):** The Cantonese-style rice congee with fresh seafood is a Beihai breakfast institution. Stalls serving it open from 6am near the market areas; ¥15-25 per bowl.
+
+![Beihai Guangxi — Getting to Beihai](https://images.pexels.com/photos/37836126/pexels-photo-37836126.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting to Beihai
 

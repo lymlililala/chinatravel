@@ -12,7 +12,7 @@ tags:
   - history
   - north-china
 description: "Day trips from Xi'an across the Guanzhong plain — the Huaqing Palace hot springs and the site of the Xi'an Incident (Chiang Kai-shek's capture in 1936), the Qianling Mausoleum (Tang Dynasty empress Wu Zetian's tomb), the Han Yang Ling Mausoleum Museum, and Mount Huashan. Which to combine and in what order."
-ogImage: "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/17943583/pexels-photo-17943583.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Xi'an is most visitors' starting point for the Shaanxi experience, but the city's immediate surroundings — the Guanzhong plain that served as China's political heartland for over a thousand years — contain more major historical sites than most people realise. Within 120km of Xi'an lies one of the densest concentrations of imperial tombs, palaces, and mountain temples anywhere in the world. The challenge is not finding things to see but deciding which to prioritise and how to combine them efficiently.
@@ -20,6 +20,8 @@ Xi'an is most visitors' starting point for the Shaanxi experience, but the city'
 ## Table of contents
 
 ## Huaqing Palace & the Xi'an Incident
+
+![Shaanxi Trips — Huaqing Palace & the Xi'an Incident](https://images.pexels.com/photos/10428759/pexels-photo-10428759.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Huaqing Palace (华清宫) is 30km east of Xi'an at the foot of Lishan Mountain (骊山). The site has two completely distinct historical layers that make it more interesting than a single-era heritage site.
 
@@ -29,6 +31,8 @@ Huaqing Palace (华清宫) is 30km east of Xi'an at the foot of Lishan Mountain 
 
 Admission ¥150, including the night show (an extravagant sound-and-light performance that runs on selected evenings). 30km from Xi'an on Bus Line Tour 1 (¥7, 40 minutes) or taxi (¥70-100 one way).
 
+![Shaanxi Trips — Qianling Mausoleum: Wu Zetian's Tomb](https://images.pexels.com/photos/10572342/pexels-photo-10572342.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Qianling Mausoleum: Wu Zetian's Tomb
 
 The Qianling Mausoleum (乾陵) 80km west of Xi'an is the joint tomb of Tang Emperor Gaozong and Empress Wu Zetian (武则天) — China's only female emperor, who ruled as emperor in her own name from 690 to 705 AD. The burial mound itself has never been excavated and remains sealed. What is accessible is the enormous sacred way (神道) leading to the tomb: a kilometre-long avenue flanked by pairs of stone guardian figures, foreign ambassadors, winged horses, and ostriches — the last representing the extraordinary reach of Tang Dynasty trade relationships.
@@ -36,6 +40,8 @@ The Qianling Mausoleum (乾陵) 80km west of Xi'an is the joint tomb of Tang Emp
 At the head of the sacred way stands the "Wordless Stele" (无字碑) — a massive stone tablet erected by Wu Zetian for her own monument, left deliberately blank. The interpretations of this blank stone range from her arrogance (no words could adequately describe her) to her humility (she left posterity to judge her) to her pragmatism (no praise written in her lifetime could survive the verdict of history). Whatever the intention, it remains one of the most haunting monuments in China.
 
 The associated Qianling Museum has some of the best Tang Dynasty wall paintings and grave goods from the subsidiary tombs, including the tomb of Princess Yongtai whose murder at age 17 on Wu Zetian's orders is documented in the excavation records. ¥122 admission. Bus from Xi'an South Gate about 90 minutes.
+
+![Shaanxi Trips — Han Yang Ling Mausoleum Museum](https://images.pexels.com/photos/37126804/pexels-photo-37126804.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Han Yang Ling Mausoleum Museum
 

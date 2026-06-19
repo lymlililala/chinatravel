@@ -12,12 +12,14 @@ tags:
   - photography
   - attractions
 description: "Elephant Trunk Hill is Guilin's most iconic landmark — a karst peak shaped remarkably like an elephant drinking from the Li River. This guide covers ticket prices, the best viewing spots (including free alternatives), photography timing, what's inside the hill, and how to combine it with other Guilin attractions for a perfect day in 2026."
-ogImage: "https://images.unsplash.com/photo-1513415564515-763b74e03476?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/20370742/pexels-photo-20370742.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
 
 ## The Symbol of Guilin: Why Elephant Trunk Hill Matters
+
+![Guilin Elephant Trunk Hill — The Symbol of Guilin: Why Elephant Trunk Hill Matters](https://images.pexels.com/photos/19966096/pexels-photo-19966096.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Of all the extraordinary karst formations rising from the flat plains around Guilin, Elephant Trunk Hill (象鼻山, Xiàngbí Shān) has a special status. For over a thousand years — referenced in Tang dynasty poetry, depicted in imperial paintings, and now reproduced on everything from hotel key cards to regional bank notes — this particular hill has served as the visual shorthand for Guilin itself.
 
@@ -44,6 +46,8 @@ The paid ticket gets you access to the interior of the scenic area, including:
 - Yue Cliff (岳壁岩) with ancient poems carved into the rock face
 
 For those primarily interested in the iconic exterior view and photographs, the free viewpoints across the river are arguably better. More on this below.
+
+![Guilin Elephant Trunk Hill — Photography: Best Spots and Timing](https://images.pexels.com/photos/24415055/pexels-photo-24415055.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Photography: Best Spots and Timing
 
@@ -81,6 +85,8 @@ A large boulder split vertically in the approach path. Local legend attributes t
 
 ### Tang Dynasty Stone Inscriptions (唐代摩崖石刻)
 Along the inner walls and cave faces, inscriptions from the Tang, Song, Ming, and Qing dynasties have been carefully preserved. These literary and calligraphic records are genuinely historically significant. Bring a headlamp to see them properly in the shadowed sections.
+
+![Guilin Elephant Trunk Hill — Free External Views: Getting the Elephant Shot Without Paying](https://images.pexels.com/photos/5951759/pexels-photo-5951759.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Free External Views: Getting the Elephant Shot Without Paying
 

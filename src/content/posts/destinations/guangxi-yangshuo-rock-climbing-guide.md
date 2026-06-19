@@ -12,7 +12,7 @@ tags:
   - adventure
   - karst
 description: "Yangshuo's karst limestone towers are a global climbing destination — single-pitch and multi-pitch routes on perfect rock with rice paddies below and the Li River in the background. This 2026 guide covers the best climbing areas, reputable schools for beginners and advanced climbers, seasonal conditions, and how to combine climbing with the wider Yangshuo experience."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/24246260/pexels-photo-24246260.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -22,6 +22,8 @@ Yangshuo's karst limestone towers are more than a postcard — they're some of t
 The local climbing scene has developed steadily since the 1990s, with a now-established community of climbing schools, internationally connected operators, and a growing library of established routes from 5.9 to 5.13c. It's both a beginner-friendly destination (the schools are excellent) and a serious climber's destination (the harder multi-pitch routes demand real skill).
 
 ## The Rock: Why Yangshuo's Climbing Is Special
+
+![Yangshuo Rock Climbing — The Rock: Why Yangshuo's Climbing Is Special](https://images.pexels.com/photos/36535022/pexels-photo-36535022.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Yangshuo's karst towers are composed of Devonian and Carboniferous limestone — some of the oldest and most compact limestone in China. The features that make karst visually dramatic (the sharp erosion patterns, the pocketed surfaces, the hanging caves) translate directly into interesting climbing terrain.
 
@@ -91,6 +93,8 @@ A locally-run operation with Chinese-speaking instructors and lower prices. Bett
 ### Nihao Climbing
 A newer operation (est. 2021) with good English instruction and a focus on outdoor trad climbing development.
 
+![Yangshuo Rock Climbing — Gear and Equipment](https://images.pexels.com/photos/36929730/pexels-photo-36929730.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Gear and Equipment
 
 **What climbing schools provide:** Harness, shoes, helmet, belay device, rope — all included in most lesson prices.
@@ -138,6 +142,8 @@ Yangshuo's West Street tourist area is full of restaurants and bars, but the bet
 
 ### Visiting Minority Villages
 Several Zhuang and Yao minority villages are accessible from Yangshuo by bicycle or motorbike. Xingping (兴坪) in particular is a traditional village with old architecture and views that are in the background of the 20 RMB banknote.
+
+![Yangshuo Rock Climbing — Getting to Yangshuo](https://images.pexels.com/photos/36535023/pexels-photo-36535023.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting to Yangshuo
 

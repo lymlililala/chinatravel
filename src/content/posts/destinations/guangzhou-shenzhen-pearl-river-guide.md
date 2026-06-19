@@ -13,7 +13,7 @@ tags:
   - food
   - urban
 description: "Two complementary cities at the heart of China's most dynamic region — Guangzhou for world-class Cantonese cuisine and colonial heritage, Shenzhen for modern architecture, tech culture, and the Guangdong contemporary art scene."
-ogImage: "https://images.unsplash.com/photo-1619566636858-adf3ef46400b?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/25865508/pexels-photo-25865508.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 The Pearl River Delta, encompassing Guangzhou and Shenzhen, is the world's largest urban manufacturing zone and simultaneously home to China's most sophisticated food culture. These two cities are just 35 minutes apart by high-speed train but feel worlds apart in character.
@@ -21,6 +21,8 @@ The Pearl River Delta, encompassing Guangzhou and Shenzhen, is the world's large
 ## Table of contents
 
 ## Guangzhou (广州) — Cantonese Cuisine Capital
+
+![Guangzhou & Shenzhen — Guangzhou (广州) — Cantonese Cuisine Capital](https://images.pexels.com/photos/1366957/pexels-photo-1366957.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Guangzhou (Canton) has been China's most important port city for 2,000 years — the last destination on the Maritime Silk Road, trading partner with Rome, Arabia, and later Europe. The city's character is defined by commerce, cuisine, and a distinctive Cantonese identity that differs markedly from the rest of China.
 
@@ -61,6 +63,8 @@ Guangzhou is the birthplace and gold standard for dim sum (点心). The traditio
 
 ---
 
+![Guangzhou & Shenzhen — Shenzhen (深圳) — China's Innovation Capital](https://images.pexels.com/photos/17989747/pexels-photo-17989747.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Shenzhen (深圳) — China's Innovation Capital
 
 Shenzhen was a fishing village of 30,000 people in 1980. Today it has 18 million residents and produces more hardware technology patents than most countries. The city that shouldn't exist — it was willed into being by Deng Xiaoping's market reforms — is now one of the most architecturally innovative and culturally dynamic cities in China.
@@ -80,6 +84,8 @@ Shenzhen was a fishing village of 30,000 people in 1980. Today it has 18 million
 The Shenzhen-Hong Kong border crossing is one of the world's busiest. Many visitors do both cities in combination — Shenzhen for manufacturing culture, technology companies, and cheap excellent food; Hong Kong for finance, international feel, and colonial heritage.
 
 ---
+
+![Guangzhou & Shenzhen — Practical Transport](https://images.pexels.com/photos/37956324/pexels-photo-37956324.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Practical Transport
 

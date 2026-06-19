@@ -12,7 +12,7 @@ tags:
   - guangxi
   - nature
 description: "A 3-day Guilin and Yangshuo itinerary — the Li River cruise from Guilin to Yangshuo, cycling the Yulong River valley, the Longji Rice Terraces day trip, and honest advice on what's worth paying for and what's a tourist trap."
-ogImage: "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/33632718/pexels-photo-33632718.png?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 The karst landscape of Guilin and Yangshuo is one of those places that looks exactly like its photographs — steep green limestone towers rising from flat rice paddies, rivers reflecting the sky, water buffalo standing in the shallows. It earned its reputation. The classic question travelers wrestle with is how much of the tourist infrastructure to engage with, because there's a lot of it. This itinerary tries to give you honest answers.
@@ -22,6 +22,8 @@ Spend one day in Guilin, two in Yangshuo — the Li River cruise connects the tw
 ## Table of contents
 
 ## Before You Arrive
+
+![Guilin & Yangshuo — Before You Arrive](https://images.pexels.com/photos/33899273/pexels-photo-33899273.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **Getting there:** Guilin Liangjiang International Airport (KWL) receives direct flights from most major Chinese cities and some international routes. High-speed trains connect Guilin to Guangzhou (2.5 hours, ¥190), Shenzhen (3 hours, ¥235), and Chengdu (5 hours). Note there are two train stations: **Guilin Station** and **Guilin North Station** — most HSR trains use Guilin North. 
 
@@ -52,6 +54,8 @@ From here, walk along the **Li River waterfront** — the 2-3km stretch between 
 **Seven Star Park** (七星公园, ¥75) is good if you have extra time in the afternoon — the karst formations within the park include the famous Camel Hill and Dragon Hide Cave.
 
 ---
+
+![Guilin & Yangshuo — Day 2: Li River Cruise to Yangshuo](https://images.pexels.com/photos/24847110/pexels-photo-24847110.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day 2: Li River Cruise to Yangshuo
 
@@ -100,6 +104,8 @@ The terraces at **Ping'an village** (平安寨) and **Dazhai village** (大寨) 
 The Longji trip requires adjusting your Yangshuo base day — consider doing this as your Day 2 and cycling on Day 3 instead.
 
 ---
+
+![Guilin & Yangshuo — What's Worth It and What's a Tourist Trap](https://images.pexels.com/photos/5802888/pexels-photo-5802888.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## What's Worth It and What's a Tourist Trap
 

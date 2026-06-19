@@ -11,15 +11,20 @@ tags:
   - beach
   - macau
 description: "Zhuhai — the Pearl River Delta city that most visitors overlook between Hong Kong and Macau. Its coastal promenade, fishing villages, Chimelong Resort theme parks, border to Macau, and why it's worth a day or two."
+ogImage: "https://images.pexels.com/photos/19510628/pexels-photo-19510628.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Zhuhai (珠海) occupies the western side of the Pearl River Estuary — a mid-sized city that sits between Guangzhou to the north and Macau to the south, connected by the Hong Kong–Zhuhai–Macao Bridge (HKZM Bridge, opened 2018, 55km). It's the most resort-like of the Pearl River Delta cities, with a 90km coastline, a liveable scale compared to Guangzhou or Shenzhen, and the advantage of being the Chinese gateway city to Macau.
+
+![Zhuhai — Fisher Girl Statue (珠海渔女)](https://images.pexels.com/photos/19900074/pexels-photo-19900074.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Fisher Girl Statue (珠海渔女)
 
 The Fisher Girl (珠海渔女) — a bronze statue of a Zhuhai woman holding a pearl aloft — is the city's emblem. Placed on a rock in the bay along the central promenade, it's the most photographed image of Zhuhai. Deng Xiaoping viewed it during his 1992 Southern Tour and called it beautiful; that endorsement helped establish Zhuhai as a symbol of reform-era China.
 
 The surrounding **Lovers' Road promenade (情侣路)** — 28km of seafront walkway from the Gongbei border with Macau to the northern harbour — is the city's defining leisure space.
+
+![Zhuhai — Macau Gateway](https://images.pexels.com/photos/28807189/pexels-photo-28807189.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Macau Gateway
 
@@ -28,6 +33,8 @@ Zhuhai is the land-side entry point for Macau — the Gongbei border crossing (�
 **HKZM Bridge**: Opened 2018, the bridge connects Zhuhai (Zhuhai Port) to Macau and Hong Kong Lantau Island. Cross-border travel requires booking shuttle buses (the bridge is closed to private vehicles for non-local drivers). Shuttle buses operate every 15–30 minutes.
 
 **Logistics**: Staying in Zhuhai and day-tripping to Macau is cheaper than staying in Macau — Zhuhai hotels are 40–60% cheaper than Macau equivalents.
+
+![Zhuhai — Chimelong Ocean Kingdom (横琴长隆)](https://images.pexels.com/photos/37735688/pexels-photo-37735688.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Chimelong Ocean Kingdom (横琴长隆)
 

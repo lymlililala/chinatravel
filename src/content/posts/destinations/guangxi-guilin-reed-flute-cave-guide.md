@@ -1,6 +1,7 @@
 ---
 title: "Reed Flute Cave Guilin: China's Most Spectacular Underground Karst World"
 description: "Explore Reed Flute Cave (Ludi Yan) in Guilin — a 180-million-year-old limestone cave system with extraordinary stalactite and stalagmite formations, coloured lighting that transforms the underground world, and the 'Crystal Palace' chamber that holds 1,000 visitors at once."
+ogImage: "https://images.pexels.com/photos/20998162/pexels-photo-20998162.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Guangxi"
 tags: ["guangxi", "guilin", "reed-flute-cave", "karst-cave", "stalactites", "underground", "limestone", "crystal-palace"]
@@ -11,6 +12,8 @@ tags: ["guangxi", "guilin", "reed-flute-cave", "karst-cave", "stalactites", "und
 Five kilometres northwest of Guilin city, inside a limestone hill, a 500-metre passage winds through one of the most spectacular cave systems in China. **Reed Flute Cave (芦笛岩, Lúdí Yán)** takes its name from the reeds that once grew at its entrance — used by locals to make musical instruments — and has been visited by humans for at least 1,200 years. Tang dynasty graffiti carved into its walls by travellers between 792 and 849 CE is the earliest recorded tourism review in Guilin.
 
 ---
+
+![Reed Flute Cave Guilin — The Geology](https://images.pexels.com/photos/14776265/pexels-photo-14776265.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Geology
 
@@ -25,6 +28,8 @@ The cave contains exceptional examples of all these types, including a 7-metre-t
 
 ---
 
+![Reed Flute Cave Guilin — The Crystal Palace Chamber](https://images.pexels.com/photos/17575211/pexels-photo-17575211.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The Crystal Palace Chamber
 
 The highlight of the cave is the **Crystal Palace (水晶宫)** — a chamber approximately 90 metres wide and 14 metres high, containing dense clusters of stalactites and stalagmites arranged in what appears, under coloured lighting, as an underwater palace. The chamber holds over 1,000 people simultaneously.
@@ -32,6 +37,8 @@ The highlight of the cave is the **Crystal Palace (水晶宫)** — a chamber ap
 The coloured LED lighting system (which replaced older fluorescent lights) cycles through sequences of blue, green, purple, and gold that transform the same formations into different visual experiences depending on the light colour. Photography here is either spectacular or garish depending on your aesthetic preferences — the formations are spectacular regardless of lighting.
 
 ---
+
+![Reed Flute Cave Guilin — The Circuit](https://images.pexels.com/photos/3520692/pexels-photo-3520692.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Circuit
 

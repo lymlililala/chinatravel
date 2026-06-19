@@ -10,6 +10,7 @@ tags:
   - food
   - destinations
 description: "How to experience authentic Cantonese yum cha in Guangzhou — the best dim sum teahouses, what to order, how to navigate a Chinese-only cart menu, and why Guangzhou's morning tea culture is unlike anywhere else in the world."
+ogImage: "https://images.pexels.com/photos/9811794/pexels-photo-9811794.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Guangzhou is the birthplace of dim sum (点心, diǎnxīn) culture. This is where the tradition of yum cha (饮茶, yǐn chá — "drinking tea") originated: gathering in a teahouse from dawn to noon, ordering small dishes brought round on bamboo steamers, and spending hours eating and talking. The Guangzhou yum cha experience is different from what you'll find in Hong Kong restaurants or international Cantonese restaurants — richer, louder, more traditional, and deeply embedded in daily life.
@@ -17,6 +18,8 @@ Guangzhou is the birthplace of dim sum (点心, diǎnxīn) culture. This is wher
 ## Table of contents
 
 ## What is Yum Cha?
+
+![Guangzhou Dim Sum & Yum Cha — What is Yum Cha?](https://images.pexels.com/photos/35069186/pexels-photo-35069186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Yum cha literally means "drink tea" — the tea is theoretically the main event; the food is the accompaniment. In practice, the food takes centre stage, but the tea is genuinely important and the ritual of pouring and serving tea at the table is observed.
 
@@ -47,6 +50,8 @@ When your tea arrives:
 - **Who pours** — the youngest at the table traditionally pours for elders first
 
 ---
+
+![Guangzhou Dim Sum & Yum Cha — What to Order: The Essential Dim Sum](https://images.pexels.com/photos/15368253/pexels-photo-15368253.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## What to Order: The Essential Dim Sum
 
@@ -102,6 +107,8 @@ A large traditional restaurant in a classical Lingnan garden setting, with a lak
 Guangzhou's White Swan Hotel and Garden Hotel have excellent dim sum restaurants popular with business travellers — English menus, staff who speak English, high quality. More expensive but stress-free.
 
 ---
+
+![Guangzhou Dim Sum & Yum Cha — Beyond Dim Sum: Cantonese Cuisine in Guangzhou](https://images.pexels.com/photos/32393810/pexels-photo-32393810.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Beyond Dim Sum: Cantonese Cuisine in Guangzhou
 

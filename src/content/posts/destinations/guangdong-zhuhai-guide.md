@@ -12,7 +12,7 @@ tags:
   - macau
   - pearl-river-delta
 description: "Zhuhai is the Pearl River Delta's most liveable city — a coastal resort town bordering Macau with a famous seaside promenade, offshore islands, the new Hengqin free trade zone and some of the cleanest air in Guangdong. This 2026 guide covers all major attractions, the Macau border crossing, Hengqin Island development, transport from Guangzhou and Shenzhen, accommodation and practical tips."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/31395169/pexels-photo-31395169.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -22,6 +22,8 @@ Zhuhai has quietly won a competition that Guangdong's other Pearl River Delta ci
 The city was designated one of China's original Special Economic Zones in 1979 and developed at a more measured pace than Shenzhen, resulting in a city of manageable density with genuine greenery and coastal space. If you want a day or two of relative calm between the intensity of Hong Kong/Macau and mainland Guangdong, Zhuhai is the answer.
 
 ## Top Attractions
+
+![Zhuhai Guangdong — Top Attractions](https://images.pexels.com/photos/20599712/pexels-photo-20599712.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### Lover's Road (情侣路)
 
@@ -85,6 +87,8 @@ Zhuhai has a large number of offshore islands, several of which are accessible f
 
 **Overnight Island Stays:** Basic guesthouses on the main islands charge ¥200–¥450/night ($28–$63). Book ahead for summer weekends.
 
+![Zhuhai Guangdong — Zhuhai Food](https://images.pexels.com/photos/8630187/pexels-photo-8630187.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Zhuhai Food
 
 Zhuhai's food reflects its position at the intersection of Cantonese and seafood traditions. The city is famous for the freshness of its seafood, available from the Pearl River estuary and the adjacent South China Sea.
@@ -124,6 +128,8 @@ Zhuhai's food reflects its position at the intersection of Cantonese and seafood
 **Upscale (¥900+ / $126+):** **The St. Regis Zhuhai** is the flagship luxury property. **Rosewood Hengqin** on the island offers resort-style luxury.
 
 **Island eco-resorts:** Several boutique eco-resort options on Wailingding and Donao islands provide a unique experience at ¥500–¥1,200/night ($70–$168).
+
+![Zhuhai Guangdong — Best Time to Visit](https://images.pexels.com/photos/29903855/pexels-photo-29903855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Best Time to Visit
 

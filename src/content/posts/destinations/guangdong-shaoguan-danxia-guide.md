@@ -12,12 +12,14 @@ tags:
   - red-rock
   - nanhua-temple
 description: "Marvel at the surreal red rock landscapes of Danxia Mountain in Shaoguan, where crimson sandstone pillars rise from emerald valleys like a geological fever dream, and then find peace at Nanhua Temple, where the Sixth Patriarch of Zen Buddhism once taught. This 2026 guide covers both UNESCO-listed Danxia landforms and the sacred Buddhist site, plus hiking trails, the best viewpoints for sunrise and sunset, local Shaoguan cuisine, and practical advice for visiting Guangdong's most dramatic natural area."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/27170287/pexels-photo-27170287.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
 
 ## Red Rocks and Zen Mind — The Two Faces of Shaoguan
+
+![Shaoguan Danxia Guangdong — Red Rocks and Zen Mind — The Two Faces of Shaoguan](https://images.pexels.com/photos/4558329/pexels-photo-4558329.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Shaoguan (韶关) is where Guangdong gets serious about scenery. The province known for its megacities and manufacturing also possesses, in its far north, some of the most extraordinary geology in southern China. Danxia Mountain (丹霞山), a UNESCO World Heritage Site and the namesake of the "Danxia landform" geological classification, is a landscape of crimson sandstone pillars, cliffs, and valleys that looks like it was painted by a colour-blind god with a preference for red.
 
@@ -57,6 +59,8 @@ The red colour comes from iron oxide in the sandstone — essentially, the rocks
 
 **Entrance fee:** ¥100 ($14 USD) peak season, ¥70 ($9.70 USD) off-peak. Valid for 48 hours.
 
+![Shaoguan Danxia Guangdong — Nanhua Temple (南华寺)](https://images.pexels.com/photos/29606775/pexels-photo-29606775.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Nanhua Temple (南华寺)
 
 ### The Zen Heart of Southern China
@@ -92,6 +96,8 @@ About 2 hours from Shaoguan city, this dramatic gorge is 15 km long and up to 30
 A 2,000-year-old mountain pass on the Guangdong-Jiangxi border, used since the Qin Dynasty as the main route between southern and central China. The 5 km stone-paved trail through the pass is lined with plum trees that bloom spectacularly in January-February. A beautiful and historically significant hike.
 
 **Entrance fee:** ¥30 ($4.20 USD).
+
+![Shaoguan Danxia Guangdong — Shaoguan Cuisine](https://images.pexels.com/photos/15164598/pexels-photo-15164598.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Shaoguan Cuisine
 

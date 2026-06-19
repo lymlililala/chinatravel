@@ -13,7 +13,7 @@ tags:
   - border
   - waterfall
 description: "Chongzuo in southwestern Guangxi occupies one of China's most biodiverse borderland regions — home to the endangered white-headed langur, the spectacular Detian cross-border waterfall, and several ancient Zhuang minority towns along the Zuo River. This 2026 guide covers the Baise Longtan Nature Reserve, Detian Falls, the Vietnam border crossing at Pingxiang, transport and practical tips."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/6502898/pexels-photo-6502898.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -25,6 +25,8 @@ Chongzuo Prefecture sits right at the intersection of these worlds. It's wild en
 This is one of China's most undervisited regions among international travellers — which is, if you have the time and inclination, exactly the reason to go.
 
 ## White-Headed Langur Reserve (白头叶猴保护区)
+
+![Chongzuo Guangxi — White-Headed Langur Reserve (白头叶猴保护区)](https://images.pexels.com/photos/8356906/pexels-photo-8356906.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### About the White-Headed Langur
 
@@ -75,6 +77,8 @@ Even without crossing, the pass itself and its museum (¥30, $4) are worth visit
 
 **Practical note for the crossing:** Check current Sino-Vietnamese border regulations before planning. E-visa arrangements have changed multiple times; verify current entry requirements for your nationality at the Vietnamese embassy.
 
+![Chongzuo Guangxi — Zuo River Rock Art (左江花山岩画)](https://images.pexels.com/photos/55692/pexels-photo-55692.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Zuo River Rock Art (左江花山岩画)
 
 Inscribed on the UNESCO World Heritage List in 2016, the Zuojiang Huashan Rock Art Cultural Landscape consists of over 100 rock art sites along the Zuo River gorge. The artwork — painted directly onto sheer limestone cliffs in red iron oxide pigment — dates from roughly 500 BCE to 200 CE and was made by the ancient Luo-Yue people, ancestors of today's Zhuang.
@@ -108,6 +112,8 @@ The most accessible site is at **Huashan Scenic Area** (花山风景区), access
 **Near Detian Falls:** Small guesthouses in Daxin County serve as the base for falls visits. Rooms from ¥100–¥200 ($14–$28). The **Detian International Resort** offers more comfort at ¥350–¥600 ($49–$84).
 
 **At Mingshi Pastoral:** Several authentic Zhuang village homestays (民宿) available from ¥120–¥250/night ($17–$35) including meals.
+
+![Chongzuo Guangxi — Best Time to Visit](https://images.pexels.com/photos/8573370/pexels-photo-8573370.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Best Time to Visit
 

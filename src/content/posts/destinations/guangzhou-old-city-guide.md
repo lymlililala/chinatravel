@@ -10,9 +10,12 @@ tags:
   - culture
   - history
 description: "Explore Guangzhou's historic old city — Shamian Island's colonial architecture, the extraordinary Chen Clan Ancestral Hall, the Liwan District antique markets, and the older face of China's largest trade city."
+ogImage: "https://images.pexels.com/photos/34862393/pexels-photo-34862393.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Guangzhou's modern face — the Canton Tower, the Tianhe CBD towers, the Pearl River New Town — dominates its image in travel photography. But Guangzhou has an older face that most visitors miss: the colonial island of Shamian, the breathtaking clan ancestral hall architecture of the Chen Clan complex, and the Liwan District canal streets that preserve the texture of pre-industrial Guangzhou.
+
+![Guangzhou Old City — Shamian Island (沙面岛)](https://images.unsplash.com/photo-1649147857544-c5f006f3b614?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwzfHxTaGFtaWFuJTIwSXNsYW5kfGVufDB8MHx8fDE3ODE4NDMyMTJ8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## Shamian Island (沙面岛)
 
@@ -23,6 +26,8 @@ Shamian is a small island in the Pearl River that served as the foreign concessi
 Notable buildings: The former US Consulate (a graceful colonial villa, now a hotel), the historic Victory Hotel (白天鹅宾馆 area), the French Catholic Church (1890), and the British Consulate building.
 
 **The neighbourhood now**: Increasingly popular as a café and boutique district. The juxtaposition of colonial buildings with independent Guangdong coffee shops and traditional snack vendors is particularly Guangzhou.
+
+![Guangzhou Old City — Chen Clan Ancestral Hall (陈家祠)](https://images.pexels.com/photos/35272174/pexels-photo-35272174.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Chen Clan Ancestral Hall (陈家祠)
 
@@ -36,6 +41,8 @@ The Chen Clan Ancestral Hall (陈家祠, also called Guangdong Folk Arts Museum)
 - The ceramic ridge figures (from Shiwan kilns) — 6 ridges totalling 27 metres of figure composition
 
 Allow 1.5–2 hours. The museum shop sells quality Cantonese folk crafts (Shiwan ceramic figurines, Guangdong silk embroidery).
+
+![Guangzhou Old City — Liwan District: Old Guangzhou Canal Streets](https://images.pexels.com/photos/35272134/pexels-photo-35272134.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Liwan District: Old Guangzhou Canal Streets
 

@@ -1,6 +1,7 @@
 ---
 title: "Guangzhou Tianhe District Guide: Modern Canton's Commercial Heart"
 description: "Explore Guangzhou's Tianhe district — China's third-tallest skyline, the best shopping malls, Cantonese restaurants, and how this modern neighborhood connects to old Guangzhou. Complete guide for 2026."
+ogImage: "https://images.pexels.com/photos/30304264/pexels-photo-30304264.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/guangzhou-tianhe.jpg"
 category: "destinations"
@@ -15,6 +16,8 @@ Tianhe district (天河区) is the engine room of modern Guangzhou. It's where C
 But Tianhe is also where Guangzhou's famous Cantonese culture asserts itself most strongly. The city's best dim sum restaurants operate in Tianhe's luxury hotels. The weekend teahouse culture (饮茶, yǐn chá) that defines Cantonese social life is visible on every floor of every restaurant. The local market stalls and wet markets operate in the residential areas immediately behind the gleaming towers.
 
 Understanding Tianhe means understanding the apparent contradiction of Guangzhou: thoroughly modern and thoroughly traditional, simultaneously.
+
+![Guangzhou Tianhe District — The CBD and Financial District](https://images.pexels.com/photos/16097951/pexels-photo-16097951.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The CBD and Financial District
 
@@ -33,6 +36,8 @@ Understanding Tianhe means understanding the apparent contradiction of Guangzhou
 Visitor access: Tickets for the observation floor (¥150-200) include the sky walk on the outer rim (not for heights-averse visitors). The bubble tram around the upper exterior is a popular but slightly terrifying experience.
 
 **The Pearl River Promenade**: The riverfront between Canton Tower and Guangzhou's Haizhu Bridge has been developed as a continuous waterfront path, with weekend cyclists, roller skaters, couples, and families creating a lively scene. The views back across the river to Zhujiang New Town's skyline are some of Guangzhou's most photogenic.
+
+![Guangzhou Tianhe District — Shopping in Tianhe](https://images.pexels.com/photos/10726807/pexels-photo-10726807.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Shopping in Tianhe
 
@@ -71,6 +76,8 @@ Guangzhou's Cantonese seafood tradition is extraordinary, and Tianhe has some of
 ### Fast-Casual and Street Food
 
 **Tianhe Sports Center market area**: The streets around the stadium host evening food stalls serving Cantonese snacks: beef offal soup (牛杂汤), fried radish cake (煎萝卜糕), and roast goose (烧鹅). This is where Guangzhou workers eat after long days.
+
+![Guangzhou Tianhe District — The Tianhe Sports Center and Guangzhou FC](https://images.pexels.com/photos/16776661/pexels-photo-16776661.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Tianhe Sports Center and Guangzhou FC
 

@@ -12,7 +12,7 @@ tags:
   - architecture
   - cafe
 description: "Shamian Island in the Pearl River is Guangzhou's most atmospheric neighbourhood — a former foreign concession with immaculate European architecture, shade trees, riverside promenades and excellent cafes. This 2026 guide covers the architecture walk, best cafes, the surrounding Xiguan culture, how to get there, accommodation and what makes this tiny island such a distinctive part of Guangzhou's personality."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/35144762/pexels-photo-35144762.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -24,6 +24,8 @@ Today it's a remarkably well-preserved architectural ensemble of French and Brit
 It's one of Guangzhou's genuine pleasures — and small enough to be experienced completely in a single morning.
 
 ## The Architecture Walk
+
+![Guangzhou Shamian Island — The Architecture Walk](https://images.pexels.com/photos/8592644/pexels-photo-8592644.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### British and French Concession Buildings
 
@@ -75,6 +77,8 @@ Shamian's immediate neighbourhood — the Xiguan (西关) district of Liwan — 
 
 **Chen Clan Ancestral Hall:** ¥10 ($1.4). Metro Line 1, Chen Clan Ancestral Hall Station.
 
+![Guangzhou Shamian Island — Getting to Shamian Island](https://images.unsplash.com/photo-1649147856874-d3c4901eca94?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwyfHxzaGFtaWFuJTIwaXNsYW5kfGVufDB8MHx8fDE3ODE4NDMyMjN8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
+
 ## Getting to Shamian Island
 
 **Metro:** Line 1, Huangsha Station (黄沙), Exit B. Walk south approximately 500 metres to the island bridges (5 minutes).
@@ -105,6 +109,8 @@ The island has a small but distinctive accommodation offering.
 **October–March:** The most comfortable. Guangzhou's subtropical climate makes the October–April period ideal (20–28°C). The island under winter rain has a particular melancholy quality.
 
 **April–September:** Hot and humid (30–38°C); mornings are manageable but afternoon exploration is uncomfortable.
+
+![Guangzhou Shamian Island — Combining Shamian with a Guangzhou Day](https://images.pexels.com/photos/35272169/pexels-photo-35272169.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Combining Shamian with a Guangzhou Day
 

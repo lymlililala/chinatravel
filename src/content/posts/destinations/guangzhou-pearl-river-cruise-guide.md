@@ -12,7 +12,7 @@ tags:
   - nightlife
   - china
 description: "The Pearl River (Zhujiang) runs through the heart of Guangzhou, and a night cruise is one of the best ways to see the city — the illuminated skyline, the historic bridges, the Canton Tower lit up in colour, and the contrasting old and new architecture of the river banks reflected in the water."
-ogImage: "https://images.unsplash.com/photo-1533106418989-88406c7cc8ca?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/7875319/pexels-photo-7875319.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 The Pearl River (珠江, Zhūjiāng) runs east-west through central Guangzhou, separating the older commercial districts to the north from the newer Haizhu and Panyu developments to the south. A night cruise on the river gives you a perspective on Guangzhou that walking the streets doesn't — the scale of the city's waterfront, the illuminated bridges, the Canton Tower, and the way the historic shamian island architecture sits alongside gleaming new financial towers.
@@ -22,6 +22,8 @@ It's not a world-class destination in the way the Shanghai Bund is, but as a rel
 ## Table of contents
 
 ## Cruise Options
+
+![Guangzhou Pearl River Night Cruise — Cruise Options](https://images.pexels.com/photos/13120671/pexels-photo-13120671.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **Standard sightseeing cruise (¥50–80, 60–90 minutes):** The basic option. A medium-sized tour boat doing a set circuit from Tianzi Wharf (天字码头) or Zhongda Wharf. Commentary in Mandarin (usually). Open-deck viewing. Leaves multiple times per evening.
 
@@ -45,6 +47,8 @@ Most standard cruises cover approximately this circuit:
 - **Shamian Island (沙面岛):** The former colonial concession area — French and British consulates and trading houses from the 1840s–1940s. The tree-lined streets and European architecture are immediately recognisable from the river.
 - **White Swan Hotel:** The iconic hotel on Shamian Island is visible from the water.
 
+![Guangzhou Pearl River Night Cruise — Departure Points](https://images.pexels.com/photos/20777847/pexels-photo-20777847.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Departure Points
 
 **Tianzi Wharf (天字码头):** The most central and most used. Near Haizhu Square metro station (Lines 2 and 6). Multiple operators depart from here throughout the evening, starting around 6pm with the main evening departures at 7:30 and 8:30pm.
@@ -60,6 +64,8 @@ Most standard cruises cover approximately this circuit:
 **Saturday evenings** are the most festive — more boats on the water, lights more likely to be fully illuminated, restaurant boats visible along the banks. Also the most crowded.
 
 **Spring Festival and October 1 Golden Week:** Special lighting displays along the river banks. Worth timing if you're in Guangzhou during these periods.
+
+![Guangzhou Pearl River Night Cruise — Photography Tips](https://images.pexels.com/photos/18068452/pexels-photo-18068452.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Photography Tips
 

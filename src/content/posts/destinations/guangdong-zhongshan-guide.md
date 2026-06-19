@@ -24,6 +24,8 @@ Beyond its historical significance, Zhongshan is a thoroughly pleasant, manageab
 
 ## Why Visit Zhongshan
 
+![Zhongshan Guangdong — Why Visit Zhongshan](https://images.pexels.com/photos/35216087/pexels-photo-35216087.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 The honest pitch: Zhongshan works best as a contrast to the larger Pearl River Delta cities. After Guangzhou's sensory overload or Hong Kong's frantic pace, this city of around 3 million feels almost relaxed. The old Cuiheng village where Sun Yat-sen was born has been preserved with genuine care, the food scene rewards adventurous eaters with dishes you won't find elsewhere, and the city's Lantern Festival (Lantern Carnival, held each year in November–December) has become one of the most photographed seasonal events in southern Guangdong.
 
 It's also simply a well-run city. Streets are clean, public transport works, and the locals tend to be friendly toward foreign visitors — partly because the city has maintained strong overseas Chinese connections for over a century.
@@ -86,6 +88,8 @@ Zhongshan has a good range of accommodation options if you want to stay longer t
 - **Budget:** Hostels and budget hotels near the central station area, ¥120–200 per night. Clean, functional, nothing special.
 - **Mid-range:** Chain hotels (Holiday Inn Express, Novotel, local brands like 7 Days) in the city centre, ¥250–500 per night. The Holiday Inn Zhongshan City Centre tends to get good reviews for location and standard.
 - **Upmarket:** Several boutique properties and the Jinling Hotel offer rooms from ¥600–1,200, with better proximity to attractions and more character.
+
+![Zhongshan Guangdong — Other Attractions Worth Your Time](https://images.pexels.com/photos/4610741/pexels-photo-4610741.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Other Attractions Worth Your Time
 
