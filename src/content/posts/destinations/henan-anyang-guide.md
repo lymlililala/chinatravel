@@ -72,6 +72,8 @@ This extraordinary museum, opened in 2009, is dedicated to the history and devel
 
 **Entrance fee:** Free (reservation required through official WeChat account). Open 9:00 AM — 5:00 PM, closed Mondays. Allow 2-3 hours.
 
+![Anyang Henan — The Red Flag Canal (红旗渠)](https://images.pexels.com/photos/5074784/pexels-photo-5074784.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The Red Flag Canal (红旗渠)
 
 ### Engineering Against Impossible Odds

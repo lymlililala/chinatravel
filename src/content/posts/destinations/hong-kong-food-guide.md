@@ -11,7 +11,7 @@ tags:
   - cantonese
   - dim-sum
 description: "The essential Hong Kong food guide — where to eat outstanding dim sum (yum cha) that isn't Tim Ho Wan, the classic cha chaan teng (Hong Kong-style café) breakfast of milk tea and pineapple bun, Temple Street night food stalls, the char siu roast meat shops in Sham Shui Po, and why Hong Kong's food scene feels distinct from Guangzhou Cantonese."
-ogImage: "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/26970214/pexels-photo-26970214.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Hong Kong's relationship with food is more intense than almost anywhere else in the world. The density of restaurants per capita, the culture of eating out three meals a day, the pride locals take in knowing where the best roast meat hangs — all of this creates an eating environment that rewards the attentive visitor. The challenge is that the most famous options (Tim Ho Wan, Mak's Noodles, the big hotel dim sum rooms) are now semi-tourist institutions with hours-long queues. There's much better around the corner.
@@ -19,6 +19,8 @@ Hong Kong's relationship with food is more intense than almost anywhere else in 
 ## Table of contents
 
 ## Dim Sum (Yum Cha 飲茶): Where to Eat It
+
+![Hong Kong Food — Dim Sum (Yum Cha 飲茶): Where to Eat It](https://images.pexels.com/photos/10682119/pexels-photo-10682119.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Hong Kong dim sum at its best is better than Guangzhou. This is a contested statement, but Hong Kong's longer exposure to international food standards and its restaurant competition intensity have pushed dim sum quality very high.
 
@@ -50,6 +52,8 @@ The **cha chaan teng** (茶餐廳, literally "tea restaurant") is uniquely Hong 
 
 **Best areas for cha chaan teng:** Sham Shui Po, Mong Kok, Wan Chai. The Central and Tsim Sha Tsui tourist areas have them too but at slightly higher prices.
 
+![Hong Kong Food — Char Siu and Roast Meat (燒味) in Sham Shui Po](https://images.pexels.com/photos/8657082/pexels-photo-8657082.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Char Siu and Roast Meat (燒味) in Sham Shui Po
 
 **Sham Shui Po** (深水埗) in west Kowloon is Hong Kong's most working-class major district and has the most concentrated collection of traditional roast meat shops (燒味, siu mei) in the city.
@@ -69,6 +73,8 @@ The **cha chaan teng** (茶餐廳, literally "tea restaurant") is uniquely Hong 
 **Claypot rice** (煲仔飯, bao zai fan) is the street food of choice here — rice cooked in a small clay pot over charcoal with toppings (lap cheong sausage and egg is the classic; chicken and mushroom is also good). The rice crusts slightly at the bottom, the toppings steam above, and the whole thing is seasoned tableside with soy sauce. **HK$55-90** per pot.
 
 **Mong Kok** has the most concentrated street food in Hong Kong: **curry fish balls** (咖哩魚蛋, ¥HK 4-6 per ball on a stick), **stinky tofu** (臭豆腐), egg waffles (雞蛋仔, HK$20-30). These are all available throughout Kowloon but Mong Kok's food streets are the highest density.
+
+![Hong Kong Food — Why Hong Kong Food Differs from Guangzhou](https://images.pexels.com/photos/26970216/pexels-photo-26970216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Why Hong Kong Food Differs from Guangzhou
 

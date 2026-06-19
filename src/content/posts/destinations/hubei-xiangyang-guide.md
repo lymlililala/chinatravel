@@ -12,12 +12,14 @@ tags:
   - han-river
   - three-kingdoms
 description: "Discover Xiangyang, the ancient fortress city on the Han River whose massive city walls, strategic river crossing, and Three Kingdoms history have made it a legend in Chinese literature and a rising star in Hubei tourism. This 2026 guide covers the impressive ancient city wall, the Zhuge Liang cultural area at Longzhong, the Han River waterfront, local Hubei cuisine, and the fascinating connection between this real city and its fictional counterpart in the novels that every Chinese person knows."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/7494076/pexels-photo-7494076.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
 
 ## Xiangyang — Where History Meets Story
+
+![Xiangyang Hubei — Xiangyang — Where History Meets Story](https://images.pexels.com/photos/37113773/pexels-photo-37113773.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Every Chinese person knows Xiangyang (襄阳), even if they've never been there. That's because this city on the Han River features prominently in the Romance of the Three Kingdoms and in the works of Jin Yong (Louis Cha), the most widely read martial arts novelist in Chinese history. The siege of Xiangyang, the defence of the city against invading Mongol armies — these are stories that every Chinese schoolchild learns, and they've given Xiangyang a mythological significance that few other Chinese cities can claim.
 
@@ -58,6 +60,8 @@ Whether Zhuge Liang actually lived here is a matter of historical debate, but th
 **Entrance fee:** ¥80 ($11 USD). Open 8:00 AM — 5:30 PM. Allow 2-3 hours.
 
 **Getting there:** Bus No. 512 from Xiangyang city centre (40 minutes, ¥2/$0.30 USD). Taxi ¥30-40 ($4.20-5.50 USD).
+
+![Xiangyang Hubei — The Han River Waterfront](https://images.pexels.com/photos/27976252/pexels-photo-27976252.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Han River Waterfront
 

@@ -12,7 +12,7 @@ tags:
   - yuntai-mountain
   - hiking
 description: "The Taihang Mountain region around Jiyuan in northern Henan is home to Yuntai Mountain, one of China's most spectacular geological parks — with the Red Stone Gorge, China's highest waterfall, and forested valleys that rank among the best hiking destinations in central China. This guide covers the full Yuntai Mountain scenic area, the Guoliang cliff road, and how to combine them into an unforgettable trip."
-ogImage: "https://images.unsplash.com/photo-1508182314998-3bd257ab21ce?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/37519012/pexels-photo-37519012.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 The Taihang Mountains (太行山) form the dramatic natural boundary between the North China Plain and the Loess Plateau, running roughly north-south for 400km along the borders of Hebei, Henan, and Shanxi. In the Jiyuan (济源) and Jiaozuo (焦作) area of northern Henan, the mountains produce some of the most striking geological scenery in central China — red sandstone canyons, sheer cliff faces, waterfalls, and dense forest that transforms with the seasons.
@@ -22,6 +22,8 @@ Yuntai Mountain (云台山) is the centerpiece — a UNESCO Global Geopark that 
 ## Table of contents
 
 ## Getting to the Taihang Region
+
+![Jiyuan Taihang Mountain — Getting to the Taihang Region](https://images.pexels.com/photos/31231428/pexels-photo-31231428.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **By train:**
 - **To Jiaozuo (焦作):** High-speed trains from Zhengzhou (30 minutes, ¥35–50), Beijing (2.5 hours, ¥180–260), and Xi'an (2 hours, ¥100–160)
@@ -36,6 +38,8 @@ Yuntai Mountain (云台山) is the centerpiece — a UNESCO Global Geopark that 
 
 **Getting to Guoliang Village from Jiaozuo:**
 - About 80km; taxi or hired car ¥200–300; or bus to Huixian (辉县) then local transport
+
+![Jiyuan Taihang Mountain — Yuntai Mountain (云台山)](https://images.pexels.com/photos/37518984/pexels-photo-37518984.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Yuntai Mountain (云台山)
 
@@ -80,6 +84,8 @@ A reservoir at the head of one of the valleys, popular for boat trips and for it
 ### Wanshan Temple (万善寺)
 
 A Buddhist temple complex on a hillside within the scenic area, with origins in the Tang Dynasty. Less spectacular than the natural features but provides a cultural counterpoint and a good viewpoint over the valleys.
+
+![Jiyuan Taihang Mountain — Guoliang Cliff Road (郭亮挂壁公路)](https://images.pexels.com/photos/33968409/pexels-photo-33968409.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Guoliang Cliff Road (郭亮挂壁公路)
 

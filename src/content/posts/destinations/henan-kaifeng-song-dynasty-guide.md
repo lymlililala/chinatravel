@@ -1,6 +1,7 @@
 ---
 title: "Kaifeng Henan: Walking Through the Song Dynasty Capital's Surviving Streets"
 description: "Explore Kaifeng in Henan — the capital of China's most sophisticated dynasty, the Northern Song, where the famous scroll 'Along the River During Qingming Festival' was painted, where China's oldest surviving Jewish community established its synagogue, and where night markets still echo the 1,000-year-old tradition of urban entertainment culture."
+ogImage: "https://images.pexels.com/photos/6733646/pexels-photo-6733646.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Henan"
 tags: ["henan", "kaifeng", "song-dynasty", "qingming-festival-scroll", "night-market", "jewish-community", "iron-pagoda", "ancient-capital"]
@@ -13,6 +14,8 @@ In the year 1127 CE, the Jurchen Jin army captured the Northern Song capital **B
 Twenty-first century Kaifeng is a mid-sized Henan city that has never quite recovered the grandeur of its Song dynasty apogee. But what survives — fragmentary but genuine — makes it one of the most historically resonant destinations in central China.
 
 ---
+
+![Kaifeng Henan — The Northern Song Legacy](https://images.pexels.com/photos/32011417/pexels-photo-32011417.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Northern Song Legacy
 
@@ -37,6 +40,8 @@ Despite its name, the **Iron Pagoda (铁塔)** is a 13-storey glazed tile pagoda
 Earlier than the Iron Pagoda (977 CE), only 3 of the original 7 storeys remain (the upper 4 were demolished during the Ming dynasty to prevent the pagoda from "overshadowing the palace"), but the exterior surface is covered in extraordinarily detailed glazed tiles depicting the entire Buddhist pantheon. Less visited than the Iron Pagoda; more intimate.
 
 ---
+
+![Kaifeng Henan — Kaifeng Jewish Community](https://images.pexels.com/photos/5974271/pexels-photo-5974271.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Kaifeng Jewish Community
 

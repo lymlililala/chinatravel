@@ -10,7 +10,7 @@ tags:
   - accommodation
   - planning
 description: "Hong Kong accommodation — Tsim Sha Tsui (Kowloon) for cheaper prices and easy MTR access, Wan Chai and Causeway Bay for being in Hong Kong Island's thick of it, the Sheung Wan/Central area for boutique hotels. The reality of Hong Kong hotel room sizes (often tiny for the price), and current price ranges across budget to luxury."
-ogImage: "https://images.unsplash.com/photo-1496922253765-5cd8dc4f6a32?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/33859546/pexels-photo-33859546.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Hong Kong's accommodation situation has one inescapable truth: the city is very expensive and very small. Room sizes at the budget and mid-range level are routinely smaller than most Western travellers expect. Rooms that cost HK$800-1,200/night (US$100-150) often measure 14-18 square metres — a single bed, a desk, a bathroom with a standing-only shower. This isn't the hotel being stingy; it's the reality of one of the world's densest cities with some of the most expensive real estate. Understanding this upfront makes the experience more manageable.
@@ -18,6 +18,8 @@ Hong Kong's accommodation situation has one inescapable truth: the city is very 
 ## Table of contents
 
 ## The Core Decision: Kowloon vs Hong Kong Island
+
+![Stay Hong Kong — The Core Decision: Kowloon vs Hong Kong Island](https://images.pexels.com/photos/16821180/pexels-photo-16821180.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Hong Kong is divided by Victoria Harbour into two main areas: **Kowloon** (the mainland peninsula) and **Hong Kong Island** (the mountainous island to the south). Both are well-connected by MTR and the Star Ferry.
 
@@ -58,6 +60,8 @@ Most Hong Kong hotel rooms at budget to mid-range pricing (HK$600-2,000/night) a
 
 **Luxury (HK$3,500+/night):** The point at which rooms start feeling genuinely spacious by international standards.
 
+![Stay Hong Kong — Budget Accommodation (HK$400-900/night)](https://images.pexels.com/photos/927493/pexels-photo-927493.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Budget Accommodation (HK$400-900/night)
 
 **Mong Kok and Sham Shui Po** are the main budget areas. Expect small rooms, no frills, but functional bases for exploring.
@@ -77,6 +81,8 @@ Most Hong Kong hotel rooms at budget to mid-range pricing (HK$600-2,000/night) a
 **Hotel Indigo Hong Kong Island** in Island South — for a quieter and cheaper side of the island. Not convenient for central sightseeing but good for beaches and hiking. HK$1,000-1,800/night.
 
 **Mira Hong Kong** (美麗華酒店) in Tsim Sha Tsui — boutique-ish property with a genuine sense of design, good location, strong food program. HK$1,500-2,800/night.
+
+![Stay Hong Kong — Luxury Hotels (HK$3,500+/night)](https://images.pexels.com/photos/2481603/pexels-photo-2481603.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Luxury Hotels (HK$3,500+/night)
 

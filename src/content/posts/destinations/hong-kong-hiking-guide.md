@@ -11,7 +11,7 @@ tags:
   - nature
   - outdoors
 description: "Hong Kong's world-class hiking — the Dragon's Back trail to Shek O beach, the 100km MacLehose Trail across the New Territories, Victoria Peak alternatives to the tourist tram, the Pat Sin Leng ridge walk, and how to access country parks from the MTR."
-ogImage: "https://images.unsplash.com/photo-1496922253765-5cd8dc4f6a32?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/35654621/pexels-photo-35654621.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Most people associate Hong Kong with skyscrapers, shopping malls, and density. What they don't expect is that approximately 70% of Hong Kong's land area is countryside — protected country parks with marked trails, mountains rising to 900m, and coastline that varies between dramatic headlands and sheltered beaches. This isn't a compromise version of hiking; the trails here are genuinely excellent, and the contrast between a world-class urban environment and proper wilderness, accessible within an hour of your hotel, is hard to find anywhere else.
@@ -19,6 +19,8 @@ Most people associate Hong Kong with skyscrapers, shopping malls, and density. W
 ## Table of contents
 
 ## Dragon's Back Trail (龍脊) — The Best One-Day Hike
+
+![Hong Kong Hiking — Dragon's Back Trail (龍脊) — The Best One-Day Hike](https://images.pexels.com/photos/37470752/pexels-photo-37470752.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **Time:** 2.5–4 hours | **Distance:** 8.5km | **Difficulty:** Moderate
 
@@ -43,6 +45,8 @@ Walk or take a taxi to Harlech Road, then follow the signs up to the Peak along 
 
 ### Lugard Road Circuit
 Once you're at the Peak, skip the shopping mall and walk the **Lugard Road and Harlech Road circuit** — a 3.5km flat loop around the Peak with views north to the harbor and Kowloon in one direction and south to Lamma Island in the other. Free, takes about 1 hour, and the views are unambiguously better than the Peak Tower observation deck.
+
+![Hong Kong Hiking — MacLehose Trail — 100km Across the New Territories](https://images.pexels.com/photos/11709141/pexels-photo-11709141.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## MacLehose Trail — 100km Across the New Territories
 
@@ -69,6 +73,8 @@ Pat Sin Leng (Eight Immortals Ridge) in the New Territories is a sustained ridge
 **The route:** Climb to Hok Tau Wai, join the ridge, walk the eight peaks, descend via Bride's Pool (a beautiful waterfall valley section) to catch a bus back from Plover Cove.
 
 **Why it's worth doing:** The scale of the reservoir visible from the ridge is surprising, and the descent through Bride's Pool waterfall section is one of Hong Kong's most pleasant walk conclusions. The trail is well maintained but long — physical fitness required.
+
+![Hong Kong Hiking — Lantau Trail and Lantau Peak](https://images.pexels.com/photos/971222/pexels-photo-971222.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Lantau Trail and Lantau Peak
 

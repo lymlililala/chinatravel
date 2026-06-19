@@ -12,7 +12,7 @@ tags:
   - culture
   - gardens
 description: "Baoding is one of Hebei's most historically significant cities — former capital of Zhili Province during the Qing Dynasty, home to beautiful classical gardens and one of China's best-preserved imperial administrative complexes. This 2026 guide covers the White Lotus Pond, Zhili Governor's Office Museum, Baiyangdian wetlands, transport from Beijing, accommodation and practical tips."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/17049371/pexels-photo-17049371.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -22,6 +22,8 @@ Baoding occupies a peculiar position in China's historical geography: for most o
 Today Baoding is a mid-sized city of about 10 million people — substantial by any measure — yet it receives remarkably few international tourists. The gap between its historical significance and its tourist footprint makes it genuinely rewarding to visit: the major sites are accessible without queues, and the city has a proud local culture that isn't oriented around visitor services.
 
 ## Top Sights
+
+![Baoding Hebei — Top Sights](https://images.pexels.com/photos/19566841/pexels-photo-19566841.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### Zhili Governor's Office (直隶总督署)
 
@@ -72,6 +74,8 @@ About 15 km northwest of Baoding in the hills of Mancheng County, two Han Dynast
 The original jade suits are now in the Hebei Provincial Museum in Shijiazhuang (well worth the visit). The tomb caves themselves, hewn directly into the mountain, remain open to visitors and are genuinely impressive in scale — each tomb carved as a multi-room house inside the rock.
 
 **Tickets:** ¥60 ($8). Bus from Baoding to Mancheng, then taxi.
+
+![Baoding Hebei — Dingzhou Pagoda (定州开元寺塔)](https://images.pexels.com/photos/10738311/pexels-photo-10738311.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Dingzhou Pagoda (定州开元寺塔)
 

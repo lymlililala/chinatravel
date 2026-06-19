@@ -13,7 +13,7 @@ tags:
   - UNESCO
   - martial arts
 description: "Wudang Mountain in Hubei is a UNESCO World Heritage Site and the spiritual home of Wudang kung fu and Taoist martial arts. This 2026 guide covers the Golden Hall summit temple, Purple Cloud Palace, kung fu schools, ticket prices (240 yuan), transport from Wuhan and Xi'an, cable car options, and the best places to stay."
-ogImage: "https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/14369852/pexels-photo-14369852.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -23,6 +23,8 @@ Wudang Mountain occupies a particular place in Chinese cultural imagination that
 The mountain and its UNESCO-listed ancient buildings received World Heritage designation in 1994. The complex of 72 peaks has accumulated temples, palaces, and hermitage caves over more than 1,400 years of continuous habitation by Taoist priests.
 
 ## The Main Temples and Sites
+
+![Wudang Mountain Hubei — The Main Temples and Sites](https://images.pexels.com/photos/29485843/pexels-photo-29485843.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **Tianmen Golden Hall (金顶天柱峰):** The summit of the highest peak (Tianzhu Peak, 1,612m) is crowned by the Golden Hall — a bronze building erected in 1416 during the Ming dynasty Yongle Emperor's major construction programme across Wudang. Cast entirely from bronze and gilded, the hall has survived over 600 years without rusting. The views from the peak on clear days encompass the entire Wudang range and the valleys far below. Cable car access from the Purple Cloud Palace area to near the Golden Hall summit takes 15-20 minutes.
 
@@ -45,6 +47,8 @@ Several schools operate on the mountain and in the town of Wudangshan at the bas
 **Multiple shorter demonstration opportunities:** Several schools near the base town offer single-day or half-day introduction sessions for tourists — basic Tai Chi forms, introduction to meditation postures, demonstration of Wudang sword forms. Expect to pay ¥100-300 for a 2-hour session.
 
 **Morning practice on the mountain:** If you stay overnight on the mountain and rise before dawn, you will almost certainly encounter resident Taoist practitioners (both priests and lay students) conducting their morning exercises on the temple terraces and mountain paths. This is one of the most authentic and atmospheric experiences the mountain offers. No ticket required — just be respectful, keep a polite distance, and don't photograph without permission.
+
+![Wudang Mountain Hubei — Ticket Prices and Entry](https://images.pexels.com/photos/17527817/pexels-photo-17527817.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Ticket Prices and Entry
 
@@ -71,6 +75,8 @@ The dedicated Wudangshan high-speed railway station opened in 2013 and provides 
 From Wudangshan station, the mountain entrance is about 5km. Taxis (¥20-30) and shuttle buses (¥5-10) cover the distance.
 
 **By Bus from Wuhan:** Direct coaches from Wuhan Passenger Bus Terminal to Wudang Mountain (Shiyan area), approximately 4-5 hours, tickets ¥100-140. Less convenient than the train but an option.
+
+![Wudang Mountain Hubei — Where to Stay](https://images.pexels.com/photos/7494240/pexels-photo-7494240.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Where to Stay
 

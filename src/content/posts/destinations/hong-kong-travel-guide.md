@@ -12,7 +12,7 @@ tags:
   - food
   - nature
 description: "Hong Kong's world-class skyline, extraordinary Cantonese food culture, hidden temple villages, and dramatic country park hiking make it one of Asia's most multidimensional destinations."
-ogImage: "https://images.unsplash.com/photo-1532498551838-b7a1cfac622e?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/8070412/pexels-photo-8070412.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Hong Kong Special Administrative Region occupies the southern tip of the Pearl River Delta — a dense concentration of skyscrapers, traditional markets, colonial heritage, and surprisingly wild country parks on 263 islands. It's both China and not China, and remains one of Asia's most exciting and cosmopolitan cities.
@@ -20,6 +20,8 @@ Hong Kong Special Administrative Region occupies the southern tip of the Pearl R
 ## Table of contents
 
 ## Practical Entry Information
+
+![Hong Kong — Practical Entry Information](https://images.unsplash.com/photo-1781686910394-9fa17922c499?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw1fHxwcmFjdGljYWwlMjBlbnRyeXxlbnwwfDB8fHwxNzgxODUxMDA3fDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ### Visa-Free Access
 Most passport holders can visit Hong Kong visa-free for 14–90 days (varies by nationality), **independently of China visa requirements**. Hong Kong and Macau have their own immigration systems.
@@ -54,6 +56,8 @@ The most atmospheric historical neighbourhood on Hong Kong Island — **Hollywoo
 
 ---
 
+![Hong Kong — Kowloon](https://images.pexels.com/photos/34432020/pexels-photo-34432020.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Kowloon
 
 ### Temple Street Night Market (廟街)
@@ -78,6 +82,8 @@ A Tang Dynasty-style Buddhist nunnery complex (built 1998–2000 but in authenti
 A small island (no cars!) of alleyways, temples, and beaches — the **Bun Festival (打醮)** in May is one of Hong Kong's most spectacular traditional events (bamboo towers covered in sweet buns; acrobats and parade). Take the 1-hour ferry from Central Pier.
 
 ---
+
+![Hong Kong — Hiking](https://images.pexels.com/photos/29835821/pexels-photo-29835821.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Hiking
 

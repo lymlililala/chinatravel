@@ -20,7 +20,7 @@ tags:
   - urban
   - shopping
 description: "Kowloon — the densest part of Hong Kong and where a lot of the real local life happens. Mong Kok's Ladies' Market and the gaming arcade streets, Sham Shui Po for electronics and fabrics at wholesale prices, the Kowloon Walled City Park (the impenetrable anarchist city is gone, but the park tells its story), and the waterfront promenade looking back at Hong Kong Island at night."
-ogImage: "https://images.unsplash.com/photo-1496922253765-5cd8dc4f6a32?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/35984235/pexels-photo-35984235.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Kowloon is where Hong Kong feels most like itself. While Hong Kong Island has the financial district, the luxury hotels, the Peak, and the international-city gloss, Kowloon — the peninsula on the mainland side of Victoria Harbour — has the density, the noise, the street life, and the old-fashioned hustle that makes this city genuinely unlike anywhere else.
@@ -30,6 +30,8 @@ With over 40,000 people per square kilometre in parts of Mong Kok, Kowloon is on
 ## Table of contents
 
 ## Mong Kok: The Beating Heart
+
+![Kowloon — Mong Kok: The Beating Heart](https://images.pexels.com/photos/946630/pexels-photo-946630.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Mong Kok (旺角, literally "prosperous district") is the most commercially intense neighbourhood in Hong Kong — a grid of streets packed with shops, market stalls, cha chaan tengs, electronics dealers, and clothing stores, operating at full volume from morning to midnight.
 
@@ -51,6 +53,8 @@ Sham Shui Po (深水埗) is Mong Kok's less glamorous but more genuinely interes
 
 **Traditional food shops**: Sham Shui Po has one of the highest concentrations of traditional Hong Kong food shops — dried seafood, preserved duck, handmade noodles, traditional pastries (wife cakes, egg rolls, cocktail buns). Walking from the MTR station south toward Kweilin Street is an edible museum of old Cantonese food culture.
 
+![Kowloon — Kowloon Walled City Park: The Ghost of the Anarchist Enclave](https://images.pexels.com/photos/1049506/pexels-photo-1049506.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Kowloon Walled City Park: The Ghost of the Anarchist Enclave
 
 The Kowloon Walled City Park (九龍城寨公園) occupies the site of one of the most extraordinary urban phenomena of the 20th century. From 1945 until its demolition in 1993–94, the Kowloon Walled City was a 6.5-acre enclave of around 50,000 residents operating entirely outside Hong Kong law — a consequence of a legal dispute between Britain and China that left the former Qing dynasty military base in a jurisdictional grey zone.
@@ -66,6 +70,8 @@ The Avenue of Stars along the Tsim Sha Tsui waterfront and the Salisbury Road pr
 The Symphony of Lights (幻彩詠香江) is a nightly light and music show that runs at 8pm, using LED installations on dozens of Hong Kong Island skyscrapers in a coordinated sequence. It runs daily and is free to watch from the waterfront — though "impressive" is probably the right word rather than "spectacular."
 
 The waterfront is also where the Star Ferry terminates. Taking the Star Ferry across to Central (¥3–¥5, roughly 8 minutes) is one of the best-value experiences in Hong Kong — the harbour crossing gives you an unobstructed view of the skyline from the water.
+
+![Kowloon — Jordan and Yau Ma Tei: Local Life](https://images.pexels.com/photos/37989234/pexels-photo-37989234.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Jordan and Yau Ma Tei: Local Life
 

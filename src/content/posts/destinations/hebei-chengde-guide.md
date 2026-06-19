@@ -11,7 +11,7 @@ tags:
   - culture
   - north-china
 description: "Chengde (承德) in Hebei — the Qing Dynasty's summer capital, 250km north of Beijing. The vast Mountain Resort palace gardens (the largest imperial garden in China), the Eight Outer Temples including the mini-Potala Palace, and what a day trip from Beijing vs overnight stay gives you."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/10964092/pexels-photo-10964092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 The Qing Dynasty emperors had a problem. Summer in Beijing was punishingly hot, the grassland tribes of Mongolia needed careful diplomatic management, and the court required a place where emperors could simultaneously relax, hunt, and receive foreign dignitaries from Central Asia and beyond. Their solution was Chengde — a mountain valley 250km north of Beijing where they built the largest imperial garden complex in China, then surrounded it with eight temples designed to flatter every ethnic group in the empire. The result is one of China's most underappreciated UNESCO World Heritage Sites.
@@ -19,6 +19,8 @@ The Qing Dynasty emperors had a problem. Summer in Beijing was punishingly hot, 
 ## Table of contents
 
 ## The Mountain Resort
+
+![Chengde — The Mountain Resort](https://images.pexels.com/photos/6004053/pexels-photo-6004053.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 The Bishu Shanzhuang (避暑山庄, literally "Mountain Resort to Escape the Heat") covers 5.64 square kilometres — roughly the size of the Summer Palace in Beijing plus Beihai Park combined. Emperor Kangxi began construction in 1703, and it took a further 89 years of construction under Qianlong to complete. For most of the 18th century this was effectively the real capital of China, where emperors spent five months a year receiving ambassadors, conducting military reviews, and hunting in the vast forests of the surrounding Mulan Hunting Grounds.
 
@@ -29,6 +31,8 @@ Behind the palaces, the lake zone opens up dramatically — a series of connecte
 The northern forest zone is less visited but covers the largest area. In summer it's genuinely cool and fragrant with pine — exactly what attracted the emperors here. Walking trails extend for kilometres. Horse riding is available near the northern forest gates (¥60-100 for 30 minutes).
 
 **Admission:** ¥90 for the Mountain Resort. Allow a full day to cover the main sights properly.
+
+![Chengde — The Eight Outer Temples](https://images.pexels.com/photos/34783859/pexels-photo-34783859.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Eight Outer Temples
 
@@ -41,6 +45,8 @@ The Puning Temple (普宁寺) is architecturally different — it combines Han C
 The Xumifushou Temple (须弥福寿之庙) was built specifically to house the Panchen Lama during his 1780 visit, modelled on his home monastery at Tashilhunpo in Shigatse. He died here before returning to Tibet, and the temple remains a memorial to his visit.
 
 **Admission:** ¥30-50 per temple. A combined ticket covering multiple temples offers better value.
+
+![Chengde — Day Trip vs Overnight Stay](https://images.pexels.com/photos/37078584/pexels-photo-37078584.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day Trip vs Overnight Stay
 

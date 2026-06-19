@@ -13,7 +13,7 @@ tags:
   - three gorges dam
   - nature
 description: "The Three Gorges on the Yangtze River offer one of China's most dramatic river journeys through Qutang, Wu, and Xiling Gorges. This 2026 guide covers cruise options (4-day classic cruises from 2,000 yuan), Three Gorges Dam visit (105 yuan), hiking alternatives, the route from Chongqing to Yichang, and key stops along the way."
-ogImage: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/2310830/pexels-photo-2310830.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -23,6 +23,8 @@ The Three Gorges of the Yangtze River — Qutang, Wu, and Xiling — stretch for
 The Three Gorges Dam, completed in 2006, fundamentally altered the experience by raising water levels by 80-100 metres. Many riverside towns were submerged, shoreline features changed, and some of the original dramatic low-water scenery was permanently altered. But the gorges themselves — the sheer cliff walls, the tributary canyons, the ancient hanging coffins high on cliff faces — remain genuinely spectacular. Adjusted expectations and an understanding of what has changed produce a rewarding journey.
 
 ## The Three Gorges
+
+![Three Gorges Hubei — The Three Gorges](https://images.pexels.com/photos/38099083/pexels-photo-38099083.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **Qutang Gorge (瞿塘峡):** The shortest (8km) but most dramatic of the three. The cliffs here are closest together, creating an almost canyon-like passage where the current was historically the most powerful. The famous Kui Gate (夔门) at the gorge's entrance — two massive cliff faces framing the river entrance — is one of the iconic images of Chinese landscape art.
 
@@ -50,6 +52,8 @@ The **downstream direction** (Chongqing to Yichang) is more popular: you see the
 
 **Fast boat option (1-2 days):** If you want to experience the gorges without a full cruise, hydrofoil services (about 6 hours, Chongqing to Yichang) are available. Much faster, you see the main gorge scenery, but no shore excursions or the deeper experience. Tickets: ¥300-500.
 
+![Three Gorges Hubei — Three Gorges Dam Visit (三峡大坝)](https://images.pexels.com/photos/37381166/pexels-photo-37381166.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Three Gorges Dam Visit (三峡大坝)
 
 The Three Gorges Dam is a genuinely impressive piece of engineering — the world's largest hydroelectric power station by total generating capacity, stretching 2.3km across the Yangtze and rising 185 metres above the original river bed. Like it or not (and there are real reasons for both perspectives), it's one of the defining engineering projects of China's modern era.
@@ -69,6 +73,8 @@ Not everyone wants to cruise. Excellent alternatives:
 **Wu Gorge Hiking:** The Dawu Village hiking trail on the south side of Wu Gorge follows the original shoreline below the current water level, giving views of the gorge walls that the cruise ships miss. Several day hike options from Wushan town.
 
 **Shennongjia Nature Reserve:** The remote mountain wilderness area north of the gorges (accessible from Yichang) is one of China's most biologically diverse areas — ancient forest, endemic wildlife, and the alleged habitat of the Yeren (wild man). Day trips and overnight tours available from Yichang.
+
+![Three Gorges Hubei — Getting to the Gorges](https://images.pexels.com/photos/11306999/pexels-photo-11306999.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting to the Gorges
 

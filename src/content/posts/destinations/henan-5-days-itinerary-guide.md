@@ -11,7 +11,7 @@ tags:
   - central-china
   - history
 description: "A 5-day Henan itinerary — Luoyang's Longmen Grottoes (most photographed Buddhist cave art in China), the Peony Festival gardens, the Shaolin Temple and Songshan Geopark, and the Song Dynasty culture of Kaifeng (Iron Pagoda, Judge Bao's memorial). Train connections from Zhengzhou hub."
-ogImage: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/5305562/pexels-photo-5305562.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Henan is the cradle of Chinese civilization — the Yellow River valley here was where China's first dynasties rose and where most of the early capitals were located. Thirteen Chinese dynasties had their capitals in Henan. The province has more UNESCO World Heritage Sites than any other Chinese province. And Shaolin Temple, where Chinese martial arts were born, is here.
@@ -21,6 +21,8 @@ Despite all this, Henan is often overlooked by international visitors in favor o
 ## Table of contents
 
 ## Getting There & Around
+
+![Henan — Getting There & Around](https://images.unsplash.com/photo-1646912951442-7a2bc5e8cd06?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw1fHwlMjYlMjBBcm91bmR8ZW58MHwwfHx8MTc4MTgzOTI0OXww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 **Hub city:** Zhengzhou (郑州) is Henan's capital and transport hub — located on the intersection of north-south and east-west high-speed rail lines.
 
@@ -69,6 +71,8 @@ Allow 3-4 hours minimum. The site is 13km south of Luoyang city center.
 
 ---
 
+![Henan — Day 3: Shaolin Temple & Songshan](https://images.pexels.com/photos/2247216/pexels-photo-2247216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Day 3: Shaolin Temple & Songshan
 
 **Journey:** Bus from Luoyang Bus Station to Dengfeng (登封), then minibus to Shaolin Temple. Total ~1.5 hours, ¥30-50. Or book a day tour from Luoyang (¥150-200 including transport).
@@ -114,6 +118,8 @@ The **Monks' Training Grounds** in the morning (before 9am) sometimes have stude
 **Gulou Night Market** (鼓楼夜市) and the surrounding area around the Drum Tower is Kaifeng's most lively street food scene after dark. Try **stewed sauce noodles** (炒凉粉, ¥8), **braised intestines** (桶子鸡 — whole cooked chicken, ¥25-40 half), and **peanut cake** (花生糕). The Jewish community that settled in Kaifeng during the Song Dynasty has a small historical heritage site in the old city.
 
 ---
+
+![Henan — Day 5: Zhengzhou Day — Erligang Site Museum or Return](https://images.pexels.com/photos/6733647/pexels-photo-6733647.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day 5: Zhengzhou Day — Erligang Site Museum or Return
 

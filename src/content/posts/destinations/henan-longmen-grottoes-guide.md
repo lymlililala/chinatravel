@@ -1,6 +1,7 @@
 ---
 title: "Longmen Grottoes Guide: Luoyang's Buddhist Masterpiece & Giant Vairocana Buddha"
 description: "Explore the Longmen Grottoes near Luoyang — one of China's greatest Buddhist cave complexes, featuring the magnificent 17-metre Vairocana Buddha, over 100,000 carved figures spanning 400 years of Tang dynasty Buddhist art, and the Yi River canyon setting that makes it unique among China's Four Great Grottoes."
+ogImage: "https://images.pexels.com/photos/11105693/pexels-photo-11105693.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Henan"
 tags: ["henan", "luoyang", "longmen-grottoes", "buddhist-art", "tang-dynasty", "vairocana-buddha", "UNESCO", "cave-temples", "sculpture"]
@@ -14,6 +15,8 @@ The highlight is the **Fengxian Si Temple** and its colossal **Vairocana Buddha*
 
 ---
 
+![Longmen Grottoes — The Historical Context](https://images.pexels.com/photos/33457680/pexels-photo-33457680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The Historical Context
 
 **Longmen (龙门)** means Dragon Gate — named for the gap in the limestone cliffs that the Yi River passes through, which resembles the gateway of a legendary dragon's residence.
@@ -23,6 +26,8 @@ The grottoes were begun when **Emperor Xuanwu of the Northern Wei dynasty** move
 The carving continued sporadically under subsequent dynasties but reached its greatest intensity under the **Tang dynasty** (618–907 CE) — particularly under the reign of **Emperor Gaozong** and his wife, **Empress Wu Zetian** (later China's only female emperor). The Fengxian Si complex is her most enduring contribution.
 
 ---
+
+![Longmen Grottoes — The Key Caves and Sculptures](https://images.pexels.com/photos/32325843/pexels-photo-32325843.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Key Caves and Sculptures
 
@@ -55,6 +60,8 @@ Three linked caves commissioned by Emperor Xuanwu as a memorial to his parents. 
 Several reliefs originally in these caves depicting imperial processions were **removed in the 1930s** by antique dealers acting for American museums; the main sections now reside in the Metropolitan Museum of Art in New York and the Nelson-Atkins Museum in Kansas City.
 
 ---
+
+![Longmen Grottoes — Walking the Site](https://images.pexels.com/photos/20422002/pexels-photo-20422002.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Walking the Site
 

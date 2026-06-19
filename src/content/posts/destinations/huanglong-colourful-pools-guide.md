@@ -11,11 +11,14 @@ tags:
   - unesco
   - altitude
 description: "Huanglong Scenic Area in Sichuan — the UNESCO-listed travertine pool cascade rising to 3,577m, how to visit, altitude acclimatisation requirements, combining with Jiuzhaigou, and why most visitors say it surpasses their expectations despite the altitude."
+ogImage: "https://images.pexels.com/photos/29767798/pexels-photo-29767798.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Huanglong (黄龙, Yellow Dragon) Scenic Area in northern Sichuan is one of China's most visually extraordinary natural landscapes — a 3.6km travertine cascade of 3,400 coloured pools at elevations between 3,145m and 3,577m. The calcium carbonate deposit system creates pools ranging from turquoise to emerald to gold in colour, set within a forested gorge with snow peaks visible above.
 
 Huanglong is UNESCO World Heritage Site listed alongside Jiuzhaigou — and less visited, making it the better experience for most discerning travellers.
+
+![Huanglong UNESCO Scenic Area — The Landscape](https://images.pexels.com/photos/37804559/pexels-photo-37804559.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Landscape
 
@@ -24,6 +27,8 @@ Huanglong's pools form as calcite-saturated water from underground springs flows
 The colour variations come from: algae (contributing greens and blues), the calcite itself (white and yellow), reflected sky, and varying water depths.
 
 **The main cascade**: The primary Huanglong Valley section is 2.5km long. The top section (Huanglong Temple area, 3,577m) has the most dense pool concentration — over 400 pools in the final section.
+
+![Huanglong UNESCO Scenic Area — The Altitude Challenge](https://images.pexels.com/photos/35776225/pexels-photo-35776225.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Altitude Challenge
 
@@ -36,6 +41,8 @@ Huanglong is at the base level 3,145m with the path ascending to 3,577m. This is
 - Drink extra water; avoid alcohol the night before
 
 **Cable car**: A cable car ascends to the upper section (3,300m) — highly recommended for visitors who want to see the most spectacular upper pools without a full altitude ascent on foot. The walk down is significantly easier.
+
+![Huanglong UNESCO Scenic Area — Combining with Jiuzhaigou](https://images.pexels.com/photos/31654293/pexels-photo-31654293.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Combining with Jiuzhaigou
 

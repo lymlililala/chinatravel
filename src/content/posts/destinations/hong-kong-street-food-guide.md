@@ -11,7 +11,7 @@ tags:
   - street-food
   - cantonese
 description: "Hong Kong's street food culture — the dai pai dong open-air cooking stalls (gradually disappearing but still alive in Sham Shui Po and Kowloon City), the egg waffle (雞蛋仔, gai daan zai) that Hong Kong invented, curry fish balls on skewers, pineapple buns, the Temple Street Night Market's food stalls, and the char siu roast meat takeaway shops in Sheung Wan."
-ogImage: "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/25049356/pexels-photo-25049356.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Hong Kong street food has a complicated present. The government has been systematically closing dai pai dong stalls for decades through a policy of not renewing licences as operators retire, and the number of genuine street food stalls has been declining every year. What survives is a combination of beloved institutions that have fought for and maintained their operating licences, and the walking snack culture of egg waffles, fish balls, and pineapple buns that continues through small shops and converted premises.
@@ -21,6 +21,8 @@ The best of Hong Kong's street food culture is still very much alive — you jus
 ## Table of contents
 
 ## Dai Pai Dongs: Outdoor Cooking Stalls
+
+![Hong Kong Street Food — Dai Pai Dongs: Outdoor Cooking Stalls](https://images.pexels.com/photos/10817551/pexels-photo-10817551.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 A dai pai dong (大牌檔) is an open-air food stall with folding tables and plastic stools, a wok station, and a menu of Cantonese stir-fries, noodles, and rice plates. The name comes from the large government licence placard (大牌) that authorised operators were required to display.
 
@@ -40,6 +42,8 @@ Hong Kong invented this snack in the 1950s, and it has since spread across Asia 
 
 Lee Keung Kee North Point Egg Waffle in North Point has a long-running reputation for the best traditional version — the queue at lunchtime is real, and justified.
 
+![Hong Kong Street Food — Curry Fish Balls: The Snack That Defines Kowloon](https://images.pexels.com/photos/674576/pexels-photo-674576.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Curry Fish Balls: The Snack That Defines Kowloon
 
 Curry fish balls (咖喱魚蛋) on wooden skewers are the signature walking street food of Hong Kong. The fish balls are made from processed fish paste (herring, typically), deep-fried or boiled, and served in a thick, mildly spicy curry sauce. They cost ¥10–¥20 for five or six on a skewer, bought from a steaming pot outside a snack shop.
@@ -51,6 +55,8 @@ Temple Street in Yau Ma Tei and the Mong Kok area have the densest concentration
 The pineapple bun (菠蘿包, bolo bao) contains no pineapple — the name comes from the crinkled, glazed top crust that loosely resembles the exterior of a pineapple. Inside is soft, sweet white bread. At Hong Kong's cha chaan tengs and bakeries, the pineapple bun with butter (菠蘿油) is the most widely consumed morning snack — a slice of cold butter inserted into a warm pineapple bun creates a combination that is genuinely excellent despite its simplicity.
 
 Price: ¥8–¥15 per bun. Available at essentially every Hong Kong bakery (Maxim's, Saint Honoré, and independent bakeries) and most cha chaan tengs.
+
+![Hong Kong Street Food — Temple Street Night Market: Food After Dark](https://images.pexels.com/photos/4967684/pexels-photo-4967684.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Temple Street Night Market: Food After Dark
 

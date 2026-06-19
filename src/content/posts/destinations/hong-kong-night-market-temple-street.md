@@ -1,6 +1,7 @@
 ---
 title: "Hong Kong Temple Street Night Market: Fortune Tellers, Street Opera & Best Stalls"
 description: "Navigate Hong Kong's most famous night market on Temple Street in Jordan — from fortune tellers and Cantonese opera singers to the best seafood stalls, jade market at Man Ming Lane, and the authentic working-class Kowloon neighbourhood it inhabits."
+ogImage: "https://images.pexels.com/photos/2481626/pexels-photo-2481626.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Hong Kong"
 tags: ["hong-kong", "temple-street", "night-market", "jordan", "kowloon", "fortune-tellers", "cantonese-opera", "seafood", "jade-market"]
@@ -13,6 +14,8 @@ As the light fades over the Kowloon peninsula, Temple Street transforms. What wa
 Temple Street is genuinely working-class Kowloon in a way that Mong Kok's Ladies' Market and Sham Shui Po's electronic bazaars are not — it has edge, character, and the specific atmosphere of a community that has organised its commercial life around the street for generations.
 
 ---
+
+![Hong Kong Temple Street Night Market — History of Temple Street](https://images.pexels.com/photos/12392805/pexels-photo-12392805.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## History of Temple Street
 
@@ -33,6 +36,8 @@ Today the gender distinction has largely faded, though the market retains a masc
 **Best time:** 19:00–21:00 on weeknights for the atmosphere without weekend crushing crowds. Avoid the first week of October (National Day holidays) and Chinese New Year when visitor numbers make movement difficult.
 
 ---
+
+![Hong Kong Temple Street Night Market — The Market: What to Find and Where](https://images.pexels.com/photos/34009126/pexels-photo-34009126.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Market: What to Find and Where
 
@@ -83,6 +88,8 @@ At the northern end, a covered outdoor market specialises in **jade, gemstones, 
 **What to buy safely:** Small carved jade pendants (¥100–¥500); turquoise beads; amber pieces with visible inclusions. These are low-cost enough that the risk-reward calculation is acceptable.
 
 ---
+
+![Hong Kong Temple Street Night Market — Eating at Temple Street](https://images.pexels.com/photos/7192346/pexels-photo-7192346.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Eating at Temple Street
 

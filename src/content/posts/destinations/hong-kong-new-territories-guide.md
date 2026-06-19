@@ -11,9 +11,12 @@ tags:
   - hiking
   - culture
 description: "The New Territories — the 86% of Hong Kong that most visitors never see. Country parks with challenging trails, ancient Hakka walled villages, the Sai Kung waterfront, Mai Po nature reserve, and why a day in the New Territories beats another day in Mong Kok."
+ogImage: "https://images.pexels.com/photos/19582471/pexels-photo-19582471.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Most Hong Kong visitors concentrate on the urban core: Central, Tsim Sha Tsui, Mong Kok. But the New Territories (新界, Xīnjie) — the broad area between Kowloon and the mainland border — covers 86% of Hong Kong's land area and contains country parks, ancient walled villages, freshwater marshes, and a coastline accessible within 40 minutes of the city centre by MTR.
+
+![Hong Kong New Territories — The Maclehose Trail](https://images.pexels.com/photos/10454456/pexels-photo-10454456.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Maclehose Trail
 
@@ -25,6 +28,8 @@ The Maclehose Trail (麥理浩徑) is a 100km walking trail crossing the New Ter
 
 **Stage 4**: The highest section (MacLehose's route crosses 702m Needle Hill). Views of Sha Tin New Town below and the harbour beyond.
 
+![Hong Kong New Territories — Sai Kung Peninsula](https://images.pexels.com/photos/33334777/pexels-photo-33334777.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Sai Kung Peninsula
 
 Sai Kung (西貢) is Hong Kong's most scenic area — a peninsula with no road access to many sections, white sandy beaches, uninhabited islands, and the seafood village of Sai Kung Town.
@@ -32,6 +37,8 @@ Sai Kung (西貢) is Hong Kong's most scenic area — a peninsula with no road a
 **Sai Kung Town Seafood**: Choose your live seafood from the tanks at waterfront restaurants and pay market price. Grouper, mantis shrimp, geoduck clams, and local crab — all fresh from the boats. More expensive than Kowloon seafood but the freshness and waterfront setting justify it.
 
 **Clear Water Bay**: Accessible by green minibus 103 from Diamond Hill MTR — two beaches (Clear Water Bay First and Second Beach) with good swimming and views toward the Sai Kung headlands.
+
+![Hong Kong New Territories — Ancient Walled Villages](https://images.pexels.com/photos/30317108/pexels-photo-30317108.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Ancient Walled Villages
 

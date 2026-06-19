@@ -10,7 +10,7 @@ tags:
   - itinerary
   - beginners
 description: "A 3-day Hong Kong itinerary — Day 1 for Kowloon (Temple Street, Mong Kok, TST waterfront), Day 2 for Hong Kong Island (Victoria Peak, Central, Aberdeen), Day 3 for Lantau Island (Big Buddha) or a New Territories hike. MTR routes and restaurant picks."
-ogImage: "https://images.unsplash.com/photo-1496922253765-5cd8dc4f6a32?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/26970225/pexels-photo-26970225.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Hong Kong moves fast and rewards people who move with it. Three days is enough to get under the surface — past the tourist harbor views and into the dai pai dong street food scene, the hillside hiking trails above the city, and the layers of East-meets-West culture that make this city genuinely unique. Unlike mainland China, Hong Kong runs on a different infrastructure: Octopus cards instead of WeChat Pay, traditional characters instead of simplified Chinese, left-hand traffic, and more English than you'd expect.
@@ -20,6 +20,8 @@ This itinerary divides the city by area — Kowloon on Day 1, Hong Kong Island o
 ## Table of contents
 
 ## Before You Arrive
+
+![Hong Kong — Before You Arrive](https://images.pexels.com/photos/1095826/pexels-photo-1095826.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **Getting there:** Hong Kong International Airport (HKG) on Lantau Island connects globally. The **Airport Express** to Kowloon Station takes 19 minutes (HK$100) and to Hong Kong Station (Central) takes 24 minutes (HK$115). It's fast and frequent. Taxis cost HK$300-400 to Kowloon, HK$400-500 to Central.
 
@@ -32,6 +34,8 @@ From mainland China: High-speed rail from Guangzhou South to West Kowloon Termin
 **Data:** Hong Kong has separate roaming agreements from mainland China — a China SIM may not work or may cost extra. Get a Hong Kong local SIM at the airport (HK$50-80 for 7 days unlimited) or a separate Hong Kong eSIM.
 
 ---
+
+![Hong Kong — Day 1: Kowloon — Markets, Street Food & Harbour Views](https://images.pexels.com/photos/37471374/pexels-photo-37471374.png?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day 1: Kowloon — Markets, Street Food & Harbour Views
 
@@ -60,6 +64,8 @@ The **Kowloon Park** (九龍公園) is a free green oasis — flamingos, topiary
 The **Symphony of Lights** harbor show runs every night at 8pm — buildings on both sides of the harbor illuminate with synchronized lasers and lights. Best viewed from the Tsim Sha Tsui waterfront promenade. Free. 15 minutes. Worth seeing at least once.
 
 ---
+
+![Hong Kong — Day 2: Hong Kong Island — Victoria Peak, Central & Aberdeen](https://images.pexels.com/photos/27057476/pexels-photo-27057476.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day 2: Hong Kong Island — Victoria Peak, Central & Aberdeen
 

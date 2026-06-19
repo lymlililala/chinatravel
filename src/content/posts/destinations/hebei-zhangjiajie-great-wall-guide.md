@@ -12,7 +12,7 @@ tags:
   - beijing
   - adventure
 description: "Escape the tourist crowds at Badaling and explore the untamed, unrestored sections of the Great Wall in Hebei and Beijing's outer reaches. This 2026 guide covers Jiankou's crumbling towers, Zhuangdaokou's wooded ridges, night hikes, camping spots, and everything you need to plan a wild Great Wall adventure safely."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/29466142/pexels-photo-29466142.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -24,6 +24,8 @@ This is the wild Great Wall, and once you've walked it, the restored sections �
 This guide covers the best unrestored Wall sections accessible from Beijing and Hebei Province in 2026. I'll be honest about the difficulty levels, the risks, and the practical logistics. Some of these hikes are genuinely demanding and require real preparation.
 
 ## The Wild Wall Philosophy
+
+![Hebei Wild Great Wall Hike — The Wild Wall Philosophy](https://images.pexels.com/photos/1410232/pexels-photo-1410232.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 First, some context. The Great Wall stretches over 21,000km and was built across multiple dynasties. The sections most tourists visit are Ming Dynasty (1368–1644) sections that were heavily restored in the 20th century. But the majority of the Wall is unrestored — crumbling, overgrown, often structurally unstable.
 
@@ -91,6 +93,8 @@ The "Water Wall" photo spot is accessible by boat (¥40/person for a short ride)
 
 Entry area fee: ¥45 adults, includes boat rides to the Water Wall section. Open 8am–5pm.
 
+![Hebei Wild Great Wall Hike — Gubeikou (古北口) — Ming and Qi Dynasty Walls](https://images.pexels.com/photos/17615499/pexels-photo-17615499.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Gubeikou (古北口) — Ming and Qi Dynasty Walls
 
 Gubeikou is historically significant — this is where two dynasties' worth of Wall construction overlaps, so you can see both the older, rougher "Qi Dynasty Wall" and the better-preserved Ming Dynasty Wall in close proximity. It's also more accessible and less dangerous than Jiankou.
@@ -137,6 +141,8 @@ Connecting multiple sections into a multi-day trek is possible for experienced m
 Village guesthouses (农家乐) along the route offer basic rooms for ¥60–100/night including simple meals.
 
 Hiring a local guide for a multi-day traverse is strongly recommended — these mountain villages have residents who have walked every meter of the Wall above them and know which sections are safe and which are dangerous. Rates: ¥200–400/day.
+
+![Hebei Wild Great Wall Hike — Photography Tips for the Wild Wall](https://images.pexels.com/photos/35675995/pexels-photo-35675995.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Photography Tips for the Wild Wall
 

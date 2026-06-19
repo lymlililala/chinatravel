@@ -1,6 +1,7 @@
 ---
 title: "Luoyang Peony Festival & Ancient Capital Guide 2026"
 description: "Complete guide to Luoyang — peony festival in April, Longmen Grottoes UNESCO site, White Horse Temple, and exploring the city that was China's capital for 13 dynasties. Practical tips for 2026."
+ogImage: "https://images.pexels.com/photos/5305565/pexels-photo-5305565.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/luoyang-peony.jpg"
 category: "destinations"
@@ -13,6 +14,8 @@ author: "RoamChina Travel"
 Luoyang (洛阳) in central Henan province was China's capital under more dynasties than any other city — thirteen in total, from the Xia dynasty (mythological origin) through the Eastern Han (25-220 CE), Northern Wei (471-534 CE), Sui (605-618 CE), Tang (690-904 CE), and several others. At its Tang dynasty peak, Luoyang's population exceeded one million — one of the largest cities in the world.
 
 Today, two reasons draw travelers: the Longmen Grottoes (龙门石窟), the UNESCO World Heritage site with over 100,000 Buddhist sculptures carved between 493-907 CE, and the Luoyang Peony Festival (洛阳牡丹节), held every April when the city's hundreds of thousands of peony plants bloom simultaneously in what may be China's most spectacular concentrated flower display.
+
+![Luoyang Peony Festival & Ancient Capital — The Longmen Grottoes (龙门石窟)](https://images.pexels.com/photos/34932054/pexels-photo-34932054.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Longmen Grottoes (龙门石窟)
 
@@ -54,6 +57,8 @@ The Peony Festival is held annually from approximately April 10-25 (exact dates 
 
 **Prices and crowds**: The Peony Festival is one of China's major domestic tourism events. Hotel prices triple during peak bloom week. Trains to Luoyang from major cities sell out. Plan accommodation well in advance or visit in the week before or after peak bloom.
 
+![Luoyang Peony Festival & Ancient Capital — White Horse Temple (白马寺)](https://images.pexels.com/photos/1237727/pexels-photo-1237727.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## White Horse Temple (白马寺)
 
 Located 13 km east of Luoyang city, White Horse Temple (白马寺) is China's first Buddhist monastery — founded in 68 CE according to tradition, when the Han Emperor Mingdi sent envoys to India and they returned with Buddhist scriptures carried by white horses. The temple was built to house the scriptures and the Indian monks who came with them.
@@ -71,6 +76,8 @@ The Imperial Sui-Tang Luoyang City (隋唐洛阳城) occupied a vast area of wha
 **Mingde Gate (明德门)**: The reconstructed southern gate of the Tang dynasty inner city. The foundations are original; the superstructure is a modern reconstruction based on archaeological evidence. Entry: ¥40.
 
 **Ying Tianmen (应天门)**: The monumental gate of the Tang imperial palace compound, recently reconstructed at significant scale. The Tang Dynasty Luoyang imperial court conducted major state ceremonies here.
+
+![Luoyang Peony Festival & Ancient Capital — Luoyang's Modern Food Scene](https://images.pexels.com/photos/35045277/pexels-photo-35045277.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Luoyang's Modern Food Scene
 

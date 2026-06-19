@@ -1,6 +1,7 @@
 ---
 title: "Zhangjiakou Great Wall Hiking: Wild Wall Sections Beyond the Tourist Crowds"
 description: "Explore remote, unrestored Great Wall sections near Zhangjiakou in Hebei — the wild wall at Juyongguan, dramatic Damaolin and Yanmenguan passes, grassland-meets-wall landscapes at Bashang, and practical hiking routes through some of the most photogenic and crowd-free sections in northern China."
+ogImage: "https://images.pexels.com/photos/33899286/pexels-photo-33899286.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Hebei"
 tags: ["hebei", "zhangjiakou", "great-wall", "wild-wall", "hiking", "unrestored-wall", "bashang", "winter-olympics-site", "frontier"]
@@ -14,6 +15,8 @@ The Great Wall sections north and west of Zhangjiakou are among the **least-visi
 
 ---
 
+![Zhangjiakou Great Wall Hiking — Understanding "Wild Wall" vs. Restored Wall](https://images.pexels.com/photos/28305341/pexels-photo-28305341.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Understanding "Wild Wall" vs. Restored Wall
 
 The phrase **"wild wall" (野长城)** describes sections of the Great Wall that have not been restored for tourism — where the original Ming-dynasty bricks are tumbling from their foundations, where weeds grow from the rampart walkways, and where you are likely to be entirely alone.
@@ -25,6 +28,8 @@ The tradeoff is straightforward:
 The sections near Zhangjiakou fall largely in the wild wall category.
 
 ---
+
+![Zhangjiakou Great Wall Hiking — Key Wall Sections Near Zhangjiakou](https://images.pexels.com/photos/33899285/pexels-photo-33899285.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Key Wall Sections Near Zhangjiakou
 
@@ -59,6 +64,8 @@ Three hours south of Zhangjiakou (in Shanxi Province), **Yanmenguan** is the mos
 A museum at the pass traces its military history, which includes legendary general **Yang Ye** (杨业) of the Northern Song dynasty — a figure whose resistance at this pass inspired centuries of Chinese literary and operatic tradition.
 
 ---
+
+![Zhangjiakou Great Wall Hiking — The 2022 Winter Olympics Legacy](https://images.pexels.com/photos/10363510/pexels-photo-10363510.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The 2022 Winter Olympics Legacy
 

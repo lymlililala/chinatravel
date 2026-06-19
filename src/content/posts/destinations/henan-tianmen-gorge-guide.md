@@ -12,7 +12,7 @@ tags:
   - nature
   - hiking
 description: "Tianmen Gorge (Tianmenxia) in northwestern Henan is where the Yellow River cuts through the Qinling-Taihang mountain divide, creating dramatic sandstone canyon scenery with a unique cliff-edge walking trail suspended over the river. This guide covers the gorge walk, the Xiaolangdi Reservoir scenery, nearby Shanxian County, and how to combine a visit with Luoyang or Sanmenxia."
-ogImage: "https://images.unsplash.com/photo-1508182314998-3bd257ab21ce?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/34902901/pexels-photo-34902901.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 The Yellow River (黄河) is China's second longest river and one of the most historically significant waterways in East Asia — the cradle of early Chinese civilization, the source of devastating floods, the boundary that defined the north from the south for millennia. For most of its length, the river flows through agricultural plains and industrial cities that are historically significant but not visually dramatic.
@@ -22,6 +22,8 @@ The exception is the section where the river cuts through the Qinling and Taihan
 ## Table of contents
 
 ## Getting to Tianmen Gorge
+
+![Tianmen Gorge Henan — Getting to Tianmen Gorge](https://images.pexels.com/photos/25000724/pexels-photo-25000724.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **By train to Sanmenxia (三门峡):**
 Tianmen Gorge is most easily reached via Sanmenxia, the nearest city:
@@ -57,6 +59,8 @@ The main attraction is the Yellow River canyon section where the gorge walls are
 **Opening hours:** 8:00am–6:00pm  
 **Physical requirements:** The cliff walk involves steep sections; comfortable footwear required; the glass floor section is not for those with severe vertigo
 
+![Tianmen Gorge Henan — Sanmenxia White Swan Reserve (三门峡白天鹅自然保护区)](https://images.pexels.com/photos/32441624/pexels-photo-32441624.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Sanmenxia White Swan Reserve (三门峡白天鹅自然保护区)
 
 From October through March, the Sanmenxia section of the Yellow River hosts the largest wintering population of whooper swans in China, with peak numbers exceeding 10,000 birds.
@@ -90,6 +94,8 @@ The best-preserved cluster of digeng yuan is at Miaoshang, now managed as a heri
 - Overnight stays in converted digeng yuan guesthouses: ¥200–350/night; the experience of sleeping underground in a traditional pit house is unusual and memorable
 
 **Getting there from Sanmenxia:** Bus or taxi from Sanmenxia South Bus Station; about 30 minutes (¥25–35 by taxi).
+
+![Tianmen Gorge Henan — Xiaolangdi Dam and Reservoir (小浪底水库)](https://images.pexels.com/photos/37022121/pexels-photo-37022121.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Xiaolangdi Dam and Reservoir (小浪底水库)
 

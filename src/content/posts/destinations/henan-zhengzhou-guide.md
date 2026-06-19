@@ -12,7 +12,7 @@ tags:
   - yellow-river
   - history
 description: "Zhengzhou is the capital of Henan — China's most historically dense province — and the natural hub for visits to the Shaolin Temple, Songshan Mountain, Yellow River scenic areas and the ancient capitals of Luoyang and Kaifeng. This 2026 guide covers the best of Zhengzhou and its surrounding heritage, transport connections across China, accommodation, food and day-trip logistics."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/34606842/pexels-photo-34606842.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -24,6 +24,8 @@ Zhengzhou today is a modern transport hub of over 10 million people, less obviou
 You should stop.
 
 ## In Zhengzhou City
+
+![Zhengzhou Henan — In Zhengzhou City](https://images.pexels.com/photos/1578334/pexels-photo-1578334.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### Henan Museum (河南博物院)
 
@@ -81,6 +83,8 @@ The "Central Peak" of China's Five Sacred Mountains, Songshan is a complex of mo
 - **Zhongyue Temple (中岳庙):** The main Taoist temple on Songshan, a massive complex dating to the Han Dynasty; one of the largest Taoist temples in China
 - **Songyue Pagoda (嵩岳寺塔):** China's oldest surviving multi-eaved brick pagoda (523 CE, Northern Wei Dynasty) — a remarkably important piece of architectural history
 - **Songyang Academy (嵩阳书院):** One of China's four great classical academies, established in the Song Dynasty
+
+![Zhengzhou Henan — Zhengzhou Food](https://images.pexels.com/photos/36034214/pexels-photo-36034214.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Zhengzhou Food
 
