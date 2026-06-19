@@ -12,10 +12,12 @@ tags:
   - archaeology
   - sichuan
 description: "Sanxingdui Museum houses one of the most extraordinary archaeological discoveries in history — a sophisticated Bronze Age civilisation in Sichuan entirely outside known Chinese historical records. This 2026 guide covers the new museum building, the mind-bending bronze collection, how to get there from Chengdu, ticket prices, and why this site is unmissable for visitors to China."
-ogImage: "https://images.unsplash.com/photo-1571191540948-4f5e96c3a4a4?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/12321159/pexels-photo-12321159.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
+
+![Sanxingdui Museum Chengdu — The Discovery That Rewrote Bronze Age History](https://images.pexels.com/photos/16499653/pexels-photo-16499653.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Discovery That Rewrote Bronze Age History
 
@@ -41,6 +43,8 @@ The original building houses the foundational collection that established Sanxin
 
 Plan a minimum of 3–4 hours for a thorough visit to both buildings. Rushing through Sanxingdui means missing the layers of detail and context that make the collection extraordinary.
 
+![Sanxingdui Museum Chengdu — Getting to Sanxingdui from Chengdu](https://images.pexels.com/photos/2299949/pexels-photo-2299949.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Getting to Sanxingdui from Chengdu
 
 ### By Intercity Train
@@ -61,6 +65,8 @@ Tickets must be booked in advance through the official Sanxingdui Museum WeChat 
 Opening hours: 9:00 AM to 6:00 PM, Tuesday through Sunday. Closed Mondays. Last entry at 5:00 PM.
 
 Audio guide rental is available in English and multiple languages at the entrance for a ¥30 deposit plus ¥20 rental fee. The audio guide significantly enhances the visit and is strongly recommended.
+
+![Sanxingdui Museum Chengdu — Highlights You Must Not Miss](https://images.pexels.com/photos/7437729/pexels-photo-7437729.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Highlights You Must Not Miss
 

@@ -10,11 +10,14 @@ tags:
   - culture
   - destinations
 description: "A guide to China's most beautifully preserved ancient villages — the UNESCO-listed Hongcun and Xidi in Anhui, the cliff village of Furong in Zhejiang, and lesser-known gems across the country. What makes each special and how to visit beyond the day-trip bus crowd."
+ogImage: "https://images.pexels.com/photos/28927399/pexels-photo-28927399.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 China's ancient villages offer something the cities cannot: the physical texture of pre-modern Chinese life — rammed earth walls, carved wooden screens, stone-paved lanes, wells used by generations of the same family for five centuries. The best-preserved examples are UNESCO World Heritage sites; the least known are entirely untouristed. This guide covers both.
 
 ## Table of contents
+
+![China's Preserved Ancient Villages — Hongcun and Xidi: Anhui's UNESCO Villages](https://images.pexels.com/photos/3975364/pexels-photo-3975364.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Hongcun and Xidi: Anhui's UNESCO Villages
 
@@ -56,6 +59,8 @@ The village is famous for its **"七星八斗" (Seven Stars, Eight Dou)** layout
 
 ---
 
+![China's Preserved Ancient Villages — Zhuge Village (诸葛村): The Labyrinth of Lanxi](https://images.pexels.com/photos/29611975/pexels-photo-29611975.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Zhuge Village (诸葛村): The Labyrinth of Lanxi
 
 Zhuge Village (诸葛村) in Lanxi County, Zhejiang, claims descent from Zhuge Liang — the famous strategist of the Three Kingdoms period (184–280 AD). Whether the genealogy is accurate is debatable; what is beyond dispute is the extraordinary village layout: based on the Eight Trigrams (八卦) pattern from the I Ching, with streets radiating from a central "Sky Pond" (钟池) in a pattern that deliberately confuses navigation — keeping enemies lost and defenders oriented.
@@ -75,6 +80,8 @@ Unlike Anhui's white-walled style, these are northern Chinese compounds: high bl
 **Getting there**: 10km from Hancheng; accessible by bus from Hancheng bus station. Hancheng is on the Xi'an-Yuncheng railway line (1.5 hours from Xi'an).
 
 ---
+
+![China's Preserved Ancient Villages — Zhaoxing Dong Village (肇兴侗寨): Guizhou's Wind-Rain Bridges](https://images.pexels.com/photos/8776825/pexels-photo-8776825.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Zhaoxing Dong Village (肇兴侗寨): Guizhou's Wind-Rain Bridges
 

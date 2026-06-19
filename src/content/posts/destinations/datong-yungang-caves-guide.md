@@ -12,7 +12,7 @@ tags:
   - art
   - north-china
 description: "Datong in Shanxi province — the Yungang Grottoes (云冈石窟), one of the greatest Buddhist cave art complexes in the world with 51,000 carved figures from the 5th century AD Northern Wei dynasty. The most important caves to visit, the Hanging Temple (悬空寺) nearby, and Datong's extraordinary old city wall."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/37340473/pexels-photo-37340473.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Datong is one of those Chinese cities that rewards visitors who do their research. On the surface it's a fading industrial city in northern Shanxi — former coal capital of China, dusty and grey. But dig beneath that surface and you find a city with one of the most significant collections of Buddhist art anywhere in the world, a restored city wall of remarkable scale, and the bizarre spectacle of a monastery built into a cliff face 75 metres above a gorge floor.
@@ -20,6 +20,8 @@ Datong is one of those Chinese cities that rewards visitors who do their researc
 The Yungang Grottoes alone are worth the trip from anywhere in China.
 
 ## Table of contents
+
+![Datong & Yungang Grottoes — Yungang Grottoes (云冈石窟)](https://images.pexels.com/photos/38098072/pexels-photo-38098072.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Yungang Grottoes (云冈石窟)
 
@@ -62,6 +64,8 @@ The engineering is extraordinary: the cliff face overhangs slightly, protecting 
 
 The Hanging Temple gets crowded quickly because the walkways are narrow — the cliff-hanging experience involves shuffling through narrow wooden galleries with others. Come early or on a weekday.
 
+![Datong & Yungang Grottoes — Datong Old City Wall](https://images.pexels.com/photos/28263427/pexels-photo-28263427.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Datong Old City Wall
 
 Datong's city wall has been comprehensively restored over the past 15 years and is now one of the most impressive surviving Ming Dynasty walls in China. The circuit is 6.5km and can be walked in about 2 hours, or cycled in 45 minutes (bicycle rental available on the wall for ¥30).
@@ -88,6 +92,8 @@ Datong cuisine is Shanxi-style, heavy on noodles. **Knife-shaved noodles (刀削
 **Other local foods:**
 - **Shanxi vinegar (山西醋):** Used in virtually every dish; Shanxi vinegar is China's most famous and is significantly sharper and more complex than rice vinegar
 - **Coated lamb (过油肉):** Pork or lamb briefly cooked in oil, then braised with vegetables; ¥35–55
+
+![Datong & Yungang Grottoes — Getting to Datong](https://images.pexels.com/photos/35044518/pexels-photo-35044518.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting to Datong
 

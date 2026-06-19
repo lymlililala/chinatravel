@@ -11,12 +11,14 @@ tags:
   - hotpot
   - southwest-china
 description: "Chongqing food vs Sichuan food — Chongqing hotpot is genuinely different (oilier, more tallow-based, hotter), the xiaomian noodles (small noodles in bright red oil that are the real everyday food of Chongqing), grilled fish at Nanbin Road, and the night food culture along the Yangtze."
-ogImage: "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/36034214/pexels-photo-36034214.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Chongqing is not Sichuan. Most outsiders — and many travel websites — treat the two as interchangeable, but Chongqing has been a directly administered municipality separate from Sichuan Province since 1997, and the food is distinct in ways that matter. Chongqing food is louder, oilier, more aggressively seasoned, and more anchored to the experiences of a working-class mountain city. The mala flavour exists here, but it's applied differently.
 
 ## Table of contents
+
+![Chongqing Food — Chongqing Hotpot vs Sichuan Hotpot: What's Different](https://images.pexels.com/photos/30882910/pexels-photo-30882910.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Chongqing Hotpot vs Sichuan Hotpot: What's Different
 
@@ -48,6 +50,8 @@ The bowl is small — it's a snack or light meal, not a feast. The flavour is in
 
 **The 50 Best Xiaomian list:** Every year, Chongqing's municipal government publishes a list of the city's best xiaomian shops — essentially the Michelin Guide of noodle stalls. The list rotates and shops it features fill up. Ask any local which of the current year's picks is nearest to your neighbourhood.
 
+![Chongqing Food — Grilled Fish (烤鱼, Kǎo Yú) at Nanbin Road](https://images.pexels.com/photos/8352777/pexels-photo-8352777.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Grilled Fish (烤鱼, Kǎo Yú) at Nanbin Road
 
 **Chongqing-style grilled fish** is a distinct preparation that's spread across China but still tastes best in Chongqing. The fish (typically grass carp or blackfish) is grilled first until crispy, then placed in a wide pan of simmering spiced oil with vegetables, doubanjiang chilli paste, and various toppings. It's somewhere between a grilled fish and a hotpot.
@@ -67,6 +71,8 @@ Chongqing is a city that eats late. The mountains mean the city is warmer than s
 **Hongya Cave area** (洪崖洞) — the famous stacked balcony architecture by the river has restaurants on multiple levels. Primarily for the view and atmosphere (it's stunning at night), not for food value.
 
 **Ciqikou Old Town** (磁器口) — a preserved Ming dynasty village now entirely given over to food tourism. Good for snacks: **pork ribs** (腊猪蹄), **spiced peanuts** (五香花生), **mao xue wang** (毛血旺, below).
+
+![Chongqing Food — Other Chongqing Dishes Worth Knowing](https://images.pexels.com/photos/27277231/pexels-photo-27277231.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Other Chongqing Dishes Worth Knowing
 

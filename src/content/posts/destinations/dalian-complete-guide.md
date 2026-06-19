@@ -11,7 +11,7 @@ tags:
   - coastal
   - northeast-china
 description: "Dalian on the Liaodong Peninsula — the Russian-Japanese colonial architecture, the Russian Street and Japanese Street districts, the beaches (Xinghai Beach, Bangchuidao Beach), the extraordinary freshness and cheapness of the seafood (sea urchin, scallops, clams direct from the ocean), and why Dalian is often compared to a Chinese Marseille."
-ogImage: "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/17557991/pexels-photo-17557991.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Dalian sits at the tip of the Liaodong Peninsula, surrounded by the Yellow Sea on three sides. It was built first by the Russians (who called it Dalny) at the turn of the 20th century as their warm-water port, then by the Japanese (who renamed it Dairen) after the Russo-Japanese War of 1905, and only became fully Chinese in 1945. The colonial legacy is obvious in the architecture — grand European-style buildings, wide boulevards with roundabouts, and street names that still reference the imperial period.
@@ -19,6 +19,8 @@ Dalian sits at the tip of the Liaodong Peninsula, surrounded by the Yellow Sea o
 It's sometimes compared to a Chinese Marseille: a port city with good seafood, colonial architecture, beaches, and a confident, outward-looking character. The comparison isn't perfect but captures something true.
 
 ## Table of contents
+
+![Dalian — Colonial Architecture Districts](https://images.pexels.com/photos/28490351/pexels-photo-28490351.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Colonial Architecture Districts
 
@@ -48,6 +50,8 @@ Dalian has several public beaches along its southern coast. The water is cleaner
 
 **Fujiazhuang Beach (傅家庄海水浴场):** Close to the city centre, popular with locals, good for swimming July–September. Free entry.
 
+![Dalian — Seafood](https://images.pexels.com/photos/24973370/pexels-photo-24973370.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Seafood
 
 This is the real reason to visit Dalian. The city sits at the junction of the Yellow Sea and Bohai Sea, and the seafood freshness and variety is exceptional even by Chinese coastal standards.
@@ -74,6 +78,8 @@ Dalian has a good metro system (Lines 1–5) and a **tram network (有轨电车)
 **Tram Line 201:** Runs from the railway station through the old colonial centre to Xinghai Square. ¥2 flat fare.
 
 Taxis: Base fare ¥10 for first 3km. Didi works throughout the city.
+
+![Dalian — Getting to Dalian](https://images.pexels.com/photos/17557990/pexels-photo-17557990.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting to Dalian
 

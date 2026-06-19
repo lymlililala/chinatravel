@@ -12,12 +12,14 @@ tags:
   - tibet-culture
   - southwest-china
 description: "Daocheng Yading Nature Reserve in western Sichuan — the three sacred peaks (Chenrezig, Jambeyang, Chanadorje), the high-altitude trekking routes, the season to visit for the red-gold autumn colors, and practical logistics for reaching this remote destination."
-ogImage: "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/29073200/pexels-photo-29073200.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Daocheng Yading sits at the edge of the Tibetan Plateau in western Sichuan, at an elevation that turns even a gentle walk into something requiring full lung capacity. Three sacred peaks rise above glacial lakes, alpine meadows, and monasteries: Chenrezig (6,032m), Jambeyang (5,958m), and Chanadorje (5,958m). Together they form a pilgrimage circuit that Tibetan Buddhists have circumambulated for centuries. In recent years, they've attracted trekkers and photographers from across China and the world who come specifically in autumn when the larches turn gold and red — creating scenes of mountain, snow, and fire-colored forest that make this one of the most photographed landscapes in the country.
 
 ## Table of contents
+
+![Daocheng Yading — Why Come Here](https://images.pexels.com/photos/11022633/pexels-photo-11022633.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Why Come Here
 
@@ -41,6 +43,8 @@ Long-distance buses from Chengdu to Daocheng exist (15–20 hours, ¥220–280) 
 
 ### From Shangri-La (Yunnan)
 A two-day overland journey connects Shangri-La to Daocheng. Several agencies in Shangri-La run this route. The road travels through dramatic plateau scenery via Benzilan and Xiangcheng.
+
+![Daocheng Yading — The Yading Nature Reserve](https://images.pexels.com/photos/35454379/pexels-photo-35454379.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Yading Nature Reserve
 
@@ -71,6 +75,8 @@ The full pilgrimage circuit around all three peaks takes 3–4 days for experien
 - Altitude sickness symptoms: headache, nausea, extreme fatigue, difficulty breathing. If symptoms worsen, **descend immediately**
 
 Flying home at the end of the trip from Daocheng airport carries some mild risk for those who've been at altitude — your ears and sinuses may be affected.
+
+![Daocheng Yading — When to Visit: The Autumn Imperative](https://images.pexels.com/photos/7494233/pexels-photo-7494233.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## When to Visit: The Autumn Imperative
 

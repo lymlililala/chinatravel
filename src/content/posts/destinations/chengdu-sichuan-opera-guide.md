@@ -11,11 +11,14 @@ tags:
   - performance
   - destinations
 description: "Where to watch authentic Sichuan Opera in Chengdu — the face-changing (变脸) technique, shadow puppetry, fire breathing, and the teahouse theatre tradition. Which venues are genuinely good and which are tourist-only performances."
+ogImage: "https://images.pexels.com/photos/32276866/pexels-photo-32276866.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Sichuan Opera (川剧, Chuānjù) is one of China's most visually spectacular performance traditions — and the face-changing (变脸, biǎn liǎn) technique, in which performers switch between elaborate painted masks in split seconds, is the most internationally recognised element.
 
 Understanding Sichuan Opera well means appreciating that face-changing is the flashiest but not the most sophisticated element of a 300-year-old performance tradition combining music, acrobatics, comedy, and theatrical convention.
+
+![Chengdu Sichuan Opera — What Is Sichuan Opera?](https://images.pexels.com/photos/34317793/pexels-photo-34317793.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## What Is Sichuan Opera?
 
@@ -27,6 +30,8 @@ Sichuan Opera is a regional variant of Chinese opera — distinct from Beijing O
 - **Acrobatic techniques** (杂技融合): fire-breathing, juggling, spinning plates
 - **Puppet and shadow art** (皮影、木偶) sometimes integrated into performances
 - **Face-changing (变脸)**: The technique of swapping painted silk masks by a combination of hand motions, body turns, and eye blinks — the exact technique is a guild secret. Multiple masks are changed in sequence; some performances achieve 12+ masks in under a minute.
+
+![Chengdu Sichuan Opera — The Best Venues in Chengdu](https://images.pexels.com/photos/28452850/pexels-photo-28452850.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Best Venues in Chengdu
 
@@ -47,6 +52,8 @@ The official Sichuan Opera performance venue — the provincial Sichuan Opera In
 Multiple venues near the Jinli Street and Wide and Narrow Alleys offer nightly condensed shows specifically designed for tourists — 1-hour programmes focusing on face-changing and fire-breathing highlights. These are professionally performed but lack the depth of the teahouse format.
 
 **Recommend**: See the teahouse version first (more authentic) and the tourist version if you want more face-changing frequency.
+
+![Chengdu Sichuan Opera — The Teahouse Culture Context](https://images.pexels.com/photos/23224447/pexels-photo-23224447.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Teahouse Culture Context
 

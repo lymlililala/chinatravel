@@ -12,7 +12,7 @@ tags:
   - three-kingdoms
   - china
 description: "Wuhou Shrine (Wuhou Ci) is China's most important Three Kingdoms-era memorial — commemorating Zhuge Liang (Prime Minister to Liu Bei) and Liu Bei's kingdom of Shu Han. The complex includes Liu Bei's burial mound, temples, historic statues, and connects directly to Jinli Ancient Street, the most atmospheric commercial street in Chengdu."
-ogImage: "https://images.unsplash.com/photo-1570376220597-cf7d99561c8e?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/15545815/pexels-photo-15545815.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Wuhou Shrine (武侯祠, Wǔhóu Cí) is not just one of Chengdu's main attractions — it's the most significant Three Kingdoms memorial in China, and for anyone who's read the Romance of the Three Kingdoms or played any of the Dynasty Warriors games, a place of genuine emotional resonance. The shrine commemorates Zhuge Liang (诸葛亮), the brilliant strategist and prime minister who served Liu Bei's Kingdom of Shu Han in the third century AD.
@@ -20,6 +20,8 @@ Wuhou Shrine (武侯祠, Wǔhóu Cí) is not just one of Chengdu's main attracti
 The complex also contains Liu Bei's actual burial mound (the Huiling Tomb), making it one of the few places in China where a major historical figure is both commemorated and actually interred at the same site.
 
 ## Table of contents
+
+![Wuhou Shrine Chengdu — The Historical Context](https://images.pexels.com/photos/33457680/pexels-photo-33457680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Historical Context
 
@@ -36,6 +38,8 @@ The original shrine was built in the third century and has been rebuilt multiple
 **Liu Bei's Tomb (惠陵, Huìlíng):** A large earthen mound to the west of the main halls. You walk around the outside of the mound — the interior is not open to visitors (and possibly hasn't been excavated). Cypress trees shade the path and give the area a quiet solemnity.
 
 **The Red Wall Corridor:** A long corridor lined with red walls and cypress trees connecting the shrine to Jinli Street. This is one of the most-photographed spots in Chengdu — the path is covered with lanterns and the dappled light through the trees is excellent at any time of day.
+
+![Wuhou Shrine Chengdu — Zhuge Liang's Legacy](https://images.pexels.com/photos/35067827/pexels-photo-35067827.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Zhuge Liang's Legacy
 
@@ -56,6 +60,8 @@ Directly connected to the Wuhou Shrine compound, Jinli is Chengdu's most atmosph
 The street has both vendors and sit-down restaurants. The snack stalls are the better option — eat as you walk rather than committing to a table.
 
 **Evening Jinli:** The atmosphere after 7pm with the lanterns is significantly better than afternoon. The tourist density is similar but the light and energy are different.
+
+![Wuhou Shrine Chengdu — Entry & Practical Details](https://images.unsplash.com/photo-1556757758-bcaf8510b51d?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxFbnRyeSUyMCUyNiUyMFByYWN0aWNhbCUyMERldGFpbHN8ZW58MHwwfHx8MTc4MTgzNDgxM3ww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## Entry & Practical Details
 

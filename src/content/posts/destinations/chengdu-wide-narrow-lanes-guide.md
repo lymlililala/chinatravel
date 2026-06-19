@@ -11,9 +11,12 @@ tags:
   - culture
   - food
 description: "The Wide and Narrow Alleys (Kuanzhai Xiangzi) in Chengdu — three historic lanes with Qing dynasty architecture, the best food stalls beyond the tourist-facing ones, the courtyard teahouse culture, and how to experience the area without being overwhelmed by the crowds."
+ogImage: "https://images.pexels.com/photos/6657905/pexels-photo-6657905.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 The Wide and Narrow Alleys (宽窄巷子, Kuān Zhǎi Xiàngzi) are three historic Qing dynasty lanes in central Chengdu — Wide Alley (宽巷子), Narrow Alley (窄巷子), and Well Alley (井巷子) — that have been preserved and partially restored as a heritage and lifestyle district. They represent the Manchu garrison neighbourhood established in Chengdu after the Qing conquest and are now Chengdu's most visited heritage area.
+
+![Chengdu Wide Narrow Alleys — The Three Lanes](https://images.pexels.com/photos/8533639/pexels-photo-8533639.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Three Lanes
 
@@ -23,6 +26,8 @@ The Wide and Narrow Alleys (宽窄巷子, Kuān Zhǎi Xiàngzi) are three histor
 
 **Well Alley (井巷子)**: The most contemporary — creative shops, street art, and the longest outdoor mural in Chengdu. Lower tourist density than the other two lanes; more accessible for wandering.
 
+![Chengdu Wide Narrow Alleys — Teahouse Culture](https://images.pexels.com/photos/37128809/pexels-photo-37128809.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Teahouse Culture
 
 Chengdu's teahouse culture (茶馆文化) centres on the slow afternoon — sitting for hours in a bamboo chair in a courtyard, drinking green tea from a traditional covered bowl (盖碗茶, gàiwǎn chá), playing mahjong or cards, having your ears cleaned by a roving ear-cleaner (采耳, a genuinely skilled traditional service), and watching life go by.
@@ -30,6 +35,8 @@ Chengdu's teahouse culture (茶馆文化) centres on the slow afternoon — sitt
 **The authentic teahouse experience**: Several courtyard teahouses in the Wide and Narrow Alleys open from 8am. For ¥30–60 (which buys a pot of tea that's refilled indefinitely), you can sit for as long as you want. The ear-cleaning service (采耳) is offered at tableside — ¥30–60 for a 20-minute session involving specialized tools and technique.
 
 **People's Park (人民公园)** nearby is a better alternative for authentic daily teahouse culture — the park teahouses have a more genuine local client base than the tourist-oriented Wide Alley teahouses.
+
+![Chengdu Wide Narrow Alleys — Food in the Area](https://images.pexels.com/photos/28999498/pexels-photo-28999498.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Food in the Area
 

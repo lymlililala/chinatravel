@@ -12,7 +12,7 @@ tags:
   - border
   - adventure
 description: "The Lhasa to Kathmandu overland route via the Friendship Highway (G318) — Tibet Travel Permit requirements, the road through Shigatse and Everest Base Camp, the Kyirong border crossing, which permits you need and when, and the reality of this epic drive."
-ogImage: "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1200&q=85"
+ogImage: "https://images.unsplash.com/photo-1633538027227-6c46cf38a5ee?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHx0aWJldCUyMG5lcGFsfGVufDB8MHx8fDE3ODE4MzQ4MjB8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
 ---
 
 The Friendship Highway (中尼公路, G318) runs from Lhasa to the Nepal border through the heart of the Tibetan Plateau. At nearly 5,000m average elevation, this route passes through the roof of the world: past the Potala Palace, through Shigatse and the Tashilunpo Monastery, to the turnoff for Everest Base Camp, and then down through the dramatic Himalayan escarpment to the Nepal border at Kyirong. It is, unambiguously, one of the great overland journeys on earth.
@@ -20,6 +20,8 @@ The Friendship Highway (中尼公路, G318) runs from Lhasa to the Nepal border 
 It also requires more paperwork than almost any other journey described in this guide.
 
 ## Table of contents
+
+![Tibet Nepal Overland — The Permits You Need](https://images.pexels.com/photos/6863260/pexels-photo-6863260.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Permits You Need
 
@@ -61,6 +63,8 @@ Lhasa sits at 3,656m. The Friendship Highway climbs higher — the Gyatso-La Pas
 - Carry prescription altitude medication (diamox/acetazolamide — consult your doctor before travel)
 - Know the symptoms of acute mountain sickness (AMS): severe headache, nausea, ataxia, confusion. **Descend immediately if symptoms worsen.**
 - Insurance that covers helicopter evacuation from altitude is strongly recommended for this trip
+
+![Tibet Nepal Overland — The Route: Lhasa to Kyirong](https://images.pexels.com/photos/210112/pexels-photo-210112.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Route: Lhasa to Kyirong
 
@@ -104,6 +108,8 @@ The **Kyirong Port (吉隆口岸)** is the primary crossing point for overland t
 **Nepal Visa:** Most nationalities can obtain a Nepal tourist visa on arrival at Rasuwagadhi. Cost: US$25 for 15 days, US$40 for 30 days. Bring USD cash and a passport photo.
 
 **From the Nepal border to Kathmandu:** About 130km on a winding mountain road through the Trishuli River valley. The journey takes 5–7 hours. Shared jeeps are available from the border; your agency may also arrange private transport through the journey.
+
+![Tibet Nepal Overland — Costs and Budgeting](https://images.pexels.com/photos/7054368/pexels-photo-7054368.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Costs and Budgeting
 

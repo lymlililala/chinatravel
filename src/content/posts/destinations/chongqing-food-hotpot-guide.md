@@ -11,7 +11,7 @@ tags:
   - culture
   - destinations
 description: "The essential Chongqing food guide for travellers — where to eat the world's most intense hotpot, must-try street snacks, neighbourhood restaurant picks, and how to order when nothing is in English."
-ogImage: "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=900&q=80"
+ogImage: "https://images.pexels.com/photos/4087429/pexels-photo-4087429.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Chongqing has one of the most distinctive food cultures in China — and that is a genuinely high bar to clear. The city that gave the world its most celebrated style of hotpot is also the place where street food reaches a level of spice, complexity, and ambition that can stop conversations mid-sentence.
@@ -21,6 +21,8 @@ This guide is for travellers who want to eat in Chongqing the way locals do: at 
 ## Table of contents
 
 ---
+
+![Chongqing Food — Why Chongqing Food is Different](https://images.pexels.com/photos/14785197/pexels-photo-14785197.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Why Chongqing Food is Different
 
@@ -107,6 +109,8 @@ Similar to maocai but served cold or at room temperature — raw ingredients ske
 
 ---
 
+![Chongqing Food — Neighbourhood Restaurant Guide](https://images.pexels.com/photos/12735490/pexels-photo-12735490.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Neighbourhood Restaurant Guide
 
 ### Jiefangbei (解放碑) — Central Business District
@@ -153,6 +157,8 @@ A practical guide to menu negotiation:
    - 好吃！(hǎo chī!) = delicious — say this and watch faces light up
 
 ---
+
+![Chongqing Food — Dietary Considerations](https://images.pexels.com/photos/8965138/pexels-photo-8965138.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Dietary Considerations
 

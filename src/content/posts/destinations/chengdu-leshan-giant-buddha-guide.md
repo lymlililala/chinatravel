@@ -12,7 +12,7 @@ tags:
   - day-trip
   - chengdu
 description: "The Leshan Giant Buddha is the world's largest stone-carved Buddha — 71 metres of Tang Dynasty artistry sitting at the confluence of three rivers in Sichuan. This 2026 guide covers how to visit by both land and boat routes, the ticket situation, combining with Mount Emei, transport from Chengdu, the best viewpoints and timing to avoid the worst queues."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/14984301/pexels-photo-14984301.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -22,6 +22,8 @@ The numbers alone are staggering: 71 metres tall. Each ear is 7 metres long. A s
 The monk Haitong who initiated the project donated his own eyes (scooped out to demonstrate his sincerity to patrons) before the funding came through. The project outlived him by 60 years. The completed Buddha worked: the excavated stone from the cliff changed the water flow enough that the river junction became navigable.
 
 Today the Buddha sits as it has for 1,200 years, hands on knees, eyes half-closed, watching the river confluence below. It's a sight that is every bit as overwhelming as photographs suggest.
+
+![Leshan Giant Buddha Chengdu Trip — Understanding the Visit Options](https://images.pexels.com/photos/17213280/pexels-photo-17213280.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Understanding the Visit Options
 
@@ -71,6 +73,8 @@ Mount Emei (3,099m, one of China's Four Sacred Buddhist Mountains) is 30 km from
 
 **Emei Mountain tickets:** ¥160 summer, ¥110 winter. Summit cable car: ¥65 down, ¥65 up ($9 each). The Golden Summit features a gilt-bronze Samantabhadra (Puxian Bodhisattva) statue on four elephants — spectacular above the clouds.
 
+![Leshan Giant Buddha Chengdu Trip — Getting to Leshan from Chengdu](https://images.pexels.com/photos/37333836/pexels-photo-37333836.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Getting to Leshan from Chengdu
 
 ### By High-Speed Rail (Recommended)
@@ -112,6 +116,8 @@ Highway from Chengdu to Leshan: approximately 1.5 hours.
 Tickets for the Leshan Giant Buddha must be booked online in advance during peak periods. Book through the official WeChat Mini Program (search "乐山大佛景区") or through mainstream China travel apps (携程/Ctrip, Mafengwo).
 
 Time slots are allocated; your booking will specify an entry window. Arrive within that window; late arrivals may be denied entry.
+
+![Leshan Giant Buddha Chengdu Trip — Leshan City: Worth a Few Hours](https://images.pexels.com/photos/12321161/pexels-photo-12321161.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Leshan City: Worth a Few Hours
 

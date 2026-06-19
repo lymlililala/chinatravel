@@ -1,6 +1,7 @@
 ---
 title: "Chengdu to Seda & Rangtang: Tibetan Plateau Villages Off the Tourist Trail"
 description: "Explore western Sichuan's remote Tibetan plateau communities — Seda (色达) monastery, Rangtang (壤塘) frescoes, and the high-altitude grasslands few Western travelers reach. Route planning, logistics, and cultural insights."
+ogImage: "https://images.pexels.com/photos/35557996/pexels-photo-35557996.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/seda-tibetan-plateau.jpg"
 category: "destinations"
@@ -15,6 +16,8 @@ Most visitors who come to western Sichuan stick to the well-established circuit:
 Venture further north and west into the areas of Seda (色达), Rangtang (壤塘), Aba (阿坝), and the remote valleys of Ganzi prefecture, and you enter a different China entirely — one where Tibetan Buddhist culture is the dominant reality, Chinese infrastructure becomes minimal, and the landscapes reach an intensity of wildness that the more-visited areas only approximate.
 
 This guide covers two specific destinations that reward the effort of reaching them: Seda and Larung Gar (the world's largest Buddhist institute), and the Rangtang area with its rare Bon Buddhist frescoes.
+
+![Chengdu Seda & Rangtang — Seda and Larung Gar (色达/喇荣五明佛学院)](https://images.pexels.com/photos/12304382/pexels-photo-12304382.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Seda and Larung Gar (色达/喇荣五明佛学院)
 
@@ -38,6 +41,8 @@ The visual impact of Larung Gar is extraordinary: tens of thousands of small red
 - Accommodation: Several guesthouses operate in Seda town and near Larung Gar. Basic but functional.
 - Altitude medicine: Bring diamox (acetazolamide) and consult a doctor about proper usage. Altitude sickness at 4,000m is a genuine risk.
 - Permits: Check current permit requirements for foreign visitors; western Sichuan permit requirements have changed periodically.
+
+![Chengdu Seda & Rangtang — Rangtang: The Bon Buddhist Frescoes](https://images.pexels.com/photos/14450066/pexels-photo-14450066.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Rangtang: The Bon Buddhist Frescoes
 
@@ -63,6 +68,8 @@ Rangtang is genuinely remote. From Chengdu:
 The road conditions vary by season — summer (June-September) is the most reliable; early spring and late autumn may have road closures from snow.
 
 **Independent vs. organized**: Independent travel to Rangtang is possible with a high-clearance vehicle and Chinese navigation skills. Organized tours from Chengdu are more efficient for time-limited travelers. Several Chengdu-based adventure tour operators offer Rangtang itineraries.
+
+![Chengdu Seda & Rangtang — General Western Sichuan Travel Tips](https://images.pexels.com/photos/37129453/pexels-photo-37129453.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## General Western Sichuan Travel Tips
 

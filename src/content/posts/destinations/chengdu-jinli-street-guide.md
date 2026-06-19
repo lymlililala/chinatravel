@@ -1,6 +1,7 @@
 ---
 title: "Chengdu Jinli Ancient Street: Complete Visitor Guide 2026"
 description: "Everything you need to know about Jinli Ancient Street in Chengdu — what to eat, what to buy, best times to visit, how to avoid tourist traps, and nearby Wuhou Shrine. Authentic guide with local tips."
+ogImage: "https://images.pexels.com/photos/33125089/pexels-photo-33125089.png?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/chengdu-jinli.jpg"
 category: "destinations"
@@ -13,6 +14,8 @@ author: "RoamChina Travel"
 Jinli (锦里, Jǐn Lǐ) — "Brocade Lane" — is one of Chengdu's most famous tourist streets, adjacent to the Wuhou Shrine. Over a thousand years ago, Jinli was allegedly one of the busiest commercial streets in the Shu Kingdom (221-263 CE), though the current incarnation is a 2004 reconstruction. The debate about "authenticity" matters less than the experience: Jinli is genuinely fun, visually beautiful, and offers some legitimately good Sichuan food alongside the tourist souvenirs.
 
 Understanding Jinli requires calibrating expectations. This is a curated, commercial heritage street — it's not a living community. But the architecture is well-executed, the food quality is often surprisingly good, and the atmosphere on a winter evening with lanterns lit creates a particular magic that photographs barely capture.
+
+![Chengdu Jinli Ancient Street — History and Context](https://images.pexels.com/photos/5192921/pexels-photo-5192921.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## History and Context
 
@@ -45,6 +48,8 @@ Several restaurants in the Jinli complex offer proper Sichuan meals, not just sn
 **Jinli Food Court**: The main indoor food hall at the north entrance has multiple stalls offering full meals. The hot pot stalls here (小火锅) are reasonably priced and authentic.
 
 **Sichuan Restaurant in the Wuhou area**: There are several mid-range restaurants on the lanes behind the main Jinli street proper, quieter and with better quality-to-price ratios than the prime tourist spots.
+
+![Chengdu Jinli Ancient Street — Shopping](https://images.pexels.com/photos/3294472/pexels-photo-3294472.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Shopping
 
@@ -79,6 +84,8 @@ No visit to Jinli is complete without the adjacent Wuhou Shrine. This is one of 
 **Time needed**: 1.5-2 hours for a thorough visit; the site is larger than most visitors expect
 
 **Opening hours**: 8:00 AM – 6:00 PM (summer); 8:00 AM – 5:00 PM (winter)
+
+![Chengdu Jinli Ancient Street — Evening in Jinli: The Lantern Experience](https://images.pexels.com/photos/35629395/pexels-photo-35629395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Evening in Jinli: The Lantern Experience
 

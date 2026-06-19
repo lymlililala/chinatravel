@@ -11,12 +11,14 @@ tags:
   - accommodation
   - southwest-china
 description: "Dali's accommodation divide — old town (古城) guesthouses in traditional Bai architecture (the most characterful option, everything within walking distance, lively), vs the Erhai lakeside boutique resorts that have become increasingly fashionable (gorgeous views but require a taxi to town). The best options at each price point and why both are worth knowing about."
-ogImage: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/36552433/pexels-photo-36552433.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Dali offers one of China's most comfortable and distinctive travel environments — a small old town of Bai minority architecture surrounded by mountains, with Erhai Lake (洱海) stretching to the east and the Cangshan mountains rising to the west. The accommodation decision here is genuinely interesting: the old town's guesthouses have character and convenience; the lakeside boutique properties have beauty and privacy. Neither is obviously correct, and the right choice depends on what kind of trip you're making.
 
 ## Table of contents
+
+![Stay Dali, Yunnan — The Dali Accommodation Divide](https://images.pexels.com/photos/29856508/pexels-photo-29856508.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Dali Accommodation Divide
 
@@ -33,6 +35,8 @@ The streets within the old town walls are walkable, car traffic is limited, and 
 The **Erhai Lake** (洱海) shoreline, 2-4km east of the old town, has become one of China's most fashionable boutique hotel zones over the past decade. Designers and architects have built genuinely innovative properties taking advantage of the extraordinary lake and mountain setting — Cangshan mountains reflected in the lake, clear high-altitude light (Dali is at 1,900m), extraordinary sunsets.
 
 The trade-off: lakeside properties are typically 15-30 minutes by taxi from the old town. You're choosing a more beautiful and private setting at the cost of spontaneous access to Dali's restaurants and street life.
+
+![Stay Dali, Yunnan — Old Town Accommodation Guide](https://images.pexels.com/photos/17861550/pexels-photo-17861550.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Old Town Accommodation Guide
 
@@ -63,6 +67,8 @@ The old town is compact enough that any location within the walls is good. Some 
 **The Loft Youth Hostel** (阁楼) — the best hostel option in the old town. Rooftop with views of Cangshan and Erhai (on clear days). Dorm beds ¥70-100/night, private rooms ¥220-380/night.
 
 **Landscape Hotel** (景色精品酒店) — a well-designed boutique property in a restored Bai courtyard building. The public spaces are excellent; rooms are characterful. ¥600-1,000/night.
+
+![Stay Dali, Yunnan — Erhai Lake Boutique Properties](https://images.pexels.com/photos/31168964/pexels-photo-31168964.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Erhai Lake Boutique Properties
 

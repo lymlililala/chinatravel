@@ -10,11 +10,14 @@ tags:
   - destinations
   - sichuan
 description: "Where to eat in Chengdu like a local — the best food streets, hidden noodle shops, authentic Sichuan hotpot restaurants, street snacks, and the neighbourhoods that haven't been gentrified for tourists."
+ogImage: "https://images.pexels.com/photos/29191590/pexels-photo-29191590.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Chengdu's food reputation is global, but the tourist version of Chengdu food — the commercial hotpot chains, the Jinli Street snack stalls — is a diluted experience. The real Chengdu food scene is in the neighbourhood streets, the morning noodle shops that close at 11am, and the hotpot restaurants that don't have English menus.
 
 This guide focuses on where Chengdu locals actually eat.
+
+![Chengdu Food Street — The Morning Noodle Culture](https://images.pexels.com/photos/34911602/pexels-photo-34911602.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Morning Noodle Culture
 
@@ -31,6 +34,8 @@ Chengdu's morning food culture centres on noodles eaten between 7 and 10am. The 
 - **Qingyang District morning markets**: Around Qingyang Palace area
 - **Chunxi Road back streets**: Behind the main commercial street, less polished but more genuine
 
+![Chengdu Food Street — The Hotpot Landscape](https://images.pexels.com/photos/5949002/pexels-photo-5949002.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The Hotpot Landscape
 
 Chengdu hotpot differs from Chongqing hotpot: Chengdu versions tend to be slightly less aggressively spiced, with more complexity from different chilli varieties and a more significant use of fermented black bean paste.
@@ -45,6 +50,8 @@ Chengdu hotpot differs from Chongqing hotpot: Chengdu versions tend to be slight
 - Protein: Fresh beef slices (鲜牛肉), duck intestine (鸭肠), beef tripe (毛肚)
 - Vegetables: Lotus root (莲藕), potatoes (土豆), tofu (豆腐)
 - Dipping sauce: The sesame oil + garlic + fermented black bean combination is the classic Chengdu dip
+
+![Chengdu Food Street — Sichuan Cuisine Beyond Hotpot](https://images.pexels.com/photos/4747451/pexels-photo-4747451.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Sichuan Cuisine Beyond Hotpot
 

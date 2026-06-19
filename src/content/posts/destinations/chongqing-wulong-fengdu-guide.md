@@ -13,7 +13,7 @@ tags:
   - nature
   - ghost-city
 description: "Explore Chongqing's most dramatic landscapes in 2026 — the otherworldly karst formations of Wulong, including the Three Natural Bridges and Furong Cave, paired with Fengdu's ancient Ghost City perched on the banks of the Yangtze. This guide covers transport, tickets, best seasons, accommodation and practical tips for making the most of this spectacular double destination in southwest China."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/36088606/pexels-photo-36088606.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -21,6 +21,8 @@ ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=
 Few corners of Chongqing surprise visitors as profoundly as the pairing of Wulong's surreal karst wilderness and Fengdu's ghost-haunted hilltop temples. One is a UNESCO-backed geological wonder; the other is a thousand-year-old portal into Chinese mythology. Together they make a road trip through time — and terrain — that stays with you long after the hot pot has faded from memory.
 
 I first came here on a rainy November afternoon expecting a quick box-check. I left three days later having completely rearranged my mental map of what Chongqing could be beyond skyscrapers and cable cars.
+
+![Wulong & Fengdu Chongqing — Wulong District: Where Karst Becomes Art](https://images.pexels.com/photos/34205541/pexels-photo-34205541.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Wulong District: Where Karst Becomes Art
 
@@ -81,6 +83,8 @@ The original Fengdu town was submerged when the Three Gorges Dam raised reservoi
 
 Most Yangtze river cruises (Chongqing to Yichang or vice versa) include a Fengdu stop as standard. If you're doing it as a standalone day trip from Chongqing, the express bus or high-speed rail is more practical.
 
+![Wulong & Fengdu Chongqing — Getting to Wulong and Fengdu](https://images.pexels.com/photos/7527429/pexels-photo-7527429.png?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Getting to Wulong and Fengdu
 
 ### From Chongqing to Wulong
@@ -117,6 +121,8 @@ The two destinations are about 90 km apart by road. A logical route is:
 ### In Fengdu
 
 Fengdu is primarily a day-trip destination; accommodation options are limited. The best choice is the **Fengdu Impression Hotel** near the river, rooms from ¥320–¥480/night ($45–$67).
+
+![Wulong & Fengdu Chongqing — Best Time to Visit](https://images.pexels.com/photos/8573370/pexels-photo-8573370.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Best Time to Visit
 

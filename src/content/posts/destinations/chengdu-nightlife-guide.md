@@ -12,12 +12,14 @@ tags:
   - urban
   - sichuan
 description: "Chengdu's laid-back nightlife — the Jiuyanqiao bar strip, White Rabbit and Panda Brew for craft beer, the Taikoo Li rooftop options, the extraordinary midnight hotpot culture (eating spicy food at 2am is completely normal and recommended), and why Chengdu's going-out scene is more relaxed and less status-conscious than Beijing or Shanghai."
-ogImage: "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/5656414/pexels-photo-5656414.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Chengdu's approach to nightlife says something about the city's character. You won't find the status-signalling bottle service culture of Beijing or the aspirational rooftop posturing of Shanghai. Instead: a riverside bar strip where entry is free and drinks are reasonably priced, a craft beer scene that's producing some of China's best work, music venues that care about the music, and a midnight hotpot tradition that may be the best thing that happens to you on this trip. Chengdu goes out to relax, and that relaxed energy is exactly what makes it enjoyable.
 
 ## Table of contents
+
+![Chengdu Nightlife — Jiuyanqiao Bar Strip (九眼桥酒吧街)](https://images.pexels.com/photos/847869/pexels-photo-847869.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Jiuyanqiao Bar Strip (九眼桥酒吧街)
 
@@ -47,6 +49,8 @@ Chengdu's craft beer scene emerged later than Beijing or Shanghai's but has deve
 
 **Master Gao Craft Beer** (高师傅精酿) — a newer Chengdu microbrewery with a small taproom. Less polished than Panda Brew, more experimental. Worth visiting if craft beer is a priority.
 
+![Chengdu Nightlife — Taikoo Li and the Commercial Nightlife Zone](https://images.pexels.com/photos/37877701/pexels-photo-37877701.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Taikoo Li and the Commercial Nightlife Zone
 
 **Taikoo Li Chengdu** (成都太古里) is the upscale commercial complex in the city centre, adjacent to Chunxi Road and opposite the Jinsha Site Museum. Its rooftop areas and the surrounding streets have the most polished nightlife options in Chengdu — closer to the Shanghai model in ambience.
@@ -66,6 +70,8 @@ Chengdu's craft beer scene emerged later than Beijing or Shanghai's but has deve
 **DEMO Livehouse** — the closest thing to an underground electronic music venue in Chengdu. Small capacity, experimental programming, not trying to be anything other than what it is.
 
 **Free music nights:** Several bars along the Yulin South Road area have live music nights (folk, jazz, acoustic) with no cover charge. Walking that street on a Thursday or Friday evening and listening from outside before choosing where to enter is a valid strategy.
+
+![Chengdu Nightlife — Midnight Hotpot: The Real Chengdu Night](https://images.pexels.com/photos/19775602/pexels-photo-19775602.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Midnight Hotpot: The Real Chengdu Night
 

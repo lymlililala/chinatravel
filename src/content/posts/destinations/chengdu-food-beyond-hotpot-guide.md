@@ -12,12 +12,14 @@ tags:
   - street-food
   - southwest-china
 description: "Chengdu's food scene beyond the famous hotpot — mapo tofu (麻婆豆腐), dan dan mian noodles, Zhong's dumplings (钟水饺), twice-cooked pork (回锅肉), fuqi feipian cold offal salad, and the street snack culture around Kuanzhai Alley. Which dishes are genuinely spicy and which just look intimidating."
-ogImage: "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/10672908/pexels-photo-10672908.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Chengdu has a reputation as a hotpot city, and while that's fair, it undersells what's happening in this place. Chengdu has been designated a UNESCO Creative City of Gastronomy, and the food culture runs far deeper than the bubbling red pots. The street snack tradition, the home-cooking dishes, and the mid-range restaurant scene are all equally serious. Hotpot is just the part that travels well in marketing.
 
 ## Table of contents
+
+![Chengdu Food Beyond Hotpot — Understanding Sichuan Spice: Mala vs Hot](https://images.pexels.com/photos/33125092/pexels-photo-33125092.png?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Understanding Sichuan Spice: Mala vs Hot
 
@@ -45,6 +47,8 @@ At most restaurants you get a relatively small bowl — dan dan mian is often an
 
 **Where to go:** Any old-school noodle shop in Chengdu's residential districts. Avoid the Jinli/Kuanzhai tourist strip prices (¥30-45 for the same bowl). Ask your hostel staff.
 
+![Chengdu Food Beyond Hotpot — Zhong's Dumplings (钟水饺)](https://images.pexels.com/photos/34222599/pexels-photo-34222599.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Zhong's Dumplings (钟水饺)
 
 **Zhong Shui Jiao** (钟水饺) is a Chengdu institution — boiled dumplings served in a sauce of sweet soy, chilli oil, and garlic. The filling is pure lean pork without vegetables, which gives a denser, meatier result than the standard jiaozi. The sweetness in the sauce distinguishes Sichuan-style dumplings from the vinegar-heavy Northern Chinese style.
@@ -68,6 +72,8 @@ The name allegedly comes from a husband-and-wife street vendor team in 1930s Che
 **Spice level:** Despite the red oil, the flavour is more about the complex Sichuan spice profile than pure heat. The numbing peppercorn dominates. Many first-time visitors who approach it cautiously end up eating most of the plate.
 
 **Cost:** ¥35-65 as a shared starter. Available at most Sichuan restaurants as a cold appetiser.
+
+![Chengdu Food Beyond Hotpot — Street Snacks Around Kuanzhai Alley](https://images.pexels.com/photos/31701889/pexels-photo-31701889.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Street Snacks Around Kuanzhai Alley
 

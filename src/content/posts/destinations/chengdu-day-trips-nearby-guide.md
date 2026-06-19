@@ -12,7 +12,7 @@ tags:
   - hiking
   - buddhism
 description: "The best day trips and overnight excursions from Chengdu — Leshan Giant Buddha, Mount Emei (Emei Shan), Ya'an's panda valley, Dujiangyan irrigation system, Qingcheng Mountain, and Sanxingdui Bronze Age Museum, with transport details and time requirements."
-ogImage: "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=900&q=80"
+ogImage: "https://images.pexels.com/photos/16296821/pexels-photo-16296821.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Chengdu is one of China's most convenient base cities for day trip logistics. Within 2 hours by public transport or private car, a remarkable diversity of experiences is accessible: the world's largest pre-modern Buddha statue, one of China's four sacred Buddhist mountains, the ancient hydraulic engineering system that made Sichuan agriculture possible, and the world's largest Bronze Age artifact collection.
@@ -22,6 +22,8 @@ This guide covers all the major day trips from Chengdu with honest transport tim
 ## Table of contents
 
 ---
+
+![Trips & Nearby Destinations from Chengdu — Leshan Giant Buddha (乐山大佛)](https://images.pexels.com/photos/879359/pexels-photo-879359.png?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Leshan Giant Buddha (乐山大佛)
 
@@ -67,6 +69,8 @@ The Golden Summit at 3,099m has a spectacular three-peak platform with the iconi
 
 ---
 
+![Trips & Nearby Destinations from Chengdu — Dujiangyan Irrigation System (都江堰)](https://images.pexels.com/photos/6872189/pexels-photo-6872189.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Dujiangyan Irrigation System (都江堰)
 
 **Distance from Chengdu:** 60km
@@ -104,6 +108,8 @@ Unlike the Buddhist sacred mountains (Emei, Wutai, Jiuhua, Putuo), Qingcheng has
 - **Back Mountain (后山):** Wilder, less visited, longer trails, waterfalls.
 
 ---
+
+![Trips & Nearby Destinations from Chengdu — Sanxingdui Museum (三星堆博物馆)](https://images.pexels.com/photos/31907873/pexels-photo-31907873.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Sanxingdui Museum (三星堆博物馆)
 

@@ -12,6 +12,7 @@ tags:
   - culture
   - solo
 description: "Dali is where travellers come to slow down — a 700-year-old walled town beside a mountain lake in Yunnan province, home to the Bai minority, tie-dye textiles, and some of China's most relaxed café culture."
+ogImage: "https://images.pexels.com/photos/6513729/pexels-photo-6513729.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 There is a rhythm to Dali that is hard to explain until you have been there. The ancient walled town sits at 2,000 metres altitude on the shores of Erhai Lake, with the snow-capped Cangshan range rising to 4,000 metres immediately to the west. The sky is an implausible blue. The afternoon winds roll in off the lake with a smell of wild herbs and distant meadows. The streets of the old town are wide enough for two people to walk comfortably arm in arm, lined with Bai minority architecture — white-washed walls trimmed in grey and accented with painted courtyards.
@@ -19,6 +20,8 @@ There is a rhythm to Dali that is hard to explain until you have been there. The
 Dali has been a favourite with Chinese bohemians, backpackers, and long-term travellers since the 1980s. It has grown but has not been ruined.
 
 ## Table of contents
+
+![Dali — Dali Old Town (大理古城)](https://images.pexels.com/photos/31427560/pexels-photo-31427560.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Dali Old Town (大理古城)
 
@@ -33,6 +36,8 @@ The old town is a compact grid of Ming and Qing dynasty streets enclosed by orig
 
 ---
 
+![Dali — Erhai Lake (洱海)](https://images.pexels.com/photos/33970874/pexels-photo-33970874.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Erhai Lake (洱海)
 
 The 250km² freshwater lake east of the old town is perhaps Dali's greatest asset. Crystal clear water (one of China's cleanest large lakes), fringed by 16 traditional Bai villages and distant peaks.
@@ -44,6 +49,8 @@ The 250km² freshwater lake east of the old town is perhaps Dali's greatest asse
 - **Shuanglang Village (双廊)**: The most atmospheric village on the lake's eastern shore — whitewashed Bai courtyard guesthouses lining a narrow peninsula, excellent sunrise light. An hour by DiDi from old town.
 
 ---
+
+![Dali — Cangshan Mountain (苍山)](https://images.pexels.com/photos/7809056/pexels-photo-7809056.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Cangshan Mountain (苍山)
 

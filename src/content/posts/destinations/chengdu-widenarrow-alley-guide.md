@@ -10,11 +10,14 @@ tags:
   - culture
   - destinations
 description: "An honest guide to Chengdu's most famous pedestrian precinct — the Wide and Narrow Alleys (宽窄巷子). What's genuinely worth seeing, the best food and drink, how to avoid the tourist traps, and what the Qing Dynasty street layout tells us about old Chengdu."
+ogImage: "https://images.pexels.com/photos/36506164/pexels-photo-36506164.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Kuanzhai Alley (宽窄巷子, Kuān Zhǎi Xiàng Zi — literally "Wide and Narrow Alley") is Chengdu's most visited historic street and one of the city's most complex attractions to navigate: a genuinely ancient street layout (dating to the Qing Dynasty Manchu military garrison) now converted into a mixed-use district of restaurants, bars, tea houses, and boutiques. Some of it is excellent; some of it is pure tourist theatre. This guide tells you which is which.
 
 ## Table of contents
+
+![Chengdu's Kuanzhai Alley (Wide Narrow Alley) — The History Behind the Alleys](https://images.unsplash.com/photo-1625342177225-ee144364679f?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxoaXN0b3J5JTIwYmVoaW5kfGVufDB8MHx8fDE3ODE4MzQ4MDV8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## The History Behind the Alleys
 
@@ -27,6 +30,8 @@ After the Qing Dynasty ended in 1912, the garrison dissolved and the compounds g
 **Why this matters**: the current buildings are largely reconstructed to historical appearance (the 2003–2008 restoration was controversial among heritage scholars), but the **street layout and plot proportions** are original. The alley widths, the courtyard dimensions, and the orientation of the compounds are the authentic Qing military grid.
 
 ---
+
+![Chengdu's Kuanzhai Alley (Wide Narrow Alley) — The Three Alleys](https://images.pexels.com/photos/10790930/pexels-photo-10790930.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Three Alleys
 
@@ -55,6 +60,8 @@ The most food-forward of the three, with street food stalls concentrated here. B
 The newest and least historically interesting of the three — primarily converted into modern cafés, bars, and a lengthy art installation of ceramic bottle-cap wall art running the length of the lane. Good coffee; less traditional atmosphere. Worth walking through but not the destination.
 
 ---
+
+![Chengdu's Kuanzhai Alley (Wide Narrow Alley) — What to Do Here (Beyond Walking)](https://images.pexels.com/photos/618955/pexels-photo-618955.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## What to Do Here (Beyond Walking)
 

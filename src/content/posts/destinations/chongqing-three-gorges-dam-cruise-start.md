@@ -1,6 +1,7 @@
 ---
 title: "Starting a Yangtze Three Gorges Cruise from Chongqing: Complete Boarding Guide"
 description: "Everything you need to know about beginning a Yangtze River Three Gorges cruise from Chongqing — choosing the right pier, boarding procedures, cabin classes, embarkation day tips, and what to expect on the first night aboard."
+ogImage: "https://images.pexels.com/photos/30183417/pexels-photo-30183417.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Chongqing"
 tags: ["chongqing", "three-gorges", "yangtze-river", "cruise", "river-cruise", "boarding-guide", "chaotianmen", "gorges"]
@@ -13,6 +14,8 @@ The Yangtze River cruise between Chongqing and Yichang (or the reverse) has been
 This guide covers everything specific to the embarkation process in Chongqing — the practical details that matter most before you ever see a gorge.
 
 ---
+
+![Starting Yangtze Three Gorges Cruise from Chongqing — Choosing Your Departure Pier in Chongqing](https://images.pexels.com/photos/35439708/pexels-photo-35439708.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Choosing Your Departure Pier in Chongqing
 
@@ -70,6 +73,8 @@ These ferries are significantly cheaper (¥200–¥600 vs ¥1,500–¥5,000+ for
 
 ---
 
+![Starting Yangtze Three Gorges Cruise from Chongqing — Embarkation Day: Step by Step](https://images.pexels.com/photos/32630851/pexels-photo-32630851.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Embarkation Day: Step by Step
 
 ### Before You Leave Your Hotel
@@ -105,6 +110,8 @@ Most cruises remain docked in Chongqing for the first evening, allowing passenge
 The ship typically departs Chongqing between 21:00 and 23:00, often timed so passengers wake on the first morning already in the gorges.
 
 ---
+
+![Starting Yangtze Three Gorges Cruise from Chongqing — The First Morning: Waking Up in the Gorges](https://images.pexels.com/photos/29304301/pexels-photo-29304301.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The First Morning: Waking Up in the Gorges
 

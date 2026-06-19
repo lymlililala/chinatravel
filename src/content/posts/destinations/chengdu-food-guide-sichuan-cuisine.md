@@ -11,11 +11,14 @@ tags:
   - sichuan
   - destinations
 description: "The complete eating guide to Chengdu — from authentic Sichuan hotpot and mapo tofu to dan dan noodles, rabbit head, teahouse culture, and the street food alley that locals actually eat at."
+ogImage: "https://images.pexels.com/photos/33692911/pexels-photo-33692911.png?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Chengdu holds more UNESCO Creative City of Gastronomy status than perhaps any other city of its size in Asia — and the title is deserved. The city's food culture is a full sensory experience: numbing Sichuan peppercorn (花椒), fiery chilli oil, the gentle tang of fermented black beans, and the extraordinary depth of flavour that comes from Sichuan's unique climate and culinary tradition.
 
 ## Table of contents
+
+![Chengdu Food — Understanding Sichuan Flavour](https://images.pexels.com/photos/33965578/pexels-photo-33965578.png?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Understanding Sichuan Flavour
 
@@ -67,6 +70,8 @@ The original mapo tofu — silken tofu in a sauce of doubanjiang, dried chilli, 
 
 ---
 
+![Chengdu Food — Dan Dan Noodles (担担面)](https://images.pexels.com/photos/20824931/pexels-photo-20824931.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Dan Dan Noodles (担担面)
 
 Originally sold by street vendors carrying pots on shoulder poles (担子, dàn zi), dan dan noodles are thin wheat noodles in a sauce of sesame paste, chilli oil, preserved vegetables (ya cai), minced meat, and spring onions.
@@ -98,6 +103,8 @@ Chengdu's most famous pedestrian food street has its share of tourist-trap resta
 - **Lai Tang Yuan (赖汤圆)** — glutinous rice balls (tang yuan) in sweet broth, filled with sesame paste. The Lai family brand has been selling these since 1894.
 
 ---
+
+![Chengdu Food — Chengdu Teahouse Culture (茶馆文化)](https://images.pexels.com/photos/36466075/pexels-photo-36466075.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Chengdu Teahouse Culture (茶馆文化)
 

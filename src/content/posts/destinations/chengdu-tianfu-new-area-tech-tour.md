@@ -1,6 +1,7 @@
 ---
 title: "Chengdu Tianfu New Area: Tech Parks, Science City & Future Sichuan"
 description: "Explore Chengdu's Tianfu New Area — China's newest national-level economic zone south of the city, featuring a futuristic science museum, tech parks, the Xinglong Lake district, and the emerging cultural venues that define contemporary Chengdu beyond pandas and hotpot."
+ogImage: "https://images.pexels.com/photos/3794937/pexels-photo-3794937.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Chengdu"
 tags: ["chengdu", "tianfu-new-area", "technology", "science-museum", "modern-chengdu", "xinglong-lake", "new-district", "innovation"]
@@ -15,6 +16,8 @@ By 2030, Tianfu New Area is projected to house 3.5 million residents, an expande
 For visitors interested in contemporary China rather than (or in addition to) its past, Tianfu New Area offers a genuinely different perspective on the country's direction.
 
 ---
+
+![Chengdu Tianfu New Area — Chengdu Science and Technology Museum (成都科学技术博物馆)](https://images.pexels.com/photos/10145028/pexels-photo-10145028.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Chengdu Science and Technology Museum (成都科学技术博物馆)
 
@@ -54,6 +57,8 @@ A linear park follows the entire 15 km perimeter of Xinglong Lake with:
 
 ---
 
+![Chengdu Tianfu New Area — Tianfu Tech Zone: China's Silicon Valley Analogy](https://images.pexels.com/photos/36522026/pexels-photo-36522026.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Tianfu Tech Zone: China's Silicon Valley Analogy
 
 The tech parks that line the expressway south of the lake contain a growing roster of Chinese and international technology companies:
@@ -72,6 +77,8 @@ The **Tianfu Software Park (天府软件园)** is the original anchor of the zon
 **High-speed rail connection:** The new **Tianfu International Airport** (opened 2021), connected to Chengdu city by the Tianfu New Area metro lines, is 50 km south of the old urban core. Its architectural scale (6 runways, 90 million passenger capacity) rivals the new Beijing airport.
 
 ---
+
+![Chengdu Tianfu New Area — Food in Tianfu New Area](https://images.pexels.com/photos/19591360/pexels-photo-19591360.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Food in Tianfu New Area
 

@@ -10,7 +10,7 @@ tags:
   - itinerary
   - southwest-china
 description: "A 5-day Chongqing itinerary — Day 1 for Hongya Cave and the Jiefangbei CBD, Day 2 for the Yangtze River cable car and Ciqikou ancient town, Day 3 for the Three Gorges starting point or a Yangtze cruise, Days 4-5 for Wulong Karst National Park. Practical transport links."
-ogImage: "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/37968488/pexels-photo-37968488.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Chongqing defies easy categorization. It's the world's largest city by administrative area, a municipality of 30 million people spread across valleys and mountains at the confluence of the Yangtze and Jialing rivers. The city center is built on ridgelines between rivers — there are no flat streets. The metro has stations that require elevators to access cliff-face entrances. Buildings cling to vertical rock faces. And the food — Chongqing hotpot is different from Sichuan hotpot, more aggressive, oilier, and according to locals, superior.
@@ -18,6 +18,8 @@ Chongqing defies easy categorization. It's the world's largest city by administr
 This 5-day itinerary covers the city highlights plus the extraordinary Wulong karst landscape 2.5 hours south.
 
 ## Table of contents
+
+![Chongqing & Surrounding Area — Before You Arrive](https://images.pexels.com/photos/34142836/pexels-photo-34142836.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Before You Arrive
 
@@ -55,6 +57,8 @@ Key differences from what you've had elsewhere: the Chongqing broth is darker, r
 - For an authentic local experience, avoid tourist-facing restaurants on Hongya Cave levels and find one in the surrounding streets
 
 ---
+
+![Chongqing & Surrounding Area — Day 2: Yangtze Cable Car & Ciqikou Ancient Town](https://images.pexels.com/photos/32660207/pexels-photo-32660207.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day 2: Yangtze Cable Car & Ciqikou Ancient Town
 
@@ -95,6 +99,8 @@ Standard tourist cruises cost ¥1,500-3,500 per person for a 3-day journey (depe
 If not doing the full cruise, the **Wanzhou or Fengjie area** (lesser gorges, accessible by day bus) gives a taste of the Three Gorges without the multi-day commitment.
 
 ---
+
+![Chongqing & Surrounding Area — Days 4-5: Wulong Karst National Park](https://images.pexels.com/photos/7855548/pexels-photo-7855548.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Days 4-5: Wulong Karst National Park
 

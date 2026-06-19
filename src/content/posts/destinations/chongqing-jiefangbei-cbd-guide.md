@@ -1,6 +1,7 @@
 ---
 title: "Chongqing Jiefangbei CBD Guide: The Heart of the Mountain City"
 description: "Explore Jiefangbei, Chongqing's bustling central business district built on mountain ridges — the Liberation Monument, underground shopping city, Hongya Cave, and the famous 3D city experience."
+ogImage: "https://images.pexels.com/photos/34169024/pexels-photo-34169024.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/chongqing-jiefangbei.jpg"
 category: "destinations"
@@ -13,6 +14,8 @@ author: "RoamChina Travel"
 Jiefangbei (解放碑, meaning "Liberation Monument") is Chongqing's traditional city center — the commercial and cultural heart of a city that defies conventional urban logic. Built across multiple mountain ridges above the confluence of the Yangtze and Jialing rivers, Chongqing's downtown has no true ground level. What appears to be a ground-floor entrance may actually be on the 10th floor from another angle. Overpasses run through buildings. Subway stations exit directly into skyscraper lobbies.
 
 The Jiefangbei district exemplifies this vertically complex city at its most extreme — and its most fascinating.
+
+![Chongqing Jiefangbei CBD — The Liberation Monument](https://images.pexels.com/photos/6041970/pexels-photo-6041970.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Liberation Monument
 
@@ -29,6 +32,8 @@ Beneath Jiefangbei's streets lies one of China's most extensive underground comm
 Navigating this underground city is genuinely confusing — even for locals. The lack of street-level reference points, combined with the multiple building connections and the varying floor levels, creates a spatial puzzle. Most visitors simply flow with the crowd and emerge somewhere they didn't intend to be.
 
 The underground retail focuses on fast fashion, food courts, cosmetics, and phone accessories. Quality is mid-range at best, but the atmosphere and scale are worth experiencing.
+
+![Chongqing Jiefangbei CBD — Hongya Cave (洪崖洞)](https://images.pexels.com/photos/14165092/pexels-photo-14165092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Hongya Cave (洪崖洞)
 
@@ -53,6 +58,8 @@ Chongqing's topography creates urban experiences that feel literally impossible.
 **The "8D City"**: Chongqing earned the nickname "8D City" on Chinese social media after videos went viral showing the layered, multi-level urban environment. A building's "ground floor" may be the 10th floor from the street below and the 3rd floor from the street above. Multiple bridges intersect at different heights. What appears to be a flyover may be a pedestrian bridge connecting two buildings.
 
 The most extreme concentration of this effect is in the Yuzhong peninsula's narrowest parts, near the Jiefangbei metro station. Spend time wandering without purpose and the city will reveal its spatial complexity.
+
+![Chongqing Jiefangbei CBD — Food and Dining](https://images.pexels.com/photos/33144658/pexels-photo-33144658.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Food and Dining
 

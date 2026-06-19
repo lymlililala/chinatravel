@@ -11,7 +11,7 @@ tags:
   - southwest-china
   - night-views
 description: "Hongya Cave (洪崖洞) in Chongqing — the 11-story stilted building complex that went viral after appearing in Howl's Moving Castle and is now one of China's most photographed places. The best time to visit (night for the illuminations), the floors of dining and food stalls, the Jiefangbei CBD nearby, and why the area around Hongya Cave at night is genuinely spectacular."
-ogImage: "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/32660204/pexels-photo-32660204.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Hongya Cave has become one of China's most shared travel images. A cluster of stilted buildings (diaojiaolou, 吊脚楼) stacked 11 stories down a cliff face, lit in gold and red at night, reflected in the Jialing River below — it's extraordinary looking, and the comparison to Hayao Miyazaki's "Spirited Away" and "Howl's Moving Castle" is obvious enough that Chinese and Japanese tourists have turned it into a meme in its own right.
@@ -19,6 +19,8 @@ Hongya Cave has become one of China's most shared travel images. A cluster of st
 The visual doesn't disappoint in person. Chongqing's riverfront hillside setting is genuinely unlike any other Chinese city, and Hongya Cave captures this vertical urbanism at its most dramatic. But like most viral destinations, the experience requires some management to get the most out of it.
 
 ## Table of contents
+
+![Chongqing Hongya Cave & Riverside District — What Hongya Cave Actually Is](https://images.pexels.com/photos/30606159/pexels-photo-30606159.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## What Hongya Cave Actually Is
 
@@ -58,6 +60,8 @@ The main reason to actually enter the building (rather than just photograph it f
 
 On one of the upper floors there's a traditional teahouse with bamboo chairs, mahjong tables, and face-changing (变脸) performances. Tea from ¥30–60 per pot; performances typically at 8pm and 9pm. It's touristy but gives a sense of old Chongqing social life.
 
+![Chongqing Hongya Cave & Riverside District — The Jialing Riverfront](https://images.pexels.com/photos/32709736/pexels-photo-32709736.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The Jialing Riverfront
 
 After visiting Hongya Cave, walk the riverside promenade (滨江路) in both directions. This stretch of Chongqing's waterfront has:
@@ -82,6 +86,8 @@ More interesting is the **Sunken Pedestrian Street (十八梯, Shíbā Tī)** �
 **By taxi/Didi:** Tell the driver "洪崖洞" — it's well-known. Fare from the train stations: Chongqing North Station ¥25–40 (30 min), Chongqing Railway Station ¥20–30 (20 min).
 
 **By walking:** From Jiefangbei, it's a 15-minute walk following the signs.
+
+![Chongqing Hongya Cave & Riverside District — Combining Hongya Cave with Other Chongqing Highlights](https://images.pexels.com/photos/2875254/pexels-photo-2875254.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Combining Hongya Cave with Other Chongqing Highlights
 

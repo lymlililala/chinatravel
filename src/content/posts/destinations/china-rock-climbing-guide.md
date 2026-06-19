@@ -12,12 +12,14 @@ tags:
   - sport
   - outdoor
 description: "Rock climbing in China — Yangshuo's limestone karst crags as China's premier outdoor climbing destination, the massive Getu Arch in Guizhou, climbing in Guangxi and Yunnan, what grades are available, local guiding operations, gear rental options, and the best time of year to climb each area."
-ogImage: "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/5384642/pexels-photo-5384642.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 China has some of the world's most spectacular rock climbing terrain, and almost none of it appears in mainstream climbing publications. The limestone karst towers of Guangxi province alone contain thousands of unexplored lines. What has developed in terms of established sport climbing, guidebooks, and local guiding infrastructure is concentrated in a handful of areas — with Yangshuo being far and away the most developed and easiest to visit as a climbing tourist.
 
 ## Table of contents
+
+![Rock Climbing China — Yangshuo: China's Climbing Capital](https://images.pexels.com/photos/33899273/pexels-photo-33899273.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Yangshuo: China's Climbing Capital
 
@@ -69,6 +71,8 @@ Several hostels around the West Street area cater to the climbing crowd and have
 
 **January–February:** Cool and often dry. The most comfortable temperatures. Chinese New Year period is very crowded for accommodation.
 
+![Rock Climbing China — Getu Valley and the Getu Arch (贵州格凸河)](https://images.pexels.com/photos/36408158/pexels-photo-36408158.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Getu Valley and the Getu Arch (贵州格凸河)
 
 **Getu Valley** in Guizhou province is a destination for more serious and adventurous climbers. The centerpiece is **Getu Arch** — a natural limestone arch with a span of approximately 350m and a height of 180m, forming an immense cave opening. The climbing inside and around the arch is on a scale that makes most climbing destinations look modest.
@@ -91,6 +95,8 @@ Alternatively: Guiyang is accessible by flight and HSR from major cities. Chengd
 Getu village has basic guesthouses (¥60–120/night) and simple Miao minority food.
 
 **Best time:** October–November and March–May.
+
+![Rock Climbing China — Other Climbing Areas in China](https://images.pexels.com/photos/4045667/pexels-photo-4045667.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Other Climbing Areas in China
 

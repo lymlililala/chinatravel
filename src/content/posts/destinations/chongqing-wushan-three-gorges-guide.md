@@ -12,7 +12,7 @@ tags:
   - yangtze-river
   - boat
 description: "Wushan sits at the convergence of the Yangtze and Daning Rivers, gateway to the dramatic Lesser Three Gorges that most Yangtze River cruise passengers miss. This 2026 guide covers the Daning River boat trip, the dramatically reconstructed Wushan Old Town, what Three Gorges Dam flooding changed, and how to experience authentic river town life on the upper Yangtze."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/38099083/pexels-photo-38099083.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -20,6 +20,8 @@ ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=
 Wushan (巫山) is the kind of place that most travelers rush past — on a Yangtze River cruise, it's typically a brief stop on the way to the Three Gorges Dam. But the town and its surrounding gorges deserve more than a few hours, and the Daning River (大宁河) boat trip into the Lesser Three Gorges (小三峡) is, in my experience, as dramatic as anything on the main Yangtze.
 
 Wushan sits where the Daning River joins the Yangtze, at the upstream entrance to Wu Gorge (巫峡) — one of the three main Three Gorges. The town itself was relocated from river level to a hillside when the Three Gorges Dam raised water levels, creating a new city of white buildings stacked up steep slopes above the river that's strikingly atmospheric. It's a glimpse of what the dam project actually meant in human terms: entire cities uprooted and moved.
+
+![Wushan Three Gorges Chongqing — The Three Gorges Context](https://images.pexels.com/photos/37381166/pexels-photo-37381166.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Three Gorges Context
 
@@ -61,6 +63,8 @@ Waterfalls cascade from overhanging vegetation. Monkeys have been reintroduced t
 
 The bamboo boat extension takes you into narrower tributary streams where the main boat can't go — these small open boats pole through near-silent passages between moss-covered walls. It's extraordinary.
 
+![Wushan Three Gorges Chongqing — Wushan New Town](https://images.pexels.com/photos/6416108/pexels-photo-6416108.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Wushan New Town
 
 The rebuilt Wushan New Town (巫山新城) is a fascinating example of post-dam reconstruction. The entire old town was submerged; what you see today was built on the hillside from scratch in the early 2000s. The architecture is standardized Chinese construction, but the setting — stacked up dramatic hillsides above the river — is unique.
@@ -79,6 +83,8 @@ An hour by fast boat (¥80) or bus (¥25, 1 hour) upriver from Wushan, Fengjie (
 Baidi City entry: ¥120 (includes boat to island). Open 8am–6pm.
 
 The Qutang Gorge Cliff Plank Trail (瞿塘峡古栈道) is a reconstructed section of the ancient cliff path that allowed people to walk the gorge before modern transport. You can hike a section of this today — about 1km of vertiginous boardwalk bolted to the cliff face above the river.
+
+![Wushan Three Gorges Chongqing — Getting to Wushan](https://images.pexels.com/photos/33765076/pexels-photo-33765076.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting to Wushan
 

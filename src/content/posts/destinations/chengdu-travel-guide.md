@@ -20,6 +20,7 @@ tags:
   - food
   - nature
 description: "Chengdu is China's most relaxed major city — famous for giant pandas, the world's spiciest cuisine, teahouse culture, and its role as the gateway to Tibet and the Sichuan highlands."
+ogImage: "https://images.pexels.com/photos/33745381/pexels-photo-33745381.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Chengdu is the city everyone falls for. It has a reputation within China as the most 休闲 (relaxed, leisure-loving) of China's major cities — a place where locals have elevated the afternoon tea break, the all-night hotpot session, and the gentle wander through a park into a philosophy of living. Foreigners who intended to stay two days often stay two weeks.
@@ -27,6 +28,8 @@ Chengdu is the city everyone falls for. It has a reputation within China as the 
 It is also, practically speaking, the gateway to Sichuan's extraordinary natural landscapes — Jiuzhaigou, Emei Shan, Leshan — and the departure point for Tibet.
 
 ## Table of contents
+
+![Chengdu — Top Things to See and Do](https://images.pexels.com/photos/1750268/pexels-photo-1750268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Top Things to See and Do
 
@@ -61,6 +64,8 @@ Sipping tea in a Chengdu teahouse for two or three hours while watching street e
 
 ---
 
+![Chengdu — Where to Eat: Sichuan Cuisine](https://images.pexels.com/photos/33460432/pexels-photo-33460432.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Where to Eat: Sichuan Cuisine
 
 Sichuan food is famous worldwide for its use of **Sichuan peppercorn (花椒, huājiāo)** — the spice that creates a numbing, tingly sensation (called 麻辣, *málà*) quite unlike chilli heat — combined with dried red chillies for genuine fire.
@@ -86,6 +91,8 @@ Thin wheat noodles topped with a sauce of preserved vegetables, ground pork, ses
 A Chengdu peculiarity: braised rabbit heads split and eaten as a snack, particularly popular in teahouses and night markets. Not for the faint-hearted, but very much the local thing to try.
 
 ---
+
+![Chengdu — Day Trips and Side Adventures](https://images.pexels.com/photos/4468726/pexels-photo-4468726.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day Trips and Side Adventures
 

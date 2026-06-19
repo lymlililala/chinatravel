@@ -12,12 +12,14 @@ tags:
   - food
   - urban
 description: "Chongqing's legendary night views, Yangtze River cruises, spicy hotpot, and the thrilling 3D architecture of a city built on cliffs — the complete guide for 2025."
-ogImage: "https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/35439724/pexels-photo-35439724.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Chongqing defies easy categorisation. It's one of China's four direct-controlled municipalities, a city of 34 million people built vertically up cliff faces where two rivers meet — and it produces some of the most cinematic urban landscapes on the planet. At night, it looks like Blade Runner crossed with a Chinese New Year celebration.
 
 ## Table of contents
+
+![Chongqing Night Views & Yangtze River — Why Chongqing is Unlike Any Other Chinese City](https://images.pexels.com/photos/11827028/pexels-photo-11827028.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Why Chongqing is Unlike Any Other Chinese City
 
@@ -89,6 +91,8 @@ Book through **Trip.com** or **Viking River Cruises** (international standard).
 
 ---
 
+![Chongqing Night Views & Yangtze River — Chongqing Hotpot: A Complete Guide](https://images.pexels.com/photos/30882914/pexels-photo-30882914.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Chongqing Hotpot: A Complete Guide
 
 Chongqing hotpot is the original and most intense version — a bubbling cauldron of numbing Sichuan peppercorns (huā jiāo, 花椒) and dried chilies in rich tallow oil. It looks ferocious and is.
@@ -136,6 +140,8 @@ Chongqing has an extensive light rail/metro system (轨道交通) that's the bac
 - **Cable car (索道):** The Yangtze River Cableway (长江索道) is a scenic transit option across the river
 
 ---
+
+![Chongqing Night Views & Yangtze River — Day Trips from Chongqing](https://images.pexels.com/photos/35439723/pexels-photo-35439723.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day Trips from Chongqing
 
