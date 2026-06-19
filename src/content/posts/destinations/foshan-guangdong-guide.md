@@ -21,9 +21,9 @@ Getting here from Guangzhou takes 30–45 minutes by metro or 20 minutes by high
 
 ## Table of contents
 
-![Foshan — Foshan Ancestral Temple (祖庙)](https://images.pexels.com/photos/16005136/pexels-photo-16005136.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Foshan Ancestral Temple (祖庙)
+
+![Foshan — Foshan Ancestral Temple (祖庙)](https://images.pexels.com/photos/16005136/pexels-photo-16005136.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 The Foshan Ancestral Temple is the defining monument of the city — a temple dedicated to Xuantian Shangdi (玄天上帝, the Northern Emperor or "Supreme Beidi"), a Taoist deity associated with water and the north. It was the spiritual center of the Foshan area for centuries and the focus of religious and civic life.
 

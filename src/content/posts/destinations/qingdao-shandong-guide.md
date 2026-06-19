@@ -18,10 +18,11 @@ Qingdao (青岛) occupies a peninsula on the Yellow Sea coast of Shandong Provin
 
 ## Table of contents
 
-![Qingdao old city skyline — the red-tiled German colonial rooftops and twin-spired Evangelical Church against a vivid blue sky, with the Yellow Sea visible behind](https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=1200&q=85)
 *Qingdao's German-era old city — the most intact European colonial cityscape on China's Yellow Sea coast*
 
 ## The Old German City
+
+![Qingdao old city skyline — the red-tiled German colonial rooftops and twin-spired Evangelical Church against a vivid blue sky, with the Yellow Sea visible behind](https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=1200&q=85)
 
 The German administration built one of its most coherent colonial cities here. The **former German Governor's Residence (总督府)** on the hilltop is a Wilhelmine Renaissance building that now houses a museum and commands the best views over the bay. The adjacent streets — **Jiangsu Road (江苏路)**, **Hunan Road (湖南路)**, **Baden-Powell Road** (now renamed) — preserve an essentially intact German residential streetscape.
 

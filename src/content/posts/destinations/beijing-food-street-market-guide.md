@@ -18,9 +18,9 @@ Beijing's food scene is more than Peking duck and imperial palace banquets. The 
 
 ## Table of contents
 
-![Beijing Street Food & Night Markets — Wangfujing Snack Street: Touristy, But Worth It Once](https://images.pexels.com/photos/29714920/pexels-photo-29714920.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Wangfujing Snack Street: Touristy, But Worth It Once
+
+![Beijing Street Food & Night Markets — Wangfujing Snack Street: Touristy, But Worth It Once](https://images.pexels.com/photos/29714920/pexels-photo-29714920.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Wangfujing Snack Street (王府井小吃街) near the Wangfujing shopping district is unambiguously touristy. The stalls sell scorpions-on-sticks, starfish, and seahorse skewers — things that photogenic travellers photograph and most locals never eat. But that doesn't mean you should skip it entirely.
 

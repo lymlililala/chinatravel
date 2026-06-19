@@ -21,9 +21,9 @@ There's a version of Labrang Monastery that shows up in travel magazines — mon
 
 Xiahe sits at 2,920 meters in the Daxia River valley, about 260km southwest of Lanzhou. It's technically in Gansu Province but culturally and ethnically it belongs to the Tibetan world. The majority of local people are Tibetan, and the town exists essentially because of the monastery — everything here, from the Tibetan-style architecture to the nomadic culture of the surrounding grasslands, orbits around Labrang.
 
-![Xiahe Labrang Monastery Gansu — Labrang Monastery (拉卜楞寺)](https://images.pexels.com/photos/5014993/pexels-photo-5014993.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Labrang Monastery (拉卜楞寺)
+
+![Xiahe Labrang Monastery Gansu — Labrang Monastery (拉卜楞寺)](https://images.pexels.com/photos/5014993/pexels-photo-5014993.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### Historical Background
 Labrang Monastery was founded in 1709 by the first Jamyang Zhépa, a reincarnating lama lineage that continues today. It grew to become one of the six great monasteries of the Gelug school of Tibetan Buddhism (alongside Sera, Drepung, and Ganden in Tibet, plus Kumbum in Qinghai). At its peak in the early 20th century, Labrang housed over 4,000 monks.

@@ -29,9 +29,9 @@ It is also, practically speaking, the gateway to Sichuan's extraordinary natural
 
 ## Table of contents
 
-![Chengdu — Top Things to See and Do](https://images.pexels.com/photos/1750268/pexels-photo-1750268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Top Things to See and Do
+
+![Chengdu — Top Things to See and Do](https://images.pexels.com/photos/1750268/pexels-photo-1750268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### Giant Panda Base (大熊猫繁育研究基地)
 

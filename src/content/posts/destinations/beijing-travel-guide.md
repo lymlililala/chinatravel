@@ -29,9 +29,9 @@ Most first-time visitors discover that three days barely scratches the surface. 
 
 ## Table of contents
 
-![Beijing — Top Things to See and Do](https://images.pexels.com/photos/1750268/pexels-photo-1750268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Top Things to See and Do
+
+![Beijing — Top Things to See and Do](https://images.pexels.com/photos/1750268/pexels-photo-1750268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### The Forbidden City (故宫)
 

@@ -19,9 +19,9 @@ Fujian Province faces Taiwan across the Taiwan Strait — a seafaring culture th
 
 ## Table of contents
 
-![Fujian — Xiamen (厦门) and Gulangyu Island](https://images.pexels.com/photos/27093154/pexels-photo-27093154.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Xiamen (厦门) and Gulangyu Island
+
+![Fujian — Xiamen (厦门) and Gulangyu Island](https://images.pexels.com/photos/27093154/pexels-photo-27093154.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Xiamen is one of China's most liveable and visually appealing cities — a subtropical coastal city with excellent seafood, walkable waterfront districts, and the extraordinary pedestrian island of Gulangyu.
 

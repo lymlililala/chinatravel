@@ -17,9 +17,9 @@ Beijing's reputation is anchored in imperial history, but the city is equally co
 
 ## Table of contents
 
-![Beijing Art District & Sanlitun — 798 Art District (798艺术区)](https://images.pexels.com/photos/18031739/pexels-photo-18031739.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## 798 Art District (798艺术区)
+
+![Beijing Art District & Sanlitun — 798 Art District (798艺术区)](https://images.pexels.com/photos/18031739/pexels-photo-18031739.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### What and where
 

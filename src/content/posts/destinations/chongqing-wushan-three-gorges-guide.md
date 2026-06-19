@@ -21,9 +21,9 @@ Wushan (巫山) is the kind of place that most travelers rush past — on a Yang
 
 Wushan sits where the Daning River joins the Yangtze, at the upstream entrance to Wu Gorge (巫峡) — one of the three main Three Gorges. The town itself was relocated from river level to a hillside when the Three Gorges Dam raised water levels, creating a new city of white buildings stacked up steep slopes above the river that's strikingly atmospheric. It's a glimpse of what the dam project actually meant in human terms: entire cities uprooted and moved.
 
-![Wushan Three Gorges Chongqing — The Three Gorges Context](https://images.pexels.com/photos/37381166/pexels-photo-37381166.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Three Gorges Context
+
+![Wushan Three Gorges Chongqing — The Three Gorges Context](https://images.pexels.com/photos/37381166/pexels-photo-37381166.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 The "Three Gorges" that give the famous dam its name are:
 - **Qutang Gorge (瞿塘峡)**: Shortest but most dramatic, near Fengjie

@@ -21,9 +21,9 @@ The misconception most visitors carry is that Inner Mongolia is all one thing. I
 
 ## Table of contents
 
-![Inner Mongolia — Hulunbuir Grasslands (呼伦贝尔草原)](https://images.pexels.com/photos/30109532/pexels-photo-30109532.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Hulunbuir Grasslands (呼伦贝尔草原)
+
+![Inner Mongolia — Hulunbuir Grasslands (呼伦贝尔草原)](https://images.pexels.com/photos/30109532/pexels-photo-30109532.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Hulunbuir in northeastern Inner Mongolia is widely considered the most beautiful grassland in China. The Hulunbuir plain is enormous — roughly the size of France — and in summer (late June through August), the grass is so deep and green it looks painted.
 

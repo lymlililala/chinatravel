@@ -23,9 +23,9 @@ The quality varies enormously. Some spaces show rigorously curated contemporary 
 
 ## Table of contents
 
-![Art District Beijing — Essential Information](https://images.pexels.com/photos/36541875/pexels-photo-36541875.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Essential Information
+
+![Art District Beijing — Essential Information](https://images.pexels.com/photos/36541875/pexels-photo-36541875.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 | Detail | Info |
 |--------|------|

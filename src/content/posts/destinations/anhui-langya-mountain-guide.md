@@ -21,9 +21,9 @@ The essay's opening line — "Among all the mountains surrounding Chu Prefecture
 
 ## Table of contents
 
-![Langya Mountain Anhui — Getting to Chuzhou and Langya Mountain](https://images.pexels.com/photos/16004928/pexels-photo-16004928.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting to Chuzhou and Langya Mountain
+
+![Langya Mountain Anhui — Getting to Chuzhou and Langya Mountain](https://images.pexels.com/photos/16004928/pexels-photo-16004928.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Chuzhou's position near the Yangtze Delta rail network makes it very accessible:
 

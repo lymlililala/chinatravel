@@ -21,9 +21,9 @@ Lanzhou (兰州) occupies a unique geographic position in China: it's the only p
 
 Most travelers treat Lanzhou as a transit hub — arriving by train from Xi'an, eating a bowl of beef noodles, and heading on to Zhangye's Rainbow Mountains or Dunhuang's Mogao Caves. This is understandable; the city's industrial history and dense urban development don't immediately suggest a destination. But spend a day here properly and you'll find a riverside city with genuine character, a food culture that's influenced the way millions of Chinese people eat breakfast, and the start of one of China's most spectacular Silk Road journeys.
 
-![Lanzhou Gansu — The Lanzhou Beef Noodle Legend](https://images.pexels.com/photos/20824934/pexels-photo-20824934.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Lanzhou Beef Noodle Legend
+
+![Lanzhou Gansu — The Lanzhou Beef Noodle Legend](https://images.pexels.com/photos/20824934/pexels-photo-20824934.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Let's start with the food because it defines the city. Lanzhou Beef Noodle Soup (兰州牛肉面, 兰州拉面) is arguably the most widely eaten breakfast in China. Some estimates suggest over 1 billion bowls are served annually across the country. Every Chinese city has Lanzhou noodle restaurants, but the soup they serve is rarely the same as the original.
 

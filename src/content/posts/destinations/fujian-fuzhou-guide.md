@@ -21,9 +21,9 @@ Fuzhou gets overshadowed by Xiamen within Fujian — and by the coastal mega-cit
 
 More than that, Fuzhou has a particular atmosphere. It's a real working city that people actually live in with genuine investment, and the food culture, in particular, reflects this: Fuzhounese cuisine is subtle, seafood-forward and rooted in centuries of coastal trading culture.
 
-![Fuzhou Fujian — Three Lanes and Seven Alleys (三坊七巷)](https://images.pexels.com/photos/8533639/pexels-photo-8533639.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Three Lanes and Seven Alleys (三坊七巷)
+
+![Fuzhou Fujian — Three Lanes and Seven Alleys (三坊七巷)](https://images.pexels.com/photos/8533639/pexels-photo-8533639.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 The most famous site in Fuzhou and one of the best-preserved urban heritage districts in China, Three Lanes and Seven Alleys (Sanfang Qixiang) occupies about 40 hectares in the heart of the old city. The district dates from the Tang Dynasty and reached its peak of cultural importance during the Song through Qing periods, when it housed the families of Fuzhou's most prominent scholars, officials and merchants.
 

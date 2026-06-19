@@ -19,9 +19,9 @@ Chengdu's approach to nightlife says something about the city's character. You w
 
 ## Table of contents
 
-![Chengdu Nightlife — Jiuyanqiao Bar Strip (九眼桥酒吧街)](https://images.pexels.com/photos/847869/pexels-photo-847869.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Jiuyanqiao Bar Strip (九眼桥酒吧街)
+
+![Chengdu Nightlife — Jiuyanqiao Bar Strip (九眼桥酒吧街)](https://images.pexels.com/photos/847869/pexels-photo-847869.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **Jiuyanqiao** (九眼桥, Nine-Eye Bridge) is the name for the bar-dense strip along the Fu River in the Jinjiang District. The area developed around a historic bridge and has been the centre of Chengdu nightlife since the early 2000s. Unlike Sanlitun in Beijing, Jiuyanqiao's bars are mostly at street level, the entrance is generally free, and the vibe is accessible.
 

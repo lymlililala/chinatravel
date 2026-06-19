@@ -21,9 +21,9 @@ Beijing has two distinct artistic identities running simultaneously. One is cont
 
 This guide covers the 798 Art District and Beijing's hutong neighbourhoods as a combined cultural experience — either as two half-days on the same visit, or as separate targeted excursions.
 
-![Beijing Art District & Hutong Culture Combined — 798 Art District (798艺术区)](https://images.pexels.com/photos/11985451/pexels-photo-11985451.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## 798 Art District (798艺术区)
+
+![Beijing Art District & Hutong Culture Combined — 798 Art District (798艺术区)](https://images.pexels.com/photos/11985451/pexels-photo-11985451.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### Background
 

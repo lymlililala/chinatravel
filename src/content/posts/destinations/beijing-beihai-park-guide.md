@@ -17,9 +17,9 @@ ogImage: "https://images.pexels.com/photos/20694749/pexels-photo-20694749.jpeg?a
 
 ## Table of contents
 
-![Beihai Park Beijing — Beihai Park: A Thousand Years of Imperial Leisure](https://images.pexels.com/photos/6903495/pexels-photo-6903495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Beihai Park: A Thousand Years of Imperial Leisure
+
+![Beihai Park Beijing — Beihai Park: A Thousand Years of Imperial Leisure](https://images.pexels.com/photos/6903495/pexels-photo-6903495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Beijing has many parks, but Beihai Park (北海公园) holds a special status. At over a thousand years old — with documented imperial use dating to the Liao Dynasty in the 10th century — it is the oldest and best-preserved imperial garden in China. It sits adjacent to the Forbidden City and Jingshan Park in the heart of the old imperial city, separated from the Imperial City proper by just a few hundred metres of ancient walls and moat.
 

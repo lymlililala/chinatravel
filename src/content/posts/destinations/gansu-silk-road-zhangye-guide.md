@@ -19,9 +19,9 @@ Gansu Province forms a narrow 1,600km corridor between the Tibetan Plateau and t
 
 ## Table of contents
 
-![Gansu Silk Road — Zhangye (张掖) — Rainbow Mountains](https://images.pexels.com/photos/37193108/pexels-photo-37193108.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Zhangye (张掖) — Rainbow Mountains
+
+![Gansu Silk Road — Zhangye (张掖) — Rainbow Mountains](https://images.pexels.com/photos/37193108/pexels-photo-37193108.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### Danxia Geopark (丹霞地貌国家地质公园)
 The most spectacular coloured rock formation in the world — 35km² of sandstone layers in vivid red, orange, yellow, green, and purple stripes. The colours are natural, caused by different iron oxide and mineral content in each layer deposited over 24 million years. UNESCO Global Geopark.

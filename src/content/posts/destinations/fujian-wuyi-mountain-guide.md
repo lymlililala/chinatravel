@@ -22,9 +22,9 @@ The mountains north of Fujian occupy a particular place in Chinese cultural geog
 
 Walking the ridge paths here, you're following routes taken by scholar-officials of the Song and Ming Dynasties who came to study, meditate and discuss the nature of the universe. Coming down from the mountains on the famous bamboo raft, you float past cliff niches where mysterious coffins — placed there by an ancient civilization over 3,000 years ago — are still visible. This is a place dense with time.
 
-![Wuyi Mountain Fujian — Understanding the UNESCO Designation](https://images.pexels.com/photos/28469395/pexels-photo-28469395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Understanding the UNESCO Designation
+
+![Wuyi Mountain Fujian — Understanding the UNESCO Designation](https://images.pexels.com/photos/28469395/pexels-photo-28469395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Wuyi Mountain received dual UNESCO World Heritage status in 1999: as a Cultural Landscape for its 2,000 years of human habitation and Taoist/Confucian heritage, and as a Natural Heritage site for its extraordinary biodiversity. The mountain is home to over 2,527 species of plants and 5,000 species of animals — including many species found nowhere else — within a single protected area.
 

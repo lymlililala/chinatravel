@@ -18,9 +18,9 @@ Chengdu is one of China's best cities for accommodation value. You can stay in a
 
 ## Table of contents
 
-![Stay Chengdu — Neighbourhood Guide](https://images.pexels.com/photos/3945233/pexels-photo-3945233.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Neighbourhood Guide
+
+![Stay Chengdu — Neighbourhood Guide](https://images.pexels.com/photos/3945233/pexels-photo-3945233.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### Jinjiang District: Traditional Atmosphere and Best Food Access
 

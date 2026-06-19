@@ -18,9 +18,9 @@ Universal Studios Beijing opened in September 2021 and immediately became one of
 
 ## Table of contents
 
-![Beijing Universal Studios Resort — Booking Tickets](https://images.pexels.com/photos/32642491/pexels-photo-32642491.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Booking Tickets
+
+![Beijing Universal Studios Resort — Booking Tickets](https://images.pexels.com/photos/32642491/pexels-photo-32642491.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **Buy tickets in advance.** Like Shanghai Disneyland, this park sells out regularly on weekends and during Chinese school holidays. The busiest periods are July–August, October Golden Week, and Chinese New Year.
 

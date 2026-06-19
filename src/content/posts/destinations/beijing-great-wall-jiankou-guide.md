@@ -21,9 +21,9 @@ It is also genuinely challenging and sometimes dangerous. This is not a family o
 
 ## Table of contents
 
-![Jiankou Great Wall Beijing — Why Jiankou Is Different](https://images.pexels.com/photos/21939167/pexels-photo-21939167.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Why Jiankou Is Different
+
+![Jiankou Great Wall Beijing — Why Jiankou Is Different](https://images.pexels.com/photos/21939167/pexels-photo-21939167.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 At Badaling or Mutianyu, the wall has been rebuilt to tourist-grade safety standards. At Jiankou, you're walking on 400-year-old masonry that hasn't been touched since it was built. Sections lean. Steps are uneven. Tower floors may have holes. There are drops on both sides of the wall in the steep sections.
 

@@ -23,9 +23,9 @@ This guide covers all the major day trips from Chengdu with honest transport tim
 
 ---
 
-![Trips & Nearby Destinations from Chengdu — Leshan Giant Buddha (乐山大佛)](https://images.pexels.com/photos/879359/pexels-photo-879359.png?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Leshan Giant Buddha (乐山大佛)
+
+![Trips & Nearby Destinations from Chengdu — Leshan Giant Buddha (乐山大佛)](https://images.pexels.com/photos/879359/pexels-photo-879359.png?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **Distance from Chengdu:** 120km
 **Travel time:** 1.5 hours by long-distance bus or private car; 35–50 minutes by high-speed train to Leshan + bus/DiDi

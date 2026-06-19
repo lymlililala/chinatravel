@@ -18,9 +18,9 @@ Beijing doesn't have Shanghai's reputation for nightlife, and that's partly beca
 
 ## Table of contents
 
-![Beijing Nightlife — Sanlitun: The Tourist Circuit That's Still Worth Doing](https://images.unsplash.com/photo-1486108334972-f02b6c78ba07?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwyfHxzYW5saXR1bnxlbnwwfDB8fHwxNzgxNzg0MTkxfDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
-
 ## Sanlitun: The Tourist Circuit That's Still Worth Doing
+
+![Beijing Nightlife — Sanlitun: The Tourist Circuit That's Still Worth Doing](https://images.unsplash.com/photo-1486108334972-f02b6c78ba07?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwyfHxzYW5saXR1bnxlbnwwfDB8fHwxNzgxNzg0MTkxfDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 **Sanlitun** (三里屯) in Chaoyang District is Beijing's most internationally recognised nightlife area, built around the Sanlitun Village shopping complex and the bar street that runs alongside it. If you've read anything about Beijing nightlife, you've read about Sanlitun.
 

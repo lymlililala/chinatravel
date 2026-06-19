@@ -20,9 +20,9 @@ Seven days is tight for the full corridor but covers the essential highlights ef
 
 ## Table of contents
 
-![on Gansu Silk Road — Getting There & Logistics](https://images.pexels.com/photos/27831374/pexels-photo-27831374.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting There & Logistics
+
+![on Gansu Silk Road — Getting There & Logistics](https://images.pexels.com/photos/27831374/pexels-photo-27831374.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **Start:** Fly into Lanzhou Zhongchuan Airport (LHW) or arrive by HSR from Xi'an (2.5 hours, ¥250) or Chengdu (via Xi'an, ~5 hours total).
 

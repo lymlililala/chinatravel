@@ -21,9 +21,9 @@ But the Temple of Heaven has a second identity that most tourists miss: as a vas
 
 ## Table of contents
 
-![Temple Heaven Beijing — Essential Information](https://images.pexels.com/photos/37333073/pexels-photo-37333073.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Essential Information
+
+![Temple Heaven Beijing — Essential Information](https://images.pexels.com/photos/37333073/pexels-photo-37333073.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 | Detail | Info |
 |--------|------|

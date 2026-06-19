@@ -21,9 +21,9 @@ In the northeast of Beijing's old city, two extraordinary sacred complexes sit w
 
 Combining the Yonghe Lama Temple and the Beijing Confucius Temple complex into a single half-day is one of Beijing's most rewarding cultural experiences — not because of tourist infrastructure, but because of genuine atmosphere.
 
-![Yonghe Lama Temple & Confucius Temple Beijing — Yonghe Lama Temple (雍和宫)](https://images.pexels.com/photos/32005102/pexels-photo-32005102.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Yonghe Lama Temple (雍和宫)
+
+![Yonghe Lama Temple & Confucius Temple Beijing — Yonghe Lama Temple (雍和宫)](https://images.pexels.com/photos/32005102/pexels-photo-32005102.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### History and Significance
 

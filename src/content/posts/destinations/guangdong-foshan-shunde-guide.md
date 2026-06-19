@@ -22,9 +22,9 @@ If you've ever eaten dim sum in a Cantonese restaurant anywhere in the world, yo
 
 A food-focused visit to Foshan and Shunde is genuinely one of the best single-purpose food trips available in China. But the city also has architectural and cultural depth that supports a proper 2-day visit even for non-food obsessives.
 
-![Foshan & Shunde Guangdong — Foshan City Highlights](https://images.pexels.com/photos/29136533/pexels-photo-29136533.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Foshan City Highlights
+
+![Foshan & Shunde Guangdong — Foshan City Highlights](https://images.pexels.com/photos/29136533/pexels-photo-29136533.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### Ancestral Temple (祖庙)
 

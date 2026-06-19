@@ -21,9 +21,9 @@ It also requires more paperwork than almost any other journey described in this 
 
 ## Table of contents
 
-![Tibet Nepal Overland — The Permits You Need](https://images.pexels.com/photos/6863260/pexels-photo-6863260.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Permits You Need
+
+![Tibet Nepal Overland — The Permits You Need](https://images.pexels.com/photos/6863260/pexels-photo-6863260.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **This is the most important section. Read it carefully before planning.**
 

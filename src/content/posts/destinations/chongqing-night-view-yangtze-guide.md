@@ -19,9 +19,9 @@ Chongqing defies easy categorisation. It's one of China's four direct-controlled
 
 ## Table of contents
 
-![Chongqing Night Views & Yangtze River — Why Chongqing is Unlike Any Other Chinese City](https://images.pexels.com/photos/11827028/pexels-photo-11827028.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Why Chongqing is Unlike Any Other Chinese City
+
+![Chongqing Night Views & Yangtze River — Why Chongqing is Unlike Any Other Chinese City](https://images.pexels.com/photos/11827028/pexels-photo-11827028.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Most Chinese cities sprawl horizontally. Chongqing sprawls vertically. The city climbs the steep banks where the Jialing River joins the Yangtze, creating a topography so extreme that many locals don't own bikes — stairs, escalators, and light rail lines that pass *through buildings* are how you get around.
 

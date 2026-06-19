@@ -20,9 +20,9 @@ The mountain itself is extraordinary independent of geopolitics. The Heaven Lake
 
 ## Table of contents
 
-![Changbai Mountain — The Three Slopes: Which to Choose](https://images.pexels.com/photos/15528406/pexels-photo-15528406.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Three Slopes: Which to Choose
+
+![Changbai Mountain — The Three Slopes: Which to Choose](https://images.pexels.com/photos/15528406/pexels-photo-15528406.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Changbai Mountain Scenic Area has three entry points — the North Slope (北坡), West Slope (西坡), and South Slope (南坡). Each gives a different experience.
 

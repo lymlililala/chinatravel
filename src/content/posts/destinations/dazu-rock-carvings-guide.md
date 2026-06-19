@@ -20,9 +20,9 @@ This is partly because the Dazu carvings require a day trip, partly because the 
 
 ## Table of contents
 
-![Dazu Rock Carvings — The Scale of the Work](https://images.pexels.com/photos/34295742/pexels-photo-34295742.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Scale of the Work
+
+![Dazu Rock Carvings — The Scale of the Work](https://images.pexels.com/photos/34295742/pexels-photo-34295742.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 The Dazu Rock Carvings encompass over 50,000 individual sculptures distributed across 75 sites in Dazu County. They were created during the Tang, Five Dynasties, and Song Dynasty periods — roughly 7th to 13th centuries AD — by a remarkable concentration of artistic and religious effort that seems disproportionate to the region's size and relative obscurity.
 

@@ -17,9 +17,9 @@ ogImage: "https://images.pexels.com/photos/31582900/pexels-photo-31582900.jpeg?a
 
 ## Table of contents
 
-![Jiuhua Mountain Anhui — Jiuhua — The Mountain of the Great Vow](https://images.pexels.com/photos/15766744/pexels-photo-15766744.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Jiuhua — The Mountain of the Great Vow
+
+![Jiuhua Mountain Anhui — Jiuhua — The Mountain of the Great Vow](https://images.pexels.com/photos/15766744/pexels-photo-15766744.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Of China's four sacred Buddhist mountains, Jiuhua (九华山, "Nine Glorious Mountains") is perhaps the most intimate. Wutai is vast, Emei is dramatic, Putuo is coastal — but Jiuhua, tucked into the hills of southern Anhui, wraps around you like a meditation shawl. It's the bodhimanda of Dizang (Ksitigarbha in Sanskrit), the Bodhisattva who vowed not to achieve Buddhahood until all hells are emptied. That vow — compassionate, stubborn, and slightly impossible — seems to permeate the mountain itself.
 

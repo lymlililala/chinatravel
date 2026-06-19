@@ -22,9 +22,9 @@ Few corners of Chongqing surprise visitors as profoundly as the pairing of Wulon
 
 I first came here on a rainy November afternoon expecting a quick box-check. I left three days later having completely rearranged my mental map of what Chongqing could be beyond skyscrapers and cable cars.
 
-![Wulong & Fengdu Chongqing — Wulong District: Where Karst Becomes Art](https://images.pexels.com/photos/34205541/pexels-photo-34205541.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Wulong District: Where Karst Becomes Art
+
+![Wulong & Fengdu Chongqing — Wulong District: Where Karst Becomes Art](https://images.pexels.com/photos/34205541/pexels-photo-34205541.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### The Three Natural Bridges (天生三桥)
 

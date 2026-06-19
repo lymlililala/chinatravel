@@ -18,9 +18,9 @@ Dali offers one of China's most comfortable and distinctive travel environments 
 
 ## Table of contents
 
-![Stay Dali, Yunnan — The Dali Accommodation Divide](https://images.pexels.com/photos/29856508/pexels-photo-29856508.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Dali Accommodation Divide
+
+![Stay Dali, Yunnan — The Dali Accommodation Divide](https://images.pexels.com/photos/29856508/pexels-photo-29856508.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### Old Town (古城): Character and Convenience
 

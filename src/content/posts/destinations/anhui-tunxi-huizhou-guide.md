@@ -18,9 +18,9 @@ ogImage: "https://images.pexels.com/photos/33866942/pexels-photo-33866942.jpeg?a
 
 ## Table of contents
 
-![Tunxi & Huizhou Old Street Anhui — Tunxi — The Gateway to Huizhou Culture](https://images.pexels.com/photos/28927399/pexels-photo-28927399.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Tunxi — The Gateway to Huizhou Culture
+
+![Tunxi & Huizhou Old Street Anhui — Tunxi — The Gateway to Huizhou Culture](https://images.pexels.com/photos/28927399/pexels-photo-28927399.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Most travellers pass through Tunxi (屯溪) on their way to Huangshan Mountain without giving it more than a night's stopover. That's a mistake. This small city at the foot of the great mountain is the cultural heart of the Huizhou (徽州) region — a place where merchant traditions, architectural mastery, and tea culture have been preserved with a stubbornness that feels almost defiant in modern China.
 

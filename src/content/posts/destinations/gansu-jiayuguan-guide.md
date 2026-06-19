@@ -22,9 +22,9 @@ For centuries, Jiayuguan was the edge of the known world — or at least the edg
 
 Today, Jiayuguan is a medium-sized industrial city (steel production is the main employer) surrounded by a landscape of extraordinary drama: the Qilian Mountains to the south dusted with snow, the Black Mountains to the north, and the flat Gobi extending in every direction. The historical sites are world-class, the city itself is manageable and honest about what it is, and the combination of Great Wall, Silk Road atmosphere, and genuine remoteness makes it one of China's more satisfying historical travel experiences.
 
-![Jiayuguan Gansu — The Jiayuguan Fort Complex](https://images.pexels.com/photos/30255501/pexels-photo-30255501.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Jiayuguan Fort Complex
+
+![Jiayuguan Gansu — The Jiayuguan Fort Complex](https://images.pexels.com/photos/30255501/pexels-photo-30255501.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 The Jiayuguan Fort (嘉峪关关城) is the undisputed centrepiece of any visit. Built over the course of the Ming dynasty, the fort complex comprises inner and outer walls, watchtowers, garrison buildings, and the iconic gate towers that have featured in so many photographs of the western Great Wall. Unlike the more famous sections near Beijing, this section is not just a wall — it's a complete military installation designed to control movement across the critical Hexi Corridor.
 

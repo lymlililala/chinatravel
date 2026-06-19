@@ -19,9 +19,9 @@ Daocheng Yading sits at the edge of the Tibetan Plateau in western Sichuan, at a
 
 ## Table of contents
 
-![Daocheng Yading — Why Come Here](https://images.pexels.com/photos/11022633/pexels-photo-11022633.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Why Come Here
+
+![Daocheng Yading — Why Come Here](https://images.pexels.com/photos/11022633/pexels-photo-11022633.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 The honest answer is: because nowhere else in China combines Tibetan Buddhist culture, genuine mountain wilderness, and autumn color at this scale. Jiuzhaigou has the turquoise lakes but lacks the mountains and the sacred atmosphere. Tibet itself has the peaks but is more restricted and harder to reach for most visitors. Daocheng Yading occupies a unique position — accessible with effort, genuinely remote in feel, and culturally rich in ways that go beyond scenery.
 

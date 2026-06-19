@@ -17,9 +17,9 @@ China's ancient villages offer something the cities cannot: the physical texture
 
 ## Table of contents
 
-![China's Preserved Ancient Villages — Hongcun and Xidi: Anhui's UNESCO Villages](https://images.pexels.com/photos/3975364/pexels-photo-3975364.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Hongcun and Xidi: Anhui's UNESCO Villages
+
+![China's Preserved Ancient Villages — Hongcun and Xidi: Anhui's UNESCO Villages](https://images.pexels.com/photos/3975364/pexels-photo-3975364.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 The villages of **Hongcun (宏村)** and **Xidi (西递)** in She County, Anhui Province, were inscribed on the UNESCO World Heritage List in 2000 as outstanding examples of Huizhou (徽州) architecture. Both were settled and developed by the Wang and Hu merchant clans during the Ming and Qing Dynasties, when Huizhou merchants dominated China's salt trade.
 

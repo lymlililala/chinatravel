@@ -21,9 +21,9 @@ The Yungang Grottoes alone are worth the trip from anywhere in China.
 
 ## Table of contents
 
-![Datong & Yungang Grottoes — Yungang Grottoes (云冈石窟)](https://images.pexels.com/photos/38098072/pexels-photo-38098072.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Yungang Grottoes (云冈石窟)
+
+![Datong & Yungang Grottoes — Yungang Grottoes (云冈石窟)](https://images.pexels.com/photos/38098072/pexels-photo-38098072.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Carved between 460 and 525 AD during the Northern Wei Dynasty, the Yungang Grottoes are a UNESCO World Heritage Site containing 51 major caves and 51,000 carved statues, ranging from enormous seated Buddhas to intricate relief panels smaller than your hand.
 

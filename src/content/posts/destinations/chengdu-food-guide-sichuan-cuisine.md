@@ -18,9 +18,9 @@ Chengdu holds more UNESCO Creative City of Gastronomy status than perhaps any ot
 
 ## Table of contents
 
-![Chengdu Food — Understanding Sichuan Flavour](https://images.pexels.com/photos/33965578/pexels-photo-33965578.png?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Understanding Sichuan Flavour
+
+![Chengdu Food — Understanding Sichuan Flavour](https://images.pexels.com/photos/33965578/pexels-photo-33965578.png?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Before eating, understand the key flavours:
 

@@ -21,9 +21,9 @@ Beijing has no shortage of imperial grandeur — the Forbidden City, the Temple 
 
 The palace was the summer retreat of Qing Dynasty emperors, particularly Empress Dowager Cixi who rebuilt and expanded it in the 1880s using funds notoriously diverted from the imperial navy budget. The result is 294 hectares of sculpted landscape — the southern two-thirds are Kunming Lake, the north is dominated by Longevity Hill with its pavilions, temple complex, and marble boat — all unified by the famous Long Corridor, a 728-meter painted gallery connecting the lakeside palaces.
 
-![Summer Palace Beijing — Getting There](https://images.pexels.com/photos/30836814/pexels-photo-30836814.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting There
+
+![Summer Palace Beijing — Getting There](https://images.pexels.com/photos/30836814/pexels-photo-30836814.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### By Metro
 The most convenient option. **Line 4 to Beigongmen Station** (北宫门站) brings you directly to the North Gate. Exit B is a short walk from the gate.

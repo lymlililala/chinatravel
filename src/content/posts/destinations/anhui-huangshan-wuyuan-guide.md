@@ -19,9 +19,9 @@ Anhui Province sits at the junction of China's great mountain chains and river s
 
 ## Table of contents
 
-![Anhui — Huangshan (黄山) — Yellow Mountain](https://images.pexels.com/photos/28957341/pexels-photo-28957341.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Huangshan (黄山) — Yellow Mountain
+
+![Anhui — Huangshan (黄山) — Yellow Mountain](https://images.pexels.com/photos/28957341/pexels-photo-28957341.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### Overview
 A UNESCO World Heritage Site (natural + cultural) — 72 granite peaks rising from a forest plateau, famous for four spectacles: **strange pines (奇松), bizarre rocks (怪石), sea of clouds (云海), and hot springs (温泉)**. The most photographed mountain in China.

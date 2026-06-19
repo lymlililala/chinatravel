@@ -21,9 +21,9 @@ Today, Dunhuang is also surrounded by one of China's most dramatic desert landsc
 
 ## Table of contents
 
-![Dunhuang & Mogao Caves — The Mogao Caves (莫高窟): The World's Greatest Buddhist Art Site](https://images.pexels.com/photos/32142489/pexels-photo-32142489.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Mogao Caves (莫高窟): The World's Greatest Buddhist Art Site
+
+![Dunhuang & Mogao Caves — The Mogao Caves (莫高窟): The World's Greatest Buddhist Art Site](https://images.pexels.com/photos/32142489/pexels-photo-32142489.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### What You're Visiting
 

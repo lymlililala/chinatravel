@@ -18,9 +18,9 @@ Anhui province delivers a concentrated dose of what makes China so compelling to
 
 ## Table of contents
 
-![Huangshan & Anhui — Day 1: Arrival & Tunxi Old Street](https://images.pexels.com/photos/5516765/pexels-photo-5516765.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day 1: Arrival & Tunxi Old Street
+
+![Huangshan & Anhui — Day 1: Arrival & Tunxi Old Street](https://images.pexels.com/photos/5516765/pexels-photo-5516765.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Most visitors fly into Huangshan Tunxi Airport or arrive by high-speed train at Huangshan North station. Both are close to Tunxi, the modern district that serves as the base for the region. Spend your first afternoon on Tunxi Old Street (屯溪老街), a kilometre of Ming and Qing dynasty merchant buildings that now house shops selling Anhui's famous four treasures of the study — Huizhou ink stones, ink sticks, paper, and brushes. The architecture here is a preview of the Huizhou style you'll see throughout the region: whitewashed walls, dark grey roof tiles curving up at the corners, and carved wooden doorframes.
 

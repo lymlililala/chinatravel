@@ -19,9 +19,9 @@ Chengdu has a reputation as a hotpot city, and while that's fair, it undersells 
 
 ## Table of contents
 
-![Chengdu Food Beyond Hotpot — Understanding Sichuan Spice: Mala vs Hot](https://images.pexels.com/photos/33125092/pexels-photo-33125092.png?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Understanding Sichuan Spice: Mala vs Hot
+
+![Chengdu Food Beyond Hotpot — Understanding Sichuan Spice: Mala vs Hot](https://images.pexels.com/photos/33125092/pexels-photo-33125092.png?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Before getting into specific dishes, it helps to understand what **mala** (麻辣) actually means. "Ma" (麻) refers to the numbing sensation from Sichuan peppercorns (花椒, huājiāo) — not heat, but a buzzing, tingling sensation that makes your lips feel slightly electric. "La" (辣) is the standard chilli heat.
 

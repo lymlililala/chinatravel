@@ -172,11 +172,21 @@ for (const slug of slugs) {
     continue
   }
 
-  // 构造新正文：在选定行前插入图片
+  // 构造新正文：默认在选定 H2 之前插图；但若文章含 "## Table of contents" 占位，
+  // 紧跟其后的首个内容章节，其图必须插在标题「之后」——插在标题之前会落入主题的
+  // 目录渲染区（ToC 占位 ↔ 下一个 ##）被吞掉、线上不显示。其余照旧插在标题之前。
+  const tocLine = lines.findIndex(l => /^##\s+table of contents/i.test(l))
+  const afterAnchor = new Set()
+  if (tocLine >= 0) {
+    for (const li of picks) {
+      if (li > tocLine && !lines.slice(tocLine + 1, li).some(l => /^##\s/.test(l))) afterAnchor.add(li)
+    }
+  }
   const newLines = []
   for (let i = 0; i < lines.length; i++) {
-    if (inserts[i]) newLines.push(inserts[i])      // 插在该 H2 之前
+    if (inserts[i] && !afterAnchor.has(i)) newLines.push(inserts[i])          // 插在该 H2 之前
     newLines.push(lines[i])
+    if (inserts[i] && afterAnchor.has(i)) { newLines.push(''); newLines.push(inserts[i].trim()) } // 插在该 H2 之后
   }
   let newBody = newLines.join('\n')
 

@@ -19,9 +19,9 @@ This 5-day itinerary covers the city highlights plus the extraordinary Wulong ka
 
 ## Table of contents
 
-![Chongqing & Surrounding Area — Before You Arrive](https://images.pexels.com/photos/34142836/pexels-photo-34142836.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Before You Arrive
+
+![Chongqing & Surrounding Area — Before You Arrive](https://images.pexels.com/photos/34142836/pexels-photo-34142836.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **Getting there:** Chongqing Jiangbei International Airport (CKG) connects to most domestic cities and has international routes to Southeast Asia, Japan, and South Korea. Within China, Chongqing is also accessible by high-speed rail from Chengdu (70 minutes, ¥131), Xi'an (2.5 hours, ¥249), and Guiyang (2 hours, ¥180).
 

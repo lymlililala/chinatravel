@@ -17,9 +17,9 @@ The tulou (土楼, "earth buildings") of Fujian are among China's most architect
 
 ## Table of contents
 
-![Fujian Tulou — Understanding Tulou Architecture](https://images.pexels.com/photos/35268678/pexels-photo-35268678.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Understanding Tulou Architecture
+
+![Fujian Tulou — Understanding Tulou Architecture](https://images.pexels.com/photos/35268678/pexels-photo-35268678.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### The purpose
 

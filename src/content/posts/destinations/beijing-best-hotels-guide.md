@@ -18,9 +18,9 @@ The best neighbourhood to stay in Beijing depends entirely on what you want from
 
 ## Table of contents
 
-![Stay Beijing — Neighbourhood Guide: Where to Base Yourself](https://images.pexels.com/photos/36647050/pexels-photo-36647050.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Neighbourhood Guide: Where to Base Yourself
+
+![Stay Beijing — Neighbourhood Guide: Where to Base Yourself](https://images.pexels.com/photos/36647050/pexels-photo-36647050.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### Dongcheng District: The Hutong Heartland
 

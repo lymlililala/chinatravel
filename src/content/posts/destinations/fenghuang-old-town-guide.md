@@ -18,9 +18,9 @@ Fenghuang (凤凰, Phoenix) is one of those places where the popular image is ac
 
 ## Table of contents
 
-![Fenghuang Ancient Town — The Old Town Layout](https://images.pexels.com/photos/34935135/pexels-photo-34935135.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Old Town Layout
+
+![Fenghuang Ancient Town — The Old Town Layout](https://images.pexels.com/photos/34935135/pexels-photo-34935135.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Fenghuang Ancient Town sits along a bend in the Tuojiang River in western Hunan, 250km west of Changsha. The old town occupies the north bank of the river, with the stilted houses (吊脚楼) built on stilts over the water along the riverfront. Behind them, two main commercial streets run roughly parallel to the river — Dongzheng Street (东正街) and Nanhua Street (南华街) — lined with Ming and Qing Dynasty buildings that now house guesthouses, restaurants, silver shops, and craft stores.
 

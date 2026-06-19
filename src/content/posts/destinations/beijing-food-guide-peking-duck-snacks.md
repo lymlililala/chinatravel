@@ -17,9 +17,9 @@ Beijing's food scene is one of China's most distinctive — shaped by imperial c
 
 ## Table of contents
 
-![Beijing Food — The Crown Jewel: Peking Duck (北京烤鸭)](https://images.pexels.com/photos/31135839/pexels-photo-31135839.png?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Crown Jewel: Peking Duck (北京烤鸭)
+
+![Beijing Food — The Crown Jewel: Peking Duck (北京烤鸭)](https://images.pexels.com/photos/31135839/pexels-photo-31135839.png?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### What makes it different
 

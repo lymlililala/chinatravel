@@ -21,9 +21,9 @@ The name comes from the gong-and-drum towers visible from the north end of the a
 
 ## Table of contents
 
-![Nanluoguxiang Hutong Beijing — The Main Lane](https://images.pexels.com/photos/6122271/pexels-photo-6122271.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Main Lane
+
+![Nanluoguxiang Hutong Beijing — The Main Lane](https://images.pexels.com/photos/6122271/pexels-photo-6122271.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 The central alley of Nanluoguxiang is a commercial strip — busier and more souvenir-oriented than it was 15 years ago, but still atmospheric. The buildings are genuinely old, the scale is genuinely human (nothing taller than one or two storeys, no cars), and on a good day the sensory combination of roasting lamb skewers, traditional architecture, and Beijing cold air is distinctive.
 

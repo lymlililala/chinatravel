@@ -18,9 +18,9 @@ Chongqing is not Sichuan. Most outsiders — and many travel websites — treat 
 
 ## Table of contents
 
-![Chongqing Food — Chongqing Hotpot vs Sichuan Hotpot: What's Different](https://images.pexels.com/photos/30882910/pexels-photo-30882910.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Chongqing Hotpot vs Sichuan Hotpot: What's Different
+
+![Chongqing Food — Chongqing Hotpot vs Sichuan Hotpot: What's Different](https://images.pexels.com/photos/30882910/pexels-photo-30882910.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Both use the mala (numbing-spicy) broth. But:
 

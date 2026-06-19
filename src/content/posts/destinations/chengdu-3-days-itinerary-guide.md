@@ -20,9 +20,9 @@ This itinerary covers the pandas, a day trip to the Leshan Giant Buddha, and eno
 
 ## Table of contents
 
-![Chengdu — Before You Arrive](https://images.pexels.com/photos/3945233/pexels-photo-3945233.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Before You Arrive
+
+![Chengdu — Before You Arrive](https://images.pexels.com/photos/3945233/pexels-photo-3945233.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **Getting there:** Chengdu Tianfu International Airport (TFU) opened in 2021 and handles most long-haul routes. The older Shuangliu Airport (CTU) still handles domestic and some international flights. Both connect to the metro: Line 6 from Tianfu Airport, Line 10 from Shuangliu. Journey to city center is 40-60 minutes, ¥7-10.
 

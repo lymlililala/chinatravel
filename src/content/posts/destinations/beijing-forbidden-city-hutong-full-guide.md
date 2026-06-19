@@ -28,9 +28,9 @@ Beijing is one of the world's great capital cities — 3,000 years of continuous
 
 ## Table of contents
 
-![Beijing — Top Attractions](https://images.pexels.com/photos/34449552/pexels-photo-34449552.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Top Attractions
+
+![Beijing — Top Attractions](https://images.pexels.com/photos/34449552/pexels-photo-34449552.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### The Forbidden City (故宫)
 The world's largest imperial palace complex — 980 buildings, 8,728 rooms, and 72 hectares of vermilion walls and golden rooftops. Built between 1406–1420, it was the administrative and ceremonial centre of the Chinese Empire for nearly 500 years.

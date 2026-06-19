@@ -20,9 +20,9 @@ It's sometimes compared to a Chinese Marseille: a port city with good seafood, c
 
 ## Table of contents
 
-![Dalian — Colonial Architecture Districts](https://images.pexels.com/photos/28490351/pexels-photo-28490351.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Colonial Architecture Districts
+
+![Dalian — Colonial Architecture Districts](https://images.pexels.com/photos/28490351/pexels-photo-28490351.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### Zhongshan Square (中山广场)
 The centerpiece of Russian urban planning in Dalian. A perfect circular plaza with ten wide avenues radiating outward like a star, surrounded by ten Beaux-Arts and neo-classical buildings from the Russian and Japanese periods. The buildings are still in use — banks, government offices, hotels — and the square is genuinely impressive for its consistency and scale.

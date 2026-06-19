@@ -20,9 +20,9 @@ This itinerary focuses on the essentials without overloading your schedule. Beij
 
 ## Table of contents
 
-![Beijing — Before You Arrive](https://images.pexels.com/photos/33716157/pexels-photo-33716157.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Before You Arrive
+
+![Beijing — Before You Arrive](https://images.pexels.com/photos/33716157/pexels-photo-33716157.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **Getting there:** Most international visitors arrive at Beijing Capital International Airport (PEK) or the newer Beijing Daxing Airport (PKX). From Capital Airport, take the Airport Express to Dongzhimen station (¥25, ~25 min), then transfer to the metro. From Daxing, take Line Daxing Express to the city (¥35, ~35 min to Caoqiao).
 

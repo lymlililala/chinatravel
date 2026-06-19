@@ -15,9 +15,9 @@ ogImage: "https://images.unsplash.com/photo-1506929568602-7d88b7639e7d?w=1200&q=
 
 ## Table of contents
 
-![Maoming Guangdong — Why Maoming Deserves Your Attention](https://images.pexels.com/photos/4036764/pexels-photo-4036764.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Why Maoming Deserves Your Attention
+
+![Maoming Guangdong — Why Maoming Deserves Your Attention](https://images.pexels.com/photos/4036764/pexels-photo-4036764.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Ask most Chinese travellers about Guangdong and they will name Guangzhou, Shenzhen, or maybe Foshan. Maoming (茂名) rarely comes up, and that is exactly its appeal. Sitting on Guangdong's southwestern coast about 350 km from Guangzhou, this city of 6 million operates at a pace that feels closer to a county town than a major prefecture. The skyscraper density drops sharply. The streets are wider. People sit outside tea houses in plastic stools at 10 AM on a Tuesday, seemingly without a care in the world.
 

@@ -17,9 +17,9 @@ ogImage: "https://images.pexels.com/photos/12321159/pexels-photo-12321159.jpeg?a
 
 ## Table of contents
 
-![Sanxingdui Museum Chengdu — The Discovery That Rewrote Bronze Age History](https://images.pexels.com/photos/16499653/pexels-photo-16499653.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Discovery That Rewrote Bronze Age History
+
+![Sanxingdui Museum Chengdu — The Discovery That Rewrote Bronze Age History](https://images.pexels.com/photos/16499653/pexels-photo-16499653.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 In 1986, workers at a brick factory in Guanghan, Sichuan Province, struck something unexpected in the earth. What they found over the following weeks transformed the understanding of ancient Chinese civilisation: two sacrificial pits containing thousands of bronze, jade, gold, and ivory objects unlike anything ever seen before in China.
 

@@ -21,9 +21,9 @@ Dali has been a favourite with Chinese bohemians, backpackers, and long-term tra
 
 ## Table of contents
 
-![Dali — Dali Old Town (大理古城)](https://images.pexels.com/photos/31427560/pexels-photo-31427560.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Dali Old Town (大理古城)
+
+![Dali — Dali Old Town (大理古城)](https://images.pexels.com/photos/31427560/pexels-photo-31427560.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 The old town is a compact grid of Ming and Qing dynasty streets enclosed by original city walls and four gate towers. It is almost entirely pedestrianised and fully walkable. The main tourist artery, Foreigners' Street (洋人街), is lined with cafés, bars, and guesthouses — many run by expats who came for a week and never left.
 

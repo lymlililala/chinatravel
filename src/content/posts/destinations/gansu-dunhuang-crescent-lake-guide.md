@@ -21,9 +21,9 @@ The image is so perfectly composed it looks artificial: an emerald-green crescen
 
 Dunhuang's Crescent Lake (月牙泉) and Singing Sand Dunes (鸣沙山) are the most visually dramatic natural attraction on China's Silk Road. Combined with the nearby Mogao Caves — one of the world's greatest repositories of Buddhist art — they make Dunhuang one of China's most essential single-destination experiences.
 
-![Dunhuang Crescent Lake & Singing Sand Dunes — Mingsha Shan — Singing Sand Dunes (鸣沙山)](https://images.pexels.com/photos/9383499/pexels-photo-9383499.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Mingsha Shan — Singing Sand Dunes (鸣沙山)
+
+![Dunhuang Crescent Lake & Singing Sand Dunes — Mingsha Shan — Singing Sand Dunes (鸣沙山)](https://images.pexels.com/photos/9383499/pexels-photo-9383499.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### Why the Dunes "Sing"
 

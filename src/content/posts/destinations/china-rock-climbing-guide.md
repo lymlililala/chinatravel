@@ -19,9 +19,9 @@ China has some of the world's most spectacular rock climbing terrain, and almost
 
 ## Table of contents
 
-![Rock Climbing China — Yangshuo: China's Climbing Capital](https://images.pexels.com/photos/33899273/pexels-photo-33899273.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Yangshuo: China's Climbing Capital
+
+![Rock Climbing China — Yangshuo: China's Climbing Capital](https://images.pexels.com/photos/33899273/pexels-photo-33899273.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Yangshuo (阳朔) in Guangxi province is where serious international climbing interest in China started. The town sits in the heart of the Li River karst landscape — those vertical limestone towers you've seen in paintings and on the 20-yuan banknote — and the climbing here is as visually dramatic as rock climbing gets anywhere in the world.
 

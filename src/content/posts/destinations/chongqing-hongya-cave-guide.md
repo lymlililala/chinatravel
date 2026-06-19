@@ -20,9 +20,9 @@ The visual doesn't disappoint in person. Chongqing's riverfront hillside setting
 
 ## Table of contents
 
-![Chongqing Hongya Cave & Riverside District — What Hongya Cave Actually Is](https://images.pexels.com/photos/30606159/pexels-photo-30606159.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## What Hongya Cave Actually Is
+
+![Chongqing Hongya Cave & Riverside District — What Hongya Cave Actually Is](https://images.pexels.com/photos/30606159/pexels-photo-30606159.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Hongya Cave is a commercial complex built in a traditional stilted-building style in 2006. It's not an ancient building — it was constructed to replace an older market on the same cliff site. The architecture references the diaojiaolou style that Chongqing's residents historically built on steep hillsides, overhanging the river below.
 

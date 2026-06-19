@@ -23,9 +23,9 @@ The monk Haitong who initiated the project donated his own eyes (scooped out to 
 
 Today the Buddha sits as it has for 1,200 years, hands on knees, eyes half-closed, watching the river confluence below. It's a sight that is every bit as overwhelming as photographs suggest.
 
-![Leshan Giant Buddha Chengdu Trip — Understanding the Visit Options](https://images.pexels.com/photos/17213280/pexels-photo-17213280.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Understanding the Visit Options
+
+![Leshan Giant Buddha Chengdu Trip — Understanding the Visit Options](https://images.pexels.com/photos/17213280/pexels-photo-17213280.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 There are two fundamentally different ways to experience the Leshan Giant Buddha, and combining them gives you the complete picture.
 

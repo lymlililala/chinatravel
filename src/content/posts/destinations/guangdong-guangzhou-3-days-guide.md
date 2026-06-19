@@ -21,9 +21,9 @@ Guangzhou (广州, Canton) is a hard city to love at first glance — it's spraw
 
 The 3-day itinerary below prioritizes what Guangzhou does best: food culture, colonial history, and the enormous vitality of a city that's been the commercial heart of southern China for 2,000 years.
 
-![Guangzhou — Day 1: Old Canton — Shamian Island, Liwan, and Xinhua Garden](https://images.pexels.com/photos/28697596/pexels-photo-28697596.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day 1: Old Canton — Shamian Island, Liwan, and Xinhua Garden
+
+![Guangzhou — Day 1: Old Canton — Shamian Island, Liwan, and Xinhua Garden](https://images.pexels.com/photos/28697596/pexels-photo-28697596.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### Morning: Dim Sum at a Traditional Teahouse (7:00–9:30am)
 

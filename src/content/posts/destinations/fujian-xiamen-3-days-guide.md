@@ -21,9 +21,9 @@ Xiamen (厦门) has a quality that's difficult to pin down but immediately felt:
 
 The three days below balance the famous Gulangyu Island experience with the less-touristed parts of Xiamen that give the city its actual character.
 
-![Xiamen — Day 1: Gulangyu Island](https://images.pexels.com/photos/37714926/pexels-photo-37714926.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day 1: Gulangyu Island
+
+![Xiamen — Day 1: Gulangyu Island](https://images.pexels.com/photos/37714926/pexels-photo-37714926.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### Getting to Gulangyu
 

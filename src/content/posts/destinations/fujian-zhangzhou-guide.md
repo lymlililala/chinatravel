@@ -22,9 +22,9 @@ Zhangzhou sits in the southern Fujian coastal plain, hemmed in by mountains to t
 
 Most visitors use Xiamen as their Fujian base and take a day trip to the Tulou. Staying in Zhangzhou allows you to go further, spend more time, and access parts of the Zhangpu county flower fields that are difficult as a day trip from Xiamen. The city itself has underrated historical depth for those who stop to look.
 
-![Zhangzhou Fujian — Fujian Tulou Day Trip from Zhangzhou](https://images.pexels.com/photos/34237338/pexels-photo-34237338.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Fujian Tulou Day Trip from Zhangzhou
+
+![Zhangzhou Fujian — Fujian Tulou Day Trip from Zhangzhou](https://images.pexels.com/photos/34237338/pexels-photo-34237338.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 The Fujian Tulou (福建土楼, earthen buildings) are the circular and square communal fortified buildings of the Hakka and Minnan peoples — multi-storey structures housing dozens or hundreds of families in a single self-contained defensive compound. The best clusters are in the mountains of Nanjing County (南靖县) and Yongding County (永定县), approximately 1-2 hours from Zhangzhou.
 

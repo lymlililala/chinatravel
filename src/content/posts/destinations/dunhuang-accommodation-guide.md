@@ -19,9 +19,9 @@ Dunhuang sits at the edge of the Gobi Desert in Gansu Province, where the Silk R
 
 ## Table of contents
 
-![Stay Dunhuang — The Four Accommodation Zones](https://images.pexels.com/photos/12139695/pexels-photo-12139695.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Four Accommodation Zones
+
+![Stay Dunhuang — The Four Accommodation Zones](https://images.pexels.com/photos/12139695/pexels-photo-12139695.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### City Centre: Practical Base
 

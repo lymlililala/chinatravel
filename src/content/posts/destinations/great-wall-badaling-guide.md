@@ -21,9 +21,9 @@ The wall stretches over 21,000 kilometres across northern China. For visitors ba
 
 ## Table of contents
 
-![Great Wall China — Which Section Should You Visit?](https://images.pexels.com/photos/7883792/pexels-photo-7883792.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Which Section Should You Visit?
+
+![Great Wall China — Which Section Should You Visit?](https://images.pexels.com/photos/7883792/pexels-photo-7883792.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 This is the single most important decision for your Great Wall day trip. Each section has a completely different character.
 

@@ -20,9 +20,9 @@ Most visitors come for one of two things: Changbai Mountain and its volcanic cra
 
 ## Table of contents
 
-![Jilin Province — Changbai Mountain (长白山)](https://images.pexels.com/photos/34257242/pexels-photo-34257242.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Changbai Mountain (长白山)
+
+![Jilin Province — Changbai Mountain (长白山)](https://images.pexels.com/photos/34257242/pexels-photo-34257242.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Changbai Mountain (literally "Ever-White Mountain") straddles the border between China and North Korea. The caldera at the summit, formed by a massive volcanic eruption around 946 AD, contains **Heaven Lake (天池)** — a deep blue crater lake at 2,189 metres elevation that is one of the most visually striking landscapes in China.
 

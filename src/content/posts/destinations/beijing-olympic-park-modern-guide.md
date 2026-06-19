@@ -17,9 +17,9 @@ ogImage: "https://images.pexels.com/photos/7462950/pexels-photo-7462950.jpeg?aut
 
 ## Table of contents
 
-![Beijing Olympic Park — Dual Olympic City — A Unique Distinction](https://images.pexels.com/photos/30941720/pexels-photo-30941720.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Dual Olympic City — A Unique Distinction
+
+![Beijing Olympic Park — Dual Olympic City — A Unique Distinction](https://images.pexels.com/photos/30941720/pexels-photo-30941720.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Beijing achieved something no other city on earth has managed: hosting both the Summer and Winter Olympic Games. The 2008 Olympics announced China's arrival as a global superpower; the 2022 Winter Olympics reinforced that status under very different circumstances. The Olympic Park (奥林匹克公园) stands as the physical embodiment of both achievements — a district of extraordinary architecture, expansive green space, and sporting heritage that has become one of Beijing's most popular destinations.
 

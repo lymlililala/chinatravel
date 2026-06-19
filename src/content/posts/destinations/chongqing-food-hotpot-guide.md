@@ -22,9 +22,9 @@ This guide is for travellers who want to eat in Chongqing the way locals do: at 
 
 ---
 
-![Chongqing Food — Why Chongqing Food is Different](https://images.pexels.com/photos/14785197/pexels-photo-14785197.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Why Chongqing Food is Different
+
+![Chongqing Food — Why Chongqing Food is Different](https://images.pexels.com/photos/14785197/pexels-photo-14785197.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Chongqing cuisine is technically part of the broader Sichuan culinary tradition but has evolved separately enough to warrant its own category. The city's signature is **má là (麻辣)** — the combination of numbing Sichuan peppercorn (má, which activates a tingling nerve response rather than a burn) and chilli heat (là). Together, they create a sensation that is intense but curiously addictive: you feel your mouth go slightly numb, then the flavour complexity of whatever you are eating rushes in behind.
 

@@ -21,9 +21,9 @@ For most visitors, it's also the highlight of their Chengdu trip. Giant pandas a
 
 ## Table of contents
 
-![Chengdu Giant Panda Research Base — When to Visit](https://images.pexels.com/photos/6967900/pexels-photo-6967900.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## When to Visit
+
+![Chengdu Giant Panda Research Base — When to Visit](https://images.pexels.com/photos/6967900/pexels-photo-6967900.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **Morning arrival is essential.** Giant pandas are most active in the early hours. By 10am, most adults have eaten their morning bamboo allocation and are sleeping. Cubs remain more active slightly longer, but by 11am the energy level drops significantly.
 

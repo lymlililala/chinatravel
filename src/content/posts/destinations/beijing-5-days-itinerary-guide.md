@@ -20,9 +20,9 @@ Beijing is large and its traffic is genuinely challenging. The metro is the answ
 
 ## Table of contents
 
-![Beijing — Before You Arrive](https://images.pexels.com/photos/3053838/pexels-photo-3053838.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Before You Arrive
+
+![Beijing — Before You Arrive](https://images.pexels.com/photos/3053838/pexels-photo-3053838.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **Tickets to book in advance:**
 - **Forbidden City** — book at guگن.dpm.org.cn. Required for entry; sells out days or weeks ahead during peak season (May holidays, October Golden Week)

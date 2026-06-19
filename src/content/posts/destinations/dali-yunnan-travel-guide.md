@@ -21,9 +21,9 @@ Dali is the kind of place where visitors who planned three days end up staying t
 
 ## Table of contents
 
-![Dali Yunnan — Essential Information](https://images.pexels.com/photos/34644903/pexels-photo-34644903.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Essential Information
+
+![Dali Yunnan — Essential Information](https://images.pexels.com/photos/34644903/pexels-photo-34644903.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 | Detail | Info |
 |--------|------|

@@ -17,9 +17,9 @@ Chongqing (重庆) is unlike any other Chinese city — a municipality of 32 mil
 
 ## Table of contents
 
-![Chongqing — Why Chongqing is Different](https://images.pexels.com/photos/13427044/pexels-photo-13427044.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Why Chongqing is Different
+
+![Chongqing — Why Chongqing is Different](https://images.pexels.com/photos/13427044/pexels-photo-13427044.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### Geography shapes everything
 

@@ -19,9 +19,9 @@ Seven days covers Fujian's four distinct destinations: the European-influenced i
 
 ## Table of contents
 
-![Fujian — Getting There & Around](https://images.unsplash.com/photo-1646912951442-7a2bc5e8cd06?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw1fHwlMjYlMjBBcm91bmR8ZW58MHwwfHx8MTc4MTgzOTI0OXww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
-
 ## Getting There & Around
+
+![Fujian — Getting There & Around](https://images.unsplash.com/photo-1646912951442-7a2bc5e8cd06?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw1fHwlMjYlMjBBcm91bmR8ZW58MHwwfHx8MTc4MTgzOTI0OXww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 **Entry:** Xiamen Gaoqi International Airport (XMN) has international connections including Southeast Asia, Japan, and direct flights from some European hubs via connections. Fuzhou Airport (FOC) is the provincial capital's airport.
 

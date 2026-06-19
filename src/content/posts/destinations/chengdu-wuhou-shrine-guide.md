@@ -21,9 +21,9 @@ The complex also contains Liu Bei's actual burial mound (the Huiling Tomb), maki
 
 ## Table of contents
 
-![Wuhou Shrine Chengdu — The Historical Context](https://images.pexels.com/photos/33457680/pexels-photo-33457680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Historical Context
+
+![Wuhou Shrine Chengdu — The Historical Context](https://images.pexels.com/photos/33457680/pexels-photo-33457680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 The Three Kingdoms period (220–280 AD) is one of the most romanticised eras in Chinese history. Three kingdoms — Wei in the north, Wu in the east, and Shu Han based in Chengdu — competed for control after the collapse of the Han Dynasty. The period produced Cao Cao (ruthless northern chancellor), Liu Bei (righteous claimant to the Han throne), and Zhuge Liang (the feather-fan-wielding strategist who is still invoked as the archetype of wisdom and loyalty in Chinese culture).
 

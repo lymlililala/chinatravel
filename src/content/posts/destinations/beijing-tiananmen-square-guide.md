@@ -29,9 +29,9 @@ For foreign visitors, Tiananmen Square is often experienced as part of a Forbidd
 
 ## Table of contents
 
-![Tiananmen Square Beijing — The Flag-Raising Ceremony at Sunrise](https://images.pexels.com/photos/6476047/pexels-photo-6476047.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Flag-Raising Ceremony at Sunrise
+
+![Tiananmen Square Beijing — The Flag-Raising Ceremony at Sunrise](https://images.pexels.com/photos/6476047/pexels-photo-6476047.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 The People's Liberation Army raises the national flag at Tiananmen Square every day at exactly the moment of sunrise (adjusted daily by the calendar). The ceremony is precise, formal, and genuinely impressive as spectacle — the soldiers emerge from the Gate of Heavenly Peace, march across the Avenue of Eternal Peace (Chang'an Avenue), and raise the flag as the sun crests the horizon.
 

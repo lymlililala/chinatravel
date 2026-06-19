@@ -17,9 +17,9 @@ Kuanzhai Alley (宽窄巷子, Kuān Zhǎi Xiàng Zi — literally "Wide and Narr
 
 ## Table of contents
 
-![Chengdu's Kuanzhai Alley (Wide Narrow Alley) — The History Behind the Alleys](https://images.unsplash.com/photo-1625342177225-ee144364679f?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxoaXN0b3J5JTIwYmVoaW5kfGVufDB8MHx8fDE3ODE4MzQ4MDV8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
-
 ## The History Behind the Alleys
+
+![Chengdu's Kuanzhai Alley (Wide Narrow Alley) — The History Behind the Alleys](https://images.unsplash.com/photo-1625342177225-ee144364679f?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxoaXN0b3J5JTIwYmVoaW5kfGVufDB8MHx8fDE3ODE4MzQ4MDV8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ### The Manchu garrison origin
 

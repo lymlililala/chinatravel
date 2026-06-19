@@ -18,9 +18,9 @@ The Great Wall has 21,196km of walls, trenches, and fortifications according to 
 
 ## Table of contents
 
-![Great Wall at Mutianyu — Why Mutianyu Over Badaling](https://images.pexels.com/photos/37065039/pexels-photo-37065039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Why Mutianyu Over Badaling
+
+![Great Wall at Mutianyu — Why Mutianyu Over Badaling](https://images.pexels.com/photos/37065039/pexels-photo-37065039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Badaling is the most visited section of the Great Wall on Earth — over 10 million visitors a year, making it one of the busiest tourist sites anywhere in the world. On weekends and national holidays, the wall at Badaling is essentially a very scenic pedestrian traffic jam. The restoration is thorough and the facilities are good, but the experience of standing on the Great Wall surrounded by thousands of other people is not the experience most visitors come to China to have.
 

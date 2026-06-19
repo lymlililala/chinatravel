@@ -21,9 +21,9 @@ First-time visitors often walk the main north-south axis and feel they've "done 
 
 ## Table of contents
 
-![Forbidden City (Palace Museum) Beijing — Before You Go: Booking Tickets (Essential)](https://images.pexels.com/photos/9466387/pexels-photo-9466387.png?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Before You Go: Booking Tickets (Essential)
+
+![Forbidden City (Palace Museum) Beijing — Before You Go: Booking Tickets (Essential)](https://images.pexels.com/photos/9466387/pexels-photo-9466387.png?auto=compress&cs=tinysrgb&h=650&w=940)
 
 The Forbidden City sells strictly limited tickets online only — no tickets are available at the gate. This is non-negotiable.
 

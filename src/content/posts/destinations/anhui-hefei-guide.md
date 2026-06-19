@@ -23,9 +23,9 @@ Hefei is China's "science city" — a deliberate national project to build a maj
 
 And then there's Chao Lake — one of China's five largest freshwater lakes, sitting right on Hefei's doorstep.
 
-![Hefei Anhui — Top Sights in Hefei](https://images.pexels.com/photos/30607308/pexels-photo-30607308.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Top Sights in Hefei
+
+![Hefei Anhui — Top Sights in Hefei](https://images.pexels.com/photos/30607308/pexels-photo-30607308.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### Bao Gong Temple Scenic Area (包公园)
 
