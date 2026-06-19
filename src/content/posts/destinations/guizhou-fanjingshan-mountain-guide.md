@@ -10,6 +10,7 @@ faq:
   - question: "When is the best time to visit Fanjingshan?"
     answer: "Late spring through autumn offers the best weather, with clear days giving the famous sea-of-clouds views around the summit. Avoid Chinese public holidays when the summit stairs become extremely crowded, and check the forecast since mist and rain are common on the mountain."
 description: "Climb Fanjingshan in Guizhou — the world's newest UNESCO World Natural Heritage Site, famous for the extraordinary mushroom-shaped twin rock formations at the summit, ancient Buddhist temples clinging to vertical cliffs, and some of the richest temperate forest biodiversity in China."
+ogImage: "https://images.pexels.com/photos/21815283/pexels-photo-21815283.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Guizhou"
 tags: ["guizhou", "fanjingshan", "UNESCO", "sacred-mountain", "mushroom-rock", "biodiversity", "buddhist-temple", "trekking", "tongren"]
@@ -22,6 +23,8 @@ At the summit of **Fanjingshan (梵净山)** — Brahma's Pure Mountain — two 
 This is the **New Golden Summit (新金顶)** of Fanjingshan, the most distinctive summit landscape in Guizhou and one of the most astonishing natural-architectural combinations in China. Fanjingshan was added to the **UNESCO World Natural Heritage List in 2018** — the fifth consecutive year in which a Chinese site received the designation — in recognition of its extraordinary biodiversity: it is home to over 7,000 plant species and 2,800 animal species, including the critically endangered **Guizhou snub-nosed monkey (黔金丝猴)**.
 
 ---
+
+![Fanjingshan UNESCO — The New Golden Summit](https://images.pexels.com/photos/17586883/pexels-photo-17586883.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The New Golden Summit
 
@@ -40,6 +43,8 @@ At the top, two small temple rooms — one dedicated to Maitreya (Future Buddha)
 **This summit is physically demanding and exposed.** Those with fear of heights should be aware of the nature of the staircase before committing to the ascent.
 
 ---
+
+![Fanjingshan UNESCO — Biodiversity: Why UNESCO Listed It](https://images.unsplash.com/photo-1632822631500-8dd784b705bb?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw0fHxCaW9kaXZlcnNpdHl8ZW58MHwwfHx8MTc4MTg0NzAyOHww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## Biodiversity: Why UNESCO Listed It
 
@@ -62,6 +67,8 @@ The mountain's **elevation gradient** (500 m to 2,570 m) encompasses several dis
 Fanjingshan receives extremely high rainfall (over 2,600 mm/year) and is cloud-covered for approximately 200–240 days per year. This creates a **mossy, cloud forest atmosphere** even on clear days — the lower trunks and rock faces are thick with bryophytes, liverworts, and ferns.
 
 ---
+
+![Fanjingshan UNESCO — Trekking to the Summit](https://images.pexels.com/photos/12247773/pexels-photo-12247773.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Trekking to the Summit
 

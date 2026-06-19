@@ -10,9 +10,12 @@ tags:
   - nature
   - waterfalls
 description: "Huangguoshu Waterfall — China's largest waterfall (77m tall, 101m wide) — and the surrounding Anshun area waterfalls, cave system, and the Puding karst landscape that makes this the most waterfall-dense region in China."
+ogImage: "https://images.pexels.com/photos/32563113/pexels-photo-32563113.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Huangguoshu (黄果树, "Yellow Fruit Tree") Waterfall is China's largest — 77 metres tall, 101 metres wide, with a walkable cave behind the curtain of falling water. The surrounding Guizhou karst landscape contains dozens of additional falls and the Tianxing Bridge Scenic Area cave systems, making the Anshun (安顺) region one of the most concentrated waterfall landscapes anywhere.
+
+![Guizhou Huangguoshu Waterfall & Anshun — Huangguoshu Waterfall](https://images.pexels.com/photos/8776832/pexels-photo-8776832.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Huangguoshu Waterfall
 
@@ -22,6 +25,8 @@ Huangguoshu (黄果树, "Yellow Fruit Tree") Waterfall is China's largest — 77
 
 **Best season**: Summer (July–September) for maximum flow — the full width and height in operation. Spring and autumn for lower but still impressive flows. Winter: significantly reduced.
 
+![Guizhou Huangguoshu Waterfall & Anshun — The Broader Huangguoshu Scenic Area](https://images.pexels.com/photos/8776828/pexels-photo-8776828.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The Broader Huangguoshu Scenic Area
 
 The scenic area isn't just the main waterfall — it's a connected system of 18 falls across the Baihe River and its tributaries:
@@ -29,6 +34,8 @@ The scenic area isn't just the main waterfall — it's a connected system of 18 
 **Doupotang Waterfall (陡坡塘)**: 105m wide (wider than the main fall), 21m tall — the widest waterfall in China. A different visual character from the tall main fall.
 
 **Tianxing Bridge (天星桥) Scenic Area**: 3km downstream — a karst water park where the river flows through a maze of limestone formations, with suspension bridges, subterranean passages, and forested islands. Often the most scenic section by visitor consensus.
+
+![Guizhou Huangguoshu Waterfall & Anshun — Anshun City and Surroundings](https://images.pexels.com/photos/12321161/pexels-photo-12321161.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Anshun City and Surroundings
 

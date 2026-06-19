@@ -12,12 +12,14 @@ tags:
   - grand-song
   - drum-tower
 description: "Immerse yourself in the extraordinary Dong minority culture of Liping in southeastern Guizhou, where polyphonic Grand Songs echo through wooden villages, drum towers rise like exclamation marks above tiled rooftops, and the magnificent Chengyang Wind-Rain Bridge spans the river in a feat of nail-free engineering. This 2026 guide covers the best Dong villages for authentic cultural experiences, the UNESCO-recognised Grand Song tradition, local cuisine, indigo dyeing workshops, and practical advice for navigating this increasingly accessible corner of Guizhou's minority heartland."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.unsplash.com/photo-1547448020-9f1fa36063fe?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwyfHxMaXBpbmclMjBHdWl6aG91fGVufDB8MHx8fDE3ODE4NDcwNTl8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
 ---
 
 ## Table of contents
 
 ## Liping — The Heart of Dong Culture
+
+![Liping Guizhou — Liping — The Heart of Dong Culture](https://images.unsplash.com/photo-1547448020-9f1fa36063fe?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwyfHxMaXBpbmclMjBMaXBpbmclMjBHdWl6aG91fGVufDB8MHx8fDE3ODE4NDcwNjV8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 If you want to understand the Dong (侗) people — one of China's most culturally distinctive ethnic minorities — you need to come to Liping (黎平). This county in southeastern Guizhou is the cultural epicentre of the Dong world, a landscape of wooden villages, drum towers, wind-rain bridges, and a musical tradition so extraordinary that UNESCO has recognised it as Intangible Cultural Heritage of Humanity.
 
@@ -57,6 +59,8 @@ The bridge connects a cluster of eight Dong villages, each with its own drum tow
 
 **Dazhai Village:** The largest village, with a drum tower that's particularly impressive at sunset.
 
+![Liping Guizhou — Zhaoxing Dong Village (肇兴侗寨)](https://images.pexels.com/photos/37981398/pexels-photo-37981398.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Zhaoxing Dong Village (肇兴侗寨)
 
 ### The Five Drum Towers
@@ -88,6 +92,8 @@ The village has a fine drum tower, a wind-rain bridge, and — most importantly 
 **Getting there:** No public transport. Hire a car from Zhaoxing for ¥200-300 ($28-42 USD) for the round trip. The road is unpaved for the last 10 km — not suitable for low-clearance vehicles.
 
 **Staying overnight:** Several families offer basic homestay accommodation for ¥50-80 ($7-11 USD) per person including meals.
+
+![Liping Guizhou — Dong Crafts — Indigo Dyeing and Embroidery](https://images.pexels.com/photos/35996127/pexels-photo-35996127.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Dong Crafts — Indigo Dyeing and Embroidery
 

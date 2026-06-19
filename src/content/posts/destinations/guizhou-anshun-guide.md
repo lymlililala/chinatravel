@@ -12,12 +12,14 @@ tags:
   - zhijin-cave
   - buyi
 description: "Discover Anshun, the gateway to Guizhou's most spectacular natural wonders — including Huangguoshu, the largest waterfall in Asia, and the vast Zhijin Cave with its cathedral-scale chambers. This 2026 guide covers both iconic sites in detail, plus the charming Buyi minority stone villages, the historic Anshun old town, local Guizhou cuisine from sour soup to sticky rice, and practical transport advice for exploring this increasingly popular region of southwest China."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/8776833/pexels-photo-8776833.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
 
 ## Anshun — Guizhou's Natural Wonder Capital
+
+![Anshun Guizhou — Anshun — Guizhou's Natural Wonder Capital](https://images.pexels.com/photos/35557996/pexels-photo-35557996.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Anshun (安顺) has been dealt an extraordinary geographical hand. Within a 100 km radius of this modest Guizhou city, you'll find Asia's largest waterfall, one of the world's most impressive caves, traditional Buyi minority stone villages, and a karst landscape so dramatic it makes other limestone regions look demure. For years, Anshun was a sleepy backwater, bypassed by travellers heading to Guizhou's more famous Miao and Dong minority areas. But improved transport connections and growing domestic tourism have put it firmly on the map.
 
@@ -79,6 +81,8 @@ The cave was only properly explored in 1980, and significant sections remain und
 - **Photography:** Tripods are not permitted (the paths are too narrow and crowded). A camera with good low-light performance is essential
 - **Crowds:** Visit on a weekday if possible — the narrow paths become congested with tour groups on weekends
 
+![Anshun Guizhou — Buyi Minority Stone Villages](https://images.pexels.com/photos/27219994/pexels-photo-27219994.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Buyi Minority Stone Villages
 
 ### Tianlong Tunpu (天龙屯堡)
@@ -124,6 +128,8 @@ The old section of Anshun retains some traditional architecture and has a lively
 **Anshun Old Town Night Market:** The best eating in the city. Dozens of stalls serving local specialities. Budget ¥20-40 ($2.80-5.50 USD) per person.
 
 **Anshun Roast Fish Street (烤鱼一条街):** A block of restaurants near the old town specialising in roast fish. Meals ¥40-60 ($5.50-8.30 USD) per person.
+
+![Anshun Guizhou — Practical Information](https://images.pexels.com/photos/8776830/pexels-photo-8776830.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Practical Information
 

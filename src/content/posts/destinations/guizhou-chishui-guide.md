@@ -12,7 +12,7 @@ tags:
   - waterfall
   - nature
 description: "Chishui in northern Guizhou is one of China's most underrated natural destinations — UNESCO-recognized Danxia red rock formations, vast bamboo sea valleys, and spectacular waterfalls including the four-tier Sidonggou cascade. This 2026 guide covers all major scenic areas, how to get here from Guiyang or Chongqing, best seasons, and practical tips for exploring this extraordinary landscape."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/8776826/pexels-photo-8776826.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -22,6 +22,8 @@ Chishui (赤水) doesn't come up in most Guizhou itineraries, which is a shame b
 Add to this an enormous bamboo sea that covers the surrounding valleys, multiple waterfalls including China's most voluminous outside of Guizhou province, and a small city that still operates as a real working town (not a tourist construct), and you have a destination that rewards the extra effort of getting there.
 
 ## The Danxia Landscape
+
+![Chishui Guizhou — The Danxia Landscape](https://images.pexels.com/photos/37193108/pexels-photo-37193108.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Danxia is a type of landscape formed from reddish sandstone that has been eroded into cliffs, towers, ravines, and cave systems over millions of years. Chishui's Danxia is particularly impressive because the formations are still active — the river continues to erode them, creating new cliff faces and exposing fresh red rock. The color is extraordinary: crimson, rust, orange, occasionally purple depending on mineral content and light.
 
@@ -74,6 +76,8 @@ The most dramatic pure Danxia scenery — a massive overhanging red cliff, rough
 ### Tianyan Scenic Area (天鹅堡)
 
 Less famous than the other areas but with excellent walkable canyon scenery. Trails through narrow red-rock slots with small waterfalls at the base. About 5km of marked trail. ¥60/person.
+
+![Chishui Guizhou — Getting to Chishui](https://images.pexels.com/photos/8776825/pexels-photo-8776825.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting to Chishui
 

@@ -12,7 +12,7 @@ tags:
   - miao-culture
   - ancient-town
 description: "Guiyang, the cool-climate capital of Guizhou Province, punches above its weight as a travel destination — the Jiaxiu Pavilion river bridge, the remarkably intact Qingyan Ancient Town, and the Miao minority cultural heartland all within easy reach. This 2026 three-day guide covers the city's best sights, Guizhou's extraordinary sour-and-spicy cuisine, and day trips to nearby village markets."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/20499728/pexels-photo-20499728.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -22,6 +22,8 @@ Guiyang (贵阳) doesn't get the attention it deserves. As the capital of Guizho
 The city sits at 1,100m in the Yunnan-Guizhou Plateau, giving it a pleasant year-round climate (cool summers, mild winters) that has made it increasingly popular as a relocation destination for Chinese people fleeing the heat and humidity of coastal cities. This influx has brought a new food and cafe culture without displacing the indigenous Miao and Buyi cultural presence that makes Guizhou distinctive.
 
 ## Day 1: Guiyang City — Jiaxiu Pavilion, Qingyan Temple, Evening Night Market
+
+![Guiyang — Day 1: Guiyang City — Jiaxiu Pavilion, Qingyan Temple, Evening Night Market](https://images.pexels.com/photos/16483319/pexels-photo-16483319.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### Morning: Jiaxiu Pavilion and Nanming River Walk (8:30am–12:00pm)
 
@@ -63,6 +65,8 @@ The Qingyan Road area (青岩路) evening food street runs from 5pm–midnight a
 - **Spicy tripe (辣椒凉粉)**: Cold starch noodles (凉粉) with chili sauce. ¥6–10.
 - **Fried noodles (炒粉)**: Thick rice noodles stir-fried with fermented ingredients. ¥12–18.
 
+![Guiyang — Day 2: Qingyan Ancient Town and Village Market (Full Day)](https://images.pexels.com/photos/36907667/pexels-photo-36907667.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Day 2: Qingyan Ancient Town and Village Market (Full Day)
 
 ### Getting to Qingyan
@@ -102,6 +106,8 @@ Miao women in traditional clothing, the sound of Miao language in the air, and m
 Guizhou hotpot is different from Sichuan hotpot — the broth base is sour soup (酸汤) rather than spicy oil. The contrast between the tart-clean broth and the ingredients is unique.
 
 **Recommended**: Several hotpot restaurants in the Zhongjian Road (中建路) area serve the authentic sour soup hotpot for ¥50–80/person.
+
+![Guiyang — Day 3: Nature or Culture — Huangguoshu Waterfall or Miao Villages](https://images.pexels.com/photos/31417628/pexels-photo-31417628.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day 3: Nature or Culture — Huangguoshu Waterfall or Miao Villages
 

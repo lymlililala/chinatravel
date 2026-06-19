@@ -18,11 +18,15 @@ Guizhou Province (贵州省) is the most ethnically diverse province in China �
 
 The trade-off: the most well-known Miao village (Xijiang/Qianhu Miao Village) has become extremely commercialised. The genuinely authentic villages require more effort to reach.
 
+![Guizhou Miao & Dong Villages — Xijiang: The Famous and Commercialised](https://images.unsplash.com/photo-1547448020-9f1fa36063fe?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw0fHx4aWppYW5nJTIwZ3VpemhvdXxlbnwwfDB8fHwxNzgxODQ3MDkyfDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
+
 ## Xijiang: The Famous and Commercialised
 
 **Xijiang Miao Village (西江千户苗寨)** is the most-visited village in Guizhou — "Thousand-Household Miao Village," the largest Miao settlement in China. The terraced wooden-stilted Miao houses climbing the valley sides are breathtakingly beautiful. The cultural performances (evening dance and music shows), the craft market, and the silver jewellery workshops are all genuine in origin — but the tourist density (2 million visitors/year) has made Xijiang feel more like a cultural theme park than a living village.
 
 **Still worth visiting**, but temper expectations for authenticity. The architecture is extraordinary; the surrounding rice terraces are beautiful; the evening light on the village is spectacular.
+
+![Guizhou Miao & Dong Villages — Beyond Xijiang: The Authentic Circuit](https://images.unsplash.com/photo-1547448020-9f1fa36063fe?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwzfHxCZXlvbmQlMjBYaWppYW5nJTIwR3VpemhvdSUyME1pYW8lMjAlMjYlMjBEb25nJTIwVmlsbGFnZXN8ZW58MHwwfHx8MTc4MTg0NzA5Nnww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## Beyond Xijiang: The Authentic Circuit
 
@@ -43,6 +47,8 @@ The Dong community life around the drum tower — evening singing groups, elder 
 Rongjiang's weekly market (held every 5 days on the Dong calendar) gathers Dong, Miao, and other minority communities from dozens of surrounding villages. Market items include hand-woven indigo-dyed cloth, medicinal plants, live animals, traditional foods, and handicrafts — genuine commerce rather than tourist market performance.
 
 **Market timing**: The specific day changes on the 5-day cycle; ask at your accommodation the day before or check with local guides.
+
+![Guizhou Miao & Dong Villages — Practical Notes](https://images.pexels.com/photos/34079281/pexels-photo-34079281.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Practical Notes
 

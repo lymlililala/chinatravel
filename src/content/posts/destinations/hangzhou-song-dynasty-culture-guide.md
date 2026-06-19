@@ -1,6 +1,7 @@
 ---
 title: "Hangzhou Song Dynasty Culture: History, Night Markets & Imperial Heritage"
 description: "Dive into Hangzhou's Song dynasty heritage — the city that served as China's imperial capital for 150 years, where the traditions of silk, tea, and refined aesthetics were perfected. Explore the Southern Song Imperial Street, Hefang Street night market, and the cultural legacy of China's most civilised dynasty."
+ogImage: "https://images.pexels.com/photos/6538000/pexels-photo-6538000.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Hangzhou"
 tags: ["hangzhou", "song-dynasty", "history", "hefang-street", "imperial-street", "culture", "silk", "heritage", "zhejiang"]
@@ -15,6 +16,8 @@ At its height, **Lin'an had a population of approximately 1.5 million people** �
 Understanding Hangzhou today requires engaging with this Song dynasty inheritance — not as museum archaeology, but as a living cultural residue that still flavours the city's character.
 
 ---
+
+![Hangzhou Song Dynasty Culture — The Southern Song Imperial Street (南宋御街)](https://images.pexels.com/photos/37436584/pexels-photo-37436584.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Southern Song Imperial Street (南宋御街)
 
@@ -31,6 +34,8 @@ The original Song dynasty palace complex covered approximately 70 hectares at th
 The Imperial Street district comes alive after dark. **Lanterns** in the Song style (octagonal, red silk, painted with seasonal motifs) illuminate the street; musicians perform near the Drum Tower playing **nanyin** (southern music, a Song-era tradition preserved in Fujian and Zhejiang); restaurants recreate Song dishes including **dongpo pork (东坡肉)** and **West Lake Vinegar Fish (西湖醋鱼)**.
 
 ---
+
+![Hangzhou Song Dynasty Culture — Hefang Street (河坊街) and the Old Medicine Alley](https://images.pexels.com/photos/34099330/pexels-photo-34099330.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Hefang Street (河坊街) and the Old Medicine Alley
 
@@ -49,6 +54,8 @@ Today Hefang Street operates as a **pedestrian tourist market** — touristy, ye
 **Hu Qingyu Tang (胡庆余堂):** The most famous traditional medicine shop in Hangzhou, founded 1874 by a Qing dynasty merchant. Its headquarters on Dajing Lane (大井巷) is a museum of Qing commercial architecture and Chinese pharmacology; the dispensary behind the front museum is still operational.
 
 ---
+
+![Hangzhou Song Dynasty Culture — Song Dynasty Food Heritage](https://images.pexels.com/photos/8257844/pexels-photo-8257844.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Song Dynasty Food Heritage
 

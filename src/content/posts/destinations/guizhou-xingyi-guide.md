@@ -58,6 +58,8 @@ Wanfenglin is the more famous of Xingyi's two major natural attractions, and it 
 **Buyi Villages:**
 The valley between the peaks is dotted with Buyi minority villages (布依族寨子) whose distinctive architecture — stone-walled houses with slate roofs — blends into the karst landscape. The villages are inhabited and semi-functioning agricultural communities; cycling through them is one of the best aspects of the Wanfenglin experience.
 
+![Xingyi Guizhou — Maling River Canyon (马岭河峡谷)](https://images.pexels.com/photos/12174046/pexels-photo-12174046.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Maling River Canyon (马岭河峡谷)
 
 The Maling River Canyon is the geological counterpart to Wanfenglin — where Wanfenglin is about peaks rising above you, the canyon is about the same limestone plateau collapsing below. The Maling River has cut a gorge 280 meters deep through the karst plateau, creating what feels like a secret world invisible from the surface.
@@ -89,6 +91,8 @@ Xingyi's old town area, while less spectacular than the natural sights, has a fu
 **Xingyi Museum (兴义博物馆):** Houses a significant collection of Guizhou minority artifacts, including Buyi and Miao traditional dress, silver jewelry, and agricultural tools. The natural history section covers the geology of the Wanfenglin karst. Entry free.
 
 **Minority cultural performances:** Several restaurants and tea houses in the old town area offer evening performances of Buyi and Miao music and dance — quality varies; ask your hotel for current recommendations.
+
+![Xingyi Guizhou — Buyi Minority Culture (布依族)](https://images.pexels.com/photos/34439498/pexels-photo-34439498.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Buyi Minority Culture (布依族)
 

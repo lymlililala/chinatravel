@@ -1,6 +1,7 @@
 ---
 title: "Zhenyuan Ancient Town Guizhou: China's Most Beautiful Riverside Town"
 description: "Explore Zhenyuan in Guizhou — a 2,200-year-old town built into cliffs above the Wuyang River, with Ming and Qing architecture, ancient defensive walls, Dong and Miao minority villages, and stunning river gorge scenery that rivals any in China."
+ogImage: "https://images.pexels.com/photos/29712653/pexels-photo-29712653.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Guizhou"
 tags: ["guizhou", "zhenyuan", "ancient-town", "wuyang-river", "ming-dynasty", "dong-minority", "riverside", "heritage"]
@@ -14,6 +15,8 @@ The town's history stretches **2,200 years**, making it one of the oldest inhabi
 
 ---
 
+![Zhenyuan Ancient Town Guizhou — The Town's Character](https://images.pexels.com/photos/15234843/pexels-photo-15234843.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The Town's Character
 
 What makes Zhenyuan exceptional is not any single monument but the **intact relationship between the town and its river**. The Wuyang River makes a sharp S-curve through a gorge here; the town occupies both inner banks. Looking from the clifftop across the river, you see an unbroken row of dark-roofed buildings — Wuyanghe on one bank, a wall of pines and cliff on the other, with a chain of ancient bridges crossing between them.
@@ -21,6 +24,8 @@ What makes Zhenyuan exceptional is not any single monument but the **intact rela
 The colour palette is restrained: grey stone, dark timber, white plaster. It feels genuinely old in a way that many "ancient towns" — their buildings rebuilt for tourism — do not.
 
 ---
+
+![Zhenyuan Ancient Town Guizhou — Key Sights](https://images.pexels.com/photos/10221250/pexels-photo-10221250.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Key Sights
 
@@ -51,6 +56,8 @@ Walking the restored wall section (30-minute circuit) provides the best overview
 A **30-km river gorge** begins at the downstream end of Zhenyuan, accessible by boat (¥50/person, 2-hour round trip) or by a riverside hiking trail. The gorge is significantly less visited than the town itself and rewards the extra effort with green water, limestone karst formations, and near-total solitude compared to the busy town centre.
 
 ---
+
+![Zhenyuan Ancient Town Guizhou — Minority Villages Near Zhenyuan](https://images.pexels.com/photos/35315268/pexels-photo-35315268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Minority Villages Near Zhenyuan
 

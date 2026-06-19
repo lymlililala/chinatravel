@@ -12,7 +12,7 @@ tags:
   - waterway
   - culture
 description: "The Grand Canal in Hangzhou is the southern terminus of the world's longest man-made waterway — 1,794 km of human engineering that connected Beijing to the Yangtze Delta for 1,400 years. This 2026 guide covers the UNESCO heritage canal sections in Hangzhou, the best boat tours, the Canal Museum, canal-side neighbourhoods, combining with West Lake, and practical transport information."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/30143824/pexels-photo-30143824.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -22,6 +22,8 @@ The Grand Canal (大运河) is one of humanity's greatest infrastructure achieve
 Hangzhou is the canal's southern terminus, and the sections here include some of the best-preserved historic canal landscape in China. In 2014, the Grand Canal was inscribed as a UNESCO World Heritage Site.
 
 ## Understanding the Grand Canal in Hangzhou
+
+![Hangzhou Grand Canal — Understanding the Grand Canal in Hangzhou](https://images.pexels.com/photos/37436597/pexels-photo-37436597.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 The canal sections within Hangzhou municipality include four key heritage sections:
 
@@ -66,6 +68,8 @@ The most memorable Grand Canal experience in Hangzhou is a boat tour — either 
 
 **Short trips to canal towns:** Regular passenger boats and tour boats connect to nearby canal towns from Gongchen Bridge Wharf; Tongxiang (铜香) and Wuzhen (乌镇) are accessible by water.
 
+![Hangzhou Grand Canal — The Canal Promenade Walk](https://images.pexels.com/photos/14013179/pexels-photo-14013179.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The Canal Promenade Walk
 
 The restored canal bank promenade running south from Gongchen Bridge to Wulin Square is approximately 4 km and makes an excellent morning or evening walk. The path passes:
@@ -98,6 +102,8 @@ The Grand Canal and West Lake (西湖) are the two centrepieces of Hangzhou's he
 **Day 1 (West Lake):** Su Causeway walk, Lingyin Temple, Leifeng Pagoda, Dragon Well tea village
 
 **Day 2 (Grand Canal):** Morning Gongchen Bridge area walk → Canal Museum → lunch in canal district → afternoon boat cruise → evening night cruise
+
+![Hangzhou Grand Canal — Getting to Hangzhou](https://images.pexels.com/photos/7532194/pexels-photo-7532194.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting to Hangzhou
 

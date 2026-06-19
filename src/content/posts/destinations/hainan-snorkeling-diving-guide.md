@@ -19,6 +19,7 @@ tags:
   - sanya
   - destinations
 description: "A guide to diving and snorkeling around Hainan Island — the best sites near Sanya, how to reach Wuzhizhou Island, the coral gardens of the Xisha Islands, and what marine life to expect. For both beginners and certified divers."
+ogImage: "https://images.pexels.com/photos/34839988/pexels-photo-34839988.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Hainan Island sits in the South China Sea at tropical latitudes (20°N), surrounded by relatively clear waters that support coral reefs, tropical fish, sea turtles, and whale sharks during the right season. While not competing with world-class destinations like the Coral Triangle, Hainan offers the best accessible diving and snorkeling in mainland China — and the infrastructure has improved dramatically in recent years.
@@ -26,6 +27,8 @@ Hainan Island sits in the South China Sea at tropical latitudes (20°N), surroun
 ## Table of contents
 
 ## Wuzhizhou Island (蜈支洲岛)
+
+![Hainan Snorkeling Diving — Wuzhizhou Island (蜈支洲岛)](https://images.pexels.com/photos/15923584/pexels-photo-15923584.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Wuzhizhou Island (pronounced wú zhī zhōu) is Hainan's premier marine recreation island — a small coral-fringed island 2.7km long, accessible by boat from Haitang Bay, approximately 30km north of Sanya's city centre.
 
@@ -62,6 +65,8 @@ The reefs immediately offshore at Dadonghai Bay (大东海湾) — Sanya's neare
 
 ---
 
+![Hainan Snorkeling Diving — Xisha Islands (西沙群岛): Remote Reefs](https://images.pexels.com/photos/12513879/pexels-photo-12513879.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Xisha Islands (西沙群岛): Remote Reefs
 
 For serious divers, the Xisha Islands (Paracel Islands) lie approximately 300km south of Hainan and are administered by China. These remote coral atolls have some of the best-preserved reefs in the South China Sea — clear water (visibility 20–40m), abundant marine life including Napoleon wrasse, schools of barracuda, and reef sharks.
@@ -79,6 +84,8 @@ The Luhuitou peninsula south of Sanya has a small protected marine area with mai
 The headland itself — accessible by cable car (¥60) or steep path — has a famous stone sculpture of a deer looking back (the legend behind Sanya's name), and good views of the bay.
 
 ---
+
+![Hainan Snorkeling Diving — Marine Life Calendar](https://images.pexels.com/photos/30919068/pexels-photo-30919068.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Marine Life Calendar
 

@@ -1,6 +1,7 @@
 ---
 title: "Kaili & Miao Festivals in Guizhou: Traditional Culture Immersion Guide"
 description: "Complete guide to experiencing Miao (Hmong) festivals in Kaili, Guizhou — the Miao New Year, Lusheng Festival, drumming competitions, traditional clothing, authentic village visits vs. staged performances."
+ogImage: "https://images.pexels.com/photos/8898782/pexels-photo-8898782.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/kaili-miao-festival.jpg"
 category: "destinations"
@@ -14,6 +15,8 @@ Kaili (凯里) in southeastern Guizhou province is the gateway to one of China's
 
 The challenge for travelers: distinguishing authentic cultural engagement from staged performances designed for tourism. Both exist in the Kaili area, often side by side. This guide focuses on finding genuine festival experiences while acknowledging the inevitable complexities of cultural tourism.
 
+![Kaili & Miao Festivals Guizhou — Understanding Miao Culture](https://images.pexels.com/photos/30693227/pexels-photo-30693227.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Understanding Miao Culture
 
 The Miao are not a monolithic group — dozens of distinct subgroups with different languages, clothing styles, and ceremonial traditions are collectively described as "Miao" in Chinese administrative categories. The most visible differences are in women's traditional dress (different embroidery patterns, different headdress styles, different silver ornament designs identify specific village communities).
@@ -23,6 +26,8 @@ The Miao are not a monolithic group — dozens of distinct subgroups with differ
 **Embroidery**: Miao embroidery is internationally recognized for its technical sophistication and narrative complexity — garment surfaces are covered with geometric patterns, animal motifs, and scenes from mythology that encode cultural memory. Each village has distinct embroidery styles; skilled observers can identify village origin from the clothing pattern.
 
 **Music**: The lusheng (芦笙) — a bamboo pipe instrument — is central to Miao cultural identity. Lusheng playing accompanies virtually all ceremonial events; skilled players are highly respected in their communities. The tones of the lusheng have specific ceremonial meanings that inform the social context of each performance.
+
+![Kaili & Miao Festivals Guizhou — The Major Festival Calendar](https://images.pexels.com/photos/6487204/pexels-photo-6487204.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Major Festival Calendar
 
@@ -52,6 +57,8 @@ Multiple Lusheng festivals occur at different villages throughout the year; the 
 Held in the 3rd lunar month (typically April), the Sisters' Meal Festival celebrates young women's romantic possibilities. The signature ritual: young women prepare rice dyed in various colors using natural plant pigments, then present portions of colored rice to potential suitors; the colors and objects hidden in the rice (chopsticks = acceptance; chili = rejection) communicate her feelings without direct speech.
 
 This festival is held at multiple locations; the Shidong (施洞) Sisters' Meal Festival near Taijiang County is the most famous.
+
+![Kaili & Miao Festivals Guizhou — Xijiang Miao Village (西江苗寨)](https://images.pexels.com/photos/11682263/pexels-photo-11682263.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Xijiang Miao Village (西江苗寨)
 

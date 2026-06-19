@@ -14,6 +14,8 @@ In the mountain valleys of southeast Guizhou, the **Miao people (苗族)** have 
 
 ---
 
+![Kaili Guizhou — Understanding Miao Silver](https://images.pexels.com/photos/8898774/pexels-photo-8898774.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Understanding Miao Silver
 
 ### What It Means
@@ -40,6 +42,8 @@ The Kaili area offers genuine purchasing opportunities:
 
 ---
 
+![Kaili Guizhou — Weekly Village Markets (赶集, Gǎnjí)](https://images.pexels.com/photos/19126505/pexels-photo-19126505.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Weekly Village Markets (赶集, Gǎnjí)
 
 The most authentic way to experience Miao culture in Qiandongnan is through the **weekly rotating market** system — each village in the region holds a market on a specific day of the 12-day traditional Miao calendar. On market day, women from the surrounding mountains walk hours to trade, sell craft work, buy necessities, and socialise.
@@ -58,6 +62,8 @@ The most authentic way to experience Miao culture in Qiandongnan is through the 
 The market atmosphere is completely authentic — traders are local farmers and artisans rather than tourist vendors. The best purchase strategy is to **walk the entire market first** before buying anything; prices are more negotiable at the end of market day (typically 14:00–15:00).
 
 ---
+
+![Kaili Guizhou — Miao Batik and Embroidery](https://images.pexels.com/photos/11111348/pexels-photo-11111348.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Miao Batik and Embroidery
 

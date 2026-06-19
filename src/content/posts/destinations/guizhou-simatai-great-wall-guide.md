@@ -13,7 +13,7 @@ tags:
   - hiking
   - history
 description: "Simatai Great Wall near Beijing is the only section offering night tours and is widely considered the most dramatic original Ming wall still standing. This 2026 guide covers daytime entry (190 yuan combined), night tickets (180 yuan), cable car, the 18 arches section, transport from Beijing, and the Gubei Water Town resort."
-ogImage: "https://images.unsplash.com/photo-1508804052814-cd3ba865a116?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/19031655/pexels-photo-19031655.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -23,6 +23,8 @@ Among the multiple Great Wall sections accessible from Beijing, Simatai holds a 
 Being on the wall at night — lit by soft uplighting, with the Yanshan mountains dark around you and the stars overhead — is one of China's more memorable travel experiences. It stays with you long after the photographs fail to capture it properly.
 
 ## Why Simatai Stands Apart
+
+![Simatai Great Wall — Why Simatai Stands Apart](https://images.pexels.com/photos/38020765/pexels-photo-38020765.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Simatai is a section of the original Ming dynasty Great Wall that has been only partially restored, maintaining its rugged character while being made safely accessible. The wall here follows a particularly dramatic ridgeline, with steep drops on both sides, multiple tower sections, and the famous 18 Arches section where near-vertical steps climb a knife-edge section of wall requiring physical effort and some nerve.
 
@@ -37,6 +39,8 @@ Access to Simatai wall now requires purchasing tickets through the Gubei Water T
 **Night tour ticket:** 180 yuan per person. Available Friday, Saturday, and nights before public holidays. The night tour covers a lit section of wall from approximately 6pm to 10pm.
 
 **Cable car:** 60 yuan one-way up, 50 yuan down. Takes you from near the water town to the mid-section of the wall. Recommended unless you specifically want the full hike.
+
+![Simatai Great Wall — The Wall Experience](https://images.pexels.com/photos/35521708/pexels-photo-35521708.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Wall Experience
 
@@ -55,6 +59,8 @@ From the cable car upper station, the wall trail stretches in both directions. M
 The night tour covers approximately 1km of lit wall closest to the water town. Soft amber and gold lighting on ancient stones, darkness of the surrounding mountains, cool night air — the atmosphere is exceptional on clear nights. Late evenings (after 9pm) are quieter even on weekends.
 
 Photography requires a tripod or resting your camera on wall surfaces. Long exposures of lit wall with stars above are achievable on clear nights.
+
+![Simatai Great Wall — Getting to Simatai from Beijing](https://images.pexels.com/photos/1653823/pexels-photo-1653823.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting to Simatai from Beijing
 

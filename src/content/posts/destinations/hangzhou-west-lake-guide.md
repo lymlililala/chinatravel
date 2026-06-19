@@ -12,6 +12,7 @@ tags:
   - longjing tea
   - UNESCO heritage
 description: "Complete guide to Hangzhou's West Lake — the UNESCO World Heritage scenic masterpiece that inspired a millennium of Chinese poetry, with cycling routes, Dragon Well tea culture, Lingyin Temple, and seasonal highlights."
+ogImage: "https://images.pexels.com/photos/38075805/pexels-photo-38075805.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 The Song Dynasty poet Su Dongpo compared West Lake to the legendary beauty Xi Shi: "If the lake were likened to Xi Shi, heavy or light makeup would both equally suit." For the last thousand years, the comparison has stuck. West Lake is China's most celebrated scenic body of water — a 6.5 square kilometre lake surrounded by hills, pagodas, gardens, and causeways that seems designed to be perfectly beautiful from every angle.
@@ -23,6 +24,8 @@ The lake itself is **free to visit** — a deliberate policy. Chinese emperors d
 ## Table of contents
 
 ## The Ten Scenes of West Lake (西湖十景)
+
+![Hangzhou West Lake — The Ten Scenes of West Lake (西湖十景)](https://images.pexels.com/photos/31233934/pexels-photo-31233934.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 For 1,000+ years, the "Ten Scenes" have defined how Chinese people experience West Lake. Each scene represents the lake at its finest in particular conditions.
 
@@ -76,6 +79,8 @@ The North Peak and South Peak, rising above the hills surrounding the lake. The 
 
 ---
 
+![Hangzhou West Lake — Boat Trips on West Lake](https://images.pexels.com/photos/34968196/pexels-photo-34968196.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Boat Trips on West Lake
 
 Several boat options allow you to experience the lake from the water:
@@ -105,6 +110,8 @@ The historic tea village at the heart of the Longjing growing area. Walking thro
 **Getting there:** Bus 27 from Yueyuntai Bus Station near the lake (30 min, ¥2). Or cycle from the lake's western shore (45 min on flat roads, 25 min on an e-bike).
 
 ---
+
+![Hangzhou West Lake — Lingyin Temple (灵隐寺)](https://images.pexels.com/photos/18637314/pexels-photo-18637314.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Lingyin Temple (灵隐寺)
 

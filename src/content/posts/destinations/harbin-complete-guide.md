@@ -11,7 +11,7 @@ tags:
   - winter
   - history
 description: "Harbin — China's Ice City and gateway to northeastern China. The Ice and Snow Festival complex, the Russian Orthodox Saint Sophia Cathedral, the Central Street (中央大街) Russian-style pedestrian boulevard, the Siberian Tiger Park, and survival tips for -20°C winters (the clothes you need, heated malls as respite, hot red bean paste pancakes on street stalls)."
-ogImage: "https://images.unsplash.com/photo-1437846972679-9e6e537be46e?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/36212873/pexels-photo-36212873.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Harbin gets cold. We mean this genuinely: January temperatures regularly reach -25°C to -30°C in the city, and it's felt as a physical force the moment you step outside from the airport terminal. The air burns slightly. Exposed skin stings within minutes. Every breath produces visible vapour clouds.
@@ -21,6 +21,8 @@ This is also, paradoxically, why several million visitors come to Harbin every w
 ## Table of contents
 
 ## The Ice and Snow Festival (冰雪节)
+
+![Harbin — The Ice and Snow Festival (冰雪节)](https://images.pexels.com/photos/35252680/pexels-photo-35252680.png?auto=compress&cs=tinysrgb&h=650&w=940)
 
 The Harbin International Ice and Snow Festival is one of the largest ice festivals in the world. It runs annually from late December through February, centered on two main sites:
 
@@ -57,6 +59,8 @@ The cathedral was built by and for the Russian community that flooded into Harbi
 
 The interior has been converted to an architectural museum displaying Harbin's Russian heritage. The dome is impressive from both inside and out.
 
+![Harbin — Central Street (中央大街)](https://images.pexels.com/photos/5864278/pexels-photo-5864278.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Central Street (中央大街)
 
 Central Street is Harbin's main pedestrian boulevard — a 1,450-metre-long street of European-style buildings dating from the 1900s to the 1930s. Russian Baroque, neo-classical, and modernist buildings line both sides, and the street is paved with the original small stone cobbles (方石路).
@@ -78,6 +82,8 @@ A large open-plan safari-style park outside the city where Siberian tigers roam 
 **Getting there:** Taxi from central Harbin, about 30 minutes, ¥30–50
 
 Note: This attraction is ethically contested — the captive conditions and live feeding practices draw criticism. Make an informed decision.
+
+![Harbin — Cold-Weather Survival Guide](https://images.pexels.com/photos/10810282/pexels-photo-10810282.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Cold-Weather Survival Guide
 

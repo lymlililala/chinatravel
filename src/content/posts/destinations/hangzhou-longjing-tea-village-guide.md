@@ -1,12 +1,15 @@
 ---
 title: "Hangzhou Longjing Tea Village: Picking, Tasting and the Tea Culture Experience"
 description: "Complete guide to visiting Longjing Village and its tea plantations in Hangzhou. When to visit for picking season, how to buy authentic Longjing tea, tea house experiences, and avoiding overpriced tourist traps."
+ogImage: "https://images.pexels.com/photos/32454737/pexels-photo-32454737.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Hangzhou", "Longjing tea", "Dragon Well tea", "tea village", "Hangzhou tea culture", "China tea"]
 ---
 
 Longjing tea (龙井茶, Lóngjǐng chá), named after Longjing Village (Dragon Well Village) on the west side of Hangzhou's West Lake, is China's most famous green tea. Flat-pressed leaves, pale jade infusion, chestnut-vegetal aroma — it's been served at Chinese state banquets for centuries and grown on these hills since the Tang Dynasty. Visiting the village in April, when picking is at its peak, is one of the most sensory travel experiences China offers.
+
+![Hangzhou Longjing Tea Village — The Longjing Tea Growing Region](https://images.pexels.com/photos/27818670/pexels-photo-27818670.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Longjing Tea Growing Region
 
@@ -28,6 +31,8 @@ The absolute best time to visit is **mid-March to mid-April**, the Qingming seas
 **Summer and autumn flushes**: The tea plants are picked 3–4 times per year. Summer and autumn teas are cheaper and adequate but miss the intensity of spring.
 
 If you visit outside spring, the plantations are still beautiful and tea houses are open year-round — you just won't see the frenetic picking activity and the tea you taste will be from earlier harvests.
+
+![Hangzhou Longjing Tea Village — Getting to Longjing Village](https://images.pexels.com/photos/38075802/pexels-photo-38075802.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting to Longjing Village
 
@@ -59,6 +64,8 @@ Almost every house and small farm in the village has a tea tasting table. The st
 The first pour should be discarded (called "awakening the leaves"). The first proper infusion is drunk, then hot water added again for a second and third infusion.
 
 **What you're looking for**: Pale jade-gold liquor, fresh grassy-vegetal aroma, sweet finish with no bitterness. Bitterness indicates either too-hot water or over-steeping.
+
+![Hangzhou Longjing Tea Village — Buying Authentic Longjing Tea: Avoiding Fakes](https://images.pexels.com/photos/6545365/pexels-photo-6545365.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Buying Authentic Longjing Tea: Avoiding Fakes
 

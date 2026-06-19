@@ -18,6 +18,8 @@ Guizhou Province (贵州) has the highest concentration of ethnic minority cultu
 
 ## The Miao People and Xijiang (西江千户苗寨)
 
+![Guizhou Miao Dong Villages — The Miao People and Xijiang (西江千户苗寨)](https://images.unsplash.com/photo-1735499131753-2e27cf13aa2d?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw3fHxtaWFvJTIwcGVvcGxlfGVufDB8MHx8fDE3ODE4NDcwODB8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
+
 ### Xijiang: The Thousand-Family Miao Village
 
 Xijiang Miao Village (西江千户苗寨) in Leishan County is the largest Miao village in the world — over 1,300 households arranged on a mountain valley slope, with wooden stilted houses (吊脚楼) cascading down the terraced hillside. When the lights come on at dusk, the illuminated slope is one of the most photographed landscapes in southwest China.
@@ -34,6 +36,8 @@ Xijiang Miao Village (西江千户苗寨) in Leishan County is the largest Miao 
 The Miao New Year (苗年, Miáo Nián) is celebrated in November (lunar calendar). During this period, Miao women wear the full silver headdress and embroidered festival clothing. Events: bullfighting, singing competitions between villages, and the famous "sister's meal festival" (姊妹节) in spring (March lunar calendar) when unmarried Miao women present sticky rice packages as coded love messages.
 
 ---
+
+![Guizhou Miao Dong Villages — The Dong People: Zhaoxing and Chengyang](https://images.pexels.com/photos/37669158/pexels-photo-37669158.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Dong People: Zhaoxing and Chengyang
 

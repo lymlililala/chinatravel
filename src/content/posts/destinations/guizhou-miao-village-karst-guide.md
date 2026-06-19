@@ -21,6 +21,8 @@ Guizhou (贵州) is the province that China forgot to develop — rugged mountai
 
 ## Qiandongnan — Heart of Miao Country
 
+![Guizhou — Qiandongnan — Heart of Miao Country](https://images.pexels.com/photos/11111070/pexels-photo-11111070.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 Qiandongnan Miao and Dong Autonomous Prefecture (黔东南苗族侗族自治州) is home to 30+ ethnic minority groups in one of China's most culturally rich regions.
 
 ### Xijiang Thousand Households Miao Village (西江千户苗寨)
@@ -55,6 +57,8 @@ Asia's largest waterfall — 78 metres high, 101 metres wide. The falls are uniq
 An underground river system near Huangguoshu — boat through limestone caverns with spectacular stalactite formations. Entry ¥150.
 
 ---
+
+![Guizhou — FAST Telescope (贵州500米口径球面射电望远镜)](https://images.pexels.com/photos/8465818/pexels-photo-8465818.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## FAST Telescope (贵州500米口径球面射电望远镜)
 

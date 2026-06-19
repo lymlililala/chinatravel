@@ -12,7 +12,7 @@ tags:
   - nature
   - history
 description: "China's northernmost major city comes to life in two spectacular seasons — the world-famous Ice and Snow Festival in January-February and lush summer hiking in pristine wilderness parks."
-ogImage: "https://images.unsplash.com/photo-1523837157348-ffbdaccfc7de?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/33632413/pexels-photo-33632413.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Harbin (哈尔滨) occupies a special place in China's geography and imagination. This northeastern city sits further north than Moscow and gets cold enough to freeze rivers solid — facts the city has turned into a spectacular annual winter festival that draws visitors from around the world.
@@ -21,11 +21,15 @@ Harbin (哈尔滨) occupies a special place in China's geography and imagination
 
 ## Why Visit Harbin
 
+![Harbin & Northeast China — Why Visit Harbin](https://images.pexels.com/photos/9212612/pexels-photo-9212612.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 Harbin has two distinct personalities:
 
 **Winter (December–February):** Ice and Snow World transforms the city into a luminous fantasyland of ice sculpture cities the size of real neighbourhoods. Temperatures plunge to -30°C, and every breath becomes visible. Absolute magic.
 
 **Summer (June–August):** Warm, green, and surprisingly lush. The surrounding Manchurian wilderness offers world-class hiking, wildflower meadows, and one of China's most pristine natural environments.
+
+![Harbin & Northeast China — Top Attractions](https://images.pexels.com/photos/36286027/pexels-photo-36286027.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Top Attractions
 
@@ -52,6 +56,8 @@ A Russian Orthodox cathedral completed in 1932 — the largest in the Far East a
 
 ### Siberian Tiger Park (东北虎林园)
 The world's largest Siberian tiger conservation centre — approximately 100 tigers in large enclosures. Bus tours through the main enclosure (¥100 for bus entry, tigers can approach quite close). Controversial but educational for understanding Siberian tiger conservation challenges.
+
+![Harbin & Northeast China — Summer Northeast China](https://images.pexels.com/photos/36213065/pexels-photo-36213065.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Summer Northeast China
 

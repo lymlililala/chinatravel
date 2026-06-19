@@ -1,6 +1,7 @@
 ---
 title: "Sanya Hainan Beach Guide: China's Tropical Paradise for Winter Sun Seekers"
 description: "Navigate Sanya on Hainan Island — China's only tropical beach destination, with Yalong Bay's international resort strip, the wilder Dadonghai for budget travellers, the cultural experience of Nanshan Buddhist temple, how to escape the crowds to find uncrowded beaches, and why Hainan's seafood is worth a trip from anywhere in China."
+ogImage: "https://images.pexels.com/photos/12736036/pexels-photo-12736036.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Hainan"
 tags: ["hainan", "sanya", "beach", "tropical", "yalong-bay", "dadonghai", "seafood", "winter-sun", "resort"]
@@ -11,6 +12,8 @@ tags: ["hainan", "sanya", "beach", "tropical", "yalong-bay", "dadonghai", "seafo
 At 18°N latitude, **Sanya** on the southern tip of **Hainan Island** is China's only tropical beach destination — a coastline of white sand, palm trees, and warm South China Sea water that reaches the mid-20s Celsius in January when Beijing is at -5°C. For the 140 million Chinese tourists who visit each year (and a growing number of international visitors), Sanya represents what Florida represents to Americans: winter sunshine, accessible luxury, and the combination of beach, seafood, and spa that is available nowhere else in the country.
 
 ---
+
+![Sanya Hainan Beach — The Main Beach Areas](https://images.pexels.com/photos/27827721/pexels-photo-27827721.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Main Beach Areas
 
@@ -38,6 +41,8 @@ For those willing to travel 30–45 minutes from the city, the bays east of Sany
 
 ---
 
+![Sanya Hainan Beach — Nanshan Cultural Tourism Zone (南山文化旅游区)](https://images.pexels.com/photos/8138272/pexels-photo-8138272.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Nanshan Cultural Tourism Zone (南山文化旅游区)
 
 A Buddhist cultural complex containing the **108-metre Guanyin Statue** — a three-faced bronze statue of Guanyin (海上观音) standing on a lotus platform in the sea, the tallest statue of Guanyin in the world. The site is a functioning Buddhist pilgrimage destination as well as a tourist attraction.
@@ -47,6 +52,8 @@ A Buddhist cultural complex containing the **108-metre Guanyin Statue** — a th
 **Admission:** ¥150.
 
 ---
+
+![Sanya Hainan Beach — Hainan Seafood](https://images.pexels.com/photos/14786461/pexels-photo-14786461.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Hainan Seafood
 

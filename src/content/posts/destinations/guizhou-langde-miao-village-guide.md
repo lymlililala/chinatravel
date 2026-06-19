@@ -1,6 +1,7 @@
 ---
 title: "Langde Miao Village Guizhou: Experiencing Genuine Miao Culture Without the Performance"
 description: "Discover Langde Upper Village in Guizhou — one of the most authentic Miao minority villages in China, where silver jewellery traditions, indigo batik, lusheng pipe music, and terraced rice farming continue as living culture rather than tourist performance, plus how to visit responsibly and combine with the broader Leishan County Miao route."
+ogImage: "https://images.pexels.com/photos/8776834/pexels-photo-8776834.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Guizhou"
 tags: ["guizhou", "langde", "miao-village", "minority-culture", "silver-jewellery", "batik", "lusheng", "terraced-rice"]
@@ -13,6 +14,8 @@ tags: ["guizhou", "langde", "miao-village", "minority-culture", "silver-jeweller
 The approximately 300 families of Langde belong to the **Long-skirt Miao (长裙苗)** branch — one of dozens of distinct Miao subgroups distinguished by regional dress traditions. They are famous for three things: the **silver jewellery** worn by women during festivals, the **lusheng pipe instrument**, and a reputation for hospitality to outsiders that extends to sharing rice wine from a communal bowl before allowing guests to enter the village.
 
 ---
+
+![Langde Miao Village Guizhou — Miao Culture at Langde](https://images.pexels.com/photos/36290034/pexels-photo-36290034.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Miao Culture at Langde
 
@@ -40,6 +43,8 @@ The Miao women of this region are skilled practitioners of **wax-resist indigo d
 
 ---
 
+![Langde Miao Village Guizhou — The Village Layout](https://images.pexels.com/photos/37441723/pexels-photo-37441723.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The Village Layout
 
 Langde is a cluster of traditional **Miao stilt houses (吊脚楼)** on a south-facing hillside above the Bala River — the wooden multi-storey buildings elevated on timber piles with living quarters on upper floors and animal housing or storage below. The older buildings are entirely in wood and roofed with dark slate; newer construction mixes materials less gracefully.
@@ -47,6 +52,8 @@ Langde is a cluster of traditional **Miao stilt houses (吊脚楼)** on a south-
 **The terraced fields:** Surrounding the village, rice terraces step down to the river valley — planted in spring, lush green in summer, harvested golden in October. The landscape from the village looking outward over the terraces is the typical Guizhou Miao landscape.
 
 ---
+
+![Langde Miao Village Guizhou — Practical Information](https://images.unsplash.com/photo-1759738102800-0af1fc5cca5e?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw2fHxsYW5nZGUlMjBtaWFvfGVufDB8MHx8fDE3ODE4NDcwNTZ8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## Practical Information
 

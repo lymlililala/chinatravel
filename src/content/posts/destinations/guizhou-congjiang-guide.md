@@ -12,7 +12,7 @@ tags:
   - ethnic-culture
   - south-china
 description: "Congjiang in southeastern Guizhou is one of the most ethnically rich corners of China — home to the stunning Zhaoxing Dong village with its five drum towers, the mysterious Bat Cave Buddhist temple, and some of the most vibrant Miao and Dong festivals in the country. This guide covers how to get there, where to stay, what to see, and the practical details most visitors miss."
-ogImage: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/33481164/pexels-photo-33481164.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Southeastern Guizhou is one of the last places in China where you can walk through a working village and feel that nothing has been staged for your benefit. Congjiang County sits in a valley carved by the Duliu River, and its villages — Dong, Miao, Yao, and Zhuang all living in close proximity — have maintained their distinct cultures, languages, festivals, and architecture with a tenacity that's striking.
@@ -75,6 +75,8 @@ The bats are considered sacred by local people. Every evening around dusk, they 
 
 The temple interior has incense burners, deity statues, and butter lamps — all coexisting with the bat roost above. The combination of religious devotion and natural spectacle is genuinely strange and memorable.
 
+![Congjiang Guizhou — Basha Miao Village (岜沙苗寨)](https://images.pexels.com/photos/11111333/pexels-photo-11111333.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Basha Miao Village (岜沙苗寨)
 
 Basha, just 7km south of Congjiang town, is home to a Miao sub-group that has maintained traditions virtually unchanged for centuries. The men of Basha still carry flintlock muskets, wear their hair in a topknot (禁区发髻), and perform a traditional razor hair-shaving ceremony using a sickle blade.
@@ -119,6 +121,8 @@ The Duliu River (都柳江) runs through the heart of Congjiang County and histo
 A walking route of approximately 40km follows the river valley before ascending to Zhaoxing. It's doable in two days with an overnight in one of the midpoint villages (Tung'ai or Xiaohuang). The path is not always well-marked; a local guide (¥150–200/day) is recommended.
 
 **Xiaohuang Village (小黄村):** Known as the "home of Dong Grand Song" — more villages here sing than anywhere else, and it's a less-visited alternative to Zhaoxing.
+
+![Congjiang Guizhou — Eating & Local Food](https://images.pexels.com/photos/37473709/pexels-photo-37473709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Eating & Local Food
 

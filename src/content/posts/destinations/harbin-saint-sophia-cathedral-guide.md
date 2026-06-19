@@ -1,12 +1,15 @@
 ---
 title: "Harbin Architecture Guide: Saint Sophia Cathedral and Russian Heritage"
 description: "Guide to Harbin's extraordinary Russian and Art Nouveau architecture. Saint Sophia Cathedral, Zhongyang Pedestrian Street, the History Museum and why Harbin looks like a European city."
+ogImage: "https://images.pexels.com/photos/36231961/pexels-photo-36231961.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Harbin", "Saint Sophia Cathedral", "Harbin architecture", "Russian history China", "Heilongjiang", "Harbin travel"]
 ---
 
 Walk the main street of central Harbin (哈尔滨) and you might briefly forget you're in China. Russian Orthodox church domes, Art Nouveau facades, elaborate European ornamental stonework and faded Cyrillic lettering on old shop signs create a streetscape unlike anything else in Asia. Harbin's architectural heritage is a direct product of its unusual history as a city founded by Russian railway workers in 1897, developed into a major Russian-Jewish-Chinese-Japanese cosmopolitan center, and then preserved (partly through neglect, partly through deliberate conservation) across a century of political change.
+
+![Harbin Architecture — The Historical Foundation](https://images.pexels.com/photos/14377374/pexels-photo-14377374.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Historical Foundation
 
@@ -26,6 +29,8 @@ The Byzantine Revival cathedral in Zhaoling Square is the most iconic building i
 
 **Interior**: The frescoes are fragmentary but the scale of the space is impressive. The photography exhibition inside provides excellent historical context for the buildings you see outside.
 
+![Harbin Architecture — Zhongyang Pedestrian Street (中央大街)](https://images.pexels.com/photos/23221563/pexels-photo-23221563.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Zhongyang Pedestrian Street (中央大街)
 
 The main street of Harbin's old city, 1.4 km long and paved with granite blocks in the old Russian style. The buildings along Zhongyang Street represent a complete catalogue of early 20th-century European architectural fashions: Baroque, Art Nouveau, Renaissance Revival, Gothic Revival.
@@ -40,6 +45,8 @@ The main street of Harbin's old city, 1.4 km long and paved with granite blocks 
 ## Ice and Snow Festival Architecture
 
 The Ice and Snow Festival (January–February) transforms the city with structures that complement its European-influenced aesthetic: ice replicas of European cathedrals, Gothic castles and Russian onion domes, illuminated from within by colored lights at night. The festival's choice of architectural forms is not accidental — it reflects the local self-consciousness about Harbin's unique built heritage.
+
+![Harbin Architecture — Other Russian Heritage Buildings](https://images.pexels.com/photos/37652981/pexels-photo-37652981.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Other Russian Heritage Buildings
 

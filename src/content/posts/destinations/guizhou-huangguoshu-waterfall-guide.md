@@ -12,6 +12,7 @@ tags:
   - Miao culture
   - destinations
 description: "A guide to Guizhou's Huangguoshu Waterfall — Asia's largest, the hidden cave behind the falls, nearby Miao and Buyi minority villages, and why Guizhou is China's most underrated destination."
+ogImage: "https://images.pexels.com/photos/6877890/pexels-photo-6877890.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Guizhou is the province that gets bypassed in favour of its flashier neighbours — Yunnan's mountains, Sichuan's pandas, Hunan's Zhangjiajie pillars. The result is a landscape of extraordinary diversity and historical depth that most international visitors never reach: ancient minority villages where Miao and Dong cultures have been practiced continuously for centuries, dramatic karst gorges, and at the centre of it all, the **Huangguoshu Waterfall** — at 77 metres high and 101 metres wide, the largest waterfall in Asia by surface area.
@@ -21,6 +22,8 @@ Guizhou also happens to have exceptional food, China's best-known rice wine (Mou
 ## Table of contents
 
 ## Essential Information
+
+![Huangguoshu Waterfall & Ancient Villages — Essential Information](https://images.unsplash.com/photo-1717377441865-3d26aa22361d?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw1fHxodWFuZ2d1b3NodSUyMHdhdGVyZmFsbHxlbnwwfDB8fHwxNzgxODQ3MDM2fDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 | Detail | Info |
 |--------|------|
@@ -53,6 +56,8 @@ Multiple viewing platforms at different heights on both sides of the gorge offer
 
 The park is large; allow 2–3 hours minimum to walk the full circuit.
 
+![Huangguoshu Waterfall & Ancient Villages — The Surrounding Region](https://images.unsplash.com/photo-1547448020-9f1fa36063fe?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwyfHxTdXJyb3VuZGluZyUyMFJlZ2lvbiUyMGd1aXpob3V8ZW58MHwwfHx8MTc4MTg0NzA0MXww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
+
 ## The Surrounding Region
 
 ### Tianxingqiao Scenic Area (天星桥)
@@ -82,6 +87,8 @@ A Buyi village entirely constructed from local limestone — roofs, walls, floor
 ### Miao Silver and Embroidery
 
 The Miao people have one of the most elaborate textile and silverwork traditions in China — intricate embroidered costumes depicting creation myths, combined with extraordinary silver headdresses worn at festivals. The main market for authentic Miao craft products is in **Kaili** (凯里), 150 km east of Guiyang — a full separate trip, but worth it for the Thursday market at Leishan (雷山).
+
+![Huangguoshu Waterfall & Ancient Villages — Guizhou Food](https://images.pexels.com/photos/11111335/pexels-photo-11111335.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Guizhou Food
 

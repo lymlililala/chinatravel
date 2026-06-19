@@ -12,6 +12,7 @@ tags:
   - colonial architecture
   - Fujian
 description: "Complete guide to Gulangyu Island — the UNESCO World Heritage car-free island off Xiamen with extraordinary colonial architecture, the Piano Museum, Sunlight Rock, and Fujian's finest seafood."
+ogImage: "https://images.pexels.com/photos/26100564/pexels-photo-26100564.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 In 1903, nine foreign nations established a joint International Settlement on a 1.87 square kilometre island off the coast of Xiamen. For the next four decades, the island of Gulangyu became one of Asia's most cosmopolitan addresses — British consuls, American missionaries, Dutch merchants, and Japanese businessmen built mansions alongside the Fujian Chinese who had always called the island home.
@@ -21,6 +22,8 @@ Today, the island is car-free (electric carts and feet only), UNESCO World Herit
 ## Table of contents
 
 ## Getting to Gulangyu
+
+![Gulangyu Island, Xiamen — Getting to Gulangyu](https://images.pexels.com/photos/37714925/pexels-photo-37714925.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Gulangyu is reached by ferry from the Xiamen mainland:
 
@@ -60,6 +63,8 @@ The summit of Gulangyu at 92.7 metres. The views from the top — Xiamen harbour
 
 ---
 
+![Gulangyu Island, Xiamen — Shuzhuang Garden (菽庄花园)](https://images.pexels.com/photos/15753247/pexels-photo-15753247.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Shuzhuang Garden (菽庄花园)
 
 Built in 1913 by a Fujian merchant as his private retreat, this UNESCO-listed garden extends over rocky coastal outcroppings in a design that masterfully integrates classical Chinese garden aesthetics with the harsh realities of a tidal sea wall.
@@ -93,6 +98,8 @@ The island has no cars — the only motor vehicles are small electric maintenanc
 **Former Residence of Lin Juemin (林觉民故居):** The childhood home of a young revolutionary who wrote a famous letter to his wife before his execution in 1911. A poignant historical house museum (¥20).
 
 ---
+
+![Gulangyu Island, Xiamen — Food: Eating on Gulangyu](https://images.pexels.com/photos/37714926/pexels-photo-37714926.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Food: Eating on Gulangyu
 

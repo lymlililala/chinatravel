@@ -12,7 +12,7 @@ tags:
   - beaches
   - nature
 description: "China's Hawaii — Hainan Island combines tropical beaches, ancient Li minority culture, primeval rainforest, and a booming duty-free shopping scene. The perfect winter escape from northern China."
-ogImage: "https://images.unsplash.com/photo-1506197603052-3cc9c3a201bd?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/37927887/pexels-photo-37927887.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Hainan Island is China's southernmost province — a tropical island the size of Belgium in the South China Sea. It's most famous as a beach destination rivalling Thailand and Bali, but beyond the coastal resorts lies a mountainous interior with primeval rainforest, volcanic landscapes, and the indigenous Li and Miao minority cultures.
@@ -20,6 +20,8 @@ Hainan Island is China's southernmost province — a tropical island the size of
 ## Table of contents
 
 ## Sanya (三亚)
+
+![Hainan Island — Sanya (三亚)](https://images.pexels.com/photos/13318777/pexels-photo-13318777.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Sanya is Hainan's main tourism hub — a 30km coastal strip of white sand beaches backed by luxury resorts, water sports operations, and seafood restaurants.
 
@@ -37,6 +39,8 @@ Near Danzhou city — China's largest tropical botanical garden with 13,000 plan
 
 ---
 
+![Hainan Island — Hainan Interior: Li & Miao Minority Regions](https://images.pexels.com/photos/11765534/pexels-photo-11765534.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Hainan Interior: Li & Miao Minority Regions
 
 ### Wuzhishan (五指山)
@@ -50,6 +54,8 @@ The mountain at Hainan's heart — "Five Finger Mountain" at 1,867m, the highest
 A 70,000-hectare nature reserve protecting Hainan's primary rainforest — the only place in China where the **Hainan gibbon** (黑冠长臂猿, fewer than 40 individuals remaining) still survives. Guided rainforest walks available; occasional gibbon sightings possible at dawn.
 
 ---
+
+![Hainan Island — Haikou (海口) — Capital City](https://images.pexels.com/photos/28970319/pexels-photo-28970319.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Haikou (海口) — Capital City
 

@@ -11,7 +11,7 @@ tags:
   - zhejiang
   - east-china
 description: "Hangzhou's refined Zhejiang cuisine — West Lake Vinegar Fish (西湖醋鱼), Dongpo Pork (东坡肉) braised in Shaoxing wine, Beggar's Chicken cooked in clay, and the tea-infused dishes made with Longjing green tea. Where to eat each properly and what the tourist versions leave out."
-ogImage: "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/29126490/pexels-photo-29126490.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Hangzhou's cuisine is Zhejiang cuisine, one of the Eight Great Traditions of Chinese cooking, and it's characterised by ingredients that are fresh, preparations that are restrained, and flavours that are subtly sweet-savoury rather than bold and aggressive. This is not the food of the north or of Sichuan. If you come to Hangzhou expecting heat, spice, or robust seasoning, adjust your expectations. This is refinement.
@@ -19,6 +19,8 @@ Hangzhou's cuisine is Zhejiang cuisine, one of the Eight Great Traditions of Chi
 ## Table of contents
 
 ## West Lake Vinegar Fish (西湖醋鱼, Xī Hú Cù Yú)
+
+![Hangzhou Food — West Lake Vinegar Fish (西湖醋鱼, Xī Hú Cù Yú)](https://images.pexels.com/photos/37327329/pexels-photo-37327329.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 The dish most associated with Hangzhou is a whole freshwater grass carp cooked in sweet-and-sour sauce — the vinegar providing sharpness, sugar and soy providing depth, ginger cutting the fishiness. The sauce glazes the fish with a slight stickiness.
 
@@ -37,6 +39,8 @@ It's served in individual clay or ceramic vessels, just the cubed pork belly in 
 **Price:** ¥65-100 per individual portion (about 150g of pork) at Hangzhou restaurants. Lou Wai Lou again does a reliable version. **Zhiweiguan** (知味观) on Renhe Road is another traditional address.
 
 **What tourist versions get wrong:** Insufficient braising time. The fat needs 2-3 hours of slow cooking to fully convert. Rushed versions have fat that's merely soft rather than completely yielding. If you press with chopsticks and it doesn't dissolve, it wasn't cooked long enough.
+
+![Hangzhou Food — Beggar's Chicken (叫化鸡, Jiàohuā Jī)](https://images.pexels.com/photos/19141541/pexels-photo-19141541.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Beggar's Chicken (叫化鸡, Jiàohuā Jī)
 
@@ -57,6 +61,8 @@ Hangzhou is the home of **Longjing tea** (龙井茶, Dragonwell tea), China's mo
 **Tea-smoked duck** (茶熏鸭) — duck smoked over Longjing tea leaves and camphor wood. The tea smoke gives a subtle floral character to the skin.
 
 **Where to find tea cuisine:** Restaurants near the **Longjing Village** (龙井村) and the **Tea Museum** in the western lake area offer the most serious versions. The village itself has restaurant terraces where you can eat overlooking the tea fields.
+
+![Hangzhou Food — Shaoxing Wine in Cooking](https://images.pexels.com/photos/29145758/pexels-photo-29145758.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Shaoxing Wine in Cooking
 
