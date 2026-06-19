@@ -12,7 +12,7 @@ tags:
   - hiking
   - history
 description: "Mount Tai (泰山) is China's most sacred mountain — emperors came here to perform the ultimate feng shan ceremonies, and Confucius himself climbed these steps. The overnight summit hike for sunrise remains one of China's most powerful experiences. This 2026 complete guide covers both the classic hike route and cable car option, booking accommodation at the summit, and the mountain's extraordinary cultural history."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/5765823/pexels-photo-5765823.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -22,6 +22,8 @@ Mount Tai (泰山, Tài Shān) is not China's highest mountain — at 1,545m it 
 The experience of hiking Mount Tai at night with a headlamp, joining a stream of other pilgrims and tourists on the ancient stone steps, arriving at the summit for dawn, and watching the sun rise over the plains of Shandong — this is one of China's genuinely profound experiences. It's strenuous, it's commercial, and it's absolutely worth doing.
 
 ## The Mountain's Significance
+
+![Mount Tai Shandong — The Mountain's Significance](https://images.pexels.com/photos/26926327/pexels-photo-26926327.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Mount Tai was the focus of imperial religious activity for reasons rooted in cosmology: it was the easternmost of the Five Sacred Mountains (五岳, Wǔ Yuè) and east was the direction of sunrise, of spring, of life beginning. To perform the feng shan ceremony here was to align the Emperor's rule with cosmic order.
 
@@ -64,6 +66,8 @@ Two cable car options avoid most of the stairs:
 2. **Cable car from the back route area**: Serves the back approach.
 
 Using the cable car up and hiking down (or vice versa) is a reasonable combination for less active travelers. **Note**: The cable car does not go all the way to the summit — there are still 800+ steps from the cable car terminus to the top.
+
+![Mount Tai Shandong — The Sunrise Hike: How to Do It](https://images.pexels.com/photos/31506012/pexels-photo-31506012.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Sunrise Hike: How to Do It
 
@@ -112,6 +116,8 @@ The first major temple on the climbing route, dedicated to the Goddess of the Az
 
 ### Stone Inscriptions Everywhere
 One of the most distinctive features of Mount Tai is the density of inscriptions. Almost every large flat rock surface has been carved — imperial edicts, poetry, Buddhist texts, personal vows. The most significant cluster is the **Jingshi Valley (经石峪)** off the main route, where the Diamond Sutra inscription covers a 66-square-meter rock face in 6th century calligraphy.
+
+![Mount Tai Shandong — Getting to Tai'an](https://images.pexels.com/photos/8461249/pexels-photo-8461249.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting to Tai'an
 

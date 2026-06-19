@@ -12,7 +12,7 @@ tags:
   - china festivals
   - cultural events
 description: "Weifang in Shandong is the self-proclaimed kite capital of the world and hosts the International Kite Festival each April. This 2026 guide covers festival dates, where to watch, Weifang kite workshops, ticket prices, transportation from Qingdao and Jinan, local attractions, and where to stay during the festival."
-ogImage: "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/15593884/pexels-photo-15593884.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -22,6 +22,8 @@ There is something genuinely joyful about a city that has decided its defining i
 But Weifang offers more than just a few days of festival spectacle. The city's kite-making tradition, its local cuisine (Weifang sits in wheat-growing country and produces excellent dumplings and pancakes), and its status as a gateway to the Shandong coast make it a genuinely rewarding stop on a Shandong itinerary.
 
 ## The International Kite Festival
+
+![Weifang Kite Festival Shandong — The International Kite Festival](https://images.pexels.com/photos/23384156/pexels-photo-23384156.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 The Weifang International Kite Festival (潍坊国际风筝节) takes place annually in late April, typically running for about a week around April 20-27. The 2026 festival will be the 43rd edition and is expected to follow the established format with competitive events, performance flying, workshops, and a trade fair.
 
@@ -50,6 +52,8 @@ Entry: ¥30. Open 8:30am-5pm, closed Mondays.
 
 **Kite-making workshops:** Several family workshops in the old city area offer hands-on sessions where you make and decorate your own traditional kite. Sessions typically last 2-3 hours and cost ¥60-120 including materials. Results are genuinely flyable. Ask at your hotel or the tourism office for current recommended workshops.
 
+![Weifang Kite Festival Shandong — Getting to Weifang](https://images.pexels.com/photos/35421827/pexels-photo-35421827.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Getting to Weifang
 
 **By High-Speed Train:**
@@ -76,6 +80,8 @@ The kite festival is the headline, but Weifang has genuine historical and cultur
 **Weifang Old City Area:** The streets around the ancient drum tower and the old commercial district have been partially restored with traditional shophouse architecture. Less touristy than many such reconstructions, with genuine local businesses mixed among the heritage buildings.
 
 **Shijingshan Reservoir and Yimeng Mountain Area:** For nature escapes, the mountainous areas south of Weifang offer hiking in the Yimeng hills and reservoir scenery. Less visited by international travellers but popular for Shandong weekenders.
+
+![Weifang Kite Festival Shandong — Where to Stay in Weifang](https://images.pexels.com/photos/7969105/pexels-photo-7969105.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Where to Stay in Weifang
 

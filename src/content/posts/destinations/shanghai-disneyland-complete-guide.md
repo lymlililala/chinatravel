@@ -11,7 +11,7 @@ tags:
   - family
   - entertainment
 description: "Everything you need to know about visiting Shanghai Disney Resort — how to book tickets, which rides are worth the queues, the best dining options, and how to get the most out of a single day or weekend visit."
-ogImage: "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/36064240/pexels-photo-36064240.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Shanghai Disneyland opened in 2016 and quickly established itself as one of the most impressive Disney parks in the world. It's not just a scaled-up copy of the American originals — the designers built several genuinely unique attractions here that you won't find anywhere else, and the park is massive. On a busy day, you could walk 20,000 steps without leaving the resort. This guide covers everything you need to plan a visit that doesn't end in exhaustion and disappointment.
@@ -19,6 +19,8 @@ Shanghai Disneyland opened in 2016 and quickly established itself as one of the 
 ## Table of contents
 
 ## Getting Your Tickets
+
+![Shanghai Disneyland — Getting Your Tickets](https://images.pexels.com/photos/3826577/pexels-photo-3826577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **Book online before you go — never show up without tickets.** Shanghai Disneyland regularly sells out on weekends, public holidays, and Chinese school holidays (especially July and August). Walking up to the gate hoping to buy a ticket is a gamble you'll probably lose.
 
@@ -44,6 +46,8 @@ From central Shanghai, the easiest option is the **Metro Line 11** which has a d
 By taxi or Didi from Jing'an or Lujiazui: expect **¥80–120** and 40–60 minutes depending on traffic. Don't bother driving yourself — parking is expensive and you'll be exhausted.
 
 **Pro tip:** Take the Metro there and Didi back in the evening. By 9pm the Metro queues at the Disney station can be 30–40 minutes long.
+
+![Shanghai Disneyland — The Seven Lands: What to Prioritize](https://images.pexels.com/photos/16187186/pexels-photo-16187186.png?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Seven Lands: What to Prioritize
 
@@ -77,6 +81,8 @@ Food quality inside Disney parks varies, and Shanghai is no exception. The best 
 **For budget eating:** The park permits you to bring in food from outside (unusual for Disney parks globally). Many local families bring snacks and sandwiches. There's no bag check for food items.
 
 Price expectation: A main meal inside the park costs **¥80–150 per person**. Ice creams run **¥35–55**. The Mickey-shaped waffles at ¥35 are a must-try even if you're not a Disney person.
+
+![Shanghai Disneyland — Practical Tips](https://images.pexels.com/photos/19636898/pexels-photo-19636898.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Practical Tips
 

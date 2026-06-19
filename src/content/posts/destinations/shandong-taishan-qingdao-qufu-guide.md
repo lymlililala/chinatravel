@@ -21,6 +21,8 @@ Shandong (山东) projects into the Yellow Sea like a fist — a large peninsula
 
 ## Mount Tai (泰山) — China's Number One Sacred Mountain
 
+![Shandong — Mount Tai (泰山) — China's Number One Sacred Mountain](https://images.pexels.com/photos/6724259/pexels-photo-6724259.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 Of China's five sacred Taoist mountains (五岳), Mount Tai (1,545m) is considered the paramount "First Mountain Under Heaven" (天下第一山). 72 emperors came here to perform Heaven-Earth thanksgiving ceremonies. Over 6,000 stone steps ascend the mountain; the trail is lined with inscribed tablets accumulated over 3,000 years of pilgrimage.
 
 ### Climbing Routes
@@ -43,6 +45,8 @@ Of China's five sacred Taoist mountains (五岳), Mount Tai (1,545m) is consider
 
 ---
 
+![Shandong — Qufu (曲阜) — Confucius's Birthplace](https://images.pexels.com/photos/14508161/pexels-photo-14508161.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Qufu (曲阜) — Confucius's Birthplace
 
 The Confucius cultural complex in Qufu is UNESCO World Heritage — three distinct sites:
@@ -61,6 +65,8 @@ A sacred grove of 20,000+ trees in which every generation of the Kong family has
 **Combined ticket for all three sites:** ¥150
 
 ---
+
+![Shandong — Qingdao (青岛) — Germany's China Colony](https://images.pexels.com/photos/11875330/pexels-photo-11875330.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Qingdao (青岛) — Germany's China Colony
 

@@ -12,7 +12,7 @@ tags:
   - nature
   - china
 description: "Qinghai Lake sits at 3,205 metres on the Tibetan Plateau — a vast inland sea of deep blue ringed by snow mountains and yellow rapeseed fields. This guide covers how to get there, the best cycling routes around the lake, the Bird Island nature reserve, seasonal timing, and everything else you need for a memorable visit."
-ogImage: "https://images.unsplash.com/photo-1596402184320-417e7178b2cd?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/32063208/pexels-photo-32063208.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Qinghai Lake (青海湖, Qīnghǎi Hú) is China's largest lake and the world's third-largest saline lake at 4,317 square kilometres. It sits at 3,205 metres above sea level on the northeastern edge of the Tibetan Plateau, held in a basin between the Qilian Mountains to the north and the Tibetan highlands to the south. The water is a deep, luminous blue that photographers spend entire careers trying to capture faithfully — and mostly failing, because no screen really conveys how electric the colour is under clear plateau sky.
@@ -22,6 +22,8 @@ The lake has become one of China's most popular cycling destinations. Every July
 ## Table of contents
 
 ## Why Qinghai Lake is Worth the Effort
+
+![Qinghai Lake — Why Qinghai Lake is Worth the Effort](https://images.pexels.com/photos/12853271/pexels-photo-12853271.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Getting to Qinghai Lake requires either flying to Xining and taking a bus or train, or making the overland journey from further afield. It's not a casual side trip. But the combination of scale (you can see the far shore shimmering 50 kilometres away), altitude-enhanced colours, and the surrounding ecosystem makes it unlike any other lake destination in China.
 
@@ -46,6 +48,8 @@ Outside the summer cycling and birdwatching peak, Qinghai Lake in winter becomes
 **By train:** The Xining-Golmud railway passes along the north shore of the lake. Getting off at Heimahe station or the less-used Shadao station requires advance planning as not all trains stop and the stations are several kilometres from the visitor areas. Train is not the practical choice for most visitors.
 
 **Private car or rental:** The most flexible option. Xining has car rental agencies. The lake circuit road (Route 227 and Route 315) is good quality and well-signed. Allow a full day for the circuit drive, or two days if you want to stop seriously at multiple points.
+
+![Qinghai Lake — The Cycling Circuit](https://images.pexels.com/photos/32917702/pexels-photo-32917702.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Cycling Circuit
 
@@ -77,6 +81,8 @@ Options cluster at Erlangjian and Heimahe. Expect basic but clean guesthouses an
 **Heimahe village:** Smaller selection, mostly guesthouses run by local Tibetan families. More atmospheric but less comfortable. Prices similar at budget end. The advantage is you're positioned for the sunrise without needing to move.
 
 **Camping:** Permitted in designated areas with a permit. Self-sufficient camping is possible in the grassland areas away from the core scenic zones, but facilities are obviously zero and nights get very cold even in summer.
+
+![Qinghai Lake — Entrance Fees & Scenic Areas](https://images.pexels.com/photos/20890860/pexels-photo-20890860.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Entrance Fees & Scenic Areas
 

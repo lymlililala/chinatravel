@@ -11,7 +11,7 @@ tags:
   - east-china
   - culture
 description: "A 5-day Shandong itinerary — climbing Mount Tai (Taishan) at sunrise, the beer and beach culture of Qingdao, Confucius' birthplace at Qufu (the Three Kongs: Mansion, Temple, Cemetery), and the spring-fed pools of Jinan. Train connections and practical booking info."
-ogImage: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=1200&q=85"
+ogImage: "https://images.unsplash.com/photo-1680405698748-48ba8eed5eaa?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwyfHxTaGFuZG9uZ3xlbnwwfDB8fHwxNzgxODY4OTA2fDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
 ---
 
 Shandong is one of China's cultural heartlands — the birthplace of Confucius and Mencius, the location of one of the five sacred mountains, and the province whose overseas diaspora gave the world kung pao chicken and Tsingtao beer. It's also one of the most accessible provinces for first-time China visitors: good infrastructure, relatively English-friendly in Qingdao, and easy HSR connections from Beijing (1.5 hours) and Shanghai (1.5 hours).
@@ -21,6 +21,8 @@ Five days covers the four main destinations: Jinan, Taishan, Qufu, and Qingdao.
 ## Table of contents
 
 ## Getting There & Around
+
+![Shandong — Getting There & Around](https://images.unsplash.com/photo-1646912951442-7a2bc5e8cd06?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw1fHwlMjYlMjBBcm91bmR8ZW58MHwwfHx8MTc4MTgzOTI0OXww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 **Entry points:** 
 - Jinan Yaoqiang Airport (TNA) for the western circuit
@@ -63,6 +65,8 @@ Shandong cuisine (鲁菜, Lu Cai) is one of China's eight major regional cuisine
 - **Scallion-stuffed flatbread** (大葱饼, ¥5-8) — standard Shandong street food
 
 ---
+
+![Shandong — Day 2: Taishan (Mount Tai)](https://images.unsplash.com/photo-1586223754361-710ed15b3570?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxUYWlzaGFufGVufDB8MHx8fDE3ODE4NDMxMzl8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## Day 2: Taishan (Mount Tai)
 
@@ -113,6 +117,8 @@ The **Apricot Altar** (杏坛) within the temple grounds is where Confucius taug
 **Take a rickshaw** from the city center to the cemetery and back (¥15-30 per person each way) — they're lined up outside the main gate.
 
 ---
+
+![Shandong — Days 4-5: Qingdao — Beer, Beaches & German Colony](https://images.unsplash.com/photo-1664669174411-0c168466be8c?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwzfHxTaGFuZG9uZ3xlbnwwfDB8fHwxNzgxODY4OTA2fDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## Days 4-5: Qingdao — Beer, Beaches & German Colony
 

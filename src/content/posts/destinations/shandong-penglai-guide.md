@@ -123,6 +123,8 @@ The city is compact. The old town, pavilion complex and most hotels are within 3
 
 **Winter (November–March):** Quiet, cold and sometimes atmospheric. The pavilion in morning frost has its own beauty. Very few foreign tourists; prices are substantially lower.
 
+![Penglai Shandong — Day Trips from Penglai](https://images.pexels.com/photos/3250079/pexels-photo-3250079.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Day Trips from Penglai
 
 ### Changdao Archipelago (长岛)

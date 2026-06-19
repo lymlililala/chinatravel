@@ -20,6 +20,8 @@ Shaanxi (陕西) is most famous for Xi'an and the Terracotta Warriors — but th
 
 ## Huashan (华山): China's Most Dangerous Hike
 
+![Shaanxi Beyond Xi' — Huashan (华山): China's Most Dangerous Hike](https://images.pexels.com/photos/36702207/pexels-photo-36702207.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 100 km east of Xi'an — one of China's five sacred Daoist mountains, and unquestionably the most physically frightening mountain trail in China.
 
 **The terrain:** Huashan is composed of a single enormous granite monolith, its vertical faces carved with steps and equipped with chain handrails. The most extreme section is the **Plank Walk (长空栈道)** — a series of wooden planks bolted directly into a vertical cliff face, traversed sideways with a chain to hold and a 2,000-metre drop below.
@@ -36,6 +38,8 @@ Shaanxi (陕西) is most famous for Xi'an and the Terracotta Warriors — but th
 
 ---
 
+![Shaanxi Beyond Xi' — Hanzhong (汉中): The Spring Rapeseed Valley](https://images.pexels.com/photos/17943573/pexels-photo-17943573.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Hanzhong (汉中): The Spring Rapeseed Valley
 
 400 km south of Xi'an via the Qinling Mountains — a subtropical valley with distinctly southern climate that grows the most spectacular spring rapeseed landscape in northern China.
@@ -47,6 +51,8 @@ Shaanxi (陕西) is most famous for Xi'an and the Terracotta Warriors — but th
 **The Han Dynasty ruins:** The **Wumenlou Site (五门楼遗址)** marks Liu Bang's original headquarters; the **Zhang Liang Temple (张良庙)** in the Liuba mountains commemorates Liu Bang's chief strategist.
 
 ---
+
+![Shaanxi Beyond Xi' — Maoling Mausoleum (茂陵)](https://images.pexels.com/photos/20485675/pexels-photo-20485675.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Maoling Mausoleum (茂陵)
 

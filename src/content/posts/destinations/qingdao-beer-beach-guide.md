@@ -1,6 +1,7 @@
 ---
 title: "Qingdao Travel Guide: Beer, Beaches, and German Architecture"
 description: "Complete guide to Qingdao — home of Tsingtao Beer, beautiful beaches, German colonial architecture, and fresh seafood. Best beaches, beer city walking routes, practical tips for visiting Qingdao in 2026."
+ogImage: "https://images.pexels.com/photos/20167101/pexels-photo-20167101.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/qingdao-beach.jpg"
 category: "destinations"
@@ -13,6 +14,8 @@ author: "RoamChina Travel"
 Few Chinese cities have a more distinctive character than Qingdao (青岛, Qīngdǎo). A former German colonial concession (1898-1914), the city retains an extraordinary concentration of 19th-century Germanic architecture alongside some of China's cleanest and most developed beach resorts. The Tsingtao Brewery, established by German settlers in 1903, has made Qingdao's name internationally recognizable.
 
 The combination creates something genuinely unusual in China: a coastal city that feels simultaneously deeply Chinese (in its food, its people, and its contemporary life) and visually unlike anything else in East Asia.
+
+![Qingdao — A Brief History](https://images.pexels.com/photos/30143919/pexels-photo-30143919.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## A Brief History
 
@@ -46,6 +49,8 @@ The combination of seasonal flowers (each street famously blooms in a different 
 
 **Best season**: Spring (April-May) when cherry, magnolia, and other flowering trees are at peak; autumn for foliage.
 
+![Qingdao — Beaches](https://images.pexels.com/photos/36963222/pexels-photo-36963222.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Beaches
 
 Qingdao has a string of officially numbered beaches along its coastline, each with slightly different characteristics:
@@ -71,6 +76,8 @@ The museum effectively tells the story of Qingdao itself through the history of 
 **Address**: 56 Deng Zhou Road, Shibei District. Metro Line 3, Dengzhou Road Station.
 
 **Tip**: The adjacent shops sell Tsingtao merchandise and special limited-edition beers not available in standard retail.
+
+![Qingdao — Seafood and Food Culture](https://images.pexels.com/photos/24973370/pexels-photo-24973370.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Seafood and Food Culture
 

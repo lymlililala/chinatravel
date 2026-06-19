@@ -1,6 +1,7 @@
 ---
 title: "Qufu Confucius Temple, Cemetery & Mansion: Complete Guide 2026"
 description: "Complete guide to Qufu, birthplace of Confucius — the Kong Family Mansion, Confucius Temple, and Confucius Cemetery (the three Kongs). UNESCO World Heritage site in Shandong. Tickets, routes, and practical tips."
+ogImage: "https://images.pexels.com/photos/6952102/pexels-photo-6952102.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/qufu-confucius.jpg"
 category: "destinations"
@@ -13,6 +14,8 @@ author: "RoamChina Travel"
 Qufu (曲阜, Qūfù) in Shandong province is one of the most significant cultural pilgrimage sites in East Asia. This small city was the birthplace of Confucius (551-479 BCE), whose philosophical and ethical system became the dominant ideology of Chinese civilization for 2,500 years and profoundly influenced Korean, Japanese, and Vietnamese culture as well.
 
 The "Three Kongs" (三孔) — the Confucius Temple (孔庙), Kong Family Mansion (孔府), and Confucius Cemetery (孔林) — form a UNESCO World Heritage Site of extraordinary historical and cultural significance. Together they constitute one of China's largest surviving complexes of pre-modern architecture outside Beijing's Forbidden City.
+
+![Qufu Confucius Temple, Cemetery & Mansion — Historical Context](https://images.pexels.com/photos/33457680/pexels-photo-33457680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Historical Context
 
@@ -42,6 +45,8 @@ The Confucius Temple is one of China's three great palace complexes (alongside t
 - Time needed: 2-3 hours
 - Audio guide: Available for rent at the gate (¥30)
 
+![Qufu Confucius Temple, Cemetery & Mansion — Kong Family Mansion (孔府)](https://images.pexels.com/photos/15847208/pexels-photo-15847208.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Kong Family Mansion (孔府)
 
 The Kong Family Mansion is the official residence and administrative headquarters of successive generations of the Kong family, who held the honorary title of "Duke Yansheng" (衍圣公). The complex functioned simultaneously as a noble residence, a government office (the family had semi-independent administrative authority over Qufu), and a center of ritual and scholarship.
@@ -68,6 +73,8 @@ The Confucius Cemetery is the world's largest family cemetery — a walled fores
 
 **Entry**: Included in combined ticket.
 **Travel**: The cemetery is 1 km north of the Kong Family Mansion; most visitors take a horse-drawn cart (¥10-15) or walk.
+
+![Qufu Confucius Temple, Cemetery & Mansion — Confucius Ceremony](https://images.pexels.com/photos/9867888/pexels-photo-9867888.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Confucius Ceremony
 

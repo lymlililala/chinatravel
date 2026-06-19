@@ -12,6 +12,7 @@ tags:
   - architecture
   - photography
 description: "The definitive guide to Shanghai's iconic Bund waterfront — best viewpoints for day and night, the ¥2 ferry trick, nearby food and shopping, and how to experience this extraordinary architectural showcase."
+ogImage: "https://images.pexels.com/photos/32062049/pexels-photo-32062049.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 There are skylines and then there is Shanghai. The view from the Bund at night — 52 colonial-era buildings lit in gold facing across the Huangpu River at the glass-and-steel towers of Pudong — creates an architectural contrast found nowhere else on earth. It is a view that makes every other city skyline feel slightly less impressive.
@@ -21,6 +22,8 @@ The Bund (外滩, pronounced "Wàitān") runs for 1.5 km along the western bank 
 ## Table of contents
 
 ## The ¥2 Ferry: Shanghai's Best Kept Secret
+
+![Bund Shanghai — The ¥2 Ferry: Shanghai's Best Kept Secret](https://images.pexels.com/photos/17681635/pexels-photo-17681635.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Before anything else, you need to know about the **Jinling Road Ferry (金陵路渡轮)**.
 
@@ -79,6 +82,8 @@ The Bund's night views operate on a specific schedule that locals have mapped ca
 
 **Special nights:** During major Chinese holidays (National Day in October, Spring Festival), additional light shows are projected onto the Bund buildings — spectacular but crowds are enormous.
 
+![Bund Shanghai — The Colonial Architecture: A Walking Guide](https://images.pexels.com/photos/32315179/pexels-photo-32315179.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The Colonial Architecture: A Walking Guide
 
 The 52 historic buildings along the Bund represent what was, in the 1920s–1930s, the most expensive real estate in Asia. Each has a distinct architectural character:
@@ -103,6 +108,8 @@ Shanghai's premier pedestrian shopping street runs 1.2 km westward from the Bund
 A 15-minute walk south from the Bund, the **Yu Garden (¥40)** is a classical Ming Dynasty garden built in 1559 — one of Shanghai's most beautiful historic sites. The surrounding old city bazaar is chaotic and touristy but the small-food stalls around the central lake serve excellent xiaolongbao (soup dumplings) at reasonable prices.
 
 **Best time:** Mornings when the garden itself is quieter.
+
+![Bund Shanghai — Where to Eat Near the Bund](https://images.pexels.com/photos/30221299/pexels-photo-30221299.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Where to Eat Near the Bund
 

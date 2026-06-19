@@ -11,7 +11,7 @@ tags:
   - planning
   - east-china
 description: "Shanghai accommodation by neighbourhood — the French Concession for boutique hotels and independent restaurants, the Bund area for the skyline view (and premium prices), Jing'an for central balance, Pudong for business travel. Specific hotel picks at budget (¥250-500/night), mid-range (¥700-1500/night), and luxury (¥2000+/night)."
-ogImage: "https://images.unsplash.com/photo-1538428494232-9c0d8a3ab403?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/37011820/pexels-photo-37011820.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Choosing where to stay in Shanghai comes down to what version of the city you want to experience. The French Concession delivers the best independent restaurants, boutique shops, and neighbourhood character. The Bund area is expensive but delivers the skyline view that defines Shanghai internationally. Jing'an is the practical choice — central, good metro, mix of food and shopping options without being either as atmospheric or as premium as the two alternatives. For business travellers, Pudong's CBD is the rational answer regardless of its character deficit.
@@ -19,6 +19,8 @@ Choosing where to stay in Shanghai comes down to what version of the city you wa
 ## Table of contents
 
 ## Neighbourhood Guide
+
+![Stay Shanghai — Neighbourhood Guide](https://images.pexels.com/photos/37238905/pexels-photo-37238905.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### French Concession (法租界): The Best Eating and Independent Scene
 
@@ -51,6 +53,8 @@ The cost: everything here is more expensive, and you're in an area that's heavil
 
 For leisure travel, Pudong is inconvenient — the metro connections to the rest of Shanghai require river crossing, and the neighbourhood has minimal independent restaurant or bar culture.
 
+![Stay Shanghai — Budget Hotels and Hostels (¥250-500/night)](https://images.pexels.com/photos/23507181/pexels-photo-23507181.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Budget Hotels and Hostels (¥250-500/night)
 
 Shanghai is China's most expensive city for accommodation, which means "budget" here is relative.
@@ -62,6 +66,8 @@ Shanghai is China's most expensive city for accommodation, which means "budget" 
 **Budget hotels (快捷酒店):** The ¥250-400 range in Shanghai typically gets you a clean, functional room with private bathroom. Areas away from the French Concession (Hongkou, Putuo, Minhang districts) have cheaper options but require metro transit to reach most sights.
 
 **Best budget locations:** The **Xuhui district** southern end of the French Concession has the best concentration of affordable guesthouses and small hotels with character, at lower prices than the core French Concession. Areas around **Yongkang Road** and **Wulumuqi Road** are walkable to French Concession food streets.
+
+![Stay Shanghai — Mid-Range Hotels (¥700-1,500/night)](https://images.pexels.com/photos/12232871/pexels-photo-12232871.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Mid-Range Hotels (¥700-1,500/night)
 

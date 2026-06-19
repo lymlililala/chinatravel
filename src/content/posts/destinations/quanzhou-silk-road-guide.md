@@ -12,7 +12,7 @@ tags:
   - culture
   - east-china
 description: "Quanzhou (泉州) in Fujian — named by Marco Polo as 'the greatest port in the world' in the 13th century, and a UNESCO World Heritage Site since 2021. The mix of Muslim mosques, Hindu temples, Buddhist monasteries, and Taoist temples that reflects the city's extraordinary cosmopolitan medieval history. The Kaiyuan Temple, the Quanzhou Maritime Museum, and the Huian stone sculpture tradition."
-ogImage: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/38109196/pexels-photo-38109196.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 In 1271 AD, when Marco Polo called Zayton (his name for Quanzhou) "the greatest port in the world," he was exaggerating, but not by much. Quanzhou at its height in the Song and Yuan dynasties was among the most commercially active ports on earth — the eastern terminus of the Maritime Silk Road, where Arab, Persian, Indian, and Southeast Asian merchants unloaded spices, ivory, and incense, and loaded Chinese porcelain, silk, and tea.
@@ -22,6 +22,8 @@ The result of centuries of cosmopolitan trade was a city where practically every
 ## Table of contents
 
 ## Kaiyuan Temple (开元寺)
+
+![Quanzhou — Kaiyuan Temple (开元寺)](https://images.pexels.com/photos/20187646/pexels-photo-20187646.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Kaiyuan Temple is the largest and most famous Buddhist temple in Fujian, founded in 686 AD during the Tang Dynasty. The complex covers 7.8 hectares and is anchored by a Great Hall of stunning scale, flanked by two stone pagodas — the East Tower (Zhenguo Ta) and the West Tower (Renshou Ta) — that are the most recognizable landmark in Quanzhou.
 
@@ -54,6 +56,8 @@ About 3km east of the city centre, the tomb of two of the Prophet Muhammad's com
 **Entry:** Free  
 **Worth the short trip** for anyone interested in the history of Islam in China
 
+![Quanzhou — Tamil Hindu Carvings (番佛寺遗址)](https://images.pexels.com/photos/18696204/pexels-photo-18696204.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Tamil Hindu Carvings (番佛寺遗址)
 
 Scattered throughout the city and incorporated into various buildings are stone carvings in South Indian (Tamil Dravidian) style — Shiva lingas, lion figures, and temple column pieces from a Hindu temple that stood in Quanzhou's medieval Indian merchant quarter. Many are now in the Quanzhou Maritime Museum.
@@ -83,6 +87,8 @@ About 40km east of Quanzhou, Chongwu is a fully intact Ming Dynasty coastal defe
 **Entry fee:** ¥40 per person (wall access)
 
 The Huian Women (惠安女) from this area have a distinctive traditional costume — bright yellow headscarf, silver-embroidered blouse, and wide trousers — that photographers have documented for decades. The costume is still worn daily by older women.
+
+![Quanzhou — Huian Stone Sculpture (惠安石雕)](https://images.pexels.com/photos/18672899/pexels-photo-18672899.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Huian Stone Sculpture (惠安石雕)
 

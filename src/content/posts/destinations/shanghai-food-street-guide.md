@@ -11,7 +11,7 @@ tags:
   - street-food
   - east-china
 description: "Eating real Shanghai food — the best xiaolongbao (Din Tai Fung vs Nanxiang Steamed Bun Restaurant vs local shops), where to queue for shengjianbao at breakfast, the Tongchuan Road seafood market, Yuyuan Garden's street snacks, and neighbourhood-by-neighbourhood eating advice across Shanghai."
-ogImage: "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/7000842/pexels-photo-7000842.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Shanghai food is a study in contrasts. The city has some of the best fine dining in Asia, and it also has breakfast dumplings eaten from a paper bag on a street corner. Both are worth your time. The trap most visitors fall into is going straight for the famous names and missing the everyday food culture that runs this city — the lane-side noodle shops, the predawn shengjianbao queues, the working-class seafood markets that restaurants source from.
@@ -19,6 +19,8 @@ Shanghai food is a study in contrasts. The city has some of the best fine dining
 ## Table of contents
 
 ## Xiaolongbao: The Ranking That Matters
+
+![Shanghai Street Food & Local Eating — Xiaolongbao: The Ranking That Matters](https://images.pexels.com/photos/24349909/pexels-photo-24349909.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **Xiaolongbao** (小笼包, soup dumplings) are Shanghai's most iconic food, and there's a genuine spectrum of quality that most guides don't bother distinguishing.
 
@@ -49,6 +51,8 @@ The ritual: queue at a neighbourhood shengjianbao shop before 9am, order by weig
 - **Da Hu Chun** (大壶春) — the traditional Shanghai institution near the Bund area, open since 1932. Slightly crispier base than Yang's.
 - Local neighbourhood versions — any shop with a griddle pan and a morning queue is worth trying.
 
+![Shanghai Street Food & Local Eating — Yuyuan Garden Area: Tourist Prices, Some Real Food](https://images.pexels.com/photos/20847326/pexels-photo-20847326.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Yuyuan Garden Area: Tourist Prices, Some Real Food
 
 **Yuyuan Garden** (豫园) tourist area is undeniably commercial. The lanes around the Ming dynasty garden are full of souvenir shops and overpriced restaurants. But there are genuinely good things to eat here if you know what to look for.
@@ -68,6 +72,8 @@ The market is biggest in the early morning (5-9am) but some vendors trade throug
 **Hairy crab season** (大闸蟹, dàzhà xiē) runs October-November, and Tongchuan Road is the best place in Shanghai to buy them at non-restaurant-markup prices. Expect to pay ¥50-150 per crab depending on size and sex (females are more prized for their roe).
 
 **Getting there:** Zhenru metro station, Line 11, then taxi or walk 10-15 minutes north.
+
+![Shanghai Street Food & Local Eating — Neighbourhood-by-Neighbourhood Eating](https://images.pexels.com/photos/36051950/pexels-photo-36051950.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Neighbourhood-by-Neighbourhood Eating
 

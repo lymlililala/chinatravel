@@ -12,7 +12,7 @@ tags:
   - cycling
   - history
 description: "Xi'an's Ming Dynasty city wall is one of China's best-preserved ancient fortifications — 13.7km of walkable rampart circling the old city. Cycling the full circuit at sunrise or dusk, exploring the gate towers, or doing the dramatic night-lit walk is one of Xi'an's signature experiences. This 2026 complete guide covers tickets, cycling logistics, best times, photography, and combining the wall with Xi'an's wider attractions."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/33551477/pexels-photo-33551477.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -22,6 +22,8 @@ Xi'an's city wall (西安城墙) is the largest and most complete ancient city w
 Unlike many historical sites in China that require imagination to connect the current state to past grandeur, the Xi'an city wall requires very little imagination. Walk or cycle along the top and you are on the same wall that saw armies, merchants, and pilgrims approaching this city for centuries. The scale, the solidity, and the continuity of the thing are palpable.
 
 ## Tickets and Access
+
+![Xi' City Wall — Tickets and Access](https://images.pexels.com/photos/17943583/pexels-photo-17943583.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **Entry ticket**: ¥54/adult (wall access only)
 **Bicycle rental**: ¥45/hour for standard bikes; ¥50/hour for tandem bikes; ¥80/hour for electric bikes
@@ -68,6 +70,8 @@ The final section, passing the Small South Gate. Near the South Gate approach, t
 - **Allow extra time**: The rental includes the bike; there's no pressure to rush. Stop at every corner tower, take photos, eat at the small food stalls (noodle shops along the wall from around 9am).
 - **Electric bikes**: If you want a more leisurely experience, the electric bike rental at ¥80/hour covers the full circuit in under an hour and lets you look around rather than pedal.
 
+![Xi' City Wall — The Gate Towers: What to See](https://images.pexels.com/photos/37817222/pexels-photo-37817222.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The Gate Towers: What to See
 
 The city wall has four main gates (South, North, East, West) and several smaller gates, each with a complex of towers:
@@ -89,6 +93,8 @@ The Xi'an City Wall at night is one of the city's great spectacles. The entire 1
 **South Gate Light Show**: From April to October, the South Gate area hosts a multi-media show using projection mapping on the gate towers, synchronized music, and colored lighting. Free to watch from outside the gate. Running times vary; check current schedule on arrival.
 
 **Night cycling**: The wall can be cycled at night (until 10pm). The lit wall with the city glowing on one side and the dark moat park on the other creates an extraordinary nighttime cycling experience. Less crowded than daytime except around South Gate during the light show.
+
+![Xi' City Wall — Combining with Xi'an Old City Attractions](https://images.pexels.com/photos/36736203/pexels-photo-36736203.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Combining with Xi'an Old City Attractions
 

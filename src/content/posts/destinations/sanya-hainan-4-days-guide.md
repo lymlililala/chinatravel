@@ -11,7 +11,7 @@ tags:
   - itinerary
   - beach
 description: "A practical 4-day Sanya itinerary — which beach to base yourself at (Yalong Bay vs Dadonghai vs Sanya Bay), the best snorkeling at Wuzhizhou Island, day trips to the Wuzhishan rainforest and the Li and Miao minority villages, and whether Sanya lives up to its 'Hawaii of China' reputation."
-ogImage: "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/13318777/pexels-photo-13318777.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Sanya is China's southern tropical playground — a resort city on the island of Hainan that draws Chinese tourists by the millions for beach holidays that most coastal Chinese cities can't provide. The water is genuinely warm and clear (by Chinese standards, exceptional — water temperature stays above 25°C year-round). The air is humid and tropical. The infrastructure is polished and international.
@@ -21,6 +21,8 @@ The comparison to Hawaii that Chinese tourism marketing loves to make is aspirat
 ## Table of contents
 
 ## Before You Arrive
+
+![Sanya, Hainan — Before You Arrive](https://images.pexels.com/photos/4242876/pexels-photo-4242876.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **Getting there:** Sanya Phoenix International Airport (SYX) is the main entry point. Domestic flights from most major Chinese cities are frequent and relatively cheap (¥300-800 from Beijing or Shanghai one-way). There's also a high-speed rail connecting Sanya to Haikou (the island capital) in about 1.5 hours.
 
@@ -54,6 +56,8 @@ For your first evening, walk the beachside road and explore the **Dadonghai seaf
 Preparation styles: steamed (清蒸), stir-fried with ginger and scallion (姜葱炒), or salt-baked (盐焗). Ask the restaurant to cook what you buy — they charge ¥15-30 cooking fee per dish.
 
 ---
+
+![Sanya, Hainan — Day 2: Wuzhizhou Island Snorkeling](https://images.pexels.com/photos/15923584/pexels-photo-15923584.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day 2: Wuzhizhou Island Snorkeling
 
@@ -94,6 +98,8 @@ The Li are Hainan's original inhabitants and have maintained distinct weaving, t
 **Yanoda Rainforest** (呀诺达雨林文化旅游区, ¥198) is closer to Sanya (45km) and focuses more on the tropical forest experience — walking trails through genuine rainforest, swimming in natural pools, and bamboo raft river sections. Good for families or anyone more interested in nature than culture.
 
 ---
+
+![Sanya, Hainan — Day 4: Tianya Haijiao & Departure](https://images.pexels.com/photos/18227450/pexels-photo-18227450.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day 4: Tianya Haijiao & Departure
 

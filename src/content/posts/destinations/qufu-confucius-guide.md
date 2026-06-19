@@ -12,7 +12,7 @@ tags:
   - culture
   - confucianism
 description: "Qufu (曲阜) in Shandong — the birthplace of Confucius and one of the most important historical sites in China. The Three Kongs: the Confucius Temple (孔庙, largest Confucian temple in China), Kong Family Mansion (孔府, the largest aristocratic residence in China), and the Confucius Cemetery (孔林, the largest family cemetery in the world). Getting there from Jinan or Taishan."
-ogImage: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/7470304/pexels-photo-7470304.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Confucius was born in Qufu in 551 BC, taught here, and died here in 479 BC. His ideas about society, governance, family relationships, and personal cultivation shaped Chinese civilization for 2,500 years — and through China's cultural influence, shaped much of East and Southeast Asia. The site of his birth and family home became one of the most sacred and carefully maintained places in China.
@@ -22,6 +22,8 @@ The "Three Kongs" (三孔) — the Confucius Temple, Kong Family Mansion, and Co
 ## Table of contents
 
 ## The Confucius Temple (孔庙)
+
+![Qufu — The Confucius Temple (孔庙)](https://images.pexels.com/photos/6952101/pexels-photo-6952101.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 The Confucius Temple (Kong Miao) is one of the largest temple complexes in China, covering 22 hectares and containing 466 rooms. It was founded in 478 BC — the year after Confucius died — when Duke Ai of Lu converted Confucius's house into a shrine. It has been expanded and rebuilt by practically every subsequent Chinese dynasty.
 
@@ -58,6 +60,8 @@ The Kong family held the title of "Duke Yansheng" — the most senior hereditary
 
 The mansion gives a fascinating look at how Confucian ideas about hierarchy, ceremony, and family were embodied in physical space — the layout itself expresses the philosophy.
 
+![Qufu — Confucius Cemetery (孔林)](https://images.pexels.com/photos/20753883/pexels-photo-20753883.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Confucius Cemetery (孔林)
 
 The Confucius Cemetery (Kong Lin) is a walled forest cemetery of about 200 hectares that has served as the burial ground for the Kong family for 2,500 years. It is the largest family cemetery in the world and contains over 100,000 graves of Confucius's descendants.
@@ -82,6 +86,8 @@ The large Nishan Confucius Temple (尼山孔庙) complex is worth visiting if yo
 
 **Entry:** ¥60 per person  
 **Getting there:** Buses from Qufu, about 1 hour, or taxi (¥60–80)
+
+![Qufu — The Confucius International Cultural Festival (孔子文化节)](https://images.pexels.com/photos/35132912/pexels-photo-35132912.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Confucius International Cultural Festival (孔子文化节)
 

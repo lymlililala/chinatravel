@@ -21,6 +21,8 @@ Shaanxi (陕西) served as the imperial capital of China for 13 dynasties — fr
 
 ## Xi'an — Imperial Capital
 
+![Shaanxi — Xi'an — Imperial Capital](https://images.pexels.com/photos/5601601/pexels-photo-5601601.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ### Terracotta Warriors (兵马俑) — UNESCO World Heritage
 
 No superlative does justice to this discovery: 8,000+ life-size clay soldiers, horses, and chariots buried in 246 BC to guard the tomb of China's first Emperor, Qin Shi Huang. Each soldier has unique facial features; they were originally brightly painted. The scale is incomprehensible until you stand before Pit 1 — a football field-sized excavation of standing warriors in battle formation.
@@ -63,6 +65,8 @@ Xi'an's Muslim Quarter reflects 1,300 years of Islam in China — brought along 
 
 ---
 
+![Shaanxi — Huashan Mountain (华山) — China's Most Dangerous Hike](https://images.pexels.com/photos/30109795/pexels-photo-30109795.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Huashan Mountain (华山) — China's Most Dangerous Hike
 
 Huashan (华山) is one of China's five sacred Taoist mountains — five distinct peaks connected by some of the most vertiginous mountain paths in the world. The **Plank Walk (长空栈道)** is the most famous: a 1-metre-wide plank walkway on iron stakes bolted to a sheer cliff face, with a 2,000-metre drop below.
@@ -84,6 +88,8 @@ Huashan (华山) is one of China's five sacred Taoist mountains — five distinc
 High-speed train from Xi'an to Huashan North Station (30 minutes, ¥30). Then cable car or foot trails from there.
 
 ---
+
+![Shaanxi — Hanzhong (汉中) — Han Dynasty Origins](https://images.pexels.com/photos/17943576/pexels-photo-17943576.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Hanzhong (汉中) — Han Dynasty Origins
 

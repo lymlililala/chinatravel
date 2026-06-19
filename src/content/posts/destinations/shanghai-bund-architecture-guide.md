@@ -1,6 +1,7 @@
 ---
 title: "Shanghai Bund Architecture Guide: 52 Buildings on the Waterfront"
 description: "Detailed architectural guide to the Bund's 52 historic buildings — the stories behind the HSBC building, Customs House clock tower, Sassoon House, and others. Best viewpoints, when to visit, and the Bund's history as Asia's greatest collection of 20th-century architecture."
+ogImage: "https://images.pexels.com/photos/37553914/pexels-photo-37553914.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/shanghai-bund-architecture.jpg"
 category: "destinations"
@@ -15,6 +16,8 @@ The Bund (外滩, Wàitān) is one of the world's great urban waterfronts — a 
 Today the buildings face the spectacular contrast of Pudong's modern skyline across the river. The juxtaposition is intentional — it's China's architectural statement about its transformation from colonial economic subject to global financial power.
 
 This guide focuses on reading the architecture, understanding the history, and experiencing the Bund as more than a photographic backdrop.
+
+![Shanghai Bund Architecture — Understanding the Historical Context](https://images.pexels.com/photos/30685872/pexels-photo-30685872.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Understanding the Historical Context
 
@@ -66,6 +69,8 @@ Built 1937. Unusually, this is the one building on the Bund that is explicitly C
 
 **Currently**: Bank of China branch.
 
+![Shanghai Bund Architecture — Walking the Bund](https://images.pexels.com/photos/35632128/pexels-photo-35632128.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Walking the Bund
 
 **The Promenade**: The Bund's riverfront promenade runs the full length of the historical buildings. It's open 24 hours; the experience changes dramatically by time of day.
@@ -87,6 +92,8 @@ Built 1937. Unusually, this is the one building on the Bund that is explicitly C
 **The Historic Chinese areas behind the Bund**: Old Shanghai Street (老街) and the Yuyuan area immediately behind the Bund represent the Chinese city that predates the International Settlement. The contrast between the Western financial architecture of the Bund and the traditional Chinese architecture of Yu Garden (a few blocks away) captures the spatial division of colonial Shanghai.
 
 **North Bund (北外滩)**: The area north of Suzhou Creek and the Waibaidu Bridge (外白渡桥 — Garden Bridge) was the American Settlement. Some historical buildings survive; the area is less visited and has a different atmosphere from the main Bund.
+
+![Shanghai Bund Architecture — When to Visit](https://images.pexels.com/photos/30685869/pexels-photo-30685869.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## When to Visit
 

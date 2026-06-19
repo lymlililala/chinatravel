@@ -13,7 +13,7 @@ tags:
   - nature
   - plateau
 description: "Qinghai is one of the world's great wilderness trekking destinations — the Tibetan Plateau's highest and most remote terrain, containing the sources of the Yangtze, Yellow and Mekong rivers, the protected Kekexili no-man's-land of the Changtang, and some of the most challenging high-altitude hiking available to non-technical trekkers. This 2026 guide covers permit requirements, key trekking areas, altitude acclimatisation, logistics and essential safety information."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/1486911/pexels-photo-1486911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -25,6 +25,8 @@ But for the trekker who comes prepared, Qinghai offers something available in ve
 This guide is for serious trekkers. If you're looking for a comfortable Qinghai sightseeing overview, see our general Qinghai travel guide instead.
 
 ## Understanding Altitude in Qinghai
+
+![Qinghai Trekking — Understanding Altitude in Qinghai](https://images.pexels.com/photos/31404934/pexels-photo-31404934.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### The Acclimatisation Imperative
 
@@ -102,6 +104,8 @@ The grasslands around Zhiduo County (治多县) — one of the highest inhabited
 
 **Accommodation:** Basic Tibetan-run guesthouses in Zhiduo town; ¥80–¥120/night ($11–$17). Meals available at very limited options.
 
+![Qinghai Trekking — Essential Logistics](https://images.pexels.com/photos/6170142/pexels-photo-6170142.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Essential Logistics
 
 ### Getting to the Trekking Areas
@@ -141,6 +145,8 @@ Standard travel insurance does not cover high-altitude trekking in most cases. S
 - Ibuprofen and paracetamol for altitude headache
 - Oral rehydration salts
 - First aid kit
+
+![Qinghai Trekking — Best Trekking Season](https://images.pexels.com/photos/877263/pexels-photo-877263.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Best Trekking Season
 

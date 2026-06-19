@@ -11,7 +11,7 @@ tags:
   - northwest-china
   - tibet-culture
 description: "A practical 5-day Qinghai itinerary — Xining as base and the Kumbum (Ta'er Si) Monastery, cycling around Qinghai Lake (China's largest saltwater lake), the Qilian Mountains with their summer wildflower meadows, and the start of the Sichuan-Tibet Highway at the Yushu grasslands. Altitude advice."
-ogImage: "https://images.unsplash.com/photo-1437846972679-9e6e537be46e?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/36700647/pexels-photo-36700647.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Qinghai is China's third-largest province by area and one of the least visited by international tourists. It's the source of three of Asia's great rivers — the Yellow River, the Yangtze, and the Mekong — and its plateau terrain averages 3,000m above sea level. The province is culturally Tibetan in character (most of historic Tibet was in Qinghai before modern borders), with a significant Hui Muslim population in the lowlands.
@@ -21,6 +21,8 @@ For travelers exploring northwest China, Qinghai fills a unique niche: the cultu
 ## Table of contents
 
 ## Before You Arrive
+
+![Qinghai — Before You Arrive](https://images.pexels.com/photos/5597730/pexels-photo-5597730.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **Getting there:** Xining Caojiabao International Airport (XNN) has connections to most Chinese cities. The **Qinghai-Tibet Railway** from Xining to Lhasa is a famous journey in itself — even if you're not going to Tibet, arriving in Xining by train from Xi'an (2 hours by HSR, ¥145) or Lanzhou (1 hour by HSR, ¥60) is convenient.
 
@@ -53,6 +55,8 @@ Return to Xining for the afternoon. The **Dongguan Mosque** (东关清真大寺,
 
 ---
 
+![Qinghai — Day 2: Qinghai Lake](https://images.pexels.com/photos/31811948/pexels-photo-31811948.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Day 2: Qinghai Lake
 
 **Qinghai Lake** (青海湖, ¥60 scenic area) is China's largest lake by surface area — 4,300km² of salt water at 3,195m altitude, ringed by mountains and grasslands. The water is a vivid blue-green that's entirely natural and caused by the mineral content. On clear days, the snow-capped Qilian Mountains are reflected in the water.
@@ -82,6 +86,8 @@ Return to Xining for the afternoon. The **Dongguan Mosque** (东关清真大寺,
 **Daer Cave Monastery** (达尔寺, free) near Qilian County is a small Tibetan Buddhist monastery in a dramatic cliffside setting — monks have lived here since the 14th century, and the cave cells are still inhabited.
 
 ---
+
+![Qinghai — Day 4: Yellow River Loop or Longyangxia Gorge](https://images.pexels.com/photos/37105509/pexels-photo-37105509.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day 4: Yellow River Loop or Longyangxia Gorge
 

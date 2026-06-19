@@ -59,6 +59,8 @@ The term "Yimeng Spirit" (沂蒙精神) — referring to the selfless dedication
 
 **Is it worth visiting if you're not interested in Communist history?** The mountain scenery is genuinely beautiful, and the memorials provide insight into how modern China understands its own history. I'd recommend it even for non-specialists.
 
+![Linyi Shandong — Meng Mountain Scenic Area (蒙山旅游区)](https://images.pexels.com/photos/15949899/pexels-photo-15949899.png?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Meng Mountain Scenic Area (蒙山旅游区)
 
 ### The Natural Side of Yimeng
@@ -92,6 +94,8 @@ Linyi is one of the centres of the Dongyi (东夷) culture, an ancient civilisat
 **The Linyi Museum (临沂市博物馆):** Displays artefacts from local excavations, including neolithic pottery, jade objects, and Dongyi cultural items. ¥10 ($1.40 USD).
 
 **Xiwangcheng Site:** An ancient city site dating back about 5,000 years. Limited visitor infrastructure but significant for archaeology enthusiasts.
+
+![Linyi Shandong — Linyi Cuisine — Shandong Flavours](https://images.pexels.com/photos/6646364/pexels-photo-6646364.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Linyi Cuisine — Shandong Flavours
 

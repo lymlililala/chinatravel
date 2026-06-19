@@ -12,7 +12,7 @@ tags:
   - plateau
   - adventure
 description: "Maduo County in Qinghai sits at over 4,200 meters and claims to be the birthplace of China's greatest river, the Yellow River. This 2026 guide covers the Yellow River Source Area, Zaling and Eling Lakes, road conditions for self-drivers, altitude preparation, and what makes this remote Tibetan plateau region one of China's most surreal and least-visited destinations."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/36314092/pexels-photo-36314092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -49,6 +49,8 @@ Yushu (玉树州府, about 380km from Maduo) has an airport with connections to 
 ### Fuel and Supplies
 Maduo County Town has a gas station. There are limited supplies on the road. Before heading to the lake areas, fill up and carry water and food. There's essentially nothing between Maduo Town and the source lakes except road and plateau.
 
+![Maduo Qinghai — The Yellow River Source Area (黄河源头景区)](https://images.pexels.com/photos/22764538/pexels-photo-22764538.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The Yellow River Source Area (黄河源头景区)
 
 ### Zaling Lake and Eling Lake (扎陵湖·鄂陵湖)
@@ -73,6 +75,8 @@ The county town itself (马多县城) is a small administrative settlement of a 
 There's nothing here in the tourist-attraction sense, but spending time just walking around gives insight into the reality of life at extreme altitude in rural China. The local Tibetan culture is visible — prayer flags on houses, a small monastery at the edge of town, yak butter being sold at the market.
 
 **Accommodation**: Several guesthouses and small hotels, basic double rooms ¥100–200/night. Don't expect hot showers to be reliable. Book ahead if possible.
+
+![Maduo Qinghai — Altitude Warning](https://images.pexels.com/photos/35471251/pexels-photo-35471251.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Altitude Warning
 

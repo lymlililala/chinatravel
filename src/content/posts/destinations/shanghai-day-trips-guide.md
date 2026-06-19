@@ -20,7 +20,7 @@ tags:
   - east-china
   - itinerary
 description: "All the best day trips from Shanghai — Suzhou (25 mins by HSR), Hangzhou (1 hour), Zhujiajiao water town (45 mins by bus), Tongli (1.5 hours), and Wuzhen (2 hours for overnight). Which is worth a full day, which can be done in half a day, and which requires an overnight."
-ogImage: "https://images.unsplash.com/photo-1538428494232-9c0d8a3ab403?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/687450/pexels-photo-687450.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Shanghai's position in the Yangtze River Delta puts it within striking distance of some of the most historically significant cities and ancient towns in China. The high-speed rail network means that Suzhou and Hangzhou — cities that would require a full travel day in most countries — are closer to central Shanghai than Heathrow is to central London.
@@ -30,6 +30,8 @@ This guide covers five day trip options from Shanghai, organized by journey time
 ## Table of contents
 
 ## Suzhou — 25 Minutes, Classical Gardens
+
+![Trips from Shanghai — Suzhou — 25 Minutes, Classical Gardens](https://images.pexels.com/photos/36466099/pexels-photo-36466099.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **Journey:** Shanghai Hongqiao → Suzhou Station, G-train (high-speed), ¥28-39, ~25 minutes. Trains run every 15-20 minutes.
 
@@ -88,6 +90,8 @@ Hangzhou (杭州) is famous for West Lake — the most painted landscape in Chin
 
 ---
 
+![Trips from Shanghai — Zhujiajiao — 45 Minutes, Easiest Water Town](https://images.pexels.com/photos/19979862/pexels-photo-19979862.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Zhujiajiao — 45 Minutes, Easiest Water Town
 
 **Journey:** Bus from Renmin Square (人民广场) Bus Stop at Pu'an Road — direct bus runs every 20-30 minutes, ¥15, ~50 minutes. Or taxi ¥150-180 each way.
@@ -117,6 +121,8 @@ Tongli (同里) is a larger and more spread-out water town than Zhujiajiao, with
 **Full day or half day?** Full day (5-6 hours). The combination of the garden, historic buildings, and canal-side walking fills the day.
 
 ---
+
+![Trips from Shanghai — Wuzhen — 2 Hours, Overnight Required](https://images.pexels.com/photos/37015406/pexels-photo-37015406.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Wuzhen — 2 Hours, Overnight Required
 

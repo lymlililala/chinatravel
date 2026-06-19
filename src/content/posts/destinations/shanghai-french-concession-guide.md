@@ -12,7 +12,7 @@ tags:
   - cafes
   - culture
 description: "The French Concession is Shanghai's most atmospheric neighbourhood — shaded by plane trees, dense with Art Deco and Shikumen architecture, home to the city's best independent cafes, art galleries and boutiques. This 2026 guide covers the key streets and lanes, historical architecture, best cafes and restaurants, Sunday markets, nightlife, and how to spend a perfect day exploring the heart of old Shanghai."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/37238913/pexels-photo-37238913.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -22,6 +22,8 @@ The French Concession is where Shanghai becomes seductive. The towers of Pudong 
 This is the Shanghai that writers, artists and exiles fell in love with in the 1920s and 30s — and it's still there, denser with cafes and boutiques than it was then, but architecturally largely intact and atmospherically still producing the particular melancholy and elegance that defines old Shanghai.
 
 ## Key Streets and Areas
+
+![Shanghai French Concession — Key Streets and Areas](https://images.pexels.com/photos/16538985/pexels-photo-16538985.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### Wukang Road (武康路)
 
@@ -83,6 +85,8 @@ The French Concession is the capital of Shanghai's serious coffee scene — not 
 
 **Budget coffee note:** An excellent flat white at a specialty cafe costs ¥28–¥38 ($4–$5). Chain cafes (Starbucks, Luckin) are ¥15–¥25 ($2–$3.5).
 
+![Shanghai French Concession — Food and Restaurants](https://images.pexels.com/photos/8863183/pexels-photo-8863183.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Food and Restaurants
 
 ### Brunch Culture
@@ -124,6 +128,8 @@ The French Concession has Shanghai's most sophisticated cocktail bar scene.
 **Bar No.3 (第3号酒吧):** More casual; good selection of Chinese craft beer and baijiu cocktails.
 
 **Le Baron at Club M50:** For more energetic nightlife; the creative district at M50 (50 Moganshan Road) has evolved into a legitimate nightlife hub.
+
+![Shanghai French Concession — Getting Around the Concession](https://images.pexels.com/photos/37238907/pexels-photo-37238907.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting Around the Concession
 

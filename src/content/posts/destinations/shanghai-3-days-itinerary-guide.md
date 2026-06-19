@@ -11,7 +11,7 @@ tags:
   - beginners
   - east-china
 description: "A 3-day Shanghai itinerary covering the Bund and Pudong skyline, the French Concession and Tianzifang, and a day trip to the water town Zhujiajiao — with metro directions, restaurant picks, and honest timing advice."
-ogImage: "https://images.unsplash.com/photo-1538428494232-9c0d8a3ab403?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/19852129/pexels-photo-19852129.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Shanghai is the easiest major Chinese city to navigate as a first-time visitor. The metro is excellent, English signage is widespread, and there's a level of international infrastructure — good coffee, international cuisine, functioning VPNs in many hotels — that makes the learning curve gentler than Beijing or Chengdu.
@@ -22,6 +22,8 @@ That said, Shanghai rewards slowing down. The best parts of this city aren't tic
 
 ## Before You Arrive
 
+![Shanghai — Before You Arrive](https://images.pexels.com/photos/35132182/pexels-photo-35132182.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 **Getting there:** Shanghai has two major airports. Pudong International (PVG) handles most long-haul international flights; take the **Maglev** to Longyang Road (¥50, 8 minutes — it hits 430km/h, worth it once), then metro to your hotel. Or take Metro Line 2 direct from Pudong Airport (cheaper at ¥7, but takes 70 minutes to People's Square).
 
 Hongqiao Airport (SHA) handles domestic flights and some short-haul international; it's well-connected to the metro grid (Lines 2 and 10).
@@ -31,6 +33,8 @@ Hongqiao Airport (SHA) handles domestic flights and some short-haul internationa
 **Shanghai metro:** One of the world's most extensive urban rail systems. Fares start at ¥3. The metro app (or just Google Maps with a VPN) handles routing well. Get a Jiaotong Card from any station machine.
 
 ---
+
+![Shanghai — Day 1: The Bund, Pudong & Riverside](https://images.pexels.com/photos/30685862/pexels-photo-30685862.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day 1: The Bund, Pudong & Riverside
 
@@ -59,6 +63,8 @@ The **Nanjing Road pedestrian street** between People's Square and the Bund is S
 For the classic experience, take a **Huangpu River cruise** at night (¥100-150 for a 60-min cruise) — seeing both riverbanks lit up from the water is the definitive Shanghai photo moment. Tickets available at the docks near the Bund or through hotels.
 
 ---
+
+![Shanghai — Day 2: French Concession, Tianzifang & Jing'an Temple](https://images.pexels.com/photos/32445253/pexels-photo-32445253.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day 2: French Concession, Tianzifang & Jing'an Temple
 

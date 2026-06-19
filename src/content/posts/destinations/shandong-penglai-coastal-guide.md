@@ -1,6 +1,7 @@
 ---
 title: "Penglai Shandong: Mythical Immortals' Island, Sea Mist & Coastal Fortresses"
 description: "Visit Penglai on Shandong's north coast — the legendary city of immortals where sea mirages appear each spring, home to a remarkably preserved Ming-dynasty naval fortress, China's oldest lighthouse, and superb seafood in a coastal setting unlike any other in northern China."
+ogImage: "https://images.pexels.com/photos/35635434/pexels-photo-35635434.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Shandong"
 tags: ["shandong", "penglai", "mythology", "mirage", "naval-fortress", "coastal", "seafood", "ming-dynasty", "immortals"]
@@ -26,6 +27,8 @@ The most famous mirage event recorded in modern times occurred in **2006**, when
 
 ---
 
+![Penglai Shandong — Penglai Pavilion (蓬莱阁)](https://images.pexels.com/photos/18293148/pexels-photo-18293148.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Penglai Pavilion (蓬莱阁)
 
 The most important historical structure in Penglai, the **Penglai Pavilion complex** sits on a cliff above the sea, commanding views north over the Bohai Sea and east toward the Bohai Strait. The main pavilion was first built in 1061 CE (Northern Song dynasty) and rebuilt/expanded through the Ming and Qing periods.
@@ -38,6 +41,8 @@ The complex includes:
 **Admission:** ¥130 (includes all pavilion buildings and coastal path).
 
 ---
+
+![Penglai Shandong — Penglai Water City (蓬莱水城): A Ming Naval Fortress](https://images.pexels.com/photos/15906464/pexels-photo-15906464.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Penglai Water City (蓬莱水城): A Ming Naval Fortress
 

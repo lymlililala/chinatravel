@@ -64,6 +64,8 @@ About 25km south of the city center in Lanshan District — the least developed 
 
 **Beach season:** June to September. Water temperature reaches 22–26°C by July–August; swimmable but bracing in June. Outside the summer months, the beaches are too cold for swimming but pleasant for walking.
 
+![Rizhao Shandong — Rizhao Green Tea (日照绿茶)](https://images.pexels.com/photos/8952049/pexels-photo-8952049.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Rizhao Green Tea (日照绿茶)
 
 The most unexpected thing about Rizhao for most visitors is that it produces some of China's most prized green tea. The tea gardens lie on the slopes of the Wulian Mountains (五莲山) about 30km inland from the coast, at about 33–36°N latitude — the northernmost tea-growing latitude in China.

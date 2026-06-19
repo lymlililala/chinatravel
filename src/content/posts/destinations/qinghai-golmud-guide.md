@@ -12,7 +12,7 @@ tags:
   - tibet-route
   - desert
 description: "Golmud (Geermu) in western Qinghai is the last major city on the Qinghai-Tibet Railway before Lhasa, sitting in the hyper-arid Qaidam Basin at 2,800 meters. It serves as the practical gateway to Tibet overland and to some of China's most otherworldly desert landscapes — salt lakes, yardang formations, and the vast emptiness of the Qaidam. This guide covers Golmud's role as a transit hub, the surrounding desert attractions, and practical tips for the high-altitude frontier."
-ogImage: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/12139755/pexels-photo-12139755.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Golmud (格尔木, also spelled Geermu) sits in the Qaidam Basin (柴达木盆地) at 2,809 meters above sea level, a city of about 220,000 people in one of the most arid and remote regions of China. It exists primarily because of two things: the Qinghai-Tibet Railway, which passes through Golmud on its way to Lhasa, and the Qaidam Basin's extraordinary mineral wealth — potash, lithium, salt, and rare earths that have made this harsh landscape economically significant.
@@ -52,6 +52,8 @@ The road to Lhasa from Golmud is about 1,150km; driving time approximately 15–
 
 **Foreign travelers:** The Tibet Travel Permit (TTP) is required. Arrange through a licensed Tibetan travel agency before arriving in Golmud. You cannot board the train or drive to Lhasa without this permit.
 
+![Golmud Qinghai — Qarhan Salt Lake (察尔汗盐湖)](https://images.pexels.com/photos/31447433/pexels-photo-31447433.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Qarhan Salt Lake (察尔汗盐湖)
 
 The Qarhan Salt Lake is the largest salt lake in China and one of the largest in the world, covering about 5,800 square kilometers of the Qaidam Basin floor. It's a working industrial site — potash and lithium are extracted here at massive scale — but the visual spectacle of the salt flats is extraordinary.
@@ -85,6 +87,8 @@ Yardangs form when strong prevailing winds erode soft sedimentary rock over mill
 **Getting there:** About 2 hours by car from Golmud; hire a driver (¥300–400 round trip)
 
 **Note on Lenghu:** The nearby town of Lenghu (冷湖) is itself an extraordinary place — a nearly abandoned former oil town in the middle of the desert that's being partially repurposed as an astronomical observatory site. The combination of the old oil town ruins and the yardang formations is a photographer's dream.
+
+![Golmud Qinghai — The Qaidam Basin Landscape](https://images.unsplash.com/photo-1722081797582-5870d2dabebf?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxRYWlkYW0lMjBCYXNpbiUyMExhbmRzY2FwZXxlbnwwfDB8fHwxNzgxODY4ODMwfDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## The Qaidam Basin Landscape
 

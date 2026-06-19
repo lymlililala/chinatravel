@@ -12,7 +12,7 @@ tags:
   - coastal
   - east-china
 description: "Putuoshan (普陀山) — one of China's four sacred Buddhist mountains, set on a small island in Zhejiang. The Puji Temple, Fayu Temple, and Huiji Temple circuit, the best beaches, how to get there from Shanghai or Ningbo, and why this Buddhist island feels different from mainland temples."
-ogImage: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/17754422/pexels-photo-17754422.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Putuoshan is an anomaly among China's Buddhist pilgrimage sites: it's an island. Technically a small island in the Zhoushan archipelago of Zhejiang province, Putuoshan is designated as one of China's four sacred Buddhist mountains (the others being Wutaishan, Emeishan, and Jiuhuashan) and serves as the earthly home of Guanyin — the Bodhisattva of Compassion who is perhaps the most widely worshipped figure in Chinese Buddhist tradition.
@@ -22,6 +22,8 @@ The combination of genuine religious pilgrimage, excellent beaches, misty coasta
 ## Table of contents
 
 ## Getting to Putuoshan
+
+![Putuoshan Island — Getting to Putuoshan](https://images.pexels.com/photos/8641756/pexels-photo-8641756.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 The island is reached by ferry. There are two main approaches:
 
@@ -51,6 +53,8 @@ Built into a hillside in the northeast of the island, Fayu is visually different
 ### Huiji Temple (慧济禅寺)
 At the top of Foding Mountain (佛顶山), the island's highest point, Huiji is reached by **cable car** (¥50 one way, ¥80 return) or a 1–1.5 hour hike. The temple sits in forest and has a different, quieter character than the two main temples below. The views from the hill above the temple across the island and ocean are worth the climb regardless of your interest in temples.
 
+![Putuoshan Island — The Temple Circuit](https://images.pexels.com/photos/32118121/pexels-photo-32118121.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The Temple Circuit
 
 The most satisfying way to see Putuoshan is to walk a circuit connecting the three temples, which takes a full day of relaxed walking or half a day at pace. Several footpaths through coastal forest connect the sites. Distance: approximately 8–10km for the full circuit.
@@ -66,6 +70,8 @@ This is an aspect of Putuoshan that surprises people who expect a purely religio
 **Hundred Step Beach (百步沙):** Shorter but more sheltered, north-facing. Often quieter.
 
 Swimming is possible from June to October. The water is temperate — comfortable in summer, cold from November onward.
+
+![Putuoshan Island — What Makes This Place Feel Different](https://images.pexels.com/photos/8903213/pexels-photo-8903213.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## What Makes This Place Feel Different
 
