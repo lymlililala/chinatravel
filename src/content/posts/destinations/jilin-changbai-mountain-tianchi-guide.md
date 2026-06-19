@@ -1,6 +1,7 @@
 ---
 title: "Changbai Mountain Tianchi Guide: China's Sacred Volcanic Lake & Winter Wonderland"
 description: "Complete guide to Changbai Mountain and Tianchi (Heaven Lake) in Jilin — China's highest volcanic caldera lake on the North Korea border, the legendary North Slope waterfall, winter snow activities, and visiting this sacred mountain in each season."
+ogImage: "https://images.pexels.com/photos/32752785/pexels-photo-32752785.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Jilin"
 tags: ["jilin", "changbai-mountain", "tianchi", "heaven-lake", "volcanic-lake", "north-korea-border", "winter", "waterfall", "sacred-mountain"]
@@ -13,6 +14,8 @@ At the border between China and North Korea, a dormant stratovolcano rises to 2,
 For three ethnicities — Chinese Han, Korean, and Manchu — **Changbai Mountain (长白山)** is a sacred landscape. Korean tradition holds that the mythological founder of the Korean people descended from Baekdusan (the Korean name for the mountain); the Manchu emperors of the Qing dynasty regarded it as the spiritual home of their ancestry; Chinese mythology places it as one of the three sacred mountains of the northeast.
 
 ---
+
+![Changbai Mountain Tianchi — The Mountain](https://images.pexels.com/photos/26926327/pexels-photo-26926327.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Mountain
 
@@ -29,6 +32,8 @@ The caldera lake fills the entire summit crater, with its southern shore in Nort
 The lake is famous in folklore for a "lake monster" — several large animal sightings have been reported since the 1900s. Scientists generally attribute them to large trout or to visual distortion; the mystery remains unsolved to the satisfaction of local residents.
 
 ---
+
+![Changbai Mountain Tianchi — Getting to Tianchi: The Three Slopes](https://images.unsplash.com/photo-1708912982884-23357f69e594?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw3fHxUaWFuY2hpfGVufDB8MHx8fDE3ODE4NTQ4ODJ8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## Getting to Tianchi: The Three Slopes
 
@@ -53,6 +58,8 @@ The South Slope entry is the longest and most demanding — and the only one tha
 **This slope is on the Chinese side only** — it does not cross into North Korea — but it offers the closest the average traveller will come to looking into North Korea from China.
 
 ---
+
+![Changbai Mountain Tianchi — Seasons at Changbai Mountain](https://images.pexels.com/photos/9875573/pexels-photo-9875573.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Seasons at Changbai Mountain
 

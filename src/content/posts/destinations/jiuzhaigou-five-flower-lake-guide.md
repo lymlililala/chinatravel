@@ -12,6 +12,7 @@ tags:
   - UNESCO heritage
   - turquoise lakes
 description: "A focused guide to Jiuzhaigou's most spectacular highlights — Five Flower Lake, Nuorilang Waterfall, the autumn colours, and how to plan your visit after the 2017 earthquake reopening."
+ogImage: "https://images.pexels.com/photos/34619137/pexels-photo-34619137.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Jiuzhaigou Valley (九寨沟) contains the most extraordinarily coloured lakes in the world. The turquoise, emerald, azure, and cobalt blues of the chain of calcite-rich lakes are not enhanced in photographs — they really look like that. The underwater detail — fallen trees, white calcite formations, aquatic plants — is visible 20–30 metres down through water of crystalline clarity.
@@ -21,6 +22,8 @@ Five Flower Lake (五花海) is the most celebrated individual lake in the valle
 ## Table of contents
 
 ## Essential Information
+
+![Jiuzhaigou Five Flower Lake & Nuorilang Falls — Essential Information](https://images.pexels.com/photos/34617678/pexels-photo-34617678.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 | Detail | Info |
 |--------|------|
@@ -40,6 +43,8 @@ The reopening has been phased and managed. As of 2026, the main scenic areas —
 **Visitor numbers are now strictly controlled:** Daily capacity is 20,000 visitors (reduced from 40,000+ pre-earthquake). This makes advance booking essential and the experience significantly less crowded than historical accounts suggest.
 
 **Book tickets:** Via the official Jiuzhaigou website (jiuzhai.com) or WeChat mini-program. Tickets often sell out 2–3 weeks ahead for autumn peak season.
+
+![Jiuzhaigou Five Flower Lake & Nuorilang Falls — Five Flower Lake (五花海)](https://images.pexels.com/photos/36087044/pexels-photo-36087044.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Five Flower Lake (五花海)
 
@@ -66,6 +71,8 @@ Jiuzhaigou comprises three valleys — **Shuzheng Valley (树正沟)**, **Rize V
 - Bus back to entrance
 
 Total walking: approximately 8–10 km downhill on boardwalks; 4–6 hours.
+
+![Jiuzhaigou Five Flower Lake & Nuorilang Falls — Key Sites Beyond Five Flower Lake](https://images.pexels.com/photos/8370819/pexels-photo-8370819.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Key Sites Beyond Five Flower Lake
 

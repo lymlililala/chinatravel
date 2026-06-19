@@ -1,6 +1,7 @@
 ---
 title: "Fenghuang Ancient Town Hunan: Stilt Houses on the Tuojiang River"
 description: "Explore Fenghuang Ancient Town in western Hunan — the Miao and Tujia cultural capital perched above the Tuojiang River on traditional wooden stilt houses (diaojiaolou), with Ming-dynasty walls, red lantern reflections in the water, and authentic minority village culture in the surrounding hills."
+ogImage: "https://images.pexels.com/photos/4839146/pexels-photo-4839146.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Hunan"
 tags: ["hunan", "fenghuang", "ancient-town", "tuojiang-river", "stilt-houses", "miao-culture", "tujia", "minority-culture", "xiangxi"]
@@ -13,6 +14,8 @@ Looking at Fenghuang from the opposite bank of the **Tuojiang River** at dusk �
 Alley wrote those words in the 1940s. Fenghuang is now a major tourist destination, its old town receiving millions of visitors annually. The paradox of Fenghuang is that despite the commercialisation — the tourist restaurants, the souvenir stalls, the light-show river cruises — the physical fabric of the town remains genuinely beautiful, and the surrounding countryside of western Hunan (*Xiangxi*) retains an authenticity that the town itself has partially lost.
 
 ---
+
+![Fenghuang Ancient Town Hunan — The Town](https://images.pexels.com/photos/32543704/pexels-photo-32543704.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Town
 
@@ -36,6 +39,8 @@ The **Ming dynasty city wall** is one of the most intact short sections of Ming 
 
 ---
 
+![Fenghuang Ancient Town Hunan — Miao Silver Culture](https://images.pexels.com/photos/30693227/pexels-photo-30693227.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Miao Silver Culture
 
 Fenghuang and the surrounding Xiangxi region have a strong **Miao silver jewelry tradition** — similar to but distinct from the Qiandongnan Miao silver described in the Kaili guide.
@@ -45,6 +50,8 @@ The Xiangxi Miao style tends toward **more geometric patterns** and **smaller or
 The **Fenghuang County Museum** (in the old town) has an excellent display of regional Miao silver, providing context for purchases.
 
 ---
+
+![Fenghuang Ancient Town Hunan — The Surrounding Area](https://images.pexels.com/photos/8584022/pexels-photo-8584022.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Surrounding Area
 

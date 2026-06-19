@@ -25,6 +25,8 @@ Coming here feels like discovering a secret: a small, self-possessed city with a
 
 ## Top Attractions
 
+![Nantong Jiangsu — Top Attractions](https://images.unsplash.com/photo-1713086158386-a3dccad87df9?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw0fHxuYW50b25nJTIwamlhbmdzdXxlbnwwfDB8fHwxNzgxODU0ODUwfDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
+
 ### Haohe River Scenic Area (濠河风景区)
 
 The Haohe River is an ancient moat — about 10 km in circumference — that rings the heart of the old city. It remains almost entirely intact, and the belt of parkland along both banks has been preserved and developed as one of the most pleasant urban waterway walks in Jiangsu.
@@ -85,6 +87,8 @@ Nantong sits at the confluence of the Yangtze and the coast, which gives it acce
 
 **Restaurant areas:** Haohe Park's western bank has a cluster of good traditional restaurants. The **Nantong Food Street (南通小吃街)** near the old city has street food from ¥5–¥20 per item.
 
+![Nantong Jiangsu — Getting to Nantong](https://images.pexels.com/photos/19953865/pexels-photo-19953865.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Getting to Nantong
 
 ### From Shanghai
@@ -114,6 +118,8 @@ Nantong city centre is compact; the Haohe scenic area and most attractions are w
 **Mid-range (¥300–¥550 / $42–$77):** **Jinling Hotel Nantong** and **Howard Johnson Nantong** are well-located options.
 
 **Upscale (¥700+ / $98+):** **Wanda Vista Nantong** is the premium business hotel choice.
+
+![Nantong Jiangsu — Best Time to Visit](https://images.pexels.com/photos/29903855/pexels-photo-29903855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Best Time to Visit
 

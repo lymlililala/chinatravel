@@ -11,7 +11,7 @@ tags:
   - northwest-china
   - photography
 description: "Kanas Lake (喀纳斯湖) in northern Xinjiang near the Russian and Mongolian borders — the blue crater lake surrounded by Siberian forest, the Tuwa people's wood villages, the autumn colors from late September (birch and larch turning gold and red), and the Hemu Village at dawn when cattle and sheep emerge from the mist. Getting there and the timed entrance system."
-ogImage: "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/30123499/pexels-photo-30123499.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Kanas Lake is in northern Xinjiang, close enough to the Russian and Mongolian borders that on a clear day from the right viewpoint you can see all three countries. The landscape here is unlike anything else in China: deep blue lake, dense birch and larch forest, rounded grassy hills — it looks more like Switzerland or the Russian Altai than the China most visitors picture.
@@ -21,6 +21,8 @@ The autumn colours at Kanas (late September through mid-October) are considered 
 ## Table of contents
 
 ## Getting to Kanas
+
+![Kanas Lake & Hemu Village — Getting to Kanas](https://images.pexels.com/photos/3092580/pexels-photo-3092580.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Kanas is genuinely remote. The nearest city is **Altay (阿勒泰)** in northern Xinjiang, served by Altay Airport (AAT).
 
@@ -53,6 +55,8 @@ The lake is the centerpiece: about 24km long, 2–3km wide, at 1,374 metres elev
 ### The Kanas Lake Monster
 
 Kanas Lake has its own Nessie-style legend: large creatures have allegedly been observed in the lake by locals and researchers. The lake is 188 metres deep and contains large Siberian hucho taimen (Taimen salmon), some of which grow to extraordinary size. Whether there's genuinely something mysterious in the depths is debated; the lake is deep enough that something very large could exist there.
+
+![Kanas Lake & Hemu Village — Hemu Village (禾木村)](https://images.pexels.com/photos/13457229/pexels-photo-13457229.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Hemu Village (禾木村)
 
@@ -88,6 +92,8 @@ Most visitors do a 3–5 day circuit covering all three main areas.
 - **Kanas Village:** Hotels and guesthouses, ¥300–800/night. Prices peak during autumn colour season.
 - **Hemu Village:** Guesthouses in villagers' homes or dedicated guesthouses; ¥150–400/night. Facilities are basic but the atmosphere is excellent.
 - **Yurts:** Available in some areas, ¥200–500/night including meals
+
+![Kanas Lake & Hemu Village — Autumn Colours: When Exactly](https://images.pexels.com/photos/12610169/pexels-photo-12610169.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Autumn Colours: When Exactly
 

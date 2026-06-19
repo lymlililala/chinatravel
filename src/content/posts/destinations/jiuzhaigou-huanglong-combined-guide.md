@@ -1,12 +1,15 @@
 ---
 title: "Jiuzhaigou and Huanglong Combined: The Ultimate Sichuan High-Altitude Tour"
 description: "Complete guide to visiting both Jiuzhaigou Valley and Huanglong Scenic Area in one trip. Combining routes, best season, altitude tips, transport between the two sites and 5-day itinerary."
+ogImage: "https://images.pexels.com/photos/34619129/pexels-photo-34619129.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Jiuzhaigou", "Huanglong", "Sichuan", "China UNESCO sites", "altitude travel", "turquoise lakes", "九寨沟"]
 ---
 
 Jiuzhaigou Valley (九寨沟) and Huanglong Scenic Area (黄龙景区) are two UNESCO World Heritage Sites in northern Sichuan that sit 85 km apart at altitudes of 2,000–3,400m in the Minshan mountains. Both are famous for their extraordinary colored lakes — caused by calcium carbonate deposits from the limestone geology tinting the water vivid blues, greens and turquoises. Combining both in a single trip (typically 4–6 days) is the standard approach for serious visitors.
+
+![Jiuzhaigou Huanglong Combined — Jiuzhaigou vs Huanglong: What's Different](https://images.pexels.com/photos/31654294/pexels-photo-31654294.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Jiuzhaigou vs Huanglong: What's Different
 
@@ -38,6 +41,8 @@ Total walking: 10–15 km. Full day.
 
 ---
 
+![Jiuzhaigou Huanglong Combined — Altitude and Health](https://images.pexels.com/photos/27631664/pexels-photo-27631664.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Altitude and Health
 
 Both sites involve significant altitude:
@@ -64,6 +69,8 @@ Both sites involve significant altitude:
 **Spring (April–May)**: Snow still on the peaks; water levels high from snowmelt; the waterfalls are most powerful. Fewer crowds than autumn.
 
 **Summer (June–August)**: The most crowded season; children on school holidays; the mountains are green but the colored lakes are slightly less brilliant than in autumn.
+
+![Jiuzhaigou Huanglong Combined — Booking](https://images.pexels.com/photos/31654292/pexels-photo-31654292.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Booking
 

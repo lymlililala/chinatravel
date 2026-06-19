@@ -12,7 +12,7 @@ tags:
   - hiking
   - east-china
 description: "Jiuhuashan (九华山) in Anhui — one of the four sacred Buddhist mountains of China, dedicated to the Bodhisattva Dizang (地藏). The multi-tiered temples on a dramatic mountain landscape, the cable car to the top, staying overnight to watch dawn over the Buddhist community, and how to combine it with Yellow Mountain (Huangshan) in the same trip."
-ogImage: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/28927399/pexels-photo-28927399.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Jiuhuashan — literally "Nine Glorious Mountains" — is one of China's four sacred Buddhist mountains, the others being Wutai, Emei, and Putuo. Each mountain is associated with a Bodhisattva: Jiuhuashan is dedicated to Dizang (地藏菩萨, Ksitigarbha in Sanskrit), the Bodhisattva of the underworld who vowed to remain in the realms of suffering until all beings are liberated.
@@ -22,6 +22,8 @@ The mountain sits in the southern part of Anhui province, about 60km from Huangs
 ## Table of contents
 
 ## The Mountain and Its Scale
+
+![Jiuhuashan — The Mountain and Its Scale](https://images.pexels.com/photos/31582900/pexels-photo-31582900.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Jiuhuashan rises to 1,342 metres at its highest point (Tiantai Peak, 天台峰). The mountain is dramatic — steep forested ridges with temples clinging to cliff faces and mist frequently rolling through the valleys below.
 
@@ -55,6 +57,8 @@ Two cable car systems serve the upper mountain:
 **Tiantai Cable Car:** Runs from mid-mountain up to near the Tiantai peak area, ¥80 up, ¥65 down
 
 Both are standard gondola-style cable cars with good views. On busy days (weekends, public holidays), queues of 30–60 minutes are normal. Arrive early.
+
+![Jiuhuashan — Hiking Jiuhuashan](https://images.pexels.com/photos/28987502/pexels-photo-28987502.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Hiking Jiuhuashan
 
@@ -91,6 +95,8 @@ Jiuhuashan and Huangshan are about 60km apart and are the natural pairing for an
 - Day 4–5: Huangshan hiking
 
 **Transport connection:** Buses run between Jiuhuashan and Tangkou (Huangshan entry town), about 1.5–2 hours. Or go via Chizhou city (the nearest large town to Jiuhuashan) and then train.
+
+![Jiuhuashan — Getting to Jiuhuashan](https://images.pexels.com/photos/5916301/pexels-photo-5916301.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting to Jiuhuashan
 

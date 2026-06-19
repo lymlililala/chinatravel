@@ -25,6 +25,8 @@ The coast is also notable — rocky headlands, offshore islands, and a 6.7km sea
 
 ## Getting to Lianyungang
 
+![Lianyungang Jiangsu — Getting to Lianyungang](https://images.pexels.com/photos/37549586/pexels-photo-37549586.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 **By high-speed train:**
 - **From Nanjing:** About 2 hours; ¥120–180
 - **From Xuzhou:** About 1 hour; ¥60–90
@@ -55,6 +57,8 @@ Wu Cheng'en's novel describes the Mountain of Flowers and Fruit as the birthplac
 **Opening hours:** 7:00am–5:30pm  
 **Time required:** 4–5 hours for a full visit including the summit
 
+![Lianyungang Jiangsu — Liandao Island & Coast (连岛)](https://images.pexels.com/photos/8096639/pexels-photo-8096639.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Liandao Island & Coast (连岛)
 
 Liandao is the largest island in Jiangsu Province, connected to the mainland by the 6.7km Liandao Bridge.
@@ -73,6 +77,8 @@ The island's restaurants are supplied directly by the fishing harbor on the nort
 Lianyungang's role as the eastern terminus of the New Eurasian Land Bridge is commemorated at the port area. A monument marking the zero-kilometer point stands near the container terminal — symbolically important for understanding China's Belt and Road Initiative and the modern Silk Road logistics.
 
 The scale of the container port — one of China's top 10 by throughput — is impressive. Zhongyuan Square at the port entrance provides a viewpoint over the container yards.
+
+![Lianyungang Jiangsu — Lianyungang Old City & Food](https://images.pexels.com/photos/28998213/pexels-photo-28998213.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Lianyungang Old City & Food
 

@@ -12,7 +12,7 @@ tags:
   - chinese-culture
   - architecture
 description: "Tengwang Pavilion in Nanchang is one of China's Three Great Towers alongside Yueyang Tower and Yellow Crane Tower — famous for Wang Bo's incomparable Tang Dynasty poem composed here in 675 AD. The current reconstruction rises 57 meters on the Gan River bank, and the riverfront surrounding it has become one of Nanchang's most pleasant evening destinations. This guide covers the pavilion's history, the architecture, the poem, and Nanchang's broader sights."
-ogImage: "https://images.unsplash.com/photo-1499652848871-1527a310b13a?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/5690249/pexels-photo-5690249.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 The Tengwang Pavilion (滕王阁) on the west bank of the Gan River in Nanchang has been destroyed and rebuilt 29 times over 1,350 years. The current structure — the 29th reconstruction, completed in 1989 — rises to 57.5 meters in a form that attempts to evoke the Tang Dynasty original, and it stands as one of the most recognizable landmarks in Jiangxi Province.
@@ -22,6 +22,8 @@ It owes its enduring fame not primarily to its architecture but to a poem. In 67
 ## Table of contents
 
 ## The Poem and Its Significance
+
+![Nanchang Tengwang Pavilion — The Poem and Its Significance](https://images.pexels.com/photos/4079270/pexels-photo-4079270.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Understanding why Tengwang Pavilion matters requires understanding why Wang Bo's poem matters. The parallel prose composition (骈文) was a supremely difficult literary form — every phrase had to balance grammatically and tonally with its partner phrase, while the content needed to flow naturally. The result Wang Bo produced at 25 is considered to have mastered the form as completely as anyone ever has.
 
@@ -56,6 +58,8 @@ The 1989 reconstruction follows Song Dynasty architectural conventions (not Tang
 **The evening visit:**
 After 6:00pm in summer, the pavilion and surrounding riverfront area are illuminated and the area transforms into an atmospheric night destination. The reflection of the lit pavilion in the Gan River approximates the scene Wang Bo described. A free light and water show runs at 8:00pm and 9:00pm.
 
+![Nanchang Tengwang Pavilion — The Gan River Waterfront (赣江滨水区)](https://images.pexels.com/photos/28907675/pexels-photo-28907675.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The Gan River Waterfront (赣江滨水区)
 
 The development of the Gan River waterfront around the pavilion over the past decade has created one of Nanchang's more pleasant urban spaces. The promenade stretches several kilometers along the west bank.
@@ -81,6 +85,8 @@ A historic Taoist complex and guild hall built by Jiangxi merchants in 1867. The
 
 **Qingyunpu (青云谱 / Zhu Da Memorial):**
 A Taoist monastery that was the home of Zhu Da (朱耷, also known as Bada Shanren), the eccentric 17th-century painter considered one of the founders of the Chinese literati painting tradition. His paintings — strange creatures, distorted rocks, a single sleepy fish — were hugely influential on subsequent Chinese and Japanese art. The monastery is now a museum dedicated to his life and work. Entry ¥35.
+
+![Nanchang Tengwang Pavilion — Nanchang Food](https://images.pexels.com/photos/5690250/pexels-photo-5690250.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Nanchang Food
 

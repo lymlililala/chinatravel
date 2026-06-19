@@ -23,6 +23,8 @@ As a foreign visitor, you'll find Shaoshan genuinely interesting — not as hagi
 
 ## The Main Sites in Shaoshan
 
+![Shaoshan Hunan — The Main Sites in Shaoshan](https://images.pexels.com/photos/38163825/pexels-photo-38163825.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ### Mao Zedong's Childhood Home (毛泽东故居)
 
 The original family home where Mao was born and grew up until leaving for school in 1910 is preserved almost exactly as it was in the early 20th century: a modest L-shaped farmhouse with several rooms including a kitchen, family dining area, sleeping quarters and storage. It stands in a courtyard bordered by paddy fields and hills covered in pine trees.
@@ -107,6 +109,8 @@ Shaoshan is most commonly visited as a day trip from Changsha, but staying overn
 - **Local food:** Shaoshan has a cluster of restaurants serving Mao's alleged favourite dishes — notably red-braised pork (红烧肉), which Mao reportedly ate daily and credited with his excellent memory. It's a marketing angle, but the red-braised pork in Hunan is genuinely excellent. Budget ¥80–¥150 for lunch for two.
 - **Shopping:** Red memorabilia is everywhere — Mao badges, posters, busts, quotation books. Quality varies enormously. The museum shop has slightly more reliable items.
 - **Connectivity:** Good 4G/5G coverage throughout Shaoshan. WeChat Pay accepted at most restaurants and shops.
+
+![Shaoshan Hunan — The Broader Red Tourism Context](https://images.pexels.com/photos/33337403/pexels-photo-33337403.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Broader Red Tourism Context
 

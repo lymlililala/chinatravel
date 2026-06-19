@@ -12,7 +12,7 @@ tags:
   - culture
   - central-china
 description: "Kaifeng — the Song Dynasty capital (960-1127 AD), one of the world's most prosperous cities of the medieval era. The Iron Pagoda (铁塔), Judge Bao's Qingming Garden (a reconstruction of the famous Song Dynasty painting), the Dragon Pavilion Park, and the extraordinarily lively night market that has made Kaifeng famous in China for street food."
-ogImage: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/5305562/pexels-photo-5305562.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 In 1000 AD, Kaifeng was probably the largest city in the world. As capital of the Northern Song Dynasty, it had a population estimated at over one million, sophisticated commercial streets, licensed entertainment districts, and the kind of urban density that wouldn't appear in Europe for another 700 years. The famous scroll painting "Along the River During the Qingming Festival" (清明上河图) — showing Kaifeng's harbour district during a spring festival — is one of the great documentary records of medieval urban life anywhere.
@@ -24,6 +24,8 @@ That buried history — and the extraordinary surviving street food culture — 
 ## Table of contents
 
 ## The Iron Pagoda (铁塔)
+
+![Kaifeng — The Iron Pagoda (铁塔)](https://images.pexels.com/photos/10738311/pexels-photo-10738311.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 The Iron Pagoda is Kaifeng's most recognizable landmark — an 11th-century octagonal tower of 13 storeys, 55 metres tall, built from glazed bricks that have turned the dark reddish-brown colour of iron (hence the name; it's not actually iron). The glazed tile panels covering the exterior are carved with Buddhist figures, flowers, animals, and patterns in over 50 different designs.
 
@@ -54,6 +56,8 @@ The park is pleasant for walking and relatively uncrowded. The Song Dynasty City
 **Entry fee:** ¥40 per person  
 **Opening hours:** 8:00am–6:00pm
 
+![Kaifeng — Judge Bao's Inkstone Lake (包公湖)](https://images.pexels.com/photos/37510230/pexels-photo-37510230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Judge Bao's Inkstone Lake (包公湖)
 
 Bao Zheng (包拯, known to generations of Chinese TV viewers as "Judge Bao") was a famously incorruptible Song Dynasty official who served in Kaifeng. The lake area contains his memorial hall, garden, and the reconstructed official residence where he held court.
@@ -83,6 +87,8 @@ This is not a sanitised tourist version — it's a working local night market th
 Kaifeng had a Jewish community from approximately the 10th century — almost certainly Silk Road merchants who settled permanently. At its peak in the Ming Dynasty, the community had a synagogue, preserved Torah scrolls, and maintained Jewish practice for over 700 years. The synagogue was destroyed in flooding and the community gradually assimilated, though some families preserved their identity.
 
 The site of the original synagogue (now a well) is marked near the city centre. A small exhibition in the Cultural Museum documents this extraordinary community, and there are efforts by some descendants to re-establish a Jewish cultural identity in Kaifeng.
+
+![Kaifeng — Getting to Kaifeng](https://images.pexels.com/photos/6733646/pexels-photo-6733646.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting to Kaifeng
 

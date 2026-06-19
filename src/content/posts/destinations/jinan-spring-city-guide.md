@@ -1,12 +1,15 @@
 ---
 title: "Jinan Travel Guide: The City of Springs, Daming Lake and Shandong Cuisine"
 description: "Complete guide to visiting Jinan (济南), the capital of Shandong Province. Famous springs, Daming Lake, Baotu Spring Park, Black Tiger Spring, local Shandong food and how to get there."
+ogImage: "https://images.pexels.com/photos/20848705/pexels-photo-20848705.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Jinan", "Shandong", "China travel", "Baotu Spring", "springs city", "Jinan food", "济南"]
 ---
 
 Jinan (济南), the capital of Shandong Province, has been called "the city of springs" for two thousand years. The ancient city sits above a natural limestone aquifer that once pushed water up through over 700 springs within the city boundaries — a geological wonder that shaped everything from its urban layout to its local culture and cuisine. While modern urbanization has reduced spring activity, the historic spring parks at the city center remain extraordinary, and Jinan has the advantage of being overlooked by most international tourists while being excellent for the independent traveler.
+
+![Jinan — The Famous Springs](https://images.pexels.com/photos/11059527/pexels-photo-11059527.png?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Famous Springs
 
@@ -40,6 +43,8 @@ The large central lake in Jinan's historic district was formed by the combined o
 
 **Admission**: The park is free; some internal attractions charge separately.
 
+![Jinan — Old City Streets](https://images.pexels.com/photos/29315435/pexels-photo-29315435.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Old City Streets
 
 **Furong Street (芙蓉街)**: The most famous street food alley in Jinan — narrow, stone-paved, flanked by old buildings. Food stalls selling local specialties crowd both sides. Busy at any time; avoid 18:00–20:00 if you dislike crowds.
@@ -61,6 +66,8 @@ Shandong cuisine (鲁菜 Lǔ cài) is one of China's "Four Great Cuisines" and h
 **Jinan hot-and-sour soup (济南热干面)**: Different from Wuhan's version — more sour, with vinegar prominent.
 
 **Spring water tofu (泉水豆腐)**: Silken tofu made from the iron-rich spring water, said to give a distinctive mineral quality. Served simply with soy sauce and scallion.
+
+![Jinan — Nearby Day Trips](https://images.pexels.com/photos/34525506/pexels-photo-34525506.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Nearby Day Trips
 

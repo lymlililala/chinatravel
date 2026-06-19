@@ -12,7 +12,7 @@ tags:
   - buddhism
   - nature
 description: "Baotou is Inner Mongolia's largest city and the industrial heart of China's rare earth economy — yet it sits within striking distance of the Kubuqi Desert dunes, one of Tibetan Buddhism's great monasteries and the grasslands of the Mongolian plateau. This 2026 guide covers Wudang Zhao Temple, desert camping, the Yellow River bend, transport and what makes Baotou a compelling base for exploring western Inner Mongolia."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/30143819/pexels-photo-30143819.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -22,6 +22,8 @@ Baotou's industrial skyline — steel plants, rare earth processing facilities, 
 Inner Mongolia's largest city (about 2.4 million people) is genuinely worth a night or two as a base for the surrounding region. The gap between expectation and reality is part of the experience.
 
 ## Wudang Zhao Temple (五当召)
+
+![Baotou Inner Mongolia — Wudang Zhao Temple (五当召)](https://images.pexels.com/photos/35891610/pexels-photo-35891610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 About 70 km northeast of Baotou, Wudang Zhao is one of the four great lamaseries of Inner Mongolia — a Tibetan Buddhist monastery complex built between 1749 and 1835, during the height of Qing Dynasty patronage of Tibetan Buddhism.
 
@@ -59,6 +61,8 @@ The Yellow River makes a dramatic northward bend through Inner Mongolia before t
 
 **Sanshenggong Water Conservancy Area (三盛公水利枢纽):** A large dam and reservoir on the Yellow River about 100 km west of Baotou, with a surrounding park that provides a good overview of the river's scale. Open to visitors; tickets ¥20 ($3).
 
+![Baotou Inner Mongolia — Meilidai Lake (梅力更水库区)](https://images.pexels.com/photos/4326736/pexels-photo-4326736.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Meilidai Lake (梅力更水库区)
 
 In the hills 30 km north of Baotou, this scenic valley combines a small reservoir, temple ruins (Meilidai Monastery, largely destroyed in the Cultural Revolution but partially rebuilt) and accessible forest walks. Good for a half-day escape from the city.
@@ -88,6 +92,8 @@ The **Inner Mongolia Museum of Rare Earths** in Baotou explains the industry's h
 ### By air
 
 **Baotou Erlian Airport (BAV)** has direct flights from Beijing (1.5 hours), Shanghai (3 hours), Chengdu, Xi'an and other major cities.
+
+![Baotou Inner Mongolia — Where to Stay](https://images.pexels.com/photos/7859335/pexels-photo-7859335.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Where to Stay
 

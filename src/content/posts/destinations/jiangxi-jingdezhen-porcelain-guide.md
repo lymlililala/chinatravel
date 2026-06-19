@@ -39,6 +39,8 @@ The city's dominance in ceramics rests on a specific geography: the surrounding 
 
 ---
 
+![Jingdezhen Jiangxi — What to See and Do](https://images.pexels.com/photos/9220444/pexels-photo-9220444.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## What to See and Do
 
 ### Imperial Kiln Museum (御窑博物馆)

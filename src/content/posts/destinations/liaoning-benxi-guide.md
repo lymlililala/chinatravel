@@ -12,12 +12,14 @@ tags:
   - maple-leaf
   - northeast-china
 description: "Discover Benxi, the hidden gem of Liaoning Province, where one of the world's longest underground river caves flows beneath mountains that erupt in spectacular maple-red foliage each autumn. This 2026 guide covers the extraordinary Benxi Water Cave, the famous Guanmen Mountain maple forests, the scenic Huanren area, hearty Dongbei cuisine, and practical advice for experiencing this underappreciated corner of Northeast China's natural and cultural landscape."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/28490351/pexels-photo-28490351.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
 
 ## Benxi — Northeast China's Best Autumn Secret
+
+![Benxi Liaoning — Benxi — Northeast China's Best Autumn Secret](https://images.pexels.com/photos/17557990/pexels-photo-17557990.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Benxi (本溪) doesn't feature on many international travel itineraries, which is a shame, because this small city in eastern Liaoning Province has two genuinely extraordinary attractions: a massive underground river cave and some of the finest autumn foliage in all of China. The Benxi Water Cave is one of the longest and most impressive accessible cave systems in the world, and the surrounding mountains turn a fiery red each October that rivals anything in New England or Kyoto.
 
@@ -44,6 +46,8 @@ The cave experience centres on a 30-minute boat ride along the underground river
 ### The Dry Cave
 
 In addition to the water cave, there's a "dry cave" section with walking paths through decorated chambers. The formations here are particularly fine — some of the stalactites are over 10 metres long. Allow 45 minutes for the dry cave. Included in the entrance fee.
+
+![Benxi Liaoning — Guanmen Mountain (关门山)](https://images.pexels.com/photos/16004928/pexels-photo-16004928.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Guanmen Mountain (关门山)
 
@@ -85,6 +89,8 @@ The mountain is also scenically beautiful, with dramatic cliff faces and views a
 ### Tiecha Mountain (铁刹山)
 
 A sacred Taoist mountain about 40 km from Benxi, with temples and shrines dating to the Ming Dynasty. The mountain is associated with the Taoist deity Heilong Xia (Black Dragon Deity) and is an active place of worship. The hiking trails are pleasant and the Taoist architecture is atmospheric. ¥50 ($7 USD).
+
+![Benxi Liaoning — Dongbei Cuisine — Hearty and Satisfying](https://images.pexels.com/photos/6646364/pexels-photo-6646364.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Dongbei Cuisine — Hearty and Satisfying
 

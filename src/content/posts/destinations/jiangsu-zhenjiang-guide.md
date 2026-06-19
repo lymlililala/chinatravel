@@ -13,7 +13,7 @@ tags:
   - yangtze river
   - day trip
 description: "Zhenjiang in Jiangsu is famous for its aromatic vinegar, three Buddhist mountains along the Yangtze, and a fascinating old city largely overlooked by international tourists. This 2026 guide covers Jinshan Temple (65 yuan), Jiao Mountain, Beigu Mountain, the vinegar culture museum, local cuisine, and day trip logistics from Nanjing and Shanghai."
-ogImage: "https://images.unsplash.com/photo-1547036967-23d11aacaee0?w=1200&q=85"
+ogImage: "https://images.unsplash.com/photo-1646823521053-306ff740ab2c?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwzfHxaaGVuamlhbmclMjBKaWFuZ3N1fGVufDB8MHx8fDE3ODE4NTQ4NTh8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
 ---
 
 ## Table of contents
@@ -23,6 +23,8 @@ Zhenjiang occupies a curious position in Chinese cultural geography. It's a city
 This is a mistake. Zhenjiang has three notable Buddhist mountains overlooking the Yangtze River, a well-preserved section of old city, an excellent vinegar museum, and a satisfying regional cuisine that makes few concessions to tourist expectations. As a day trip from Nanjing or as a stepping-stone city between Nanjing and Shanghai, it rewards more than a passing glance.
 
 ## Jinshan Temple (金山寺) and Jinshan
+
+![Zhenjiang Jiangsu — Jinshan Temple (金山寺) and Jinshan](https://images.pexels.com/photos/36347978/pexels-photo-36347978.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Jinshan — Golden Mountain — is the most visited of Zhenjiang's three Yangtze-adjacent mountains. It's significant enough that it's technically no longer an island (Yangtze sedimentation has connected it to the riverbank), but the mountain rises steeply enough that the temple complex gives the impression of an island peak even from close up.
 
@@ -50,6 +52,8 @@ Beigu Mountain — Northern Solid Mountain — is more about history than temple
 
 **Entry:** ¥40 per person.
 
+![Zhenjiang Jiangsu — The Zhenjiang Vinegar Culture](https://images.pexels.com/photos/11733645/pexels-photo-11733645.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The Zhenjiang Vinegar Culture
 
 Zhenjiang vinegar (镇江香醋, Zhenjiang Xiang Cu) is one of China's "Four Famous Vinegars" alongside Shanxi's mature vinegar, Fujian's rice vinegar, and Sichuan's sour vinegar. The Zhenjiang version is distinctive for its aroma — sweeter and more complex than Shanxi's darker, more acidic product — made from glutinous rice using a process involving solid-state fermentation.
@@ -75,6 +79,8 @@ Zhenjiang vinegar (镇江香醋, Zhenjiang Xiang Cu) is one of China's "Four Fam
 **From Suzhou:** Approximately 45 minutes by high-speed rail.
 
 **Within Zhenjiang:** The three mountains are spread across the city and Yangtze waterfront. Taxis (¥7 starting) and Didi are practical. A one-day tricycle-style taxi tour of all three mountains and the vinegar museum can be negotiated for ¥150-200.
+
+![Zhenjiang Jiangsu — Where to Stay](https://images.unsplash.com/photo-1646823521053-306ff740ab2c?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwzfHx6aGVuamlhbmclMjBqaWFuZ3N1fGVufDB8MHx8fDE3ODE4NTQ4NjB8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## Where to Stay
 

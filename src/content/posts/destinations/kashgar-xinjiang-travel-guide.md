@@ -12,6 +12,7 @@ tags:
   - Uyghur culture
   - destinations
 description: "A practical guide to visiting Kashgar in Xinjiang — the Ancient City old town, the Sunday Livestock Bazaar, Uyghur food and crafts, and travel practicalities for China's westernmost Silk Road city."
+ogImage: "https://images.pexels.com/photos/13359995/pexels-photo-13359995.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Kashgar (喀什, *Kāshí*) sits at the western edge of China, where the Silk Road split into northern and southern routes around the Taklamakan Desert. For 2,000 years, this oasis city was one of the most important commercial crossroads in Central Asia — a place where Chinese silk and porcelain met Persian metalwork, Indian spices, and Sogdian merchants.
@@ -23,6 +24,8 @@ The Central Asian character is still visible: the old city's narrow earthen lane
 ## Table of contents
 
 ## Essential Information
+
+![Kashgar Xinjiang — Essential Information](https://images.pexels.com/photos/13683183/pexels-photo-13683183.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 | Detail | Info |
 |--------|------|
@@ -45,6 +48,8 @@ The reconstruction is a source of controversy among heritage conservationists �
 - The **evening food market** around the Id Kah Square — genuinely local, excellent food
 
 **The Id Kah Mosque:** Reconstructed multiple times over centuries; the current main structure is from 1442, with subsequent expansions. Non-Muslim visitors may enter outside prayer times, particularly in the morning. The Friday midday prayer brings thousands of worshippers whose overflow fills the surrounding square — a spectacular spectacle but an active religious event; observe respectfully.
+
+![Kashgar Xinjiang — The Sunday Bazaar (喀什大巴扎)](https://images.pexels.com/photos/2663545/pexels-photo-2663545.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Sunday Bazaar (喀什大巴扎)
 
@@ -73,6 +78,8 @@ Uyghur cuisine is Central Asian in character — lamb-centred, influenced by Uzb
 **Naan bread (馕, *Náng*):** The staple bread — flatbreads baked in tandoor ovens, ranging from plain (*sāng*) to sesame-topped to onion-filled. Available from every street corner. Fresh, still-warm naan from a tandoor oven is one of the better breads in the world.
 
 **Night Food Market (夜市):** The area around Id Kah Square at night becomes a food market with dozens of vendors — lamb skewers (串串, grilled over charcoal), roast whole lamb (全羊), fried noodles, fresh-squeezed pomegranate juice. Open until midnight. Genuinely excellent.
+
+![Kashgar Xinjiang — Beyond the City](https://images.pexels.com/photos/16644805/pexels-photo-16644805.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Beyond the City
 

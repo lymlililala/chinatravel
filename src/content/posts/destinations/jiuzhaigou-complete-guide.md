@@ -11,7 +11,7 @@ tags:
   - nature
   - southwest-china
 description: "Jiuzhaigou (九寨沟) Valley — the UNESCO World Heritage Site in northern Sichuan with its otherworldly coloured lakes (Five Flower Lake is the most photographed lake in China), thundering waterfalls, and Tibetan villages. The timed-entry ticketing system, the best months (September-October for autumn colours, spring for wildflowers), and what changed after the 2017 earthquake."
-ogImage: "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/31404919/pexels-photo-31404919.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Jiuzhaigou (九寨沟, "Nine Village Valley") contains some of the most photographed water in the world. The lakes here range from impossible turquoise to emerald green to deep cobalt blue, fed by calcium-carbonate-rich springs that create the brilliant clarity and colour. Five Flower Lake (五花海) — where you can see fallen tree trunks through 20 metres of water, surrounded by floating flowers of coloured algae — is genuinely unlike anything in the natural world.
@@ -23,6 +23,8 @@ The valley has been gradually reopening since 2019. The 2026 situation is consid
 ## Table of contents
 
 ## The Timed-Entry Ticket System
+
+![Jiuzhaigou — The Timed-Entry Ticket System](https://images.pexels.com/photos/10672908/pexels-photo-10672908.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 This is the most important practical information for any Jiuzhaigou visit.
 
@@ -68,6 +70,8 @@ At 2,340 metres elevation, the highest lake in Jiuzhaigou. A deep mirror-surface
 
 A cascade of about 20 interconnected lakes in the lower valley, linked by waterfalls and channels. The path along the Shuzheng lakes is the most walker-friendly section of the park — wooden boardwalks between the lakes, with multiple photo opportunities.
 
+![Jiuzhaigou — Post-2017 Earthquake Changes](https://images.pexels.com/photos/37333836/pexels-photo-37333836.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Post-2017 Earthquake Changes
 
 The 2017 earthquake caused several significant changes to the valley:
@@ -94,6 +98,8 @@ The autumn colour window is the main event at Jiuzhaigou. The valley floor is mo
 Spring is underrated for Jiuzhaigou. Wildflowers bloom across the valley, snowmelt increases waterfall flow, and visitor numbers are far below autumn levels. The water colour is at its most intense in spring due to snowmelt increasing the mineral content.
 
 **Rhododendron bloom:** Late April–May, particularly striking on the upper valley slopes.
+
+![Jiuzhaigou — Getting to Jiuzhaigou](https://images.pexels.com/photos/31654293/pexels-photo-31654293.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting to Jiuzhaigou
 

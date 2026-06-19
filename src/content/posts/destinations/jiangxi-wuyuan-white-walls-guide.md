@@ -1,6 +1,7 @@
 ---
 title: "Wuyuan Jiangxi: White-Walled Villages, Autumn Ginkgo & China's Most Beautiful Countryside"
 description: "Explore Wuyuan County in Jiangxi — famed as 'the most beautiful countryside in China', with well-preserved Huizhou villages of white walls and black tiles, spectacular autumn ginkgo trees turning gold against the architecture, rapeseed flowers in spring, and authentic rural Chinese life."
+ogImage: "https://images.pexels.com/photos/29612000/pexels-photo-29612000.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Jiangxi"
 tags: ["jiangxi", "wuyuan", "huizhou", "white-walls", "ginkgo-trees", "countryside", "ancient-village", "autumn", "rapeseed-flowers"]
@@ -15,6 +16,8 @@ Wuyuan sits in the northeast corner of Jiangxi Province, bordering Anhui, in the
 What makes Wuyuan distinctive — beyond the architecture, which it shares with parts of Anhui — is the combination of landscapes in an unusually small area: the autumn ginkgo gold, the spring rapeseed yellow, the permanent white-and-black village architecture, and the rivers running through it all.
 
 ---
+
+![Wuyuan Jiangxi — The Architecture: Huizhou Style](https://images.pexels.com/photos/34661673/pexels-photo-34661673.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Architecture: Huizhou Style
 
@@ -42,6 +45,8 @@ Wuyuan has dozens of preserved traditional villages; the most-visited form a loo
 
 ---
 
+![Wuyuan Jiangxi — Autumn Ginkgo: Wuyuan's Most Spectacular Season](https://images.pexels.com/photos/35090160/pexels-photo-35090160.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Autumn Ginkgo: Wuyuan's Most Spectacular Season
 
 The autumn ginkgo display at **Wolong Valley (卧龙谷)** and the village of **Shihucheng (石壶城)** is among the most photographed in China. The key sight is simple: ancient ginkgo trees (some centuries old, reaching 30+ metres) whose leaves turn a saturated, almost neon yellow in late October–early November, creating canopies of gold above the white village walls and black river stones.
@@ -57,6 +62,8 @@ The autumn ginkgo display at **Wolong Valley (卧龙谷)** and the village of **
 The **ginkgo leaf colour** at Wuyuan peaks approximately **late October to mid-November** — typically the 25th of October to the 10th of November, varying by year. The colour appears almost overnight and drops within 2–3 weeks of peak. Check Chinese photography forums (摄影师群) for current-year timing.
 
 ---
+
+![Wuyuan Jiangxi — Spring Rapeseed Flowers](https://images.pexels.com/photos/37932933/pexels-photo-37932933.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Spring Rapeseed Flowers
 

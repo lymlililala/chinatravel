@@ -12,7 +12,7 @@ tags:
   - nature
   - north-china
 description: "Gallop across endless grasslands, sleep in a traditional Mongolian yurt, and witness the Naadam Festival — Inner Mongolia offers an adventure unlike anything else in China."
-ogImage: "https://images.unsplash.com/photo-1531761535209-180857e963b9?w=900&q=80"
+ogImage: "https://images.pexels.com/photos/35497986/pexels-photo-35497986.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Inner Mongolia Autonomous Region spans an extraordinary arc of terrain from the Gobi Desert in the west to the lush Hulunbuir grasslands in the northeast — one of the most diverse and least-visited regions in China for international travellers.
@@ -20,6 +20,8 @@ Inner Mongolia Autonomous Region spans an extraordinary arc of terrain from the 
 ## Table of contents
 
 ## Hohhot (呼和浩特) — The Blue City
+
+![Inner Mongolia — Hohhot (呼和浩特) — The Blue City](https://images.pexels.com/photos/35905576/pexels-photo-35905576.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Hohhot ("Blue City" in Mongolian) is Inner Mongolia's capital and the most practical base for grassland day trips.
 
@@ -33,6 +35,8 @@ Excellent natural history and cultural collection — dinosaur fossils from the 
 Hohhot has a significant Muslim (Hui) population. The Great Mosque (清真大寺) dates to the Qing Dynasty. The surrounding area has excellent lamb and mutton restaurants.
 
 ---
+
+![Inner Mongolia — Hulunbuir Grassland (呼伦贝尔草原)](https://images.pexels.com/photos/30109537/pexels-photo-30109537.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Hulunbuir Grassland (呼伦贝尔草原)
 
@@ -59,6 +63,8 @@ Staying in a traditional Mongolian yurt (蒙古包, měngǔbāo) on the open gra
 The Erguna River forms the border with Russia. The wetlands here are extraordinary — the river meanders in spectacular oxbow loops visible from the Laoguishan viewpoint, one of China's most impressive landscapes.
 
 ---
+
+![Inner Mongolia — Resonant Sand Gorge (响沙湾) and Badain Jaran Desert](https://images.pexels.com/photos/33184411/pexels-photo-33184411.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Resonant Sand Gorge (响沙湾) and Badain Jaran Desert
 

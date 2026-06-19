@@ -1,6 +1,7 @@
 ---
 title: "Kunming Travel Guide: Spring City Gateway to Yunnan 2026"
 description: "Complete guide to Kunming, Yunnan's capital — the Stone Forest, Dianchi Lake, flower markets, and using Kunming as a base for Yunnan adventures. Climate, transport, food, and practical tips."
+ogImage: "https://images.pexels.com/photos/12671692/pexels-photo-12671692.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/kunming-spring.jpg"
 category: "destinations"
@@ -13,6 +14,8 @@ author: "RoamChina Travel"
 Kunming (昆明, Kūn Míng) is called the "Spring City" (春城) because it's one of the few places in China where the climate is genuinely mild year-round. Sitting at 1,900 meters elevation in Yunnan province, Kunming avoids both the sweltering summers of lowland China and the harsh winters of northern regions. Flowers bloom throughout the year. The light is sharp and brilliant.
 
 Most travelers use Kunming as a gateway to the rest of Yunnan — as a transit hub for Lijiang, Dali, Xishuangbanna, or the Tibetan areas of northwest Yunnan. This is perfectly reasonable. But treating Kunming as merely a stopover means missing a genuinely interesting city with its own character, history, and food culture.
+
+![Kunming — Understanding Kunming](https://images.pexels.com/photos/34419776/pexels-photo-34419776.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Understanding Kunming
 
@@ -31,6 +34,8 @@ This diversity shows up in the food market (mushroom varieties from the highland
 - From Dali: approximately 2 hours
 
 **By Road**: Long-distance buses remain important for reaching towns not yet served by rail.
+
+![Kunming — Kunming as a Base](https://images.pexels.com/photos/34628212/pexels-photo-34628212.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Kunming as a Base
 
@@ -60,6 +65,8 @@ The geological process that created the Stone Forest took approximately 270 mill
 **Time needed**: 3-4 hours for the main scenic areas; a full day if you want to explore extensively
 
 **Yi Village**: Near the Stone Forest, the Sani (a Yi subgroup) village of Suogu Yi offers genuine cultural contact — small restaurants, craft shops, and the possibility of attending local festivals if timing is right.
+
+![Kunming — Dianchi Lake (滇池)](https://images.pexels.com/photos/36352348/pexels-photo-36352348.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Dianchi Lake (滇池)
 

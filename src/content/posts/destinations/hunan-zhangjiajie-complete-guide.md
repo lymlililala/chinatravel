@@ -12,7 +12,7 @@ tags:
   - avatar
   - hiking
 description: "Zhangjiajie's towering sandstone pillars inspired Avatar's floating mountains and have made it one of China's most famous landscapes. But navigating the area's multiple parks, cable cars, and hiking options is confusing. This 2026 complete guide explains which parks to visit, which to skip, the best viewing strategies, and everything you need to plan the perfect Zhangjiajie trip."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/25000765/pexels-photo-25000765.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -22,6 +22,8 @@ When the director James Cameron was developing the visual world of Avatar, his t
 The reality is both better and more complicated than the movie reference suggests. The landscape is genuinely extraordinary and unlike anything else in China. But the area has multiple distinct parks, a confusing ticket system, massive crowds in peak season, and limited English signage. This guide aims to cut through the confusion.
 
 ## Understanding the Zhangjiajie Area
+
+![Zhangjiajie Visit — Understanding the Zhangjiajie Area](https://images.pexels.com/photos/37621083/pexels-photo-37621083.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 First, the terminology. "Zhangjiajie" refers to multiple things:
 - **Zhangjiajie City (张家界市)**: The administrative city, including the tourist service center
@@ -74,6 +76,8 @@ A more recent attraction featuring a glass bridge over a gorge (Zhangjiajie Glas
 
 **Recommendation**: Worth a half-day if you haven't seen glass bridges/walkways elsewhere. Skip if you're only spending 2 days in the area.
 
+![Zhangjiajie Visit — Recommended Itineraries](https://images.pexels.com/photos/26771351/pexels-photo-26771351.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Recommended Itineraries
 
 ### 2-Day Minimum
@@ -112,6 +116,8 @@ Counterintuitively, overcast and lightly misty days (not heavy rain) can produce
 2. **Tianzi Mountain Viewing Platform**: The best sea-of-clouds viewpoint
 3. **Bailong Elevator viewpoint at the top**: Looking back at the valley you rose from
 4. **Golden Whip Stream at dawn**: The stream between towering pillars, completely deserted at opening time
+
+![Zhangjiajie Visit — Avoiding Crowds](https://images.pexels.com/photos/33665245/pexels-photo-33665245.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Avoiding Crowds
 

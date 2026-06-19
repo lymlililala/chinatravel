@@ -1,12 +1,15 @@
 ---
 title: "Fuxian Lake Guide: China's Deepest Freshwater Lake in Yunnan"
 description: "Guide to visiting Fuxian Lake (抚仙湖) near Yuxi in Yunnan Province — China's deepest freshwater lake and one of its cleanest. Beaches, cycling, fishing villages, the submerged ruins mystery and how to get there from Kunming."
+ogImage: "https://images.pexels.com/photos/28700384/pexels-photo-28700384.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Fuxian Lake", "Yunnan", "Yuxi", "China lakes", "清澈湖泊", "Kunming day trip", "China nature travel"]
 ---
 
 Fuxian Lake (抚仙湖) in Yuxi Prefecture, 60 km southeast of Kunming, holds a distinction that surprises most visitors: it is the deepest freshwater lake in China, reaching 157.8 meters at its deepest point, and its water transparency exceeds 12 meters — you can see the bottom in many sections visible even from a low-altitude aerial view. In a country where most major lakes suffer from eutrophication and pollution, Fuxian's near-crystalline water is extraordinary.
+
+![Fuxian Lake — Why Fuxian Lake is Special](https://images.pexels.com/photos/13092792/pexels-photo-13092792.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Why Fuxian Lake is Special
 
@@ -26,6 +29,8 @@ Fuxian's shoreline includes several gentle sandy beaches on the eastern (less de
 
 **Best months for swimming**: May–September. Water temperature at the surface reaches 22–25°C in summer; the deep water stays cold year-round.
 
+![Fuxian Lake — Cycling the Lake](https://images.pexels.com/photos/36410522/pexels-photo-36410522.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Cycling the Lake
 
 The **40 km lake circuit road** is one of Yunnan's best cycling routes — relatively flat on the eastern side, with some hills on the western approach. The road runs close to the lake shore through fishing villages, orchards, fields of purple globe artichokes (a Yunnan specialty) and small rural settlements.
@@ -43,6 +48,8 @@ The origin of the ruins is debated. The most widely accepted theory connects the
 The mystery element: what caused such extensive stone structures to end up underwater? Gradual shoreline change over 2,000 years? A flood? Seismic activity? Research continues.
 
 **Visiting the ruins**: Diving tours to view the ruins operate from Chengjiang and Jiangcheng. Certified divers can arrange guided dives through local operators; non-divers can view photos and video at the Fuxian Lake Visitor Center.
+
+![Fuxian Lake — Fishing Village Life](https://images.pexels.com/photos/14615216/pexels-photo-14615216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Fishing Village Life
 

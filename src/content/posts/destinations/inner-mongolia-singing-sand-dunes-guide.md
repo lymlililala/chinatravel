@@ -1,6 +1,7 @@
 ---
 title: "Inner Mongolia Singing Sand Dunes: Resonant Sand Bay & Desert Experience"
 description: "Visit the Resonant Sand Bay (Xiangshawan) in Inner Mongolia — dramatic singing sand dunes in the Kubuqi Desert where you can sandboard, camel trek, see the desert-meets-grassland landscape, and camp under extraordinary star-filled skies."
+ogImage: "https://images.pexels.com/photos/3121286/pexels-photo-3121286.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Inner Mongolia"
 tags: ["inner-mongolia", "singing-sand-dunes", "xiangshawan", "kubuqi-desert", "camel-trekking", "desert", "sandboarding", "stargazing"]
@@ -13,6 +14,8 @@ Two hours west of Hohhot, the Kubuqi Desert pushes south into the Yellow River b
 The "singing" has been explained by science (it results from dry, spherical sand grains of uniform size vibrating in resonance when disturbed), but the experience of standing on a dune's crest and hearing it moan is not diminished by the explanation.
 
 ---
+
+![Inner Mongolia Singing Sand Dunes — The Singing Sand Phenomenon](https://images.pexels.com/photos/8348355/pexels-photo-8348355.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Singing Sand Phenomenon
 
@@ -51,6 +54,8 @@ Four-wheel-drive dune buggies (¥120/vehicle) enter the back-dune area inaccessi
 
 ---
 
+![Inner Mongolia Singing Sand Dunes — The Desert-Grassland Transition](https://images.pexels.com/photos/2106194/pexels-photo-2106194.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The Desert-Grassland Transition
 
 What makes the Resonant Sand Bay area uniquely interesting geographically is the **transition zone** between desert and grassland. On the southern and western edges of the dune complex, the Kubuqi Desert is actively controlled by the world's largest desert reforestation project (the Kubuqi Desertification Control Programme), where drought-resistant shrubs have converted bare dunes to scrubland over 600,000 hectares since 1988.
@@ -68,6 +73,8 @@ The night sky above the Kubuqi Desert is extraordinary. The **Hetao Plain** (the
 **Best stargazing months:** October and November (dry, clear skies; cold but manageable with camp blankets).
 
 ---
+
+![Inner Mongolia Singing Sand Dunes — Nearby: Kubuqi Desert Eco-Tourism Area](https://images.pexels.com/photos/12033762/pexels-photo-12033762.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Nearby: Kubuqi Desert Eco-Tourism Area
 

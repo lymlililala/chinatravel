@@ -1,6 +1,7 @@
 ---
 title: "Yangzhou Gardens & Grand Canal: Salt Merchants' Legacy & Huaiyang Cuisine"
 description: "Explore Yangzhou in Jiangsu — the ancient salt-trading capital on the Grand Canal, with exquisite Qing-dynasty private gardens, the Slender West Lake, world-class Huaiyang cuisine, and the most literary urban atmosphere in the Yangtze Delta."
+ogImage: "https://images.pexels.com/photos/7394083/pexels-photo-7394083.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Jiangsu"
 tags: ["jiangsu", "yangzhou", "grand-canal", "gardens", "huaiyang-cuisine", "slender-west-lake", "salt-merchants", "qing-dynasty"]
@@ -11,6 +12,8 @@ tags: ["jiangsu", "yangzhou", "grand-canal", "gardens", "huaiyang-cuisine", "sle
 For a brief, extravagant period in the 18th century, **Yangzhou** was arguably the wealthiest city in China. The salt merchant families who controlled the trade in one of the empire's most essential commodities invested the profits in gardens, private opera troupes, and food of such refinement that **Huaiyang cuisine** became one of China's four recognised classical cooking traditions.
 
 ---
+
+![Yangzhou Gardens & Grand Canal — Slender West Lake (瘦西湖)](https://images.pexels.com/photos/7494607/pexels-photo-7494607.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Slender West Lake (瘦西湖)
 
@@ -26,6 +29,8 @@ For a brief, extravagant period in the 18th century, **Yangzhou** was arguably t
 
 ---
 
+![Yangzhou Gardens & Grand Canal — Classical Gardens](https://images.pexels.com/photos/16912476/pexels-photo-16912476.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Classical Gardens
 
 ### He Garden (何园)
@@ -37,6 +42,8 @@ Famous for **four seasonal rockery compositions** — spring bamboo and limeston
 **Admission:** ¥45.
 
 ---
+
+![Yangzhou Gardens & Grand Canal — Huaiyang Cuisine](https://images.unsplash.com/photo-1742201497494-1029d2a954ea?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwyfHxIdWFpeWFuZyUyMEN1aXNpbmV8ZW58MHwwfHx8MTc4MTg1NDg1Nnww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## Huaiyang Cuisine
 

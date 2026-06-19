@@ -13,7 +13,7 @@ tags:
   - nature
   - wetlands
 description: "Poyang Lake in Jiangxi is China's largest freshwater lake and the world's most important wintering ground for Siberian cranes. This 2026 guide covers the best birdwatching season (November-March), viewing locations, Nanchang base, boat tours, local food, and how to combine with Jingdezhen porcelain and Lushan Mountain."
-ogImage: "https://images.unsplash.com/photo-1618221118493-53cffb83730c?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/32972824/pexels-photo-32972824.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -23,6 +23,8 @@ Each winter, something extraordinary happens in Jiangxi's Poyang Lake basin. The
 But even setting aside the cranes, Poyang Lake in winter hosts remarkable concentrations of birds: bean geese, white-fronted geese, greater white-fronted geese, tundra swans, whooper swans, hooded cranes, white-naped cranes, Oriental storks, and many more. The sheer scale of what you see on a good winter morning at Poyang — waves of geese rising from the reed beds, groups of cranes calling across the water, storks standing in shallow pools — is one of the great natural spectacles of East Asia.
 
 ## Understanding Poyang Lake
+
+![Poyang Lake Jiangxi — Understanding Poyang Lake](https://images.pexels.com/photos/31209458/pexels-photo-31209458.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Poyang Lake (鄱阳湖) is China's largest freshwater lake, but with a significant caveat: its size varies enormously between seasons. In summer (July-September), fed by the five major rivers of Jiangxi and the Yangtze, it expands to over 4,000 square kilometres. In winter, the water recedes dramatically, exposing mudflats and turning vast sections of the lake into shallow wetland habitat — exactly what waterbirds need. At its winter minimum the lake shrinks to perhaps 500-1,000 square kilometres.
 
@@ -50,6 +52,8 @@ Multiple observation towers and walking paths have been established in the natur
 **Nanji Wetland (南矶山湿地):** The Nanji Wetland National Nature Reserve on a group of islands and peninsulas in the southern lake is one of the most productive viewing areas. Requires boat access. Local fishermen and operators offer transport (¥200-500 per group).
 
 **Viewing towers near Xingzi County:** The northern lake areas around Xingzi have several accessible observation platforms and are sometimes easier to reach from Nanchang via road.
+
+![Poyang Lake Jiangxi — Getting to the Lake](https://images.pexels.com/photos/36103492/pexels-photo-36103492.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting to the Lake
 
@@ -84,6 +88,8 @@ Winter crane photography at Poyang is genuinely world-class and draws serious wi
 **Cranes in flight:** The Siberian crane in flight is a dramatic photographic subject — pure white with black wing tips, the birds have a wingspan of 210-230cm. Their calls are distinctive and haunting.
 
 **Boat photography:** From water level, the perspective on bird concentrations is exceptional. Negotiate with boat operators to position the boat for optimal light.
+
+![Poyang Lake Jiangxi — Local Food Near Poyang Lake](https://images.pexels.com/photos/29461567/pexels-photo-29461567.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Local Food Near Poyang Lake
 
