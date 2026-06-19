@@ -12,7 +12,7 @@ tags:
   - hiking
   - sacred-mountain
 description: "Emei Mountain (峨眉山) is one of China's Four Sacred Buddhist Mountains, rising to 3,099m in Sichuan Province. The journey from tropical forest at the base to alpine temples at the golden summit involves extraordinary diversity of ecosystems, legendary golden monkeys, and one of China's most dramatic mountain temples perched at the clouds. This 2026 complete guide covers routes, cable cars, the famous sea of clouds, and practical planning."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/29295634/pexels-photo-29295634.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -22,6 +22,8 @@ Emei Mountain (峨眉山, Éméi Shān) rises almost incomprehensibly from the S
 The combination of extraordinary mountain scenery, ancient Buddhist temples, subtropical biodiversity, and the legendary aggressive but photogenic Tibetan macaques (the "Buddhist monkeys" of popular imagination) makes Emei one of China's most rewarding sacred mountain experiences. It's also genuinely challenging to plan — the mountain is large, the altitude gain is significant, and the options for ascending range from a full multi-day trek to a 2-hour cable car and bus combination.
 
 ## The Mountain's Scale and Structure
+
+![Emei Mountain Sichuan — The Mountain's Scale and Structure](https://images.pexels.com/photos/20308720/pexels-photo-20308720.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Emei Mountain can be conceptually divided into three sections:
 
@@ -83,6 +85,8 @@ Weather at the summit is changeable and often colder than expected. Even in July
 
 **Staying overnight at the summit** is the best strategy for catching both sunset and sunrise cloud phenomena. The Jinding Hotel (金顶宾馆) and several guesthouses operate at the summit. Rooms are basic but functional; expect to pay ¥200–400/night for a double. Book in advance for October–November and during national holidays.
 
+![Emei Mountain Sichuan — The Monkeys](https://images.pexels.com/photos/10403911/pexels-photo-10403911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The Monkeys
 
 The Tibetan macaques (Macaca thibetana) of Emei Mountain are famous — large, confident primates that have lived on the mountain long enough to lose their fear of humans and develop a sophisticated understanding of how to extract food from tourists.
@@ -126,6 +130,8 @@ A mid-mountain temple that makes the best overnight stop for multi-day trekkers.
 **Internal shuttle bus (included in ticket)**: Connects Baoguo Temple with Wannian Temple, then the main road up to Leidongping.
 
 **Opening hours**: Scenic area open 24 hours (for pilgrims and trekkers). Cable cars: 6:30am–7pm (last cable car up; last down follows closing of summit).
+
+![Emei Mountain Sichuan — Getting to Emei Mountain](https://images.pexels.com/photos/29767807/pexels-photo-29767807.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting to Emei Mountain
 

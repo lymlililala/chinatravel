@@ -1,12 +1,15 @@
 ---
 title: "Shenzhen Futian Mangrove Wetland Guide: Birdwatching and Urban Nature"
 description: "Guide to visiting Futian Mangrove Nature Reserve in Shenzhen — one of the world's smallest but most biodiverse urban wetlands. Best for birdwatching, cycling and escaping the city within the city."
+ogImage: "https://images.pexels.com/photos/37248923/pexels-photo-37248923.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Shenzhen", "Futian wetland", "mangrove", "birdwatching China", "Shenzhen nature", "urban park Shenzhen"]
 ---
 
 Sandwiched between Shenzhen's dense urban fabric and the Hong Kong border lies one of China's most remarkable urban nature reserves — the Futian Mangrove Nature Reserve (福田红树林自然保护区). Just 368 hectares in area, this strip of wetland hosts over 190 species of birds, including globally endangered migratory shorebirds, resident herons, and wintering ducks. For travelers who associate Shenzhen exclusively with technology parks and shopping malls, the wetland is a revelation.
+
+![Shenzhen Futian Mangrove Wetland — What Is the Futian Mangrove Reserve?](https://images.pexels.com/photos/38127408/pexels-photo-38127408.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## What Is the Futian Mangrove Reserve?
 
@@ -23,6 +26,8 @@ The reserve sits at the apex of the East Asian–Australasian Flyway — the mig
 **Migratory passage (March–May and October–November)**: Sharp-tailed Sandpiper, Red-necked Stint, Curlew Sandpiper, Pacific Golden Plover, various raptors.
 
 **Birding rating**: International ornithologists rate Futian as a "globally significant Important Bird Area." For serious birders, it's essential; for casual wildlife viewers, there's always something impressive to see at low tide.
+
+![Shenzhen Futian Mangrove Wetland — Visiting the Reserve](https://images.unsplash.com/photo-1714598268918-ab95770723bc?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw1fHxWaXNpdGluZyUyMFJlc2VydmV8ZW58MHwwfHx8MTc4MTg3MjkyMXww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## Visiting the Reserve
 
@@ -43,6 +48,8 @@ The reserve sits at the apex of the East Asian–Australasian Flyway — the mig
 **Best season**: November–January for the Black-faced Spoonbill congregation (which regularly numbers 400+, making Futian the most important wintering site for this species globally).
 
 **Local birding groups**: The Shenzhen Bird Society (深圳观鸟会) organizes regular walks at Futian. Contact through their WeChat public account for information on guided walks.
+
+![Shenzhen Futian Mangrove Wetland — Cycling the Shenzhen Bay Coastal Path](https://images.pexels.com/photos/31746140/pexels-photo-31746140.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Cycling the Shenzhen Bay Coastal Path
 

@@ -1,6 +1,7 @@
 ---
 title: "Kangding Love Song Town: Gateway to Tibetan Sichuan"
 description: "Discover Kangding (Dartsedo) — the historic trading town between Han and Tibetan worlds, famous for the beloved folk song Kangding Love Song, the Muya Snow Mountain backdrop, Tibetan temples, and its role as gateway to the spectacular Garze Tibetan Autonomous Prefecture."
+ogImage: "https://images.pexels.com/photos/15969586/pexels-photo-15969586.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Sichuan"
 tags: ["sichuan", "kangding", "tibetan", "garze", "folk-song", "muya-snow-mountain", "gatekeep", "sichuan-tibet-highway"]
@@ -13,6 +14,8 @@ At an elevation of 2,560 metres, where the Zheduo River meets the Yala River in 
 It was here, at the edge of the Han agricultural world and the Tibetan pastoral plateau, that the **Tea Horse Road (茶马古道)** ran — the ancient trade route along which compressed tea bricks from Yunnan and Sichuan were exchanged for Tibetan horses that the Chinese armies needed. Today, a single folk song has made Kangding famous across China in a way that no trade route could.
 
 ---
+
+![Kangding Love Song Town — The Song That Made a Town Famous](https://images.pexels.com/photos/29756511/pexels-photo-29756511.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Song That Made a Town Famous
 
@@ -42,6 +45,8 @@ Thirty kilometres before Kangding, the famous **Luding Bridge (泸定桥)** cros
 **Admission:** ¥40.
 
 ---
+
+![Kangding Love Song Town — What to See in Kangding](https://images.pexels.com/photos/31210026/pexels-photo-31210026.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## What to See in Kangding
 

@@ -23,6 +23,8 @@ Taiyuan, the provincial capital, is the hub for accessing all of this. The city 
 
 ## Jinci Temple (晋祠)
 
+![Taiyuan Shanxi — Jinci Temple (晋祠)](https://images.pexels.com/photos/29606775/pexels-photo-29606775.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 Jinci is Taiyuan's finest attraction and one of China's most historically significant garden-temple complexes. Located 25 km southwest of the city centre at the foot of the Xuanweng Mountains, it combines active religious function with extraordinary historical architecture.
 
 The site's core attraction is the **Holy Mother Hall (圣母殿)** — a 1023 AD Song Dynasty structure that is among the finest surviving examples of Song architectural style. The hall houses the Holy Mother of the Jinci (Tang founder Li Yuan's mother or the water goddess, depending on interpretive tradition) and is notable for its remarkable Song Dynasty painted clay statues — 43 attendant figures whose lifelike, individuated faces represent a peak of Chinese figurative sculpture.
@@ -53,6 +55,8 @@ One of China's best provincial museums, the Shanxi Museum collects the extraordi
 Taiyuan's most recognisable skyline feature: two matching 13-storey pagodas (built 1612, Ming Dynasty) rising 54 metres, standing about 50 metres apart. The twin-tower configuration is unusual in Chinese pagoda architecture, and the visual effect of the two towers rising above the lower buildings around them is striking.
 
 **Tickets:** ¥30 ($4). Open daily 08:30–17:30.
+
+![Taiyuan Shanxi — Tianlong Mountain Buddhist Caves (天龙山石窟)](https://images.pexels.com/photos/37579575/pexels-photo-37579575.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Tianlong Mountain Buddhist Caves (天龙山石窟)
 

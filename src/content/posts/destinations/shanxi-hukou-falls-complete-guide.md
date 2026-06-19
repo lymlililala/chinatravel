@@ -12,12 +12,14 @@ tags:
   - yellow-river
   - natural-wonder
 description: "Witness the raw power of the Yellow River at Hukou Waterfall, China's second-largest waterfall and the most dramatic point along the entire 5,464 km course of the mother river of Chinese civilisation. This 2026 guide covers both the Shanxi and Shaanxi viewing sides, the best times to see the falls at maximum power, the thrilling river-adjacent walking paths, winter ice waterfall phenomenon, local Shanxi cuisine, and practical advice for reaching this remote but unforgettable natural wonder on the border of two provinces."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/6723876/pexels-photo-6723876.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
 
 ## Hukou — Where the Yellow River Finds Its Voice
+
+![Hukou Waterfall Shanxi — Hukou — Where the Yellow River Finds Its Voice](https://images.pexels.com/photos/13749880/pexels-photo-13749880.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 The Yellow River (黄河) is the mother river of Chinese civilisation, and for most of its 5,464 km journey from the Tibetan Plateau to the Bohai Sea, it's a wide, muddy, surprisingly placid waterway. But at Hukou (壶口), something extraordinary happens. The river, here about 300-400 metres wide, is forced through a narrow gorge only 30-50 metres across, creating a thundering cascade of yellow water that drops 20 metres in a roiling, churning maelstrom of spray and fury.
 
@@ -56,6 +58,8 @@ The Shanxi viewing area has multiple levels and perspectives:
 ### Getting Up Close
 
 One of the most remarkable things about Hukou on the Shanxi side is how close you can get to the water. There are no barriers preventing you from walking right to the river's edge at several points. This is thrilling but dangerous — the current is lethal, and the rocks are slippery. Every year, tourists are injured (and occasionally killed) by underestimating the river's power. Stay on designated paths, obey warning signs, and never turn your back on the water.
+
+![Hukou Waterfall Shanxi — When to Visit — Seasonal Variations](https://images.pexels.com/photos/2870587/pexels-photo-2870587.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## When to Visit — Seasonal Variations
 
@@ -110,6 +114,8 @@ There are several basic restaurants near the Shanxi entrance, but the food is ov
 **Jixian County Town:** About 40 km from the falls, with better and cheaper restaurants. Meals ¥20-40 ($2.80-5.50 USD) per person.
 
 **Roadside Restaurants:** Several family-run restaurants along the road from Jixian to Hukou. Simple but authentic. ¥15-25 ($2.10-3.50 USD) per person.
+
+![Hukou Waterfall Shanxi — Practical Information](https://images.pexels.com/photos/15386162/pexels-photo-15386162.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Practical Information
 

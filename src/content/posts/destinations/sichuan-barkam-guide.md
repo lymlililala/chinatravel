@@ -12,12 +12,14 @@ tags:
   - tibetan-watchtowers
   - danba
 description: "Explore Barkam (Ma'erkang), the capital of Aba Tibetan and Qiang Autonomous Prefecture in western Sichuan, where ancient Tibetan watchtower castles soar above river valleys, traditional stone villages cling to dramatic hillsides, and the plateau culture offers an accessible gateway to Tibetan life. This 2026 guide covers the magnificent Danba watchtowers, Zhuokeji Tibetan chieftain's castle, local monasteries, the stunning Jiaju Tibetan village, plateau trekking, and practical advice for navigating this culturally rich region at the crossroads of Sichuan and Tibet."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/7494233/pexels-photo-7494233.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
 
 ## Where Sichuan Meets Tibet
+
+![Barkam (Ma'erkang) Sichuan — Where Sichuan Meets Tibet](https://images.pexels.com/photos/8604580/pexels-photo-8604580.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Barkam (马尔康, Ma'erkang in Chinese) is the capital of Aba Tibetan and Qiang Autonomous Prefecture (阿坝藏族羌族自治州), and stepping off the bus here feels like crossing an invisible border. The signs switch to Tibetan script, the restaurants serve yak butter tea alongside Sichuan hotpot, and the faces in the street are predominantly Tibetan. Geographically still in Sichuan, culturally Barkam is firmly Tibetan — and it's one of the most accessible places to experience Tibetan plateau culture without the permit complications of the Tibet Autonomous Region.
 
@@ -61,6 +63,8 @@ The current building dates primarily from the 18th and 19th centuries, with sign
 The building gained additional fame when the Red Army stayed here during the Long March in 1935. Mao Zedong reportedly spent a week in the residence and was impressed by its grandeur.
 
 **Entrance fee:** ¥60 ($8.30 USD). Allow 1.5-2 hours. Limited English signage — consider hiring a local guide for ¥100 ($14 USD).
+
+![Barkam (Ma'erkang) Sichuan — Monasteries and Religious Sites](https://images.pexels.com/photos/30002100/pexels-photo-30002100.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Monasteries and Religious Sites
 
@@ -107,6 +111,8 @@ The cuisine in Barkam reflects its position at the cultural crossroads:
 **Barkam Tibetan Kitchen:** Near the main square. Good for momos and yak butter tea. Meals ¥20-40 ($2.80-5.50 USD) per person.
 
 **Aba Hotel Restaurant:** Inside the Aba Hotel. More Chinese-oriented menu but reliable quality. Meals ¥30-60 ($4.20-8.30 USD) per person.
+
+![Barkam (Ma'erkang) Sichuan — Practical Information](https://images.pexels.com/photos/37333836/pexels-photo-37333836.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Practical Information
 

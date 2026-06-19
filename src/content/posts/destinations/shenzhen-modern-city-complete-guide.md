@@ -12,7 +12,7 @@ tags:
   - shopping
   - technology
 description: "The complete Shenzhen travel guide for 2026 — Shenzhen as a tech city and design capital, Huaqiangbei electronics market, the best street food, border crossing from Hong Kong, day trip planning, and the real character of China's most modern city."
-ogImage: "https://images.unsplash.com/photo-1547636780-e67f273f4048?w=900&q=80"
+ogImage: "https://images.pexels.com/photos/28905870/pexels-photo-28905870.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Shenzhen is China's experiment in what a city can become when built from scratch — in 1979 a fishing village of 30,000 people; today a technology and design capital of 13 million. It's the headquarters of Huawei, DJI, Tencent, BYD, and OnePlus. It contains the world's most concentrated electronics market. Its suburbs are home to some of the best street food in Guangdong Province.
@@ -24,6 +24,8 @@ Shenzhen is not on most international tourist itineraries, but it should be on t
 ---
 
 ## Shenzhen in Context
+
+![Shenzhen — Shenzhen in Context](https://images.pexels.com/photos/28074577/pexels-photo-28074577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Shenzhen was designated China's first Special Economic Zone (SEZ) by Deng Xiaoping in 1980, which gave it special status to experiment with market economics. In 45 years it grew from a farming district into one of the world's most important technology and manufacturing hubs.
 
@@ -53,6 +55,8 @@ The city is composed of districts with distinctly different characters:
 Shenzhen is connected by high-speed rail to Guangzhou (30 minutes), Zhuhai (60 minutes), and most major south Chinese cities. Shenzhen Bao'an International Airport has extensive domestic connections.
 
 ---
+
+![Shenzhen — Huaqiangbei Electronics Market — World's Tech Bazaar](https://images.pexels.com/photos/17565491/pexels-photo-17565491.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Huaqiangbei Electronics Market — World's Tech Bazaar
 
@@ -108,6 +112,8 @@ The food around Nantou: wonton noodles, beef offal soup, roast goose, and a rang
 Shenzhen has a large Hakka community, and **Hakka cuisine (客家菜)** — earthier and more rustic than Cantonese food — is excellent here. Salt-baked chicken (盐焗鸡) and pork belly with preserved vegetables (梅菜扣肉) are the representative dishes.
 
 ---
+
+![Shenzhen — OCT Contemporary Art Terminal (华侨城创意文化园)](https://images.pexels.com/photos/1666667/pexels-photo-1666667.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## OCT Contemporary Art Terminal (华侨城创意文化园)
 

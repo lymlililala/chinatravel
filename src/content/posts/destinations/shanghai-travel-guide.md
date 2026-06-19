@@ -20,6 +20,7 @@ tags:
   - food
   - culture
 description: "Plan your Shanghai trip with our complete guide — the Bund, Pudong skyline, Yu Garden, French Concession, local food, nightlife, and day trip ideas."
+ogImage: "https://images.pexels.com/photos/19852129/pexels-photo-19852129.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Shanghai is China's most cosmopolitan city — a place where Art Deco mansions face 600-metre glass towers across the Huangpu River, where dumplings cost ¥10 in a lane behind a Michelin-starred restaurant serving the same filling for ¥200, and where the city reinvents itself so fast that guide books are outdated before they are printed.
@@ -29,6 +30,8 @@ It is also, for many international arrivals, the easiest Chinese city to navigat
 ## Table of contents
 
 ## Top Things to See and Do
+
+![Shanghai — Top Things to See and Do](https://images.pexels.com/photos/1750268/pexels-photo-1750268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### The Bund (外滩)
 
@@ -63,6 +66,8 @@ A classical Ming-dynasty garden in the Old City, with zigzag bridges, koi ponds,
 
 ---
 
+![Shanghai — Where to Eat](https://images.pexels.com/photos/36051950/pexels-photo-36051950.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Where to Eat
 
 Shanghai cuisine (本帮菜, Běnbāng cài) is characterised by sweet, rich, glossy sauces and a strong affinity for pork and seafood.
@@ -85,6 +90,8 @@ Shanghai's most iconic food: thin-skinned steamed dumplings filled with pork and
 Shanghai's bar and restaurant scene rivals any world city. The Bund and Xintiandi are the epicentres. **Bar Rouge**, **CHAR**, and **Ultraviolet** (one of the world's most unusual dining experiences — book months ahead) are a few names to look up.
 
 ---
+
+![Shanghai — Getting Around Shanghai](https://images.pexels.com/photos/687450/pexels-photo-687450.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting Around Shanghai
 

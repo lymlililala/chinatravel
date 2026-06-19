@@ -13,7 +13,7 @@ tags:
   - national park
   - nature
 description: "Discover Huanglong's magical five colour lake and terraced travertine pools in Sichuan. This 2026 guide covers the best seasons to visit, altitude sickness prevention, ticket prices (¥200), hiking routes, and practical tips for reaching this remote UNESCO World Heritage Site in northern Sichuan."
-ogImage: "https://images.unsplash.com/photo-1586348943529-beaae6c28db9?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/31654294/pexels-photo-31654294.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -23,6 +23,8 @@ Tucked into a high alpine valley at 3,000–4,000 metres above sea level in nort
 This guide will give you everything you need to visit Huanglong in 2026 — when to go, how to get there, what to expect from the altitude, and how to make the most of a destination that genuinely rewards careful planning.
 
 ## Why Huanglong Is Worth the Effort
+
+![Huanglong Five Colour Lake Sichuan — Why Huanglong Is Worth the Effort](https://images.pexels.com/photos/27631664/pexels-photo-27631664.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Huanglong was designated a UNESCO World Heritage Site in 1992 alongside nearby Jiuzhaigou. While Jiuzhaigou gets most of the international attention, Huanglong offers something arguably more spectacular per square kilometre: a 3.6km valley filled with roughly 3,400 travertine pools cascading down the hillside like a natural staircase made of calcium carbonate. The colours come from the minerals in the water interacting with algae, sunlight and depth — a combination that produces an almost unreal palette.
 
@@ -55,6 +57,8 @@ For people coming from sea level or low-altitude Chinese cities, this is high en
 - Oxygen canisters are sold at the entrance and at stalls along the route (¥30–50 each) — they provide brief relief but aren't a substitute for acclimatisation
 
 If you have a heart or lung condition, consult a doctor before visiting. The site is not suitable for people with severe cardiovascular problems.
+
+![Huanglong Five Colour Lake Sichuan — How to Get to Huanglong](https://images.pexels.com/photos/31654292/pexels-photo-31654292.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## How to Get to Huanglong
 
@@ -101,6 +105,8 @@ The **Mingling Temple (Huanglongsi)** sits about two-thirds of the way down. Thi
 **Lower Section:**
 
 As you descend further, the pools become smaller and the forest closes in. The entrance zone has several viewpoints of the lower valley before you exit.
+
+![Huanglong Five Colour Lake Sichuan — Photography Tips for Huanglong](https://images.pexels.com/photos/29767798/pexels-photo-29767798.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Photography Tips for Huanglong
 

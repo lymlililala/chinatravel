@@ -12,6 +12,7 @@ tags:
   - food
   - history
 description: "How to visit Yuyuan Garden in Shanghai's Old City — the garden itself, the surrounding bazaar, where to eat the best xiaolongbao, and how to avoid the worst of the crowds."
+ogImage: "https://images.pexels.com/photos/20847326/pexels-photo-20847326.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Tucked inside the sprawling commercial maze of the Old City Bazaar, Yuyuan Garden (豫园) is a 450-year-old classical garden that feels like it has been transported from Suzhou — perfect ponds, whitewashed walls capped with dragon-spine ridges, and pavilions connected by zigzag bridges over lotus-filled water. Then you look up and see the neon signs of the shopping complex surrounding it.
@@ -21,6 +22,8 @@ This contrast — ancient garden dropped inside a 21st-century tourist bazaar �
 ## Table of contents
 
 ## Essential Information
+
+![Yuyuan Garden Shanghai — Essential Information](https://images.pexels.com/photos/8776494/pexels-photo-8776494.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 | Detail | Info |
 |--------|------|
@@ -32,6 +35,8 @@ This contrast — ancient garden dropped inside a 21st-century tourist bazaar �
 | Recommended duration | 1.5–2 hours for the garden; extra time for the bazaar |
 
 Book tickets online via the **Yuyuan Garden WeChat mini-program** or Damai to guarantee entry during peak season. Tickets can sell out on national holidays and weekends.
+
+![Yuyuan Garden Shanghai — The Garden: History and Layout](https://images.pexels.com/photos/8180453/pexels-photo-8180453.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Garden: History and Layout
 
@@ -50,6 +55,8 @@ The garden covers only 2 hectares — small by Imperial garden standards — but
 **Inner Garden (内园):** A separate, smaller garden within the garden — enclosed behind its own wall and entered through a separate gate. Built in 1709, slightly later than the main garden, and with a distinctly different character: denser planting, more intimate scale, and ornate theatrical rockeries. Many visitors miss this section. Take the path east from the main garden courtyard to find it.
 
 **The Zigzag Bridge (九曲桥):** Nine-turn stone bridge over the central lotus pond, leading to the Huxinting Teahouse — a genuinely beautiful example of a pavilion sitting over water. The bridge is narrow and very crowded; cross it early morning.
+
+![Yuyuan Garden Shanghai — The Bazaar: Managing the Commercial Surround](https://images.pexels.com/photos/31124083/pexels-photo-31124083.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Bazaar: Managing the Commercial Surround
 

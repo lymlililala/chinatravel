@@ -13,7 +13,7 @@ tags:
   - UNESCO
   - pilgrimage
 description: "Wutai Shan in Shanxi province is China's most sacred Buddhist mountain and a UNESCO World Heritage Site with over 50 monasteries. This 2026 complete guide covers the main temples, ticket prices (180 yuan), transport from Taiyuan and Beijing, altitude advice, and seasonal visiting tips."
-ogImage: "https://images.unsplash.com/photo-1577223625816-7546f13df25d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/7937030/pexels-photo-7937030.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -23,6 +23,8 @@ Of China's four sacred Buddhist mountains, Wutai Shan arguably carries the most 
 What distinguishes a visit to Wutai Shan from other temple-mountain experiences in China is the ongoing religious vitality. This is not a preserved historic site where monastic life is pantomime — monks and pilgrims genuinely outnumber sightseers, the daily rituals are authentic, and the atmosphere of the mountain has a quality of quiet devotion that persists even during busy summer weekends.
 
 ## The Five Terraces and Their Geography
+
+![Wutai Shan Shanxi — The Five Terraces and Their Geography](https://images.pexels.com/photos/6747810/pexels-photo-6747810.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 The mountain's Chinese name (Five Terrace Mountain) refers to the five main peaks that form the outer perimeter of the sacred area:
 
@@ -50,6 +52,8 @@ Most visitors focus on the cluster of monasteries in the valley. But if time all
 
 **Nanchan Temple (50km south):** Requires separate transport, but contains the oldest surviving timber-frame structure in China, dating to 782 CE during the Tang dynasty. Essential for architecture enthusiasts.
 
+![Wutai Shan Shanxi — Tickets and Entry](https://images.pexels.com/photos/29269809/pexels-photo-29269809.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Tickets and Entry
 
 **Scenic area pass:** 180 yuan per person. Covers the main walking area and monastery grounds. Individual monasteries may charge additional small entry fees (5-20 yuan each). The pass is valid for the duration of your stay.
@@ -68,6 +72,8 @@ High-speed train via Taiyuan to Xinzhou North, then bus to Taihuai. Total 4-5 ho
 
 **From Datong:**
 Approximately 3 hours by road (200km). Direct buses available.
+
+![Wutai Shan Shanxi — Best Time to Visit](https://images.pexels.com/photos/29903855/pexels-photo-29903855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Best Time to Visit
 

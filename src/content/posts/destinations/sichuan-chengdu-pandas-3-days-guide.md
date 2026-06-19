@@ -12,7 +12,7 @@ tags:
   - food
   - itinerary
 description: "Chengdu is one of China's most enjoyable cities — a relaxed, food-obsessed metropolis that happens to be the world center for giant panda conservation. This 2026 three-day guide covers morning panda cuddles at the Breeding Research Base, the Leshan Giant Buddha day trip, Chengdu's legendary street food circuit, and how to experience teahouse culture in China's most unhasty city."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/6967900/pexels-photo-6967900.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -22,6 +22,8 @@ Chengdu (成都) runs at its own pace — slower and more enjoyment-focused than
 Within this pleasant atmosphere, Chengdu is also the global headquarters for giant panda conservation — the Chengdu Research Base of Giant Panda Breeding has over 200 giant pandas and red pandas in a bamboo forest setting that's as good as panda experiences get. And the food — the genuinely Sichuan food of Chengdu, not the diluted versions that travel overseas — is one of the great culinary experiences of China.
 
 ## Day 1: Giant Pandas and Jinli Street
+
+![Chengdu Pandas & Sichuan Food — Day 1: Giant Pandas and Jinli Street](https://images.pexels.com/photos/14764285/pexels-photo-14764285.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### Morning: Chengdu Panda Base (7:00–11:00am)
 
@@ -71,6 +73,8 @@ Chengdu hotpot is not the same as Chongqing hotpot — it's generally considered
 
 **The dipping sauce (蘸料)**: Assemble your dipping sauce at the self-service station — sesame oil base, minced garlic, minced ginger, fermented tofu, and various other aromatics. This sauce is what separates Chengdu hotpot from other regional versions.
 
+![Chengdu Pandas & Sichuan Food — Day 2: Leshan Giant Buddha (Full Day Trip)](https://images.pexels.com/photos/15857439/pexels-photo-15857439.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Day 2: Leshan Giant Buddha (Full Day Trip)
 
 ### The Leshan Giant Buddha (乐山大佛)
@@ -97,6 +101,8 @@ Leshan has its own food tradition distinct from Chengdu:
 ### Return to Chengdu
 
 Return by HSR or car. Evening in Chengdu.
+
+![Chengdu Pandas & Sichuan Food — Day 3: Chengdu Culture — Teahouse, Kuanzhai Alley, and Farewell Hot Pot](https://images.pexels.com/photos/33692911/pexels-photo-33692911.png?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day 3: Chengdu Culture — Teahouse, Kuanzhai Alley, and Farewell Hot Pot
 

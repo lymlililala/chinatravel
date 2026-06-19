@@ -1,6 +1,7 @@
 ---
 title: "Shanghai Jing'an District Guide: Temples, Malls & Hidden Cafes"
 description: "Explore Shanghai's Jing'an district — from the historic Jing'an Temple and Nanjing West Road luxury shopping to hidden specialty coffee shops and art spaces in Jing'an. A complete neighborhood guide for 2026."
+ogImage: "https://images.pexels.com/photos/20734988/pexels-photo-20734988.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/shanghai-jingan.jpg"
 category: "destinations"
@@ -13,6 +14,8 @@ author: "RoamChina Travel"
 Jing'an (静安) sits at the heart of Shanghai's most dynamic tension — the ancient versus the ultramodern. Within a few blocks, you can stand before a gilded Buddhist temple, enter one of China's highest-end shopping malls, duck into a lane of 1930s Art Deco mansions, and find a third-wave coffee shop that could hold its own in Melbourne or Portland.
 
 For first-time visitors to Shanghai, Jing'an often surprises. It lacks the postcard-ready riverfront of the Bund or the manicured gardens of Yu Garden. What it offers instead is the authentic daily life of prosperous, cosmopolitan Shanghai — the city as Shanghainese people actually live it.
+
+![Shanghai Jing' District — Understanding Jing'an's Geography](https://images.pexels.com/photos/17608033/pexels-photo-17608033.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Understanding Jing'an's Geography
 
@@ -54,6 +57,8 @@ Nanjing West Road is Shanghai's answer to Paris's Avenue Montaigne or Tokyo's Om
 ### Beyond the Chains
 
 Between the mall anchors, smaller streets yield more interesting retail. Wujiang Road (吴江路) — now partly pedestrianized — was historically a famous street food alley. It's been somewhat gentrified but retains a busy, street-level energy different from the malls.
+
+![Shanghai Jing' District — The Art Deco Residential Lanes](https://images.pexels.com/photos/36825859/pexels-photo-36825859.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Art Deco Residential Lanes
 
@@ -100,6 +105,8 @@ Shanghai has China's most developed specialty coffee scene, and Jing'an is the e
 **Yuyuan Road (愚园路) food cluster**: A stretch of small restaurants and snack shops popular with locals. Look for the small noodle shops (面馆) serving authentic Shanghai-style thick noodles.
 
 **Wujiang Road food stalls**: Despite gentrification, some original street food vendors remain. Shengjianbao (生煎包, pan-fried pork dumplings) are the essential Jing'an street food experience.
+
+![Shanghai Jing' District — Art and Culture](https://images.pexels.com/photos/1671016/pexels-photo-1671016.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Art and Culture
 

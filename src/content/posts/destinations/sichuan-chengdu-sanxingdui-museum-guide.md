@@ -1,6 +1,7 @@
 ---
 title: "Sanxingdui Museum Guide: China's Most Mysterious Ancient Civilization"
 description: "Visit Sanxingdui Museum near Chengdu — home to the most enigmatic artifacts in Chinese archaeology, including the extraordinary bronze tree of life, enormous goggle-eyed masks, and evidence of a sophisticated Bronze Age civilization that existed entirely outside the written history of China's Yellow River cultures."
+ogImage: "https://images.pexels.com/photos/31907873/pexels-photo-31907873.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Sichuan"
 tags: ["sichuan", "sanxingdui", "museum", "ancient-civilization", "bronze-age", "archaeology", "chengdu", "mystery", "bronze-masks"]
@@ -15,6 +16,8 @@ The discovery forced a fundamental rethinking of Chinese prehistory: there had b
 The **Sanxingdui Museum (三星堆博物馆)** houses these objects — and the question they raise — in a purpose-built institution that is both archaeologically rigorous and genuinely strange. It is one of the most extraordinary museum experiences in Asia.
 
 ---
+
+![Sanxingdui Museum — The Artifacts](https://images.pexels.com/photos/36766417/pexels-photo-36766417.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Artifacts
 
@@ -44,6 +47,8 @@ The **new museum wing**, opened in 2023, displays many of these new discoveries 
 
 ---
 
+![Sanxingdui Museum — The Museum Experience](https://images.pexels.com/photos/7403889/pexels-photo-7403889.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The Museum Experience
 
 ### Old Museum Wing
@@ -57,6 +62,8 @@ Opened in 2023, the new wing is a work of architecture in itself — an undulati
 The upper floors of the new wing provide context through comparative displays of contemporary Bronze Age cultures (Shang dynasty, Minoan, Egyptian), allowing visitors to locate Sanxingdui within the wider Bronze Age world.
 
 ---
+
+![Sanxingdui Museum — Key Questions the Museum Poses](https://images.pexels.com/photos/33906758/pexels-photo-33906758.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Key Questions the Museum Poses
 

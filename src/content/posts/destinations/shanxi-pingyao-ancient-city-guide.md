@@ -1,6 +1,7 @@
 ---
 title: "Pingyao Ancient City Shanxi: China's Best-Preserved Ming Dynasty Walled Town"
 description: "The complete guide to Pingyao in Shanxi — a UNESCO World Heritage walled city that has been continuously inhabited for 2,700 years, with the best-preserved Ming dynasty city walls in China, the origin of modern Chinese banking, a thriving traditional craft scene, and streets where the 19th century is still architecturally intact."
+ogImage: "https://images.pexels.com/photos/36439983/pexels-photo-36439983.png?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Shanxi"
 tags: ["shanxi", "pingyao", "ancient-city", "UNESCO", "ming-dynasty", "city-walls", "shanxi-banking", "courtyard-houses"]
@@ -14,6 +15,8 @@ The city walls were built in 1370 CE and remain **entirely intact** — the fine
 
 ---
 
+![Pingyao Ancient City Shanxi — The City Walls](https://images.pexels.com/photos/32757620/pexels-photo-32757620.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The City Walls
 
 Pingyao's walls are the essential experience. **6.4 km in circumference**, 10 metres high, 3–6 metres wide at the top, with 72 watchtowers (representing Confucius's 72 disciples) and 3,000 crenellations (representing Confucius's 3,000 students). The **south gate complex** is the most elaborate — a double gate system with a holding courtyard.
@@ -23,6 +26,8 @@ Walking the full wall circuit takes approximately 1.5–2 hours; the views over 
 **Admission:** ¥150 (comprehensive ticket including all city sights; the wall is the single best use of this ticket).
 
 ---
+
+![Pingyao Ancient City Shanxi — Shanxi Banking: China's Wall Street](https://images.pexels.com/photos/36282705/pexels-photo-36282705.png?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Shanxi Banking: China's Wall Street
 
@@ -35,6 +40,8 @@ The **Rishengchang Exchange House (日升昌票号)**, founded in 1823, is credi
 The city's **South Street (南大街)** was known as China's "Wall Street" — lined with the headquarters of competing draft banks, each in a large courtyard compound whose facade deliberately communicated wealth and stability to clients.
 
 ---
+
+![Pingyao Ancient City Shanxi — Merchant Courtyard Houses (四合院)](https://images.pexels.com/photos/20005165/pexels-photo-20005165.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Merchant Courtyard Houses (四合院)
 

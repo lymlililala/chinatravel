@@ -12,7 +12,7 @@ tags:
   - nature
   - gongga-mountain
 description: "Hailuogou in western Sichuan is home to the largest glacier in Asia below 3,000 meters, tumbling down from the flanks of Gongga Mountain — the highest peak outside the Himalayas. This guide covers the glacier viewing platforms, the famous outdoor hot springs at the glacier's edge, trekking routes, and practical transport from Chengdu and Kangding."
-ogImage: "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/11957639/pexels-photo-11957639.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Hailuogou (海螺沟, literally "Conch Gully") is the name of both a valley and a glacier on the eastern flank of Gongga Mountain (贡嘎山) in the Garzê Tibetan Autonomous Prefecture of western Sichuan. Gongga — at 7,556 meters — is the highest peak outside the Himalayan massif proper, higher than every mountain in the Andes, the Rockies, or the Alps, and it dominates the local landscape with an authority that becomes physically apparent as you approach.
@@ -22,6 +22,8 @@ The glacier that descends from Gongga's eastern flanks is remarkable for one spe
 ## Table of contents
 
 ## Getting to Hailuogou
+
+![Hailuogou Glacier Sichuan — Getting to Hailuogou](https://images.pexels.com/photos/11957638/pexels-photo-11957638.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 The journey to Hailuogou is part of the experience — the road from Chengdu passes through some of the most dramatic terrain in Sichuan.
 
@@ -62,6 +64,8 @@ The **glacier ice cliffs** (冰崩) are the visual highlight — sections where 
 
 **Ice avalanches:** The upper glacier regularly calves large ice blocks that cascade down in thunderous avalanches, visible (and audible) from the viewing platforms. These happen unpredictably, multiple times per day in warmer months. Watching one is spectacular; the sound reaches you several seconds after the visual.
 
+![Hailuogou Glacier Sichuan — The Hot Springs](https://images.pexels.com/photos/4555535/pexels-photo-4555535.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The Hot Springs
 
 The juxtaposition of glacial ice and geothermal hot springs at Hailuogou is one of the most unusual natural combinations in China. Volcanic activity beneath Gongga has created a series of hot springs in the valley, with temperatures ranging from 30°C to over 80°C.
@@ -94,6 +98,8 @@ Gongga Mountain (贡嘎山, also called Minya Konka) is only visible in clear we
 A multi-day high-altitude circuit of Gongga Mountain is one of China's most challenging and rewarding treks, taking 10–14 days and reaching passes above 5,000m. This is a serious mountaineering undertaking requiring full equipment, an experienced guide, and excellent fitness. The Hailuogou valley is the eastern starting point.
 
 **Yulongxi Valley (玉龙溪谷):** A less-visited side valley south of the main Hailuogou scenic area with pristine forest, waterfalls, and views of the smaller glaciers on Gongga's flanks. A guide is useful for navigating the unmarked trails.
+
+![Hailuogou Glacier Sichuan — Accommodation Options](https://images.pexels.com/photos/11957631/pexels-photo-11957631.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Accommodation Options
 

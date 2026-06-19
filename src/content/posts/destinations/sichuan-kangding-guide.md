@@ -12,7 +12,7 @@ tags:
   - nature
   - altitude
 description: "Kangding is where the Sichuan Basin meets the Tibetan Plateau — a small city in a dramatic river gorge at 2,560 metres, famous across China for its folk love song, surrounded by glaciated 7,000-metre peaks, alpine lakes and traditional Khampa Tibetan culture. This 2026 guide covers Mugecuo Lake, Paoma Mountain, the love song festival, transport from Chengdu and essential altitude tips."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/16182257/pexels-photo-16182257.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -22,6 +22,8 @@ Every Chinese person knows the Kangding Love Song (康定情歌). The folk melod
 Kangding sits at the dramatic V-shaped gorge where the Zheduo and Yala rivers meet to form the Kangding River, compressed between mountains that rise to 7,556 metres (Minya Konka / Gongga) within 30 km of the town. It's the last substantial town before the road climbs onto the Tibetan Plateau proper, and it functions as a gateway in every sense: cultural, geographical and atmospheric.
 
 ## Altitude and Acclimatisation
+
+![Kangding Sichuan — Altitude and Acclimatisation](https://images.unsplash.com/photo-1572491671313-e2bb1bf15e76?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxBbHRpdHVkZSUyMEFjY2xpbWF0aXNhdGlvbnxlbnwwfDB8fHwxNzgxODcyOTg5fDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 Kangding sits at 2,560 metres — high enough for mild altitude discomfort for visitors arriving from sea level, particularly if coming from Chengdu (505m) on the same day. The surrounding mountains and day-trip destinations reach 3,500–4,500 metres.
 
@@ -65,6 +67,8 @@ The scenic area includes several interconnected lakes (Seven Color Lake, Rainbow
 **Tickets:** ¥120 ($17). Shuttle buses within the scenic area ¥30. Open daily 08:30–17:00.
 
 **Getting there:** Bus or taxi from Kangding, approximately 40 minutes.
+
+![Kangding Sichuan — Zheduo Pass and Mountain Drive (折多山)](https://images.pexels.com/photos/20349959/pexels-photo-20349959.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Zheduo Pass and Mountain Drive (折多山)
 

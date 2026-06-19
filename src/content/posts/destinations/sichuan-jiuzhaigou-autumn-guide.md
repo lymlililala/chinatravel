@@ -12,7 +12,7 @@ tags:
   - photography
   - nature
 description: "Autumn at Jiuzhaigou is China's most spectacular foliage season — the UNESCO-listed valley transforms into a canvas of crimson, gold, and impossible blue lakes. This 2026 guide covers the optimal weeks for autumn colors, the new post-earthquake ticket system, photography strategies, and how to navigate peak season crowds while still getting the best experience."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/34617678/pexels-photo-34617678.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -24,6 +24,8 @@ Jiuzhaigou (九寨沟, "Nine Village Gully") reopened in 2019 after the major 20
 This guide focuses specifically on the autumn visit. Many aspects of Jiuzhaigou are worth doing year-round, but autumn is genuinely exceptional and requires specific timing strategy.
 
 ## When is Autumn Peak at Jiuzhaigou?
+
+![Jiuzhaigou Autumn — When is Autumn Peak at Jiuzhaigou?](https://images.pexels.com/photos/34619129/pexels-photo-34619129.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 The autumn color window at Jiuzhaigou is not a fixed date — it depends on temperature patterns each year. Historically, the reliable window is:
 
@@ -55,6 +57,8 @@ The eco-bus is essential — the park is large (72km² scenic area) and you cann
 **Booking window**: Officially opens 3 days before each visit date, but in practice, October dates are booked up weeks in advance. Plan to book 2–4 weeks ahead for popular October dates.
 
 **Avoid National Holiday Week (October 1–7)**: The first week of October is China's National Day Golden Week — the most crowded week of the year. Tickets sell out in seconds on the booking platforms, the valley is at maximum capacity, and the experience suffers. If possible, book October 10–25 instead.
+
+![Jiuzhaigou Autumn — Jiuzhaigou Valley: Key Sites for Autumn](https://images.pexels.com/photos/31654293/pexels-photo-31654293.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Jiuzhaigou Valley: Key Sites for Autumn
 
@@ -102,6 +106,8 @@ For the autumn color reflections, the key is waiting for wind to die down comple
 
 ### Getting the Fewer-Crowd Shots
 Start at the **top of each valley and walk down**, in the opposite direction from most visitors who start at the bottom. The eco-bus will drop you at the upper end; most Chinese tour groups start from the valley floor. Working against the flow means you'll reach many sites before the crowds arrive.
+
+![Jiuzhaigou Autumn — Logistics and Planning](https://images.pexels.com/photos/31410324/pexels-photo-31410324.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Logistics and Planning
 

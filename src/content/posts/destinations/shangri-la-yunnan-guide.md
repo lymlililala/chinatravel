@@ -12,6 +12,7 @@ tags:
   - destinations
   - high altitude
 description: "A complete guide to Shangri-La (Zhongdian) in northwest Yunnan — Ganden Sumtseling Monastery, Napa Lake, the Tibetan old town, altitude acclimatisation, and how to plan a trip to China's most elevated tourist city."
+ogImage: "https://images.pexels.com/photos/8936981/pexels-photo-8936981.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 In 2001, the town of Zhongdian in northwest Yunnan officially renamed itself "Shangri-La" (香格里拉) — borrowing James Hilton's fictional Himalayan paradise from his 1933 novel *Lost Horizon*. The branding worked: the town went from backpacker obscurity to major tourist destination within a decade.
@@ -21,6 +22,8 @@ The marketing aside, the landscape is genuinely extraordinary. Shangri-La sits a
 ## Table of contents
 
 ## Essential Information
+
+![Shangri — Essential Information](https://images.pexels.com/photos/31416544/pexels-photo-31416544.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 | Detail | Info |
 |--------|------|
@@ -47,6 +50,8 @@ At 3,160 metres, Shangri-La is high enough to cause acute mountain sickness (AMS
 
 Most healthy visitors acclimatise comfortably within 24–48 hours and experience no lasting problems.
 
+![Shangri — Ganden Sumtseling Monastery (噶丹松赞林寺)](https://images.pexels.com/photos/34644902/pexels-photo-34644902.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Ganden Sumtseling Monastery (噶丹松赞林寺)
 
 The most important Tibetan Buddhist monastery outside Tibet proper — and the most impressive single structure in Yunnan. Built in 1679 by the Fifth Dalai Lama, Sumtseling is modelled on the Potala Palace in Lhasa, its two golden roofed assembly halls visible from 20 kilometres away across the plateau.
@@ -72,6 +77,8 @@ The "Old Town" of Shangri-La is largely reconstructed — much of the original b
 - **Tibetan restaurants and cafés:** The Old Town has a genuine Tibetan food scene — yak butter tea (酥油茶), tsampa (roasted barley flour), yak meat hot pot, butter lamp cookies. The main Changzheng Road has several good spots.
 
 **Honest assessment:** The Old Town is atmospheric but not architecturally special post-fire. The monastery and surrounding landscapes are the main reasons to come.
+
+![Shangri — Napa Lake (纳帕海)](https://images.pexels.com/photos/5186422/pexels-photo-5186422.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Napa Lake (纳帕海)
 

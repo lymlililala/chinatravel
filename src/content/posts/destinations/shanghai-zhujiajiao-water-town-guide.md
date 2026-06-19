@@ -12,6 +12,7 @@ tags:
   - history
   - Jiangnan
 description: "A complete guide to Zhujiajiao — Shanghai's best-preserved ancient water town, an hour from the city. How to get there, what to see, where to eat, and how to avoid the crowds."
+ogImage: "https://images.pexels.com/photos/37015407/pexels-photo-37015407.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Forty kilometres from the Bund, an entirely different Shanghai exists. Zhujiajiao (朱家角) is a 1,700-year-old water town where canals replace streets, stone arch bridges connect the lanes, and the morning light falls on the same grey-tile rooflines that appeared here during the Ming Dynasty. As a half-day or full-day escape from urban Shanghai, nothing else comes close.
@@ -22,6 +23,8 @@ Zhujiajiao is the most accessible and best-preserved of the ancient water towns 
 
 ## Essential Information
 
+![Zhujiajiao Water Town — Essential Information](https://images.pexels.com/photos/19979862/pexels-photo-19979862.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 | Detail | Info |
 |--------|------|
 | Location | Qingpu District, Shanghai (40km west of city centre) |
@@ -31,6 +34,8 @@ Zhujiajiao is the most accessible and best-preserved of the ancient water towns 
 | Best day | Tuesday–Thursday (quieter); avoid national holidays |
 | Recommended duration | 4–6 hours; overnight possible with accommodation in the town |
 
+![Zhujiajiao Water Town — History](https://images.pexels.com/photos/38003117/pexels-photo-38003117.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## History
 
 Zhujiajiao was founded during the Three Kingdoms period (220–280 AD), though its current built form is primarily from the Ming and Qing dynasties. The town grew rich on the cotton trade — by the Qing Dynasty it was the primary cotton cloth distribution centre for the entire Yangtze Delta.
@@ -38,6 +43,8 @@ Zhujiajiao was founded during the Three Kingdoms period (220–280 AD), though i
 The wealth financed the construction of 36 stone bridges (of which 29 survive), 9 main streets lined with traditional shop houses, dozens of temples, and several substantial private gardens. The economic decline of the cotton trade in the early 20th century paradoxically preserved the town: without money for redevelopment, the old structures survived.
 
 Today Zhujiajiao is a protected cultural heritage site. The residential population is a mix of long-term local families and tourism workers. The main commercial street is unambiguously tourist-oriented; the back lanes are still genuinely lived-in.
+
+![Zhujiajiao Water Town — What to See](https://images.pexels.com/photos/4412615/pexels-photo-4412615.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## What to See
 

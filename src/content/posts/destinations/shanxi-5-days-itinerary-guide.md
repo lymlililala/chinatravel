@@ -11,7 +11,7 @@ tags:
   - north-china
   - history
 description: "A 5-day Shanxi itinerary — the walled city of Pingyao (China's best-preserved ancient commercial city), the Northern Wei Dynasty Buddhist cave art at Datong's Yungang Grottoes, the Hanging Temple (Xuankong Si), and the sacred Buddhist mountain of Wutaishan. Train connections."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/32762552/pexels-photo-32762552.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Shanxi sits on a plateau between the Yellow River and the Taihang Mountains — geographically isolated enough that it preserved more of China's ancient architecture than almost any other province. The province has the highest concentration of pre-Ming Dynasty wooden buildings in China; Datong has some of the finest Buddhist cave art in the world; and Pingyao is the best-preserved ancient Chinese commercial city standing anywhere.
@@ -21,6 +21,8 @@ It's not on most international visitors' radars, which makes it better. The sigh
 ## Table of contents
 
 ## Getting There & Around
+
+![Shanxi — Getting There & Around](https://images.unsplash.com/photo-1646912951442-7a2bc5e8cd06?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw1fHwlMjYlMjBBcm91bmR8ZW58MHwwfHx8MTc4MTgzOTI0OXww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 **Entry points:** Taiyuan Wusu Airport (TYN) is the main hub, with domestic connections from Beijing (1 hour), Shanghai (2 hours), and Chengdu (2 hours). Datong Airport (DAT) also has domestic connections from Beijing (45 min).
 
@@ -65,6 +67,8 @@ The interior has shrines to Taoist, Buddhist, and Confucian deities side by side
 
 ---
 
+![Shanxi — Day 3: Wutai Mountain](https://images.pexels.com/photos/12989715/pexels-photo-12989715.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Day 3: Wutai Mountain
 
 **Journey:** Bus from Datong to Wutaishan (五台山) takes 3.5 hours (¥60). Alternatively, HSR to Xinzhou and then bus/taxi — slower overall.
@@ -108,6 +112,8 @@ The **Rishengchang Exchange House** (日升昌票号, ¥30 or included in combin
 Stay the night in a traditional **courtyard guesthouse** (四合院客栈, ¥200-500/night) inside the old city walls — there are dozens of well-run options. This puts you in the old town in the early morning when the tour groups haven't yet arrived and the streets belong to you.
 
 ---
+
+![Shanxi — Day 5: More Pingyao & Return](https://images.pexels.com/photos/18506159/pexels-photo-18506159.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day 5: More Pingyao & Return
 

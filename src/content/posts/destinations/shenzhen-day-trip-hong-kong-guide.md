@@ -11,7 +11,7 @@ tags:
   - day-trip
   - south-china
 description: "How to do a Shenzhen day trip from Hong Kong — the Futian/Luohu border crossings, how long it really takes, what to do (tech markets, OCT-LOFT arts district, Window of the World), the best places to eat, and whether a single day is enough."
-ogImage: "https://images.unsplash.com/photo-1537944434965-cf4679d1a598?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/17989747/pexels-photo-17989747.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Shenzhen sits immediately north of Hong Kong, separated by a narrow river and a border crossing that takes anywhere from 20 minutes to 90 minutes depending on queues. It's one of the most interesting cities in China for a day trip: a city that didn't exist as anything more than a fishing village in 1979, and that is now a 13-million-person tech hub with world-class museums, a thriving arts district, and some of the best Cantonese food you'll eat anywhere.
@@ -21,6 +21,8 @@ Whether a day trip is enough depends entirely on what you want. For a sampling o
 ## Table of contents
 
 ## The Border Crossings
+
+![Shenzhen Trip from Hong Kong — The Border Crossings](https://images.pexels.com/photos/17952930/pexels-photo-17952930.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 There are two main overland crossing options from Hong Kong for a Shenzhen day trip.
 
@@ -42,6 +44,8 @@ Take MTR to Lok Ma Chau, cross through Lok Ma Chau Control Point into Huanggang 
 - Going to OCT-LOFT arts district: Either works, take metro from whichever side
 
 **Important:** You need a valid Chinese visa (or visa-free access if applicable for your nationality — check current policies before travel). Hong Kong permanent residents and BNO holders have their own rules. Check requirements before planning.
+
+![Shenzhen Trip from Hong Kong — What to Do in Shenzhen](https://images.pexels.com/photos/36727852/pexels-photo-36727852.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## What to Do in Shenzhen
 
@@ -77,6 +81,8 @@ An excellent museum covering Shenzhen's transformation from fishing village to m
 
 ### Lianhuashan Park (莲花山公园) — Free
 A large urban park with the famous Deng Xiaoping statue (the figure who essentially created modern Shenzhen). Good views over the city from the hilltop. Very popular with locals for morning exercise and evening walks.
+
+![Shenzhen Trip from Hong Kong — Where to Eat](https://images.pexels.com/photos/10191135/pexels-photo-10191135.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Where to Eat
 

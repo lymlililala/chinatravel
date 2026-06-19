@@ -1,6 +1,7 @@
 ---
 title: "Hukou Waterfall Guide: The Yellow River's Greatest Natural Spectacle"
 description: "Experience Hukou Waterfall on the Yellow River between Shanxi and Shaanxi — China's second largest waterfall and the largest yellow waterfall in the world, thundering through a narrow gorge in all four distinct seasonal moods, from spring flood to winter ice formations."
+ogImage: "https://images.pexels.com/photos/8780358/pexels-photo-8780358.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Shanxi"
 tags: ["shanxi", "hukou-waterfall", "yellow-river", "waterfall", "shaanxi", "natural-wonder", "photography", "seasonal"]
@@ -14,6 +15,8 @@ At peak summer flow, over 1,000 cubic metres per second of yellow-brown water dr
 
 ---
 
+![Hukou Waterfall — The Physical Setting](https://images.pexels.com/photos/8257831/pexels-photo-8257831.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The Physical Setting
 
 The Yellow River here marks the boundary between **Shaanxi Province** (to the west) and **Shanxi Province** (to the east). Both provinces have visitor infrastructure and entrance gates; the Shanxi (east) side is generally considered to provide the best views and is more commonly visited by tourists.
@@ -21,6 +24,8 @@ The Yellow River here marks the boundary between **Shaanxi Province** (to the we
 The site sits in a deeply eroded valley of red sandstone — **Loess Plateau terrain** where centuries of agriculture and erosion have created a landscape of gullies and ridges that looks ancient and almost barren. The Yellow River and its falls are the dominant geographical fact in this landscape.
 
 ---
+
+![Hukou Waterfall — Four Seasonal Characters](https://images.pexels.com/photos/10636165/pexels-photo-10636165.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Four Seasonal Characters
 
@@ -47,6 +52,8 @@ In severe winters, the spray from the falls freezes in extraordinary formations.
 This is arguably the most spectacular and least-visited season. Temperatures reach -15°C to -20°C; dress accordingly.
 
 ---
+
+![Hukou Waterfall — Viewing the Falls](https://images.pexels.com/photos/14436937/pexels-photo-14436937.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Viewing the Falls
 

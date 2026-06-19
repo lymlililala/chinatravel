@@ -12,12 +12,14 @@ tags:
   - beaches
   - ancient-fortress
 description: "Discover the wild side of Shenzhen on the Dapeng Peninsula, where a 600-year-old fortress stands guard over some of Guangdong's finest beaches and most rewarding coastal hiking trails. This 2026 guide covers the historic Dapeng Fortress, the pristine sands of Xichong and Dongchong, the spectacular coastal hiking trail, water sports, seafood dining, and practical advice for reaching this surprisingly unspoilt corner of one of China's most developed cities."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/14785380/pexels-photo-14785380.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
 
 ## Shenzhen's Wild Side — The Dapeng Peninsula
+
+![Dapeng Peninsula Shenzhen — Shenzhen's Wild Side — The Dapeng Peninsula](https://images.pexels.com/photos/19558159/pexels-photo-19558159.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Here's something that surprises most visitors to Shenzhen: China's tech capital, the city that went from fishing village to megacity in four decades, has a wild, rugged peninsula where mountains crash into the sea, ancient fortresses guard pirate-haunted bays, and beaches stretch for kilometres without a high-rise in sight. The Dapeng Peninsula (大鹏半岛) is Shenzhen's best-kept secret — a 250-square-kilometre area in the city's far east that has been deliberately protected from the development that has consumed the rest of the municipality.
 
@@ -72,6 +74,8 @@ Smaller and more rugged than Xichong, Dongchong sits at the eastern tip of the p
 ### Yangmeikeng (杨梅坑)
 
 A rocky coastal area north of Dapeng with dramatic cliffs and clear waters popular with snorkelers and scuba divers. The underwater visibility isn't tropical-standard, but the marine life is surprisingly diverse. Several dive operators offer introductory dives from ¥380 ($53 USD) for a shore dive.
+
+![Dapeng Peninsula Shenzhen — The Dongchong-Xichong Coastal Hike](https://images.pexels.com/photos/19863228/pexels-photo-19863228.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Dongchong-Xichong Coastal Hike
 
@@ -138,6 +142,8 @@ Cooking charges are typically ¥15-25 ($2.10-3.50 USD) per dish.
 ### Camping
 
 Wild camping is technically not permitted on the peninsula, but it's tolerated on Xichong Beach if you're discreet. Many hikers camp overnight at Xichong after completing the coastal trail. Bring your own gear — tent rental is available at Section 1 for ¥80 ($11 USD) per night.
+
+![Dapeng Peninsula Shenzhen — Practical Information](https://images.pexels.com/photos/24022934/pexels-photo-24022934.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Practical Information
 

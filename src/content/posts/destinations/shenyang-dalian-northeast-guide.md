@@ -12,7 +12,7 @@ tags:
   - history
   - nature
 description: "Shenyang's Qing Dynasty palaces and Japanese colonial history alongside Dalian's European-planned boulevards, beaches, and seafood — two compelling northeastern cities often missed by visitors."
-ogImage: "https://images.unsplash.com/photo-1516738901171-8eb4fc13bd20?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/37173337/pexels-photo-37173337.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Liaoning Province anchors China's industrial northeast with two cities of completely different character: Shenyang, the former Manchu capital where the Qing Dynasty began, and Dalian, a coastal city designed by Russian and then Japanese planners that remains one of China's cleanest and most European-feeling urban environments.
@@ -20,6 +20,8 @@ Liaoning Province anchors China's industrial northeast with two cities of comple
 ## Table of contents
 
 ## Shenyang (沈阳)
+
+![Shenyang & Dalian — Shenyang (沈阳)](https://images.pexels.com/photos/30356098/pexels-photo-30356098.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Shenyang was the capital of the Manchu people before they conquered China and established the Qing Dynasty (1636–1912). It's still called Mukden in some historical contexts, and its imperial palace predates Beijing's Forbidden City.
 
@@ -34,6 +36,8 @@ The "Young Marshal" Zhang Xueliang was the warlord of Manchuria who kidnapped Ch
 
 ### Mukden Palace Neighbourhood
 The old city around the Imperial Palace has been sensitively developed — traditional buildings, tea houses, and craft shops. The **Shenyang Zhongjie (中街)** pedestrian commercial street is one of the oldest shopping streets in China.
+
+![Shenyang & Dalian — Dalian (大连)](https://images.pexels.com/photos/17557991/pexels-photo-17557991.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Dalian (大连)
 
@@ -61,6 +65,8 @@ Dalian is one of China's premier seafood cities. Specialties:
 **Best seafood market:** Qingniwa Market (青泥洼市场) for live seafood purchases, or the seafood restaurants along the Xinghai waterfront.
 
 ---
+
+![Shenyang & Dalian — Getting Between Shenyang and Dalian](https://images.pexels.com/photos/17557990/pexels-photo-17557990.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting Between Shenyang and Dalian
 

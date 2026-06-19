@@ -11,7 +11,7 @@ tags:
   - southwest-china
   - nature
 description: "A 7-day Sichuan itinerary — two days in Chengdu (pandas, hotpot, Jinsha Museum), a day trip to Leshan Giant Buddha and Emeishan, two days at Jiuzhaigou's rainbow lakes, and how to connect everything efficiently by high-speed train and bus. Booking windows for the most popular attractions."
-ogImage: "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/10672908/pexels-photo-10672908.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Sichuan packs an extraordinary amount of landscape variety into a single province. The Chengdu basin is urban and sophisticated; an hour south, the Leshan Giant Buddha sits in a river confluence; two hours north, Emeishan is a sacred Buddhist mountain reaching 3,099m; and nine hours north (by road) is Jiuzhaigou, with its vivid alpine lakes that don't look real. All of this plus the best food in China.
@@ -21,6 +21,8 @@ Seven days lets you experience the major attractions without rushing. The logist
 ## Table of contents
 
 ## Booking Ahead: What You Need
+
+![Sichuan — Booking Ahead: What You Need](https://images.pexels.com/photos/35130736/pexels-photo-35130736.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 - **Jiuzhaigou:** Daily visitor numbers are strictly capped. Book at jiuzhai.com at least 2-4 weeks ahead for peak season (Golden Week, July-August, Chinese New Year). This is the most critical advance booking in this itinerary.
 - **Giant Panda Base:** Book online at cdpanda.com — tickets can sell out on popular days.
@@ -49,6 +51,8 @@ Already covered in depth in our Chengdu 3-day guide. Summary for this 7-day trip
 **Evening dinner:** **Dan Dan Noodles** (担担面, ¥12-18), **mapo tofu** (麻婆豆腐, ¥25-40), and **kung pao chicken** (宫保鸡丁, ¥30-45) at a local Sichuan restaurant — the trifecta of Sichuan dishes.
 
 ---
+
+![Sichuan — Day 3: Leshan Giant Buddha & Emeishan Preview](https://images.pexels.com/photos/879359/pexels-photo-879359.png?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day 3: Leshan Giant Buddha & Emeishan Preview
 
@@ -81,6 +85,8 @@ At the summit: the **Ten Thousand Buddha Summit** (万年寺) pavilion has a bro
 Return to Chengdu in the evening, or continue north toward Jiuzhaigou.
 
 ---
+
+![Sichuan — Days 5-6: Jiuzhaigou](https://images.pexels.com/photos/822271/pexels-photo-822271.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Days 5-6: Jiuzhaigou
 

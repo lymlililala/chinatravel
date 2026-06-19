@@ -12,6 +12,7 @@ tags:
   - modern China
   - Pearl River Delta
 description: "A practical guide to Shenzhen — China's most innovative city. The best districts for food and art, Nanshan's tech and beach scene, the Shenzhen Bay coastline, and island day trips to Xichong and Mei Sha."
+ogImage: "https://images.unsplash.com/photo-1634647626782-f5fffa9fd9b1?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwyfHxTaGVuemhlbnxlbnwwfDB8fHwxNzgxODcyOTM3fDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
 ---
 
 Shenzhen didn't exist as a city in 1980. When Deng Xiaoping designated it as China's first Special Economic Zone, it was a fishing village of 30,000 people on the Hong Kong border. Forty-five years later, it's a metropolis of 17+ million, home to Huawei, DJI, Tencent, and BYD, with a GDP per capita exceeding Hong Kong.
@@ -22,12 +23,16 @@ Shenzhen has earned its reputation as the place where contemporary China is inve
 
 ## Essential Information
 
+![Shenzhen — Essential Information](https://images.unsplash.com/photo-1636821771168-d13e578a88ba?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwzfHxTaGVuemhlbnxlbnwwfDB8fHwxNzgxODcyOTM3fDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
+
 | Detail | Info |
 |--------|------|
 | Province | Guangdong Special Economic Zone |
 | Getting there | Shenzhen has two main international airports (Bao'an/SZX) and direct high-speed rail from Guangzhou (25 min), Hong Kong (14 min to Futian station), Shanghai (8 hrs), Beijing (8 hrs) |
 | Best season | October–April (mild and dry); May–September very hot and humid |
 | Hong Kong connection | Hong Kong to Shenzhen Futian: 14 minutes by high-speed rail; extremely easy day trip or multi-city combination |
+
+![Shenzhen — Districts to Know](https://images.pexels.com/photos/1615747/pexels-photo-1615747.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Districts to Know
 
@@ -64,6 +69,8 @@ The original SEZ border crossing area — the oldest commercial district and the
 The district where much of China's consumer electronics is manufactured — including Foxconn's main Shenzhen facility.
 
 **Dafen Oil Painting Village (大芬油画村):** Extraordinary and bizarre — a village where thousands of artists produce hand-painted oil painting reproductions of Western masterworks for global export. Van Goghs, Monets, Renoirs — commissioned replicas at various quality levels, produced on assembly lines. A peculiar commentary on art, labour, and globalisation; worth a half-day visit.
+
+![Shenzhen — Island Day Trips](https://images.pexels.com/photos/32228472/pexels-photo-32228472.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Island Day Trips
 
