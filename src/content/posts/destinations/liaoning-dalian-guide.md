@@ -12,7 +12,7 @@ tags:
   - seafood
   - beach
 description: "Dalian is northeastern China's cosmopolitan coastal city — European-style squares built by Russian and Japanese colonial administrators, excellent seafood from the Yellow Sea, and sandy beaches that attract summer visitors from across northern China. This 2026 complete guide covers the city's unique colonial architecture, top beaches, seafood restaurants, the best day trips, and practical logistics for visiting China's most livable northern city."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/17557991/pexels-photo-17557991.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -22,6 +22,8 @@ Dalian (大连) doesn't match most people's mental image of northeastern China. 
 Add a temperate maritime climate (milder winters and cooler summers than Beijing), excellent beaches on both sides of the Liaodong Peninsula, and some of the finest seafood in northern China — sea urchin, scallops, and fresh crab from the cold waters of the Yellow Sea — and you have a destination that rewards the traveler who ventures beyond the usual China circuit.
 
 ## Understanding Dalian's History
+
+![Dalian Liaoning — Understanding Dalian's History](https://images.pexels.com/photos/7470228/pexels-photo-7470228.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Dalian's modern form was largely created during two colonial periods:
 
@@ -75,6 +77,8 @@ The enormous Xinghai Square (at 4.4km², one of the world's largest public squar
 ### Dalian Coastal Road (滨海路)
 The scenic coastal road running south from the city center along the peninsula's western side has numerous small beach coves and viewpoints. Renting a bicycle or electric scooter for a coastal ride is one of the best Dalian activities.
 
+![Dalian Liaoning — Seafood in Dalian](https://images.pexels.com/photos/23221556/pexels-photo-23221556.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Seafood in Dalian
 
 Dalian's seafood comes from cold, clean waters and has a reputation for quality throughout China. The cold Yellow Sea produces naturally sweet and clean-tasting shellfish.
@@ -118,6 +122,8 @@ A granite gorge national park about 250km from Dalian, accessible as an overnigh
 - From Shenyang: 1.5 hours, ¥120–160
 
 **By Boat**: An overnight ferry from Yantai or Weihai in Shandong Province to Dalian (6–8 hours) is a classic Bohai Sea crossing. Good for combining with Shandong touring.
+
+![Dalian Liaoning — Getting Around Dalian](https://images.pexels.com/photos/36659525/pexels-photo-36659525.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting Around Dalian
 

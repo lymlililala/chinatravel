@@ -1,6 +1,7 @@
 ---
 title: "Nanjing Travel Guide 2026: History, Museums, and Modern Capital"
 description: "Complete guide to Nanjing — China's former imperial capital, the Ming Tombs, the Confucius Temple, Nanjing Massacre Memorial, and the city's famous duck blood vermicelli soup. Everything you need to visit Nanjing in 2026."
+ogImage: "https://images.pexels.com/photos/20827663/pexels-photo-20827663.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/nanjing-travel.jpg"
 category: "destinations"
@@ -13,6 +14,8 @@ author: "RoamChina Travel"
 Nanjing (南京, Nán Jīng — "Southern Capital") carries more historical weight per square kilometer than almost any city in China. Capital of the Ming dynasty (1368-1421), seat of the Republic of China government (1912-1949), site of one of the 20th century's worst atrocities (the Nanjing Massacre of 1937-38), and now the prosperous capital of Jiangsu province — Nanjing has lived many lives, and all of them are visible if you know where to look.
 
 Travelers who expect a straightforward tourist destination may be surprised. Nanjing demands engagement — with its complexity, its sorrow, its pride, and its extraordinary beauty. The city rewards thoughtful visitors.
+
+![Nanjing — Understanding Nanjing's History](https://images.pexels.com/photos/6374748/pexels-photo-6374748.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Understanding Nanjing's History
 
@@ -47,6 +50,8 @@ When Imperial Japanese forces captured Nanjing in December 1937, a six-week peri
 **Nanjing Station (南京站)** handles older rail lines and some high-speed services; it's closer to the historic center.
 
 **By Air**: Nanjing Lukou International Airport (NKG) has direct international connections to Japan, Korea, Southeast Asia, and a few European cities. Domestic connections are extensive. The airport express train (S1 line) connects to the downtown metro network.
+
+![Nanjing — Major Attractions](https://images.pexels.com/photos/3112007/pexels-photo-3112007.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Major Attractions
 
@@ -135,6 +140,8 @@ Look for it at any Qinhuai area noodle shop; the small street vendors around the
 **Yanshuiya (盐水鸭)**: Available pre-packaged at Nanjing train stations for the journey home — one of China's approved food souvenirs.
 
 **Small Basket Buns (小笼包)**: Available at virtually every breakfast shop.
+
+![Nanjing — Nanjing Lake and Parks](https://images.pexels.com/photos/17983425/pexels-photo-17983425.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Nanjing Lake and Parks
 

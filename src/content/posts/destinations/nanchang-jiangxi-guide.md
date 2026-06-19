@@ -11,7 +11,7 @@ tags:
   - culture
   - east-china
 description: "Nanchang in Jiangxi — the city of the 1927 Nanchang Uprising that started the People's Liberation Army, the Tengwang Pavilion (one of China's three famous ancient towers), and Nanchang's role as the gateway to Jiujiang, Lushan, Jingdezhen, and Wuyuan. Practical logistics for a Jiangxi circuit."
-ogImage: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/17539441/pexels-photo-17539441.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Nanchang (南昌) is not on most international visitors' China itineraries, which makes it both underrated and genuinely surprising. The capital of Jiangxi province sits on the Gan River south of Poyang Lake and carries a weight of historical significance that is hard to ignore: this is the city where the Chinese Communist Party launched the military uprising on August 1, 1927 that is considered the founding moment of the People's Liberation Army. Every year on August 1st, the date is celebrated across China as Army Day. In Nanchang, the date is woven into the urban fabric — the city's main thoroughfare is called August 1st Avenue.
@@ -20,6 +20,8 @@ Nanchang (南昌) is not on most international visitors' China itineraries, whic
 
 ## The Nanchang Uprising & Revolutionary Sites
 
+![Nanchang — The Nanchang Uprising & Revolutionary Sites](https://images.pexels.com/photos/36347980/pexels-photo-36347980.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 The Nanchang Uprising Museum (八一起义纪念馆) is built around the former Jiangxi Hotel where Zhou Enlai, Zhu De, He Long, and other Communist leaders planned and launched the uprising against the Nationalist forces. The museum is well-designed, with good English labelling, and covers both the specific events of August 1927 and the broader context of the Northern Expedition and the collapse of the First United Front between the Communists and Nationalists.
 
 The immediate circumstances are dramatic: around 30,000 Communist-aligned troops seized the city overnight in response to Chiang Kai-shek's bloody purge of Communists from the Nationalist Party. The uprising failed to hold Nanchang for more than a few days before Nationalist forces retook it, but the military organisation it created — Zhu De's forces eventually becoming the backbone of the Red Army — was the foundation of everything that followed.
@@ -27,6 +29,8 @@ The immediate circumstances are dramatic: around 30,000 Communist-aligned troops
 Adjacent to the museum, the former General Front Committee site (总前委旧址) preserves the meeting rooms where the night's strategy was finalised. Both sites are free. Allow 2-3 hours.
 
 The Bayi Square (八一广场) in the city centre is a vast public space anchored by the August 1st Uprising Memorial Tower. In the evenings, it fills with families, kite flyers, and the ordinary life of a mid-sized Chinese city. The contrast between the revolutionary symbolism of the monuments and the cheerful normalcy of evening recreation is quintessentially Chinese.
+
+![Nanchang — Tengwang Pavilion](https://images.pexels.com/photos/5690249/pexels-photo-5690249.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Tengwang Pavilion
 
@@ -37,6 +41,8 @@ The pavilion became famous primarily because of a single piece of writing: Wang 
 The six-storey structure (plus two basement floors) contains galleries covering the cultural history of Jiangxi and the literary legacy of the pavilion, with reproductions of Wang Bo's preface in various calligraphic styles. The roof terrace on the highest floor provides the river and city views. Admission is ¥90.
 
 Evening visits (the pavilion is lit until 10pm) are particularly atmospheric, with the river traffic below and the city lights spreading toward the horizon.
+
+![Nanchang — Food in Nanchang](https://images.pexels.com/photos/21631766/pexels-photo-21631766.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Food in Nanchang
 

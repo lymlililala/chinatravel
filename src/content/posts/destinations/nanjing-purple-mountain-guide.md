@@ -12,7 +12,7 @@ tags:
   - hiking
   - china
 description: "Purple Mountain (Zijin Shan) in eastern Nanjing is the city's green lung and historical repository — a forested hill complex containing the Sun Yat-sen Mausoleum, the Ming Dynasty founder's tomb, the Linggu Temple complex, and the Nanjing Observatory, all linked by hiking paths through mature forest."
-ogImage: "https://images.unsplash.com/photo-1544968503-4b2a193dd7d6?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/11765545/pexels-photo-11765545.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Purple Mountain (紫金山, Zǐjīn Shān, also known as Zhongshan) rises 448 metres above eastern Nanjing, a forested promontory that has served as burial ground for emperors, revolutionary leaders, and dynasties. Today it's a vast park complex where Nanjing residents come to hike and where tourists encounter some of the most significant historical sites in eastern China.
@@ -22,6 +22,8 @@ The name comes from the purple-gold colours the mountain reportedly glows at sun
 ## Table of contents
 
 ## Sun Yat-sen Mausoleum (中山陵)
+
+![Nanjing Purple Mountain — Sun Yat-sen Mausoleum (中山陵)](https://images.pexels.com/photos/11792972/pexels-photo-11792972.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 The mausoleum of Sun Yat-sen (中山陵, Zhōngshān Líng) is the dominant landmark of Purple Mountain and one of the most visited heritage sites in China. Sun Yat-sen (孙中山, 1866–1925) was the founder of the Republic of China and remains a rare figure revered across both mainland China and Taiwan.
 
@@ -47,6 +49,8 @@ Entry: ¥70
 Time needed: 1.5–2 hours for the main sites  
 Access: From the Sun Yat-sen Mausoleum area, about 1.5km walk through the scenic area  
 
+![Nanjing Purple Mountain — Linggu Scenic Area (灵谷寺)](https://images.pexels.com/photos/33792337/pexels-photo-33792337.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Linggu Scenic Area (灵谷寺)
 
 The eastern section of Purple Mountain contains the Linggu Temple complex, the Wuliang Hall (a rare beamless hall built entirely without wooden beams in 1381), and the Linggu Pagoda (built in the 1930s as a memorial to those who died in the Northern Expedition).
@@ -66,6 +70,8 @@ Several hiking trails criss-cross Purple Mountain through mature forest. The tra
 **Forest walking:** The paths between the main sites can be walked through forest rather than along the paved tourist routes. Slower but considerably more pleasant.
 
 **Best season for hiking:** Spring (March–May) for azalea flowers along the trails, or autumn (October–November) for foliage.
+
+![Nanjing Purple Mountain — Observatory (紫金山天文台)](https://images.pexels.com/photos/11768608/pexels-photo-11768608.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Observatory (紫金山天文台)
 

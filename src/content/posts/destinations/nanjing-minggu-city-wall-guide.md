@@ -1,12 +1,15 @@
 ---
 title: "Nanjing City Wall Guide: Walking the World's Longest Ancient City Wall"
 description: "Complete guide to walking Nanjing's Ming Dynasty city wall — the longest ancient city wall in the world. Best sections to walk, Zhonghua Gate fortress, history, practical info and where to access."
+ogImage: "https://images.pexels.com/photos/36732812/pexels-photo-36732812.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Nanjing", "city wall", "Ming Dynasty", "Zhonghua Gate", "Jiangsu tourism", "China history", "ancient fortification"]
 ---
 
 Nanjing's city wall, built during the early Ming Dynasty (1366–1386 AD) under the founding emperor Zhu Yuanzhang (洪武帝), is the longest surviving ancient city wall in the world — a fact that still surprises most visitors. The original perimeter stretched 35.27 km; approximately 25 km survives today, and 15 km of the surviving sections can be walked on top of the wall via pedestrian paths.
+
+![Nanjing City Wall — Historical Context](https://images.pexels.com/photos/17323743/pexels-photo-17323743.png?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Historical Context
 
@@ -15,6 +18,8 @@ Zhu Yuanzhang chose Nanjing as his imperial capital and spent 20 years building 
 The wall required approximately 350 million specially fired bricks. Each brick was stamped with the name of the supervisor responsible for its production — a quality control measure that allowed defective bricks to be traced back to their makers. You can still see these name stamps on surviving bricks.
 
 At its completion, the wall was between 14–21 meters high and 7–10 meters wide at the top. The scale is more apparent standing on it than from below — the top is a broad promenade rather than a narrow walkway.
+
+![Nanjing City Wall — Key Sections to Walk](https://images.pexels.com/photos/27920235/pexels-photo-27920235.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Key Sections to Walk
 
@@ -36,6 +41,8 @@ The section of wall adjacent to Xuanwu Lake in the northeast of the old city is 
 
 ### Zhongshan Gate to Stone City (中山门至石城)
 The longest accessible stretch of the wall, incorporating several gate towers and offering panoramic views over both old and new Nanjing. More physically demanding than Taicheng — some sections include significant uphill climbs.
+
+![Nanjing City Wall — The Wall's Construction Materials](https://images.pexels.com/photos/17940311/pexels-photo-17940311.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Wall's Construction Materials
 

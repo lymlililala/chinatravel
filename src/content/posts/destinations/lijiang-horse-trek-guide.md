@@ -11,9 +11,12 @@ tags:
   - hiking
   - nature
 description: "Horse trekking from Lijiang — routes to the base of Jade Dragon Snow Mountain, through Baisha village and the Yufeng Monastery, and the traditional approach to Tiger Leaping Gorge on horseback. Operators, costs, and what to expect."
+ogImage: "https://images.pexels.com/photos/4287386/pexels-photo-4287386.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Lijiang sits at the base of Jade Dragon Snow Mountain (玉龙雪山, 5,596m) in a highland valley at 2,400m elevation. The Naxi minority culture here developed within a mountain landscape — their traditional livelihoods included tea horse road transport and highland pasture herding. Horse trekking in the Lijiang area connects this cultural history with some of Yunnan's most dramatic mountain and gorge scenery.
+
+![Lijiang Horse Trekking — Jade Dragon Snow Mountain Horse Trekking](https://images.pexels.com/photos/15466619/pexels-photo-15466619.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Jade Dragon Snow Mountain Horse Trekking
 
@@ -25,6 +28,8 @@ The mountain's lower slopes (below the tourist cable car areas) are accessible b
 
 **Meaning Route**: Longer treks (full day, ¥400–600 per person) reach the pine forest zone above 3,000m with views of the glacier face and the five summit peaks of the snow mountain.
 
+![Lijiang Horse Trekking — Tiger Leaping Gorge Horse Option](https://images.pexels.com/photos/32191450/pexels-photo-32191450.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Tiger Leaping Gorge Horse Option
 
 The classic Tiger Leaping Gorge two-day trek can be done with horse support. Horses carry bags and less-confident hikers over the hardest sections (particularly the "28 Bends" steep ascent on Day 1). Negotiated with guesthouses in Qiaotou village at the trek start.
@@ -32,6 +37,8 @@ The classic Tiger Leaping Gorge two-day trek can be done with horse support. Hor
 **Cost**: ¥200–400 for horse bag carrying; ¥400–600 for a rider with guide for the difficult sections.
 
 **Note**: The full gorge trail is primarily a walking experience — horse riding is more comfortable but the trail is narrow and requires a horse handler rather than solo riding.
+
+![Lijiang Horse Trekking — Naxi Horse Operators in Lijiang](https://images.pexels.com/photos/11695926/pexels-photo-11695926.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Naxi Horse Operators in Lijiang
 

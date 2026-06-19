@@ -1,6 +1,7 @@
 ---
 title: "Shenyang Imperial Palace: The Manchu Forbidden City Before Beijing"
 description: "Visit the Shenyang Imperial Palace (Mukden Palace) in Liaoning — the original court of the Qing dynasty founders Nurhaci and Hong Taiji, built before the conquest of Beijing, a UNESCO World Heritage complex smaller but architecturally richer than its Beijing counterpart, and the best introduction to Manchu court culture in China."
+ogImage: "https://images.pexels.com/photos/32646536/pexels-photo-32646536.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Liaoning"
 tags: ["liaoning", "shenyang", "imperial-palace", "mukden-palace", "qing-dynasty", "manchu", "UNESCO", "northeast-china"]
@@ -13,6 +14,8 @@ In 1625, the Manchu leader **Nurhaci** moved his court to the city then called *
 The result is the **Shenyang Imperial Palace (沈阳故宫, Shěnyáng Gùgōng)** — a 70,000 square metre complex of 114 buildings that is simultaneously a smaller version of the Beijing Forbidden City and something entirely different: a court that reflects **Manchu cultural identity** before the dynasty adopted Han Chinese court aesthetics wholesale.
 
 ---
+
+![Shenyang Imperial Palace — Architecture: Manchu Meets Chinese](https://images.pexels.com/photos/34661673/pexels-photo-34661673.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Architecture: Manchu Meets Chinese
 
@@ -36,6 +39,8 @@ Added during Qianlong's reign (18th century) when the emperor visited Shenyang a
 
 ---
 
+![Shenyang Imperial Palace — Key Highlights](https://images.pexels.com/photos/7579192/pexels-photo-7579192.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Key Highlights
 
 **Dazheng Hall:** The essential Shenyang experience — an octagonal pavilion that makes clear how different the Manchu aesthetic was from the Han palace tradition.
@@ -45,6 +50,8 @@ Added during Qianlong's reign (18th century) when the emperor visited Shenyang a
 **Imperial Treasures Collection:** The palace museum holds collections of Manchu armour, saddles, weapons, and clan genealogy documents — more relevant to understanding Qing origins than the better-known collections in Beijing.
 
 ---
+
+![Shenyang Imperial Palace — Practical Information](https://images.pexels.com/photos/37173337/pexels-photo-37173337.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Practical Information
 

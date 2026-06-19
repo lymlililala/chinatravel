@@ -12,7 +12,7 @@ tags:
   - desert
   - hui-culture
 description: "Yinchuan, capital of the Ningxia Hui Autonomous Region, sits at the intersection of the Loess Plateau, the Yellow River and the Tengger Desert — a city shaped by Hui Muslim culture, ancient Western Xia imperial history and some of China's most dramatic desert lake scenery. This 2026 guide covers the Western Xia Mausoleum, desert lakes, wine country, Hui food and transport from Xi'an and Lanzhou."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/5054447/pexels-photo-5054447.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -73,6 +73,8 @@ The east slope of the Helan Mountains has emerged in the past 20 years as one of
 - **Silver Heights (银色高地):** A boutique family estate making genuinely excellent wine; advance appointment required.
 
 **Wine tasting tours:** Multiple travel agencies in Yinchuan offer half-day and full-day Helan Mountain winery routes for ¥300–¥500 per person ($42–$70) including transport.
+
+![Yinchuan Ningxia — Hui Muslim Food in Yinchuan](https://images.pexels.com/photos/36360379/pexels-photo-36360379.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Hui Muslim Food in Yinchuan
 

@@ -24,6 +24,8 @@ Xingcheng is the kind of discovery that makes regional travel in China rewarding
 
 ## Xingcheng Ancient City (兴城古城)
 
+![Huludao Liaoning — Xingcheng Ancient City (兴城古城)](https://images.pexels.com/photos/36473789/pexels-photo-36473789.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ### The City Walls
 
 Built in 1428 during the early Ming Dynasty, Xingcheng's city walls are the only substantially complete Ming-period walled city in China outside of Xi'an and Beijing. The walls are 2.7 km in circumference and stand about 10 metres high, with four gates, 24 towers and a surrounding moat that has been partially restored.
@@ -65,6 +67,8 @@ The Huludao coastline stretches for over 200 km along the Bohai Sea. The main be
 
 **Sea bathing season:** July–September. Water temperatures reach 24–26°C at peak.
 
+![Huludao Liaoning — Huludao Seafood](https://images.pexels.com/photos/14786461/pexels-photo-14786461.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Huludao Seafood
 
 Huludao's position on the Bohai coast gives it access to excellent seafood — the Bohai is notably rich in shrimp, crab and sea cucumber.
@@ -105,6 +109,8 @@ The "First Pass Under Heaven" at the eastern end of the Great Wall, Shanhaiguan 
 
 **In Huludao city:**
 **Mid-range:** Several chain hotels near the railway station; rooms from ¥200–¥350/night ($28–$49).
+
+![Huludao Liaoning — Best Time to Visit](https://images.pexels.com/photos/29903855/pexels-photo-29903855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Best Time to Visit
 

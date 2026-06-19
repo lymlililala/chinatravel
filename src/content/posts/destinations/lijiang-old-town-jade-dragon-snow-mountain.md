@@ -12,6 +12,7 @@ tags:
   - naxi culture
   - UNESCO heritage
 description: "Complete guide to Lijiang Old Town and Jade Dragon Snow Mountain in Yunnan — UNESCO World Heritage cobblestone streets, Naxi minority culture, the Blue Moon Valley, and practical tips for visiting at altitude."
+ogImage: "https://images.pexels.com/photos/7170940/pexels-photo-7170940.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Lijiang sits at 2,400 metres in the mountains of northwest Yunnan, where the ancient Tea Horse Road from Yunnan to Tibet passes through one of China's most remarkably preserved ancient towns. The Naxi people who founded Lijiang created a town of extraordinary beauty: cobblestone streets channelling clear mountain streams, wooden architecture decorated with intricate carvings, and constant views of the 5,596-metre Jade Dragon Snow Mountain to the north.
@@ -21,6 +22,8 @@ This is a town that has existed continuously for 800 years. It is also one that 
 ## Table of contents
 
 ## Lijiang Old Town (丽江古城 / 大研镇)
+
+![Lijiang Old Town & Jade Dragon Snow Mountain — Lijiang Old Town (丽江古城 / 大研镇)](https://images.pexels.com/photos/10670162/pexels-photo-10670162.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### What Makes It Special
 
@@ -53,6 +56,8 @@ Lijiang charges an entrance management fee of ¥80 per person — collected at t
 **The old town is entirely pedestrian** — no motorised vehicles. Streets are paved with traditional smooth stone that becomes slippery when wet. Comfortable shoes are essential.
 
 ---
+
+![Lijiang Old Town & Jade Dragon Snow Mountain — Jade Dragon Snow Mountain (玉龙雪山)](https://images.pexels.com/photos/10887389/pexels-photo-10887389.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Jade Dragon Snow Mountain (玉龙雪山)
 
@@ -108,6 +113,8 @@ At the base of the mountain, this series of five lakes fed by glacial meltwater 
 Included in the mountain entrance fee. The boardwalk through the valley takes 1–1.5 hours. Best in afternoon light (2:00–4:00 PM) when the sun is at an angle to reveal the underwater colours.
 
 ---
+
+![Lijiang Old Town & Jade Dragon Snow Mountain — The Naxi Dongba Culture](https://images.pexels.com/photos/35818624/pexels-photo-35818624.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Naxi Dongba Culture
 

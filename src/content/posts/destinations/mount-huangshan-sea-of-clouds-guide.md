@@ -13,6 +13,7 @@ tags:
   - Anhui
   - UNESCO heritage
 description: "Complete guide to Mount Huangshan — China's most iconic mountain, famous for its sea of clouds, ancient pine trees, and granite peaks. Hiking routes, cable cars, overnight stay tips, and the best time to visit."
+ogImage: "https://images.pexels.com/photos/37520806/pexels-photo-37520806.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 "Once you've climbed the Five Sacred Mountains, other mountains are unremarkable. But once you've climbed Huangshan, even the Five Sacred Mountains pale." Deng Xiaoping's famous assessment remains accurate. Mount Huangshan is not the highest mountain in China, nor the most challenging to climb. It is simply, by widespread consensus, the most beautiful.
@@ -22,6 +23,8 @@ The sea of clouds that fills the valleys between the granite peaks — most dram
 ## Table of contents
 
 ## Why Overnight is Worth It
+
+![Mount Huangshan (Yellow Mountain) — Why Overnight is Worth It](https://images.pexels.com/photos/11022633/pexels-photo-11022633.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 The single most consistent advice from experienced Huangshan visitors: **stay overnight on the mountain**.
 
@@ -55,6 +58,8 @@ From Tangkou, cable car buses run to the three cable car base stations (¥10 per
 ### By Bus
 
 Several long-distance buses connect Huangshan to Hangzhou (3 hrs), Nanjing (4 hrs), and Tunxi (the local city, 1 hr).
+
+![Mount Huangshan (Yellow Mountain) — Ascending the Mountain: Options](https://images.pexels.com/photos/12217361/pexels-photo-12217361.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Ascending the Mountain: Options
 
@@ -108,6 +113,8 @@ The canyon's lower section — narrow paths between vertical cliff walls, occasi
 ### Lotus Peak (莲花峰)
 
 The highest point on Huangshan at 1,864m. A designated hiking route (open in alternating years to allow recovery) leads to the summit, where on clear days you can see the entirety of the Huangshan range stretching to the horizon.
+
+![Mount Huangshan (Yellow Mountain) — The Sea of Clouds: When and Where](https://images.pexels.com/photos/12306604/pexels-photo-12306604.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Sea of Clouds: When and Where
 

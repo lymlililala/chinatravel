@@ -12,7 +12,7 @@ tags:
   - buddhism
   - northeast-china
 description: "Chaoyang in western Liaoning is one of China's most historically layered cities — home to world-famous Cretaceous dinosaur fossil beds, the twin Buddhist pagodas that have dominated its skyline for 1,400 years, and the remnants of several ancient capitals. This guide covers the Fossil Museum, the North and South Pagodas, the Yanshandongling site, and practical travel details most guidebooks skip."
-ogImage: "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/5302327/pexels-photo-5302327.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Chaoyang (朝阳) sits in a river valley in western Liaoning province, at the point where the Northeast China Plain meets the beginning of the Inner Mongolian steppe. It's not a tourist destination that appears on most China itineraries, which is puzzling given what's here: fossil beds that produced some of the most important dinosaur and early bird discoveries of the 20th century, Buddhist pagodas that rank among the finest examples of Liao Dynasty architecture in China, and layers of historical settlement stretching back 5,000 years.
@@ -22,6 +22,8 @@ The city itself is mid-sized and industrial — not beautiful in the way that vi
 ## Table of contents
 
 ## Getting to Chaoyang
+
+![Chaoyang Liaoning — Getting to Chaoyang](https://images.pexels.com/photos/24186299/pexels-photo-24186299.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **By train:**
 - **From Beijing:** About 3.5–4 hours by express train; multiple daily departures from Beijing North or Beijing Chaoyang Station; tickets ¥150–220 second class
@@ -60,6 +62,8 @@ The density of finds in this area has led paleontologists to describe the Chaoya
 **The fossil site itself:**
 A portion of the actual fossil-bearing strata can be walked through in the geopark — the layers of Yixian Formation mudstone and volcanic tuff where fossils continue to be found are visible in the hillside exposures. The park provides viewing platforms and interpretive signage.
 
+![Chaoyang Liaoning — The North and South Pagodas (北塔 & 南塔)](https://images.pexels.com/photos/24415073/pexels-photo-24415073.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The North and South Pagodas (北塔 & 南塔)
 
 Chaoyang's two large Buddhist pagodas are among the most important surviving examples of Liao Dynasty (907–1125 AD) architecture in China, and they define the city's skyline. The North Pagoda is the better-preserved and more significant.
@@ -90,6 +94,8 @@ The city museum has a strong collection covering the prehistoric, Bronze Age, Ya
 
 **Entry:** Free  
 **Hours:** 9:00am–5:00pm (closed Mondays)
+
+![Chaoyang Liaoning — Hongshan Culture Sites (红山文化)](https://images.pexels.com/photos/28490351/pexels-photo-28490351.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Hongshan Culture Sites (红山文化)
 

@@ -11,7 +11,7 @@ tags:
   - portuguese
   - south-china
 description: "Macau's distinctive hybrid cuisine — the Portuguese egg tart (pastel de nata) at Lord Stow's Bakery in Coloane (the original, non-negotiable), African chicken (Macanese fusion with peanut and chilli sauce), Portuguese sardines and bacalhau (salt cod), and the Senado Square area restaurants that serve authentic Macanese food rather than casino buffets."
-ogImage: "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/974251/pexels-photo-974251.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Macau is a city with a uniquely complex food culture — the product of 450 years of Portuguese colonial presence layered on top of a Cantonese base, with influences from Africa (via Portuguese-colonial Mozambique and Angola), India (via Goa), and Southeast Asia stirred in. The result is Macanese cuisine: a hybrid that exists nowhere else in the world and is genuinely extraordinary if you eat in the right places.
@@ -21,6 +21,8 @@ The tragedy of modern Macau food is that the casino economy has pushed the most 
 ## Table of contents
 
 ## Lord Stow's Bakery: The Original Portuguese Egg Tart
+
+![Macau Food — Lord Stow's Bakery: The Original Portuguese Egg Tart](https://images.pexels.com/photos/14363849/pexels-photo-14363849.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 There is no more non-negotiable stop in all of Macau food than Lord Stow's Bakery in Coloane Village. The egg tart (pastel de nata, or 葡撻 in Cantonese) that Lord Stow's produces is the original template for the egg tarts now sold across Asia — Andrew Stow, a British pharmacist, developed the recipe in 1989 adapting the Belém-style Portuguese custard tart, and the result became one of the most copied foods in the region.
 
@@ -36,6 +38,8 @@ The sauce is rich and complex: nutty from the peanuts, gently spicy, slightly sm
 
 The best African Chicken is served at Restaurante Fernando in Coloane (one of Macau's most beloved traditional restaurants, open since 1963), and at Litoral Restaurant near Barra in the old Macau peninsula. At Litoral, expect to pay ¥150–¥200 for a half-chicken portion. Book ahead on weekends — both restaurants fill up.
 
+![Macau Food — Bacalhau: Portuguese Salt Cod in Macau](https://images.unsplash.com/photo-1764333580740-b327847301b1?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw0fHxCYWNhbGhhdXxlbnwwfDB8fHwxNzgxODU4ODAxfDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
+
 ## Bacalhau: Portuguese Salt Cod in Macau
 
 Bacalhau (鹹鱈魚, salt cod) is the great staple of Portuguese cuisine, and Macau serves it in all the traditional Portuguese preparations. Bacalhau com natas (baked salt cod with cream and potato) is the most common — a rich, satisfying gratin served in portions large enough to share. Bacalhau à Brás (scrambled eggs with shredded salt cod and matchstick potatoes) is the more delicate version.
@@ -47,6 +51,8 @@ You find bacalhau at the traditional Portuguese-Macanese restaurants clustered i
 The Macau pork chop bun (猪扒包) is simple and addictive — a pan-fried pork cutlet, well-seasoned, stuffed into a Portuguese bolo de carne bread roll that is slightly sweet and very soft. The contrast between the crispy pork and the yielding bread makes it one of the better sandwiches in Asia.
 
 The best-known source is Tai Lei Loi Kei restaurant in Taipa Village — a local institution that sells thousands of these daily. Arrive before noon; they sell out. Price: ¥40–¥55. There are now branches in the Venetian Hotel complex, but Taipa Village is the better choice for atmosphere.
+
+![Macau Food — Senado Square Area: Restaurants Over Casino Buffets](https://images.pexels.com/photos/11525803/pexels-photo-11525803.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Senado Square Area: Restaurants Over Casino Buffets
 

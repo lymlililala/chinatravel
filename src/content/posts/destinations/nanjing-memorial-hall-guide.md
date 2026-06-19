@@ -11,11 +11,14 @@ tags:
   - history
   - memorial
 description: "The Memorial Hall of the Victims in Nanjing Massacre — how to visit respectfully, the historical context of the December 1937 events, the museum's displays, and how to prepare for an emotionally significant site."
+ogImage: "https://images.pexels.com/photos/16746143/pexels-photo-16746143.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 The Memorial Hall of the Victims in Nanjing Massacre by Japanese Invaders (侵华日军南京大屠杀遇难同胞纪念馆) is one of China's most significant and most emotionally powerful historical sites — a memorial and museum at one of the massacre sites, where Japanese forces killed an estimated 200,000–300,000 civilians and prisoners in December 1937 to January 1938 following the capture of Nanjing.
 
 For most international visitors, the Nanjing Massacre is less familiar history than it should be. The memorial provides the most comprehensive account of these events available in English.
+
+![Nanjing Memorial Hall Massacre — The Historical Context](https://images.pexels.com/photos/33457680/pexels-photo-33457680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Historical Context
 
@@ -24,6 +27,8 @@ In August 1937, Japanese forces began the attack on Shanghai. By November, Shang
 From December 13, 1937, Japanese forces entered Nanjing and began a 6-week period of mass killings of captured soldiers and civilians. The International Safety Zone — established by foreign residents (including American diplomat John Rabe, a member of the Nazi party, who used his party affiliation to protect Chinese residents from Japanese forces) — sheltered approximately 200,000 Chinese in a 3.8 square kilometre area of the city.
 
 The events were documented by foreign journalists, missionaries, and diplomatic personnel; the records are extensive. The final death toll is disputed between Chinese and Japanese historians but falls between 150,000 and 300,000.
+
+![Nanjing Memorial Hall Massacre — The Memorial Site](https://images.pexels.com/photos/34331372/pexels-photo-34331372.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Memorial Site
 
@@ -46,6 +51,8 @@ The **Pit of Ten Thousand Corpses (万人坑遗址)** section is the most viscer
 ### The Peace Hall
 
 The final section moves from documentation to commemoration — a space for reflection with international recognition of the events and a "Hall of Peace" suggesting the memorial's forward-looking orientation.
+
+![Nanjing Memorial Hall Massacre — Visiting Respectfully](https://images.pexels.com/photos/19854413/pexels-photo-19854413.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Visiting Respectfully
 

@@ -12,7 +12,7 @@ tags:
   - hiking
   - north-china
 description: "Mount Wutai (五台山) in Shanxi — the sacred mountain of Manjushri Bodhisattva (文殊菩萨) with over 50 monasteries, one of China's four Buddhist sacred mountains. The key temples, the Tibetan monastery (Tayuan Si), high altitude walking circuits, the colourful prayer flag valley, and practical logistics including permit requirements and the best season."
-ogImage: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/29712653/pexels-photo-29712653.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Mount Wutai (五台山, "Five Terrace Mountain") is the sacred mountain of Manjushri Bodhisattva, the embodiment of wisdom in Mahayana Buddhism. The five flat-topped peaks of the mountain give it its name, and the valley between them — Taihuai (台怀) — is home to more than 50 active monasteries ranging from Tang Dynasty foundations to modern Tibetan-style temples decorated in vivid colours.
@@ -22,6 +22,8 @@ Unlike China's other sacred mountains, Wutai is not a single peak to summit — 
 ## Table of contents
 
 ## Getting There
+
+![Mount Wutai — Getting There](https://images.pexels.com/photos/2915957/pexels-photo-2915957.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Mount Wutai is in northeastern Shanxi, about 240km from Taiyuan (the provincial capital).
 
@@ -74,6 +76,8 @@ The full circuit on foot takes 3–4 days covering about 80km. Most pilgrims do 
 
 **Mini-buses** from Taihuai visit the main peaks with flexible schedules: approximately ¥50–80 per person per peak, or ¥300–400 for a car for the day.
 
+![Mount Wutai — Prayer Flags Valley (彩虹瀑布附近)](https://images.pexels.com/photos/5273302/pexels-photo-5273302.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Prayer Flags Valley (彩虹瀑布附近)
 
 The road between Taihuai and the northern circuit passes through a valley section where Tibetan-style prayer flags have been strung between the pine trees — thousands of them, creating a corridor of colour. It's a 5-minute stop but very photogenic, especially in wind when the flags flutter.
@@ -93,6 +97,8 @@ Spending at least one night is essential. The morning atmosphere — the sound o
 **Hotels in Taihuai:** Range from ¥200–600/night. The town is not large and options book up during peak season (July–August and Chinese public holidays).
 
 **Peak season:** July–August is the busiest period (Chinese summer holidays). Spring (May–June) and autumn (September–October) are the recommended times.
+
+![Mount Wutai — When to Visit](https://images.pexels.com/photos/29767807/pexels-photo-29767807.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## When to Visit
 

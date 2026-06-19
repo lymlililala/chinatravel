@@ -11,7 +11,7 @@ tags:
   - history
   - east-china
 description: "Lushan (庐山) in Jiangxi — the mountain that inspired more Chinese poetry than any other, with dramatic waterfalls (the Sandie Waterfall), colonial-era villas from the Republican period, the Guling town at the summit, and Mao Zedong's political conferences that still define some of the buildings. Getting from Nanchang or Jiujiang."
-ogImage: "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/34376752/pexels-photo-34376752.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Lushan (庐山) occupies a peculiar and fascinating place in Chinese culture. The mountain rising above Poyang Lake in northern Jiangxi inspired more classical poetry than any other peak in China — Li Bai wrote perhaps his most famous lines here about the Sandie Waterfall, Su Dongpo wrote the verse about not being able to see the mountain's true form from within it. But Lushan is also where the Kuomintang government built its summer capital, where Mao Zedong held two fateful political conferences that shaped modern Chinese history, and where hundreds of colonial-era villas built by foreign missionaries and diplomats still stand in improbable grandeur above the clouds.
@@ -19,6 +19,8 @@ Lushan (庐山) occupies a peculiar and fascinating place in Chinese culture. Th
 ## Table of contents
 
 ## Getting There
+
+![Lushan Mountain — Getting There](https://images.pexels.com/photos/23886078/pexels-photo-23886078.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Lushan is most easily accessed from Jiujiang (九江), a city on the southern bank of the Yangtze River in northern Jiangxi. Jiujiang is served by high-speed trains from Nanchang (40 minutes, ¥60-100) and from Wuhan (1.5 hours, ¥100-180). From Jiujiang station, buses run regularly to the Lushan scenic area gate (40 minutes, ¥20).
 
@@ -33,6 +35,8 @@ The summit area of Lushan centres on Guling Town (牯岭镇), a genuinely surpri
 The town's stone buildings, European-style churches, and tree-lined main street create an atmosphere unlike anywhere else in Chinese mountain tourism. In summer it's noticeably cooler than the Yangtze plain below (often 8-10°C cooler), which explains both its popularity as a resort and the extraordinary literary output it inspired — poets and scholars retreating here to escape the summer heat had nothing to do but write.
 
 The Lushan Museum in Guling covers both the natural history and the remarkably dense political and cultural history of the mountain. It's well worth an hour. The Republican architecture scattered through the surrounding streets — over 600 villas from the 1920s-1940s — is best explored on foot with no particular agenda.
+
+![Lushan Mountain — The Sandie Waterfall](https://images.pexels.com/photos/22717407/pexels-photo-22717407.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Sandie Waterfall
 
@@ -49,6 +53,8 @@ The Flower Path (花径) area near Guling contains Brocade Valley (锦绣谷) �
 The Immortals Cave (仙人洞) nearby is a natural cave in the cliff face associated with Taoist hermits and featuring a stone spring that local believers consider to have healing properties. The combination of the cave, the cliff-edge pavilion above it, and the views from here is one of Lushan's most photographed compositions.
 
 The Lulin Lake and Lulin Villa area (庐林湖, 庐林别墅) is where Mao Zedong stayed during the 1959 and 1961 Lushan Conferences — sessions that had enormous consequences for Chinese political history. The villa is preserved as a museum. The furniture, meeting rooms, and gardens feel frozen in the 1950s. For visitors interested in 20th-century Chinese political history, this is essential.
+
+![Lushan Mountain — The Famous View Problem](https://images.pexels.com/photos/21823046/pexels-photo-21823046.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Famous View Problem
 

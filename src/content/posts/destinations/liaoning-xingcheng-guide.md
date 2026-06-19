@@ -66,6 +66,8 @@ The area within the walls is a living neighborhood with a mix of traditional cou
 
 **Street life:** The old town streets are active with daily commerce — produce markets, small restaurants, and barbershops — giving the enclosed city a character that feels authentic rather than curated.
 
+![Xingcheng Liaoning — Xingcheng Beach (兴城海滨)](https://images.pexels.com/photos/37081364/pexels-photo-37081364.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Xingcheng Beach (兴城海滨)
 
 About 3km south of the old town, Xingcheng has a 1.5km stretch of sandy beach on the Bohai Sea. The water is not tropical-clear but the sand is decent, the facilities are adequate, and the beach is significantly less developed and crowded than Dalian's or Qingdao's.

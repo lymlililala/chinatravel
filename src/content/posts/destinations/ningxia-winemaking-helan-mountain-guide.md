@@ -10,6 +10,7 @@ faq:
   - question: "When is the best time to visit Ningxia wine country?"
     answer: "Late summer and autumn, roughly August to October, are ideal — the vines are lush, harvest is under way, and the desert light is beautiful. Winters are harsh on the steppe, when vines are buried to survive the cold, so the warmer months are far better for visiting."
 description: "Discover Ningxia's emerging wine region in the shadow of the Helan Mountains — China's answer to Bordeaux, where Cabernet Sauvignon thrives at 1,200m altitude in desert conditions, award-winning wineries offer tastings, and the contrast of vines against arid landscape makes for unexpected beauty."
+ogImage: "https://images.pexels.com/photos/290316/pexels-photo-290316.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Ningxia"
 tags: ["ningxia", "wine", "helan-mountain", "winery", "vineyard", "yinchuan", "chinese-wine", "desert-wine", "cabernet"]
@@ -22,6 +23,8 @@ When Western wine critics began noticing Chinese wine in the early 2010s, most a
 The **Helan Mountain East Foot wine region (贺兰山东麓)** now has more than 100 wineries, covers over 40,000 hectares, and has accumulated international awards that no one predicted 20 years ago. A visit to this region is, simultaneously, a wine tour, a landscape experience in one of China's most arresting desert environments, and an encounter with the centuries-old Hui Muslim and Han Chinese farming culture of the Yellow River valley.
 
 ---
+
+![Ningxia Wine Country — Why Ningxia Produces Good Wine](https://images.pexels.com/photos/10499984/pexels-photo-10499984.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Why Ningxia Produces Good Wine
 
@@ -45,6 +48,8 @@ The combination produces wines with **high natural sugar, good acidity retention
 
 ---
 
+![Ningxia Wine Country — Key Wineries to Visit](https://images.pexels.com/photos/5732734/pexels-photo-5732734.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Key Wineries to Visit
 
 ### Silver Heights (银色高地)
@@ -66,6 +71,8 @@ A mid-size producer that has invested heavily in European-trained winemaking sta
 The French spirits giant entered Ningxia's wine market in 2009, planting over 1,000 ha of Cabernet on the mountain slope. Their scale allows consistent production; their best wines compare favourably to their Pernod-owned Bordeaux operations.
 
 ---
+
+![Ningxia Wine Country — The Desert Landscape](https://images.pexels.com/photos/2106223/pexels-photo-2106223.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Desert Landscape
 

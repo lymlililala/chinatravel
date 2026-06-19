@@ -12,7 +12,7 @@ tags:
   - culture
   - central-china
 description: "Luoyang — China's ancient capital for 13 dynasties. The Longmen Grottoes UNESCO site (100,000 Buddhist statues carved into cliff faces), the White Horse Temple (the first Buddhist temple in China), the Luoyang Museum, the Peony Festival in April (the city has 300,000 peonies), and the Old Town district with Tang Dynasty culture."
-ogImage: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/34932054/pexels-photo-34932054.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Luoyang was the capital of China for 13 dynasties — longer than any other city in Chinese history. It sits in the western part of Henan province at the confluence of the Yi and Luo rivers, and for roughly 1,500 years (from the Eastern Zhou Dynasty through to the Tang), it was one of the most important cities in Asia. The Silk Road passed through here. Buddhism arrived here. The first Chinese dictionary was compiled here.
@@ -22,6 +22,8 @@ Today it's a city of about 7 million, and while much of the ancient city has bee
 ## Table of contents
 
 ## Longmen Grottoes (龙门石窟)
+
+![Luoyang — Longmen Grottoes (龙门石窟)](https://images.pexels.com/photos/11105693/pexels-photo-11105693.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 The Longmen Grottoes are one of the three great Buddhist cave art complexes in China (alongside Yungang in Datong and Mogao in Dunhuang), and are a UNESCO World Heritage Site. Over 100,000 Buddhist statues have been carved into the limestone cliffs of the Yi River gorge over a period stretching from the late 5th century through the Tang Dynasty.
 
@@ -52,6 +54,8 @@ Whether the origin story is exactly accurate is debated. What's undeniable is th
 
 The main temple complex contains five Han-style halls; in the grounds at the back, tombs mark the resting places of the two Indian monks who (according to tradition) brought the sutras. Adjacent to the main Chinese monastery, India, Thailand, and Myanmar have built their own national-style Buddhist temples in the grounds — an interesting juxtaposition.
 
+![Luoyang — Luoyang Peony Festival (牡丹文化节)](https://images.pexels.com/photos/33818012/pexels-photo-33818012.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Luoyang Peony Festival (牡丹文化节)
 
 Luoyang has been the peony capital of China since the Sui Dynasty (6th century AD), when imperial gardens here cultivated the flower as a symbol of aristocratic refinement. Today the city has over 300,000 peony plants across multiple gardens, and the annual Peony Festival in April is a massive event.
@@ -74,6 +78,8 @@ The Luoyang Museum is one of the best local history museums in central China, wi
 **Location:** In the northern new district; Metro Line 2 to Museum station
 
 The **Tang Tri-coloured Glazed Pottery (唐三彩)** collection on the third floor is remarkable — Luoyang produced the finest sancai figures during the Tang Dynasty, and the horses, camels, and merchant figures recovered from local tombs are extraordinary.
+
+![Luoyang — Old Town and Tang-Era Culture](https://images.pexels.com/photos/5305562/pexels-photo-5305562.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Old Town and Tang-Era Culture
 

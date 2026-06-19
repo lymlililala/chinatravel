@@ -11,7 +11,7 @@ tags:
   - weekend-trip
   - east-china
 description: "Moganshan (莫干山) hill station in Zhejiang — the forested ridge above Shanghai and Hangzhou known for its historic colonial-era villas, bamboo forests, boutique accommodation, and as China's most fashionable weekend escape. Getting there, where to stay, what to do."
-ogImage: "https://images.unsplash.com/photo-1513407030348-c983a97b98d8?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/16264511/pexels-photo-16264511.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 There's a well-worn path from Shanghai and Hangzhou to Moganshan that has been traveled for well over a century. Colonial-era Europeans discovered this bamboo-covered ridge in the early 1900s and built summer houses to escape the Yangtze Delta heat. The villa culture never entirely went away — Chiang Kai-shek had a residence here, and the cluster of stone buildings on the hillside remain largely intact. Today, many have been converted into what might be China's highest concentration of boutique accommodation per square kilometer.
@@ -21,6 +21,8 @@ Moganshan sits at about 700m in the Tianmu Mountains of northern Zhejiang. It's 
 ## Table of contents
 
 ## Getting to Moganshan
+
+![Moganshan — Getting to Moganshan](https://images.pexels.com/photos/24033231/pexels-photo-24033231.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### From Shanghai
 **By car (recommended):** The drive from Shanghai is about 2.5–3 hours on the expressway. Car rental or Didi is the most practical option. If you're in a group of three or four, the cost per person is reasonable.
@@ -43,6 +45,8 @@ Several marked trails wind through the bamboo. The most popular is a loop starti
 **Best time in bamboo forests:** Early morning, especially if there's mist. The light filters through the canopy in shafts and the forest has that quality of looking slightly constructed, like a painting.
 
 Bamboo shoots are harvested in spring (March–April) and appear on every restaurant menu as a fresh local ingredient. If you visit in spring, bamboo shoot dishes are a genuine highlight.
+
+![Moganshan — The Historic Villas](https://images.pexels.com/photos/37031586/pexels-photo-37031586.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Historic Villas
 
@@ -74,6 +78,8 @@ Some specific names with consistent reputations (always verify current status):
 - **Shu Residence (树居):** Treehouse concept accommodation on the hillside
 
 **Booking:** Book accommodation well in advance for weekends April–October. The best properties fill up 2–4 weeks ahead on long weekends and Chinese national holidays.
+
+![Moganshan — What to Do](https://images.pexels.com/photos/29611996/pexels-photo-29611996.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## What to Do
 

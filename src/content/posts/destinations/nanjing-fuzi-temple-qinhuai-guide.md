@@ -1,10 +1,13 @@
 ---
 title: "Nanjing Fuzi Temple & Qinhuai River: Night Cruise, Street Food & History"
 description: "Discover Nanjing's Fuzi Temple (Confucius Temple) and Qinhuai River district — lantern-lit night cruises, Ming-era architecture, legendary local snacks like salted duck and tangbao, and the living history of China's ancient southern capital."
+ogImage: "https://images.pexels.com/photos/35143797/pexels-photo-35143797.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Nanjing"
 tags: ["nanjing", "fuzi-temple", "qinhuai-river", "jiangsu", "night-cruise", "street-food", "history", "confucius-temple"]
 ---
+
+![Nanjing Fuzi Temple & Qinhuai River — Nanjing Fuzi Temple & Qinhuai River: A Complete Guide](https://images.pexels.com/photos/14544939/pexels-photo-14544939.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Nanjing Fuzi Temple & Qinhuai River: A Complete Guide
 
@@ -28,6 +31,8 @@ What you see today is largely a Qing-era reconstruction; fire and war have repea
 Adjacent to the temple, this painstakingly restored complex contains hundreds of **tiny individual examination cells** (less than 1.2 m × 0.9 m) where candidates sat for three-day continuous exams. The cells are claustrophobic even to look at; the experience contextualises the extraordinary pressure of the imperial civil-service system and the millions of men who dreamed of transformation through the brush.
 
 ---
+
+![Nanjing Fuzi Temple & Qinhuai River — The Qinhuai River District](https://images.pexels.com/photos/20673034/pexels-photo-20673034.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Qinhuai River District
 
@@ -69,6 +74,8 @@ No visit is complete without working through the legendary **Qinhuai Bā Jué** 
 For duck specifically, the cluster of **braised-duck shops** on Gongyuan West Street offers whole ducks and duck-neck for under ¥60 per bird.
 
 ---
+
+![Nanjing Fuzi Temple & Qinhuai River — Beyond the Fuzi Temple: Nearby Sights](https://images.pexels.com/photos/29606775/pexels-photo-29606775.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Beyond the Fuzi Temple: Nearby Sights
 

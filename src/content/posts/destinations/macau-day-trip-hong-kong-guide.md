@@ -11,7 +11,7 @@ tags:
   - day-trip
   - south-china
 description: "The Macau day trip from Hong Kong — ferry vs the Hong Kong-Zhuhai-Macau Bridge (HZMB), what to do if you only have 8 hours (the Ruins of St Paul's, the Senado Square, one casino, one Portuguese restaurant), and whether Macau is worth an overnight stay."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/32871281/pexels-photo-32871281.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Macau is 65km west of Hong Kong across the Pearl River estuary, and the contrast between them is startling. Hong Kong is steel and glass and British colonial efficiency. Macau is Portuguese baroque, pastel facades, a Cantonese-Portuguese hybrid culture, and the world's highest-revenue casino industry — which earns roughly five times more than Las Vegas.
@@ -23,6 +23,8 @@ You don't need to gamble to enjoy Macau. The UNESCO-listed historic center is ge
 ## Table of contents
 
 ## Getting There: Ferry vs HZMB
+
+![Macau Trip from Hong Kong — Getting There: Ferry vs HZMB](https://images.pexels.com/photos/3839434/pexels-photo-3839434.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### Ferry (Recommended for Most Visitors)
 
@@ -46,6 +48,8 @@ The 55km bridge-and-tunnel link opened in 2018 and cuts the road journey to abou
 **Immigration:** You go through immigration at both ends — bring your passport. Macau is a separate SAR with its own entry procedures. Most nationalities get 30 days visa-free.
 
 ---
+
+![Macau Trip from Hong Kong — What to Do with 8 Hours in Macau](https://images.pexels.com/photos/37450301/pexels-photo-37450301.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## What to Do with 8 Hours in Macau
 
@@ -105,6 +109,8 @@ You don't need to gamble, but visiting at least one casino is part of the Macau 
 Getting to Cotai: free shuttle buses run from the peninsula casinos every 10-15 minutes (30-min journey).
 
 ---
+
+![Macau Trip from Hong Kong — Should You Stay Overnight?](https://images.pexels.com/photos/7969105/pexels-photo-7969105.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Should You Stay Overnight?
 

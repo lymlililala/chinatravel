@@ -12,12 +12,14 @@ tags:
   - jiangsu
   - republican history
 description: "The Sun Yat-sen Mausoleum on Purple Mountain is one of China's most significant Republican-era monuments — an enormous granite staircase leading to the tomb of the Father of Modern China. This guide covers the history of Dr Sun Yat-sen, how to climb the 392 steps to the tomb, the surrounding Purple Mountain attractions, practical tips, and how to combine it with Nanjing's other historical sites in 2026."
-ogImage: "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/11948453/pexels-photo-11948453.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
 
 ## Who Was Sun Yat-sen and Why Does His Tomb Matter?
+
+![Sun Yat — Who Was Sun Yat-sen and Why Does His Tomb Matter?](https://images.pexels.com/photos/18137567/pexels-photo-18137567.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Few figures in modern Chinese history are as universally respected across the political spectrum as Sun Yat-sen (孫中山, Sūn Zhōngshān). Born in Guangdong Province in 1866, he dedicated his life to ending the Qing dynasty's imperial rule and establishing a modern republic based on his Three Principles of the People — Nationalism, Democracy, and People's Livelihood.
 
@@ -53,6 +55,8 @@ Through a door behind the statue, a domed chamber contains the marble sarcophagu
 
 **Entry to the sacrificial hall and tomb**: ¥80 additional ticket required beyond the park entry.
 
+![Sun Yat — Admission Prices (2026)](https://images.pexels.com/photos/33996086/pexels-photo-33996086.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Admission Prices (2026)
 
 - **Zhongshan Scenic Area entry** (purple mountain park): ¥80 comprehensive ticket
@@ -79,6 +83,8 @@ An ancient Buddhist temple and a Republican-era pagoda commemorating soldiers wh
 
 ### Sun Yat-sen Memorial Concert Hall (音乐台)
 A white marble amphitheatre set in forest, built in 1932 as a memorial to Sun Yat-sen. Free concerts and cultural performances are held here in warmer months. The architectural composition of the stage, colonnade, and surrounding trees is elegant.
+
+![Sun Yat — Getting to Purple Mountain](https://images.pexels.com/photos/30120127/pexels-photo-30120127.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting to Purple Mountain
 

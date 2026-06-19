@@ -11,7 +11,7 @@ tags:
   - jiangsu
   - east-china
 description: "Nanjing's food culture centred on duck — Nanjing salted duck (盐水鸭) eaten cold, duck blood vermicelli soup (鸭血粉丝汤) as a breakfast staple, ya pi (duck skin), and what else Nanjing does besides duck. The Fuzi Temple area's snack street and the Laomenjing hutong food scene."
-ogImage: "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/34981672/pexels-photo-34981672.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 No Chinese city has a more committed relationship with duck than Nanjing. The city consumes an estimated 12 million ducks a year — across the population, that works out to about three ducks per person annually. Every part of the bird is used: neck, blood, liver, gizzard, head, feet, tongue. Duck is served cold, hot, braised, spiced, and incorporated into soups. Understanding Nanjing food means understanding what a city does when it devotes centuries of culinary tradition to a single bird.
@@ -19,6 +19,8 @@ No Chinese city has a more committed relationship with duck than Nanjing. The ci
 ## Table of contents
 
 ## Nanjing Salted Duck (盐水鸭, Yánshuǐ Yā)
+
+![Nanjing Food — Nanjing Salted Duck (盐水鸭, Yánshuǐ Yā)](https://images.pexels.com/photos/7239561/pexels-photo-7239561.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **Nanjing salted duck** is the city's defining food and one of China's most famous preserved meats. The duck is rubbed with salt and five-spice powder, rested for 24-48 hours, then poached whole in seasoned broth. It's served cold, sliced, without any additional sauce.
 
@@ -39,6 +41,8 @@ This is the kind of dish that requires an open mind if you haven't eaten blood c
 **Price:** ¥10-18 per bowl at street stalls and small restaurants. Larger portions with more duck parts cost more.
 
 **Where to go:** The **Laomenjing alley area** (老门东) in Qinhuai District has several old-school duck blood soup shops. The **Confucius Temple area** (Fuzimiao) has visible tourist-facing versions at higher prices. For the real local experience, ask at your hotel/hostel for the nearest residential stall.
+
+![Nanjing Food — Fuzi Temple Food Street (夫子庙小吃街)](https://images.pexels.com/photos/34981671/pexels-photo-34981671.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Fuzi Temple Food Street (夫子庙小吃街)
 
@@ -67,6 +71,8 @@ Here you'll find duck blood soup shops in traditional settings, small hot pot pl
 **Pan Ruan Su** (软水饺) — water dumplings with a uniquely soft skin that's thicker and more doughy than the northern style. Local tradition.
 
 **Nanjing soup-filled bun** variations — different from Shanghai's XLB in ways that locals will debate at length.
+
+![Nanjing Food — What Else Nanjing Does Well](https://images.pexels.com/photos/29670791/pexels-photo-29670791.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## What Else Nanjing Does Well
 

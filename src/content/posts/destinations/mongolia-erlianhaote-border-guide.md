@@ -12,12 +12,14 @@ tags:
   - border-town
   - grasslands
 description: "Visit Erlianhaote (Erenhot), the quirky China-Mongolia border city where massive dinosaur sculptures guard the highway, genuine fossil discoveries fill the museum, and the steppe stretches endlessly toward Mongolia. This 2026 guide covers the renowned dinosaur museum and fossil sites, the border crossing experience, the surrounding grasslands, cross-border shopping, local Mongolian-influenced cuisine, and practical advice for this unusual frontier destination."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/7859335/pexels-photo-7859335.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
 
 ## Erlianhaote — Where Dinosaurs Guard the Border
+
+![Erlianhaote Inner Mongolia — Erlianhaote — Where Dinosaurs Guard the Border](https://images.pexels.com/photos/30143819/pexels-photo-30143819.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Erlianhaote (二连浩特, known as Erenhot in Mongolian and international contexts) is one of those places that exists primarily because of geography. Sitting on the China-Mongolia border in the middle of the vast Eurasian steppe, it's the primary rail gateway between the two countries and a crucial logistics hub. But what makes Erlianhaote genuinely interesting — and worth the considerable effort to reach — is its dinosaur heritage. This area is one of the most important dinosaur fossil sites in Asia, and the city has embraced its prehistoric fame with a enthusiasm that borders on the obsessive.
 
@@ -53,6 +55,8 @@ The landscape itself is striking — eroded red sandstone badlands that look mor
 
 Back in the city, the Dinosaur Sculpture Plaza features dozens of life-sized dinosaur models arranged in a park setting. It's aimed at families and is genuinely fun, even for adults who should know better. The models are surprisingly accurate (for the most part), and the kids' dinosaur playground is well-designed. Free to visit.
 
+![Erlianhaote Inner Mongolia — The Border Crossing](https://images.pexels.com/photos/31909791/pexels-photo-31909791.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The Border Crossing
 
 ### China-Mongolia Gateway
@@ -86,6 +90,8 @@ The steppe surrounding Erlianhaote is classic Mongolian grassland — vast, flat
 **What to expect:** The grassland experience involves staying in a yurt (more accurately a ger — the Mongolian term), eating mutton and dairy products, and riding horses across the steppe. It's simple, elemental, and oddly moving. The night sky here, free from light pollution, is absolutely spectacular.
 
 **Best time:** June — September when the grass is green. July and August are the warmest months (20-25°C during the day, dropping to 10-15°C at night).
+
+![Erlianhaote Inner Mongolia — Local Cuisine — Mongolian Meets Chinese](https://images.unsplash.com/photo-1646922833008-ea6ee3f79855?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwzfHxMb2NhbCUyMEN1aXNpbmV8ZW58MHwwfHx8MTc4MTg1MDk3MHww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## Local Cuisine — Mongolian Meets Chinese
 
