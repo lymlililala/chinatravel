@@ -12,7 +12,7 @@ tags:
   - hot-springs
   - culture
 description: "Fuzhou is Fujian's underrated provincial capital — a city of outstanding Ming-Qing heritage preserved in the famous Three Lanes and Seven Alleys district, natural hot spring culture embedded into the daily urban fabric, a vibrant seafood economy and easy access to the coastal islands of the Min River estuary. This 2026 guide covers the full city and day trip options."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/18483385/pexels-photo-18483385.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -20,6 +20,8 @@ ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=
 Fuzhou gets overshadowed by Xiamen within Fujian — and by the coastal mega-cities in the broader China travel conversation. This is understandable but wrong. The provincial capital has a historical core that is one of the best-preserved in China, a natural hot spring culture that genuinely affects daily city life, a seafood market among the finest in the country and enough Buddhist and Taoist temples to fill a week of serious exploration.
 
 More than that, Fuzhou has a particular atmosphere. It's a real working city that people actually live in with genuine investment, and the food culture, in particular, reflects this: Fuzhounese cuisine is subtle, seafood-forward and rooted in centuries of coastal trading culture.
+
+![Fuzhou Fujian — Three Lanes and Seven Alleys (三坊七巷)](https://images.pexels.com/photos/8533639/pexels-photo-8533639.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Three Lanes and Seven Alleys (三坊七巷)
 
@@ -73,6 +75,8 @@ Fuzhou has an exceptionally rich temple tradition reflecting the region's long c
 
 **White Pagoda (白塔, Baita) and Black Pagoda (乌塔, Wuta):** Two Tang Dynasty pagodas standing about 400 metres apart in the city centre. The White Pagoda is the more photogenic; both are accessible as part of the Three Lanes and Seven Alleys area. **Tickets:** ¥10 ($1.4) each.
 
+![Fuzhou Fujian — Fuzhou Cuisine](https://images.pexels.com/photos/6440094/pexels-photo-6440094.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Fuzhou Cuisine
 
 Fuzhounese cuisine is a distinct branch of the Fujian culinary tradition, characterised by:
@@ -109,6 +113,8 @@ About 70 km south of Fuzhou, Pingtan is the closest point between mainland China
 - **From Shanghai:** High-speed rail Shanghai Hongqiao to Fuzhou approximately 3.5–4 hours; tickets ¥220–¥350 ($31–$49)
 - **From Guangzhou:** High-speed rail approximately 4 hours; tickets ¥280–¥420 ($39–$59)
 - **By air:** Fuzhou Changle International Airport (FOC) has extensive domestic and some international connections
+
+![Fuzhou Fujian — Where to Stay](https://images.pexels.com/photos/17975608/pexels-photo-17975608.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Where to Stay
 

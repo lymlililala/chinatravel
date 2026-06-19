@@ -1,12 +1,15 @@
 ---
 title: "Xiamen Coffee and Café Culture Guide: China's Best Coffee City"
 description: "Guide to Xiamen's extraordinary café and specialty coffee scene. Why Xiamen has the best coffee culture in China, the Zhongshan Road area cafés, island café hopping and the best local roasters."
+ogImage: "https://images.pexels.com/photos/19178392/pexels-photo-19178392.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Xiamen", "China coffee", "café Xiamen", "specialty coffee China", "Xiamen travel", "China café culture", "Fujian"]
 ---
 
 Among those who track China's specialty coffee movement, Xiamen occupies a special position. While Shanghai has more cafes and Beijing has more international brands, Xiamen has the highest café density per capita of any major Chinese city — and a local café culture that began developing in the early 2000s, giving it more genuine depth than newer coffee scenes. A combination of factors created this: the city's long overseas Chinese community (many from Southeast Asian coffee-drinking countries), the warm climate that makes outdoor sitting pleasant nine months of the year, and an aesthetic sensibility shaped by the colonial-era architecture of Gulangyu Island.
+
+![Xiamen Coffee Café Culture — Why Xiamen for Coffee?](https://images.pexels.com/photos/37921317/pexels-photo-37921317.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Why Xiamen for Coffee?
 
@@ -30,6 +33,8 @@ Gulangyu (鼓浪屿) — the UNESCO-listed "Piano Island" with its extraordinary
 
 **Practical**: Gulangyu is reached by ferry from the Xiamen waterfront. Entry involves ferry booking (¥35 day ticket including ferry; ¥70 for night ticket with Sunlight Rock entrance). The island is extremely crowded on weekends — weekday morning visits are dramatically better.
 
+![Xiamen Coffee Café Culture — Zhongshan Road (中山路) Area](https://images.pexels.com/photos/936328/pexels-photo-936328.png?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Zhongshan Road (中山路) Area
 
 The pedestrian main street of old Xiamen, lined with South Fujian-style arcade buildings (骑楼 qí lóu — covered walkways at street level). The network of streets behind Zhongshan Road contains some of Xiamen's most interesting independent cafes in a less touristy setting than Gulangyu.
@@ -45,6 +50,8 @@ The pedestrian main street of old Xiamen, lined with South Fujian-style arcade b
 **Local independent roasters**: Several Xiamen roasters source directly from Yunnan (Yunnan's arabica coffee has improved enormously in the last decade), as well as Ethiopia, Colombia and Panama. Ask at any specialty cafe about their current single-origin offerings.
 
 **Nai Bú (那不)**: Focused on Yunnan single-origin; seasonal offering changes monthly based on harvest. Popular with the coffee professional community.
+
+![Xiamen Coffee Café Culture — Tea Houses as Counterpoint](https://images.pexels.com/photos/31644560/pexels-photo-31644560.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Tea Houses as Counterpoint
 

@@ -11,7 +11,7 @@ tags:
   - history
   - art
 description: "The Dazu Rock Carvings (大足石刻) 90km from Chongqing — the UNESCO World Heritage Site with 50,000 Buddhist, Taoist, and Confucian stone sculptures from the 7th-13th centuries. The most important site (Baoding Shan) with the sleeping Buddha and the Wheel of Reincarnation, plus the Beishan and Nanshan cliff carvings. Day trip logistics from Chongqing."
-ogImage: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/31244379/pexels-photo-31244379.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 The Dazu Rock Carvings (大足石刻) are the most undervisited major UNESCO World Heritage Site in China. While the Yungang Caves in Shanxi and the Longmen Grottoes in Luoyang attract hundreds of thousands of visitors a year, Dazu — a comparable collection that many art historians consider their equal in quality and their superior in narrative complexity — sits 90km from one of China's busiest tourist cities and is passed over by the vast majority of visitors.
@@ -20,11 +20,15 @@ This is partly because the Dazu carvings require a day trip, partly because the 
 
 ## Table of contents
 
+![Dazu Rock Carvings — The Scale of the Work](https://images.pexels.com/photos/34295742/pexels-photo-34295742.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The Scale of the Work
 
 The Dazu Rock Carvings encompass over 50,000 individual sculptures distributed across 75 sites in Dazu County. They were created during the Tang, Five Dynasties, and Song Dynasty periods — roughly 7th to 13th centuries AD — by a remarkable concentration of artistic and religious effort that seems disproportionate to the region's size and relative obscurity.
 
 The subjects are unusually broad for a Buddhist rock carving site. While Yungang and Longmen are predominantly Buddhist, Dazu integrates Buddhist, Taoist, and Confucian imagery in ways that reflect Song Dynasty China's religious eclecticism. The carvings also depict scenes from everyday life with unusual directness — farming, cooking, childbirth, punishment — using these scenes to illustrate moral teachings in ways that would have been legible to the largely illiterate population who came to these sites as pilgrims.
+
+![Dazu Rock Carvings — Baoding Shan: The Main Site](https://images.pexels.com/photos/11827028/pexels-photo-11827028.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Baoding Shan: The Main Site
 
@@ -39,6 +43,8 @@ Baoding Shan (宝顶山) is where most visitors spend their time, and rightly so
 **The Hell Scenes:** The Dazu hell iconography is detailed and, by medieval standards, graphic. The twelve illustrated crimes and their punishments include specific sins that the Song Dynasty society of the region was worried about — cutting down trees without replanting, wasting food, deceiving merchants. The punishments are carved with what appears to be considerable imagination. These scenes were specifically designed to frighten pilgrims into moral behaviour and they retain considerable impact today.
 
 **Admission:** ¥115 for Baoding Shan.
+
+![Dazu Rock Carvings — Beishan & Nanshan](https://images.pexels.com/photos/32599840/pexels-photo-32599840.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Beishan & Nanshan
 

@@ -13,7 +13,7 @@ tags:
   - seafood
   - hakka culture
 description: "Zhangzhou in Fujian province is the perfect base for Fujian Tulou day trips and the spectacular Zhangpu flower fields (February-March). This 2026 guide covers Nanjing Tulou cluster access, the flower sea at Yunxiao (free entry), local seafood cuisine (30-100 yuan), transport from Xiamen (30 minutes), and the historic Zhangzhou Old City."
-ogImage: "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/13442117/pexels-photo-13442117.png?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -21,6 +21,8 @@ ogImage: "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=1200&q=
 Zhangzhou sits in the southern Fujian coastal plain, hemmed in by mountains to the north and the Taiwan Strait to the east. It's a prefecture-level city with a genuine character of its own — the ancestral home of a significant portion of overseas Chinese communities in Southeast Asia, a major agricultural region producing flowers, fruits, and the prized Zhangzhou tea, and the most convenient base for visiting the Fujian Tulou Earth Buildings that UNESCO listed in 2008.
 
 Most visitors use Xiamen as their Fujian base and take a day trip to the Tulou. Staying in Zhangzhou allows you to go further, spend more time, and access parts of the Zhangpu county flower fields that are difficult as a day trip from Xiamen. The city itself has underrated historical depth for those who stop to look.
+
+![Zhangzhou Fujian — Fujian Tulou Day Trip from Zhangzhou](https://images.pexels.com/photos/34237338/pexels-photo-34237338.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Fujian Tulou Day Trip from Zhangzhou
 
@@ -45,6 +47,8 @@ The most spectacular and least-known feature of the Zhangzhou area is the flower
 
 **Photography:** The flower fields with agricultural village buildings behind them, photographed in the morning light, produce images that are quite extraordinary. Rental bicycles are available near the main areas for cycling through the fields.
 
+![Zhangzhou Fujian — Zhangzhou Old Town](https://images.pexels.com/photos/30666222/pexels-photo-30666222.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Zhangzhou Old Town
 
 The historic core of Zhangzhou city has several features worth exploring:
@@ -68,6 +72,8 @@ Southern Fujian produces some of China's best seafood, and Zhangzhou sits in the
 **Shazhi Fish (沙质鱼):** Light white fish from the coastal mudflats prepared in a distinctive Zhangzhou style — steamed with particular seasonings.
 
 **Night seafood markets:** The coastal areas of Dongshan Island and Zhangpu have excellent night markets where fresh seafood is cooked to order. Budget ¥80-150 per person for a proper seafood spread.
+
+![Zhangzhou Fujian — Getting to Zhangzhou](https://images.pexels.com/photos/15150663/pexels-photo-15150663.png?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting to Zhangzhou
 

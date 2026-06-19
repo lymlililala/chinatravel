@@ -12,7 +12,7 @@ tags:
   - minnan
   - heritage
 description: "Southern Fujian's Minnan culture is one of China's richest — a coastal civilization that launched the great maritime trade routes of Asia. Quanzhou's UNESCO-listed Maritime Silk Road heritage and Zhangzhou's flower fair traditions tell a story of openness, resilience, and distinct cultural identity. This 2026 guide covers the full Minnan heritage trail from Quanzhou to Zhangzhou."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/36194895/pexels-photo-36194895.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -20,6 +20,8 @@ ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=
 Minnan (闽南, literally "South Fujian") is a cultural and linguistic region encompassing southern Fujian Province, parts of eastern Guangdong, and the overseas Chinese communities of Southeast Asia, Taiwan, and beyond. The Minnan language (also called Hokkien or Southern Min) has more speakers worldwide than many European languages, spread by centuries of maritime migration.
 
 The cultural heartland is the triangle of Quanzhou, Zhangzhou, and Xiamen — three cities each with their own personality but sharing the same language, food traditions, architectural vocabulary, and deep sense of maritime history. Quanzhou received UNESCO World Heritage status in 2021 for its role in the ancient Maritime Silk Road, placing it in the same league as Venice and Malacca as an historic port city. Zhangzhou has its flower fairs and temple music traditions. Xiamen (covered separately) ties it all together with its island setting and Gulangyu International Settlement.
+
+![Minnan Culture Fujian — Quanzhou: The Maritime Silk Road City](https://images.pexels.com/photos/20818504/pexels-photo-20818504.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Quanzhou: The Maritime Silk Road City
 
@@ -80,6 +82,8 @@ South of Zhangzhou, the famous Hakka earthen roundhouses (土楼, tulou) cluster
 
 Getting there: Bus from Zhangzhou to Nanjing takes about 1 hour (¥15). Tours from Zhangzhou city start from ¥100/person.
 
+![Minnan Culture Fujian — The Quanzhou-Zhangzhou Connection](https://images.pexels.com/photos/38109110/pexels-photo-38109110.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The Quanzhou-Zhangzhou Connection
 
 The two cities are not just historically related — their languages are mutually comprehensible dialects of Southern Min (though some vocabulary differs). This shared linguistic identity means they share temple circuits, deity veneration traditions, and folk music forms.
@@ -99,6 +103,8 @@ The Minnan cultural trail works well as a 4–5 day circuit:
 **Day 5**: Zhangzhou to Xiamen (40 minutes by HSR or bus), or return to Fuzhou/Guangzhou/Shanghai
 
 Combined tickets for Quanzhou's UNESCO sites: approximately ¥80 for access to multiple locations.
+
+![Minnan Culture Fujian — Getting to Quanzhou and Zhangzhou](https://images.pexels.com/photos/38109196/pexels-photo-38109196.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting to Quanzhou and Zhangzhou
 

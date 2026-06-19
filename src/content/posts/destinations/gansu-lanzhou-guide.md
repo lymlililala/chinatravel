@@ -12,7 +12,7 @@ tags:
   - food
   - northwest-china
 description: "Lanzhou is the only Chinese city built along the Yellow River, and this geography defines everything — from the views of the river gorge cutting through the city to the floating-raft (羊皮筏) culture that has operated here for centuries. This 2026 complete guide covers the Yellow River riverside experience, the original Lanzhou hand-pulled beef noodle soup that has conquered China, Baita Mountain, and the city's role as the gateway to China's northwest."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/5754872/pexels-photo-5754872.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -20,6 +20,8 @@ ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=
 Lanzhou (兰州) occupies a unique geographic position in China: it's the only provincial capital city built along the entire length of the Yellow River, sitting where the river squeezes through a narrow valley between the Qilian and Liupan mountain ranges. The city is also, by most calculations, the geographic center of China — exactly equidistant from the eastern coast and the western deserts.
 
 Most travelers treat Lanzhou as a transit hub — arriving by train from Xi'an, eating a bowl of beef noodles, and heading on to Zhangye's Rainbow Mountains or Dunhuang's Mogao Caves. This is understandable; the city's industrial history and dense urban development don't immediately suggest a destination. But spend a day here properly and you'll find a riverside city with genuine character, a food culture that's influenced the way millions of Chinese people eat breakfast, and the start of one of China's most spectacular Silk Road journeys.
+
+![Lanzhou Gansu — The Lanzhou Beef Noodle Legend](https://images.pexels.com/photos/20824934/pexels-photo-20824934.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Lanzhou Beef Noodle Legend
 
@@ -82,6 +84,8 @@ Walk the bridge at dawn and dusk — the river and mountain light from the bridg
 
 **Free, 24 hours access.**
 
+![Lanzhou Gansu — Gansu Provincial Museum (甘肃省博物馆)](https://images.pexels.com/photos/33327011/pexels-photo-33327011.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Gansu Provincial Museum (甘肃省博物馆)
 
 The Gansu Provincial Museum is home to the "Flying Horse of Gansu" (马踏飞燕, also called "Galloping Horse Treading on a Swallow") — a Han Dynasty bronze sculpture that has become China's national tourism symbol. The original horse is extraordinary; a copy appears on Chinese tourism signage everywhere.
@@ -97,6 +101,8 @@ The Bingling Temple Grottoes (75km from Lanzhou, accessible by boat across the L
 **Access**: Morning boats from Liujiaxia town (刘家峡, 75km from Lanzhou) at 8am and 9am. Return afternoon. Tour packages from Lanzhou: ¥150–200/person including boat and entry.
 
 **Entry**: ¥50/person plus boat fees.
+
+![Lanzhou Gansu — Getting to Lanzhou](https://images.pexels.com/photos/5754941/pexels-photo-5754941.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting to Lanzhou
 

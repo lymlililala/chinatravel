@@ -12,7 +12,7 @@ tags:
   - martial-arts
   - south-china
 description: "Foshan (佛山) in Guangdong — Bruce Lee's ancestral hometown, the birthplace of Wing Chun kung fu, and a city with a 2,500-year history. The Foshan Ancestral Temple (祖庙, dedicated to the Northern Emperor, Beidi), the Nanfeng Ancient Kiln (a working kiln since the Ming Dynasty), the Lingnan Tiandi cultural complex, and why Foshan is one of the most interesting day trips from Guangzhou."
-ogImage: "https://images.unsplash.com/photo-1537944434965-cf4679d1a598?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/33897485/pexels-photo-33897485.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Foshan is effectively an extension of Guangzhou now — the two cities merged into a single urban agglomeration decades ago — but it maintains a distinct identity. Founded 2,500 years ago, it was historically one of the four great market towns of China, famous for silk weaving, ceramics, and metalwork. Its two most internationally recognizable exports: Bruce Lee (whose family is from Junhe Village in Foshan's Shunde District) and Wing Chun kung fu (originated here in the early Qing Dynasty).
@@ -20,6 +20,8 @@ Foshan is effectively an extension of Guangzhou now — the two cities merged in
 Getting here from Guangzhou takes 30–45 minutes by metro or 20 minutes by high-speed train, making it one of the best half-day or full-day trips from the Pearl River Delta.
 
 ## Table of contents
+
+![Foshan — Foshan Ancestral Temple (祖庙)](https://images.pexels.com/photos/16005136/pexels-photo-16005136.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Foshan Ancestral Temple (祖庙)
 
@@ -55,6 +57,8 @@ The kiln is a long, tunnel-shaped climbing kiln built into a hillside, using the
 
 **Shiwan ceramics:** Foshan's Shiwan district produces a distinctive type of glazed ceramic sculpture — particularly famous for figure sculptures using a deep blue-green glaze and for architectural roof ornaments. The decorative figures on the Ancestral Temple's roof are Shiwan work.
 
+![Foshan — Lingnan Tiandi (岭南天地)](https://images.pexels.com/photos/14230262/pexels-photo-14230262.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Lingnan Tiandi (岭南天地)
 
 Lingnan Tiandi is a restored historic district in central Foshan — Ming and Qing Dynasty buildings converted into restaurants, cafes, boutique shops, and galleries. The restoration has been done to a high standard: the historic architecture is genuine, and the commercial development is tasteful by Chinese urban standards.
@@ -72,6 +76,8 @@ Foshan has several Wing Chun schools that offer classes and demonstrations:
 - Various schools in the old martial arts district near the Ancestral Temple
 
 **Bruce Lee's ancestral village (李小龙祖居):** In Junhe Village, Shunde District (顺德区均禾镇), about 20km south of central Foshan. The house where Bruce Lee's grandfather lived is preserved as a small museum. Entry ¥10. Note: this is genuinely remote and not well-served by public transport — hire a car or join a tour.
+
+![Foshan — Foshan's Ceramics Market](https://images.pexels.com/photos/34148068/pexels-photo-34148068.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Foshan's Ceramics Market
 

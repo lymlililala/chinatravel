@@ -1,6 +1,7 @@
 ---
 title: "Quanzhou: China's Maritime Silk Road Starting Point — Travel Guide 2026"
 description: "Discover Quanzhou, Fujian — a UNESCO World Heritage city and ancient hub of global maritime trade. Mosques, Hindu temples, Buddhist relics, and a multicultural history unlike anywhere else in China."
+ogImage: "https://images.pexels.com/photos/38109113/pexels-photo-38109113.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/quanzhou-maritime.jpg"
 category: "destinations"
@@ -16,6 +17,8 @@ This extraordinary global commerce left a unique cultural legacy: Quanzhou retai
 
 The city received UNESCO World Heritage designation in 2021 for its role as "Quanzhou: Emporium of the World in Song-Yuan China," recognizing 22 heritage sites across the city.
 
+![Quanzhou — Historical Context](https://images.pexels.com/photos/33457680/pexels-photo-33457680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Historical Context
 
 The maritime Silk Road flourished when overland routes through Central Asia were disrupted. Arab, Persian, Indian, and Southeast Asian merchants settled in Quanzhou from approximately the 7th century CE onward. The Song dynasty court — pragmatic and commercially sophisticated — taxed this trade heavily rather than restricting it, generating enormous revenue.
@@ -23,6 +26,8 @@ The maritime Silk Road flourished when overland routes through Central Asia were
 By the Song and Yuan dynasties, Quanzhou had a substantial permanent foreign population. Arab merchants ran their own quarter (the "Arabic Mosque Street," now reconstructed). Persian traders brought Zoroastrian fire rituals. Indian merchants maintained Hindu temples. Nestorian Christians from Syria worshipped in their own church.
 
 Marco Polo visited "Zaitun" (the Arabic name for Quanzhou) in 1292 and described a city of extraordinary commercial activity. Ibn Battuta visited in 1346 and commented on the quality of the Chinese porcelain (Quanzhou's hinterland produced the Dehua porcelain that was one of China's most important export commodities).
+
+![Quanzhou — The Heritage Sites](https://images.pexels.com/photos/29541057/pexels-photo-29541057.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Heritage Sites
 
@@ -69,6 +74,8 @@ The construction technique — using oyster colonies to cement the stone piers t
 Quanzhou is the ancestral home of a significant portion of the global Chinese diaspora — particularly in Southeast Asia, where Hokkien (Min Nan Chinese, the language of Fujian) speakers from Quanzhou and the surrounding area form the backbone of Chinese communities in the Philippines, Malaysia, Singapore, and Indonesia.
 
 The museum documents this emigration history, with artifacts, photographs, and family records tracing Quanzhou's contribution to the global Chinese diaspora.
+
+![Quanzhou — Food Culture in Quanzhou](https://images.pexels.com/photos/32303589/pexels-photo-32303589.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Food Culture in Quanzhou
 

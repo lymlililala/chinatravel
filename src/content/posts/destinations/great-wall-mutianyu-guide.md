@@ -19,11 +19,14 @@ tags:
   - destinations
   - history
 description: "Everything about visiting Mutianyu Great Wall — how to get there independently (much cheaper than tours), which towers to hike to for the best views, the famous toboggan descent, best time to visit in each season, and why Mutianyu is better than Badaling for most visitors."
+ogImage: "https://images.pexels.com/photos/33899285/pexels-photo-33899285.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Mutianyu (慕田峪) is the Great Wall section that most experienced China visitors recommend over the more famous Badaling. Both sections are fully restored and accessible, but Mutianyu has more attractive scenery, better hiking variety, the famous toboggan descent, and fewer tour-bus crowds.
 
 The combination of cable car up and toboggan (metal sled track) down makes it the most family-friendly Great Wall experience — but the ridgeline walk and the extended hike east to Jiankou section are the best experiences for visitors wanting more depth.
+
+![Mutianyu Great Wall — Getting There Independently](https://images.pexels.com/photos/32885186/pexels-photo-32885186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting There Independently
 
@@ -36,6 +39,8 @@ The combination of cable car up and toboggan (metal sled track) down makes it th
 **Tour bus from Beijing**: Buses from Wangfujing or Dongzhimen depart at 8–8:30am. Cost: ¥60–80 per person each way.
 
 **Avoid unmarked "tour vans" outside subway stations or near tourist sites** — these are the source of many scam experiences.
+
+![Mutianyu Great Wall — At the Wall: What to Do](https://images.pexels.com/photos/34439088/pexels-photo-34439088.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## At the Wall: What to Do
 
@@ -60,6 +65,8 @@ The accessible restored section runs from Tower 6 (cable car arrival) westward t
 The toboggan — a metal sled on a stainless steel track running down the mountain — is genuinely fun and one of the more surreal Great Wall experiences. The sled has a hand-brake; you control your speed. Faster riders are clearly a source of great amusement to the slower riders (and vice versa). ¥60 down.
 
 **Note**: The toboggan is one-way down only. Buy a cable car UP ticket separately.
+
+![Mutianyu Great Wall — Seasonal Considerations](https://images.pexels.com/photos/7759090/pexels-photo-7759090.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Seasonal Considerations
 

@@ -12,7 +12,7 @@ tags:
   - tibetan-buddhism
   - monastery
 description: "Xiahe and Labrang Monastery in Gansu Province offer one of China's most immersive Tibetan Buddhist experiences outside Tibet. This 2026 guide covers monastery visiting etiquette, the kora prayer wheel circuit, Sangke Grassland day trips, festival timing, and how to reach this remote but extraordinary destination in the Gannan Tibetan area."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/34481255/pexels-photo-34481255.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -20,6 +20,8 @@ ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=
 There's a version of Labrang Monastery that shows up in travel magazines — monks in crimson robes walking past whitewashed walls at golden hour, prayer wheels spinning in the early morning mist. I'm glad to report it's real. Labrang (拉卜楞寺) is genuinely one of the most impressive Buddhist institutions I've encountered anywhere in China, and the surrounding town of Xiahe gives the visit a depth and authenticity that you don't get at tourist-packaged religious sites.
 
 Xiahe sits at 2,920 meters in the Daxia River valley, about 260km southwest of Lanzhou. It's technically in Gansu Province but culturally and ethnically it belongs to the Tibetan world. The majority of local people are Tibetan, and the town exists essentially because of the monastery — everything here, from the Tibetan-style architecture to the nomadic culture of the surrounding grasslands, orbits around Labrang.
+
+![Xiahe Labrang Monastery Gansu — Labrang Monastery (拉卜楞寺)](https://images.pexels.com/photos/5014993/pexels-photo-5014993.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Labrang Monastery (拉卜楞寺)
 
@@ -58,6 +60,8 @@ The monastery area has traditional Tibetan architecture with carved wooden windo
 
 ### Shopping
 The monastery area has souvenir stalls selling Tibetan religious items — many are genuinely made locally rather than mass-produced. Prayer flags, thangka paintings (simple ones from ¥50, detailed painted ones from ¥500+), prayer wheels (¥30–200), and traditional Tibetan jewelry. Don't bargain aggressively at religious item stalls.
+
+![Xiahe Labrang Monastery Gansu — Sangke Grassland (桑科草原)](https://images.pexels.com/photos/6144757/pexels-photo-6144757.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Sangke Grassland (桑科草原)
 

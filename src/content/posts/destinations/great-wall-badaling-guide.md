@@ -12,6 +12,7 @@ tags:
   - day trip
   - UNESCO heritage
 description: "The ultimate guide to visiting the Great Wall of China — best sections for first-timers, how to avoid the crowds, transportation from Beijing, tickets, and insider tips from thousands of local travelers."
+ogImage: "https://images.pexels.com/photos/19031655/pexels-photo-19031655.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Standing on the Great Wall as the morning light creeps over the ridgeline and mist fills the valleys below, it becomes immediately clear why this is one of the world's defining travel experiences. This is not merely a tourist attraction — it is an encounter with 2,000 years of human ambition, engineering, and history.
@@ -19,6 +20,8 @@ Standing on the Great Wall as the morning light creeps over the ridgeline and mi
 The wall stretches over 21,000 kilometres across northern China. For visitors based in Beijing, the closest and most accessible sections are within 75–120 km of the city. Here is everything you need to know to plan a genuinely excellent Great Wall visit.
 
 ## Table of contents
+
+![Great Wall China — Which Section Should You Visit?](https://images.pexels.com/photos/7883792/pexels-photo-7883792.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Which Section Should You Visit?
 
@@ -80,6 +83,8 @@ The advantage is door-to-door convenience. The disadvantage is fixed schedules a
 
 A private hire car from central Beijing to Badaling costs approximately ¥200–¥300 one way and takes 60–90 minutes depending on traffic. Useful for early morning departures when public transport is limited.
 
+![Great Wall China — Tickets & Booking](https://images.pexels.com/photos/4568193/pexels-photo-4568193.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Tickets & Booking
 
 ### Badaling Tickets
@@ -123,6 +128,8 @@ Sun protection is essential: sunscreen, a hat, and sunglasses. There is minimal 
 **Winter:** Cold but atmospheric. Snow-covered wall sections are extraordinarily beautiful and there are very few other visitors. Dress extremely warmly.
 
 **Avoid:** The Golden Week holiday periods — early October (National Day) and late April/early May (Labour Day). Crowds reach extraordinary levels.
+
+![Great Wall China — The "Good Han" Certificate](https://images.pexels.com/photos/8524942/pexels-photo-8524942.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The "Good Han" Certificate
 

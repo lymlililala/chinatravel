@@ -12,6 +12,7 @@ tags:
   - desert
   - UNESCO heritage
 description: "Complete guide to Dunhuang and the Mogao Caves — the world's greatest Buddhist art site on the ancient Silk Road, with Crescent Moon Lake, Singing Sand Dunes, and practical visiting tips."
+ogImage: "https://images.pexels.com/photos/33412586/pexels-photo-33412586.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 For a thousand years, the oasis city of Dunhuang was one of the most important stopping points on the Silk Road. Merchants, diplomats, monks, and pilgrims from China, Central Asia, India, and the Mediterranean crossed paths here before and after the vast deserts to the west. They left behind an extraordinary legacy: 492 cave temples carved into a cliff face, containing 45,000 square metres of murals and more than 2,000 painted clay sculptures spanning 1,000 years of Buddhist art.
@@ -19,6 +20,8 @@ For a thousand years, the oasis city of Dunhuang was one of the most important s
 Today, Dunhuang is also surrounded by one of China's most dramatic desert landscapes: 250-metre singing sand dunes, a natural freshwater lake that has persisted in the desert for millennia, and uninterrupted views of the Gobi sky.
 
 ## Table of contents
+
+![Dunhuang & Mogao Caves — The Mogao Caves (莫高窟): The World's Greatest Buddhist Art Site](https://images.pexels.com/photos/32142489/pexels-photo-32142489.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Mogao Caves (莫高窟): The World's Greatest Buddhist Art Site
 
@@ -96,6 +99,8 @@ The lake's persistence through millennia of desert conditions is considered mira
 
 ---
 
+![Dunhuang & Mogao Caves — Other Dunhuang Attractions](https://images.unsplash.com/photo-1729581514945-ef3f32fe2e7e?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxPdGhlciUyMER1bmh1YW5nJTIwQXR0cmFjdGlvbnN8ZW58MHwwfHx8MTc4MTgzOTIzM3ww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
+
 ## Other Dunhuang Attractions
 
 ### Western Thousand Buddha Caves (西千佛洞)
@@ -132,6 +137,8 @@ The most vibrant evening option in Dunhuang city. Dozens of stalls serve:
 - From Xi'an to Liuyuan: 5 hours
 
 **By overnight train:** Several overnight trains connect Dunhuang directly. The sleeper train from Lanzhou takes 8 hours and is comfortable.
+
+![Dunhuang & Mogao Caves — When to Visit](https://images.unsplash.com/photo-1729581514945-ef3f32fe2e7e?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHx2aXNpdCUyMGR1bmh1YW5nfGVufDB8MHx8fDE3ODE4MzkyMzZ8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## When to Visit
 

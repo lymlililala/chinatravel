@@ -10,7 +10,7 @@ tags:
   - itinerary
   - east-china
 description: "A 7-day Fujian itinerary — two days in Xiamen and Gulangyu Island, a day trip to the Fujian Tulou earthen roundhouses (Yongding or Nanjing county), the Quanzhou Maritime Silk Road Museum, and two days hiking and drinking tea in the Wuyi Mountain nature reserve."
-ogImage: "https://images.unsplash.com/photo-1513407030348-c983a97b98d8?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/35268679/pexels-photo-35268679.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Fujian sits across from Taiwan and looks toward Southeast Asia — its population has historically been seafarers, traders, and emigrants. The Hokkien dialect spoken here is still the dominant language of overseas Chinese communities across Malaysia, Singapore, Indonesia, and the Philippines. This maritime history shows in the province's architecture, cuisine, and character.
@@ -18,6 +18,8 @@ Fujian sits across from Taiwan and looks toward Southeast Asia — its populatio
 Seven days covers Fujian's four distinct destinations: the European-influenced island of Gulangyu, the extraordinary Hakka earthen roundhouses of the Tulou country, the Silk Road port city of Quanzhou, and the dramatic tea mountains of Wuyi.
 
 ## Table of contents
+
+![Fujian — Getting There & Around](https://images.unsplash.com/photo-1646912951442-7a2bc5e8cd06?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw1fHwlMjYlMjBBcm91bmR8ZW58MHwwfHx8MTc4MTgzOTI0OXww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## Getting There & Around
 
@@ -61,6 +63,8 @@ The island is famously musical — there's a piano museum (¥50) and an unusuall
 
 ---
 
+![Fujian — Day 3: Fujian Tulou Day Trip](https://images.pexels.com/photos/34334654/pexels-photo-34334654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Day 3: Fujian Tulou Day Trip
 
 **Tulou** (土楼) are massive circular and square earthen fortresses built by the Hakka people — some housing hundreds of people from a single clan, some built as late as the 20th century. The UNESCO-listed Fujian Tulou clusters are spread across Nanjing (南靖) and Yongding (永定) counties.
@@ -102,6 +106,8 @@ If visiting Nanjing County as a day trip from Xiamen, taxi costs and the ¥90 co
 The surrounding **Old City** (鲤城区) has a remarkably high density of religious sites in a small area: in addition to the mosque, you'll find the **Guan Di Temple** (Taoist), the **Tianhou Palace** (sea goddess temple), and a historic Buddhist monastery all within walking distance. Quanzhou's religious pluralism was a direct product of its international trade history.
 
 ---
+
+![Fujian — Days 5-6: Wuyi Mountain](https://images.pexels.com/photos/34722277/pexels-photo-34722277.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Days 5-6: Wuyi Mountain
 

@@ -13,7 +13,7 @@ tags:
   - history
   - desert
 description: "Jiayuguan marks the dramatic western terminus of the Ming Great Wall in Gansu's Hexi Corridor. This 2026 guide covers the Jiayuguan Fort (¥120), Overhanging Great Wall, First Beacon Tower, Gobi desert landscapes, Silk Road history, local food, and how to combine with Dunhuang and Zhangye."
-ogImage: "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/35370409/pexels-photo-35370409.png?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -21,6 +21,8 @@ ogImage: "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=1200&q=85"
 For centuries, Jiayuguan was the edge of the known world — or at least the edge of Chinese imperial territory. The fort here, completed in 1372 during the Ming dynasty, marked the western limit of the Great Wall: beyond it lay the Gobi Desert, the Silk Road, and territories that were fluid, contested, or simply "beyond the passes." The name Tianxia Diyi Xiong Guan — "First Pass Under Heaven" — tells you everything about how Ming China regarded this place.
 
 Today, Jiayuguan is a medium-sized industrial city (steel production is the main employer) surrounded by a landscape of extraordinary drama: the Qilian Mountains to the south dusted with snow, the Black Mountains to the north, and the flat Gobi extending in every direction. The historical sites are world-class, the city itself is manageable and honest about what it is, and the combination of Great Wall, Silk Road atmosphere, and genuine remoteness makes it one of China's more satisfying historical travel experiences.
+
+![Jiayuguan Gansu — The Jiayuguan Fort Complex](https://images.pexels.com/photos/30255501/pexels-photo-30255501.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Jiayuguan Fort Complex
 
@@ -52,6 +54,8 @@ The surrounding area has been developed into a scenic park with viewing platform
 
 Included in the ¥120 combined ticket. Allow 1–2 hours.
 
+![Jiayuguan Gansu — Jiayuguan Museum and Great Wall Cultural Centre](https://images.pexels.com/photos/17615498/pexels-photo-17615498.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Jiayuguan Museum and Great Wall Cultural Centre
 
 A large modern museum complex in the city covers the history of the Hexi Corridor from prehistoric times through the Silk Road period and into the present. It's well-curated by Chinese museum standards, with good English labelling in the main permanent galleries. The Great Wall section is particularly strong, with architectural models, excavated artifacts, and documentation of the construction techniques.
@@ -69,6 +73,8 @@ Ticket: ¥31. The site is best reached by taxi (¥30–40 from the city centre) 
 Jiayuguan's significance extends beyond the wall itself. For the entire period of the Silk Road (roughly 200 BCE to 1400 CE), the Hexi Corridor — the narrow strip of habitable land between the Qilian Mountains and the Gobi — was the primary route for trade and cultural exchange between China and Central Asia, the Middle East, and ultimately Europe. Jiayuguan controlled the narrowest and most strategically critical point of this corridor.
 
 Evidence of this history is everywhere: the coins, silks, papers and goods in the museum; the cosmopolitan figures in the Wei-Jin tomb paintings; the place names in the surrounding area (towns named for Sogdian traders who settled here in the Tang dynasty). This context transforms what might otherwise seem like a collection of historical buildings into something much richer — a physical encounter with global history.
+
+![Jiayuguan Gansu — Getting to Jiayuguan](https://images.unsplash.com/photo-1730768772726-a6fc6d725888?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxKaWF5dWd1YW58ZW58MHwwfHx8MTc4MTgzOTI5Mnww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## Getting to Jiayuguan
 

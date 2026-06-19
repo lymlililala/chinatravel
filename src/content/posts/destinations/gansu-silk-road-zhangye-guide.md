@@ -12,12 +12,14 @@ tags:
   - northwest
   - history
 description: "Gansu Province is the spine of China's ancient Silk Road — the Hexi Corridor connecting China to Central Asia, dotted with frontier fortresses, Buddhist cave art, and the world's most colourful geological formations."
-ogImage: "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=900&q=80"
+ogImage: "https://images.pexels.com/photos/33610277/pexels-photo-33610277.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Gansu Province forms a narrow 1,600km corridor between the Tibetan Plateau and the Mongolian steppe — China's ancient Silk Road gateway. Every major civilisation to interact with China passed through here.
 
 ## Table of contents
+
+![Gansu Silk Road — Zhangye (张掖) — Rainbow Mountains](https://images.pexels.com/photos/37193108/pexels-photo-37193108.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Zhangye (张掖) — Rainbow Mountains
 
@@ -51,6 +53,8 @@ The actual westernmost point of the wall — a crumbling beacon tower on the des
 
 ---
 
+![Gansu Silk Road — Dunhuang (敦煌) — Silk Road Oasis](https://images.unsplash.com/photo-1729581514945-ef3f32fe2e7e?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwyfHxEdW5odWFuZ3xlbnwwfDB8fHwxNzgxODM5MzE1fDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
+
 ## Dunhuang (敦煌) — Silk Road Oasis
 
 For comprehensive Dunhuang coverage (Mogao Caves, Singing Sand Dunes, Crescent Moon Lake), see the dedicated 14-Day Silk Road Itinerary.
@@ -72,6 +76,8 @@ The **Maiji Grottoes** are less famous than Dunhuang's Mogao but arguably more a
 **Access:** High-speed train from Xi'an to Tianshui (3 hours, ¥100)
 
 ---
+
+![Gansu Silk Road — Lanzhou (兰州) — Noodle City](https://images.unsplash.com/photo-1642690753369-9dc5b460479d?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxMYW56aG91fGVufDB8MHx8fDE3ODE4MzkzMTd8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## Lanzhou (兰州) — Noodle City
 

@@ -10,11 +10,14 @@ tags:
   - culture
   - destinations
 description: "Everything you need to know about visiting the Fujian Tulou — UNESCO World Heritage Hakka earth buildings. Best tulou clusters (Nanjing vs Yongding), how to stay overnight inside a tulou, what to eat, and how to get there without a tour."
+ogImage: "https://images.pexels.com/photos/35268681/pexels-photo-35268681.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 The tulou (土楼, "earth buildings") of Fujian are among China's most architecturally extraordinary structures: circular or rectangular fortress-mansions built from rammed earth, housing entire Hakka clans for centuries. The largest can accommodate 600+ people in a self-contained community with wells, ancestral halls, and grain stores within the walls. Since their UNESCO World Heritage designation in 2008, they've become one of southern China's most rewarding destinations — but visiting them correctly requires knowing which clusters to go to and how to do it beyond the coach-tour experience.
 
 ## Table of contents
+
+![Fujian Tulou — Understanding Tulou Architecture](https://images.pexels.com/photos/35268678/pexels-photo-35268678.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Understanding Tulou Architecture
 
@@ -35,6 +38,8 @@ As relative newcomers, Hakka communities built defensively: thick earthen walls 
 **Lifespan**: well-maintained tulou last 500+ years. The oldest verified tulou date from the Ming Dynasty (15th century); the most recently built functional examples date from the 1970s.
 
 ---
+
+![Fujian Tulou — The Best Tulou Clusters](https://images.pexels.com/photos/34236800/pexels-photo-34236800.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Best Tulou Clusters
 
@@ -69,6 +74,8 @@ As relative newcomers, Hakka communities built defensively: thick earthen walls 
 Most independent travellers prefer Nanjing for its better photography conditions and slightly less commercial atmosphere.
 
 ---
+
+![Fujian Tulou — Sleeping Inside a Tulou](https://images.pexels.com/photos/4321702/pexels-photo-4321702.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Sleeping Inside a Tulou
 

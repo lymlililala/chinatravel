@@ -11,7 +11,7 @@ tags:
   - silk-road
   - northwest-china
 description: "A 7-day Gansu Silk Road itinerary — arriving in Lanzhou (Beef Noodle capital), taking the Hexi Corridor route by train to Zhangye's Rainbow Mountains, Jiayuguan fortress (the western end of the Great Wall), and Dunhuang's Mogao Caves and Crescent Moon Lake. Booking tickets, accommodation options."
-ogImage: "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/18851744/pexels-photo-18851744.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 The Hexi Corridor (河西走廊) is the geographical bottleneck through which the Silk Road passed — a 1,000km strip of land between the Tibetan Plateau to the south and the Gobi Desert to the north. For 2,000 years, every merchant, soldier, monk, and ambassador traveling between China and Central Asia walked this route. The landscape is starkly beautiful: red sandstone mesas, sand dunes, snow mountains, and ancient fortress walls.
@@ -19,6 +19,8 @@ The Hexi Corridor (河西走廊) is the geographical bottleneck through which th
 Seven days is tight for the full corridor but covers the essential highlights efficiently by using high-speed rail. The Lanzhou-Xinjiang HSR (兰新高铁) makes what used to be a two-day journey into one-day connections.
 
 ## Table of contents
+
+![on Gansu Silk Road — Getting There & Logistics](https://images.pexels.com/photos/27831374/pexels-photo-27831374.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting There & Logistics
 
@@ -50,6 +52,8 @@ The **Yellow River** (黄河) runs through Lanzhou — the city is the only Chin
 **Bingling Caves** (炳灵寺, ¥75) are 80km from Lanzhou on the upper reaches of the Yellow River — 694 caves cut into a 60m-high river cliff, with Buddhist carvings dating from the Western Qin Dynasty (4th century). Getting there requires a boat across Liujiaxia Reservoir (¥55 return, 2 hours). The caves are partly underground and dimly lit — bring a flashlight. Allow a full day.
 
 ---
+
+![on Gansu Silk Road — Day 3: Zhangye — Rainbow Mountains](https://images.pexels.com/photos/27170287/pexels-photo-27170287.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day 3: Zhangye — Rainbow Mountains
 
@@ -84,6 +88,8 @@ They are real. The colors vary throughout the day — the best light is 30-60 mi
 **Accommodation in Jiayuguan:** Multiple mid-range hotels near the train station. Book ahead — the city is small and visitor numbers are high in peak season.
 
 ---
+
+![on Gansu Silk Road — Days 5-6: Dunhuang](https://images.pexels.com/photos/25525739/pexels-photo-25525739.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Days 5-6: Dunhuang
 

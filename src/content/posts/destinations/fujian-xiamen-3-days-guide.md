@@ -12,7 +12,7 @@ tags:
   - gulangyu
   - seafood
 description: "Xiamen is the most livable city on China's southeastern coast — a small island city of piano houses, colonial architecture, and exceptional seafood. This 2026 three-day itinerary covers the car-free Gulangyu Island, South Putuo Temple, the seaside university campus, the best local oysters, and where to watch the sunset from Huandao Road. Includes practical tips for first-time visitors."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/37714927/pexels-photo-37714927.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -20,6 +20,8 @@ ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=
 Xiamen (厦门) has a quality that's difficult to pin down but immediately felt: it's a Chinese city that feels like it has time for you. The island location, the colonial architecture, the pedestrian-friendly old neighborhoods, and the obsessive local focus on food create an atmosphere that's more relaxed and more beautiful than most Chinese cities of similar population.
 
 The three days below balance the famous Gulangyu Island experience with the less-touristed parts of Xiamen that give the city its actual character.
+
+![Xiamen — Day 1: Gulangyu Island](https://images.pexels.com/photos/37714926/pexels-photo-37714926.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day 1: Gulangyu Island
 
@@ -68,6 +70,8 @@ Return to Xiamen by ferry. Walk along **Zhongshan Road (中山路)**, Xiamen's t
 - **Oyster vermicelli (海蛎煎)**: Thin rice vermicelli with fresh oysters and fermented black bean sauce
 - **Peanut soup (花生汤)**: Thick sweet peanut soup with glutinous rice balls. A Minnan dessert essential.
 
+![Xiamen — Day 2: Xiamen Island Highlights — South Putuo Temple and Xiamen University](https://images.pexels.com/photos/26100564/pexels-photo-26100564.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Day 2: Xiamen Island Highlights — South Putuo Temple and Xiamen University
 
 ### Morning: South Putuo Temple (南普陀寺) (8:30–11:00am)
@@ -108,6 +112,8 @@ Any of the beaches along the south coast of the island gives excellent sunset vi
 **Recommended**: Huandao Road Guanyinshan area, 6–7pm depending on season. The famous viewing point for "Xiamen characters in the sunset" (厦门字图案).
 
 **Dinner**: The Zengcuo'an area has excellent dinner restaurants serving contemporary Fujian food alongside more casual local options.
+
+![Xiamen — Day 3: Local Xiamen — Siming Old Town, Tulou Day Trip Option](https://images.pexels.com/photos/36818773/pexels-photo-36818773.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day 3: Local Xiamen — Siming Old Town, Tulou Day Trip Option
 

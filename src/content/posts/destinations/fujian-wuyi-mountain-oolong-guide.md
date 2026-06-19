@@ -1,6 +1,7 @@
 ---
 title: "Wuyi Mountain Fujian: Rock Oolong Tea, Nine-Bend River & UNESCO Scenery"
 description: "Explore Wuyi Mountain in Fujian — birthplace of famous Da Hong Pao and other rock oolong teas, bamboo raft trips on the Nine-Bend River, ancient Taoist heritage, and stunning sandstone peak scenery in one of China's most distinctive UNESCO World Heritage landscapes."
+ogImage: "https://images.pexels.com/photos/6876400/pexels-photo-6876400.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Fujian"
 tags: ["fujian", "wuyi-mountain", "oolong-tea", "da-hong-pao", "nine-bend-river", "bamboo-raft", "wuyi-rock-tea", "UNESCO"]
@@ -13,6 +14,8 @@ In a landscape of red sandstone peaks and clear rushing rivers, one of China's m
 The mountains are simultaneously a **UNESCO World Heritage Site** (inscribed 1999 for both natural and cultural values), a Taoist sacred site with a 2,000-year ritual history, and a recreational destination centred on a spectacular **nine-bend river bamboo raft experience**.
 
 ---
+
+![Wuyi Mountain Fujian — The Nine-Bend River (九曲溪)](https://images.pexels.com/photos/1061134/pexels-photo-1061134.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Nine-Bend River (九曲溪)
 
@@ -29,6 +32,8 @@ The river takes its name from its nine distinct bends through the sandstone gorg
 - **Best time:** Morning trips have fewer crowds; the river is typically clearest after rain.
 
 ---
+
+![Wuyi Mountain Fujian — Wuyi Rock Oolong Tea](https://images.pexels.com/photos/6545351/pexels-photo-6545351.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Wuyi Rock Oolong Tea
 
@@ -62,6 +67,8 @@ The scenic area and town of Wuyishan City have hundreds of tea shops. Most offer
 **A budget approach:** Buy from a shop affiliated with a specific farm/production cooperative, ask to taste before buying, and compare at least three shops before committing.
 
 ---
+
+![Wuyi Mountain Fujian — Key Sights Within the Scenic Area](https://images.unsplash.com/photo-1663646207588-6076adc8df57?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxLZXklMjBTaWdodHMlMjBXaXRoaW4lMjBTY2VuaWMlMjBBcmVhfGVufDB8MHx8fDE3ODE4MzkyNjl8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## Key Sights Within the Scenic Area
 

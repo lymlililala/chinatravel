@@ -12,12 +12,14 @@ tags:
   - silk-road
   - northwest-china
 description: "Accommodation in Dunhuang — city centre hotels (practical for transport, most affordable), the sand dune resort zone (spectacular location facing Mingsha sand dunes, ¥600-2000/night in peak summer), the Mogao Cave area guesthouses (early access to the caves before tour groups), and the new Dunhuang Museum area boutiques. Booking window for July-August."
-ogImage: "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/33412587/pexels-photo-33412587.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Dunhuang sits at the edge of the Gobi Desert in Gansu Province, where the Silk Road split into northern and southern routes around the Taklimakan. The city's two defining features — the **Mogao Caves** (莫高窟), with 1,000 years of Buddhist cave art, and **Mingsha Mountain** (鸣沙山), the enormous singing sand dunes — are in opposite directions from the city centre. Your accommodation choice should be based on which experience you prioritise and how you're managing the extreme summer heat (July and August in Dunhuang regularly exceed 40°C).
 
 ## Table of contents
+
+![Stay Dunhuang — The Four Accommodation Zones](https://images.pexels.com/photos/12139695/pexels-photo-12139695.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Four Accommodation Zones
 
@@ -71,6 +73,8 @@ This is Dunhuang's emerging premium zone. Several design hotels here represent t
 
 **Why consider this zone:** The museum area is quieter than the city centre but equally convenient for both major sites. The boutique properties have pools (essential in Dunhuang summer) and better restaurant options.
 
+![Stay Dunhuang — The July-August Booking Window Problem](https://images.pexels.com/photos/26609941/pexels-photo-26609941.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The July-August Booking Window Problem
 
 Dunhuang's peak tourist season is **July and August**, when domestic families travel on summer holidays and the combination of Mingsha dunes and Mogao Caves draws large crowds. During these months:
@@ -83,6 +87,8 @@ Dunhuang's peak tourist season is **July and August**, when domestic families tr
 **The booking priority:** 1) Mogao Caves tickets (mogaoku.net, online in advance). 2) Accommodation. 3) Everything else.
 
 **Shoulder season is excellent:** May, June (early), September, and October have good weather, fewer crowds, and much more reasonable prices. May and September are particularly good — pleasant temperatures (25-35°C rather than 40°C+), clear visibility, and still enough visitors that services are all operating.
+
+![Stay Dunhuang — What Dunhuang's Best Accommodation Looks Like](https://images.pexels.com/photos/25974825/pexels-photo-25974825.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## What Dunhuang's Best Accommodation Looks Like
 

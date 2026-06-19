@@ -12,6 +12,7 @@ tags:
   - history
   - UNESCO heritage
 description: "Everything you need to visit the Forbidden City in Beijing — booking tickets online, the best route through the palace, hidden halls most visitors miss, and tips from frequent visitors."
+ogImage: "https://images.pexels.com/photos/10578447/pexels-photo-10578447.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 The Forbidden City is, by almost any measure, the most impressive historic building in Asia. 9,999 rooms across a 72-hectare walled compound; the home of 24 emperors spanning the Ming and Qing dynasties from 1420 to 1912; today the world's most visited museum with over 17 million annual visitors.
@@ -19,6 +20,8 @@ The Forbidden City is, by almost any measure, the most impressive historic build
 First-time visitors often walk the main north-south axis and feel they've "done it." They've experienced perhaps 20% of what the Forbidden City contains. This guide is designed to help you explore far more.
 
 ## Table of contents
+
+![Forbidden City (Palace Museum) Beijing — Before You Go: Booking Tickets (Essential)](https://images.pexels.com/photos/9466387/pexels-photo-9466387.png?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Before You Go: Booking Tickets (Essential)
 
@@ -40,6 +43,8 @@ The Forbidden City sells strictly limited tickets online only — no tickets are
 **Metro:** Take Line 1 to **Tiananmen East** or **Tiananmen West** stations. The main entrance (Meridian Gate / 午门) faces south onto Tiananmen Square — exit the metro and walk north.
 
 **Note:** The Forbidden City opens at 8:30 AM. Arrive by 8:15 AM to queue at the ticket scanning gate and enter early.
+
+![Forbidden City (Palace Museum) Beijing — Layout: Understanding What You're Seeing](https://images.pexels.com/photos/7642124/pexels-photo-7642124.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Layout: Understanding What You're Seeing
 
@@ -90,6 +95,8 @@ The primary bedroom palace of the Ming emperors, and in the Qing Dynasty, the ma
 ### Imperial Garden (御花园)
 
 The Forbidden City's surprisingly intimate garden occupies the northern section. Ancient cypress trees over 500 years old, ornamental rocks, pavilions, and seasonal flowers create a peaceful contrast to the vast ceremonial spaces. Visit early morning when it is quietest.
+
+![Forbidden City (Palace Museum) Beijing — Hidden Gems: What Most Visitors Miss](https://images.pexels.com/photos/16141675/pexels-photo-16141675.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Hidden Gems: What Most Visitors Miss
 

@@ -15,6 +15,8 @@ ogImage: "https://images.unsplash.com/photo-1506929568602-7d88b7639e7d?w=1200&q=
 
 ## Table of contents
 
+![Maoming Guangdong — Why Maoming Deserves Your Attention](https://images.pexels.com/photos/4036764/pexels-photo-4036764.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Why Maoming Deserves Your Attention
 
 Ask most Chinese travellers about Guangdong and they will name Guangzhou, Shenzhen, or maybe Foshan. Maoming (茂名) rarely comes up, and that is exactly its appeal. Sitting on Guangdong's southwestern coast about 350 km from Guangzhou, this city of 6 million operates at a pace that feels closer to a county town than a major prefecture. The skyscraper density drops sharply. The streets are wider. People sit outside tea houses in plastic stools at 10 AM on a Tuesday, seemingly without a care in the world.
@@ -56,6 +58,8 @@ At the summit (elevation 648 m), you get a panoramic view stretching from the Di
 
 At the mountain's base, a series of sea caves is accessible at low tide. The largest, called Dragon Palace Cave (龙宫洞), extends about 50 metres into the cliff. You will need a flashlight (phone torch works) and shoes with good grip — the rocks are slippery. Check tide tables at the entrance gate; the caves are dangerous at high tide. No additional fee beyond the mountain entry.
 
+![Maoming Guangdong — Maoming's Beach Coast](https://images.pexels.com/photos/188014/pexels-photo-188014.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Maoming's Beach Coast
 
 ### China First Beach (Dianbai)
@@ -87,6 +91,8 @@ Maoming's modern identity is inseparable from oil. The city sits atop one of Chi
 Exhibits cover the history of oil shale mining in China, the technical processes of refining, and the social history of the workers who built Maoming from scratch. The most compelling section documents the 1950s and 60s, when thousands of engineers and labourers arrived in this remote coastal area to establish China's independence from foreign oil. It is industrial heritage tourism at its most genuine.
 
 Outside the museum, the towering distillation columns and flame stacks of the active refinery create an oddly compelling skyline, especially at dusk when the gas flares light up against the darkening sky.
+
+![Maoming Guangdong — The Seafood Scene](https://images.pexels.com/photos/17989747/pexels-photo-17989747.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Seafood Scene
 

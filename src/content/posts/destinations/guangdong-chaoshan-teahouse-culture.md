@@ -1,12 +1,15 @@
 ---
 title: "Chaoshan Tea Culture Guide: The Most Serious Tea Drinkers in China"
 description: "Guide to Chaoshan (Chaozhou-Shantou) tea culture in Guangdong — the gongfu tea ceremony in its natural habitat, the best tea houses, Dancong oolong varieties, and why Chaoshan people drink tea more intensely than anywhere else."
+ogImage: "https://images.pexels.com/photos/8952049/pexels-photo-8952049.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Chaoshan", "Chaozhou tea", "gongfu tea ceremony", "Dancong oolong", "Guangdong tea culture", "Chinese tea"]
 ---
 
 If you want to understand why the Chinese tea ceremony exists, go to Chaoshan. The Chaoshan region — the historically distinct cultural area encompassing Chaozhou (潮州) and Shantou (汕头) in eastern Guangdong Province — has a tea-drinking culture so intensive and specific that the rest of China treats it as a separate category. The "gongfu cha" (功夫茶, "skill tea") ceremony that has been adopted across China originated here, and Chaoshan people drink their Dancong oolong with a seriousness and frequency that borders on the ritualistic.
+
+![Chaoshan Tea Culture — Why Tea Is Different Here](https://images.pexels.com/photos/7078101/pexels-photo-7078101.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Why Tea Is Different Here
 
@@ -31,6 +34,8 @@ The Chaoshan version of gongfu tea differs from the Taiwan or Fujian versions in
 8. Repeat. Immediately. A good Dancong can be infused 10–15 times with variable character at each stage
 
 **The social choreography**: In traditional Chaoshan tea service, the host manages the ceremony; guests do nothing except receive and drink. Refusing a cup is a social offense. The rhythm of offer, receive, drink, refill creates an intimate social framework that sustains conversation over hours.
+
+![Chaoshan Tea Culture — Dancong Oolong (单丛乌龙)](https://images.pexels.com/photos/8952243/pexels-photo-8952243.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Dancong Oolong (单丛乌龙)
 
@@ -60,6 +65,8 @@ A larger modern city; the tea culture is expressed more in family and private se
 
 ### Ordering at Any Chaoshan Restaurant
 At any Chaoshan-run restaurant (you'll find them throughout Guangdong, in Hong Kong and in Southeast Asian Overseas Chinese communities), tea is automatic. The gongfu set arrives at the table before the menu. This is the natural habitat of the ceremony.
+
+![Chaoshan Tea Culture — Chaoshan Cuisine Connection](https://images.pexels.com/photos/30018448/pexels-photo-30018448.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Chaoshan Cuisine Connection
 

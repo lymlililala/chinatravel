@@ -1,6 +1,7 @@
 ---
 title: "Maiji Mountain Grottoes Guide: Gansu's Cliffside Buddhist Sculptures"
 description: "Explore the Maiji Mountain Grottoes in Gansu — the fourth of China's Four Great Grottoes, with extraordinary clay and sandstone Buddhist sculptures from the Northern Wei through Song dynasties, carved into vertiginous cliffside galleries connected by ancient wooden scaffolding walkways."
+ogImage: "https://images.pexels.com/photos/11105693/pexels-photo-11105693.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Gansu"
 tags: ["gansu", "maiji-mountain", "grottoes", "buddhist-sculpture", "silk-road", "tianshui", "clay-sculpture", "cave-art", "UNESCO"]
@@ -13,6 +14,8 @@ The shape of the mountain explains its name: **Maiji (麦积)** means "wheat sta
 Unlike the Mogao Caves at Dunhuang (flat cliff, linear arrangement), Maiji's caves are carved into a **vertical face** and connected by a network of ancient wooden walkways and scaffolding staircases that zigzag across the rock. Visiting Maiji means climbing these platforms, peering into cave interiors, and looking out across a landscape of green mountains — the atmosphere is dramatically different from any other Buddhist grotto site in China.
 
 ---
+
+![Maiji Mountain Grottoes — Why Maiji Stands Apart](https://images.pexels.com/photos/37579575/pexels-photo-37579575.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Why Maiji Stands Apart
 
@@ -27,6 +30,8 @@ This medium produces a different aesthetic result: the Maiji figures are more ro
 The setting at the base of the wheat-stack cone — surrounded by bamboo and pine forest, with a stream running through the valley floor — is among the most beautiful of any Chinese heritage site. Many visitors arrive expecting to rush through the caves and leave; many end up spending longer than planned simply sitting by the stream.
 
 ---
+
+![Maiji Mountain Grottoes — The Historical Phases](https://images.pexels.com/photos/38098072/pexels-photo-38098072.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Historical Phases
 
@@ -55,6 +60,8 @@ Tang-period figures at Maiji represent the mature synthesis of Indian Buddhist f
 Later additions reflect the Sinicization of Buddhist iconography — figures increasingly resemble Chinese court officials and aristocratic women; the divine remoteness of the Northern Wei has given way to familial warmth.
 
 ---
+
+![Maiji Mountain Grottoes — The Scaffold Walkways](https://images.pexels.com/photos/15766744/pexels-photo-15766744.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Scaffold Walkways
 

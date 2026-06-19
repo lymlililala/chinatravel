@@ -13,7 +13,7 @@ tags:
   - hiking
   - UNESCO
 description: "Wuyi Mountain in northern Fujian is a double UNESCO designation — World Heritage Site for both its extraordinary biodiversity and its cultural landscape of ancient Taoist cliffs, Song Dynasty academy ruins and the birthplace of many of China's most prized oolong teas including Da Hong Pao. This 2026 guide covers rafting, hiking, tea culture, transport from Xiamen and Fuzhou, and where to stay."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/17702427/pexels-photo-17702427.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -21,6 +21,8 @@ ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=
 The mountains north of Fujian occupy a particular place in Chinese cultural geography. They're not China's highest or most dramatic peaks — the maximum elevation is just 2,158 metres — but their combination of striking red sandstone gorges, ancient Taoist tradition, Neo-Confucian philosophy and the cultivation of some of the world's most valued teas has given Wuyi Mountain a cultural weight that far exceeds its modest altitude.
 
 Walking the ridge paths here, you're following routes taken by scholar-officials of the Song and Ming Dynasties who came to study, meditate and discuss the nature of the universe. Coming down from the mountains on the famous bamboo raft, you float past cliff niches where mysterious coffins — placed there by an ancient civilization over 3,000 years ago — are still visible. This is a place dense with time.
+
+![Wuyi Mountain Fujian — Understanding the UNESCO Designation](https://images.pexels.com/photos/28469395/pexels-photo-28469395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Understanding the UNESCO Designation
 
@@ -85,6 +87,8 @@ Many tea farms and production workshops in the area offer tastings. The **Wuyi M
 
 Several farms around the village of **Tongmu Guan** (桐木关) — a protected nature reserve in the inner mountains — offer overnight stays and farm experience including picking (when in season, April–May), firing and rolling. These typically cost ¥300–¥500/night ($42–$70) per person including meals and tea activities. Book months ahead for the spring picking season.
 
+![Wuyi Mountain Fujian — Getting to Wuyi Mountain](https://images.pexels.com/photos/16004928/pexels-photo-16004928.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Getting to Wuyi Mountain
 
 ### From Xiamen
@@ -118,6 +122,8 @@ High-speed rail via Fuzhou or Xiamen, total approximately 3.5–4.5 hours.
 **Upscale (¥800+ / $112+):** **Club Med Wuyi** (Joyview brand) offers the most polished resort experience. **Wuyi Mountain Shenhe Resort** is also well-regarded.
 
 **Tea farm homestays:** As mentioned above — the most immersive option for serious tea enthusiasts.
+
+![Wuyi Mountain Fujian — Best Time to Visit](https://images.pexels.com/photos/29903855/pexels-photo-29903855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Best Time to Visit
 

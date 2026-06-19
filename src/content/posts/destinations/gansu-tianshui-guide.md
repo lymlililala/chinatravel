@@ -12,7 +12,7 @@ tags:
   - silk-road
   - buddhism
 description: "Tianshui in southeastern Gansu is home to the Maiji Mountain Grottoes, one of China's four great Buddhist cave art sites — 194 caves carved into a cliff face shaped like a haystack, containing 7,200 sculptures and 1,300 square meters of murals spanning 1,600 years. This guide covers the grottoes in detail, Tianshui's other historical sites, the Wei River valley landscape, and how to get there from Xi'an or Lanzhou."
-ogImage: "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/6085086/pexels-photo-6085086.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Tianshui (天水) occupies the Wei River valley at the boundary between the Loess Plateau and the Qinling-Daba Mountain complex, at the southeastern edge of Gansu Province. It's the wettest and greenest city in otherwise arid Gansu, and for centuries it was a key node on the Silk Road — a crossing point between the dry northwest and the agricultural heartland of the Wei River basin.
@@ -73,6 +73,8 @@ Several caves at Maiji are only accessible through a separately booked specialis
 **Photography:**
 External photography of the cliff face and walkways is unrestricted. Interior cave photography is permitted in most caves with a standard ticket; no flash. The premium caves typically allow no photography.
 
+![Tianshui Gansu — Tianshui Old City (天水古城)](https://images.pexels.com/photos/15255678/pexels-photo-15255678.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Tianshui Old City (天水古城)
 
 The old Qinzhou district of Tianshui has preserved a more complete historic fabric than many Chinese cities of comparable size. The main pedestrian heritage street (伏羲路 and surrounding lanes) retains Ming and Qing-era courtyard architecture.
@@ -96,6 +98,8 @@ The Wei River (渭河) originates in the mountains above Tianshui and flows east
 
 **Tianshui Peach Blossom Festival (天水桃花节):**
 Held in March or early April, the festival celebrates the peach blossom season that transforms the hillsides around the city. Several villages in the valley organize blossom walks and local food fairs. This is one of the more genuine spring blossom events in northwestern China — not artificially managed like some blossom tourism events, but a natural phenomenon of the local landscape.
+
+![Tianshui Gansu — Day Trips from Tianshui](https://images.pexels.com/photos/3250079/pexels-photo-3250079.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day Trips from Tianshui
 

@@ -12,7 +12,7 @@ tags:
   - crescent-lake
   - silk-road
 description: "Crescent Lake and the Singing Sand Dunes at Mingsha Shan are among the most iconic natural scenes in China — a perfect crescent of water nested at the base of rolling golden dunes that 'sing' in the wind. This 2026 guide covers visiting Mingsha Shan, the best activities, combining with the Mogao Caves, transport from Jiayuguan and Lanzhou, accommodation and essential practical tips."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/28448930/pexels-photo-28448930.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -20,6 +20,8 @@ ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=
 The image is so perfectly composed it looks artificial: an emerald-green crescent lake, perfectly curved, sitting at the base of massive sand dunes the colour of old gold. The dunes rise 250 metres above the lake surface. The lake has sat there unchanged — documented in Chinese historical records for two thousand years — despite the surrounding sand. It shouldn't exist. But it does.
 
 Dunhuang's Crescent Lake (月牙泉) and Singing Sand Dunes (鸣沙山) are the most visually dramatic natural attraction on China's Silk Road. Combined with the nearby Mogao Caves — one of the world's greatest repositories of Buddhist art — they make Dunhuang one of China's most essential single-destination experiences.
+
+![Dunhuang Crescent Lake & Singing Sand Dunes — Mingsha Shan — Singing Sand Dunes (鸣沙山)](https://images.pexels.com/photos/9383499/pexels-photo-9383499.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Mingsha Shan — Singing Sand Dunes (鸣沙山)
 
@@ -79,6 +81,8 @@ Given the length of the Mogao Caves experience, we cover it in full in a separat
 
 **Best approach:** Combine Mogao (morning) + Mingsha Shan sunset (afternoon-evening) as a single day in Dunhuang. Two full days covers both properly.
 
+![Dunhuang Crescent Lake & Singing Sand Dunes — Getting to Dunhuang](https://images.unsplash.com/photo-1729581514945-ef3f32fe2e7e?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxEdW5odWFuZyUyMGdhbnN1fGVufDB8MHx8fDE3ODE4MzkyODR8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
+
 ## Getting to Dunhuang
 
 ### From Jiayuguan (End of the Great Wall)
@@ -129,6 +133,8 @@ Dunhuang has a compact but well-developed tourism hospitality sector.
 **Summer (July–August):** The most popular season despite the heat (35–40°C at noon). Spectacular sunsets; the dunes are at their most dramatic in summer afternoon light. Avoid midday outdoor activities.
 
 **Winter (November–March):** Cold (-10 to 5°C) but the dunes are quiet and hauntingly beautiful. The lake can develop ice at its edges. Flights are less frequent.
+
+![Dunhuang Crescent Lake & Singing Sand Dunes — Shazhou Night Market (沙州夜市)](https://images.pexels.com/photos/30828640/pexels-photo-30828640.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Shazhou Night Market (沙州夜市)
 

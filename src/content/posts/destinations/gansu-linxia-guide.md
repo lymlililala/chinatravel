@@ -15,6 +15,8 @@ ogImage: "https://images.unsplash.com/photo-1564769625905-133e4e4a6810?w=1200&q=
 
 ## Table of contents
 
+![Linxia Gansu — Why Linxia Surprises Every Visitor](https://images.pexels.com/photos/11022633/pexels-photo-11022633.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Why Linxia Surprises Every Visitor
 
 Linxia (临夏) does not show up on most China travel itineraries, and that is precisely what makes it worth visiting. Tucked into a river valley along the ancient Silk Road's southern branch in Gansu Province, this mid-sized city of around 400,000 is the cultural and spiritual heart of China's Hui Muslim community. The call to prayer echoes across neighbourhoods where Arabic script adorns shopfronts alongside Chinese characters. Men in white skullcaps gather at tea houses after Friday prayers. The smell of cumin-dusted lamb and freshly baked flatbread drifts from countless small kitchens.
@@ -55,6 +57,8 @@ Linxia's mosque landscape is staggeringly diverse. Within walking distance of Ba
 
 Set aside half a day to wander between these mosques. The walk itself — through narrow lanes lined with halal butchers, spice shops, and tea houses — is as rewarding as the destinations.
 
+![Linxia Gansu — The Art of Linxia Brick Carving](https://images.pexels.com/photos/35133297/pexels-photo-35133297.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The Art of Linxia Brick Carving
 
 ### A Living Tradition
@@ -91,6 +95,8 @@ Linxia's food scene alone justifies the trip. As a Hui city operating under hala
 - **Bafang Snack Street** (八坊美食街): A pedestrian lane near the Grand Mosque lined with small restaurants and stalls. Everything is halal. Budget ¥30–60 for a full meal.
 - **Ma Zhanlin Hand-Grabbed Lamb** (马占林手抓羊肉): The most famous lamb restaurant in town. Arrive before noon or expect to wait. ¥80–120 per person.
 - **Morning market along Tuanjie Road**: The best place for breakfast. Try the beef noodle soup at any stall with a long queue — the locals know.
+
+![Linxia Gansu — Day Trips from Linxia](https://images.pexels.com/photos/6872842/pexels-photo-6872842.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day Trips from Linxia
 
