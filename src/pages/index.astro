@@ -240,41 +240,104 @@ const bentoDests = [
 const featuredHero = featuredPosts[0];
 const featuredSidebar = featuredPosts.slice(1, 4);
 
-// Thumbnail helper function for magazine cards
+// Thumbnail helper function for magazine cards.
+// 缩略图取自 public/destinations/*.jpg（本地静态图）。映射覆盖目的地 tag + 主题 tag，
+// 并遍历文章所有 tag 找首个命中；都不中时按文章 id 在图池里做「确定性」分配，
+// 避免大量文章都退回同一张默认图而在首页撞图。
 const thumbMap: Record<string, string> = {
-  beijing:   "/destinations/beijing.jpg",
-  shanghai:  "/destinations/shanghai.jpg",
-  xian:      "/destinations/xian.jpg",
-  chengdu:   "/destinations/chengdu.jpg",
-  guilin:    "/destinations/guilin.jpg",
-  visa:      "/destinations/beijing.jpg",
-  transport: "/destinations/shanghai.jpg",
-  food:      "/destinations/chengdu.jpg",
-  harbin:    "/destinations/harbin.jpg",
-  yunnan:    "/destinations/yunnan.jpg",
+  // 城市 / 目的地
+  beijing: "/destinations/beijing.jpg", shanghai: "/destinations/shanghai.jpg",
+  xian: "/destinations/xian.jpg", chengdu: "/destinations/chengdu.jpg",
+  guilin: "/destinations/guilin.jpg", chongqing: "/destinations/chongqing.jpg",
+  guangzhou: "/destinations/guangzhou.jpg", nanjing: "/destinations/nanjing.jpg",
+  hangzhou: "/destinations/hangzhou.jpg", suzhou: "/destinations/suzhou.jpg",
+  harbin: "/destinations/harbin.jpg", dalian: "/destinations/dalian.jpg",
+  qingdao: "/destinations/qingdao.jpg", tianjin: "/destinations/tianjin.jpg",
+  wuhan: "/destinations/wuhan.jpg", fuzhou: "/destinations/fuzhou.jpg",
+  luoyang: "/destinations/luoyang.jpg", pingyao: "/destinations/pingyao.jpg",
+  dunhuang: "/destinations/dunhuang.jpg", kashgar: "/destinations/kashgar.jpg",
+  lijiang: "/destinations/lijiang.jpg", dali: "/destinations/dali.jpg",
+  fenghuang: "/destinations/fenghuang.jpg", macau: "/destinations/macau.jpg",
+  gulangyu: "/destinations/gulangyu.jpg",
+  // 省 / 区域
+  yunnan: "/destinations/yunnan.jpg", tibet: "/destinations/tibet.jpg",
+  xinjiang: "/destinations/xinjiang.jpg", guizhou: "/destinations/guizhou.jpg",
+  qinghai: "/destinations/qinghai.jpg", hainan: "/destinations/hainan.jpg",
+  anhui: "/destinations/anhui.jpg", jiangxi: "/destinations/jiangxi.jpg",
+  sichuan: "/destinations/chengdu.jpg", gansu: "/destinations/dunhuang.jpg",
+  jiangsu: "/destinations/nanjing.jpg", zhejiang: "/destinations/hangzhou.jpg",
+  fujian: "/destinations/fuzhou.jpg", henan: "/destinations/luoyang.jpg",
+  shaanxi: "/destinations/xian.jpg", guangdong: "/destinations/guangzhou.jpg",
+  changbai: "/destinations/changbai.jpg", chaoshan: "/destinations/chaoshan.jpg",
+  xishuangbanna: "/destinations/xishuangbanna.jpg", jiuzhaigou: "/destinations/jiuzhaigou.jpg",
+  zhangjiajie: "/destinations/zhangjiajie.jpg", huangshan: "/destinations/huangshan.jpg",
+  xidi: "/destinations/xidi.jpg",
+  // 主题 tag → 代表图
+  visa: "/destinations/beijing.jpg", transport: "/destinations/shanghai.jpg",
+  food: "/destinations/chengdu.jpg", nature: "/destinations/zhangjiajie.jpg",
+  hiking: "/destinations/huangshan.jpg", history: "/destinations/xian.jpg",
+  culture: "/destinations/pingyao.jpg", "silk-road": "/destinations/dunhuang.jpg",
+  buddhism: "/destinations/dunhuang.jpg", coastal: "/destinations/qingdao.jpg",
+  desert: "/destinations/dunhuang.jpg", urban: "/destinations/shanghai.jpg",
+  "minority-cultures": "/destinations/guizhou.jpg",
 };
-const thumbMapSm: Record<string, string> = {
-  beijing:   "/destinations/beijing.jpg",
-  shanghai:  "/destinations/shanghai.jpg",
-  xian:      "/destinations/xian.jpg",
-  chengdu:   "/destinations/chengdu.jpg",
-  visa:      "/destinations/beijing.jpg",
-  transport: "/destinations/shanghai.jpg",
-  food:      "/destinations/chengdu.jpg",
-  guilin:    "/destinations/guilin.jpg",
-};
+// 小图与大图共用同一张映射表
+const thumbMapSm = thumbMap;
+// 兜底图池（无 tag 命中时按文章 id 确定性挑一张，避免全撞同一张默认图）
+const fallbackPool = [
+  "/destinations/zhangjiajie.jpg", "/destinations/jiuzhaigou.jpg", "/destinations/guilin.jpg",
+  "/destinations/huangshan.jpg", "/destinations/yunnan.jpg", "/destinations/xian.jpg",
+  "/destinations/chengdu.jpg", "/destinations/shanghai.jpg", "/destinations/dunhuang.jpg",
+  "/destinations/qinghai.jpg",
+];
 const defaultThumb = "/destinations/zhangjiajie.jpg";
 const defaultThumbSm = "/destinations/jiuzhaigou.jpg";
 
-function getPostThumb(tags: string[] | undefined, large = true): string {
-  const tag = (tags?.[0] ?? "").toLowerCase().replace(/[^a-z]/g, "");
-  return large ? (thumbMap[tag] ?? defaultThumb) : (thumbMapSm[tag] ?? defaultThumbSm);
+function hashId(s: string): number {
+  let h = 0;
+  for (let i = 0; i < s.length; i++) h = (h * 31 + s.charCodeAt(i)) >>> 0;
+  return h;
 }
 
-// Pre-compute magazine thumbnails
-const featuredHeroThumb = featuredHero ? getPostThumb(featuredHero.data.tags, true) : defaultThumb;
-const featuredSidebarThumbs = featuredSidebar.map(p => getPostThumb(p.data.tags, false));
-const recentSidebarThumbs = recentPosts.slice(0, 3).map(p => getPostThumb(p.data.tags, false));
+function getPostThumb(tags: string[] | undefined, large = true, id = ""): string {
+  const map = large ? thumbMap : thumbMapSm;
+  for (const raw of tags ?? []) {
+    const tag = String(raw).toLowerCase().replace(/[^a-z]/g, "");
+    if (map[tag]) return map[tag];
+  }
+  // 无 tag 命中：按 id 在图池里确定性分配（同一文章固定一张，不同文章尽量错开）
+  if (id) return fallbackPool[hashId(id) % fallbackPool.length];
+  return large ? defaultThumb : defaultThumbSm;
+}
+
+// 全部本地缩略图（去重用：撞图时从这里挑一张未占用的，保证同屏卡片不重复）
+const ALL_THUMBS = [...new Set([...Object.values(thumbMap), ...fallbackPool])];
+
+// 给一组文章分配缩略图，并保证组内不重复：首选 tag 映射，撞了就按 id 顺延到未用过的图。
+function assignUniqueThumbs(
+  list: { data: { tags?: string[] }; id: string }[],
+  large = true,
+  used: Set<string> = new Set()
+): string[] {
+  return list.map(p => {
+    let pick = getPostThumb(p.data.tags, large, p.id);
+    if (used.has(pick)) {
+      const start = hashId(p.id) % ALL_THUMBS.length;
+      for (let i = 0; i < ALL_THUMBS.length; i++) {
+        const cand = ALL_THUMBS[(start + i) % ALL_THUMBS.length];
+        if (!used.has(cand)) { pick = cand; break; }
+      }
+    }
+    used.add(pick);
+    return pick;
+  });
+}
+
+// Pre-compute magazine thumbnails —— hero 与侧栏、近期卡片整体去重，避免同屏撞图
+const usedThumbs = new Set<string>();
+const featuredHeroThumb = featuredHero ? assignUniqueThumbs([featuredHero], true, usedThumbs)[0] : defaultThumb;
+const featuredSidebarThumbs = assignUniqueThumbs(featuredSidebar, false, usedThumbs);
+const recentSidebarThumbs = assignUniqueThumbs(recentPosts.slice(0, 3), false, usedThumbs);
 
 // Post URL helper
 function getSimplePostUrl(id: string): string {
