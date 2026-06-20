@@ -13,7 +13,7 @@ tags:
   - dai-culture
   - nature
 description: "Xishuangbanna in southern Yunnan is China's only tropical rainforest region — a place of wild elephants, Buddhist temples in golden spires, Dai minority food culture and a river border with Myanmar and Laos. This 2026 guide covers the Wild Elephant Valley, Jinghong city, border town Mengla, transport from Kunming, the Dai Water Splashing Festival and practical tips for this unique corner of southwest China."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.unsplash.com/photo-1772100124638-4cc57969ef26?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxYaXNodWFuZ2Jhbm5hJTIwWXVubmFufGVufDB8MHx8fDE3ODE5MzczMDh8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
 ---
 
 ## Table of contents

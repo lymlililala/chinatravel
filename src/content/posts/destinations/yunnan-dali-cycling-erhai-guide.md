@@ -12,7 +12,7 @@ tags:
   - cycling
   - bai-culture
 description: "Cycling around Erhai Lake in Dali, Yunnan is one of China's best bicycle journeys — a 120km circuit around a high-altitude lake with the Cangshan Mountains on one side, clear water and fishing villages on the other, and Bai minority culture woven through every stop. This 2026 guide covers the full circuit route, best villages, where to stay mid-journey, and all practical cycling logistics."
-ogImage: "https://images.pexels.com/photos/33970874/pexels-photo-33970874.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.pexels.com/photos/36535753/pexels-photo-36535753.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

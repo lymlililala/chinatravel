@@ -12,7 +12,7 @@ tags:
   - history
   - mythology
 description: "Penglai in northern Shandong is one of China's mythical 'three fairy islands' — a place where immortals supposedly dwell and where the boundary between the earthly and supernatural has long been thin. This 2026 guide covers the famous Penglai Pavilion fortress, the Fairy Island resort coast, nearby wine country, transport connections from Qingdao and Yantai, ticket prices and practical travel tips."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/17538311/pexels-photo-17538311.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

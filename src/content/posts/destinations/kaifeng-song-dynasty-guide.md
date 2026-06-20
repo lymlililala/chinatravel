@@ -12,7 +12,7 @@ tags:
   - culture
   - central-china
 description: "Kaifeng — the Song Dynasty capital (960-1127 AD), one of the world's most prosperous cities of the medieval era. The Iron Pagoda (铁塔), Judge Bao's Qingming Garden (a reconstruction of the famous Song Dynasty painting), the Dragon Pavilion Park, and the extraordinarily lively night market that has made Kaifeng famous in China for street food."
-ogImage: "https://images.pexels.com/photos/5305562/pexels-photo-5305562.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.pexels.com/photos/37519014/pexels-photo-37519014.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 In 1000 AD, Kaifeng was probably the largest city in the world. As capital of the Northern Song Dynasty, it had a population estimated at over one million, sophisticated commercial streets, licensed entertainment districts, and the kind of urban density that wouldn't appear in Europe for another 700 years. The famous scroll painting "Along the River During the Qingming Festival" (清明上河图) — showing Kaifeng's harbour district during a spring festival — is one of the great documentary records of medieval urban life anywhere.

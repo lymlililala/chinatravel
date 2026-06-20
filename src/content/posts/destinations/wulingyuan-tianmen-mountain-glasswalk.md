@@ -1,7 +1,7 @@
 ---
 title: "Tianmen Mountain Glass Walkway and Cable Car: Complete Visitor Guide"
 description: "Everything you need to know about visiting Tianmen Mountain (天门山) in Zhangjiajie. The world's longest cable car, the glass-bottom skywalk, Heaven's Gate cave, and how to plan your visit."
-ogImage: "https://images.pexels.com/photos/34902901/pexels-photo-34902901.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.pexels.com/photos/25000728/pexels-photo-25000728.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Tianmen Mountain", "Zhangjiajie", "glass walkway", "cable car", "Hunan tourism", "China adventure travel"]

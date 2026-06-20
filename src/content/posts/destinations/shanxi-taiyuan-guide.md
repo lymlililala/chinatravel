@@ -12,7 +12,7 @@ tags:
   - history
   - culture
 description: "Taiyuan is the capital of Shanxi province — China's most coal-rich and historically underrated region. The city anchors visits to the magnificent Jinci Temple complex, serves as the gateway to Pingyao, Wutai Mountain and the Yungang Caves, and has a surprisingly lively food and culture scene built around centuries of merchant wealth. This 2026 guide covers city highlights, transport, accommodation and day trip logistics."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/35551538/pexels-photo-35551538.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

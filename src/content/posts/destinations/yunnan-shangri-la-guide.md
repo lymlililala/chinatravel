@@ -12,7 +12,7 @@ tags:
   - monastery
   - nature
 description: "Shangri-La (formerly Zhongdian) in northwestern Yunnan is China's most accessible Tibetan cultural destination — a high-altitude town at 3,300m where Tibetan monasteries, yak butter tea houses, and genuine highland culture coexist with comfortable tourism infrastructure. This 2026 complete guide covers Songzanlin Monastery, Napa Lake, the old town, and realistic tips for planning your visit."
-ogImage: "https://images.pexels.com/photos/8936981/pexels-photo-8936981.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.pexels.com/photos/1060267/pexels-photo-1060267.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

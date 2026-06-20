@@ -10,7 +10,7 @@ tags:
   - nature
   - day-trip
 description: "Qiandao Lake (Thousand Island Lake) in Zhejiang — the crystal clear reservoir with 1,078 forested islands, how to do it as a day trip from Hangzhou or Shanghai, the sunken underwater city mystery, and why this underrated lake deserves more attention."
-ogImage: "https://images.pexels.com/photos/17754422/pexels-photo-17754422.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.pexels.com/photos/3650339/pexels-photo-3650339.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Qiandao Lake (千岛湖, Thousand Island Lake) is an artificial reservoir created by the Xin'an Jiang dam in 1959 — when the valley was flooded, 29 towns and 1,000+ villages were submerged, creating a 573 sq km lake with 1,078 forested islands rising from the clear water.

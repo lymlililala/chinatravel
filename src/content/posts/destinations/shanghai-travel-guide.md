@@ -20,7 +20,7 @@ tags:
   - food
   - culture
 description: "Plan your Shanghai trip with our complete guide — the Bund, Pudong skyline, Yu Garden, French Concession, local food, nightlife, and day trip ideas."
-ogImage: "https://images.pexels.com/photos/19852129/pexels-photo-19852129.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.pexels.com/photos/417289/pexels-photo-417289.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Shanghai is China's most cosmopolitan city — a place where Art Deco mansions face 600-metre glass towers across the Huangpu River, where dumplings cost ¥10 in a lane behind a Michelin-starred restaurant serving the same filling for ¥200, and where the city reinvents itself so fast that guide books are outdated before they are printed.

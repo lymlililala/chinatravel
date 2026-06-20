@@ -12,7 +12,7 @@ tags:
   - nature
   - tea-horse-road
 description: "Ya'an sits at the junction of the Sichuan Basin and the Tibetan Plateau — a city of extraordinary rainfall, wild giant pandas, the ancient Tea Horse Road trade route and some of Sichuan's most dramatic scenery. This 2026 guide covers the Bifengxia Panda Base, the Erlang Mountain road, Shangri-La Corridor, local food and transport from Chengdu."
-ogImage: "https://images.pexels.com/photos/10672908/pexels-photo-10672908.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.unsplash.com/photo-1764332688812-f6ac09a687bb?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwyfHxZYSUyNyUyMFNpY2h1YW58ZW58MHwwfHx8MTc4MTkzNzMwMXww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
 ---
 
 ## Table of contents

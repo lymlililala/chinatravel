@@ -1,7 +1,7 @@
 ---
 title: "Kangding Love Song Town: Gateway to Tibetan Sichuan"
 description: "Discover Kangding (Dartsedo) — the historic trading town between Han and Tibetan worlds, famous for the beloved folk song Kangding Love Song, the Muya Snow Mountain backdrop, Tibetan temples, and its role as gateway to the spectacular Garze Tibetan Autonomous Prefecture."
-ogImage: "https://images.pexels.com/photos/15969586/pexels-photo-15969586.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.pexels.com/photos/36535031/pexels-photo-36535031.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Sichuan"
 tags: ["sichuan", "kangding", "tibetan", "garze", "folk-song", "muya-snow-mountain", "gatekeep", "sichuan-tibet-highway"]

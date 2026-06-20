@@ -12,7 +12,7 @@ tags:
   - temples
   - southwest
 description: "The complete guide to visiting Tibet — permit requirements, Lhasa's sacred Potala Palace and Jokhang Temple, the turquoise expanse of Namtso Lake, and the road to Everest Base Camp."
-ogImage: "https://images.unsplash.com/photo-1599137258505-8871bd07cbbb?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwyfHxUaWJldHxlbnwwfDB8fHwxNzgxOTIyMjc2fDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
+ogImage: "https://images.pexels.com/photos/34652882/pexels-photo-34652882.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Tibet sits on the world's highest plateau — the "Roof of the World" — at an average elevation of 4,500 metres. It's one of the most spiritually charged and visually overwhelming destinations on Earth, and visiting it requires more planning than almost anywhere else in China.

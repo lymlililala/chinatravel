@@ -12,7 +12,7 @@ tags:
   - red-tourism
   - ancient-civilization
 description: "Explore Linyi, one of Shandong's most historically layered cities, where the Yimeng Mountain revolution base meets ancient bamboo strip manuscripts that rewrote Chinese history, and where natural scenery from underground caves to mountain peaks offers surprising variety. This 2026 guide covers the Yimeng Mountain revolutionary sites, the extraordinary Silver Sparrow Mountain Han Tomb bamboo strips, Meng Mountain scenic area, underground gallery caves, local Shandong cuisine, and practical advice for visiting this multifaceted corner of Shandong."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/15839349/pexels-photo-15839349.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

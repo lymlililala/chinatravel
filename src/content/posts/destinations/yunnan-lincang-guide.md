@@ -12,7 +12,7 @@ tags:
   - border-region
   - minority-culture
 description: "Lincang in southwestern Yunnan is home to the world's oldest cultivated tea trees, a remarkable ethnic diversity of Wa, De'ang, Lahu, and Dai peoples, and a border region with Myanmar that most travelers never reach. This guide covers the ancient tea forests of Zhenyuan and Mengku, the Wa tribal areas, practical transport, and why Lincang deserves more attention than it gets."
-ogImage: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/34486996/pexels-photo-34486996.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Lincang Prefecture (临沧) sits in southwestern Yunnan, wedged between the Salween River to the west and the mountains of central Yunnan to the east, with a long border with Myanmar in the southwest. It produces more tea than any other prefecture in China, contains some of the oldest tea trees in the world (including a single tree in Xiaowan township estimated to be over 3,200 years old), and is home to eight officially recognized ethnic minority groups — among them the Wa, whose traditional culture includes some of the most visually striking festivals in China.

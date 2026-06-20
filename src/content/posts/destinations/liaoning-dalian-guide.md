@@ -12,7 +12,7 @@ tags:
   - seafood
   - beach
 description: "Dalian is northeastern China's cosmopolitan coastal city — European-style squares built by Russian and Japanese colonial administrators, excellent seafood from the Yellow Sea, and sandy beaches that attract summer visitors from across northern China. This 2026 complete guide covers the city's unique colonial architecture, top beaches, seafood restaurants, the best day trips, and practical logistics for visiting China's most livable northern city."
-ogImage: "https://images.pexels.com/photos/17557991/pexels-photo-17557991.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.pexels.com/photos/13921061/pexels-photo-13921061.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

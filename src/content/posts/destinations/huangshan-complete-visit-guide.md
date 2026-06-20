@@ -12,7 +12,7 @@ tags:
   - photography
   - china
 description: "Huangshan (Yellow Mountain) in Anhui province is China's most revered mountain landscape — granite peaks emerging from pine forests and seas of cloud, painted by Chinese artists for a thousand years. This practical guide covers the cable cars, hiking routes, staying overnight for sunrise, and what to bring for a 1–2 day visit."
-ogImage: "https://images.pexels.com/photos/31582902/pexels-photo-31582902.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.pexels.com/photos/6294699/pexels-photo-6294699.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Huangshan (黄山, Yellow Mountain) is China's most painted, most photographed, and most visited mountain — not because it's the highest (its peak, Lotus Flower Peak, is 1,864m) but because the combination of its weathered granite peaks, ancient pine trees clinging to impossible positions on cliff edges, and habitual cloud sea below the summits has made it the visual archetype of Chinese mountain landscape art.

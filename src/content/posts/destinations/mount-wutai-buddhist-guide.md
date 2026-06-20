@@ -12,7 +12,7 @@ tags:
   - hiking
   - north-china
 description: "Mount Wutai (五台山) in Shanxi — the sacred mountain of Manjushri Bodhisattva (文殊菩萨) with over 50 monasteries, one of China's four Buddhist sacred mountains. The key temples, the Tibetan monastery (Tayuan Si), high altitude walking circuits, the colourful prayer flag valley, and practical logistics including permit requirements and the best season."
-ogImage: "https://images.pexels.com/photos/29712653/pexels-photo-29712653.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.pexels.com/photos/2032108/pexels-photo-2032108.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Mount Wutai (五台山, "Five Terrace Mountain") is the sacred mountain of Manjushri Bodhisattva, the embodiment of wisdom in Mahayana Buddhism. The five flat-topped peaks of the mountain give it its name, and the valley between them — Taihuai (台怀) — is home to more than 50 active monasteries ranging from Tang Dynasty foundations to modern Tibetan-style temples decorated in vivid colours.

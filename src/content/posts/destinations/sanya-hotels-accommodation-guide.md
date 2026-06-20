@@ -11,7 +11,7 @@ tags:
   - accommodation
   - beach
 description: "Sanya accommodation by beach — Yalong Bay (luxury resort zone, the Ritz-Carlton and St Regis territory, ¥1500+/night), Dadonghai (mid-range and budget, family-friendly, real restaurants nearby, ¥300-800), Sanya Bay (cheapest, long beach, less touristy). The all-inclusive vs independent question, and how peak season (Dec-Feb) doubles prices."
-ogImage: "https://images.pexels.com/photos/12736036/pexels-photo-12736036.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.pexels.com/photos/13318776/pexels-photo-13318776.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Sanya is the Chinese mainland's tropical beach escape — the resort city on Hainan Island's southern coast that serves as a domestic alternative to Thailand or Bali for Chinese families and couples. The city has three distinct beach areas, each with a very different character and price range. Choosing between them shapes the entire trip. The price swings are dramatic by season: a room that costs ¥400 in June might cost ¥1,200 in January when northern China is frozen and Sanya is flooded with domestic tourists.

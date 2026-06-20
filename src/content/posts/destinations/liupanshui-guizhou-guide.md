@@ -11,7 +11,7 @@ tags:
   - minority-cultures
   - nature
 description: "The Huangguoshu Waterfall (黄果树瀑布) area and the surrounding Buyi (布依族) minority villages in Guizhou — the Huangguoshu Falls (the largest waterfall in China at 77m wide), the water curtain cave behind the falls, Buyi stone-built villages like Shitou Village, and the Silong Gorge walking route through the Huangguoshu scenic area."
-ogImage: "https://images.pexels.com/photos/8776831/pexels-photo-8776831.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.pexels.com/photos/25309274/pexels-photo-25309274.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Guizhou province in southwest China is still underappreciated as a travel destination, though this is changing rapidly. The province is defined by its karst topography — a vast landscape of limestone plateaux, river gorges, waterfalls, and cave systems — and by its extraordinary diversity of ethnic minority cultures: Miao, Buyi, Dong, and dozens of smaller groups who have maintained distinct languages, dress, and customs.

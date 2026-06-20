@@ -11,7 +11,7 @@ tags:
   - coastal
   - east-china
 description: "Xiamen (厦门) — the most liveable city in China by multiple surveys, on the Fujian coast facing Taiwan. Gulangyu Island's piano culture and European architecture, the Nanputuo Temple, Xiamen's extraordinary specialty coffee culture (the city has the highest density of specialty cafes in China), the university district, and taking the ferry to see Taiwan's Kinmen Island from a distance."
-ogImage: "https://images.pexels.com/photos/37714927/pexels-photo-37714927.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.pexels.com/photos/5999487/pexels-photo-5999487.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Xiamen consistently ranks at or near the top of Chinese cities for liveability, and visiting it reveals why. The city sits on a peninsula (and several islands) on the Fujian coast, facing Taiwan across the Strait. The weather is warm almost year-round, the city is clean and well-maintained, the seafood is excellent, and there's a cosmopolitan, outward-looking character that traces back to centuries of maritime trade with Southeast Asia and beyond.

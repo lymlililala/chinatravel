@@ -1,7 +1,7 @@
 ---
 title: "Luoyang White Horse Temple Guide: China's First Buddhist Temple (2026)"
 description: "Complete guide to visiting Baima Si (White Horse Temple) in Luoyang — the first official Buddhist temple in China, founded 68 AD. History, architecture, international temple gardens, practical visit info and peony festival timing."
-ogImage: "https://images.pexels.com/photos/11648438/pexels-photo-11648438.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.pexels.com/photos/33493905/pexels-photo-33493905.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Luoyang", "White Horse Temple", "Baima Si", "Buddhist temple China", "Henan tourism", "ancient China", "peony festival"]

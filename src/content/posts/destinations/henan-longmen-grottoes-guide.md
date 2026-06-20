@@ -1,7 +1,7 @@
 ---
 title: "Longmen Grottoes Guide: Luoyang's Buddhist Masterpiece & Giant Vairocana Buddha"
 description: "Explore the Longmen Grottoes near Luoyang — one of China's greatest Buddhist cave complexes, featuring the magnificent 17-metre Vairocana Buddha, over 100,000 carved figures spanning 400 years of Tang dynasty Buddhist art, and the Yi River canyon setting that makes it unique among China's Four Great Grottoes."
-ogImage: "https://images.pexels.com/photos/11105693/pexels-photo-11105693.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.pexels.com/photos/34509182/pexels-photo-34509182.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Henan"
 tags: ["henan", "luoyang", "longmen-grottoes", "buddhist-art", "tang-dynasty", "vairocana-buddha", "UNESCO", "cave-temples", "sculpture"]

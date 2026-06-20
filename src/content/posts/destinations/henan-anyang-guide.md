@@ -12,7 +12,7 @@ tags:
   - yin-ruins
   - shang-dynasty
 description: "Journey to Anyang, the cradle of Chinese written civilisation where oracle bones bearing the earliest known Chinese characters were discovered, and where the ruins of the Shang Dynasty capital of Yin reveal a sophisticated Bronze Age society from 3,300 years ago. This 2026 guide covers the UNESCO-listed Yin Ruins, the extraordinary National Museum of Chinese Writing, the Red Flag Canal engineering marvel, local Henan cuisine, and practical advice for exploring one of the most historically significant cities in all of China."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/5302368/pexels-photo-5302368.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

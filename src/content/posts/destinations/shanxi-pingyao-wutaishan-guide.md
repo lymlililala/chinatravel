@@ -12,7 +12,7 @@ tags:
   - history
   - temples
 description: "Shanxi Province preserves more pre-Ming Dynasty architecture than any other Chinese province — Pingyao's perfectly intact Ming city walls, Wutai Mountain's Tang-era temples, and the extraordinary Hanging Temple."
-ogImage: "https://images.pexels.com/photos/29712653/pexels-photo-29712653.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.pexels.com/photos/2870116/pexels-photo-2870116.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Shanxi Province is China's repository of ancient architecture — it contains over 70% of China's surviving pre-Ming Dynasty wooden buildings. While other regions rebuilt and modernised, Shanxi's relative isolation preserved a staggering legacy of Song, Tang, and even earlier structures.

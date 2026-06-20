@@ -13,7 +13,7 @@ tags:
   - hiking
   - history
 description: "Simatai Great Wall near Beijing is the only section offering night tours and is widely considered the most dramatic original Ming wall still standing. This 2026 guide covers daytime entry (190 yuan combined), night tickets (180 yuan), cable car, the 18 arches section, transport from Beijing, and the Gubei Water Town resort."
-ogImage: "https://images.pexels.com/photos/19031655/pexels-photo-19031655.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.pexels.com/photos/5714061/pexels-photo-5714061.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

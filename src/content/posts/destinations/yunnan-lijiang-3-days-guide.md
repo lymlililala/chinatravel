@@ -11,7 +11,7 @@ tags:
   - itinerary
   - southwest-china
 description: "A practical 3-day Lijiang guide — navigating the old town UNESCO alleyways at golden hour, the day trip to Jade Dragon Snow Mountain (altitude acclimatization advice), the Shuhe Ancient Town day trip, and Naxi bar culture at night."
-ogImage: "https://images.pexels.com/photos/10836079/pexels-photo-10836079.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.unsplash.com/photo-1677922069769-0164b29e2c1a?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxMaWppYW5nJTJDJTIwWXVubmFufGVufDB8MHx8fDE3ODE5MzczMDh8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
 ---
 
 Lijiang's Old Town (Dayan Ancient Town) is genuinely one of the most beautiful places in China — a UNESCO World Heritage Site with a canal network and cobblestone alleys that have survived intact for 800 years. The Naxi minority people who built it created an architecture that blends Tibetan, Han, and local traditions in a way you don't see elsewhere.

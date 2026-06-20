@@ -12,7 +12,7 @@ tags:
   - central-china
   - history
 description: "Henan Province is where Chinese civilisation began — the Shaolin Temple, Longmen Grottoes, Song Dynasty capital Kaifeng, and the Yellow River's ancient sites are all within easy reach."
-ogImage: "https://images.pexels.com/photos/5305562/pexels-photo-5305562.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.pexels.com/photos/37519011/pexels-photo-37519011.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Henan (河南, "south of the Yellow River") is China's most historically layered province — more ancient dynasties had their capital here than anywhere else in the country. The Yellow River (黄河) cradle of Chinese civilisation runs through the province; the Shaolin Temple defines an entire global martial arts tradition; and the Buddha carvings at Longmen are among the world's greatest artworks.

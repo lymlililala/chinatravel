@@ -12,7 +12,7 @@ tags:
   - hiking
   - east-china
 description: "Jiuhuashan (九华山) in Anhui — one of the four sacred Buddhist mountains of China, dedicated to the Bodhisattva Dizang (地藏). The multi-tiered temples on a dramatic mountain landscape, the cable car to the top, staying overnight to watch dawn over the Buddhist community, and how to combine it with Yellow Mountain (Huangshan) in the same trip."
-ogImage: "https://images.pexels.com/photos/28927399/pexels-photo-28927399.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.pexels.com/photos/34216866/pexels-photo-34216866.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Jiuhuashan — literally "Nine Glorious Mountains" — is one of China's four sacred Buddhist mountains, the others being Wutai, Emei, and Putuo. Each mountain is associated with a Bodhisattva: Jiuhuashan is dedicated to Dizang (地藏菩萨, Ksitigarbha in Sanskrit), the Bodhisattva of the underworld who vowed to remain in the realms of suffering until all beings are liberated.

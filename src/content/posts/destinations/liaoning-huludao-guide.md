@@ -13,7 +13,7 @@ tags:
   - beach
   - northeast
 description: "Huludao in western Liaoning combines the best-preserved ancient walled city in northeast China, accessible Bohai Sea beaches, and mountainous inland hiking — all within easy reach of Shenyang and Beijing. This 2026 guide covers Xingcheng's Ming Dynasty walls, Jiufeng Mountain, the beach coast, seafood, and practical transport information."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/17583737/pexels-photo-17583737.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

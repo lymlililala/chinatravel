@@ -11,7 +11,7 @@ tags:
   - southwest-china
   - minority-cultures
 description: "The classic 10-day Yunnan loop — Kunming's Stone Forest and Bird Island, Lijiang old town and Jade Dragon Snow Mountain, Dali's Erhai Lake and Cangshan, a side trip to Xishuangbanna or Yuanyang rice terraces. Train and bus connections, accommodation recommendations."
-ogImage: "https://images.pexels.com/photos/6513729/pexels-photo-6513729.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.unsplash.com/photo-1627868153411-624a8dce0a12?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw2fHxZdW5uYW58ZW58MHwwfHx8MTc4MTkzNzMwNnww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
 ---
 
 Yunnan is China's most diverse province — in geography, culture, cuisine, and biodiversity. It borders Myanmar, Laos, and Vietnam; its elevation ranges from 76m in the tropical valleys to 6,740m on the Meili Snow Mountains. Within its borders live 26 of China's 55 officially recognized ethnic minority groups. No other province in China offers this range of experience within a single 10-day circuit.

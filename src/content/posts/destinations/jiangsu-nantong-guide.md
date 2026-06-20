@@ -12,7 +12,7 @@ tags:
   - culture
   - yangtze
 description: "Nantong is a quietly underrated city in northern Jiangsu — built on the bold vision of Qing Dynasty industrialist Zhang Jian, who transformed a small fishing town into China's first planned modern city. This 2026 guide explores the Haohe River scenic corridor, the textile industry heritage, the Yangtze riverfront, local museums and how to reach Nantong from Shanghai and Suzhou."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/5926645/pexels-photo-5926645.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

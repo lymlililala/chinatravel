@@ -11,7 +11,7 @@ tags:
   - southwest-china
   - nature
 description: "A 7-day Sichuan itinerary — two days in Chengdu (pandas, hotpot, Jinsha Museum), a day trip to Leshan Giant Buddha and Emeishan, two days at Jiuzhaigou's rainbow lakes, and how to connect everything efficiently by high-speed train and bus. Booking windows for the most popular attractions."
-ogImage: "https://images.pexels.com/photos/10672908/pexels-photo-10672908.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.unsplash.com/photo-1664669173220-9bc6fc994c05?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwyfHxTaWNodWFufGVufDB8MHx8fDE3ODE5MzcyOTh8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
 ---
 
 Sichuan packs an extraordinary amount of landscape variety into a single province. The Chengdu basin is urban and sophisticated; an hour south, the Leshan Giant Buddha sits in a river confluence; two hours north, Emeishan is a sacred Buddhist mountain reaching 3,099m; and nine hours north (by road) is Jiuzhaigou, with its vivid alpine lakes that don't look real. All of this plus the best food in China.

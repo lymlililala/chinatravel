@@ -10,7 +10,7 @@ tags:
   - goguryeo ruins
   - jilin hidden gems
 description: "Uncover Tonghua in Jilin Province, where the ancient Goguryeo kingdom's mountain fortresses and royal tombs stand amid pristine forest. This guide covers the UNESCO-listed Capital Cities and Tombs of Goguryeo, Ji'an's riverside ruins, the approach to Changbai Mountain, local Korean-Chinese cuisine, and winter activities in one of northeast China's most historically rich corners."
-ogImage: "https://images.pexels.com/photos/15528404/pexels-photo-15528404.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.pexels.com/photos/35491817/pexels-photo-35491817.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

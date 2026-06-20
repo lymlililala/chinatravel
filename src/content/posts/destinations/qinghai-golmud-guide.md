@@ -12,7 +12,7 @@ tags:
   - tibet-route
   - desert
 description: "Golmud (Geermu) in western Qinghai is the last major city on the Qinghai-Tibet Railway before Lhasa, sitting in the hyper-arid Qaidam Basin at 2,800 meters. It serves as the practical gateway to Tibet overland and to some of China's most otherworldly desert landscapes — salt lakes, yardang formations, and the vast emptiness of the Qaidam. This guide covers Golmud's role as a transit hub, the surrounding desert attractions, and practical tips for the high-altitude frontier."
-ogImage: "https://images.pexels.com/photos/12139755/pexels-photo-12139755.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.pexels.com/photos/33264092/pexels-photo-33264092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Golmud (格尔木, also spelled Geermu) sits in the Qaidam Basin (柴达木盆地) at 2,809 meters above sea level, a city of about 220,000 people in one of the most arid and remote regions of China. It exists primarily because of two things: the Qinghai-Tibet Railway, which passes through Golmud on its way to Lhasa, and the Qaidam Basin's extraordinary mineral wealth — potash, lithium, salt, and rare earths that have made this harsh landscape economically significant.

@@ -12,7 +12,7 @@ tags:
   - cycling
   - karst
 description: "The definitive guide to Yangshuo — how to explore the Yulong River valley by bamboo raft and bicycle, the best viewpoints over the karst landscape, where to eat, and how to avoid the worst of the tourist strip."
-ogImage: "https://images.pexels.com/photos/20998162/pexels-photo-20998162.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.unsplash.com/photo-1536585806558-81c7ea4d393d?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHx5YW5nc2h1byUyMHl1bG9uZ3xlbnwwfDB8fHwxNzgxOTM3MzA0fDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
 ---
 
 The Li River cruise from Guilin to Yangshuo is rightly famous. But Yangshuo itself and the smaller, quieter Yulong River running west of town are where many visitors discover what they were actually looking for: a slow rhythm, extraordinary landscapes accessible by bicycle, bamboo raft trips on still green water between limestone peaks, and a small-town atmosphere that rewards staying more than a single day.

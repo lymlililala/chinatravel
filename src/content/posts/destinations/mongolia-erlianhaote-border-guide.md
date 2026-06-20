@@ -12,7 +12,7 @@ tags:
   - border-town
   - grasslands
 description: "Visit Erlianhaote (Erenhot), the quirky China-Mongolia border city where massive dinosaur sculptures guard the highway, genuine fossil discoveries fill the museum, and the steppe stretches endlessly toward Mongolia. This 2026 guide covers the renowned dinosaur museum and fossil sites, the border crossing experience, the surrounding grasslands, cross-border shopping, local Mongolian-influenced cuisine, and practical advice for this unusual frontier destination."
-ogImage: "https://images.pexels.com/photos/7859335/pexels-photo-7859335.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.pexels.com/photos/29711398/pexels-photo-29711398.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

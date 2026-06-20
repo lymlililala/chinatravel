@@ -13,7 +13,7 @@ tags:
   - foshan
   - cantonese culture
 description: "Discover the underrated Pearl River Delta cities — Foshan's ancestral temple and Cantonese opera, Zhongshan birthplace of Sun Yat-sen, Zhuhai's coastal charm and Macau connection, and how to explore the most economically productive delta in the world."
-ogImage: "https://images.pexels.com/photos/14230261/pexels-photo-14230261.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.pexels.com/photos/35130085/pexels-photo-35130085.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 The Pearl River Delta (珠三角) is the most economically dense region in China — nine cities around the Pearl River estuary producing approximately 10% of China's GDP. Guangzhou and Shenzhen absorb most visitor attention; but the surrounding cities contain cultural heritage, traditional Cantonese life, and architectural variety that rewards deeper exploration.

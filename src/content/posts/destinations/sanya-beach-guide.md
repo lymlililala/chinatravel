@@ -20,7 +20,7 @@ tags:
   - beach
   - diving
 description: "Sanya and Hainan Island — China's only tropical island province. The best beaches (Yalong Bay, Haitang Bay, Dadonghai), diving and snorkelling sites, resort options from budget to ultra-luxury, and how Hainan compares to Phuket or Bali."
-ogImage: "https://images.pexels.com/photos/12736036/pexels-photo-12736036.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.pexels.com/photos/3934097/pexels-photo-3934097.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Sanya (三亚) is China's primary beach resort destination — the southern tip of Hainan Island (海南岛), China's only tropical province. It sits at 18°N latitude, giving it a genuinely tropical climate: warm year-round (27–33°C in summer, 21–26°C in winter), with a dry season that makes it China's premier winter-escape destination.

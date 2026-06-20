@@ -12,7 +12,7 @@ tags:
   - day trip
   - UNESCO heritage
 description: "The ultimate guide to visiting the Great Wall of China — best sections for first-timers, how to avoid the crowds, transportation from Beijing, tickets, and insider tips from thousands of local travelers."
-ogImage: "https://images.pexels.com/photos/19031655/pexels-photo-19031655.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.pexels.com/photos/4445241/pexels-photo-4445241.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Standing on the Great Wall as the morning light creeps over the ridgeline and mist fills the valleys below, it becomes immediately clear why this is one of the world's defining travel experiences. This is not merely a tourist attraction — it is an encounter with 2,000 years of human ambition, engineering, and history.

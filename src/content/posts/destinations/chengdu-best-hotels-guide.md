@@ -11,7 +11,7 @@ tags:
   - planning
   - sichuan
 description: "Chengdu accommodation guide — Jinjiang District for traditional atmosphere near Jinli and Wuhou Shrine, Tianfu Square for central convenience, the Chunxi Road/Taikoo Li area for design hotels. Specific hotel and hostel recommendations for budget (¥150-350/night), mid-range (¥400-900/night), and luxury (¥1200+/night). Chengdu offers great value vs Beijing."
-ogImage: "https://images.pexels.com/photos/18505677/pexels-photo-18505677.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.pexels.com/photos/14450068/pexels-photo-14450068.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Chengdu is one of China's best cities for accommodation value. You can stay in a good mid-range hotel near the old town for ¥400-600/night, or find a hostel with genuine atmosphere for ¥80-120. The city is compact enough that the neighbourhood you choose affects atmosphere more than convenience — the metro system gets you anywhere in 20-30 minutes. The main trade-off is between the traditional Jinjiang District atmosphere (with its proximity to Jinli Street, Wuhou Shrine, and the panda base day trips) and the more commercial central areas around Tianfu Square and Chunxi Road.

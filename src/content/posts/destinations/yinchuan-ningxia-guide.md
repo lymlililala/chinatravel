@@ -11,7 +11,7 @@ tags:
   - culture
   - northwest-china
 description: "Ningxia Hui Autonomous Region — Yinchuan as the capital and the Western Xia Imperial Tombs (a dynasty largely forgotten by history, with pyramidal tombs that look remarkably like Egypt), the Helan Mountain rock art, the vineyards of the Helan Mountain east face (Ningxia has become China's most respected wine region), and the Hui Muslim culture that defines the province."
-ogImage: "https://images.pexels.com/photos/20470184/pexels-photo-20470184.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.unsplash.com/photo-1535898331935-2d274aff0fbc?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwyfHxOaW5neGlhfGVufDB8MHx8fDE3ODE5MzczMDV8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
 ---
 
 Ningxia Hui Autonomous Region is one of China's smaller provinces and one of its most overlooked by international visitors. It sits at the great bend of the Yellow River, where the river turns north before cutting south again — the river's presence has defined the region for thousands of years, enabling agriculture in an otherwise semi-arid landscape.

@@ -20,7 +20,7 @@ tags:
   - nature
   - culture
 description: "Dali's Cangshan Mountain and Erhai Lake beyond the tourist old town — hiking routes up the 4,122m mountain range, cycling Erhai Lake's 130km perimeter, Bai minority villages on the lake shore, and how to experience Dali the way long-term travellers do."
-ogImage: "https://images.pexels.com/photos/36552433/pexels-photo-36552433.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.pexels.com/photos/36535797/pexels-photo-36535797.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Dali (大理) has two identities. There's the commercially optimised old town (大理古城) — the preserved Bai minority city that serves as the comfortable base for most visitors — and there's the landscape that surrounds it: the 4,122m Cangshan Mountain range rising directly behind the city, and the 250 sq km Erhai Lake stretching for 40km in front.

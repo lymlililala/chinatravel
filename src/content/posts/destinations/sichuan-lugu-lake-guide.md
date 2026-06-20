@@ -13,7 +13,7 @@ tags:
   - ethnic minority
   - nature
 description: "Lugu Lake sits on the Sichuan-Yunnan border at 2,690m and is home to the matriarchal Mosuo people. This 2026 guide covers the lake circuit (100 yuan entry), Mosuo cultural villages, horseback riding and boat tours, how to get there from Lijiang and Xichang, accommodation options, and the best seasons for this pristine highland destination."
-ogImage: "https://images.pexels.com/photos/37651841/pexels-photo-37651841.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.pexels.com/photos/31212292/pexels-photo-31212292.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

@@ -11,7 +11,7 @@ tags:
   - hunan
   - nature
 description: "A 3-day Zhangjiajie itinerary — Day 1 in Wulingyuan for the floating mountains, Day 2 for the 5km Tianmen Mountain cable car and glass walkway, Day 3 for the Zhangjiajie Grand Canyon Glass Bridge. Includes practical transport, queue strategy, and honest reviews."
-ogImage: "https://images.pexels.com/photos/25000765/pexels-photo-25000765.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.pexels.com/photos/13195716/pexels-photo-13195716.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Zhangjiajie's quartzite sandstone pillars were the visual inspiration for Pandora's floating mountains in Avatar. The resemblance between the real landscape and the film is striking enough that the park authorities renamed one of the peaks "Avatar Hallelujah Mountain" in 2010. That kind of marketing shouldn't distract from the fact that the landscape is genuinely extraordinary — nothing else in China (or really anywhere) looks quite like it.

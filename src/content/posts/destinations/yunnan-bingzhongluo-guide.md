@@ -12,7 +12,7 @@ tags:
   - remote-village
   - wilderness
 description: "Journey to Bingzhongluo, the remote and breathtaking settlement at the northern end of Yunnan's Nujiang Grand Canyon, where the Nu River carves through mountains, Tibetan and Nu minority villages cling to cliffs, and ancient tea horse trails cross high passes into Tibet. This 2026 guide covers the stunning gorge scenery, the hiking trails to Tibetan villages, the first bend of the Nu River, cross-border perspectives, local Nu and Lisu cuisine, and hard-won practical advice for reaching one of China's last truly remote destinations."
-ogImage: "https://images.pexels.com/photos/6513729/pexels-photo-6513729.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.pexels.com/photos/28700643/pexels-photo-28700643.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

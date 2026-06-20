@@ -12,7 +12,7 @@ tags:
   - history
   - culture
 description: "Shaoshan, the birthplace of Mao Zedong, is one of China's most visited 'red tourism' sites — drawing millions of Chinese visitors annually on political pilgrimages. This 2026 guide covers the key historical sites, what to expect as an international visitor, how to get there from Changsha, tickets, accommodation and the fascinating surrounding countryside of central Hunan province."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/37283319/pexels-photo-37283319.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

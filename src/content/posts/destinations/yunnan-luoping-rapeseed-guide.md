@@ -12,7 +12,7 @@ tags:
   - photography
   - nature
 description: "Luoping in eastern Yunnan transforms each spring into one of the most spectacular floral landscapes on Earth — millions of acres of rapeseed flowers (canola) carpeting the karst valley in blazing yellow. Add the Jiulong Waterfalls (Nine Dragon Falls) and the Duoyi River, and Luoping becomes one of China's finest spring photography destinations. This guide covers when the flowers bloom, the best viewpoints, and how to plan your visit."
-ogImage: "https://images.unsplash.com/photo-1566438480900-0609be27a4be?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/29134354/pexels-photo-29134354.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Luoping (罗平) in eastern Yunnan, where the province borders Guizhou and Guangxi, is for most of the year an unremarkable agricultural county. Then February arrives, and the rapeseed (油菜, canola) flowers bloom across the valley floor and lower hillsides — and Luoping becomes one of the most visually overwhelming landscapes in China.
