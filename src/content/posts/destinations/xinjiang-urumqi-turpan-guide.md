@@ -12,7 +12,7 @@ tags:
   - silk-road
   - desert
 description: "The journey from Urumqi to Turpan covers the transition from Xinjiang's modern hub city to one of the Silk Road's great ancient oases. Turpan's Flaming Mountains, the ruined cities of Jiaohe and Gaochang, Grape Valley's tunnel of vines, and the ancient Bezeklik Cave murals make this one of the most historically layered destinations in Central Asia. This 2026 complete guide covers both cities and the route between them."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/30123684/pexels-photo-30123684.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

@@ -11,9 +11,12 @@ tags:
   - food
   - modern-china
 description: "Xi'an beyond the history — the Tang West Market creative complex, Yongxingfang street food mall, the vibrant university district, Gaoxin tech park nightlife, and how Xi'an's young population has made it one of China's most interesting modern cities."
+ogImage: "https://images.pexels.com/photos/31467010/pexels-photo-31467010.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Xi'an (西安) tends to be positioned as a history destination — the Terracotta Warriors, the city wall, the Muslim Quarter. That framing misses what's genuinely interesting about the city in 2026: a young, culturally engaged population (five major universities, 1.2 million students), a food scene combining 3,000 years of Shaanxi culinary tradition with contemporary creativity, and urban spaces that blend Tang dynasty historical consciousness with contemporary Chinese youth culture.
+
+![Modern Xi' Beyond Terracotta Warriors — Yongxingfang (永兴坊)](https://images.pexels.com/photos/7961881/pexels-photo-7961881.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Yongxingfang (永兴坊)
 
@@ -27,11 +30,15 @@ Yongxingfang is a 2018 development converting a block within the old city into a
 - **Ganmian (干拌面)**: Dry-tossed noodles with house-made chilli oil and peanut sauce
 - **Mianpi (面皮)**: Cool wheat-starch noodles with vinegar and chilli — a distinctly Xi'an summer food
 
+![Modern Xi' Beyond Terracotta Warriors — Tang West Market (大唐西市)](https://images.pexels.com/photos/9825589/pexels-photo-9825589.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Tang West Market (大唐西市)
 
 The Tang West Market occupies the site of the original Tang dynasty Western Market (西市) — one of the two major trading marketplaces of Tang Chang'an (as Xi'an was named) that connected the city to the Silk Road. The archaeological remains of the original market are preserved beneath the current building.
 
 The market complex now combines a museum (显示Tang dynasty market archaeology), upscale retail, and performance spaces. The evening light show and fountain complex recreate Tang dynasty market atmosphere with contemporary technology.
+
+![Modern Xi' Beyond Terracotta Warriors — University District (高校圈)](https://images.pexels.com/photos/8776877/pexels-photo-8776877.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## University District (高校圈)
 

@@ -11,7 +11,7 @@ tags:
   - southwest-china
   - minority-cultures
 description: "The classic 10-day Yunnan loop — Kunming's Stone Forest and Bird Island, Lijiang old town and Jade Dragon Snow Mountain, Dali's Erhai Lake and Cangshan, a side trip to Xishuangbanna or Yuanyang rice terraces. Train and bus connections, accommodation recommendations."
-ogImage: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/6513729/pexels-photo-6513729.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Yunnan is China's most diverse province — in geography, culture, cuisine, and biodiversity. It borders Myanmar, Laos, and Vietnam; its elevation ranges from 76m in the tropical valleys to 6,740m on the Meili Snow Mountains. Within its borders live 26 of China's 55 officially recognized ethnic minority groups. No other province in China offers this range of experience within a single 10-day circuit.
@@ -21,6 +21,8 @@ This itinerary covers the classic Yunnan route with one branch option depending 
 ## Table of contents
 
 ## Getting In and Around Yunnan
+
+![Yunnan — Getting In and Around Yunnan](https://images.pexels.com/photos/26746841/pexels-photo-26746841.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **Entry point:** Kunming Changshui International Airport (KMG) is the main hub, with international connections to Southeast Asia and domestic flights from everywhere in China.
 
@@ -54,6 +56,8 @@ Bus networks fill the gaps. Overnight sleeper buses are still used for longer ro
 **Yunnan cuisine in Kunming:** Don't leave without eating **crossing bridge noodles** (过桥米线, ¥25-50) at one of the old-style noodle restaurants — it originated in the city and the Kunming version is the definitive one. Also try **steam pot chicken** (汽锅鸡, ¥80-120 per pot) and **erkuai** (饵块, rice cake stir-fried or grilled, ¥15-20).
 
 ---
+
+![Yunnan — Days 3-5: Lijiang](https://images.pexels.com/photos/26746834/pexels-photo-26746834.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Days 3-5: Lijiang
 
@@ -96,6 +100,8 @@ The **Bai fishing boats** (双桨船) on the lake are operated by Bai fishermen 
 **Cangshan** (苍山) rises to 4,122m behind Dali — the cable car (苍山索道, ¥80 up, ¥60 down) accesses mid-mountain trails at 2,600m. The mountain trekking is well-organized with a 9.5km **Yun Road** (云上路) running horizontally across the mountain face at 2,620m, connecting multiple cable car stations.
 
 ---
+
+![Yunnan — Days 8-10 (Choose One Branch):](https://images.pexels.com/photos/6513728/pexels-photo-6513728.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Days 8-10 (Choose One Branch):
 

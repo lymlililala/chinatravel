@@ -32,6 +32,8 @@ Three days is enough to do the major sights properly without rushing. This itine
 
 ---
 
+![Xi' — Day 1: Terracotta Warriors & Big Wild Goose Pagoda](https://images.pexels.com/photos/28890193/pexels-photo-28890193.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Day 1: Terracotta Warriors & Big Wild Goose Pagoda
 
 ### Morning: Terracotta Warriors (Mausoleum of the First Qin Emperor)
@@ -57,6 +59,8 @@ On the way back, the shuttle bus stops at **Huaqing Palace** (华清宫, ¥120) 
 **Metro:** Line 3 to Big Wild Goose Pagoda Station.
 
 ---
+
+![Xi' — Day 2: City Wall, Bell Tower & Muslim Quarter](https://images.pexels.com/photos/33480873/pexels-photo-33480873.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day 2: City Wall, Bell Tower & Muslim Quarter
 

@@ -11,7 +11,7 @@ tags:
   - culture
   - northwest-china
 description: "Ningxia Hui Autonomous Region — Yinchuan as the capital and the Western Xia Imperial Tombs (a dynasty largely forgotten by history, with pyramidal tombs that look remarkably like Egypt), the Helan Mountain rock art, the vineyards of the Helan Mountain east face (Ningxia has become China's most respected wine region), and the Hui Muslim culture that defines the province."
-ogImage: "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/20470184/pexels-photo-20470184.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Ningxia Hui Autonomous Region is one of China's smaller provinces and one of its most overlooked by international visitors. It sits at the great bend of the Yellow River, where the river turns north before cutting south again — the river's presence has defined the region for thousands of years, enabling agriculture in an otherwise semi-arid landscape.
@@ -21,6 +21,8 @@ Two things make Ningxia distinctive: the Hui Muslim culture that gives the provi
 ## Table of contents
 
 ## Western Xia Imperial Tombs (西夏王陵)
+
+![Ningxia — Western Xia Imperial Tombs (西夏王陵)](https://images.pexels.com/photos/5054447/pexels-photo-5054447.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 The Western Xia Dynasty (Tangut people, 西夏) ruled a powerful state in northwestern China from 1038 to 1227. At their peak, they controlled a territory larger than many European countries, had their own writing system, maintained Buddhist temples of artistic brilliance, and traded extensively along the Silk Road. Then Genghis Khan destroyed them in 1227, and the Mongols were so thorough in their destruction that subsequent Chinese dynasties barely recorded the Western Xia in their histories.
 
@@ -47,6 +49,8 @@ On the eastern face of Helan Mountain, about 50km north of Yinchuan, thousands o
 The site is spread across a gorge — you walk up through the canyon along a path, with carved rocks on both sides. Some carvings are 6,000+ years old; others were made by the Western Xia people in the medieval period. The density and variety is impressive.
 
 **Combination:** The rock art site and Western Xia tombs are 20km apart; most visitors do both in the same day.
+
+![Ningxia — Helan Mountain Vineyards (贺兰山东麓葡萄酒)](https://images.pexels.com/photos/33774270/pexels-photo-33774270.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Helan Mountain Vineyards (贺兰山东麓葡萄酒)
 

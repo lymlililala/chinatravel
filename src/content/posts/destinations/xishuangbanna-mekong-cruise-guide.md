@@ -10,12 +10,15 @@ faq:
   - question: "When is the best time to visit Xishuangbanna?"
     answer: "The cool, dry season from roughly November to April is the most comfortable, with the Dai Water-Splashing Festival in mid-April a colourful highlight. The summer wet season is hotter and rainier but lush, and the rainforest is at its greenest."
 description: "Complete guide to the Mekong River cruise from Jinghong (Xishuangbanna) into Myanmar and Laos. Rainforest trekking, Dai minority villages, tropical fruit, and how this corner of Yunnan feels like Southeast Asia."
+ogImage: "https://images.pexels.com/photos/16030625/pexels-photo-16030625.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Xishuangbanna", "Mekong River", "Yunnan", "Dai minority", "tropical China", "nature travel", "China Southeast Asia"]
 ---
 
 Xishuangbanna (西双版纳) in southernmost Yunnan Province sits on the upper Mekong River (the Lancang River as it's called in China before crossing into Southeast Asia) at the point where China meets Myanmar and Laos. The climate is tropical, the vegetation is Southeast Asian rainforest, the ethnic Dai minority culture shares more with Laos and Thailand than with Han Chinese culture, and the food is a revelation of herb-forward, sour-spicy cooking that surprises visitors expecting standard Yunnan fare.
+
+![Xishuangbanna Mekong River Cruise Rainforest (Yunnan) — The Landscape and Setting](https://images.pexels.com/photos/29181493/pexels-photo-29181493.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Landscape and Setting
 
@@ -36,6 +39,8 @@ Xishuangbanna (the name is a transcription of the Dai phrase meaning "twelve ric
 
 **The weather**: Tropical, with a distinct dry season (November–April) and wet season (May–October). January is perfect: clear skies, 23°C, cool evenings. July is 30°C+ with heavy daily rain.
 
+![Xishuangbanna Mekong River Cruise Rainforest (Yunnan) — The Mekong River (Lancang River)](https://images.pexels.com/photos/1660996/pexels-photo-1660996.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The Mekong River (Lancang River)
 
 From Jinghong, the river flows south through Myanmar and Laos before eventually reaching Vietnam and the South China Sea. The upper stretch (within China) is still clean and powerful; standing at the riverside in Jinghong and understanding that this water will pass through six countries and reach the Mekong Delta 4,500 km away gives it a special quality.
@@ -53,6 +58,8 @@ The most famous nature attraction in Xishuangbanna. A cable car takes visitors o
 **Entry**: ¥80; plus cable car ¥50 return
 
 **⚠️ Note on elephant encounters**: Xishuangbanna's wild elephants have become increasingly bold — there have been numerous incidents of elephants entering roads, villages and even towns. Exercise caution and follow park staff directions. Do not approach wild elephants.
+
+![Xishuangbanna Mekong River Cruise Rainforest (Yunnan) — Nanbanna Tropical Botanic Garden (勐仑植物园)](https://images.pexels.com/photos/6639890/pexels-photo-6639890.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Nanbanna Tropical Botanic Garden (勐仑植物园)
 

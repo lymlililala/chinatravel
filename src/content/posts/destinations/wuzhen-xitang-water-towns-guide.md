@@ -1,12 +1,15 @@
 ---
 title: "Wuzhen and Xitang Water Towns: Which to Visit and When (Zhejiang Guide)"
 description: "Detailed comparison of Wuzhen vs Xitang water towns in Zhejiang. Which is more authentic, which is better for photography, how to avoid crowds, overnight vs day trip and transport from Shanghai and Hangzhou."
+ogImage: "https://images.pexels.com/photos/37015406/pexels-photo-37015406.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Wuzhen", "Xitang", "Zhejiang water towns", "China water villages", "day trip from Shanghai", "Jiangnan canal towns"]
 ---
 
 The water towns of Zhejiang Province — intersected by ancient canals, lined with whitewashed walls and curved black-tiled roofs — are among the most distinctive architectural landscapes in China. Wuzhen and Xitang are the two most visited, both within easy reach of Shanghai and Hangzhou, and both beloved by photographers for the play of mist and reflections in the canal water at dawn.
+
+![Wuzhen Xitang Water Towns — Overview: Wuzhen vs Xitang](https://images.pexels.com/photos/30836761/pexels-photo-30836761.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Overview: Wuzhen vs Xitang
 
@@ -26,6 +29,8 @@ Before diving in, the essential comparison:
 **Verdict**: Wuzhen is more beautiful and better-preserved but more commercialized. Xitang feels more authentic with real residents and real life alongside the tourism. Many travelers do both.
 
 ---
+
+![Wuzhen Xitang Water Towns — Wuzhen (乌镇)](https://images.pexels.com/photos/33626219/pexels-photo-33626219.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Wuzhen (乌镇)
 
@@ -56,6 +61,8 @@ Best shots: Dongzha canal from the old stone bridge at dawn, or Xizha at dusk fr
 - Xizha night entry: Additional ¥100 (or included with overnight stay)
 
 ---
+
+![Wuzhen Xitang Water Towns — Xitang (西塘)](https://images.unsplash.com/photo-1552632756-76fddd17d8dd?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxYaXRhbmd8ZW58MHwwfHx8MTc4MTkyNjE4NXww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## Xitang (西塘)
 

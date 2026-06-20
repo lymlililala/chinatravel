@@ -10,6 +10,7 @@ tags:
   - history
   - destinations
 description: "Guide to Huaqing Palace (华清宫) near Xi'an — the imperial hot spring resort of Tang Dynasty Emperor Xuanzong and his concubine Yang Guifei, plus the dramatic December 9th 1936 Site where Chiang Kai-shek was captured. Includes hiking Lishan Mountain and the famous evening show."
+ogImage: "https://images.pexels.com/photos/10428759/pexels-photo-10428759.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Thirty kilometres east of Xi'an, at the foot of Lishan Mountain (骊山), sits one of China's most layered historical sites: Huaqing Palace. This is where Tang Dynasty Emperor Xuanzong fell obsessively in love with Yang Guifei — the most celebrated beauty in Chinese history — where they bathed in natural hot springs, and where the Emperor's distraction from governance helped trigger the An Lushan Rebellion that nearly ended the dynasty. It's also where Chiang Kai-shek was captured in 1936, in the event that shaped modern Chinese history. Few sites in China carry so much concentrated drama.
@@ -17,6 +18,8 @@ Thirty kilometres east of Xi'an, at the foot of Lishan Mountain (骊山), sits o
 ## Table of contents
 
 ## The History of Huaqing Palace
+
+![Huaqing Palace & Lishan Mountain — The History of Huaqing Palace](https://images.pexels.com/photos/13997553/pexels-photo-13997553.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### The Tang Dynasty imperial resort (618–907 AD)
 
@@ -33,6 +36,8 @@ On December 12, 1936, Nationalist general Zhang Xueliang and Yang Hucheng kidnap
 The Xi'an Incident is one of the pivotal moments of 20th-century Chinese history: it led to the Second United Front between Nationalists and Communists, changing the course of World War II in China. The capture site — bullet holes still visible in the walls — is preserved exactly as it was.
 
 ---
+
+![Huaqing Palace & Lishan Mountain — What to See at Huaqing Palace](https://images.pexels.com/photos/32646536/pexels-photo-32646536.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## What to See at Huaqing Palace
 
@@ -63,6 +68,8 @@ The landscaped gardens in the palace complex contain:
 - Lotus pond and Chinese classical garden elements
 
 ---
+
+![Huaqing Palace & Lishan Mountain — Lishan Mountain (骊山)](https://images.pexels.com/photos/8193742/pexels-photo-8193742.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Lishan Mountain (骊山)
 

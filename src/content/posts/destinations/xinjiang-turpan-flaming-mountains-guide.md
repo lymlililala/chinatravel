@@ -1,6 +1,7 @@
 ---
 title: "Turpan & Flaming Mountains: China's Ancient Desert Oasis Guide"
 description: "Complete guide to Turpan (Turfan) — China's lowest point, hottest temperatures, ancient Silk Road ruins, the Flaming Mountains, Jiaohe ancient city, and Turpan's extraordinary grape culture. Best time to visit and practical tips."
+ogImage: "https://images.pexels.com/photos/2689651/pexels-photo-2689651.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/turpan-flaming-mountains.jpg"
 category: "destinations"
@@ -13,6 +14,8 @@ author: "RoamChina Travel"
 Turpan (吐鲁番, Tǔlǔfān) is an extraordinary place on multiple dimensions. China's lowest point (-154m below sea level at Aydingkol Lake); one of the world's hottest inhabited places (summer temperatures regularly exceed 47°C); one of the Silk Road's most important ancient cities; and the source of China's most celebrated grapes, raised in an underground water system (karez) that dates to at least 2,000 years ago.
 
 This combination of extremes creates a destination unlike anywhere else in China — or anywhere else in the world.
+
+![Turpan & Flaming Mountains — Understanding Turpan](https://images.pexels.com/photos/9331577/pexels-photo-9331577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Understanding Turpan
 
@@ -31,6 +34,8 @@ For Chinese readers, the Flaming Mountains are legendary territory: in the class
 **The honest assessment**: The Flaming Mountains are visually striking (the red rock and the heat shimmer create an other-worldly visual) but the official scenic area is primarily a backdrop for photos. The more interesting activity is exploring the landscape actively — hiking some of the canyon systems that cut through the mountains, visiting the karez system at the base of the mountains, and imagining the ancient Silk Road travelers who crossed this terrain.
 
 **Best time**: The Flaming Mountains are most impressive in summer when the heat shimmer effect is maximum. This requires tolerating extreme heat (47-50°C is possible). Autumn and spring visits are more comfortable but less visually dramatic.
+
+![Turpan & Flaming Mountains — Jiaohe Ancient City (交河故城)](https://images.pexels.com/photos/16681649/pexels-photo-16681649.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Jiaohe Ancient City (交河故城)
 
@@ -53,6 +58,8 @@ The ruins cover 200+ hectares and preserve significant walls, temple foundations
 **Archaeological significance**: Numerous Buddhist manuscripts, Manichaean texts, and administrative documents were discovered at Gaochang in the early 20th century by Western archaeologists; many are now in German and Japanese museum collections.
 
 **Entry**: ¥45. Camel carts operate within the site for visitors not wanting to walk the full area.
+
+![Turpan & Flaming Mountains — Bezeklik Thousand Buddha Caves (柏孜克里克千佛洞)](https://images.pexels.com/photos/17476602/pexels-photo-17476602.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Bezeklik Thousand Buddha Caves (柏孜克里克千佛洞)
 

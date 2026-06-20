@@ -12,7 +12,7 @@ tags:
   - north-china
   - northwest-china
 description: "Eating in Xi'an from a food lover's perspective — biang biang noodles with chilli oil (the dish with China's most complex character), rou jia mo (the Chinese hamburger), paomo (bread crumbled into mutton soup), persimmon cakes, cold noodles, and how to navigate the Muslim Quarter without paying tourist prices."
-ogImage: "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/8776875/pexels-photo-8776875.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Xi'an's food identity is built on a paradox. The city was the start of the Silk Road and absorbs cultural influences from all directions — Central Asian, Mongolian, Tibetan, and Han Chinese. This creates a food culture that's simultaneously ancient and eclectic, with a Muslim Hui minority that has shaped the flavour profile of Xi'an cuisine for over a thousand years. The food here bears almost no resemblance to the stir-fried Chinese dishes most visitors expect.
@@ -20,6 +20,8 @@ Xi'an's food identity is built on a paradox. The city was the start of the Silk 
 ## Table of contents
 
 ## Biang Biang Noodles (油泼面 / Biáng Biáng Miàn)
+
+![Xi' Food — Biang Biang Noodles (油泼面 / Biáng Biáng Miàn)](https://images.pexels.com/photos/31756386/pexels-photo-31756386.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 The dish with the most complicated Chinese character in existence — the character for "biang" uses 57 strokes and is so complex it doesn't appear in standard computer fonts. Whatever the character's complexity, the noodle itself is straightforward: a hand-pulled, belt-wide wheat noodle topped with chilli oil, garlic, vinegar, and seasoning, then finished tableside with a ladle of hot oil poured directly over the chilli powder.
 
@@ -44,6 +46,8 @@ The bread is key — it should be golden-brown, slightly crispy outside, and hav
 
 **Where to find it:** Every ten metres in the Muslim Quarter (Huimin Street), every other block in central Xi'an. The stalls that make their own bread on site are better than those buying pre-baked bread.
 
+![Xi' Food — The Muslim Quarter (回民街): How to Navigate It](https://images.pexels.com/photos/38117088/pexels-photo-38117088.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The Muslim Quarter (回民街): How to Navigate It
 
 **Huimin Street** (回民街, literally "Hui people's street") is Xi'an's most famous food district and also its most overtly tourist-facing. The 500-metre pedestrian strip is lined with identical-looking stalls and shops selling everything from pomegranate juice to lamb skewers.
@@ -63,6 +67,8 @@ The bread absorbs the broth over a few minutes before you eat. The tearing of th
 **Price:** ¥30-55 per bowl at sit-down restaurants. The quality of the mutton broth (it should be milky-white from slow-cooking, not clear) is the quality indicator.
 
 **Where to go:** **Lao Sun Jia** (老孙家) near Dong Dajie is the most established paomo institution. Queues at lunch. Alternatively, any paomo specialist restaurant in the Muslim Quarter area with a functioning kitchen (i.e., you can see them actually cooking broth, not adding powder to hot water).
+
+![Xi' Food — Cold Noodles (凉皮, Liángpí)](https://images.pexels.com/photos/31892092/pexels-photo-31892092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Cold Noodles (凉皮, Liángpí)
 

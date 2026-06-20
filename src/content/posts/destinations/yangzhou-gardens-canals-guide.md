@@ -11,11 +11,14 @@ tags:
   - gardens
   - food
 description: "Yangzhou — one of China's most elegant smaller cities, with classical gardens rivalling Suzhou, the ancient Grand Canal waterfront, extraordinary morning tea (早茶) culture, and proximity to Nanjing and Shanghai."
+ogImage: "https://images.pexels.com/photos/16158489/pexels-photo-16158489.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 "There are three pleasures in life: eating yangzhou food, drinking longquan water, and sleeping in Hangzhou," goes an old Chinese saying — and the first is still absolutely valid. Yangzhou (扬州) is a city of refined pleasures: its classical gardens are among China's most beautiful, its morning tea culture is one of the country's best, and the Grand Canal that made it wealthy for 1,500 years is now a UNESCO World Heritage Site running through its historic centre.
 
 Yangzhou is 1 hour from Nanjing and 1.5 hours from Shanghai by high-speed train — a logical day trip or overnight stop in the Jiangnan circuit.
+
+![Yangzhou — Ge Garden (个园)](https://images.pexels.com/photos/7582615/pexels-photo-7582615.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Ge Garden (个园)
 
@@ -25,6 +28,8 @@ The spring rocks (bamboo and light limestone), summer rocks (massive grey-green 
 
 One of the finest examples of the rockery-as-landscape tradition in Chinese garden design.
 
+![Yangzhou — Slender West Lake (瘦西湖)](https://images.pexels.com/photos/7494607/pexels-photo-7494607.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Slender West Lake (瘦西湖)
 
 Slender West Lake is Yangzhou's most-visited attraction — a narrow lake (the "slender" refers to its elongated shape compared to Hangzhou's West Lake) with a sequence of bridges, pavilions, and garden vistas along its banks. The 5-arch Wuting Bridge (五亭桥, Five Pavilion Bridge, 1757) is the most photographed structure — a compound bridge with five hexagonal pavilions on its piers.
@@ -32,6 +37,8 @@ Slender West Lake is Yangzhou's most-visited attraction — a narrow lake (the "
 The lake circuit is best experienced by boat (¥100–150 per person, shared boat, 1.5 hours) or by walking the western bank path (2–3 hours).
 
 **The Fishing Platform**: The circular pavilion from which Emperor Qianlong is said to have fished, positioned so that the moon reflected in the water appears to rise from the archway when viewed from a specific angle.
+
+![Yangzhou — Grand Canal Waterfront (大运河)](https://images.pexels.com/photos/28916314/pexels-photo-28916314.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Grand Canal Waterfront (大运河)
 

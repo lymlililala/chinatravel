@@ -12,7 +12,7 @@ tags:
   - nature
   - swan-lake
 description: "Bayinbuluke in the Tianshan Mountains of central Xinjiang is one of China's most spectacular high-altitude grassland destinations — home to the largest swan reserve in China, the famous Nine-Bend Eighteen-Turn River that snakes in perfect meanders across the meadow, and ancient Mongolian nomadic culture. This guide covers how to reach Bayinbuluke, the best viewpoints, accommodation in yurts, and the optimal seasons."
-ogImage: "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/12610169/pexels-photo-12610169.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Bayinbuluke (巴音布鲁克, Mongolian for "Rich Springs") is a highland basin in the central Tianshan Mountains of Xinjiang, at about 2,500 meters above sea level. It's the second largest grassland in China (about 23,000 square kilometers) and hosts the largest swan breeding colony in the country, with over 5,000 whooper and mute swans returning each spring to nest in the wetlands of Swan Lake.
@@ -22,6 +22,8 @@ The most photographed feature is the Nine-Bend Eighteen-Turn River (九曲十八
 ## Table of contents
 
 ## Getting to Bayinbuluke
+
+![Bayinbuluke Xinjiang — Getting to Bayinbuluke](https://images.pexels.com/photos/28700646/pexels-photo-28700646.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Bayinbuluke's relative isolation is part of what makes it special. It takes genuine effort to get there, which significantly reduces the casual tourist traffic.
 
@@ -57,6 +59,8 @@ The reserve has a designated observation area with viewing platforms and walkway
 **Entry fee:** ¥85 per person (includes shuttle bus within the reserve)  
 **Photography tips:** The swans are most active and photogenic in early morning (7–9am) and late afternoon (5–7pm). A telephoto lens (400mm+) is valuable for closer bird portraits; medium zoom (70–200mm) captures the landscape with birds adequately.
 
+![Bayinbuluke Xinjiang — The Nine-Bend Eighteen-Turn River (九曲十八弯)](https://images.pexels.com/photos/1061134/pexels-photo-1061134.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The Nine-Bend Eighteen-Turn River (九曲十八弯)
 
 The Kaidou River (开都河) flows through the Bayinbuluke grassland in sweeping meanders before entering Bosten Lake downstream. The elevated viewpoints above the basin — accessible via a scenic road east of the main settlement — show these meanders in full.
@@ -90,6 +94,8 @@ Staying in a yurt with a nomadic Mongolian family is the most direct way to enga
 When visiting a yurt as a guest, traditional customs apply: enter from the right; sit in the designated guest area (typically opposite the door); accept offered airag (fermented mare's milk) or milk tea even if just a sip; do not refuse food offered; avoid pointing feet at the sacred north side of the yurt (where the altar sits).
 
 **Horse riding:** Horse rental from local families (¥100–200/hour) is available in the settlement area; longer guided rides across the grassland (half-day or full-day) can be arranged for ¥300–600.
+
+![Bayinbuluke Xinjiang — Bayinbuluke Town Practicalities](https://images.pexels.com/photos/20286941/pexels-photo-20286941.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Bayinbuluke Town Practicalities
 

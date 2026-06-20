@@ -1,12 +1,15 @@
 ---
 title: "Yangzhou Slender West Lake Guide: China's Most Beautiful Artificial Lake"
 description: "Complete guide to visiting Slender West Lake (瘦西湖) in Yangzhou. The pavilions, the White Pagoda, boat rides, spring cherry blossoms, admission and how to get there from Nanjing and Shanghai."
+ogImage: "https://images.pexels.com/photos/27868194/pexels-photo-27868194.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Yangzhou", "Slender West Lake", "瘦西湖", "Jiangsu tourism", "China gardens", "spring travel China"]
 ---
 
 The Slender West Lake (瘦西湖, Shòu Xī Hú) in Yangzhou, Jiangsu Province, is named for its gracefully elongated shape — a 4.3 km stretch of narrow waterway connecting a series of lakes, enclosed within gardens designed during the Ming and Qing dynasties. It's one of the most aesthetically refined landscapes in China: narrower and more intimate than Hangzhou's West Lake, with pavilions, arched bridges and willow trees composed with the deliberate care of an ink painting.
+
+![Yangzhou Slender West Lake — Why Yangzhou Deserves a Visit](https://images.pexels.com/photos/6734508/pexels-photo-6734508.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Why Yangzhou Deserves a Visit
 
@@ -37,6 +40,8 @@ The most poetry-laden location in Yangzhou. A famous Tang dynasty poem by Du Mu 
 ### Boating on the Lake
 Punt-style boats operated by guides traverse the full length of the lake. The journey takes 40–60 minutes. Cost: ¥60–80 per person, or ¥200–300 for a private boat. The perspective from the water — looking up at the willow curtains and pavilions — is fundamentally different from the bankside view and absolutely worth doing once.
 
+![Yangzhou Slender West Lake — Yangzhou Cuisine](https://images.pexels.com/photos/7394073/pexels-photo-7394073.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Yangzhou Cuisine
 
 Yangzhou gave its name to one of China's most famous dishes — Yangzhou Fried Rice (扬州炒饭), though locals will tell you the versions you eat elsewhere bear little resemblance to the authentic form. More distinctive are:
@@ -65,6 +70,8 @@ Yangzhou gave its name to one of China's most famous dishes — Yangzhou Fried R
 - April: Cherry blossoms and peach blossoms around the lake — the peak aesthetic season
 - Autumn (October–November): Golden willows and comfortable temperatures
 - Morning (07:00–09:00): Soft light, fewer crowds before tour groups arrive
+
+![Yangzhou Slender West Lake — Getting to Yangzhou](https://images.pexels.com/photos/7394083/pexels-photo-7394083.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting to Yangzhou
 

@@ -12,7 +12,7 @@ tags:
   - terracotta-army
   - china
 description: "The Terracotta Army is one of the greatest archaeological discoveries in history — 8,000+ individually crafted warrior figures buried with Qin Shi Huang in 210 BC. This guide covers the three pits, the best strategies for visiting, how to get there from Xi'an, and how to get meaningful time at the site without the crowds overwhelming your experience."
-ogImage: "https://images.unsplash.com/photo-1531564701487-f238224b7ce3?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/30584842/pexels-photo-30584842.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 The Terracotta Army (秦始皇兵马俑, Qín Shǐhuáng Bīngmǎyǒng) was discovered in 1974 by farmers digging a well near the village of Lintong, 35km east of Xi'an. What they found — after centuries of being hidden in clay — was one of the most extraordinary archaeological finds in human history: an underground army of thousands of life-sized terracotta warriors, horses, and chariots, created to protect Qin Shi Huang in the afterlife.
@@ -22,6 +22,8 @@ In 2026, the site continues to be one of China's most-visited destinations. On b
 ## Table of contents
 
 ## The Three Pits
+
+![Terracotta Army Xi' — The Three Pits](https://images.pexels.com/photos/5342720/pexels-photo-5342720.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **Pit 1 (一号坑):** The main pit and the one that stops conversation. 230 metres long, 62 metres wide — a vast, hangar-like excavation hall built over the original dig site. You're looking at approximately 6,000 warriors (many still being excavated or restored) arranged in eleven corridors of battle formation. Infantry at the front, chariots and cavalry at the rear.
 
@@ -40,6 +42,8 @@ Adjacent to the pits, several exhibition halls display:
 
 The bronze chariots (铜车马) in the adjacent exhibition are arguably the most technically remarkable objects in the entire complex — full-size, functional models in bronze with intricate mechanisms. In terms of craftsmanship, they surpass even the warriors.
 
+![Terracotta Army Xi' — Getting There from Xi'an](https://images.unsplash.com/photo-1654887735165-366e3933ea63?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwzfHxmcm9tJTIweGlhbnxlbnwwfDB8fHwxNzgxOTI2MjMxfDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
+
 ## Getting There from Xi'an
 
 **Bus 306 (now Route 5 or 306 depending on source — verify locally):** From Xi'an Railway Station east square, takes about 1 hour. Tickets around ¥8. Buses run frequently 7am–6pm.
@@ -57,6 +61,8 @@ The bronze chariots (铜车马) in the adjacent exhibition are arguably the most
 **Booking:** Online booking through the official website or major ticketing platforms is available and recommended, particularly for peak season. On-site ticket sales happen but lines can be long.
 
 **Combination with Qin Shi Huang Mausoleum:** The actual burial mound (the emperor's tomb, never excavated) is a few km away. A combined ticket is available. The burial mound is a large earthen hill visible from the road — not visually spectacular — but the surrounding park has some context about the scale of the entire complex.
+
+![Terracotta Army Xi' — When to Visit](https://images.pexels.com/photos/34004807/pexels-photo-34004807.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## When to Visit
 

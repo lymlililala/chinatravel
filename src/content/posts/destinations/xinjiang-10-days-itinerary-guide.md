@@ -11,7 +11,7 @@ tags:
   - silk-road
   - northwest-china
 description: "A practical 10-day Xinjiang itinerary — Urumqi as the gateway, the ancient Jiaohe ruins at Turpan, the bazaars and Id Kah Mosque in Kashgar, the autumn colors at Kanas Lake, and the logistics of getting between each destination by domestic flight and train. Registration requirements and latest travel advice."
-ogImage: "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/19489123/pexels-photo-19489123.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Xinjiang is vast — larger than Western Europe — and the most culturally distinct region in China. The landscape shifts between desert (the Taklamakan is the world's second-largest sand desert), grassland, and dramatic mountain ranges (Tianshan, Karakoram, Kunlun). The population is primarily Uyghur, Kazakh, Kyrgyz, and dozens of other Central Asian ethnicities, with Han Chinese concentrated in the newer urban areas.
@@ -21,6 +21,8 @@ Visiting Xinjiang as a foreign tourist requires understanding some practical and
 ## Table of contents
 
 ## Important Practical Notes Before Planning
+
+![Xinjiang — Important Practical Notes Before Planning](https://images.pexels.com/photos/3832033/pexels-photo-3832033.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **Registration requirements:** Foreign visitors to Xinjiang must register with the local police within 24 hours of arriving anywhere. Hotels registered with the government handle this automatically. Private accommodation and unlicensed guesthouses cannot register you — use registered hotels throughout.
 
@@ -49,6 +51,8 @@ Visiting Xinjiang as a foreign tourist requires understanding some practical and
 **Tianchi Lake** (天池, ¥100) is 110km east of Urumqi — a glacial lake at 1,900m in the Tianshan mountains, surrounded by spruce forests and with views of the Bogda Peak (5,445m). Day tours run from Urumqi (¥80-120 including transport and ticket). The lake is genuinely beautiful; the tourist facilities around it are crowded in summer.
 
 ---
+
+![Xinjiang — Days 3-4: Turpan](https://images.pexels.com/photos/28700663/pexels-photo-28700663.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Days 3-4: Turpan
 
@@ -101,6 +105,8 @@ The **livestock market** (¥20) held on Sunday mornings in the outskirts of Kash
 The **Karakoram Highway** (KKH, 中巴公路) begins at Kashgar and climbs toward the Khunjerab Pass at the Pakistan border. A day trip to **Karakul Lake** (喀拉库勒湖, ¥75) — 3,600m altitude with Muztagh Ata (7,546m) reflected in the water — is one of the most dramatic day trips in China. Minibuses run from Kashgar to Karakul (3 hours each way, ¥60-80). The lake shore has Kyrgyz yurt accommodation for overnights.
 
 ---
+
+![Xinjiang — Days 8-10: Kanas Lake & Altay](https://images.pexels.com/photos/20791127/pexels-photo-20791127.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Days 8-10: Kanas Lake & Altay
 

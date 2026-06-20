@@ -1,6 +1,7 @@
 ---
 title: "Xi'an Dumpling Banquet & Tang Dynasty Cuisine Guide"
 description: "Everything about Xi'an's famous dumpling banquet (饺子宴) — what it is, where to eat it, prices, and how to experience authentic Tang dynasty-inspired Shaanxi cuisine. Complete food guide for Xi'an visitors."
+ogImage: "https://images.pexels.com/photos/1938260/pexels-photo-1938260.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/xian-dumpling.jpg"
 category: "destinations"
@@ -13,6 +14,8 @@ author: "RoamChina Travel"
 Xi'an's dumpling banquet (饺子宴, jiǎo zi yàn) is one of China's most famous culinary theatrical experiences — a multi-course meal structured around dozens of varieties of dumplings, each shaped to represent a different animal, fruit, or concept, and each filled with a different combination of ingredients. The concept draws on Tang dynasty court cooking traditions, when intricate, artistically shaped dim sum-style foods were served as part of elaborate imperial banquets.
 
 Whether it constitutes a genuinely historical recreation or an elaborate tourist attraction is debatable. What's clear is that Xi'an's dumpling culture is real, historically grounded, and genuinely enjoyable.
+
+![Xi' Dumpling Banquet & Tang Dynasty Cuisine — History: Dumplings in Tang Dynasty Xi'an](https://images.unsplash.com/photo-1570604127008-f644337cfb8b?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw0fHxkdW1wbGluZyUyMGJhbnF1ZXR8ZW58MHwwfHx8MTc4MTkyNjIwMXww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## History: Dumplings in Tang Dynasty Xi'an
 
@@ -33,6 +36,8 @@ A standard Xi'an dumpling banquet consists of 16-36 varieties of dumplings, each
 **By cooking method**: Boiled, steamed, pan-fried, and deep-fried varieties appear in sequence through the meal.
 
 **Portion sizes**: Each variety is typically served as 2-4 pieces, with the meal building cumulatively to a substantial total.
+
+![Xi' Dumpling Banquet & Tang Dynasty Cuisine — Where to Eat Dumpling Banquet](https://images.unsplash.com/photo-1570604127008-f644337cfb8b?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw0fHxFYXQlMjBEdW1wbGluZyUyMEJhbnF1ZXR8ZW58MHwwfHx8MTc4MTkyNjIwM3ww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## Where to Eat Dumpling Banquet
 
@@ -86,6 +91,8 @@ A Xi'an specialty that's now spread throughout China but originated here — thi
 ### Persimmon Cake (柿子饼)
 
 Xi'an's abundant persimmon production is reflected in these traditional sweet cakes — crispy exterior, soft persimmon-and-walnut filling, pan-fried to a golden brown. Particularly associated with the Zhifang Street (知枋街) area near the Small Wild Goose Pagoda.
+
+![Xi' Dumpling Banquet & Tang Dynasty Cuisine — Xi'an Food Street Guide](https://images.pexels.com/photos/33672238/pexels-photo-33672238.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Xi'an Food Street Guide
 

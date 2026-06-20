@@ -12,7 +12,7 @@ tags:
   - northwest
   - nature
 description: "Xinjiang covers one-sixth of China's territory — ancient Silk Road oases, Central Asian bazaars, the world's second largest desert, crystalline mountain lakes, and golden autumn taiga forests await in this extraordinary remote region."
-ogImage: "https://images.unsplash.com/photo-1565120130276-dfbd9a7a3ad7?w=1200&q=85"
+ogImage: "https://images.unsplash.com/photo-1586767004900-13674f430816?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw2fHxYaW5qaWFuZ3xlbnwwfDB8fHwxNzgxOTI2MjQ1fDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
 ---
 
 Xinjiang Uyghur Autonomous Region is China's largest administrative division — as big as Western Europe — and among its most geographically and culturally diverse. The region spans the Taklimakan Desert (one of the world's largest), the Tian Shan mountain range, and the lush Altai region near Russia.
@@ -20,6 +20,8 @@ Xinjiang Uyghur Autonomous Region is China's largest administrative division —
 ## Table of contents
 
 ## Important Travel Notes
+
+![Xinjiang — Important Travel Notes](https://images.pexels.com/photos/3832025/pexels-photo-3832025.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Xinjiang has a heightened security environment. Travellers should:
 - **Carry your passport at all times** — checkpoints are frequent
@@ -52,6 +54,8 @@ One of the world's great traditional markets — thousands of sheep, goats, donk
 
 ---
 
+![Xinjiang — Kanas Lake (喀纳斯湖)](https://images.pexels.com/photos/36163471/pexels-photo-36163471.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Kanas Lake (喀纳斯湖)
 
 Located in the Altai Mountains of far northern Xinjiang near the Russian and Mongolian borders — Kanas is one of China's most beautiful places. A long ribbon lake of milky-blue water (caused by glacial silt) in taiga forest.
@@ -79,6 +83,8 @@ See the Silk Road Itinerary guide for comprehensive coverage. Key points:
 - **Grape Valley** (best August–September for fresh Xinjiang grapes)
 
 ---
+
+![Xinjiang — Urumqi (乌鲁木齐)](https://images.pexels.com/photos/26622972/pexels-photo-26622972.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Urumqi (乌鲁木齐)
 

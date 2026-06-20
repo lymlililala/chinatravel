@@ -12,12 +12,14 @@ tags:
   - tianshan
   - silk-road
 description: "Explore Urumqi, the world's most distant major city from any ocean and the vibrant gateway to China's wild northwest. This 2026 guide covers the legendary International Grand Bazaar, the stunning Tianshan Heavenly Lake, the extraordinary Xinjiang Regional Museum with its ancient mummies, Uyghur cuisine that will reshape your understanding of Chinese food, and practical advice for using Urumqi as your launchpad into the Silk Road, Ili Valley, and beyond."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/29525811/pexels-photo-29525811.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
 
 ## Urumqi — The City at the Centre of Everywhere
+
+![Urumqi City — Urumqi — The City at the Centre of Everywhere](https://images.pexels.com/photos/28181118/pexels-photo-28181118.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Urumqi (乌鲁木齐) holds the Guinness World Record for being the most remote major city from any ocean — over 2,500 km from the nearest coastline. It's a superlative that somehow captures the essence of this place: vast, somewhat improbable, and defiantly alive. As the capital of the Xinjiang Uyghur Autonomous Region, Urumqi is where China's Han majority meets Central Asian culture in a collision that produces one of the country's most fascinating and complex urban environments.
 
@@ -64,6 +66,8 @@ The mummy exhibition is on the second floor and is genuinely haunting. The prese
 **Other exhibits:** The museum also has excellent collections of Silk Road artefacts, Uyghur cultural items, and a superb exhibition on the ancient Kizil Caves murals (reproductions, as the originals are in the caves near Kuqa).
 
 **Entrance fee:** Free, but you must present ID (passport for foreigners). Closed Mondays. English labels are available in most halls. Allow 2-3 hours.
+
+![Urumqi City — Tianshan Heavenly Lake (天池)](https://images.pexels.com/photos/12610125/pexels-photo-12610125.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Tianshan Heavenly Lake (天池)
 
@@ -124,6 +128,8 @@ If you think you know Chinese food, Urumqi will recalibrate your understanding e
 **Wujiaqu Big Plate Chicken (五家渠大盘鸡):** About 2 km north of the bazaar. The best big plate chicken in Urumqi, according to local consensus. Meals ¥40-60 ($5.50-8.30 USD) per person.
 
 **Tarhar Polo House:** A small, unassuming restaurant near Hongshan Park that serves the best polo in the city. Meals ¥20-30 ($2.80-4.20 USD) per person.
+
+![Urumqi City — Practical Information](https://images.pexels.com/photos/17364705/pexels-photo-17364705.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Practical Information
 

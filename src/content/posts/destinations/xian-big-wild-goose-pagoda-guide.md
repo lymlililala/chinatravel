@@ -12,12 +12,14 @@ tags:
   - shaanxi
   - buddhism
 description: "The Big Wild Goose Pagoda is Xi'an's most iconic Buddhist monument — built in 652 AD to house sutras brought from India by the monk Xuanzang, it remains one of the finest examples of Tang dynasty architecture in China. This 2026 guide covers the pagoda's history, climbing the tower, the evening fountain show, nearby Little Wild Goose Pagoda, and practical visitor tips."
-ogImage: "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/13998387/pexels-photo-13998387.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
 
 ## The Pagoda That Stood for Xuanzang's Journey
+
+![Big Wild Goose Pagoda Xi' — The Pagoda That Stood for Xuanzang's Journey](https://images.pexels.com/photos/30941972/pexels-photo-30941972.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 In 629 AD, a young Buddhist monk named Xuanzang slipped out of Tang dynasty China without official permission and embarked on one of the most extraordinary journeys in history. He walked and rode by horse across Central Asia to India, studying at the great Nalanda University and collecting hundreds of Buddhist sutras. Seventeen years later he returned with 657 texts, and the Emperor Taizong — who had tried to stop him leaving — received him as a national hero.
 
@@ -39,6 +41,8 @@ A second explanation, more prosaic, suggests the name derives from a Tang idiom 
 
 ### The Examination Tradition
 During the Tang dynasty, successful candidates in the imperial examinations had the honour of inscribing their names on the pagoda's base. This tradition, called "recording names on the Wild Goose Pagoda" (雁塔题名), became one of the great honours of scholarly achievement. The practice elevated the pagoda's cultural significance beyond its religious function.
+
+![Big Wild Goose Pagoda Xi' — Visiting the Pagoda: Practical Information](https://images.pexels.com/photos/13998391/pexels-photo-13998391.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Visiting the Pagoda: Practical Information
 
@@ -71,6 +75,8 @@ The large North Square (北广场) in front of the pagoda hosts what is claimed 
 The fountain combines choreographed water jets up to 40 metres high with coloured lights and music ranging from Chinese orchestral pieces to pop music. The pagoda, illuminated behind the fountain, creates an extraordinarily photogenic backdrop. The show draws enormous crowds — arrive 30 minutes early for a good position.
 
 **Photography tip**: Use a wide-angle lens to capture both the fountain and the illuminated pagoda together. The water droplets catch light beautifully with a telephoto lens for detail shots.
+
+![Big Wild Goose Pagoda Xi' — Little Wild Goose Pagoda (小雁塔)](https://images.pexels.com/photos/13997552/pexels-photo-13997552.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Little Wild Goose Pagoda (小雁塔)
 

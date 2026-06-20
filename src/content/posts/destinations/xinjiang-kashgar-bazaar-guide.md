@@ -11,6 +11,7 @@ tags:
   - culture
   - silk-road
 description: "Kashgar's Sunday Livestock Market and the Uyghur old city — the most Central Asian city in China, the Id Kah Mosque, the Sunday market, Uyghur food culture, and the complex realities of visiting Xinjiang in 2026."
+ogImage: "https://images.pexels.com/photos/19473640/pexels-photo-19473640.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Kashgar (喀什, Kashi) stands at the far western edge of China — an oasis city at the foot of the Pamir Mountains, historically the meeting point of the Silk Road's northern and southern routes, and the heart of Uyghur culture and Central Asian Muslim life in the Middle Kingdom.
@@ -18,6 +19,8 @@ Kashgar (喀什, Kashi) stands at the far western edge of China — an oasis cit
 The city is visually and culturally more like Samarkand than Shanghai. Arabic script appears on signboards; the architecture shows the flat-roofed, mudbrick tradition of Central Asian oasis architecture; the food is lamb-and-flatbread-centred; the market culture operates on a different calendar and rhythm from Han Chinese cities.
 
 **Important note**: Visiting Xinjiang in 2026 involves a specific political and security context that visitors should research thoroughly before travelling. This guide addresses the cultural and travel practical aspects while acknowledging that situation.
+
+![Kashgar Bazaar — The Old City (老城)](https://images.pexels.com/photos/27987227/pexels-photo-27987227.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Old City (老城)
 
@@ -27,6 +30,8 @@ Kashgar's old city has been extensively rebuilt and restored — the dense mudbr
 
 **The more genuine sections**: The western and northern residential lanes behind the main tourist areas still have occupied traditional houses. Walking away from the main tourist route finds families going about daily life.
 
+![Kashgar Bazaar — Id Kah Mosque and Square (艾提尕尔清真寺)](https://images.pexels.com/photos/35220191/pexels-photo-35220191.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Id Kah Mosque and Square (艾提尕尔清真寺)
 
 The Id Kah Mosque, built 1442 AD, is the largest mosque in China by capacity (20,000 worshippers for Friday prayer). The yellow-and-white facade with twin minarets dominates the central square.
@@ -34,6 +39,8 @@ The Id Kah Mosque, built 1442 AD, is the largest mosque in China by capacity (20
 The mosque is active — five daily prayer calls, Friday communal prayer, Ramadan observance. Non-Muslim visitors are welcome outside prayer times (check current access policy at the gate).
 
 **Friday prayer**: The largest religious gathering visible to visitors — thousands of worshippers coming from throughout Kashgar and surrounding villages.
+
+![Kashgar Bazaar — Sunday Livestock Market (大牧场)](https://images.pexels.com/photos/36960955/pexels-photo-36960955.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Sunday Livestock Market (大牧场)
 

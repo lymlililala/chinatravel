@@ -12,7 +12,7 @@ tags:
   - uyghur
   - bazaar
 description: "Kashgar stands at the ancient crossroads of the Silk Road where China, Central Asia, and South Asia meet. The Old City's mud-brick lanes, the Sunday Livestock Market, and the Id Kah Mosque together create one of the most distinctive urban experiences in China. This 2026 complete guide covers navigating the Old City, the Sunday market, when to visit, and respectful travel in this culturally rich destination."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/7713434/pexels-photo-7713434.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -24,6 +24,8 @@ Today Kashgar still sits at the edge of the known world in a certain sense — i
 Traveling here requires careful preparation and respect for a complex cultural and political context. This guide provides practical information while acknowledging that complexity.
 
 ## What Makes Kashgar Different
+
+![Kashgar Old City Xinjiang — What Makes Kashgar Different](https://images.pexels.com/photos/5273033/pexels-photo-5273033.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Kashgar's distinctiveness comes from several overlapping factors:
 
@@ -56,6 +58,8 @@ The largest mosque in China (capacity: 20,000 worshippers), this yellow-tiled co
 Entry: Free for respectful visitors in appropriate dress (women must cover hair; modest clothing for all).
 
 The most important experience is being in the square during Friday afternoon prayers (Juma Namaz, approximately 1–2pm) — when several thousand worshippers overflow from the mosque into the square. This is public, communal, and openly visible, but observe with respect and ask before photographing.
+
+![Kashgar Old City Xinjiang — The Sunday Market (周日集市 / 大巴扎)](https://images.pexels.com/photos/35298258/pexels-photo-35298258.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Sunday Market (周日集市 / 大巴扎)
 
@@ -94,6 +98,8 @@ Uyghur cuisine is genuinely one of China's great regional food traditions, and K
 ### Best Eating Area
 
 The old city lanes and the area around Id Kah Square have the highest concentration of good Uyghur restaurants. The morning markets near the mosque (7–10am) are particularly good for polo and nan.
+
+![Kashgar Old City Xinjiang — Surroundings and Day Trips](https://images.pexels.com/photos/36943572/pexels-photo-36943572.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Surroundings and Day Trips
 

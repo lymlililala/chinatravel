@@ -12,7 +12,7 @@ tags:
   - silk-road
   - hui-culture
 description: "Xi'an's Muslim Quarter (Huimin Jie) is one of China's most vibrant food and cultural streets — a living legacy of the Silk Road, where Hui Muslim families have maintained their community, food traditions and the magnificent Great Mosque for over a thousand years. This 2026 guide covers the best food, the Great Mosque visit, navigation tips, timing and how to experience the Muslim Quarter authentically."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.unsplash.com/photo-1742689502050-a407e55af693?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw0fHxtdXNsaW0lMjBxdWFydGVyfGVufDB8MHx8fDE3ODE5MjYyMTd8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
 ---
 
 ## Table of contents
@@ -22,6 +22,8 @@ The Muslim Quarter of Xi'an is one of the few places in China where you can walk
 The Muslim Quarter (回民街, Huimin Jie) today is very much a working community as well as a tourist destination. The 60,000+ Hui residents of this district maintain their religious practice, their distinctive architecture and, most famously, their food culture. The food here is justifiably world-famous among food obsessives.
 
 ## The Food You Must Eat
+
+![Xi' Muslim Quarter — The Food You Must Eat](https://images.pexels.com/photos/8844887/pexels-photo-8844887.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Let's start with what matters most.
 
@@ -77,6 +79,8 @@ The street is busiest from 17:00 to 22:00 when the food stalls are fully operati
 
 **Side alleys:** Turning off Beiyuanmen into the residential lanes to the east and west reveals the actual neighbourhood — quieter streets, traditional courtyard houses, children playing, elderly men at tea shops. These alleys are where the quarter's genuine community life is most visible.
 
+![Xi' Muslim Quarter — Beyond the Main Street](https://images.pexels.com/photos/30703908/pexels-photo-30703908.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Beyond the Main Street
 
 ### Huajue Lane (化觉巷)
@@ -102,6 +106,8 @@ The Muslim Quarter sits immediately north of Xi'an's Drum Tower (鼓楼) and Bel
 **Early morning (07:00–09:00):** Best for the Great Mosque (quiet before tourist groups) and for atmospheric photography. Breakfast stalls serving rou jia mo and paomo are in full operation.
 
 **Avoid:** Chinese national holidays (October 1–7 Golden Week and Spring Festival) when the quarter is completely overwhelmed. Friday noon around prayer time can be crowded near the mosque if you're visiting then.
+
+![Xi' Muslim Quarter — Practical Tips](https://images.unsplash.com/photo-1742689502177-0e137aa75452?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw1fHxtdXNsaW0lMjBxdWFydGVyfGVufDB8MHx8fDE3ODE5MjYyMTd8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## Practical Tips
 

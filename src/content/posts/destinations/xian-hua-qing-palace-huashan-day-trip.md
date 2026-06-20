@@ -8,6 +8,8 @@ tags: ["Xi'an", "Hua Qing Palace", "Mount Hua", "Huashan", "Xi'an day trips", "C
 
 Xi'an is a natural base for two of Shaanxi Province's most compelling experiences: the Hua Qing Palace hot springs complex with its imperial romance and a legendary 1936 political kidnapping, and the vertical cliffs of Mount Hua (华山, one of China's five sacred mountains) with its terrifying plank walk on chains across a sheer granite face. Both are within 90 minutes of Xi'an city.
 
+![Xi' Trips — Hua Qing Palace (华清宫)](https://images.pexels.com/photos/7009619/pexels-photo-7009619.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Hua Qing Palace (华清宫)
 
 **Location**: Lintong District, 30 km east of Xi'an; adjacent to Mount Li (骊山)
@@ -34,6 +36,8 @@ The site is organized as a large park with multiple zones:
 **Getting there**: Bus 306 from Xi'an Railway Station or Linglong Road (1 hour, ¥7–10); or Didi (¥50–70).
 
 ---
+
+![Xi' Trips — Mount Hua (华山)](https://images.pexels.com/photos/32762655/pexels-photo-32762655.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Mount Hua (华山)
 

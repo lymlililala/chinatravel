@@ -12,7 +12,7 @@ tags:
   - kazakh
   - yurt
 description: "Nalati Grassland in Xinjiang's Ili Valley is known as the 'Sky Grassland' — a high alpine meadow draped over mountain ridges with views that stretch to the Central Asian steppe. This 2026 guide covers yurt accommodation with Kazakh families, horse riding routes, how to get there from Yining, and why this less-visited gem deserves a place on your Xinjiang itinerary."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/28700656/pexels-photo-28700656.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -22,6 +22,8 @@ Nalati Grassland (那拉提草原) earns its nickname "Sky Grassland" (空中草
 The Ili Valley in western Xinjiang, where Nalati sits, is one of the regions that makes travelers reassess their mental image of Xinjiang as desert. The Ili River valley receives moisture from the Atlantic via westerly winds in a way that most of inland Asia doesn't, creating an improbably green and well-watered environment. In June and July, Nalati explodes with wildflowers. The Kazakh nomadic culture that has called this landscape home for generations adds a human dimension that makes the scenery even richer.
 
 ## Why Nalati Over Other Xinjiang Grasslands
+
+![Nalati Grassland Xinjiang — Why Nalati Over Other Xinjiang Grasslands](https://images.pexels.com/photos/28700657/pexels-photo-28700657.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Xinjiang has several famous grassland destinations: Bayinbuluke, Kanas, the Hemu area. Each has its own character. Nalati's advantages:
 
@@ -50,6 +52,8 @@ Direct taxi from Yining to Nalati Scenic Area costs approximately ¥180–220. A
 **By train:** The Lanzhou–Xinjiang high-speed rail reaches Yining (伊犁站) from Urumqi in about 3.5 hours. A slower overnight route from Urumqi to Yining station also runs.
 
 **By road (Duku Highway):** The spectacular Duku Highway (独库公路, National Highway G217) connects Kuqa on the southern rim of the Tianshan to Korla and eventually Urumqi. This is considered one of China's most scenic roads. It's typically open May–October (closed in winter). Self-driving this route and entering the Ili Valley via the northern end is a classic Xinjiang road trip.
+
+![Nalati Grassland Xinjiang — The Nalati Scenic Area](https://images.unsplash.com/photo-1624644128945-920c0da6931b?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxuYWxhdGklMjBncmFzc2xhbmR8ZW58MHwwfHx8MTc4MTkyNjI2OHww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## The Nalati Scenic Area
 
@@ -91,6 +95,8 @@ Authentic family yurts typically charge ¥80–150/night per person, including b
 Kazakh hospitality traditions are strong. If invited for tea in a yurt, accept. The tea may be milky and slightly salty — this is traditional and worth trying with an open mind. Bread and jam are always offered alongside. Bringing small gifts from the city (quality fruit, sweets) is appreciated and reciprocates the generosity.
 
 Don't photograph people without asking. Learn a few Kazakh phrases: "Rahmet" (thank you), "Salamatsyzba" (hello) — the effort is appreciated enormously.
+
+![Nalati Grassland Xinjiang — Nalati Festivals and Events](https://images.pexels.com/photos/27987223/pexels-photo-27987223.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Nalati Festivals and Events
 

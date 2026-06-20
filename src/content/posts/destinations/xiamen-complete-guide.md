@@ -11,7 +11,7 @@ tags:
   - coastal
   - east-china
 description: "Xiamen (厦门) — the most liveable city in China by multiple surveys, on the Fujian coast facing Taiwan. Gulangyu Island's piano culture and European architecture, the Nanputuo Temple, Xiamen's extraordinary specialty coffee culture (the city has the highest density of specialty cafes in China), the university district, and taking the ferry to see Taiwan's Kinmen Island from a distance."
-ogImage: "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/37714927/pexels-photo-37714927.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Xiamen consistently ranks at or near the top of Chinese cities for liveability, and visiting it reveals why. The city sits on a peninsula (and several islands) on the Fujian coast, facing Taiwan across the Strait. The weather is warm almost year-round, the city is clean and well-maintained, the seafood is excellent, and there's a cosmopolitan, outward-looking character that traces back to centuries of maritime trade with Southeast Asia and beyond.
@@ -21,6 +21,8 @@ The Hokkien (Fujian Minnan) diaspora in Malaysia, Singapore, Indonesia, and the 
 ## Table of contents
 
 ## Gulangyu Island (鼓浪屿)
+
+![Xiamen — Gulangyu Island (鼓浪屿)](https://images.pexels.com/photos/37714926/pexels-photo-37714926.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Gulangyu is a car-free island about 600 metres across the water from Xiamen's main shoreline. The island was designated an international settlement by treaty in 1903, with different colonial powers — British, German, American, Japanese, Dutch — establishing consulates and residential villas. The result is an extraordinary architectural collection: 931 historic buildings in European, American, and hybrid colonial styles.
 
@@ -77,6 +79,8 @@ Nanputuo is an active Buddhist monastery founded in the Tang Dynasty, set agains
 
 **Vegetarian restaurant:** Operating since 1924, serving elaborate vegetarian cuisine that mimics meat dishes using tofu, mushrooms, and gluten. Lunch and dinner seatings; ¥50–100 per person.
 
+![Xiamen — Xiamen University (厦门大学)](https://images.pexels.com/photos/20265634/pexels-photo-20265634.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Xiamen University (厦门大学)
 
 Xiamen University, founded in 1921 by a Hokkien overseas Chinese businessman from Singapore (Chen Jiageng), has one of the most scenic campuses in China — colonial-style buildings set between Furong Lake and Wulaofeng, with direct access to the beach.
@@ -101,6 +105,8 @@ There are no regular civilian ferry services between Xiamen and Kinmen (despite 
 - From Guangzhou: About 3 hours, ¥180–240
 
 **Metro from Xiamen North to city centre:** Lines 1 or 3, about 40–50 minutes.
+
+![Xiamen — Getting Around Xiamen](https://images.pexels.com/photos/17985038/pexels-photo-17985038.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting Around Xiamen
 

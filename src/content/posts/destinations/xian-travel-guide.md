@@ -31,6 +31,8 @@ And then there is the Terracotta Army. Nothing quite prepares you for the scale 
 
 ## Top Things to See and Do
 
+![Xi' — Top Things to See and Do](https://images.pexels.com/photos/1750268/pexels-photo-1750268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ### The Terracotta Army (兵马俑)
 
 Emperor Qin Shi Huang's burial complex, 35km east of the city, contains an estimated 8,000 terracotta warrior and horse figures buried to guard the emperor in the afterlife. Discovered by farmers digging a well in 1974, it remains one of the greatest archaeological discoveries in history.
@@ -88,6 +90,8 @@ One of China's best provincial museums, with 370,000 artefacts spanning the enti
 - **Bell Tower Hotel (钟楼饭店)**: a heritage-listed 1950s hotel in the geographic centre of the city, with views of the Bell Tower from some rooms.
 
 ---
+
+![Xi' — Day Trips from Xi'an](https://images.pexels.com/photos/3250079/pexels-photo-3250079.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day Trips from Xi'an
 

@@ -11,7 +11,7 @@ tags:
   - hiking
   - southwest-china
 description: "Wulong Karst National Geology Park near Chongqing — the awe-inspiring Three Natural Bridges (Tianlong, Qinglong, Heilong), Fairy Mountain meadows, the Furong Cave, and practical advice for visiting from Chongqing as a day trip or overnight."
-ogImage: "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/36204285/pexels-photo-36204285.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Two hours southeast of Chongqing, the landscape changes dramatically. The densely packed urban sprawl of the municipality gives way to deep gorges, vertical limestone cliffs, and the kind of dramatic karst scenery that looks slightly unreal. Wulong Karst National Geology Park is the reason to make this journey — and specifically, the Three Natural Bridges are among the most striking geological formations in China. This isn't tourist-board superlative: these are three freestanding limestone arches, each taller than the Arc de Triomphe, standing in a single canyon, and they were largely unknown internationally until the film "Transformers: Age of Extinction" used the location in 2014.
@@ -19,6 +19,8 @@ Two hours southeast of Chongqing, the landscape changes dramatically. The densel
 ## Table of contents
 
 ## What Makes Wulong Special
+
+![Wulong Karst National Park — What Makes Wulong Special](https://images.pexels.com/photos/37817225/pexels-photo-37817225.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 The park covers a large area and has several distinct attractions, but the crown jewel is **Tianlong Tiankeng and Three Natural Bridges Scenic Area** — the canyon with the three named bridges: Tianlong (Sky Dragon), Qinglong (Blue Dragon), and Heilong (Black Dragon). The gorge between them descends about 200 meters, and wooden walkways take you to the base of each bridge so you can look up through the arches at a sliver of sky. The scale takes a moment to register.
 
@@ -36,6 +38,8 @@ Chongqing's Longtousi bus station runs direct coaches to Wulong. Journey time is
 As a day trip, you can realistically see the Three Natural Bridges and one other attraction (either Furong Cave or part of the surrounding area). An overnight stay gives you time to combine all major sites without rushing — especially worthwhile if you're also planning Fairy Mountain.
 
 **Overnight options in Wulong town:** Small hotels and guesthouses around ¥150–300/night. Nothing luxurious, but clean and functional. Several small restaurants serving Chongqing-style food (expect the spice).
+
+![Wulong Karst National Park — The Three Natural Bridges: What to Expect](https://images.pexels.com/photos/18883407/pexels-photo-18883407.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Three Natural Bridges: What to Expect
 
@@ -62,6 +66,8 @@ About 25km from the Three Natural Bridges, Furong Cave is one of China's most-vi
 - **Temperature inside:** ~12°C year-round — bring a layer regardless of the outside temperature
 
 The cave is cut into the bank of the Furong River (which itself is an emerald green color due to mineral content). Getting there from Three Bridges requires either your own transport, a taxi, or arranging a tour package from Chongqing.
+
+![Wulong Karst National Park — Fairy Mountain (Xiannü Shan)](https://images.pexels.com/photos/7494241/pexels-photo-7494241.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Fairy Mountain (Xiannü Shan)
 

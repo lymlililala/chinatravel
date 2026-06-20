@@ -12,6 +12,7 @@ tags:
   - Hui culture
   - silk road
 description: "A detailed food and culture guide to Xi'an's Muslim Quarter — the best dishes to try, which stalls to visit, the Great Mosque, and how to explore Beiyuanmen Street beyond the tourist snacks."
+ogImage: "https://images.unsplash.com/photo-1742689502186-fe7d6aa1402a?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw2fHxtdXNsaW0lMjBxdWFydGVyfGVufDB8MHx8fDE3ODE5MjYyMTd8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
 ---
 
 Xi'an's Muslim Quarter (回民街, *Huímín Jiē*) is the most concentrated food street in China — 400 metres of dense vendors selling Shaanxi-Hui fusion street food, surrounded by 300 years of Hui minority neighbourhood history in what was once the western terminus of the Silk Road.
@@ -21,6 +22,8 @@ The crowds can be overwhelming; the commercial pressure is relentless; the food 
 ## Table of contents
 
 ## Essential Information
+
+![Xi' Muslim Quarter — Essential Information](https://images.unsplash.com/photo-1742689502071-a809f3890fde?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw3fHxtdXNsaW0lMjBxdWFydGVyfGVufDB8MHx8fDE3ODE5MjYyMTd8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 | Detail | Info |
 |--------|------|
@@ -72,6 +75,8 @@ Shaanxi's most famous noodle — hand-torn, belt-wide wheat noodles (the width o
 - **Walnut Cake (核桃饼):** Sesame-covered biscuits filled with walnut paste. Available from bakery shops on the northern end of Beiyuanmen.
 - **Candy-floss variations:** Numerous creative candy-floss sculptures (animals, flowers) made fresh — not particularly traditional but popular
 
+![Xi' Muslim Quarter — The Great Mosque (清真大寺)](https://images.pexels.com/photos/9164036/pexels-photo-9164036.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The Great Mosque (清真大寺)
 
 Embedded within the Muslim Quarter, the Xi'an Great Mosque is one of China's largest and most historically significant mosques — and architecturally unique: entirely in the Chinese temple-palace style rather than the onion-dome form of Middle Eastern mosques.
@@ -89,6 +94,8 @@ Embedded within the Muslim Quarter, the Xi'an Great Mosque is one of China's lar
 The alley running behind the Great Mosque is the craft and antiques section of the Muslim Quarter. Less food, more copper ware, jade, carved wood, and Chinese antique reproductions.
 
 The quality of antiques here varies from genuine to obviously fake. For genuine craft shopping, **copper tea vessels and filigree metalwork** — a traditional Hui craft — are worth looking at.
+
+![Xi' Muslim Quarter — The Neighbourhood Beyond the Food Street](https://images.pexels.com/photos/18536260/pexels-photo-18536260.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Neighbourhood Beyond the Food Street
 

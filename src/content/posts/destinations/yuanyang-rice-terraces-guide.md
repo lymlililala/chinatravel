@@ -11,7 +11,7 @@ tags:
   - minority-cultures
   - nature
 description: "Yuanyang (元阳) rice terraces in Yunnan — the Hani minority's 1,300-year-old terraced landscape at its most spectacular from November to March when the flooded terraces reflect the dawn sky. The three main viewpoints (Duoyishu, Bada, and Laohuzui), staying overnight for dawn, and the Hani villages where the culture is still very much alive."
-ogImage: "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/27200218/pexels-photo-27200218.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 The Yuanyang rice terraces in the Honghe Hani and Yi Autonomous Prefecture of southern Yunnan are among the most extraordinary agricultural landscapes on earth. The Hani minority people have been carving terraces into the Ailao Mountains here for approximately 1,300 years, creating a staircase of flooded fields that descends from forests at 2,000 metres down to the Red River valley at 144 metres.
@@ -22,6 +22,8 @@ The UNESCO World Heritage Site designation in 2013 was long overdue. What makes 
 
 ## The Best Season: November to March
 
+![Yuanyang Rice Terraces — The Best Season: November to March](https://images.pexels.com/photos/36535773/pexels-photo-36535773.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 Yuanyang terraces are beautiful year-round, but the most spectacular conditions occur from November to March, when the terraces are flooded for the new planting cycle.
 
 During this period, each terrace acts as a mirror. At dawn, when low cloud and mist frequently sit in the valleys between the hills, the flooded terraces reflect the sky in a layered series of pools that shifts in colour as the sun rises — orange, pink, white, then blue. The cloud and mist are crucial: they provide the middle layer that makes the reflected sky visible by diffusing the direct sunlight.
@@ -29,6 +31,8 @@ During this period, each terrace acts as a mirror. At dawn, when low cloud and m
 In summer (April–September), the terraces are planted with green rice — a different and also beautiful sight, but the mirror-reflection phenomenon of the flooded winter terraces is missing.
 
 The busiest period is Chinese New Year (usually late January/early February) and the first weeks of November when the flooding begins — if possible, arrive in mid-December through January for fewer crowds and reliable flooded conditions.
+
+![Yuanyang Rice Terraces — The Three Main Viewpoints](https://images.pexels.com/photos/15583903/pexels-photo-15583903.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Three Main Viewpoints
 
@@ -39,6 +43,8 @@ The busiest period is Chinese New Year (usually late January/early February) and
 **Laohuzui (老虎嘴, "Tiger's Mouth")**: The most dramatic single-viewpoint shot — a cliff edge that looks straight down 300 metres into a deep valley of terraces falling away in steps. Best at sunset when the western light catches the water surfaces. The engineering feat of the terraces is most viscerally apparent here: steep, near-vertical slopes somehow made into cultivable land through sheer accumulated human effort. Entry included in combined ticket.
 
 The combined scenic area ticket is ¥100 and covers all three main viewpoints. It is valid for multiple days — staying 2–3 nights allows you to hit each viewpoint at its optimal time.
+
+![Yuanyang Rice Terraces — Staying Overnight: The Essential Strategy](https://images.pexels.com/photos/7814062/pexels-photo-7814062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Staying Overnight: The Essential Strategy
 

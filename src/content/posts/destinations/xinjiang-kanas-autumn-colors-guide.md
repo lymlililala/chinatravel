@@ -1,6 +1,7 @@
 ---
 title: "Xinjiang Kanas Lake Autumn Colors: October Photography & Tuva Villages"
 description: "Experience Kanas Lake in northern Xinjiang during peak autumn — brilliant birch and aspen gold against cold blue water, remote Tuva Mongolian villages, horse-riding through taiga forests, and the best photography opportunities in China's northwest."
+ogImage: "https://images.pexels.com/photos/30123499/pexels-photo-30123499.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Xinjiang"
 tags: ["xinjiang", "kanas", "autumn", "photography", "tuva-village", "hemu", "horse-riding", "altay-mountains"]
@@ -11,6 +12,8 @@ tags: ["xinjiang", "kanas", "autumn", "photography", "tuva-village", "hemu", "ho
 In the northern tip of Xinjiang, where the Altay Mountains form the border with Russia and Mongolia, a glacial lake of extraordinary transparency fills a valley carved by Ice Age glaciers. **Kanas Lake (喀纳斯湖)** is China's deepest freshwater lake, fed by snowmelt from Friendship Peak (友谊峰, 4,374 m), and surrounded by a forest that, in the brief weeks between late September and mid-October, transforms into one of the most spectacular autumn colour displays in Asia.
 
 ---
+
+![Xinjiang Kanas Lake Autumn Colors — Why Autumn in Kanas Is Special](https://images.unsplash.com/photo-1698253542757-dcafef34a137?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHx4aW5qaWFuZyUyMGthbmFzfGVufDB8MHx8fDE3ODE5MjYyNTR8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## Why Autumn in Kanas Is Special
 
@@ -33,6 +36,8 @@ The lake is famous among Chinese tourists for an alleged resident monster — gi
 A platform on the hillside above the northern end of the lake allows a panoramic view over the full length of the water. During October the surrounding forest from this viewpoint looks like a painter's accident — streaks of gold and green across the valley. Allow 30–40 minutes to walk up from the lake shore.
 
 ---
+
+![Xinjiang Kanas Lake Autumn Colors — Hemu Village (禾木村)](https://images.pexels.com/photos/13457229/pexels-photo-13457229.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Hemu Village (禾木村)
 
@@ -61,6 +66,8 @@ The village has no mobile signal and limited electricity; accommodation (in fami
 The **forest around Baihaba** is the most pristine in the area — large-diameter Siberian spruce and fir trees that have never been logged, with a forest floor of deep moss. Walking the unmarked trails requires a guide; the risk of getting lost in fog is real.
 
 ---
+
+![Xinjiang Kanas Lake Autumn Colors — Wildlife](https://images.pexels.com/photos/13218637/pexels-photo-13218637.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Wildlife
 
