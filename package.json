@@ -19,7 +19,6 @@
   "dependencies": {
     "@astrojs/mdx": "^5.0.6",
     "@astrojs/rss": "^4.0.18",
-    "@astrojs/sitemap": "^3.7.2",
     "@supabase/supabase-js": "^2.106.1",
     "@tailwindcss/vite": "^4.3.0",
     "@vercel/analytics": "^2.0.1",

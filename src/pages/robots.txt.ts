@@ -38,7 +38,10 @@ Sitemap: ${sitemapURL.href}
 `;
 
 export const GET: APIRoute = ({ site }) => {
-  const sitemapURL = new URL("sitemap-index.xml", site);
+  // 指向手写的 src/pages/sitemap.xml.ts —— 单一权威 sitemap，带 lastmod 且
+  // tag 过滤阈值与页面级 noindex 一致。不再用 @astrojs/sitemap 的
+  // sitemap-index.xml（已从 astro.config 移除：无 lastmod，且与本套重复）。
+  const sitemapURL = new URL("sitemap.xml", site);
   return new Response(getRobotsTxt(sitemapURL), {
     headers: {
       "Content-Type": "text/plain; charset=utf-8",

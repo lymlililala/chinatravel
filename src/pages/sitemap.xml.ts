@@ -47,6 +47,7 @@ export const GET: APIRoute = async ({ site }) => {
   }
 
   const posts = await getCollection("posts");
+  const pages = await getCollection("pages");
   const sortedPosts = getSortedPosts(posts);
   const uniqueTags = getUniqueTags(posts);
 
@@ -77,9 +78,17 @@ export const GET: APIRoute = async ({ site }) => {
   urls.push({ loc: buildUrl("/posts/", site), lastmod: siteLastmod });
   urls.push({ loc: buildUrl("/tags/", site), lastmod: siteLastmod });
 
-  // Static pages whose content is not derived from post dates — no lastmod.
-  urls.push({ loc: buildUrl("/about/", site) });
+  // Standalone utility pages (own .astro routes, not derived from post dates).
   urls.push({ loc: buildUrl("/search/", site) });
+  urls.push({ loc: buildUrl("/toolkit/", site) });
+  urls.push({ loc: buildUrl("/visa-checker/", site) });
+
+  // Content "pages" collection (about / contact / privacy / terms, …) —
+  // rendered by src/pages/[slug].astro. Pulled dynamically so new markdown
+  // pages enter the sitemap automatically without editing this file.
+  for (const page of pages) {
+    urls.push({ loc: buildUrl(`/${page.id}/`, site) });
+  }
 
   if (config.features?.showArchives !== false) {
     urls.push({ loc: buildUrl("/archives/", site), lastmod: siteLastmod });

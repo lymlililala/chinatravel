@@ -6,7 +6,6 @@ import {
 } from "astro/config";
 import tailwindcss from "@tailwindcss/vite";
 import mdx from "@astrojs/mdx";
-import sitemap from "@astrojs/sitemap";
 import remarkToc from "remark-toc";
 import remarkCollapse from "remark-collapse";
 import {
@@ -15,45 +14,16 @@ import {
   transformerNotationWordHighlight,
 } from "@shikijs/transformers";
 import { transformerFileName } from "./src/utils/transformers/fileName";
-import { getThinTagSlugs } from "./src/utils/thinTagSlugs";
 import config from "./astro-paper.config";
 
-// Tag pages with fewer than this many posts are thin/low-value: they are
-// noindexed at the page level and excluded from the sitemap below.
-const TAG_INDEX_THRESHOLD = 3;
-const thinTagSlugs = getThinTagSlugs(TAG_INDEX_THRESHOLD);
+// 站点地图改由手写端点 src/pages/sitemap.xml.ts 单独生成（带 lastmod、
+// tag 过滤阈值与页面级 noindex 一致），robots.txt 指向 /sitemap.xml。
+// 此前并存的 @astrojs/sitemap 集成会另出一套 sitemap-index.xml（无 lastmod、
+// 与手写版重复），已移除以避免双 sitemap 冲突。
 
 export default defineConfig({
   site: config.site.url,
-  integrations: [
-    mdx(),
-    sitemap({
-      filter: page => {
-        if (
-          config.features?.showArchives === false &&
-          page.endsWith("/archives/")
-        ) {
-          return false;
-        }
-        // Drop thin tag pages (and their pagination) from the sitemap.
-        const tagMatch = page.match(/\/tags\/([^/]+)(?:\/|$)/);
-        if (tagMatch && thinTagSlugs.has(decodeURIComponent(tagMatch[1]))) {
-          return false;
-        }
-        // Drop tag pagination pages (/tags/<slug>/2/, /3/, …) — "page 2+" of a
-        // tag listing is low-value; only the first page stays in the sitemap.
-        if (/\/tags\/[^/]+\/\d+\/?$/.test(page)) {
-          return false;
-        }
-        // Drop main article-listing pagination (/posts/2/, /posts/3/, …).
-        // Article pages live under /posts/<section>/<slug>/ so they are safe.
-        if (/\/posts\/\d+\/?$/.test(page)) {
-          return false;
-        }
-        return true;
-      },
-    }),
-  ],
+  integrations: [mdx()],
   i18n: {
     locales: ["en"],
     defaultLocale: "en",

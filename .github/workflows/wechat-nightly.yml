@@ -9,6 +9,8 @@ name: WeChat nightly content pipeline
 #   DEEPSEEK_API_KEY                       合成/聚类/评分（必填）；可选 DEEPSEEK_BASE_URL / DEEPSEEK_MODEL
 #   SUPABASE_SECRET_KEY                    入库 + 判重镜像（必填）
 #   PEXELS_API_KEY                         配图主源（必填）；可选 UNSPLASH_ACCESS_KEY 回退
+#   VERCEL_DEPLOY_HOOK                      可选：兜底显式触发 Vercel 生产部署
+#                                          （Vercel 项目 Settings → Git → Deploy Hooks 创建后粘贴 URL）
 # 密钥只进 GitHub Secrets，绝不入仓。
 
 on:
@@ -103,6 +105,7 @@ jobs:
           node scripts/wechat/4-publish.mjs --max-publish "$MAX_PUBLISH"
 
       - name: Commit & push new posts
+        id: commit
         run: |
           set -euo pipefail
           git config user.name  "github-actions[bot]"
@@ -111,6 +114,7 @@ jobs:
           git add src/content/posts/destinations/*.md
           if git diff --cached --quiet; then
             echo "本次无新文章，跳过提交。"
+            echo "pushed=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           # 过滤掉只含草稿的改动：若暂存区里没有 draft:false 的新文件则不提交
@@ -122,6 +126,7 @@ jobs:
           if [ "$publishable" -eq 0 ]; then
             echo "本次仅产生草稿，跳过提交。"
             git reset
+            echo "pushed=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           count=$(echo "$changed" | wc -l | tr -d ' ')
@@ -132,3 +137,25 @@ jobs:
 
           Co-Authored-By: Claude Opus 4.8 (1M context) <noreply@anthropic.com>"
           git push origin HEAD:main
+          echo "pushed=true" >> "$GITHUB_OUTPUT"
+
+      # 兜底：显式触发 Vercel 部署，确保新文章 + 重生成的 sitemap.xml 上线。
+      # 正常情况下 push main 已由 Vercel Git 集成自动部署，本步骤是冗余保险——
+      # 若 Git 集成偶发失联/未触发，Deploy Hook 仍能拉起一次生产构建。
+      # 仅在确有提交推送时触发，避免无变更也空跑部署。
+      # 前置 Secret：VERCEL_DEPLOY_HOOK（Vercel 项目 Settings → Git → Deploy Hooks 创建）。
+      - name: Trigger Vercel deploy (backstop)
+        if: steps.commit.outputs.pushed == 'true'
+        env:
+          HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
+        run: |
+          set -euo pipefail
+          if [ -z "${HOOK:-}" ]; then
+            echo "未配置 VERCEL_DEPLOY_HOOK，跳过兜底部署（依赖 Git 集成自动部署）。"
+            exit 0
+          fi
+          echo "触发 Vercel Deploy Hook…"
+          code=$(curl -sS -X POST -o /tmp/hook_resp.json -w '%{http_code}' "$HOOK")
+          echo "HTTP $code"; cat /tmp/hook_resp.json || true
+          # 2xx 视为成功；非 2xx 不让整条流水线失败（文章已 push，Git 集成仍会兜住）
+          case "$code" in 2*) echo "✅ 已触发部署";; *) echo "::warning::Deploy Hook 返回 $code，依赖 Git 集成兜底";; esac
