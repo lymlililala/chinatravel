@@ -1,6 +1,6 @@
 ---
 author: "Roam China Travel Editorial Team"
-pubDatetime: 2026-06-20T06:46:19Z
+pubDatetime: 2026-06-20T09:00:46Z
 title: "China & the 2026 World Cup: Where to Watch and the Football-Travel Boom"
 draft: false
 tags:
@@ -10,7 +10,7 @@ tags:
   - "itinerary"
   - "china"
 description: "China's men didn't qualify, but the country is all over the 2026 World Cup — referees, brands, late-night viewing parties and a homegrown football-tourism"
-ogImage: "https://images.pexels.com/photos/38112754/pexels-photo-38112754.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.pexels.com/photos/14856235/pexels-photo-14856235.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 faq:
   - question: "Can I use Alipay or WeChat Pay in North America for World Cup purchases?"
     answer: "Yes, many Chinese-owned businesses accept Alipay and WeChat Pay, but for general use (tickets, hotels, restaurants), bring a credit card or cash. In China, these apps are essential."
@@ -32,7 +32,7 @@ The 2026 FIFA World Cup kicks off across 16 cities in the United States, Canada,
 
 China's love affair with football runs deep, even if the national team rarely makes the big stage. The 2026 World Cup has sparked a surge in football-related travel, with Chinese fans booking trips to North America in record numbers. According to travel platforms, searches for flights to host cities like Los Angeles, New York, and Mexico City jumped over 300% after the draw. Tour operators are offering package deals that bundle match tickets with guided tours of iconic landmarks — think SoFi Stadium and the Hollywood Walk of Fame, or Estadio Azteca and the pyramids of Teotihuacán.
 
-![A group of Chinese fans waving flags in front of a large outdoor screen at a World Cup viewing party in Shanghai](https://images.pexels.com/photos/303353/pexels-photo-303353.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![A group of Chinese fans waving flags in front of a large outdoor screen at a World Cup viewing party in Shanghai](https://images.pexels.com/photos/355033/pexels-photo-355033.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 For those staying in China, the buzz is just as electric. Cities across the country — from Beijing to Chengdu — are transforming public squares, sports bars, and even shopping malls into official viewing zones. The Chinese Football Association and the Communist Youth League have jointly launched a "Civilised Spectating" campaign, setting up over 2,000 official viewing points in 105 cities, expected to draw more than 50 million participants. These venues feature giant screens, food stalls, and family-friendly activities, creating a carnival atmosphere that rivals the stadium experience.
 
@@ -42,11 +42,11 @@ For those staying in China, the buzz is just as electric. Cities across the coun
 
 In major cities, sports bars are the go-to for an immersive experience. In Beijing, head to **The Den** (a legend among expats) or **Paddy O'Shea's** for a lively crowd and multiple screens. In Shanghai, **Big Bamboo** and **Cages** are famous for their American-style sports bar vibe, serving burgers and cold beers until the early hours. These venues often have dedicated fan zones for specific teams — expect flags, chants, and a mix of locals and expats.
 
-![Football fans packed into a Shanghai sports bar at dawn, cheering at big screens with beers and breakfast on the tables](https://images.pexels.com/photos/38112754/pexels-photo-38112754.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Football fans packed into a Shanghai sports bar at dawn, cheering at big screens with beers and breakfast on the tables](https://images.pexels.com/photos/14856235/pexels-photo-14856235.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### Official Fan Festivals and Public Viewing
 
-China's cities are setting up official FIFA Fan Festival-style events in public squares. For example, in **Guangzhou's Huacheng Square** and **Shanghai's People's Square**, you'll find massive LED screens (some over 500 square metres), interactive games, and food markets. These events are free and run from the opening match to the final. Check local listings or local city listings or your hotel concierge for the nearest official viewing venue.
+China's cities are setting up official FIFA Fan Festival-style events in public squares. For example, in **Guangzhou's Huacheng Square** and **Shanghai's People's Square**, you'll find massive LED screens (some over 500 square metres), interactive games, and food markets. These events are free and run from the opening match to the final. Check local listings or your hotel concierge for the nearest official viewing venue.
 
 ### Late-Night Viewing Culture
 
@@ -62,7 +62,7 @@ China's corporate march into the World Cup began in 2010 with solar panel maker 
 
 Chinese engineering is all over the 2026 World Cup. The **Lusail Stadium** in Qatar (2022) was a Chinese-built showpiece, and for 2026, Chinese companies are supplying modular housing, electric buses, and solar panels. **BYD** and **Yutong** are providing electric buses for fan transport in several host cities. **China Energy Engineering Corporation** is building solar farms to power stadiums. Even the temporary seating and fan villages rely on Chinese-made prefab units.
 
-![A Chinese-built electric bus transporting fans outside SoFi Stadium in Los Angeles](https://images.pexels.com/photos/18152901/pexels-photo-18152901.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![A Chinese-built electric bus transporting fans outside SoFi Stadium in Los Angeles](https://images.unsplash.com/photo-1498831624351-bb3e382fe091?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxlbGVjdHJpYyUyMHdvcmxkfGVufDB8MHx8fDE3ODE5NDYwNDV8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ### The Referee: A Historic First
 

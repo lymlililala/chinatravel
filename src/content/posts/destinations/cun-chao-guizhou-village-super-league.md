@@ -1,6 +1,6 @@
 ---
 author: "Roam China Travel Editorial Team"
-pubDatetime: 2026-06-20T06:46:13Z
+pubDatetime: 2026-06-20T09:00:34Z
 title: "Cun Chao: Inside Guizhou's Viral Village Super League – A Traveler's Guide"
 draft: false
 tags:
@@ -10,7 +10,7 @@ tags:
   - "food"
   - "minority-cultures"
 description: "Discover Guizhou's Village Super League (Cun Chao) – a rural football phenomenon blending Miao/Dong culture, grassroots energy, and tourism. How to visit"
-ogImage: "https://images.pexels.com/photos/33488565/pexels-photo-33488565.png?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.pexels.com/photos/8776834/pexels-photo-8776834.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 faq:
   - question: "Do I need a ticket to watch Cun Chao matches?"
     answer: "No, all matches are free and open to the public. Just show up and find a seat in the stands. Arrive early (at least 2 hours before kickoff) to secure a good spot and enjoy the pre-match festivities."
@@ -32,7 +32,7 @@ In a small county tucked away in the mountains of Guizhou, a football revolution
 
 Cun Chao is a grassroots football league organized by villagers in Rongjiang County, Qiandongnan Miao and Dong Autonomous Prefecture. Unlike China's professional Super League, Cun Chao is purely amateur – players are farmers, butchers, drivers, and students. Matches are played on a modest pitch, but the atmosphere rivals any stadium: thousands of locals in embroidered silver headdresses, beating drums, singing folk songs, and waving flags. The league started in 2023 with 20 teams and has since grown to over 130, with teams from across China and even international friendlies.
 
-![Crowded stands at a Cun Chao match with Miao and Dong spectators in traditional silver headdresses and embroidered clothing, waving flags under a bright sky](https://images.pexels.com/photos/18972019/pexels-photo-18972019.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Crowded stands at a Cun Chao match with Miao and Dong spectators in traditional silver headdresses and embroidered clothing, waving flags under a bright sky](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85)
 
 ## Why Cun Chao Matters
 
@@ -71,7 +71,7 @@ Since Cun Chao went viral, Rongjiang has expanded its accommodation rapidly. Opt
 - **Sanbao Dong Village** (三宝侗寨, Sānbǎo Dòngzhài): a cluster of traditional Dong villages with drum towers and stilted wooden houses, just 10 minutes from the stadium.
 - **Zaiyong Village** (栽勇村): a Miao village with homestays run by local families.
 
-![A traditional Dong drum tower in Sanbao Dong Village, with wooden stilt houses and a small river](https://images.pexels.com/photos/33488565/pexels-photo-33488565.png?auto=compress&cs=tinysrgb&h=650&w=940)
+![A traditional Dong drum tower in Sanbao Dong Village, with wooden stilt houses and a small river](https://images.pexels.com/photos/8776834/pexels-photo-8776834.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## What to Eat
 

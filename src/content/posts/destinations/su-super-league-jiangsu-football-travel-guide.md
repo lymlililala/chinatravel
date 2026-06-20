@@ -1,6 +1,6 @@
 ---
 author: "Roam China Travel Editorial Team"
-pubDatetime: 2026-06-20T06:46:16Z
+pubDatetime: 2026-06-20T09:00:40Z
 title: "The Su Super League: Football, City Rivalries & Travel Across Jiangsu"
 draft: false
 tags:
@@ -10,7 +10,7 @@ tags:
   - "food"
   - "urban"
 description: "Discover how Jiangsu's amateur football league sparked a travel craze. This guide covers matchday experiences, city rivalries, local food, and tips for"
-ogImage: "https://images.pexels.com/photos/32914156/pexels-photo-32914156.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.pexels.com/photos/7494607/pexels-photo-7494607.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 faq:
   - question: "How do I buy Su Super League tickets as a foreigner?"
     answer: "Tickets are sold on the official WeChat mini-program (search '苏超' in Chinese). You'll need a WeChat account with WeChat Pay or Alipay. Alternatively, buy at the stadium box office on matchday – bring your passport. Prices are ¥10–20."
@@ -28,7 +28,7 @@ In 2025, a grassroots football phenomenon swept across Jiangsu province (江苏�
 
 ## Table of contents
 
-![Supertall stadium filled with fans waving flags in Nanjing](https://images.pexels.com/photos/31163019/pexels-photo-31163019.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Rows of stadium seats before kickoff at a Su Super League match in Jiangsu](https://images.pexels.com/photos/35781790/pexels-photo-35781790.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## What is the Su Super League?
 
@@ -61,7 +61,7 @@ A Su Super League matchday is a festival. Arrive 2–3 hours early to explore th
 - **Cultural performances**: Before kick-off, you might see traditional opera, dragon dances, or even actors dressed as historical figures (e.g., Sun Wukong in Huai'an).
 - **Fan chants and tifos**: Each city has its own songs and banners. Don't be surprised to hear playful insults – it's all part of the fun.
 
-![Street food stalls and fans outside a stadium in Yangzhou](https://images.pexels.com/photos/32914156/pexels-photo-32914156.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Skewered street food at a lively night market in Nanjing, Jiangsu](https://images.pexels.com/photos/34981671/pexels-photo-34981671.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## How to Get Tickets
 

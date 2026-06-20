@@ -13,10 +13,38 @@ import { loadEnv, DATA_DIR } from './env.mjs'
 
 const CACHE_FILE = join(DATA_DIR, 'image-cache.json')
 
-// 英文停用词：相关性校验时忽略，只看实义词（地名/景点名）是否命中
+// 英文停用词：相关性校验时忽略，只看实义词（地名/景点名）是否命中。
+// 含通用题材词（food/crowd/fans/stadium…）——否则 Pexels 拿越南夜市/巴西球场之类
+// 仅靠通用词重合就被误判“相关”，必须靠真正的地名/主体词命中才算数。
 const STOPWORDS = new Set(['the', 'a', 'an', 'of', 'in', 'at', 'on', 'and', 'to', 'view', 'china',
   'chinese', 'scenic', 'beautiful', 'landscape', 'scenery', 'travel', 'tourism', 'photo', 'image',
-  'aerial', 'summer', 'winter', 'autumn', 'spring', 'sunset', 'sunrise', 'night', 'day'])
+  'aerial', 'summer', 'winter', 'autumn', 'spring', 'sunset', 'sunrise', 'night', 'day',
+  // 通用题材词（足球/美食/人群类）——只靠这些重合不算命中
+  'food', 'foods', 'street', 'stall', 'stalls', 'market', 'crowd', 'crowds', 'crowded',
+  'fan', 'fans', 'people', 'person', 'group', 'match', 'soccer', 'football', 'stadium',
+  'game', 'games', 'watching', 'watch', 'cheering', 'screen', 'outdoor', 'outdoors',
+  'players', 'player', 'spectators', 'local', 'bus', 'dish', 'plate', 'bowl', 'table',
+  'lively', 'vibrant', 'urban', 'city', 'large', 'big', 'wooden', 'rustic', 'houses', 'house'])
+
+// 他国地名/族群词黑名单：图片描述命中任一即判“非中国”，直接拒用（回退中国图池）。
+// 防 Pexels 把越南/泰国/中东/巴西等异国场景塞进中国旅游文章。
+const FOREIGN_GEO = [
+  'hanoi', 'vietnam', 'vietnamese', 'thailand', 'thai', 'bangkok', 'cambodia', 'laos',
+  'tokyo', 'japan', 'japanese', 'osaka', 'korea', 'korean', 'seoul',
+  'istanbul', 'turkey', 'turkiye', 'türkiye', 'dubai', 'abu dhabi', 'qatar', 'doha',
+  'india', 'indian', 'delhi', 'mumbai', 'indonesia', 'jakarta', 'bali', 'manila',
+  'philippine', 'singapore', 'malaysia', 'kuala lumpur', 'nepal', 'myanmar',
+  'brazil', 'brazilian', 'argentina', 'mexico', 'mexican', 'peru',
+  'paris', 'france', 'french', 'london', 'britain', 'british', 'new york',
+  'angeles', 'vegas', 'usa', 'america', 'european', 'europe', 'spain', 'spanish',
+  'madrid', 'barcelona', 'italy', 'italian', 'rome', 'germany', 'german', 'berlin',
+  'russia', 'russian', 'moscow', 'africa', 'african', 'egypt', 'cairo', 'dubai',
+]
+
+function isForeign(desc) {
+  const d = (desc || '').toLowerCase()
+  return FOREIGN_GEO.some(g => d.includes(g))
+}
 
 function loadCache() {
   if (!existsSync(CACHE_FILE)) return {}
@@ -144,7 +172,7 @@ export class ImageFinder {
       if (this.disabled.has(source.name)) continue
       for (const q of queries) {
         const photos = await this._search(source, q)
-        const pick = photos.find(p => !this.used.has(p.url) && isRelevant(kw, p.desc))
+        const pick = photos.find(p => !this.used.has(p.url) && !isForeign(p.desc) && isRelevant(kw, p.desc))
         if (pick) {
           this.used.add(pick.url)
           this.stats[source.name]++
