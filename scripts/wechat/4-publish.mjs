@@ -73,6 +73,11 @@ function fallbackUrl(text, used, seed) {
   return imgUrl(id)
 }
 
+// 高风险人物/观赛类题材：Pexels 对“球迷/观赛/人群/酒吧”几乎只返回异国（非洲/巴西/中东）
+// 人群图，且描述不含国家词，他国黑名单拦不住 → 直接跳过搜图，用写死的中国图池兜底，
+// 杜绝中国旅游文章配出外国人群图。地名/景点类关键词不受影响，照常走 Pexels。
+const RISKY_PEOPLE = /\b(fans?|crowd|crowds|spectators?|supporters?|sports? bar|viewing party|viewing zone|fan zone|cheering|nightlife|bar scene|festival crowd|people watching|audience)\b/i
+
 /**
  * 把正文里的 ![alt](IMG: keywords) 占位替换为真实图：优先 Pexels 按景点搜，
  * 未命中回退写死池。返回 {content, ogImage}。
@@ -88,8 +93,11 @@ async function resolveImages(content, tags, slug, finder) {
   for (const m of matches) {
     const [whole, alt, kw] = m
     let url = null
-    const hit = await finder.find(kw.trim(), alt.trim())
-    if (hit) url = hit.url
+    // 高风险人物/观赛题材跳过搜图（避免配出外国人群图），直接用中国写死图池
+    if (!RISKY_PEOPLE.test(`${kw} ${alt}`)) {
+      const hit = await finder.find(kw.trim(), alt.trim())
+      if (hit) url = hit.url
+    }
     if (!url) url = fallbackUrl(`${kw} ${alt}`, usedIds, seed++)
     firstImages.push(url)
     out = out.replace(whole, `![${alt.trim()}](${url})`)
