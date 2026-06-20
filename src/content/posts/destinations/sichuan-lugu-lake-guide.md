@@ -13,7 +13,7 @@ tags:
   - ethnic minority
   - nature
 description: "Lugu Lake sits on the Sichuan-Yunnan border at 2,690m and is home to the matriarchal Mosuo people. This 2026 guide covers the lake circuit (100 yuan entry), Mosuo cultural villages, horseback riding and boat tours, how to get there from Lijiang and Xichang, accommodation options, and the best seasons for this pristine highland destination."
-ogImage: "https://images.unsplash.com/photo-1605640840605-14ac1855827b?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/37651841/pexels-photo-37651841.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -23,6 +23,8 @@ Lugu Lake sits on the border between Sichuan and Yunnan at an elevation of 2,690
 The Mosuo of Lugu Lake have attracted both academic research and popular fascination for decades because of their unique "walking marriage" (走婚, zouhun) practice — a system in which women remain in their maternal homes and men visit nocturnally, with children raised by the mother's family rather than in a nuclear household structure. Whether you come for the landscape, the cultural curiosity, or both, Lugu Lake delivers a travel experience of unusual depth.
 
 ## The Lake and Its Setting
+
+![Lugu Lake Sichuan — The Lake and Its Setting](https://images.pexels.com/photos/12030812/pexels-photo-12030812.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Lugu Lake (泸沽湖) covers about 50 square kilometres at an elevation of 2,690m, straddling the administrative boundary between Sichuan's Yanyuan County and Yunnan's Ninglang County. The water is extraordinarily clear — visibility to several metres depth is normal — and the surrounding mountains rise another 1,000m above the lake surface, draped in pine and oak forest.
 
@@ -35,6 +37,8 @@ The lake contains five islands and several promontories that create a dramatical
 **Boat tours:** The traditional pig-trough boats (猪槽船, zhucao chuan) used by the Mosuo are available for hire. A 45-60 minute tour of the lake from the village areas costs approximately 50-80 yuan per person (group pricing). The boats are genuinely traditional — narrow dugouts that require a Mosuo boatperson to paddle.
 
 **Horseback riding:** A very popular activity around the lake. Guided rides along the mountain tracks cost approximately 100-200 yuan per hour.
+
+![Lugu Lake Sichuan — Mosuo Culture and Villages](https://images.pexels.com/photos/6241974/pexels-photo-6241974.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Mosuo Culture and Villages
 
@@ -59,6 +63,8 @@ This is genuinely remote country. Getting here requires commitment.
 - Taxi/private car: ¥500-700 for the journey.
 
 **Note:** The roads to Lugu Lake involve significant mountain driving with sharp bends and altitude gain. Motion sickness medication is advisable for susceptible travellers.
+
+![Lugu Lake Sichuan — Accommodation at Lugu Lake](https://images.pexels.com/photos/31212295/pexels-photo-31212295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Accommodation at Lugu Lake
 

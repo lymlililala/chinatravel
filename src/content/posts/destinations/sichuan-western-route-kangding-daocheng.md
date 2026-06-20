@@ -10,6 +10,7 @@ tags:
   - tibet
   - destinations
 description: "The complete guide to Sichuan's western high-altitude route — from Kangding's Kangba Tibetan culture, across the vast Tagong grasslands, through Litang (4,014m), to Daocheng Yading's sacred snow peaks. Road conditions, altitude warnings, permits, and best seasons."
+ogImage: "https://images.pexels.com/photos/11957629/pexels-photo-11957629.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 The route west of Chengdu into the Kham Tibetan highlands (康巴藏区) is one of China's most spectacular overland journeys. Rising from the Sichuan basin through increasingly dramatic mountain terrain, the landscape transforms from terraced rice fields to alpine meadows to high grasslands dotted with yak herds and prayer flags. The final destination — Daocheng Yading (稻城亚丁) — contains three sacred Tibetan snow peaks and high-altitude lakes that represent some of the most beautiful scenery in Asia.
@@ -17,6 +18,8 @@ The route west of Chengdu into the Kham Tibetan highlands (康巴藏区) is one 
 ## Table of contents
 
 ## Understanding the Route
+
+![Sichuan Western Route — Understanding the Route](https://images.pexels.com/photos/822271/pexels-photo-822271.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 The western Sichuan route — sometimes called the "Sichuan-Tibet Southern Route" (川藏南线, G318) or the shorter loop via G215 — covers approximately 800–1,200km from Chengdu, reaching maximum altitudes of 4,700m+ at Yading.
 
@@ -45,6 +48,8 @@ The western Sichuan route — sometimes called the "Sichuan-Tibet Southern Route
 **Emergency**: oxygen canisters are sold at all major towns on this route. For serious altitude sickness (confusion, coughing blood, inability to walk), immediate descent is the only effective treatment.
 
 ---
+
+![Sichuan Western Route — Kangding (康定): Tibetan Culture at the Gateway](https://images.pexels.com/photos/11957631/pexels-photo-11957631.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Kangding (康定): Tibetan Culture at the Gateway
 
@@ -85,6 +90,8 @@ Several local families offer guesthouse stays in traditional tents (藏式帐篷
 - Watching the sunset over the snow peaks with prayer flags in the foreground
 
 ---
+
+![Sichuan Western Route — Litang (理塘): The Highest County Seat in the World](https://images.pexels.com/photos/17213280/pexels-photo-17213280.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Litang (理塘): The Highest County Seat in the World
 

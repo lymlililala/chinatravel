@@ -1,12 +1,15 @@
 ---
 title: "Tianmen Mountain Glass Walkway and Cable Car: Complete Visitor Guide"
 description: "Everything you need to know about visiting Tianmen Mountain (天门山) in Zhangjiajie. The world's longest cable car, the glass-bottom skywalk, Heaven's Gate cave, and how to plan your visit."
+ogImage: "https://images.pexels.com/photos/34902901/pexels-photo-34902901.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Tianmen Mountain", "Zhangjiajie", "glass walkway", "cable car", "Hunan tourism", "China adventure travel"]
 ---
 
 Tianmen Mountain (天门山, Tiānmén Shān) rises 1,519 meters above the city of Zhangjiajie in Hunan Province with a natural arch near its summit — a 131.5-meter tall cave opening known as Heaven's Gate (天门洞, Tiānmén Dòng). Getting to this remarkable geological feature involves taking the world's longest passenger cable car, then confronting a 999-step staircase carved into the mountain face or choosing the alternative glass walkway along the cliff edge.
+
+![Tianmen Mountain Glass Walkway Cable Car — The Cable Car (天门山索道)](https://images.pexels.com/photos/13282676/pexels-photo-13282676.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Cable Car (天门山索道)
 
@@ -23,6 +26,8 @@ The Tianmen Mountain cable car system holds the Guinness World Record as the wor
 ## The 99 Bends (九九归一公路)
 
 The alternative approach by road follows a winding mountain road with exactly 99 hairpin bends that has been used for various extreme sporting events including car races, Red Bull air shows and motorbike displays. Tourist shuttle buses carry passengers up this route (included in the ticket for those not taking the cable car or as part of a loop). The drive is dizzying and offers its own spectacular views.
+
+![Tianmen Mountain Glass Walkway Cable Car — Heaven's Gate Cave (天门洞)](https://images.pexels.com/photos/34054186/pexels-photo-34054186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Heaven's Gate Cave (天门洞)
 
@@ -41,6 +46,8 @@ Running along the western cliff face of the summit area, the Coiling Dragon Clif
 **Best time**: Afternoon when the light comes from the west, illuminating the valley below and the glass panels.
 
 **Adrenaline level**: Rated extremely high by most visitors, even those who aren't normally afraid of heights. The transparency of the glass combined with the actual exposure makes it a deeply visceral experience.
+
+![Tianmen Mountain Glass Walkway Cable Car — Tianmen Mountain vs Zhangjiajie National Forest Park](https://images.pexels.com/photos/34683518/pexels-photo-34683518.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Tianmen Mountain vs Zhangjiajie National Forest Park
 

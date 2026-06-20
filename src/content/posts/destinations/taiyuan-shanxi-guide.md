@@ -11,13 +11,18 @@ tags:
   - buddhism
   - history
 description: "Taiyuan and Shanxi Province — gateway to Pingyao Ancient City, Wutai Mountain Buddhist complex, Yungang Grottoes, and the most UNESCO-dense province in China outside of Xi'an."
+ogImage: "https://images.pexels.com/photos/2870587/pexels-photo-2870587.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Shanxi Province (山西省) has more UNESCO World Heritage Sites, National Key Cultural Relics, and surviving Song dynasty wooden architecture than any other region in China — yet it remains dramatically undervisited by international tourists. The provincial capital Taiyuan (太原) serves as the hub for reaching the province's three extraordinary UNESCO-listed assets: Pingyao Ancient City, Wutai Mountain, and Yungang Grottoes.
 
+![Taiyuan & Shanxi Province — Getting to Taiyuan](https://images.pexels.com/photos/30941972/pexels-photo-30941972.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Getting to Taiyuan
 
 High-speed trains connect Taiyuan with Beijing (2.5 hours), Xi'an (3 hours), and Zhengzhou (2.5 hours). Taiyuan Wusu International Airport has domestic connections.
+
+![Taiyuan & Shanxi Province — Pingyao Ancient City (平遥古城)](https://images.pexels.com/photos/18506159/pexels-photo-18506159.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Pingyao Ancient City (平遥古城)
 
@@ -28,6 +33,8 @@ Unlike reconstructed heritage areas (Lijiang's Old Town, Xi'an's Muslim Quarter)
 The **Rishengchang Exchange House (日升昌票号)** — the world's first draft banking institution, established 1823 — was Pingyao's most significant contribution to Chinese financial history. The museum explains the network of Shanxi merchant banks that replaced physical cash transport across China.
 
 **Staying in Pingyao**: Courtyard guesthouses (客栈) within the old city wall provide the most atmospheric experience. Stay 2 nights minimum — the city deserves more than a single day.
+
+![Taiyuan & Shanxi Province — Wutai Mountain (五台山)](https://images.pexels.com/photos/12989715/pexels-photo-12989715.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Wutai Mountain (五台山)
 

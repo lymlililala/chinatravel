@@ -1,6 +1,7 @@
 ---
 title: "Ganden Monastery Sunrise Trek: Tibet's Most Dramatic Pilgrim Circuit"
 description: "Complete guide to trekking the Ganden Kora pilgrim circuit near Lhasa — one of Tibet's most sacred walks with sunrise views over the Kyichu Valley, semi-ruined monastery buildings, meeting Tibetan pilgrims, and experiencing early morning Tibetan Buddhist ritual at high altitude."
+ogImage: "https://images.pexels.com/photos/34644902/pexels-photo-34644902.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Tibet"
 tags: ["tibet", "ganden-monastery", "ganden-kora", "trekking", "pilgrimage", "sunrise", "lhasa", "tibetan-buddhism", "altitude"]
@@ -13,6 +14,8 @@ On a rocky ridge 4,300 metres above sea level, 45 km east of Lhasa, the semi-rui
 For Tibetan Buddhists, Ganden is one of the holiest sites in the world — the first of the three great Gelug monasteries (the others are Drepung and Sera), the location of Tsongkhapa's tomb, and the headquarters of the tradition that produced the Dalai Lamas. The **Ganden Kora** — a 3.5 km pilgrim circuit around the ridge — is walked daily by both monks and lay pilgrims; in the golden light of early morning, this walk ranks among the most profound mountain experiences in Asia.
 
 ---
+
+![Ganden Monastery Sunrise Trek — The Route from Lhasa](https://images.pexels.com/photos/165169/pexels-photo-165169.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Route from Lhasa
 
@@ -29,6 +32,8 @@ For Tibetan Buddhists, Ganden is one of the holiest sites in the world — the f
 All visitors to Tibet (including Chinese citizens from outside Tibet) require a **Tibet Travel Permit** arranged through a licensed travel agency. Foreign nationals additionally require an **Alien's Travel Permit** and, for sites beyond 60 km from Lhasa including Ganden, may need an Area Permit. Confirm current permit requirements with your Tibet travel agency.
 
 ---
+
+![Ganden Monastery Sunrise Trek — The Ganden Kora (Circuit)](https://images.pexels.com/photos/5186422/pexels-photo-5186422.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Ganden Kora (Circuit)
 
@@ -53,6 +58,8 @@ The **kora** — a clockwise circumambulation of a sacred site — is the primar
 - **Rock carvings:** Ancient inscriptions in Tibetan script, some dating to the monastery's foundation, carved directly into exposed rock faces along the kora path.
 
 ---
+
+![Ganden Monastery Sunrise Trek — The Monastery Complex](https://images.pexels.com/photos/17987158/pexels-photo-17987158.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Monastery Complex
 

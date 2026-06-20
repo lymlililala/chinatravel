@@ -10,7 +10,7 @@ tags:
   - food
   - north-china
 description: "Tianjin's food identity — Goubuli baozi (狗不理包子, steamed buns since 1858 that Tianjin is extremely proud of), jianbing (the savoury crepe that Tianjin claims to have invented), the 18th Street mahua (麻花) deep-fried twist pastry, and ear-shaped rolls (耳朵眼炸糕). Eating around Gubeikouzi and the Italian Quarter food streets."
-ogImage: "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/27001559/pexels-photo-27001559.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Tianjin is Beijing's often-overlooked neighbour, 30 minutes away by high-speed train, and with a food identity so distinctive that locals are slightly defensive about it. The city's three most famous foods — Goubuli baozi, 18th Street mahua, and ear-roll fried cakes — are sold in a single gift box at Tianjin train station and represent both the city's pride and a degree of tourist trap risk. The actual food, eaten at the right places, is excellent. The tourist trap version is aggressively marketed and mostly not worth the money.
@@ -18,6 +18,8 @@ Tianjin is Beijing's often-overlooked neighbour, 30 minutes away by high-speed t
 ## Table of contents
 
 ## Goubuli Baozi (狗不理包子): The Famous Steamed Buns
+
+![Tianjin Food — Goubuli Baozi (狗不理包子): The Famous Steamed Buns](https://images.pexels.com/photos/8093353/pexels-photo-8093353.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **Goubuli** (狗不理) baozi have been Tianjin's most famous food since 1858. The name translates roughly as "dogs won't pay attention to it" — allegedly because the original owner, nicknamed Gou'er (Dog), was so busy serving customers that he ignored even his dogs. The buns became famous for a distinctive pleated technique that creates 18 uniform folds.
 
@@ -51,6 +53,8 @@ These keep well and are genuinely good — one of the better Chinese food souven
 
 **Note on eating vs. buying:** Mahua is at its best within 24 hours of frying. The fresh versions sold at the shop are better than the packaged ones, though the packaged ones are still worth buying as a gift.
 
+![Tianjin Food — Ear-Shaped Fried Cakes (耳朵眼炸糕)](https://images.pexels.com/photos/31987550/pexels-photo-31987550.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Ear-Shaped Fried Cakes (耳朵眼炸糕)
 
 **Erduo yan zha gao** (耳朵眼炸糕, ear-hole fried cakes) are named after the narrow alley (like an ear hole) where the original shop operated. They're glutinous rice dough balls filled with sweet red bean paste, deep-fried until the outer shell is crispy and the interior is soft and slightly chewy.
@@ -72,6 +76,8 @@ What you'll find here: baozi of all varieties, jianbing at breakfast, regional n
 Tianjin's concession-era history (the city was carved into European-administered zones in the 19th century) left architectural traces in several areas. The **Italian Quarter** (意大利风情街) near Wudadao has restored European buildings and a café and restaurant scene that's more European-influenced than typical northern China.
 
 This isn't traditional Tianjin food, but the Wudadao area has several good café and Western restaurant options that are more competently executed than equivalents in most Chinese cities — a reflection of the area's historical connections.
+
+![Tianjin Food — Traditional Tianjin Cuisine Beyond the Famous Three](https://images.pexels.com/photos/32393808/pexels-photo-32393808.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Traditional Tianjin Cuisine Beyond the Famous Three
 

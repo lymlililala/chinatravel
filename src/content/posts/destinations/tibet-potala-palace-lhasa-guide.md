@@ -12,6 +12,7 @@ tags:
   - altitude sickness
   - buddhist culture
 description: "Essential guide to visiting Tibet and Lhasa — Potala Palace, the required Tibet Travel Permit, altitude acclimatisation advice, monastery visits, and how to experience this extraordinary destination responsibly."
+ogImage: "https://images.pexels.com/photos/11827179/pexels-photo-11827179.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 There is nowhere quite like Tibet. The Tibetan Plateau — the world's highest at an average 4,500 metres — is a place of physical extremes and spiritual intensity. Lhasa, the regional capital, sits at 3,656 metres; the city's air has 30% less oxygen than at sea level. Potala Palace rises above the city like a fortress built by gods. The Jokhang Temple fills daily with pilgrims prostrating themselves in devotion along Barkhor Street.
@@ -21,6 +22,8 @@ Tibet is accessible to foreign nationals but requires careful preparation — bo
 ## Table of contents
 
 ## Tibet Travel Permits: What You Need
+
+![Tibet & Lhasa — Tibet Travel Permits: What You Need](https://images.pexels.com/photos/8604524/pexels-photo-8604524.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### The Mandatory Permit
 
@@ -89,6 +92,8 @@ Lhasa at 3,656 metres is above the altitude where most people begin to feel effe
 
 ---
 
+![Tibet & Lhasa — Potala Palace (布达拉宫)](https://images.pexels.com/photos/8608899/pexels-photo-8608899.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Potala Palace (布达拉宫)
 
 ### The Most Photographed Building in Asia
@@ -136,6 +141,8 @@ The most sacred temple in Tibetan Buddhism — more spiritually important to man
 **Barkhor Street (八廊街):** The circular market street around the temple is traditionally a pilgrimage circuit. Today it is also ringed with vendors selling thangka paintings, prayer flags, dorje implements, turquoise jewellery, and yak butter. Wandering it early morning (7:00–9:00 AM) when pilgrims outnumber tourists provides the most authentic experience.
 
 ---
+
+![Tibet & Lhasa — Other Lhasa Highlights](https://images.pexels.com/photos/10594185/pexels-photo-10594185.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Other Lhasa Highlights
 

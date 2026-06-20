@@ -12,7 +12,7 @@ tags:
   - alpine
   - nature
 description: "Siguniang Mountain (Four Girls Mountain) in western Sichuan rises to 6,250 meters and is one of the most dramatic trekking destinations in China. Three accessible valleys offer routes ranging from easy day walks to challenging multi-day alpine treks, with Tibetan villages, yak pastures, and spectacular mountain scenery. This guide covers all three valleys, trekking permits, accommodation at Rilong, and how to reach this alpine paradise from Chengdu."
-ogImage: "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/19285807/pexels-photo-19285807.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Siguniang Mountain (四姑娘山, "Four Girls Mountain") is not one summit but a cluster of four peaks in the Qionglai Range of western Sichuan: Yaomei Peak (幺妹峰, 6,250m), the tallest, followed by Sanjie (三姐, 5,664m), Erjie (二姐, 5,454m), and Dajie (大姐, 5,355m). The name comes from a local Tibetan legend about four sisters who turned to stone to protect their homeland.
@@ -22,6 +22,8 @@ For Chinese outdoor enthusiasts, Siguniang is one of the premier alpine destinat
 ## Table of contents
 
 ## Getting to Siguniang Mountain
+
+![Siguniang Mountain Sichuan — Getting to Siguniang Mountain](https://images.pexels.com/photos/19852227/pexels-photo-19852227.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 The base town for Siguniang is **Rilong (日隆)**, a small Tibetan-Han settlement in the Shuangqiao Valley (双桥沟) at about 3,100m elevation.
 
@@ -89,6 +91,8 @@ The smallest and least visited of the three valleys, Haizi is accessible from th
 
 **Entry fee:** ¥60 per person
 
+![Siguniang Mountain Sichuan — Multi-Day Treks](https://images.pexels.com/photos/35155833/pexels-photo-35155833.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Multi-Day Treks
 
 For experienced trekkers and those who want to see the mountain in full, several multi-day circuits are possible:
@@ -111,6 +115,8 @@ Rilong has a solid selection of guesthouses and small hotels serving trekkers an
 **Top-end options:** A few newer boutique-style lodges (¥450–800/night) have opened to serve the growing premium tourism market; amenities include heated rooms and good restaurants
 
 **Altitude adjustment:** Rilong sits at about 3,100m. If coming directly from Chengdu (500m), most people experience mild altitude symptoms (headaches, breathlessness) on the first night. Rest, avoid alcohol, and don't begin trekking until the second day if possible.
+
+![Siguniang Mountain Sichuan — When to Visit](https://images.pexels.com/photos/29515682/pexels-photo-29515682.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## When to Visit
 

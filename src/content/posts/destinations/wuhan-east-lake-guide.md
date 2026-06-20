@@ -12,12 +12,14 @@ tags:
   - cycling
   - hubei
 description: "Wuhan East Lake is the largest urban lake in China and one of the city's greatest pleasures — a vast body of water ringed with parks, cherry trees, cycling paths, and lakeside museums. This 2026 guide covers the famous cherry blossom season at Wuhan University, the best cycling routes, the East Lake Greenway, key attractions, and how to spend a perfect day at Wuhan's beloved outdoor retreat."
-ogImage: "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/12780967/pexels-photo-12780967.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
 
 ## East Lake Wuhan: China's Largest Urban Water Body
+
+![Wuhan East Lake — East Lake Wuhan: China's Largest Urban Water Body](https://images.pexels.com/photos/7494208/pexels-photo-7494208.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 In a country of record-breaking superlatives, East Lake (东湖, Dōng Hú) holds one worth knowing: at 33 square kilometres, it is the largest urban lake in China. To put that in perspective, it is six times the size of Hangzhou's famous West Lake. Yet West Lake draws tens of millions of visitors annually while East Lake remains primarily a local secret — a fact that makes it even better for those who know about it.
 
@@ -48,6 +50,8 @@ The campus of Wuhan University, adjacent to East Lake, is famous for its cherry 
 
 ### Bloom Forecast Apps
 Several Chinese apps and WeChat accounts track Wuhan cherry blossom conditions in real-time during spring. The Wuhan Cherry Blossom Association (武汉樱花研究会) publishes detailed weekly updates.
+
+![Wuhan East Lake — The East Lake Greenway: Cycling Routes](https://images.pexels.com/photos/34421746/pexels-photo-34421746.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The East Lake Greenway: Cycling Routes
 
@@ -86,6 +90,8 @@ A theme park-style zone dedicated to the ancient Chu State that dominated the Ya
 
 ### Xingyin Lake (行吟阁)
 An island in the lake accessible by a causeway, featuring a memorial to Qu Yuan, the great Chu poet-official who drowned himself in the Miluo River in protest against political corruption in 278 BCE. His death inspired the Dragon Boat Festival. The pavilion and island setting are atmospheric and relatively quiet.
+
+![Wuhan East Lake — Night at East Lake](https://images.pexels.com/photos/37173349/pexels-photo-37173349.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Night at East Lake
 

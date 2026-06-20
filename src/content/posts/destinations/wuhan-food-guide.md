@@ -11,7 +11,7 @@ tags:
   - hubei
   - central-china
 description: "Wuhan's food culture is underrated by most China visitors — the re gan mian (热干面, hot dry noodles with sesame paste) breakfast ritual, duck neck (鸭脖) marinated in five-spice and chilli, doupi (crispy rice skin stuffed with pork and mushrooms), and the Hubu Lane street food circuit."
-ogImage: "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/35519234/pexels-photo-35519234.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Wuhan doesn't get enough credit as a food destination. The city sits at the confluence of the Han and Yangtze Rivers, at the geographic heart of China, and its food reflects this position — influenced by Hunan to the south, Sichuan to the west, the Yangtze Delta to the east, and with its own distinctive identity that locals are rightly proud of. The breakfast culture in Wuhan is, genuinely, one of China's best.
@@ -19,6 +19,8 @@ Wuhan doesn't get enough credit as a food destination. The city sits at the conf
 ## Table of contents
 
 ## Re Gan Mian: The Breakfast Ritual
+
+![Wuhan Food — Re Gan Mian: The Breakfast Ritual](https://images.pexels.com/photos/13931199/pexels-photo-13931199.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **Re gan mian** (热干面, hot dry noodles) is Wuhan's most iconic food and the dish that Wuhan residents miss most desperately when they leave. The concept is simple: wheat noodles are parboiled, then tossed in sesame oil and dried. When ordered, they're briefly blanched in boiling water to reheat, then dressed tableside with sesame paste (芝麻酱, zhīma jiàng), soy sauce, vinegar, chilli oil, pickled beans (酸豆角), spring onion, and radish.
 
@@ -44,6 +46,8 @@ The key is the sesame paste — it should be thick, nutty, and slightly bitter, 
 
 The best time to visit Hubu Lane is **early morning (before 9am)** when the breakfast rush is in full swing and the food is freshest. Midday visits are fine for the atmosphere but some breakfast-specific stalls will have sold out.
 
+![Wuhan Food — Duck Neck (鸭脖, Yā Bó)](https://images.pexels.com/photos/36933207/pexels-photo-36933207.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Duck Neck (鸭脖, Yā Bó)
 
 Wuhan claims to have invented the style of **marinated duck neck** that's now popular across China. The Wuhan version — **Zhou Heiya** (周黑鸭) being the most famous brand — is braised in a deeply spiced stock of soy, five-spice, star anise, dried chillies, and Sichuan pepper until the meat falls off the bone and the skin is sticky and lacquered.
@@ -63,6 +67,8 @@ Wuhan has an extensive noodle culture beyond its signature dish.
 **Red oil noodles** (红油面) — slightly Sichuan-influenced, with chilli oil and broad bean paste. More aggressive than re gan mian. ¥12-20.
 
 **Carp noodles** (鲤鱼面) — using Yangtze River fish stock, available in the Jianghan area near the river. Specific to Wuhan's riverine geography.
+
+![Wuhan Food — River Fish and Yangtze Cuisine](https://images.pexels.com/photos/7494150/pexels-photo-7494150.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## River Fish and Yangtze Cuisine
 

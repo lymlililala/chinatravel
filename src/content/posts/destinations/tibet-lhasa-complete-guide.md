@@ -12,7 +12,7 @@ tags:
   - temples
   - southwest
 description: "The complete guide to visiting Tibet — permit requirements, Lhasa's sacred Potala Palace and Jokhang Temple, the turquoise expanse of Namtso Lake, and the road to Everest Base Camp."
-ogImage: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&q=85"
+ogImage: "https://images.unsplash.com/photo-1599137258505-8871bd07cbbb?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwyfHxUaWJldHxlbnwwfDB8fHwxNzgxOTIyMjc2fDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
 ---
 
 Tibet sits on the world's highest plateau — the "Roof of the World" — at an average elevation of 4,500 metres. It's one of the most spiritually charged and visually overwhelming destinations on Earth, and visiting it requires more planning than almost anywhere else in China.
@@ -20,6 +20,8 @@ Tibet sits on the world's highest plateau — the "Roof of the World" — at an 
 ## Table of contents
 
 ## Essential: Tibet Permits
+
+![Tibet — Essential: Tibet Permits](https://images.pexels.com/photos/17380341/pexels-photo-17380341.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Unlike the rest of China, Tibet requires special travel permits for all foreign visitors.
 
@@ -68,6 +70,8 @@ The summer residence of the Dalai Lamas — a palace complex set in extensive pa
 
 ---
 
+![Tibet — Namtso Lake (纳木错)](https://images.pexels.com/photos/11827281/pexels-photo-11827281.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Namtso Lake (纳木错)
 
 At 4,718m altitude, Namtso is one of the world's highest and largest saltwater lakes — 1,920 km² of turquoise water surrounded by snow peaks. Tibetan Buddhist pilgrims walk the entire 120km circuit of the lake (30–40 days on foot).
@@ -98,6 +102,8 @@ The world's highest monastery at 4,980m — just 8km from EBC. Staying overnight
 **EBC camping:** During the mountaineering season (April–May, September–October), expedition base camps fill the glacier moraine — surreal spectacle of hundreds of coloured tents at the foot of the world's highest mountain.
 
 ---
+
+![Tibet — Qinghai-Tibet Railway (青藏铁路)](https://images.pexels.com/photos/36700647/pexels-photo-36700647.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Qinghai-Tibet Railway (青藏铁路)
 

@@ -11,7 +11,7 @@ tags:
   - itinerary
   - altitude
 description: "A 5-day Lhasa itinerary structured around altitude acclimatization — Day 1 for rest and Barkhor Street, Day 2 for the Jokhang Temple, Day 3 for Potala Palace, Day 4 for Drepung and Sera monasteries, Day 5 for Namtso Lake or Ganden. Permit requirements and booking details."
-ogImage: "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/31013239/pexels-photo-31013239.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Lhasa sits at 3,650 meters above sea level. That single fact shapes every day of your visit — what you do on day one, how fast you walk, whether you sleep well, and how much energy you have for stairs. Get the altitude strategy right and Lhasa is extraordinary. Get it wrong and you spend your trip with a splitting headache wishing you were somewhere lower.
@@ -21,6 +21,8 @@ This itinerary is deliberately structured around acclimatization. The big physic
 ## Table of contents
 
 ## Permits & Logistics Before You Arrive
+
+![Lhasa, Tibet — Permits & Logistics Before You Arrive](https://images.pexels.com/photos/34168857/pexels-photo-34168857.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Tibet has restricted access for foreign visitors. You need:
 
@@ -55,6 +57,8 @@ Walk it once, slowly. Watch the pilgrims. Sit at one of the teahouse windows fac
 **Eat lightly** tonight. Large meals at altitude can trigger nausea. Tibetan **tsampa** (roasted barley flour mixed with tea) and **momos** (Tibetan dumplings, ¥15-25) are appropriate first-night choices.
 
 ---
+
+![Lhasa, Tibet — Day 2: Jokhang Temple & Barkhor Bazaar](https://images.pexels.com/photos/16154562/pexels-photo-16154562.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day 2: Jokhang Temple & Barkhor Bazaar
 
@@ -91,6 +95,8 @@ The market surrounding Jokhang sells Tibetan goods: prayer wheels, singing bowls
 After the Potala, the afternoon can be spent exploring the **Norbulingka Palace** (罗布林卡, ¥60) — the Dalai Lama's former summer residence, in a large park setting. Much less crowded and gives a sense of the more relaxed side of Tibetan royal life.
 
 ---
+
+![Lhasa, Tibet — Day 4: Drepung & Sera Monasteries](https://images.pexels.com/photos/38146261/pexels-photo-38146261.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day 4: Drepung & Sera Monasteries
 

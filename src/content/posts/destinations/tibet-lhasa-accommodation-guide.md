@@ -11,7 +11,7 @@ tags:
   - accommodation
   - altitude
 description: "Lhasa accommodation — the traditional Tibetan guesthouses in the Barkhor area near the Jokhang Temple (the most atmospheric, aids acclimatization), the international hotels in the New City (Brahmaputra Grand, Lhasa Hotel — more facilities, less character), and which properties work with Tibet Travel Permit agencies. The altitude and room selection interaction."
-ogImage: "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/23911040/pexels-photo-23911040.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Staying in Lhasa is unlike staying anywhere else in China, for several reasons: you need a special permit to be here (the Tibet Travel Permit, which your hotel or tour operator will help arrange), you're at 3,650 metres altitude which affects everything from your sleep quality to your energy levels, and the accommodation options range from traditional Tibetan guesthouses in the ancient Barkhor area to international hotels in the modern city. The choice between these options isn't just practical — it shapes the entire experience of being in Lhasa.
@@ -19,6 +19,8 @@ Staying in Lhasa is unlike staying anywhere else in China, for several reasons: 
 ## Table of contents
 
 ## The Permit Situation: What It Means for Accommodation
+
+![Stay Lhasa, Tibet — The Permit Situation: What It Means for Accommodation](https://images.pexels.com/photos/38146264/pexels-photo-38146264.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 All foreign nationals visiting Tibet require a **Tibet Travel Permit** (藏区通行证, also called the Tibet Tourism Bureau permit) in addition to their Chinese visa. This permit is arranged through a registered Tibet travel agency — you cannot arrange it yourself.
 
@@ -41,6 +43,8 @@ Lhasa divides into two spatial and experiential zones:
 **The New City** (新城) is the modern Lhasa built primarily since the 1980s and 2000s — wide boulevards, concrete buildings, chain hotels, the commercial and government districts. Less distinct, more convenient.
 
 Staying in the Barkhor area means waking up in the heart of traditional Lhasa, hearing the morning prayers from Jokhang Temple, being a 10-minute walk from both the temple and Potala Palace. Staying in the New City means more facilities and easier transport but commuting to the historic core.
+
+![Stay Lhasa, Tibet — Altitude and Room Selection](https://images.pexels.com/photos/6467624/pexels-photo-6467624.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Altitude and Room Selection
 
@@ -76,6 +80,8 @@ The morning Barkhor kora circuit (pilgrims walking clockwise around Jokhang from
 **House of Shambhala** (香格里拉驿站) — one of the most atmospheric properties in the Barkhor area. Small courtyard guesthouse with genuine character. ¥600-1,200/night.
 
 **Budget guesthouses:** Several traditional Tibetan guesthouses around the Barkhor operate at ¥150-280/night. Foreign-permit complications mean verifying acceptance status before booking. Ask your Tibet travel agency.
+
+![Stay Lhasa, Tibet — New City Hotels: Facilities vs Character](https://images.pexels.com/photos/440155/pexels-photo-440155.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## New City Hotels: Facilities vs Character
 

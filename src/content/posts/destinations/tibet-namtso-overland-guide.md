@@ -12,12 +12,14 @@ tags:
   - astrophotography
   - tibetan plateau
 description: "Namtso Lake is one of the highest saltwater lakes in the world and a sacred pilgrimage site for Tibetan Buddhists. This 2026 overland guide covers the permits needed, the drive from Lhasa over the Nyenchen Tanglha Pass, where to stay at the lakeside, night sky photography conditions, seasonal wildlife, and practical tips for visiting this extraordinary high-altitude destination safely."
-ogImage: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/11827274/pexels-photo-11827274.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
 
 ## Namtso: The Heavenly Lake at 4718 Metres
+
+![Namtso Lake Overland Journey — Namtso: The Heavenly Lake at 4718 Metres](https://images.pexels.com/photos/36135641/pexels-photo-36135641.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Namtso Lake (纳木错, Nāmù Cuò) means "Heavenly Lake" in Tibetan, and the name is apt. Sitting at 4718 metres above sea level on the Tibetan Plateau north of Lhasa, Namtso is the highest large saltwater lake in the world and the second largest lake in Tibet. At roughly 70km long and 30km wide, it occupies a basin flanked to the south by the massive Nyenchen Tanglha mountain range, whose peaks rise to 7162 metres and carry permanent glaciers even in summer.
 
@@ -50,6 +52,8 @@ The pass is festooned with prayer flags in every direction and often crowded wit
 
 ### Acclimatisation Requirement
 Do not attempt Namtso before spending at least 2–3 full days acclimatising in Lhasa at 3650m. The jump from Lhasa to the Namtso Pass at 5190m is substantial. Visitors with any symptoms of altitude sickness in Lhasa should wait until fully recovered before attempting Namtso.
+
+![Namtso Lake Overland Journey — At the Lake: Tashi Dor Peninsula](https://images.pexels.com/photos/32063209/pexels-photo-32063209.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## At the Lake: Tashi Dor Peninsula
 
@@ -90,6 +94,8 @@ The accommodation options at Namtso are basic and should be understood as part o
 **Yak herder hospitality**: In some areas, nomadic herding families will sometimes offer accommodation to well-prepared travellers with basic Tibetan or Chinese. This is not a formal tourist service and requires appropriate sensitivity. Your guide can facilitate if this interests you.
 
 **Key expectation**: Namtso is remote. The altitude means that even getting to the toilet in the night involves real effort. Embrace the simplicity.
+
+![Namtso Lake Overland Journey — Wildlife and Natural Environment](https://images.pexels.com/photos/31410286/pexels-photo-31410286.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Wildlife and Natural Environment
 

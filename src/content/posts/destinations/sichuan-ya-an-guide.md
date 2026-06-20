@@ -12,7 +12,7 @@ tags:
   - nature
   - tea-horse-road
 description: "Ya'an sits at the junction of the Sichuan Basin and the Tibetan Plateau — a city of extraordinary rainfall, wild giant pandas, the ancient Tea Horse Road trade route and some of Sichuan's most dramatic scenery. This 2026 guide covers the Bifengxia Panda Base, the Erlang Mountain road, Shangri-La Corridor, local food and transport from Chengdu."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/10672908/pexels-photo-10672908.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -22,6 +22,8 @@ Ya'an calls itself "雨城" — Rain City. This is not a marketing deterrent; it
 What you get in Ya'an is a China that most tourists don't find: raw, green, historically layered and genuinely wild at its edges.
 
 ## Bifengxia Giant Panda Base (碧峰峡大熊猫基地)
+
+![Ya' Sichuan — Bifengxia Giant Panda Base (碧峰峡大熊猫基地)](https://images.pexels.com/photos/31639676/pexels-photo-31639676.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 The China Conservation and Research Centre for the Giant Panda's Bifengxia base, located in a narrow river gorge 15 km north of Ya'an city, is the sister facility to the famous Chengdu Research Base. The Bifengxia base is actually larger and arguably better for visitors — the enclosures are more spacious, the gorge setting is more dramatic, and it receives fewer tourists than the Chengdu facility.
 
@@ -48,6 +50,8 @@ The G318 — the most famous road in China, running from Shanghai to Tibet — c
 The old Erlang Mountain road (now largely replaced by a tunnel for motor vehicles) offers a hiking trail with spectacular views over the Ya'an river valley and the Tibetan Plateau rising to the west. This is an excellent half-day hike accessible from Ya'an: take a taxi to the old road trailhead (¥30–¥50) and walk the mountain road for 3–4 hours.
 
 The Erlang Mountain Tunnel (二郎山隧道), at 4.2 km the main vehicle route, has a cultural significance in Chinese popular memory — a famous 1980s folk song celebrated the hardship of crossing the mountain before the tunnel was built.
+
+![Ya' Sichuan — Tea Horse Road (茶马古道) Heritage](https://images.pexels.com/photos/35750669/pexels-photo-35750669.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Tea Horse Road (茶马古道) Heritage
 
@@ -82,6 +86,8 @@ The city's exceptional rainfall creates an environment for wild mushrooms, bambo
 - **Wild mushroom hot pot:** The foothills around Ya'an produce extraordinary wild mushrooms including multiple varieties unavailable elsewhere
 
 Restaurants are concentrated in the city centre around Yucheng District; a good dinner for two runs ¥80–¥150 ($11–$21).
+
+![Ya' Sichuan — Getting to Ya'an](https://images.pexels.com/photos/7494233/pexels-photo-7494233.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting to Ya'an
 

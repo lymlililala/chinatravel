@@ -1,6 +1,7 @@
 ---
 title: "Yellow Crane Tower Wuhan: China's Most Celebrated Pavilion & Yangtze Views"
 description: "Visit Wuhan's Yellow Crane Tower — the most celebrated tower in Chinese literature, rebuilt to its Song-dynasty glory on Snake Hill above the Yangtze River, with stunning panoramic views over the river and city, and the story behind one of China's most quoted poems."
+ogImage: "https://images.pexels.com/photos/7494228/pexels-photo-7494228.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Wuhan"
 tags: ["wuhan", "yellow-crane-tower", "hubei", "yangtze-river", "chinese-poetry", "snake-hill", "historical-monument", "architecture"]
@@ -17,6 +18,8 @@ Every Chinese student learns the poem. **Cui Hao's "Yellow Crane Tower" (黄鹤�
 The tower on **Snake Hill (蛇山)** above Wuhan's Yangtze riverbank was first built in 223 CE and destroyed and rebuilt repeatedly over 1,800 years. The current structure, completed in 1985, is a reconstruction in Song-dynasty style — its five roof levels and distinctive double-eaved silhouette have become as recognisable as any image in Chinese cultural consciousness.
 
 ---
+
+![Yellow Crane Tower Wuhan — The Tower's History](https://images.pexels.com/photos/19064883/pexels-photo-19064883.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Tower's History
 
@@ -57,6 +60,8 @@ A scale model showing all known historical versions of the tower, from the origi
 
 ---
 
+![Yellow Crane Tower Wuhan — Snake Hill (蛇山) Park](https://images.pexels.com/photos/6133948/pexels-photo-6133948.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Snake Hill (蛇山) Park
 
 The tower occupies the highest point of a 1.5 km hill that is itself a pleasant urban park. Walking the paths below and around the tower reveals:
@@ -74,6 +79,8 @@ Looking north from the tower's upper floors, you see the full width of the **Yan
 The **two Yangtze bridges** visible from the tower — the 1957 railway-road bridge and the 1995 expressway bridge — frame the view north in a way that layers industrial modernity over the ancient landscape.
 
 ---
+
+![Yellow Crane Tower Wuhan — Practical Information](https://images.pexels.com/photos/7494196/pexels-photo-7494196.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Practical Information
 

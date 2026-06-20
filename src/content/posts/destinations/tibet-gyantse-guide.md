@@ -12,7 +12,7 @@ tags:
   - monastery
   - himalaya
 description: "Gyantse is Tibet's third largest town and home to two of its most important religious sites — Pelkor Chode Monastery and the extraordinary Kumbum Stupa, a multi-story mandala in three dimensions. This guide covers how to reach Gyantse, the Tibet Travel Permit system, what to see at the monastery complex, the old Dzong fortress, and practical tips for visiting this relatively uncrowded Tibetan town."
-ogImage: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&q=85"
+ogImage: "https://images.unsplash.com/photo-1599137258505-8871bd07cbbb?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxHeWFudHNlJTIwVGliZXR8ZW58MHwwfHx8MTc4MTkyMjI1NXww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
 ---
 
 Gyantse (江孜) sits in the Nyang River valley at 3,977 meters above sea level, roughly midway between Lhasa and Shigatse on the Friendship Highway. It was once the third most important city in Tibet, a major trading hub on the routes between Lhasa and British India, and the site of the last significant armed resistance to British imperial expansion into Tibet in 1904.
@@ -22,6 +22,8 @@ Today it's a relatively quiet market town with perhaps 20,000 residents, dwarfed
 ## Table of contents
 
 ## Tibet Travel Permits — Essential Reading
+
+![Gyantse Tibet — Tibet Travel Permits — Essential Reading](https://images.unsplash.com/photo-1607857581971-775fece813c4?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw0fHxUaWJldCUyMFBlcm1pdHN8ZW58MHwwfHx8MTc4MTkyMjI1N3ww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 All foreign visitors to Tibet require both a standard Chinese visa and a Tibet Travel Permit (TTB permit, 西藏旅游局批准书). Without the permit, you cannot board any transport to Tibet or enter the TAR (Tibet Autonomous Region).
 
@@ -71,6 +73,8 @@ A kora (ritual circumambulation path) circles the entire monastery complex and t
 **Opening hours:** 9:00am–6:00pm  
 **Entry fee:** ¥80 per person (includes entry to the Kumbum)
 
+![Gyantse Tibet — The Kumbum Stupa (班根曲登)](https://images.pexels.com/photos/34481256/pexels-photo-34481256.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The Kumbum Stupa (班根曲登)
 
 The Kumbum Stupa (literally "Hundred Thousand Images," also called Payal Kumbum) is the masterpiece of Gyantse and one of the most significant buildings in Tibetan Buddhism. Built between 1427 and 1440, it is a nine-story mandala in three-dimensional architectural form — a stupa that is also a temple, and a temple that is also a cosmological map.
@@ -116,6 +120,8 @@ The area between the monastery and the Dzong has the densest concentration of tr
 
 **Gyantse carpet industry:**
 Gyantse was historically famous for its handwoven carpets — thick wool pile with geometric Tibetan designs. Several workshops still produce traditional carpets; you can watch the weaving process and buy directly. Prices are negotiable: ¥500–3,000+ depending on size and complexity.
+
+![Gyantse Tibet — Where to Stay in Gyantse](https://images.pexels.com/photos/36662245/pexels-photo-36662245.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Where to Stay in Gyantse
 

@@ -12,7 +12,7 @@ tags:
   - jiangsu
   - east-china
 description: "The perfect Suzhou day trip from Shanghai — taking the 25-minute HSR, the best two or three gardens to combine (Humble Administrator's, Master of Nets, Tiger Hill), the Shantang Street canal walk, where to buy genuine Suzhou silk, and getting back before dark."
-ogImage: "https://images.unsplash.com/photo-1513407030348-c983a97b98d8?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/37884692/pexels-photo-37884692.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Suzhou is the most logical day trip from Shanghai. The journey by high-speed rail takes 24–30 minutes and costs ¥24.5. The city that arrives at the other end has been called the "Venice of China" (unfairly reductive, but there's something to it) — a city of classical gardens, silk production, canals, whitewashed walls and black tile roofs that has been one of China's wealthiest and most cultured cities for over a thousand years.
@@ -22,6 +22,8 @@ A single day is enough to see the highlights and come back with a real sense of 
 ## Table of contents
 
 ## Getting There
+
+![Suzhou Trip from Shanghai — Getting There](https://images.pexels.com/photos/36466099/pexels-photo-36466099.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **High-speed train from Shanghai Hongqiao:** The most convenient departure point. Trains depart every 15–20 minutes from early morning, reaching Suzhou North station or Suzhou station in 24–35 minutes. Cost: **¥24.5** second class.
 
@@ -70,6 +72,8 @@ Another UNESCO garden, different in character from Humble Administrator's — mo
 
 **Recommendation for a single day:** Humble Administrator's Garden (morning) + Master of Nets (afternoon) + Shantang Street canal walk (evening). This uses your time efficiently and covers the range from grandeur to intimacy.
 
+![Suzhou Trip from Shanghai — Shantang Street (山塘街) — Canal Walk](https://images.pexels.com/photos/18781939/pexels-photo-18781939.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Shantang Street (山塘街) — Canal Walk
 
 Shantang Street is a 1.5km stretch of canal-front street from Changmen Gate toward Tiger Hill. The street is lined with traditional Suzhou buildings — whitewashed walls, black tile roofs, carved wooden storefronts — reflected in the narrow canal that runs alongside. This is the "Venice of China" image in practice.
@@ -92,6 +96,8 @@ Suzhou has been China's silk capital for over two thousand years. The city's sil
 **Shantang Street shops:** Mix of quality and tourist grade. Know what you're looking for.
 
 **Avoid:** Very cheap silk products anywhere — machine-embroidered silk at ¥20 is not Suzhou silk.
+
+![Suzhou Trip from Shanghai — Where to Eat](https://images.pexels.com/photos/35803977/pexels-photo-35803977.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Where to Eat
 

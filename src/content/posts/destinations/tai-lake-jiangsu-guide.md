@@ -11,7 +11,7 @@ tags:
   - east-china
   - water-towns
 description: "The Taihu (Lake Tai) area of Jiangsu — cycling along the lake shoreline, the cherry blossoms at Turtle Head Isle in April, the Xi Shan (West Mountain) island with traditional Jiangnan villages, and connecting the lake area to Suzhou's classical gardens for a 3-day Jiangsu circuit."
-ogImage: "https://images.unsplash.com/photo-1513407030348-c983a97b98d8?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/8784816/pexels-photo-8784816.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Lake Tai (太湖, Taihu) is one of China's great lakes — the third largest in the country, covering 2,338 square kilometres between southern Jiangsu and northern Zhejiang. The Jiangnan region that surrounds it has been among the wealthiest and most cultured areas of China for over a thousand years, and the lake itself has shaped the entire aesthetic of Chinese garden design: the strange, eroded limestone rocks (Taihu rocks, 太湖石) that appear in virtually every classical garden in China came from this lake's bottom, carved by water into the abstract forms that Chinese aesthetics prize above all others.
@@ -19,6 +19,8 @@ Lake Tai (太湖, Taihu) is one of China's great lakes — the third largest in 
 ## Table of contents
 
 ## Turtle Head Isle & Cherry Blossoms
+
+![Taihu Lake & Jiangnan Water Towns — Turtle Head Isle & Cherry Blossoms](https://images.pexels.com/photos/20833697/pexels-photo-20833697.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 The single most visited attraction on Taihu is Turtle Head Isle (鼋头渚) in Wuxi, a peninsula that juts into the lake from its eastern shore. The park has been developed with walkways, pavilions, and viewpoints that make the most of the water views, but its seasonal claim to fame is extraordinary: in late March and early April, the entire peninsula becomes one of the largest cherry blossom viewing areas in China.
 
@@ -28,6 +30,8 @@ Outside blossom season, Turtle Head Isle is still worth visiting for the lake vi
 
 **Getting there:** Wuxi is 40 minutes from Shanghai by high-speed train. Turtle Head Isle is accessible by bus or taxi from Wuxi city centre (30 minutes, ¥30-50 taxi).
 
+![Taihu Lake & Jiangnan Water Towns — Xi Shan (West Mountain Island)](https://images.pexels.com/photos/35342644/pexels-photo-35342644.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Xi Shan (West Mountain Island)
 
 Dongshan and Xi Shan are two peninsulas — effectively islands — that extend into Taihu from the south. Xi Shan (西山, Xishan) in particular retains a slower pace than the more developed lake shores. The island is accessible via a long bridge from Suzhou and contains a dozen traditional Jiangnan villages where locals have grown the famous Biluochun (碧螺春) green tea for over a thousand years.
@@ -35,6 +39,8 @@ Dongshan and Xi Shan are two peninsulas — effectively islands — that extend 
 Biluochun is one of China's ten famous teas and one of the few that carries a genuine geographical indication — tea bearing this name must be grown on Dongting Mountain (which Xi Shan is part of). In March and early April, during the tea harvest, villagers can be found hand-rolling the tiny snail-shaped leaves outside their doorways. You can visit tea farms, watch the processing, and buy fresh-harvest tea directly from farmers (¥200-600 per 100g for genuine first-flush Biluochun, compared to ¥50-100 for the commercial versions sold elsewhere).
 
 The island also has several active Buddhist temples, including the thousand-year-old Baosheng Temple, and Lin Wuyi Former Residence — the ancestral home of a Tang Dynasty Confucian scholar. Walking between the villages through the tea gardens and orange orchards takes the better part of a day.
+
+![Taihu Lake & Jiangnan Water Towns — Cycling the Lake Shore](https://images.pexels.com/photos/4828865/pexels-photo-4828865.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Cycling the Lake Shore
 

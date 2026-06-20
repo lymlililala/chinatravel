@@ -11,7 +11,7 @@ tags:
   - food
   - transport
 description: "The complete guide to visiting Wuhan in 2026 — Yellow Crane Tower, cherry blossom season at Wuhan University, the Han Street food district, Yangtze River crossings, and where to eat the city's legendary hot dry noodles."
-ogImage: "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=900&q=80"
+ogImage: "https://images.pexels.com/photos/25461760/pexels-photo-25461760.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Wuhan is the city that connects China's geography — sitting at the confluence of the Yangtze and Han rivers in the heart of the country, with excellent high-speed rail access in every direction. For international visitors, it tends to appear on itineraries as a stopover on the way between Beijing or Xi'an and Chengdu or Shanghai. Those who stay longer discover one of China's most underrated urban destinations: a genuinely liveable city with excellent food, significant history, beautiful spring cherry blossoms, and the intellectual energy of over a million university students.
@@ -21,6 +21,8 @@ Wuhan is the city that connects China's geography — sitting at the confluence 
 ---
 
 ## Essential Background
+
+![Wuhan — Essential Background](https://images.pexels.com/photos/13076227/pexels-photo-13076227.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **Location:** Wuhan sits at the convergence of the Yangtze and Han rivers in Hubei Province, central China. Population: approximately 12 million. It is the political and economic capital of central China.
 
@@ -125,6 +127,8 @@ Arrive hungry. Eat everything for under ¥50.
 
 ---
 
+![Wuhan — Day Trips from Wuhan](https://images.pexels.com/photos/12841262/pexels-photo-12841262.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Day Trips from Wuhan
 
 ### Wudang Mountain (武当山) — 3.5 Hours
@@ -162,6 +166,8 @@ Wuhan's position at China's geographical centre makes it one of the best-connect
 **DiDi:** Available and reliable throughout the city.
 
 ---
+
+![Wuhan — When to Visit Wuhan](https://images.pexels.com/photos/18137642/pexels-photo-18137642.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## When to Visit Wuhan
 

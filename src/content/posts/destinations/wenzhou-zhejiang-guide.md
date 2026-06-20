@@ -11,7 +11,7 @@ tags:
   - coastal
   - east-china
 description: "Wenzhou and southern Zhejiang — the dramatic Yandang Mountain (雁荡山) volcanic landscape, the ancient stone villages of Taishun County, the covered bridge (廊桥) culture of Qingyuan, and the Nanji Islands for diving and island hopping. Why Wenzhou is one of China's most overlooked scenic regions for independent travelers."
-ogImage: "https://images.unsplash.com/photo-1513407030348-c983a97b98d8?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/33837109/pexels-photo-33837109.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Wenzhou is one of China's most economically successful cities — the "Wenzhou Model" of private enterprise development made it a byword for entrepreneurial culture in the 1980s and 90s. It's also the origin city of more overseas Chinese in Europe than almost anywhere else in China (particularly Italian Chinese). What it has never been is a tourist destination.
@@ -21,6 +21,8 @@ That's the wrong assumption. Southern Zhejiang around Wenzhou has some of the mo
 ## Table of contents
 
 ## Yandang Mountain (雁荡山)
+
+![Wenzhou & Southern Zhejiang — Yandang Mountain (雁荡山)](https://images.pexels.com/photos/37767578/pexels-photo-37767578.png?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Yandang Mountain, about 80km north of Wenzhou, is a UNESCO-listed national scenic area of extraordinary geological character. The mountain was formed by volcanic activity and then eroded into dramatic shapes — sheer cliff faces, needle-like spires, basalt columns, and deep gorges — distinct from the limestone karst of Guilin or the granite peaks of Huangshan.
 
@@ -61,6 +63,8 @@ The covered bridges are masterworks of timber engineering — constructed withou
 
 **Recommended approach:** Hire a car in Wenzhou for the day (¥400–600) — the bridges are scattered across the county and flexible transport makes a multi-bridge visit practical.
 
+![Wenzhou & Southern Zhejiang — Nanji Islands (南麂列岛)](https://images.pexels.com/photos/12513879/pexels-photo-12513879.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Nanji Islands (南麂列岛)
 
 The Nanji Islands are an archipelago about 50km offshore from Wenzhou's coastline — a marine nature reserve with exceptional water clarity and one of China's best shore-accessible diving and snorkeling destinations.
@@ -86,6 +90,8 @@ Qingyuan County, about 200km southwest of Wenzhou (and technically just over the
 **Bamboo sea (竹海):** Large bamboo forests with walking paths through dense groves; a different landscape from the mountain peaks elsewhere in the region.
 
 **Traditional village architecture:** Several "ancient villages" of Ming and Qing dynasty buildings in good preservation, without tourist crowds.
+
+![Wenzhou & Southern Zhejiang — Wenzhou City Itself](https://images.pexels.com/photos/3460440/pexels-photo-3460440.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Wenzhou City Itself
 

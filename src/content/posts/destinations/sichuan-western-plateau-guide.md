@@ -13,6 +13,7 @@ tags:
   - high altitude
   - horse festival
 description: "A guide to the Tibetan areas of western Sichuan — the high-altitude grasslands of Litang and Ganzi, the most accessible Tibetan Buddhist monastery culture outside Tibet, the Litang Horse Festival, and the extraordinary landscapes of the Sichuan-Tibet Highway."
+ogImage: "https://images.pexels.com/photos/31410307/pexels-photo-31410307.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Western Sichuan (川西高原) contains one of the world's largest Tibetan Buddhist cultural areas outside the Tibet Autonomous Region — the Ganzi (甘孜) and Aba (阿坝) Tibetan and Qiang Autonomous Prefectures, covering an area larger than Germany at altitudes of 3,000–5,000 metres.
@@ -23,6 +24,8 @@ This region is culturally Tibet, geologically the Tibetan Plateau, and administr
 
 ## Litang (理塘)
 
+![Western Sichuan Plateau — Litang (理塘)](https://images.pexels.com/photos/37804559/pexels-photo-37804559.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 At 4,014 metres, Litang is one of the highest county towns in the world — and the proud self-described "capital of the sky" (天空之城). The Dalai Lama of the current lineage's home area is near Litang; the town's Tibetan identity is intense.
 
 **Litang Monastery (理塘寺/长青春科尔寺):** The largest Gelug monastery in the region — a hilltop complex of assembly halls, monk residences, and chorten stupa courtyards. Approximately 700 monks in residence.
@@ -31,11 +34,15 @@ At 4,014 metres, Litang is one of the highest county towns in the world — and 
 
 **The grassland:** The Maoyaduo grassland (毛垭坝) northeast of Litang is one of the most beautiful high-altitude plains in China — broad, flat, intensely green in summer, with yak herds visible in every direction.
 
+![Western Sichuan Plateau — Ganzi (甘孜)](https://images.pexels.com/photos/31410308/pexels-photo-31410308.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Ganzi (甘孜)
 
 The prefecture capital at 3,390 metres — a substantial Tibetan town with the **Ganzi Monastery (甘孜寺)** on the hilltop, active with monks, and the extensive old town below.
 
 **The road from Kangding (康定) to Ganzi:** Following the Sichuan-Tibet Highway (G318) west — a drive of extraordinary beauty through river gorges, high passes, and the transition from Han Chinese agricultural landscape to Tibetan pastoral plateau. The Xinduqiao (新都桥) area is particularly celebrated for its photography: willow trees, whitewashed farmhouses, and the Gongga Massif (7,556 m) visible on clear days.
+
+![Western Sichuan Plateau — Kangding (康定)](https://images.pexels.com/photos/16182257/pexels-photo-16182257.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Kangding (康定)
 

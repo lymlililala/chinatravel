@@ -12,7 +12,7 @@ tags:
   - shanghai
   - jiangnan
 description: "The complete travel guide to Suzhou — classical Chinese gardens, ancient canal streets, silk culture, and how to combine Suzhou with a day trip to Tongli or Zhouzhuang. Best things to do, where to stay, and how to get there from Shanghai."
-ogImage: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=900&q=80"
+ogImage: "https://images.pexels.com/photos/9427770/pexels-photo-9427770.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Suzhou is 30 minutes from Shanghai by high-speed train and a century away in atmosphere. The city that imperial administrators retired to when they tired of Beijing — building private gardens of extraordinary refinement — still carries that quality of intentional beauty. This is a place where someone once devoted 16 years to designing a single garden's water views.
@@ -24,6 +24,8 @@ For international visitors, Suzhou offers something most Chinese cities cannot: 
 ---
 
 ## Essential Background
+
+![Suzhou — Essential Background](https://images.pexels.com/photos/612419/pexels-photo-612419.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **Location:** Suzhou is in southeastern Jiangsu Province, 100km west of Shanghai, part of the Yangtze River Delta megalopolis. Population: approximately 5.5 million.
 
@@ -97,6 +99,8 @@ Unlike the more commercial Shantang Street (山塘街), Ping Jiang Road still ha
 
 ---
 
+![Suzhou — Shantang Street (山塘街)](https://images.pexels.com/photos/19954049/pexels-photo-19954049.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Shantang Street (山塘街)
 
 More commercial than Ping Jiang Road but genuinely beautiful, particularly in the evening. The 3.5km street was originally built on a causeway constructed by the Tang dynasty poet Bai Juyi when he governed the city. Evening lantern light reflects in the canal; gondola-style boats carry tourists along the water for ¥70–100 per person.
@@ -136,6 +140,8 @@ The original "Venice of the East" designation — now genuinely overcrowded duri
 Further from Suzhou (about 90 minutes) but the best-preserved of all the Jiangnan water towns for atmospheric walking. The night scenery — lantern-lit canals, silhouetted old bridges — is extraordinary. Requires an overnight to experience properly.
 
 ---
+
+![Suzhou — Where to Stay in Suzhou](https://images.pexels.com/photos/20734988/pexels-photo-20734988.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Where to Stay in Suzhou
 

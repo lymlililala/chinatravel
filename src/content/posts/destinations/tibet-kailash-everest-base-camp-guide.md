@@ -9,6 +9,7 @@ tags:
   - tibet
   - destinations
 description: "A guide to Tibet's most remote and sacred journeys — the kora circuit around Mount Kailash (6,638m) and the road to Everest Base Camp (5,200m). Permits required, altitude preparation, best season, and what makes these journeys genuinely transformative."
+ogImage: "https://images.pexels.com/photos/1242987/pexels-photo-1242987.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Tibet's most profound journeys are its most demanding. Two destinations stand apart for their combination of altitude, remoteness, and spiritual significance: the circumambulation circuit around Mount Kailash (冈仁波齐) — the most sacred mountain in Asia, revered by four religions — and the overland route to the north side Everest Base Camp (珠穆朗玛峰大本营) at 5,200 metres. Both require permits, planning, and genuine respect for altitude.
@@ -16,6 +17,8 @@ Tibet's most profound journeys are its most demanding. Two destinations stand ap
 ## Table of contents
 
 ## Tibet Entry Requirements
+
+![Tibet — Tibet Entry Requirements](https://images.pexels.com/photos/29370347/pexels-photo-29370347.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **Tibet Travel Permit (西藏旅游许可证)**: All foreign nationals require this permit in addition to a valid Chinese visa. Cannot be obtained independently — must be arranged through a registered Tibet travel agency. Processing time: 5–15 working days.
 
@@ -26,6 +29,8 @@ Tibet's most profound journeys are its most demanding. Two destinations stand ap
 **Practical note**: All Tibet travel for foreign nationals must be arranged through a licensed Tibet travel agency (this is Chinese law, not a recommendation). Agencies organise the permits, guide, and vehicle; you pay a daily guide fee on top of your own costs.
 
 ---
+
+![Tibet — Mount Kailash (冈仁波齐) and Lake Manasarovar](https://images.pexels.com/photos/10792604/pexels-photo-10792604.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Mount Kailash (冈仁波齐) and Lake Manasarovar
 
@@ -55,6 +60,8 @@ Adjacent to Kailash, Lake Manasarovar is one of the world's highest freshwater l
 The turquoise-blue lake surrounded by high-altitude desert, with Kailash visible to the north and other snow peaks on three sides, is one of Tibet's most visually overwhelming landscapes.
 
 ---
+
+![Tibet — Everest North Base Camp (珠峰北坡大本营)](https://images.pexels.com/photos/20839130/pexels-photo-20839130.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Everest North Base Camp (珠峰北坡大本营)
 

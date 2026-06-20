@@ -11,7 +11,7 @@ tags:
   - east-china
   - culture
 description: "Tongli (同里) water town near Suzhou — less crowded than Zhouzhuang, with authentic canal-side living alongside the tourist sites. The Retreat and Reflection Garden (退思园), the historic stone bridges, evening dinner by the canal, and why Tongli is a better day-trip choice for most visitors."
-ogImage: "https://images.unsplash.com/photo-1513407030348-c983a97b98d8?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/37050179/pexels-photo-37050179.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Tongli is a water town in southern Jiangsu that most people discover after visiting (or deciding against) Zhouzhuang. It's about 20km from Suzhou and 80km from Shanghai, built across five islands connected by 49 stone bridges, with canals threading through a town where people still live, shop, and go about their days alongside the tourists.
@@ -21,6 +21,8 @@ The key difference from Zhouzhuang: Tongli feels less like a museum and more lik
 ## Table of contents
 
 ## Entry Fees and Getting In
+
+![Tongli Water Town — Entry Fees and Getting In](https://images.pexels.com/photos/8554405/pexels-photo-8554405.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **Entry fee:** ¥100 per person (includes Retreat and Reflection Garden, Pearl Tower, and several smaller sites)  
 **Opening hours:** 7:30am–5:30pm  
@@ -41,6 +43,8 @@ Unlike the grand imperial-scale gardens in Suzhou proper, Tuisi Garden (as it's 
 Tongli has 49 bridges, but three are traditionally walked in sequence during celebrations: **Taiping Bridge (太平桥)** for peace, **Jili Bridge (吉利桥)** for luck, and **Changqing Bridge (长庆桥)** for celebration. Locals traditionally walk across all three at weddings, birthdays, and New Year.
 
 The bridges cluster together in the southern part of the old town, and walking between them takes about 10 minutes. The scene of all three bridges from the canal is one of the best photographs in Tongli.
+
+![Tongli Water Town — Canal Boat Rides](https://images.pexels.com/photos/36466069/pexels-photo-36466069.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Canal Boat Rides
 
@@ -63,6 +67,8 @@ The Pearl Tower is a residential complex-turned-historic site, telling the story
 A private Qing Dynasty mansion with a large courtyard garden, Geng Le Tang is less visited than the Pearl Tower but architecturally more impressive. The main hall's woodwork carving is exceptional — look at the screen panels behind the main table.
 
 **Included in the main ticket**
+
+![Tongli Water Town — Where to Eat: Canal-Side Dining](https://images.pexels.com/photos/32192060/pexels-photo-32192060.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Where to Eat: Canal-Side Dining
 

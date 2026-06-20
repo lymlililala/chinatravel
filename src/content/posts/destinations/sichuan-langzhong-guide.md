@@ -12,7 +12,7 @@ tags:
   - feng-shui
   - spring-festival
 description: "Langzhong in northeastern Sichuan is one of China's four great ancient cities and is considered the birthplace of the Spring Festival tradition — the Chinese New Year celebration observed by 1.5 billion people worldwide. Its Feng Shui-optimized city layout, 2,300 years of continuous habitation, and remarkably preserved old town make it one of Sichuan's most important cultural destinations."
-ogImage: "https://images.unsplash.com/photo-1583309219338-a582f1db9a18?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/7494243/pexels-photo-7494243.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Langzhong (阆中) sits in a bend of the Jialing River (嘉陵江) in northeastern Sichuan, surrounded by low mountains in a configuration that has made it a textbook example of ideal Feng Shui for over two millennia. It's one of China's Four Great Ancient Cities (四大古城) alongside Pingyao, Lijiang, and Shexian — and the least visited of the four, which gives it an authenticity that the others have partially lost to tourism.
@@ -22,6 +22,8 @@ Two things distinguish Langzhong from other ancient cities in China. The first i
 ## Table of contents
 
 ## Getting to Langzhong
+
+![Langzhong Ancient City Sichuan — Getting to Langzhong](https://images.pexels.com/photos/30836778/pexels-photo-30836778.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **By high-speed train:**
 - **From Chengdu:** About 2 hours; ¥90–140; multiple daily departures
@@ -56,6 +58,8 @@ Another shrine associated with Zhang Fei, containing artifacts and historical do
 
 **The old town streets:**
 The best way to experience Langzhong is simply to walk. The main streets (Zhandao Street 中天楼街, Wuling Street 武庙街) are lined with wooden shopfronts selling vinegar, beef, silk, and preserved foods. The side lanes are quieter and more residential.
+
+![Langzhong Ancient City Sichuan — Feng Shui and City Layout](https://images.pexels.com/photos/32401786/pexels-photo-32401786.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Feng Shui and City Layout
 
@@ -100,6 +104,8 @@ Langzhong celebrates the Spring Festival with particular intensity, claiming to 
 - Extended temple fairs and food markets
 
 Visiting during the Spring Festival period (late January/February) offers the most intense cultural experience, but also the most crowded.
+
+![Langzhong Ancient City Sichuan — Food in Langzhong](https://images.pexels.com/photos/29714906/pexels-photo-29714906.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Food in Langzhong
 

@@ -12,7 +12,7 @@ tags:
   - himalaya
   - trekking
 description: "Visiting Everest Base Camp from the Tibetan side is a bucket-list experience that requires careful planning, multiple permits, and serious altitude preparation. This 2026 guide covers the permit process, the route from Lhasa via Shigatse and Tingri, what you'll actually see at 5,200m, the famous sunrise views, and realistic expectations for this extraordinary journey."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/18651260/pexels-photo-18651260.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -22,6 +22,8 @@ The Tibetan Base Camp of Everest (藏语: Chomolungma, Chinese: 珠穆朗玛峰)
 I want to be clear from the start: visiting Everest Base Camp on the Tibetan side requires multiple permits, significant expense, and genuinely careful planning regarding altitude. But for those who do it properly, it's one of the most profound things you can do as a traveler anywhere in the world.
 
 ## Understanding the Tibet Permit System
+
+![Everest Base Camp Tibet — Understanding the Tibet Permit System](https://images.pexels.com/photos/16146932/pexels-photo-16146932.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Visiting Tibet requires permits beyond a regular Chinese visa — this is non-negotiable. For Everest Base Camp specifically, you need three separate permits:
 
@@ -63,6 +65,8 @@ The Tibetan Base Camp has two main visiting windows:
 - November–March: Extreme cold and the national park may restrict tourist access for environmental restoration. Check current policies.
 
 In 2026, the Everest Base Camp area has implemented a daily visitor cap of approximately 300 people and requires advance reservations through your travel agency. Don't show up without confirmed permits and bookings.
+
+![Everest Base Camp Tibet — The Route: Lhasa to Everest Base Camp](https://images.pexels.com/photos/210112/pexels-photo-210112.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Route: Lhasa to Everest Base Camp
 
@@ -117,6 +121,8 @@ A small number of guesthouses and tent camps operate at the Base Camp area. Acco
 - **All-inclusive tent camp (spring only)**: ¥500–800/night including meals — better insulation and organization during expedition season
 
 Book in advance through your travel agency — capacity is limited.
+
+![Everest Base Camp Tibet — Photography Guide for Everest](https://images.pexels.com/photos/31410274/pexels-photo-31410274.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Photography Guide for Everest
 

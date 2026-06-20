@@ -12,12 +12,14 @@ tags:
   - tibetan plateau
   - lhasa day trip
 description: "Yamdrok Lake is one of Tibet's three sacred lakes — a vast expanse of impossible turquoise water set against snow-capped peaks at 4400 metres altitude. This 2026 guide covers the permits required, how to get there from Lhasa, best photography spots, the sacred significance, and everything you need for a safe and respectful visit in 2026."
-ogImage: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/6666087/pexels-photo-6666087.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
 
 ## The Sacred Turquoise Sea: First Impressions of Yamdrok
+
+![Yamdrok Lake Tibet — The Sacred Turquoise Sea: First Impressions of Yamdrok](https://images.pexels.com/photos/18118222/pexels-photo-18118222.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 The first sight of Yamdrok Lake (羊卓雍错) from the Gampa La Pass tends to stop people in their tracks. You have been driving upward through sparse high-altitude scrub, the altitude thickening the air and slowing your thoughts, and then the road crests a pass at 4794 metres and suddenly the lake is there. Not the pale blue of overexposed photographs, but a vivid, saturated turquoise that seems to belong to a more vivid version of reality.
 
@@ -44,6 +46,8 @@ Yamdrok Lake is approximately 80km south of Lhasa. The standard route via the Ga
 A day trip from Lhasa is perfectly feasible. Most itineraries leave Lhasa at 8–9 AM and return by 6–7 PM, including 3–4 hours at the lake. An overnight stay at Nangartse on the southern shore allows early morning photography when the light is extraordinary and the tour groups have not yet arrived. Basic guesthouses in Nangartse cost ¥100–200 per night.
 
 The most popular multi-day option combines Yamdrok with a drive south over the Karo La Pass where a glacier descends to road level, then continues to Gyantse and Shigatse. This 2–3 day itinerary covers some of the finest landscapes in all of Tibet.
+
+![Yamdrok Lake Tibet — Best Viewpoints and Photography Spots](https://images.unsplash.com/photo-1504992963429-56f2d62fbff0?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw0fHxWaWV3cG9pbnRzJTIwUGhvdG9ncmFwaHklMjBTcG90c3xlbnwwfDB8fHwxNzgxOTIyMjk0fDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## Best Viewpoints and Photography Spots
 
@@ -81,6 +85,8 @@ The standard recommendation is to spend at least 2 full days in Lhasa before ven
 Acute Mountain Sickness symptoms include headache, nausea, fatigue, and dizziness. These commonly occur in Lhasa and usually improve with rest. If symptoms worsen significantly or you develop confusion, difficulty walking, or extreme shortness of breath, descend immediately. Diamox (Acetazolamide) is a prescription medication that helps acclimatisation — consult your doctor before your trip.
 
 Stay hydrated by drinking more water than normal. Avoid alcohol for the first 2–3 days in Tibet. Move slowly and plan more time for everything, as climbing stairs at 4400m is genuinely tiring.
+
+![Yamdrok Lake Tibet — Wildlife at Yamdrok Lake](https://images.pexels.com/photos/8604590/pexels-photo-8604590.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Wildlife at Yamdrok Lake
 

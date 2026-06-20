@@ -12,7 +12,7 @@ tags:
   - nature
   - temples
 description: "Hubei Province offers two unmissable destinations — Wuhan's Yellow Crane Tower and spectacular spring cherry blossoms, plus the dramatic Wudang Mountains where Taoist martial arts were born."
-ogImage: "https://images.unsplash.com/photo-1525362081669-2b476bb628c3?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/5918241/pexels-photo-5918241.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Hubei Province sits at the heart of China — geographically, historically, and culturally. Wuhan is one of the country's most vivacious cities, while Wudang Mountain is a UNESCO Heritage Site of Taoist temples dramatically perched on granite peaks.
@@ -20,6 +20,8 @@ Hubei Province sits at the heart of China — geographically, historically, and 
 ## Table of contents
 
 ## Wuhan (武汉)
+
+![Wuhan & Wudang Mountain — Wuhan (武汉)](https://images.pexels.com/photos/7494229/pexels-photo-7494229.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Wuhan (actually three merged cities: Wuchang, Hankou, and Hanyang) sits at the confluence of the Yangtze and Han Rivers — China's greatest waterway junction, a fact that made it the commercial and transportation hub of central China for centuries.
 
@@ -48,6 +50,8 @@ Other Wuhan specialties:
 
 ---
 
+![Wuhan & Wudang Mountain — Wudang Mountain (武当山)](https://images.pexels.com/photos/16004928/pexels-photo-16004928.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Wudang Mountain (武当山)
 
 Wudang Mountain (武当山) is to Chinese Taoism what Shaolin Temple is to Buddhism — the spiritual home and birthplace of internal martial arts (internal kung fu, including tai chi and wudang sword style).
@@ -70,6 +74,8 @@ Train from Wuhan to Danjiangkou (3.5 hours, ¥80) or Shiyan (3.5 hours, ¥100), 
 Wudang mountain is an active martial arts training centre — visitors can watch morning practice or enrol in short-term courses (1–7 days) in taichi, wudang sword, or qigong. Several guesthouses on the mountain offer martial arts-combined accommodation packages.
 
 ---
+
+![Wuhan & Wudang Mountain — Shennongjia (神农架)](https://images.pexels.com/photos/16850864/pexels-photo-16850864.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Shennongjia (神农架)
 

@@ -11,11 +11,14 @@ tags:
   - seasonal
   - spring
 description: "Everything about Wuhan's cherry blossom season — when the blossoms peak at Wuhan University and East Lake, how to visit the famous Luojia Hill sakura, tips for avoiding the biggest crowds, and combining with Wuhan's other spring highlights."
+ogImage: "https://images.pexels.com/photos/1462124/pexels-photo-1462124.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Wuhan (武汉) has an unlikely claim as China's cherry blossom capital — and the claim is legitimate. Wuhan University's (武汉大学) Luojia Hill campus contains one of the densest concentrations of cherry trees in China, with an estimated 1,100 trees of 30+ varieties. East Lake's cherry blossom garden (东湖磁湖樱花园) is one of the largest in Asia.
 
 The spring blossom season makes Wuhan one of the most visited cities in China in March — and one of the most genuinely beautiful.
+
+![Wuhan Cherry Blossom — When Do Wuhan's Cherry Blossoms Peak?](https://images.pexels.com/photos/16851687/pexels-photo-16851687.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## When Do Wuhan's Cherry Blossoms Peak?
 
@@ -29,6 +32,8 @@ The peak blossom period typically falls between **mid-March and early April** (a
 
 To check current conditions: The Wuhan University official WeChat account posts daily flowering updates in the days approaching peak bloom.
 
+![Wuhan Cherry Blossom — Wuhan University Luojia Hill (武汉大学珞珈山)](https://images.pexels.com/photos/29373971/pexels-photo-29373971.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Wuhan University Luojia Hill (武汉大学珞珈山)
 
 Wuhan University's hillside campus is one of the most beautiful university campuses in China regardless of season — the 1930s Chinese-Western hybrid architecture (main library, mathematics building, law school) designed by American architects is extraordinary. During cherry blossom season, the hillsides visible from the campus paths become pink and white.
@@ -40,6 +45,8 @@ Wuhan University's hillside campus is one of the most beautiful university campu
 **Tips for getting tickets**: Book 1–2 days in advance (not further — too early); have the mini-program open and your WeChat Pay ready.
 
 **Best time within the day**: Early morning (7–9am) has the softest light and smallest crowds. The famous hilltop path with views over the entire campus is the primary photo destination.
+
+![Wuhan Cherry Blossom — East Lake Cherry Garden (武汉东湖磁湖樱花园)](https://images.pexels.com/photos/28738902/pexels-photo-28738902.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## East Lake Cherry Garden (武汉东湖磁湖樱花园)
 

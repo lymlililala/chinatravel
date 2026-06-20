@@ -11,11 +11,14 @@ tags:
   - nature
   - villages
 description: "Wenzhou and the Yongjia River Valley — Zhejiang's most overlooked destination, with clan-plan ancient villages dating to the Song dynasty, extraordinary rural architecture, limestone gorge scenery, and minimal tourist infrastructure."
+ogImage: "https://images.pexels.com/photos/27291305/pexels-photo-27291305.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Wenzhou (温州) is known internationally as the city that produces 70% of China's cigarette lighters and half its shoes — a manufacturing powerhouse rather than a travel destination. But the mountainous interior of Wenzhou Municipality contains the Yongjia Valley (楠溪江), one of the least-visited and most authentic rural landscapes in eastern China.
 
 The Yongjia River (楠溪江 Nánxī Jiāng) flows through a limestone karst valley flanked by ancient clan villages that were planned according to Song dynasty feng shui and geomancy principles — village layouts that encode cosmological beliefs in the positioning of wells, gates, ancestral halls, and residential blocks.
+
+![Wenzhou & Yongjia — The Ancient Villages of Yongjia](https://images.pexels.com/photos/29611996/pexels-photo-29611996.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Ancient Villages of Yongjia
 
@@ -27,11 +30,15 @@ Approximately 50 ancient villages in the Yongjia Valley have been identified for
 
 **Taizhao Village (太昭古村)**: At the junction of the river and a tributary — the meeting of waters was considered auspicious positioning. The entire village perimeter follows flood management principles encoded in the original Song layout.
 
+![Wenzhou & Yongjia — Nanxi River Scenic Area (楠溪江风景区)](https://images.pexels.com/photos/37015413/pexels-photo-37015413.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Nanxi River Scenic Area (楠溪江风景区)
 
 The Nanxi River itself is classified as a national scenic area for its clear green water, karst formations, and the traditional bamboo raft culture that still exists on the river.
 
 Bamboo raft journeys (竹筏漂流) from various points along the river are the primary tourist activity — drifting through the gorge sections past sheer limestone cliffs. The most scenic stretches are in the central valley between Yanxia and Daping villages.
+
+![Wenzhou & Yongjia — Getting There](https://images.pexels.com/photos/34229191/pexels-photo-34229191.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting There
 

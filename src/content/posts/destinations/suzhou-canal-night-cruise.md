@@ -1,6 +1,7 @@
 ---
 title: "Suzhou Canal Night Cruise & Water Town Guide"
 description: "Complete guide to Suzhou's canal system — best night cruises, water town day trips (Zhouzhuang, Tongli, Wuzhen), how to take the boat rather than walking, and combining Suzhou's canals with its classical gardens."
+ogImage: "https://images.pexels.com/photos/18781943/pexels-photo-18781943.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/suzhou-canal.jpg"
 category: "destinations"
@@ -15,6 +16,8 @@ Suzhou (苏州) has been called "the Venice of the East" since the 13th century 
 Marco Polo reportedly passed through Suzhou and remarked on its beauty. Song dynasty poets called it a paradise for merchants and scholars. Today, the canals survive — reduced in commercial activity but still physically present, still defining the old city's character.
 
 Understanding Suzhou means understanding its layered experience: the UNESCO-listed classical gardens (remarkable on their own terms), the historic canal neighborhoods, and the extraordinary legacy of silk production that funded the city's cultural achievements.
+
+![Suzhou Canal Night Cruise & Water Town — The Canal System](https://images.pexels.com/photos/8970255/pexels-photo-8970255.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Canal System
 
@@ -32,6 +35,8 @@ Shantang Street (山塘街) was built by Tang dynasty poet-official Bai Juyi dur
 Today, the street is a mix of tourist commercialization (the western half, near Tiger Hill) and genuine neighborhood life (the eastern half, toward Changmen Gate). The pedestrian streets and the canal run side by side for 3.5 km, connected by old stone bridges.
 
 **Night on Shantang**: Red lanterns are lit after dark, reflecting in the canal water. The restaurants and tea houses along the banks open onto the water. Suzhou locals gather to walk, eat, and sit by the canal. This is one of the more genuinely pleasant heritage street evenings in China — less crowded than Nanjing's Qinhuai district, more authentic than many reconstructed heritage streets.
+
+![Suzhou Canal Night Cruise & Water Town — Pingjiang Road: The Authentic Canal Neighborhood](https://images.pexels.com/photos/35016217/pexels-photo-35016217.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Pingjiang Road: The Authentic Canal Neighborhood
 
@@ -54,6 +59,8 @@ Taking a traditional wooden boat (画舫, huà fǎng) through Suzhou's inner can
 **Prices**: ¥100-150 per person for standard boat tours. Private charter boats are available for around ¥400-500 for a small group.
 
 **Night vs. Day**: Both are beautiful; night tours with lantern illumination are more romantic but slightly less visually detailed. Day tours show more architectural texture.
+
+![Suzhou Canal Night Cruise & Water Town — Classical Gardens: The Cultural Framework](https://images.pexels.com/photos/16912476/pexels-photo-16912476.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Classical Gardens: The Cultural Framework
 
