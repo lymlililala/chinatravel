@@ -26,9 +26,11 @@ function poolPick(seed: string): string {
 
 const firstTag = (tags?.[0] ?? "").toLowerCase().replace(/[^a-z]/g, "");
 
-// Prefer the article's own local ogImage; otherwise a per-id pool image
+// Prefer the article's own ogImage (local "/..." or remote "https://..."),
+// so each card shows the article's real, de-duplicated cover; fall back to the
+// per-id local pool only when an article has no ogImage at all.
 const { ogImage } = data;
-const thumbnail = (typeof ogImage === "string" && ogImage.startsWith("/"))
+const thumbnail = (typeof ogImage === "string" && ogImage.length > 0)
   ? ogImage
   : poolPick(id);
 
