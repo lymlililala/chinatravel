@@ -12,7 +12,7 @@ tags:
   - southeast-asia
   - overland
 description: "The complete guide to crossing overland from China to Vietnam — the Nanning to Hanoi route via Pingxiang/Đồng Đăng, the Kunming to Hanoi route via Hekou/Lào Cai, the train options, visa requirements for each nationality, and practical crossing advice."
-ogImage: "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/32419952/pexels-photo-32419952.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 The China-Vietnam land border is one of the most-crossed overland borders in Southeast Asia. The mountainous terrain between southern China and northern Vietnam means that despite sharing a long border, there are only a handful of practical crossing points — each with its own character, transport connections, and practical considerations. This guide covers the two main routes that most foreign travelers use.

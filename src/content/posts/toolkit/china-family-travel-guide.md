@@ -13,7 +13,7 @@ tags:
   - chengdu
   - shanghai
 description: "Everything families need to plan a successful trip to China with children — best destinations for kids, how to handle food and health, getting around with young children, and ready-made 10-day family itineraries."
-ogImage: "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=900&q=80"
+ogImage: "https://images.pexels.com/photos/31868587/pexels-photo-31868587.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Travelling to China with children is one of the most rewarding family trips you can take — and also one that requires more preparation than most. The country's size, the language barrier, the digital infrastructure, and the scale of the crowds all multiply when you are managing children alongside them. This guide turns those complications into manageable steps.

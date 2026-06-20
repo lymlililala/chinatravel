@@ -12,7 +12,7 @@ tags:
   - luxury
   - travel-expenses
 description: "The most detailed China travel cost breakdown available for 2026 — with specific prices in yuan and USD for accommodation categories, meal types at different restaurant levels, transport options between cities, attraction entrance fees, and daily budgets for three travel styles. Updated with 2026 prices reflecting China's evolving tourism economy, including the impact of mobile payment adoption on spending patterns."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/29890322/pexels-photo-29890322.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

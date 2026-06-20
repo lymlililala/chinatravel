@@ -12,7 +12,7 @@ tags:
   - national-parks
   - outdoor
 description: "China's world-class national parks and scenic areas — Jiuzhaigou (rainbow-coloured lakes, closed 2017-2019 after earthquake, now re-opened with strict visitor caps), Zhangjiajie/Wulingyuan (the Avatar mountains), Huanglong (coloured terraced pools), Changbai Mountain (volcanic lake on the Korea border), and the ticketing and timed-entry systems you need to book in advance."
-ogImage: "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/34683513/pexels-photo-34683513.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 China has some of the world's most spectacular protected natural areas, and the management systems for accessing them have become increasingly sophisticated. Most major scenic areas now require advance online booking, operate timed-entry ticket systems, and cap daily visitor numbers. Understanding this before you go prevents arriving to find tickets sold out for your preferred date.

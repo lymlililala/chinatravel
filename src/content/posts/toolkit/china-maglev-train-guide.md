@@ -11,7 +11,7 @@ tags:
   - toolkit
   - technology
 description: "China's operational maglev trains — the Shanghai Transrapid (Pudong Airport to Longyang Road, 7 minutes, 431 km/h, world's fastest commercial train), how to ride it, ticket prices, the best position for speed gauge photos, and what China's planned future maglev routes (Beijing-Shanghai, Chengdu-Chongqing) mean for future travel."
-ogImage: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/11826996/pexels-photo-11826996.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 The Shanghai Maglev is a genuinely strange experience if you haven't prepared yourself. You're sitting in what looks like a normal train carriage, the vehicle starts moving, picks up speed — and then keeps accelerating past the point where your brain expects it to stop. The speedometer display in the front of each carriage ticks up: 200 km/h, 300, 350, 400 — and then it hits 431 km/h. You're moving through Shanghai's eastern suburbs at nearly 120 meters per second. The train doesn't touch the rails.

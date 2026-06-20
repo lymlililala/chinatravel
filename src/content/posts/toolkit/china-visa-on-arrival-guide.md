@@ -11,7 +11,7 @@ tags:
   - entry
   - planning
 description: "China's visa-on-arrival and port entry options in 2026 — the Hainan 30-day visa-free policy (by far the most generous, applicable to 59 nationalities), the 72-hour and 144-hour transit visa exemptions, the 15-day visa-free bilateral agreements, and the countries where China visa on arrival is available at specific ports. Updated for 2026 policy changes."
-ogImage: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/14989448/pexels-photo-14989448.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 China's entry policy has become significantly more visitor-friendly since 2023, with several visa-free programs expanded and new bilateral agreements coming into force. The result is that visitors from many countries now have multiple options for entering China without a pre-arranged visa — from transit exemptions to extended visa-free stays on Hainan Island.

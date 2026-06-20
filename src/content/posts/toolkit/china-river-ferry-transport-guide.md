@@ -11,7 +11,7 @@ tags:
   - toolkit
   - scenic
 description: "Travelling by water in China — the Yangtze River cruise from Chongqing to Yichang (the Three Gorges section), the Li River cruise from Guilin to Yangshuo (the classic bamboo raft option), island ferries to Putuoshan and Hainan's south coast islands, and the Hong Kong to Macau and Zhuhai ferries. Booking and practical tips."
-ogImage: "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/30685854/pexels-photo-30685854.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 China has some extraordinary water routes. The Yangtze gorges, the Li River karst scenery, the Buddhist island of Putuoshan approached by ferry across a choppy grey sea — these journeys exist outside what trains and airports can provide. Water transport in China ranges from practical (Hong Kong-Macau hydrofoils) to genuinely among the most beautiful journeys in the world (Li River dawn cruise). Here's what's worth doing and how to book it.

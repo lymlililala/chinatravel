@@ -12,7 +12,7 @@ tags:
   - technology
   - practical
 description: "WeChat as a tourist tool — setting up an account with a foreign number, adding WeChat Pay with an international card (the process and its limits), using WeChat for maps and translation (less common but possible), Mini Programs for buying train and museum tickets, and why even travelers who prefer Alipay should have WeChat for communication and social proof."
-ogImage: "https://images.unsplash.com/photo-1537944434965-cf4679d1a598?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/1486577/pexels-photo-1486577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 WeChat is not optional for China travel in any meaningful sense. It's the communication layer through which an enormous portion of Chinese social and professional life flows. Even if you're committed to Alipay for payments and Amap for navigation, you'll encounter situations where someone wants to share their contact details, a business sends you a document, a restaurant wants to seat you via their WeChat booking system, or a local contact needs to reach you. Having WeChat set up and working is a foundational requirement.

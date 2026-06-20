@@ -12,7 +12,7 @@ tags:
   - practical
   - food
 description: "Food delivery in China is among the world's most efficient and affordable — Meituan and Eleme deliver to virtually every address in every major city within 30–45 minutes. This 2026 guide explains how foreign visitors can use Chinese food delivery apps, set up accounts, navigate menus without reading Chinese, handle payment, and deal with common problems."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/20296420/pexels-photo-20296420.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

@@ -11,7 +11,7 @@ tags:
   - toolkit
   - practical
 description: "Driving in China as a foreign visitor — the reality of using an international driving licence (which countries' licences are recognised and which aren't), car hire (Shouqi and BAIC are the main foreigner-friendly agencies), GPS apps that work (Gaode Maps essential, not Google), traffic rules that differ from Western norms, and the specific provinces where self-driving is most practical vs impossible."
-ogImage: "https://images.unsplash.com/photo-1437846972679-9e6e537be46e?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/9371778/pexels-photo-9371778.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Self-driving in China is more complicated than in most countries, but it's absolutely possible — and for certain regions (rural Yunnan, western Sichuan, the Silk Road in Gansu and Xinjiang), it unlocks a level of exploration that no train or bus schedule can match. The key is understanding the licence situation honestly, planning your navigation app setup before you arrive, and knowing which areas genuinely welcome self-drive tourists vs which are administratively difficult.

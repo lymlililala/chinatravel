@@ -14,7 +14,7 @@ tags:
   - guilin
   - shanghai
 description: "The complete honeymoon guide to China — romantic destinations from Guilin's misty karst to Yunnan's ancient towns, luxury hotel picks, best time to visit, and two ready-made honeymoon itineraries for different tastes."
-ogImage: "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=900&q=80"
+ogImage: "https://images.pexels.com/photos/34412063/pexels-photo-34412063.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 China does not feature on most couples' shortlist for a honeymoon — which is precisely why it should. While the crowds flock to Bali and Maldives, honeymooners who choose China discover landscapes of extraordinary drama, ancient architecture that sets an atmosphere no purpose-built resort can replicate, and a private-feeling experience even at well-known destinations simply because most visitors don't stay long enough.

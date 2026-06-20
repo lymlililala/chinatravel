@@ -12,7 +12,7 @@ tags:
   - nature
   - southwest-china
 description: "Tiger Leaping Gorge (虎跳峡) in Yunnan — the classic 2-3 day trekking route through one of the world's deepest gorges (3,900m from river to ridgeline). The high trail vs the lower road, the guesthouses along the route (Sean's Spring Guesthouse is the famous waypoint), the best time of year (May-October, avoiding monsoon), and connecting to Lijiang or Shangri-La."
-ogImage: "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/15019000/pexels-photo-15019000.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Tiger Leaping Gorge is one of the world's deepest river gorges. The Jinsha River (upper Yangtze) drops 3,900 metres between the river surface and the ridgeline of Haba Snow Mountain, and the famous high trail runs along the northern wall, with dramatic views down to the churning water and across to the snow-capped Jade Dragon Snow Mountain range on the opposite bank.

@@ -12,7 +12,7 @@ tags:
   - payment
   - transport
 description: "The complete China travel guide for UK citizens in 2026 — how the 15-day visa-free policy works for British passports, Alipay with UK cards, flights from London, Manchester and other UK cities, and practical tips for British independent travellers."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=900&q=80"
+ogImage: "https://images.pexels.com/photos/7235804/pexels-photo-7235804.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 China opened its doors wider to British travellers in 2024 with the introduction of visa-free access for UK passport holders. As of 2026, British citizens can visit China for up to **15 days** without any prior visa — a significant simplification compared to the previous requirement for a full visa application.

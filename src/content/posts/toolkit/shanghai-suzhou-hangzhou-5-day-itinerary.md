@@ -12,7 +12,7 @@ tags:
   - culture
   - jiangnan
 description: "The best 5-day itinerary covering Shanghai, Suzhou and Hangzhou — how to combine the Bund, classical gardens, West Lake, and Jiangnan water towns in a single trip, with day-by-day schedules, train times, and where to eat."
-ogImage: "https://images.unsplash.com/photo-1538428494232-9c0d8a3ab403?w=900&q=80"
+ogImage: "https://images.pexels.com/photos/37520285/pexels-photo-37520285.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 The Shanghai–Suzhou–Hangzhou triangle is the most elegant compact circuit in China. Within a 150km radius, you get the hypermodern skyline of Shanghai, the refined classical gardens of Suzhou, and the scroll-painting scenery of Hangzhou's West Lake — three completely different experiences connected by 25–45 minute high-speed trains.

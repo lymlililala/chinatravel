@@ -12,7 +12,7 @@ tags:
   - toolkit
   - planning
 description: "Surviving Golden Week in China — 800 million domestic tourists travelling simultaneously for October 1-7. The places to avoid (every listed scenic spot, any city called 'the most beautiful'), the places that are actually manageable (smaller cities, northwest China, any destination requiring a flight), and the contrarian guide to actually enjoying China during Golden Week."
-ogImage: "https://images.unsplash.com/photo-1437846972679-9e6e537be46e?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/21419463/pexels-photo-21419463.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Golden Week — the National Day holiday from October 1-7 — is China's second major travel peak after Spring Festival. The numbers are staggering: approximately 700-900 million domestic tourist trips during this single week, representing one of the largest coordinated movements of people on earth.

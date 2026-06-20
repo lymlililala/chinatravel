@@ -20,7 +20,7 @@ tags:
   - culture
   - health
 description: "Wellness tourism in China — the hot spring resorts near major cities (Conghua near Guangzhou, Anji near Hangzhou, Zhongdian in Yunnan), Traditional Chinese Medicine (TCM) clinics in major cities that accept foreigners, Taoist meditation retreats at Wudang Mountain and Qingcheng Mountain, and the growing yoga retreat scene in Dali and Yangshuo."
-ogImage: "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/7662380/pexels-photo-7662380.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 China has a wellness culture that's thousands of years deep, and the infrastructure for it — hot spring resorts, TCM clinics, Taoist mountain retreats, acupuncture centres — is extraordinarily developed once you know where to look. The challenge for foreign visitors is that much of it operates in Chinese with no English interfaces. This guide covers the accessible entry points.

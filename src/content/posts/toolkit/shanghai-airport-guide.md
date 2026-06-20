@@ -11,7 +11,7 @@ tags:
   - airport
   - toolkit
 description: "Shanghai's two airports demystified — Pudong (PVG) for international flights and Hongqiao (SHA) for domestic. The Maglev to the city from Pudong (7 minutes, 431 km/h), metro Line 2, taxis, and how to transfer between the two airports when connecting. Terminal layouts and tips."
-ogImage: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/34118486/pexels-photo-34118486.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Shanghai runs two airports simultaneously — and they're on opposite sides of the city. **Pudong International (PVG)** sits 45 km east of downtown, handling virtually all international flights plus many domestic routes. **Hongqiao (SHA)** is 13 km west of the city center, a tightly run hub focused on domestic flights and the odd short-haul international route. If you're flying into Shanghai for the first time, you're almost certainly landing at Pudong. If you're taking a domestic flight onward to somewhere like Xi'an or Chengdu, your departure might well be from Hongqiao.

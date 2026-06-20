@@ -10,7 +10,7 @@ tags:
   - planning
   - toolkit
 description: "High-end China travel — the private train carriages that can be booked for the Shanghai-Beijing route, the best China luxury hotel brands (Aman Resorts has properties in Beijing and Lijiang, the Capella has extraordinary properties), private guide + driver packages, skip-the-line solutions for Forbidden City and Terracotta Warriors, and the money-can't-buy experiences in China."
-ogImage: "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/18068231/pexels-photo-18068231.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 China's luxury travel scene has matured dramatically in the past decade. The country now has some of the world's finest hotels, and the combination of extraordinary landscapes, ancient heritage sites, and a domestic luxury market that's been demanding the highest standards means visitors with serious budgets will find China delivers on every expectation — provided you plan properly.

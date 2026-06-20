@@ -11,7 +11,7 @@ tags:
   - visa-application
   - passport
 description: "Navigate the Chinese visa application process with this comprehensive 2026 guide to Chinese embassies, consulates, and visa application centres in major countries worldwide. Covers application procedures, required documents, processing times, fees, common rejection reasons, and specific tips for applicants from the US, UK, Canada, Australia, EU nations, India, and other key countries — plus emergency consular services for travellers already in China."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/34943333/pexels-photo-34943333.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

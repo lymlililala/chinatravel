@@ -12,7 +12,7 @@ tags:
   - planning
   - winter
 description: "Northeast China (Dongbei) 10-day itinerary — Shenyang's Manchu Imperial Palace (1 day), the ice festival in Harbin (2-3 days), the Siberian Tiger Park, the rime ice phenomenon in Jilin City, Changbai Mountain and the Heaven Lake crater (2 days), and the Korean food culture of Yanbian. Best done in winter when everything is at its most extreme."
-ogImage: "https://images.unsplash.com/photo-1437846972679-9e6e537be46e?w=1200&q=85"
+ogImage: "https://images.unsplash.com/photo-1606504756251-70aa264f2f62?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw0fHxub3J0aGVhc3QlMjBub3J0aGVhc3R8ZW58MHwwfHx8MTc4MTk0MjQ2NXww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
 ---
 
 Northeast China — the three provinces of Liaoning, Jilin, and Heilongjiang — is one of the country's least-visited regions by international tourists, and one of its most rewarding in winter. When the rest of China is merely cold, northeast China becomes a landscape of extreme cold made extraordinarily beautiful: ice sculptures the size of buildings, trees coated in rime frost, and a volcano crater lake that freezes over completely under the stars.

@@ -11,7 +11,7 @@ tags:
   - culture
   - toolkit
 description: "The Qingming Festival (清明节) — China's Tomb Sweeping Day, falling in early April, when families visit ancestral graves. What it means culturally (the most solemn Chinese holiday), how it affects travel (a 3-day public holiday creates moderate travel surge), which natural sites are at their most beautiful in early April (rapeseed flowers in Anhui, cherry blossoms fading), and what travelers should know."
-ogImage: "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/36929357/pexels-photo-36929357.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Qingming (清明节) is one of China's most distinctive festivals — a day of ancestor veneration and grave maintenance that falls in early April, 15 days after the spring equinox. Unlike the exuberant celebrations of Spring Festival or the commercial energy of National Day, Qingming is a quieter, more reflective occasion. It's also, somewhat paradoxically, one of the best times of year to travel in China.

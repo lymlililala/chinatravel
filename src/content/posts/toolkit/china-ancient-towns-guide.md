@@ -11,7 +11,7 @@ tags:
   - history
   - heritage
 description: "China's preserved ancient towns — Pingyao (Shanxi, Ming-Qing dynasty commercial city, the best preserved), Fenghuang (Hunan, stilted houses over the Tuojiang River, spectacular setting), Wuzhen (Zhejiang, water town with candlelit night scenery), Xitang, and Hongcun (Anhui, the Crouching Tiger Hidden Dragon village). What sets each apart and how to visit without it feeling like a theme park."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/17098024/pexels-photo-17098024.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 China has preserved a remarkable number of ancient towns — commercial cities, water villages, minority settlements — that give tangible form to centuries of history. The challenge is that the best-known ones have become significant tourist destinations, and managing the difference between authentic encounter and curated spectacle requires some navigation. Here's the honest breakdown of what each is actually like.

@@ -11,7 +11,7 @@ tags:
   - beginners
   - practical
 description: "The complete guide to China's most common tourist scams — the Tea House Scam (most common in Beijing and Shanghai), the Art Student scam, fake monks, taxi overcharges, fake currency, counterfeit goods tricks, and simple rules that prevent 99% of scam situations."
-ogImage: "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=1200&q=85"
+ogImage: "https://images.unsplash.com/photo-1749410348464-852a98a001b2?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwzfHx0b3VyaXN0JTIwc2NhbXN8ZW58MHwwfHx8MTc4MTk0MjUwM3ww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
 ---
 
 China is statistically one of the safer countries in the world for tourists in terms of violent crime. What visitors do sometimes encounter are financial scams targeting tourists, most of which follow predictable patterns. The good news is that once you know the playbook, nearly all of them are easy to avoid. This guide covers every major scam you're likely to encounter, how each one works, and the simple rules that neutralize them.

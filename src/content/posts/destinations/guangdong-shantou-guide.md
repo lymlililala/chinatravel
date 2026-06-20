@@ -12,7 +12,7 @@ tags:
   - food
   - coastal
 description: "Discover Shantou, Guangdong's underrated coastal gem where Teochew cuisine reigns supreme. From hand-pulled noodles to steamed fish, explore the OCT Shantou Film Studio, stroll the old foreign concession district, and soak in authentic coastal city life that few foreign tourists ever experience. Your complete 2026 Shantou travel guide."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/31017183/pexels-photo-31017183.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

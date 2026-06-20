@@ -11,7 +11,7 @@ tags:
   - european-travellers
   - german-travellers
 description: "China travel guide for Swiss and Austrian passport holders — visa-free access (30 days for both nationalities), German-language preparation tips, direct flights from Zurich and Vienna, setting up Alipay, and recommended itineraries that combine China's mountains with its cities (for Swiss visitors drawn to mountain scenery)."
-ogImage: "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/33712589/pexels-photo-33712589.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Switzerland and Austria have a notably favourable entry arrangement with China — both nationalities enjoy **30-day visa-free access**, which is twice the allowance given to many other European countries. Combined with direct flights from Zurich and Vienna and German as a widely-taught language in China's German studies programs, Swiss and Austrian visitors to China will find a few helpful connections alongside all the expected contrasts.

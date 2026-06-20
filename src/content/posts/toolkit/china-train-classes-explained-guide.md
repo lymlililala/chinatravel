@@ -11,7 +11,7 @@ tags:
   - practical
   - china
 description: "China's rail system offers a bewildering range of seat and sleeper classes across its high-speed (G/D trains) and conventional (Z/T/K trains) networks. This guide explains every class clearly — from the premium business seat to the hard sleeper — with honest assessments of comfort, value, and when to choose each."
-ogImage: "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/30595797/pexels-photo-30595797.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 China's train network is the world's most extensive high-speed rail system combined with a vast conventional network — over 155,000 kilometres of track in total. The classification system for seats and sleepers is logical once you understand it, but confusing when you first encounter the Chinese abbreviations.

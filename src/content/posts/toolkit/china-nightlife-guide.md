@@ -11,7 +11,7 @@ tags:
   - urban
   - food
 description: "China's nightlife scene from a visitor's perspective — the cities with real late-night culture (Shanghai leads, Chengdu is close), the best cocktail bar cities, how China's clubs compare to Southeast Asia, the bar streets not to bother with, and a curated guide to experiencing genuine Chinese nightlife."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/29534871/pexels-photo-29534871.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 China's nightlife doesn't always match international visitors' expectations — and that cuts both ways. Some cities have scenes that rival anything in Asia; others have impressive-looking "bar streets" that are overpriced tourist traps with identical decor. Knowing which is which saves you a wasted evening and a hangover from bad whiskey.

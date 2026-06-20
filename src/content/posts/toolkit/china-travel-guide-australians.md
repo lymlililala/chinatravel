@@ -11,7 +11,7 @@ tags:
   - visa
   - practical-tips
 description: "The complete 2026 China travel guide specifically for Australian citizens — covering visa requirements and application tips, flight routes from Australian cities, money matters including Alipay setup for Australian cards, health and insurance advice, cultural differences to expect, and practical tips gathered from dozens of Australian travellers who've navigated China's unique travel landscape."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/346820/pexels-photo-346820.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

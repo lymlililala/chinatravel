@@ -14,7 +14,7 @@ tags:
   - yunnan
   - beijing
 description: "A photographer's guide to China — the 15 most photogenic locations, ideal shooting times and conditions, seasonal advice, and practical tips for travelling with camera equipment in 2026."
-ogImage: "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=900&q=80"
+ogImage: "https://images.pexels.com/photos/11892055/pexels-photo-11892055.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 China is one of the most photographically rewarding countries on earth. The density of visually extraordinary material — ancient architecture, dramatic landscapes, minority cultures, street scenes of intense colour — is extraordinary. Within a single two-week trip, you can stand on karst peaks above a river valley, photograph a centuries-old tea ceremony in a mountain village, and capture the Shanghai skyline reflected in the Huangpu at 3am.

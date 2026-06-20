@@ -11,7 +11,7 @@ tags:
   - outdoor
   - nature
 description: "Non-traditional accommodation in China — the yurt stays in Inner Mongolia and Xinjiang's grasslands, camping at Qinghai Lake and Jiuzhaigou (which campsites are sanctioned vs illegal), glamping near Dunhuang's sand dunes, the rise of high-end 'forest camp' operators near popular hiking areas, and what to bring."
-ogImage: "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/28123902/pexels-photo-28123902.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Outdoor accommodation in China has undergone a remarkable transformation in recent years. A decade ago, camping was largely a DIY affair for serious hikers. Today, the country has a booming "glamping" (高端露营, gāoduān lùyíng) industry with tent resorts near every major scenic area, Mongolian yurt camps across the grassland provinces, and luxury "forest camp" operators catering to Chinese urban travelers who want nature without sacrificing comfort.

@@ -14,7 +14,7 @@ tags:
   - practical tips
   - bureaucracy
 description: "Complete step-by-step guide to extending your China visa at a Public Security Bureau (PSB) Exit-Entry Administration office in 2026. Covers document requirements, fees, processing times, common reasons for approval and rejection, and advice for extending tourist visas, work visas, and temporary permits across different cities."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.unsplash.com/photo-1653389527286-604ab2dd2471?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw0fHx2aXNhJTIwZXh0ZW5zaW9ufGVufDB8MHx8fDE3ODE5NDI1NDh8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
 ---
 
 So your China trip has run long, your visa is expiring, and you're not quite ready to leave. Or perhaps you're already in China and circumstances have changed — a job opportunity, a relationship, a project that's taking longer than expected. Whatever the reason, extending your stay legally is possible, but navigating China's Public Security Bureau (PSB) visa extension process requires the right documents, some patience, and accurate current information.

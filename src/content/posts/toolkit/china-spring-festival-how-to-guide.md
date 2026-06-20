@@ -14,7 +14,7 @@ tags:
   - customs
   - travel tips
 description: "The ultimate guide to experiencing China's Spring Festival (Lunar New Year) as a foreign visitor in 2026. Discover the best events, temple fairs, lantern festivals, traditional foods, customs and etiquette, plus honest advice on surviving the world's largest annual migration and which cities offer the best celebrations."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/36603900/pexels-photo-36603900.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Spring Festival — the Chinese Lunar New Year — is the biggest celebration on Earth. Over a billion people participate in the world's largest annual human migration, returning home to family for a period of reunion, feasting, and fireworks. For foreign visitors who happen to be in China during this time, it can be simultaneously the most exhilarating and logistically challenging experience of your travel career.

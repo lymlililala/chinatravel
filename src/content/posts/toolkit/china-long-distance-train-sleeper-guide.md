@@ -11,7 +11,7 @@ tags:
   - toolkit
   - budget
 description: "Taking overnight sleeper trains in China — the difference between hard sleeper (六铺卧铺, cheapest, communal) and soft sleeper (软卧, private 4-berth, quieter), the T and K series slower overnight trains vs the high-speed D series overnight services, booking berths, dinner on board, and how to sleep through the night in a communal berth."
-ogImage: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/8217961/pexels-photo-8217961.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Overnight sleeper trains used to be the backbone of long-distance travel in China. They're less dominant now that high-speed rail has compressed journey times dramatically, but they're far from gone — and for the right routes, they remain one of the best ways to travel. You save on a night's accommodation, you wake up somewhere new, and for routes that still run overnight (Beijing to Xi'an via slower trains, Shanghai to Guilin, Chengdu to Kunming), the experience is genuinely satisfying.

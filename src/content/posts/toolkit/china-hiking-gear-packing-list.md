@@ -11,7 +11,7 @@ tags:
   - outdoor
   - packing
 description: "What to bring for hiking in China — the layering requirement for Yellow Mountain (Huangshan) where summit temperatures are 15°C cooler, what shoes are needed for the Zhangjiajie stone stairs, rain gear for Jiuzhaigou and Wulingyuan, and the gear you can buy cheaply in China (trekking poles, waterproof layers from Decathlon China) vs what to bring from home."
-ogImage: "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/32769115/pexels-photo-32769115.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Hiking in China runs the full spectrum — from the managed stone-staircase trails of Huangshan (where you can have hot noodles halfway up) to remote wilderness routes in Xinjiang and Sichuan where you genuinely won't see another person for days. What you need depends entirely on where you're going, but there are some China-specific gear considerations that apply to most mountain destinations.

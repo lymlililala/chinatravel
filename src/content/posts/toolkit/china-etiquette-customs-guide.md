@@ -20,7 +20,7 @@ tags:
   - etiquette
   - beginners
 description: "Essential cultural knowledge for China visitors — the 'face' (面子) concept and why it matters in every social interaction, dining etiquette (never stick chopsticks upright in rice, always pour for others before yourself), the shoes-off custom at some homes and guesthouses, bargaining norms (expected in markets, never in malls), and the customs around exchanging contact information via WeChat."
-ogImage: "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/6691987/pexels-photo-6691987.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Understanding a few key cultural concepts before you arrive in China will make your interactions significantly more rewarding and help you avoid unintentionally causing offence. You don't need to become an expert in Chinese culture to travel well; you need to understand perhaps five or six underlying principles, and the rest follows naturally.

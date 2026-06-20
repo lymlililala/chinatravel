@@ -11,7 +11,7 @@ tags:
   - beginners
   - practical
 description: "The 30 most useful Chinese phrases for tourists — not a language course, but the specific phrases that genuinely help (ordering food, asking prices, saying thanks, getting a taxi, saying you don't understand). Pronunciation guide in pinyin, the four tones explained simply, and why even attempting a few words makes a significant difference to how people treat you."
-ogImage: "https://images.unsplash.com/photo-1437846972679-9e6e537be46e?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/18101014/pexels-photo-18101014.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 You do not need to speak Mandarin to travel China — plenty of people manage fine without it. But the experience of trying even five or six words in Chinese is transformative. Faces that were neutral or guarded light up. Someone who was about to shrug and walk away tries twice as hard to help you. The effort, however imperfect the pronunciation, signals respect, and Chinese people respond to that with genuine warmth.

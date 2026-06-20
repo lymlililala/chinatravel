@@ -11,7 +11,7 @@ tags:
   - toolkit
   - outdoor
 description: "The best landscape photography locations in China — Zhangjiajie's floating sandstone pillars in morning mist, the Yuanyang rice terraces at dawn (the best dawn photography in Asia), Zhangye's rainbow Danxia mountains at sunset, the Crescent Moon Lake at Dunhuang, and the Yellow Mountain (Huangshan) sea of clouds. Optimal months and times for each."
-ogImage: "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/1973889/pexels-photo-1973889.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 China is one of the most photographically diverse countries on the planet. In a single trip, you can photograph subtropical karst mountains, subzero volcanic lakes, rainbow-striped desert badlands, and terraced hillsides that glow gold at sunrise. The challenge isn't finding good locations — it's knowing when to be there and what conditions to hope for.

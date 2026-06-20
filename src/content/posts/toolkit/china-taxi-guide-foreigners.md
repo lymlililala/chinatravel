@@ -11,7 +11,7 @@ tags:
   - toolkit
   - practical
 description: "Taxis and ride-hailing in China for foreign visitors — DiDi vs Shouqi vs Gaode taxi (each app's advantages), why street taxis in tourist areas often refuse foreigners, the meter vs app comparison, screen-translating your destination, typical prices per km, and how to deal with disputes over route or price."
-ogImage: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/7168516/pexels-photo-7168516.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Taking taxis in China is not as simple as hailing a cab in a Western city, but it's not complicated once you understand how the ecosystem works. Between app-based ride-hailing and street taxis, there are more options than you might expect — the key is knowing which to use in which situation, and how to communicate effectively with drivers who almost certainly don't speak English.

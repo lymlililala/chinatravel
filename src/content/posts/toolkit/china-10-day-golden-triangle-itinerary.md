@@ -12,7 +12,7 @@ tags:
   - shanghai
   - destinations
 description: "The most popular China itinerary for first-time visitors — Beijing, Xi'an, and Shanghai by high-speed rail. A day-by-day guide with realistic timings, transport details, accommodation recommendations, and tips for making the most of each city."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=900&q=80"
+ogImage: "https://images.pexels.com/photos/29204306/pexels-photo-29204306.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 The Beijing-Xi'an-Shanghai triangle is the most-visited itinerary in China for good reason: it covers China's imperial past (Beijing), ancient history (Xi'an), and modern present (Shanghai) in a compact route that's entirely manageable by high-speed rail. If you have 10–12 days and are visiting China for the first time, this is the itinerary.

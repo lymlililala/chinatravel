@@ -11,7 +11,7 @@ tags:
   - toolkit
   - planning
 description: "China in spring — the cherry blossoms in March (Wuhan University campus, Yuyuantan Park in Beijing), the rapeseed flower fields of Wuyuan in April, the Luoyang peony festival, Yunnan in perfect weather, Jiuzhaigou re-opening after spring snowmelt, and the Labour Day Golden Week crowds in early May to plan around."
-ogImage: "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/5485945/pexels-photo-5485945.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Spring is widely considered China's best travel season — and for good reason. The cold of winter eases in March, the summer humidity hasn't arrived yet, and the country erupts in colour: cherry blossoms, rapeseed fields, peonies, wildflowers at altitude. The crowds at natural scenic areas haven't hit peak summer levels. It's genuinely excellent.

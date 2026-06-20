@@ -14,7 +14,7 @@ tags:
   - planning
   - transport
 description: "The classic 10-day southwest China loop — giant pandas in Chengdu, karst peaks along the Li River in Guilin, and the ancient towns of Lijiang and Dali in Yunnan."
-ogImage: "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/6967905/pexels-photo-6967905.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Southwest China is where the country's most spectacular natural scenery meets its most diverse ethnic cultures. This 10-day route covers three of China's greatest destinations and works year-round, with spring and autumn offering the ideal conditions.

@@ -11,7 +11,7 @@ tags:
   - practical-guide
   - first-time
 description: "Chinese train stations are some of the world's largest and most efficiently run — but they operate by rules that foreign visitors often don't know. This 2026 guide explains the complete Chinese train station process from security screening through ticket checking to finding your carriage, plus waiting room hierarchy, luggage rules, and key differences between regular stations and high-speed rail stations."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/30243948/pexels-photo-30243948.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

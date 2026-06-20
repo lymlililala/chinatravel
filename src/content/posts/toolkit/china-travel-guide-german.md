@@ -12,7 +12,7 @@ tags:
   - visa-exemption
   - practical-tips
 description: "The comprehensive 2026 China travel guide for German citizens, covering the new visa-free entry arrangement, flight connections from Germany, payment setup with German bank cards, cultural comparisons between German and Chinese society, health and safety advice, and curated itineraries designed for German travel preferences including railway journeys, industrial heritage, and natural landscapes."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/19902307/pexels-photo-19902307.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

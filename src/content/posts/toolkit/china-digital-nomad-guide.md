@@ -11,7 +11,7 @@ tags:
   - practical
   - technology
 description: "Working remotely from China — the VPN reality in 2026, which cities have the best co-working spaces (Shanghai, Shenzhen, Chengdu, Hangzhou), internet speeds and reliability, long-stay visa options, tax implications, and honest advice for digital nomads considering China."
-ogImage: "https://images.unsplash.com/photo-1537944434965-cf4679d1a598?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/4137614/pexels-photo-4137614.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 China is a fascinating and genuinely underrated destination for remote workers — great food, world-class infrastructure, low cost of living by global standards, and interesting cities with active creative communities. It's also the most complicated major country in the world for remote workers from a technical and legal standpoint. This guide addresses both sides honestly.

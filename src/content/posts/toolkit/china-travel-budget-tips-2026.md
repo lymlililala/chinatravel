@@ -11,7 +11,7 @@ tags:
   - money
   - china
 description: "China spans the full spectrum from ultra-budget to ultra-luxury travel. This guide focuses on the practical budget strategies that experienced China travellers use — not 'suffer for savings' advice but genuine efficiency: using the right apps, eating where locals eat, booking transport smart, and avoiding the common money traps."
-ogImage: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/9052857/pexels-photo-9052857.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 China is one of the world's better-value long-haul travel destinations, but it's not automatically cheap for travellers who don't know the system. There's a wide gap between what tourist-facing businesses charge and what Chinese people pay for equivalent services. This guide is about closing that gap — not about roughing it, but about spending smart.

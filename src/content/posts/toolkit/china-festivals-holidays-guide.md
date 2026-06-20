@@ -11,7 +11,7 @@ tags:
   - beginners
   - toolkit
 description: "The complete guide to Chinese festivals and public holidays for travellers — Chinese New Year, National Day Golden Week, Dragon Boat Festival, Mid-Autumn Festival, and how each holiday affects travel, crowds, and prices for foreign visitors."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=900&q=80"
+ogImage: "https://images.pexels.com/photos/36552735/pexels-photo-36552735.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 China's holiday calendar is one of the most important factors in planning your trip. The country's seven national public holidays — and particularly the three extended "Golden Weeks" — move hundreds of millions of people simultaneously, transforming some travel experiences and making others genuinely unpleasant.

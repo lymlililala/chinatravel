@@ -12,7 +12,7 @@ tags:
   - transport
   - sustainability
 description: "Understand how China's electric vehicle revolution is transforming travel in 2026 — from the dominance of EV taxis and ride-hailing cars to the ubiquitous charging infrastructure, the rise of EV rental options for tourists, how battery-swap technology works, and what the EV transition means for air quality, noise levels, and the overall travel experience in Chinese cities."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/3846205/pexels-photo-3846205.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

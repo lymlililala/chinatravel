@@ -20,7 +20,7 @@ tags:
   - metro
   - toolkit
 description: "Complete guide to Beijing's subway for first-time visitors — the most useful lines for tourists (Lines 1, 2, 4, 10), how to pay with Alipay or the transit card, airport connections, peak hour reality, which major sights are metro-accessible vs require DiDi, and a map of the tourist-relevant sections."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/28114261/pexels-photo-28114261.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Beijing's metro network has over 20 lines and more than 370 stations — it's genuinely extensive and reaches most places a visitor wants to go. For the big tourist corridor (Tiananmen, Forbidden City, Beihai, Wangfujing, Sanlitun), the metro is the fastest and cheapest way to move around the city. But Beijing is also huge, and some sights (the Great Wall, Summer Palace, Temple of Heaven) require knowing which combination of lines and exits actually gets you there.

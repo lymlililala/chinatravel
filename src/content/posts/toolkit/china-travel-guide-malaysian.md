@@ -11,7 +11,7 @@ tags:
   - malaysian-travellers
   - southeast-asia
 description: "Malaysia to China travel guide — Malaysian passport holders' 15-day visa-free access, direct flights from KL (KLIA), the Mandarin and Cantonese advantage for Chinese-Malaysian visitors, mobile payment setup, and must-visit destinations for Malaysians with ancestral connections."
-ogImage: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/10848988/pexels-photo-10848988.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Malaysia and China have deep historical ties — the early Chinese traders who settled the Malay Peninsula brought their languages, food, customs, and clan associations, creating the Chinese-Malaysian community that today makes up about 23% of the country's population. For the millions of Chinese-Malaysian families with roots in Fujian, Guangdong, Hainan, and other provinces, a trip to China carries a particular kind of weight.

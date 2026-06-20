@@ -11,7 +11,7 @@ tags:
   - student
   - long-term
 description: "Studying in China as a foreign student — the top universities for international students (Peking University, Tsinghua, Fudan, Shanghai Jiao Tong), the student visa (X visa) application process, scholarship options (CSC scholarship covers tuition and accommodation), student life in Beijing vs Shanghai, and what it's like to learn Mandarin in a fully immersive environment."
-ogImage: "https://images.unsplash.com/photo-1537944434965-cf4679d1a598?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/32526073/pexels-photo-32526073.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 China hosts more than 500,000 international students annually, making it one of the top five destinations globally for studying abroad. The combination of low tuition costs, significant scholarship availability, and the experience of learning Mandarin in an immersive environment draws students from every continent.

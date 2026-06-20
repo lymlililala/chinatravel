@@ -11,7 +11,7 @@ tags:
   - adventure
   - practical-guide
 description: "Wild camping in China is experiencing a renaissance — millions of Chinese young people have rediscovered outdoor sleeping and the camping equipment market has exploded. This 2026 guide covers the legal situation for wild camping, the best regions, essential gear in the Chinese market context, camping etiquette, and safety considerations for camping in China's diverse landscapes."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/13429381/pexels-photo-13429381.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

@@ -11,7 +11,7 @@ tags:
   - toolkit
   - planning
 description: "Autumn is China's best season for travel — September-October before the Golden Week crowds (pre-October 1 is ideal), the Xinjiang autumn colors at Kanas, Beijing's Fragrant Hills turning red, Jiuzhaigou in its most spectacular seasonal display, Yunnan harvest season, and why Golden Week (October 1-7) requires specific crowd management strategies."
-ogImage: "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/36552715/pexels-photo-36552715.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Autumn is genuinely China's best travel season, and most experienced China travellers will tell you so. September and October bring clear skies, comfortable temperatures across almost the entire country, and the dramatic colours of foliage season at exactly the destinations that benefit most from it. The crowds, while real, are more manageable than the Golden Week period if you time your visit intelligently.

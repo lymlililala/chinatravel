@@ -21,7 +21,7 @@ tags:
   - nature
   - east-china
 description: "The complete Yellow Mountain (黄山) hiking guide — the East Steps vs West Steps comparison, the cable cars (Yungu, Yuping, Taiping), the three-peak circuit for a full day, staying overnight on the mountain for sunrise above the sea of clouds, the best photography positions, and the current entry prices and booking requirements."
-ogImage: "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/28957337/pexels-photo-28957337.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Huangshan (黄山, Yellow Mountain) is the mountain that has defined Chinese landscape painting for 1,500 years. The pine trees growing impossibly from vertical granite faces, the sea of clouds filling the valleys at dawn, the bizarre rock formations with names like "Flying-Over Rock" and "Immortal Pointing the Way" — it's all real, and it's more dramatic in person than in any photograph.

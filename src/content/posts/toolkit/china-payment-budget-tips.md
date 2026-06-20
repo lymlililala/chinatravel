@@ -10,7 +10,7 @@ tags:
   - budget
   - toolkit
 description: "Real, up-to-date daily budget figures for China travel in 2025 — from budget backpacker to mid-range comfort — plus the hidden costs most guides overlook and practical ways to keep spending under control."
-ogImage: "https://images.unsplash.com/photo-1565372195458-9de0b320ef04?w=900&q=80"
+ogImage: "https://images.pexels.com/photos/16600134/pexels-photo-16600134.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 China can be remarkably affordable or surprisingly expensive depending on how you travel. The gap between a shoestring backpacker and a comfort-focused independent traveller is enormous, but both can do it for less than comparable trips in Western Europe or Japan. This guide gives you real numbers and practical strategies.

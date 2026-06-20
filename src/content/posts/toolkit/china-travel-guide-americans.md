@@ -12,7 +12,7 @@ tags:
   - visa
   - safety
 description: "Everything American travellers need to know before visiting China in 2026 — from visa application specifics for US passport holders to navigating the Great Firewall, understanding Chinese surveillance, staying safe, handling money with Alipay, and managing the cultural expectations gap between American and Chinese society. Honest, practical, and based on real experiences from American travellers on the ground."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/7188679/pexels-photo-7188679.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

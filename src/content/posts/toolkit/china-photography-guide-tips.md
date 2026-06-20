@@ -10,7 +10,7 @@ tags:
   - toolkit
   - practical
 description: "Photography in China — what's officially prohibited to photograph (military installations, some government buildings, certain ceremonies), the drone regulations (DJI is Chinese but drone permits are still required in scenic areas), the best golden hour timings in major cities, dealing with crowds at iconic spots, and the Chinese social media culture of 'IG spots' that reveals undiscovered photogenic locations."
-ogImage: "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/788817/pexels-photo-788817.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 China is one of the most photographically rewarding countries on earth: extraordinary landscapes, ancient architecture, intense street life, and a food culture that looks as good as it tastes. It's also a country with specific rules about what you can and can't photograph, a drone regime that catches many visitors off guard, and a crowd situation at famous sites that requires tactical thinking.

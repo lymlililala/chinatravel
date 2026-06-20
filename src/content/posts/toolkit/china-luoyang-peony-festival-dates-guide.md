@@ -13,7 +13,7 @@ tags:
   - flowers
   - spring
 description: "The Luoyang International Peony Festival — 2026 dates and peak bloom periods (usually April 10-25), the best peony gardens (National Peony Garden, Peony Park, Guohua Peony Garden), prices, how long to spend in Luoyang, combining with the Longmen Grottoes, and why this is one of China's most photogenic events."
-ogImage: "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/14770970/pexels-photo-14770970.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Luoyang has been China's peony capital for over a thousand years. The flowers were cultivated here during the Tang Dynasty, when Luoyang was the eastern capital of the empire, and the tradition has continued without interruption. Today the city grows more peony varieties than anywhere else on Earth — over 1,200 registered cultivars — and the annual festival is genuinely one of the most spectacular flower events in Asia.

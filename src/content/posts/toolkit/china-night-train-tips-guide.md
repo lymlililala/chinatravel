@@ -20,7 +20,7 @@ tags:
   - budget-travel
   - practical-guide
 description: "Overnight train travel in China is one of the best ways to cover long distances cheaply while saving on accommodation. This 2026 guide explains the three sleeper classes (hard sleeper, soft sleeper, and new premium options), booking strategies, what to pack, train etiquette for a harmonious carriage, and the specific experiences — from breakfast noodles to corridor conversations — that make Chinese sleeper trains memorable."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/7209369/pexels-photo-7209369.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

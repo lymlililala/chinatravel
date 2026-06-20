@@ -11,7 +11,7 @@ tags:
   - rapeseed
   - bloom-season
 description: "Follow the spring bloom across China in 2026 — from the plum blossoms of February through cherry blossoms in March and April, the spectacular rapeseed flower seas of Yunnan and Guizhou, peonies in Luoyang, and rhododendrons on alpine meadows. This guide covers the best destinations for each bloom, peak timing, photography tips, and how to plan a flower-chasing itinerary that spans the entire spring season."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/36791746/pexels-photo-36791746.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

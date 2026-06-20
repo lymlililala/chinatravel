@@ -12,7 +12,7 @@ tags:
   - visa-exemption
   - culture
 description: "The essential China travel guide for French citizens in 2026, covering the visa exemption that now allows French travellers up to 15 days visa-free, flight connections from Paris, cultural connections between France and China, French-friendly tips for navigating Chinese cuisine, money and payments, and curated itineraries that blend iconic sights with experiences that particularly appeal to French sensibilities."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/35289942/pexels-photo-35289942.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

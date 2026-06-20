@@ -11,7 +11,7 @@ tags:
   - health
   - practical
 description: "Health and safety in China — tap water is not drinkable anywhere in China (always boiled or filtered), the air quality index and when to stay indoors in Beijing and northern cities, food safety and what risks are real vs overstated, finding a doctor (international clinics in major cities, WeChat Doctor app), emergency numbers (120 for ambulance, 110 for police), and travel insurance."
-ogImage: "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/25461759/pexels-photo-25461759.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 China is a very safe country for tourists by any measure — violent crime against foreigners is extremely rare, petty crime is lower than in most European or American cities, and the infrastructure is world-class in major cities. The health considerations are real but mostly manageable with basic preparation.

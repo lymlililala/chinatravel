@@ -12,7 +12,7 @@ tags:
   - northwest-china
   - toolkit
 description: "The classic China Silk Road itinerary — Xi'an (Terracotta Warriors, departure point), Tianshui (Maijishan Grottoes), Zhangye (Danxia Rainbow Mountains), Jiayuguan (western end of the Great Wall), Dunhuang (Mogao Caves, singing sand dunes, crescent moon lake), Turpan (Flaming Mountains, Jiaohe ruins), Urumqi, and Kashgar. Trains, flights, permits."
-ogImage: "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=1200&q=85"
+ogImage: "https://images.unsplash.com/photo-1590385589331-60b83287f924?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwyfHxTaWxrJTIwUm9hZCUyMENoaW5hJTIwc2lsay1yb2FkfGVufDB8MHx8fDE3ODE5NDI0ODV8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
 ---
 
 The Silk Road — the ancient network of trade routes connecting China to Central Asia, the Middle East, and Europe — produced some of the greatest art, architecture, and cultural exchange in human history. Travelling the Chinese section today means following a chain of oasis cities through some of the world's most dramatic desert and mountain landscapes, with extraordinary Buddhist cave art, ancient ruined cities, and nomadic cultures along the way.

@@ -12,7 +12,7 @@ tags:
   - transport
   - entry
 description: "Complete guide to crossing from Hong Kong to mainland China — the Lo Wu (Luohu) MTR crossing, the Lok Ma Chau-Huanggang crossing, the West Kowloon High Speed Rail station to Guangzhou/Beijing/Shanghai, the Hong Kong-Zhuhai-Macau Bridge, ferry options, and what to expect at each."
-ogImage: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/28124805/pexels-photo-28124805.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Crossing from Hong Kong to mainland China is one of the world's most-transited border experiences. The infrastructure is excellent, the process is well-organized, and on a normal weekday it can take as little as 20 minutes total. On a Chinese public holiday weekend, the same crossing can take 2 hours. This guide covers every crossing option so you can choose the right one for your destination and situation.

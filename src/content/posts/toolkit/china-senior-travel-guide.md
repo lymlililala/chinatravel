@@ -12,7 +12,7 @@ tags:
   - family
   - safety
 description: "A practical guide to China for travellers over 60 — accessible destinations, how to handle the digital payment systems, the best transport options for older visitors, health considerations, and ready-made gentle itineraries."
-ogImage: "https://images.unsplash.com/photo-1538428494232-9c0d8a3ab403?w=900&q=80"
+ogImage: "https://images.pexels.com/photos/33555354/pexels-photo-33555354.png?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 China is an excellent destination for older and senior travellers — provided you approach it with realistic preparation. The country has an extraordinary elderly population of its own, which means that infrastructure, pace of life, and social tolerance for slower movement are built in ways that many other developing countries are not. Escalators in metro stations, accessible temples, smooth high-speed train rides, and the genuine warmth of Chinese people toward older visitors all work in a senior traveller's favour.

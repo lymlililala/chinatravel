@@ -11,7 +11,7 @@ tags:
   - japanese-travellers
   - east-asia
 description: "Japan to China travel guide — the recent visa-free policy, direct flights from Tokyo, Osaka, and Nagoya, how China's payment system differs from Japan (no cash culture), cultural similarities and surprising differences, key etiquette points, and recommended itineraries for Japanese visitors."
-ogImage: "https://images.unsplash.com/photo-1536098561742-ca998e48cbcc?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/31509677/pexels-photo-31509677.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Japan and China share thousands of years of cultural exchange, the Chinese character writing system (though Japan adapted it as kanji), Buddhism, tea culture, and much more. But stepping off a plane in Beijing or Shanghai, Japanese visitors are often struck by how different the experience feels from what they expected — and equally surprised by the things that feel familiar.

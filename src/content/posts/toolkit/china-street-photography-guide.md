@@ -11,7 +11,7 @@ tags:
   - street-life
   - culture
 description: "China offers some of the world's most dramatic street photography subjects — from morning tai chi in hutong courtyards to night markets blazing with neon and steam. This 2026 guide covers the best cities and neighborhoods for street photography, how to approach subjects ethically, current legal context for photography in China, and technical approaches for the challenging light conditions you'll encounter."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/12399371/pexels-photo-12399371.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

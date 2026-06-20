@@ -11,7 +11,7 @@ tags:
   - safety
   - urban
 description: "LGBTQ+ travel in China — the legal status (homosexuality decriminalised since 1997, not a mental disorder since 2001, but no legal protections or recognition), Shanghai's underground queer scene (Jing'an district, JJ Bar is the institution), Chengdu's more relaxed queer culture, the 'don't ask, don't tell' dynamic for same-sex couples, and what's changed in 2025-2026 (some outdoor Pride events have been blocked again)."
-ogImage: "https://images.unsplash.com/photo-1537944434965-cf4679d1a598?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/6392048/pexels-photo-6392048.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Travelling China as an LGBTQ+ person requires an accurate understanding of both the legal landscape and the social reality, which are quite different from each other. The short version: same-sex relationships are legal but unrecognised; public visibility is tolerated in urban areas but can face friction; the queer scenes in Shanghai and Chengdu are real and vibrant; outside major cities, discretion is generally advisable.

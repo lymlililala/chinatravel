@@ -11,7 +11,7 @@ tags:
   - beginners
   - north-china
 description: "A 3-day Xi'an itinerary — the Terracotta Warriors in the morning before crowds, the ancient city wall by bicycle, the Muslim Quarter for street food, and a day trip to either Huashan or the Huaqing Palace hot springs. Detailed transport and booking advice."
-ogImage: "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/31001384/pexels-photo-31001384.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Xi'an was China's capital for over a thousand years across thirteen dynasties, including the Han and Tang — which is why it has more UNESCO-worthy historical sites per square kilometer than almost anywhere else in the country. The Terracotta Warriors are the headline act, and they deserve to be: it's one of the genuinely jaw-dropping archaeological discoveries of the 20th century. But Xi'an's beating heart is its **Muslim Quarter**, where the Hui Muslim community has maintained a distinct food and cultural tradition for over 1,000 years.

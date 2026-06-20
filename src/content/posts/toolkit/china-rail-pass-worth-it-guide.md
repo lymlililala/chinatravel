@@ -13,7 +13,7 @@ tags:
   - high speed rail
   - planning
 description: "Wondering if a China Rail Pass is worth buying in 2026? This honest guide breaks down the costs, compares pass options to buying individual tickets, explains how to book China train tickets as a foreigner, and helps you decide whether a rail pass makes sense for your specific itinerary and travel style."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.unsplash.com/photo-1780450369883-6d7bce6093fb?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwzfHxyYWlsJTIwcGFzc3xlbnwwfDB8fHwxNzgxOTQyNDgwfDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
 ---
 
 China's high-speed rail network is one of the wonders of the modern world. With over 45,000 kilometers of track connecting virtually every major city, the trains are fast, comfortable, punctual, and remarkably affordable by international standards. For foreign visitors planning a multi-city trip, the question inevitably arises: should I buy a rail pass?

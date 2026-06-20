@@ -11,7 +11,7 @@ tags:
   - canadian-travellers
   - beginners
 description: "Complete China travel guide for Canadian passport holders — the 15-day visa-free entry that started in 2024, direct flights from Toronto and Vancouver, setting up Alipay with a Canadian credit card, what's different about China from a Canadian perspective, and practical tips for a first visit."
-ogImage: "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/9606954/pexels-photo-9606954.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Canada joined China's expanding visa-free program in late 2024, and it changed the calculus for Chinese travel completely. No more four-week waits at a visa centre, no more gathering proof of hotel bookings and bank statements, no more paying $200+ in fees. Canadians can now fly to China and stay up to 15 days on a standard tourism trip without any pre-arrangement beyond a valid passport.

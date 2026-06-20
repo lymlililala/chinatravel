@@ -11,7 +11,7 @@ tags:
   - guangdong
   - toolkit
 description: "South China 2-week itinerary — Guangzhou for Cantonese food and markets (3 days), day trip to Foshan, Shenzhen for tech and modernity (2 days), Hong Kong for the skyline and hiking (3 days), Macau day trip, Zhuhai for Chimelong (1 day), and flying to Sanya/Hainan for beach time (3-4 days). Train and flight connections."
-ogImage: "https://images.unsplash.com/photo-1537944434965-cf4679d1a598?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/12841228/pexels-photo-12841228.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 South China's Pearl River Delta region is one of the most interesting areas in the country for urban travellers — a cluster of distinct cities each with their own identity, connected by one of the world's most efficient metro and high-speed rail networks. Adding Hong Kong and a Hainan beach tail makes a two-week itinerary that ranges from Cantonese food culture to colonial architecture to subtropical islands.

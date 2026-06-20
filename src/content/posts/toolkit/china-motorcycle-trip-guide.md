@@ -12,7 +12,7 @@ tags:
   - toolkit
   - driving
 description: "Motorcycle travel in China — the iconic Sichuan-Tibet Highway (G318) from Chengdu to Lhasa (14-20 days, the most epic road trip in Asia), renting a motorcycle in China as a foreigner (complex but possible), the Yunnan loop (7-10 days, more manageable), permit requirements for Tibet on a motorbike, and the online communities of foreign riders in China."
-ogImage: "https://images.unsplash.com/photo-1437846972679-9e6e537be46e?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/32964777/pexels-photo-32964777.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 The Sichuan-Tibet Highway (G318) is widely considered the greatest road trip in Asia, possibly in the world. From Chengdu at 500m to Lhasa at 3,650m, crossing 14 passes above 4,000m over 2,142km, the highway traverses landscapes that change from subtropical river valleys through Tibetan plateau to high-altitude desert. Thousands of Chinese riders and a growing number of foreigners attempt it each year.

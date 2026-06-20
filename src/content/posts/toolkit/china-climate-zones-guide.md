@@ -11,7 +11,7 @@ tags:
   - climate-zones
   - when-to-visit
 description: "Navigate China's extraordinary climate diversity — from tropical Hainan to subarctic Heilongjiang, from the arid Gobi to the humid Yangtze Delta. This 2026 guide breaks down China's seven major climate zones, provides month-by-month temperature and rainfall data for key cities, identifies the best and worst times to visit each region, and helps you plan a trip that avoids weather-related disappointments."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/241192/pexels-photo-241192.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

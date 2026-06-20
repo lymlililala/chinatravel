@@ -14,7 +14,7 @@ tags:
   - chengdu
   - beginners
 description: "The essential China food guide for travellers: 30 must-try dishes organised by region, how to find the best versions, how to order without Chinese, food safety tips, and a guide to the regional cuisines that make Chinese food endlessly varied."
-ogImage: "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=900&q=80"
+ogImage: "https://images.pexels.com/photos/3603450/pexels-photo-3603450.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Chinese cuisine is not one cuisine. It is dozens of distinct regional cooking traditions that share ingredients and techniques but produce flavours, textures, and experiences as different from each other as Italian food is from Norwegian. The traveller who eats only hotel breakfasts and westernised Chinese restaurant menus is missing the central point of any China trip.

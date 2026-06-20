@@ -12,7 +12,7 @@ tags:
   - planning
   - air-quality
 description: "Planning travel in China requires reliable weather and air quality data — from typhoon tracking in coastal areas to mountain weather in the Tibetan Plateau to smog forecasting in northern cities. This 2026 guide covers the best weather apps for China, how to read AQI data, seasonal weather patterns by region and how to use weather information for trip planning."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/7568301/pexels-photo-7568301.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

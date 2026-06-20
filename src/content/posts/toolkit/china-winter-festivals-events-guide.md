@@ -11,7 +11,7 @@ tags:
   - lantern-festival
   - chinese-new-year
 description: "Experience China's spectacular winter festival season with this 2026 guide covering the Harbin Ice Festival, Chinese New Year celebrations, the Lantern Festival, winter temple fairs, ice and snow activities across northern China, and practical advice for surviving and enjoying the cold-weather festival circuit from December through February."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/19887429/pexels-photo-19887429.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

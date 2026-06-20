@@ -12,7 +12,7 @@ tags:
   - budget
   - payment
 description: "Everything you need to know about money in China in 2026 — from setting up Alipay and WeChat Pay with foreign cards, finding ATMs that accept international cards, understanding China's cashless revolution, managing currency exchange, estimating daily budgets for different travel styles, and avoiding the common money mistakes that trip up foreign visitors in the world's most advanced mobile payment economy."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/6132753/pexels-photo-6132753.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

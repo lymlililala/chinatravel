@@ -11,7 +11,7 @@ tags:
   - nature
   - south-china
 description: "Zhaoqing (肇庆) — one of Guangdong's most underrated cities, 1.5 hours by HSR from Guangzhou. The Seven Star Crags (七星岩) limestone pinnacles rising from a lake (a miniature Guilin scenery), the Dinghu Mountain nature reserve and Buddhist monastery, and the best day trip or overnight option from Guangzhou for nature seekers."
-ogImage: "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/26380615/pexels-photo-26380615.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Zhaoqing sits on the North River (北江) about 100km west of Guangzhou, at the point where the Pearl River delta starts to give way to the karst limestone mountains of Guangxi. The transition is visible in Zhaoqing itself: within the Star Lake scenic area, limestone pinnacles rise straight from the water like a miniature version of Guilin, surrounded by a flat delta city.

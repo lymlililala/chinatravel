@@ -20,7 +20,7 @@ tags:
   - practical
   - internet
 description: "VPNs in China — the Great Firewall blocks Google, YouTube, Instagram, Facebook, WhatsApp, and most Western news sites. Which VPNs are currently working (ExpressVPN, NordVPN, Astrill are most reliable), the importance of installing before you arrive, Chinese alternatives to blocked apps, and what works without a VPN (Spotify, Netflix via certain routes, most news sites via Telegram)."
-ogImage: "https://images.unsplash.com/photo-1537944434965-cf4679d1a598?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/3949101/pexels-photo-3949101.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 The internet in China is different from the internet everywhere else. This isn't a minor inconvenience — a significant portion of your regular digital life simply doesn't work. Google, YouTube, Instagram, Facebook, WhatsApp, Twitter/X, Snapchat, Reddit, The New York Times, the BBC, and thousands of other services are blocked by China's Great Firewall (防火长城, GFW). Planning for this before you arrive is essential.

@@ -11,7 +11,7 @@ tags:
   - planning
   - beginners
 description: "The perfect 2-week China itinerary for first-time visitors — 3 days Beijing, 2 days Xi'an, 3 days Chengdu (with Panda Base and either Jiuzhaigou or Leshan), 4 days Shanghai. Why this route works, what train connections to book and when, realistic daily budgets, and what you'll want to come back for."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/3855223/pexels-photo-3855223.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Two weeks in China for a first-timer is a genuinely good amount of time if used well. This route — Beijing, Xi'an, Chengdu, Shanghai — covers the most famous sites, gives you three distinct regions, and involves comfortable logistics (largely high-speed trains and short domestic flights) that don't eat up your days. It's called the "Golden Triangle plus Shanghai" by Chinese tourism people, and the reason it's popular is simply that it works.

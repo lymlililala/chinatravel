@@ -12,7 +12,7 @@ tags:
   - hotel-connectivity
   - great-firewall
 description: "Everything foreign travellers need to know about internet connectivity in China in 2026 — hotel WiFi speeds and reliability, understanding the Great Firewall and what it blocks, choosing and setting up a VPN before arrival, mobile data options including eSIMs, working remotely from China, and practical workarounds for staying connected when the internet doesn't work the way you expect."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/5243611/pexels-photo-5243611.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

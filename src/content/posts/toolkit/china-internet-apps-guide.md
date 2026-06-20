@@ -12,7 +12,7 @@ tags:
   - apps
   - practical
 description: "The complete China internet picture — what's blocked (Google, YouTube, Instagram, Facebook, WhatsApp, Twitter/X, most Western news), what works without VPN (Telegram, Spotify in some regions, LinkedIn), the essential downloads before arriving (Amap, DiDi, Baidu Translate, WeChat, Alipay), and the apps that genuinely replace blocked Western ones."
-ogImage: "https://images.unsplash.com/photo-1537944434965-cf4679d1a598?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/7634159/pexels-photo-7634159.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Traveling to China without preparing your phone is like arriving in a country where half the signs are missing. China's internet ecosystem is fundamentally different — not inferior, just separate — and spending 30 minutes on the right downloads before you board your flight makes an enormous practical difference.

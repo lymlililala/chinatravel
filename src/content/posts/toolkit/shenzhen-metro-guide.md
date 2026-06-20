@@ -11,7 +11,7 @@ tags:
   - metro
   - toolkit
 description: "Shenzhen's extensive metro system for visitors — the lines connecting Hong Kong (Luohu and Futian border crossings on Lines 1 and 4), the tech districts (Futian CBD on Lines 1/4/11, Nanshan/tech corridor on Lines 5/9), paying with WeChat Pay or the Shenzhen metro card, and getting to popular spots."
-ogImage: "https://images.unsplash.com/photo-1537944434965-cf4679d1a598?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/37209451/pexels-photo-37209451.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Shenzhen's metro is fast, modern, and genuinely useful — covering the whole city from the Hong Kong border crossings in the south to the new northern tech districts. The city was designed around car culture as it developed in the 1980s–2000s, but the metro has steadily expanded and now reaches all the key areas visitors and business travelers need. If you're crossing from Hong Kong or arriving at Shenzhen Bay, the metro will be your first experience of Shenzhen — and it makes a good first impression.

@@ -23,7 +23,7 @@ tags:
   - practical tips
   - foreigners
 description: "Everything foreign visitors need to know about digital payments in China in 2026. Step-by-step setup guides for Alipay and WeChat Pay using international cards, tips on where cash is still needed, how to handle payment failures, and the latest policy changes making mobile payments more accessible to tourists."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/10149289/pexels-photo-10149289.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 China has become one of the most cashless societies on Earth. In major cities like Shanghai, Shenzhen, and Beijing, you can travel for days without touching a banknote — paying for everything from a ¥3 bottle of water at a convenience store to a ¥500 restaurant dinner with a QR code scan. For foreign visitors arriving for the first time, this can be simultaneously impressive and anxiety-inducing.

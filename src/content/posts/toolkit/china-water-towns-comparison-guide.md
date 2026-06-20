@@ -13,7 +13,7 @@ tags:
   - tongli
   - comparison
 description: "China's Yangtze Delta water towns are among the most romantic and historically significant landscapes in the country — canal-threaded villages of Ming and Qing dynasty architecture, stone bridges and traditional boat culture. But they vary enormously in atmosphere, tourism density and authenticity. This 2026 comparison guide covers Wuzhen, Xitang, Zhouzhuang, Tongli and several lesser-known alternatives to help you choose the right town for your visit."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/33623748/pexels-photo-33623748.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

@@ -11,7 +11,7 @@ tags:
   - toolkit
   - planning
 description: "Complete guide to China's domestic aviation — the best budget airlines (Spring Airlines, Lucky Air, Shenzhen Airlines), how to book Chinese domestic flights as a foreigner (Trip.com vs Ctrip), baggage allowances, airport bus connections, and why some routes beat the high-speed train for time and cost."
-ogImage: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/3235061/pexels-photo-3235061.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 China's domestic aviation network is enormous — over 200 airports, hundreds of routes, and genuine budget carriers that sometimes undercut train prices on longer hauls. If you're planning to cover serious distance (say, Beijing to Chengdu or Shanghai to Yunnan), a domestic flight often makes more sense than a 10-hour train journey. The trick is knowing which airlines to watch, how to book without a Chinese payment method, and what to expect at Chinese domestic terminals.

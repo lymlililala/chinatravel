@@ -14,7 +14,7 @@ tags:
   - trails
   - nature
 description: "The definitive guide to China's best hiking trails in 2026, from the Tiger Leaping Gorge trek in Yunnan and the Huangshan mountain circuit to multi-day adventures in Sichuan, Xinjiang, and Tibet. Includes difficulty ratings, permits, gear requirements, transport access, and practical logistics for each major trail."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/2408632/pexels-photo-2408632.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 China's terrain is jaw-dropping in its variety. Within a single country, you can hike through subtropical rainforest, high-altitude Tibetan plateau grassland, Gobi desert canyons, granite mountain peaks, and densely forested karst country. The trail infrastructure varies enormously — from stone-paved circuits with guesthouses every two hours to genuine wilderness routes where you might not see another soul for days.

@@ -11,7 +11,7 @@ tags:
   - visa
   - budget
 description: "An honest comparison of China and Japan for independent travellers in 2026 — ease of travel, cost, food, landscapes, cultural depth, internet access, payment systems, and which country suits which type of traveller."
-ogImage: "https://images.unsplash.com/photo-1538428494232-9c0d8a3ab403?w=900&q=80"
+ogImage: "https://images.pexels.com/photos/37065405/pexels-photo-37065405.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Every year, thousands of travellers planning their first major East Asia trip face the same choice: China or Japan? They are the two largest, most historically significant, most visually distinctive countries in the region — and they are more different from each other than casual comparison suggests.

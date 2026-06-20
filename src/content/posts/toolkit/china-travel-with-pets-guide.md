@@ -11,7 +11,7 @@ tags:
   - practical
   - planning
 description: "Travelling with pets to China — the import requirements (microchip, rabies vaccination at least 30 days before, specific health certificate formats that vary by nationality and are notoriously complex), quarantine possibilities, pet-friendly accommodation in major cities (surprisingly common), and the reality of flying with a dog or cat in cabin on Chinese domestic flights."
-ogImage: "https://images.unsplash.com/photo-1437846972679-9e6e537be46e?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/37161573/pexels-photo-37161573.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Bringing a pet to China is genuinely possible but involves one of the most bureaucratically complex pet import processes in Asia. The requirements are strict, the documentation is specific, and small errors can result in your pet being quarantined on arrival. If you're planning to move to China long-term and want to bring your dog or cat, this guide covers the full process.

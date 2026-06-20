@@ -13,7 +13,7 @@ tags:
   - food
   - culture
 description: "The perfect 7-day itinerary through Xi'an, Chengdu and Chongqing — Terracotta Warriors, Giant Pandas, Sichuan hotpot, the cliff-city megacity, and the best of China's historic and culinary heartland with day-by-day guide."
-ogImage: "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=900&q=80"
+ogImage: "https://images.pexels.com/photos/6940679/pexels-photo-6940679.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Xi'an, Chengdu, and Chongqing form an inland triangle of remarkable diversity — an ancient imperial capital, a relaxed panda city, and a cliff-built megacity — all connected by high-speed trains and sharing a Sichuan culinary tradition that produces some of the world's most complex spiced food.

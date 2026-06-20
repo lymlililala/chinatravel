@@ -11,7 +11,7 @@ tags:
   - practical
   - china
 description: "Not speaking Mandarin used to make travelling independently in China genuinely difficult. In 2026, translation technology has largely solved this problem. This guide covers the best translation apps, how to use them for menus, signs, and conversations, and what to do when technology isn't enough."
-ogImage: "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/10774603/pexels-photo-10774603.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Not speaking Mandarin used to be a significant barrier to independent travel in China. Menus with no pictures, train station signs in characters only, conversations with taxi drivers who spoke no English — these were real challenges that sent many travellers to guided group tours as the only practical option.

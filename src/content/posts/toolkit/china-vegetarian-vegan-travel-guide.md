@@ -11,7 +11,7 @@ tags:
   - toolkit
   - culture
 description: "A complete guide to vegetarian and vegan travel in China — how to find plant-based food, which regions are most vegetarian-friendly, how to communicate dietary needs in Chinese, the Buddhist vegetarian restaurant scene, and city-by-city recommendations."
-ogImage: "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=900&q=80"
+ogImage: "https://images.pexels.com/photos/2377164/pexels-photo-2377164.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 China is far more vegetarian-friendly than its reputation suggests — and far more complicated than a simple thumbs-up would imply. The honest picture is nuanced: Buddhist vegetarian restaurants serve elaborate, entirely plant-based menus of extraordinary quality. Ordinary restaurants have dozens of vegetable-based dishes. But "vegetable dishes" in non-specialist restaurants often involve pork stock, lard, or tiny pieces of meat that don't register as "meat" in the Chinese culinary framework.

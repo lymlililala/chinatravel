@@ -11,7 +11,7 @@ tags:
   - toolkit
   - practical
 description: "How to pay for buses, metros, and taxis across China as a foreign visitor — adding the Alipay and WeChat transit pass features, city transit cards (the T-Union national card works in 300+ cities), QR code scanning on buses, and what to do if your phone payment doesn't work in a particular city."
-ogImage: "https://images.unsplash.com/photo-1537944434965-cf4679d1a598?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/5835274/pexels-photo-5835274.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Paying for public transport in China has changed dramatically in the past five years. The shift to mobile QR code payment has been so complete that many Chinese cities have reduced or eliminated cash payment options on buses and metros. For foreign visitors, this creates a specific challenge: the payment systems are excellent, but they're built around Chinese bank accounts and phone numbers. Here's the current state of play and the most practical options for international visitors.

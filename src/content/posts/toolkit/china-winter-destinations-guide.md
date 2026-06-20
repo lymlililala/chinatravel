@@ -11,7 +11,7 @@ tags:
   - toolkit
   - planning
 description: "China in winter — where to go and what to avoid. The north in winter: Harbin ice festival (magical), Beijing winter (cold but functional with far fewer tourists), Xi'an winter (cold but all indoor museums work). The south: Yunnan is perfect in winter (Lijiang gets snow, Xishuangbanna is warm), Sanya/Hainan is peak season, Hong Kong is ideal."
-ogImage: "https://images.unsplash.com/photo-1437846972679-9e6e537be46e?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/34902923/pexels-photo-34902923.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Winter is China's most misunderstood travel season. The assumption that cold = bad ignores some of the country's most extraordinary experiences — Harbin's ice city, the snow-covered rooftops of Beijing's hutongs, Yunnan's crisp clear skies, and the peak-season perfection of Sanya's beaches. Meanwhile, the winter crowd levels at major attractions like the Forbidden City are dramatically lower than spring or autumn.

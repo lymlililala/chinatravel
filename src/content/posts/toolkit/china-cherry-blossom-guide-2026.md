@@ -12,7 +12,7 @@ tags:
   - nature
   - photography
 description: "China's cherry blossom season — the Wuhan cherry blossom (Wuhan University campus, earliest and largest display), Beijing's Yuyuantan Park, Nanjing's Xuanwu Lake, Shanghai's Gucun Park, Hangzhou's Su Causeway cherry trees, and how peak bloom differs by latitude (Wuhan blooms 2-3 weeks before Beijing). Exact date ranges for 2026."
-ogImage: "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/37521621/pexels-photo-37521621.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 China's cherry blossom season is less internationally famous than Japan's but covers a vast geographic range — from subtropical Guizhou blooming in late February to Beijing's final displays in April. Across the country, cherry trees planted along universities, parks, and streets create spectacular spring displays.

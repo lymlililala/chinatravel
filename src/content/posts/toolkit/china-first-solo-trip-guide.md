@@ -11,7 +11,7 @@ tags:
   - first-trip
   - checklist
 description: "The definitive beginner's guide for your first solo trip to China in 2026 — a step-by-step checklist covering everything from pre-departure preparation (visa, VPN, Alipay setup) through arrival procedures, getting from the airport, navigating your first day, handling common challenges, and building confidence for independent travel in the world's most fascinating and misunderstood country."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.unsplash.com/photo-1635315621985-fb1564537773?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw1fHxGaXJzdCUyMFNvbG8lMjBUcmlwJTIwQ2hpbmElMjBzb2xvLXRyYXZlbHxlbnwwfDB8fHwxNzgxOTQyNDIyfDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
 ---
 
 ## Table of contents

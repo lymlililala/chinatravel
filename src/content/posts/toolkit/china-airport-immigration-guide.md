@@ -11,7 +11,7 @@ tags:
   - airport
   - first-time
 description: "Arriving in China involves specific immigration procedures that differ from other countries. This 2026 guide walks through the complete process from landing to exiting customs — arrival card requirements, the biometric scanning process, what to declare, luggage limits, prohibited items, and how to navigate the major arrival airports smoothly. Includes current information on visa-free policies."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/16737432/pexels-photo-16737432.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

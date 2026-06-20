@@ -12,7 +12,7 @@ tags:
   - heritage
   - beginners
 description: "China has more UNESCO World Heritage Sites than any other country — the complete 2026 list, the 20 most visitor-accessible sites, how to efficiently combine multiple UNESCO sites in one trip, which are overrated vs genuinely spectacular, and practical visiting information for each major site."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.unsplash.com/photo-1713098965471-d324f294a71d?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHx1bmVzY28lMjB3b3JsZHxlbnwwfDB8fHwxNzgxOTQyNTM5fDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
 ---
 
 As of 2026, China has **57 UNESCO World Heritage Sites** — more than any other country on Earth. That's 57 places recognised by the international community as having "outstanding universal value." They range from the obvious (the Great Wall, the Forbidden City) to the extraordinary-but-little-known (the Fujian Tulou, the Ancient Villages of Southern Anhui).

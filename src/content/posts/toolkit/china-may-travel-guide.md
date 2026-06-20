@@ -11,7 +11,7 @@ tags:
   - timing
   - planning
 description: "China in May — the full picture of what to expect across different regions, the May 1st Labour Day Golden Week (how to avoid or embrace the crowds), which destinations are at their peak in May (Luoyang peony season ends, Yunnan is stunning, Beijing is perfect), and specific destination recommendations for a May trip."
-ogImage: "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=1200&q=85"
+ogImage: "https://images.unsplash.com/photo-1588006175084-89a8451561bf?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxtYXklMjBiZXN0fGVufDB8MHx8fDE3ODE5NDI0NTR8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
 ---
 
 May is one of the best months to visit China for international travellers — with one significant asterisk. The Labour Day Golden Week holiday (May 1–5) sends hundreds of millions of domestic Chinese tourists to popular destinations simultaneously. Get the timing right and May in China is perfect weather with less crowding. Get it wrong and you'll share the Great Wall with 80,000 people.

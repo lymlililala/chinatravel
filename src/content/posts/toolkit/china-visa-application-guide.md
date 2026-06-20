@@ -20,7 +20,7 @@ tags:
   - entry
   - beginners
 description: "The China tourist visa (L visa) application process in 2026 — what documents you need (passport, photo, application form, flight booking, hotel confirmation, bank statement for some nationalities), how to apply (embassy direct, visa agency, or the new online COVA system), processing times and express options, common refusal reasons and how to avoid them."
-ogImage: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/34531488/pexels-photo-34531488.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Despite the expansion of China's visa-free programs in recent years, most international visitors still need to apply for a tourist visa (L visa) before travel. The process is more straightforward than it used to be — the COVA online application system has simplified some steps — but it still requires attention to documentation detail. Getting it wrong means delays or refusal.

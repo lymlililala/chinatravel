@@ -12,7 +12,7 @@ tags:
   - drone
   - restrictions
 description: "The complete guide to photography laws and rules in China for 2026 — what you can photograph, what's prohibited, drone regulations, photographing people, military and government installations, temples and religious sites, border areas, and the practical realities of being a photographer in a surveillance state. Includes specific advice on drone permits, model releases, and what to do if confronted by authorities."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/25000469/pexels-photo-25000469.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

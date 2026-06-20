@@ -11,7 +11,7 @@ tags:
   - day-trip
   - north-china
 description: "Tianjin is 40 minutes from Beijing on the G-series high-speed train — the Italian concession architecture that looks nothing like China, the famous Goubuli baozi (steamed buns), the Tianjin Eye Ferris wheel, the Ancient Culture Street, and why Tianjin is one of China's most interesting half-day trips for architecture lovers."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/23542414/pexels-photo-23542414.png?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Most people staying in Beijing don't think about Tianjin, and that's their loss. It's 40 minutes on the high-speed train, it has a genuinely distinct character from Beijing, and if you're interested in Chinese history and colonial-era architecture, it might be the most interesting half-day trip available from the capital. Tianjin was carved into foreign concessions — British, French, German, Italian, Japanese, American, and more — between 1860 and 1937, and the resulting architectural mix across a medium-sized Chinese city is genuinely unusual.

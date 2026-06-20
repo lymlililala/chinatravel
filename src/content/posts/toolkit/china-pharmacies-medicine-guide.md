@@ -12,7 +12,7 @@ tags:
   - practical
   - safety
 description: "Chinese pharmacies (药店) are abundant, affordable and well-stocked — but navigating them without reading Chinese requires some preparation. This 2026 guide covers finding pharmacies, understanding the Chinese drug naming system, key over-the-counter medicines to know, common health issues travellers encounter in China, prescription medicine regulations and what to bring from home."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/5656753/pexels-photo-5656753.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

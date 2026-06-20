@@ -21,7 +21,7 @@ tags:
   - practical
   - beginners
 description: "Tipping culture in China — the short answer (China doesn't have a tipping culture and tipping can sometimes be refused or cause embarrassment), where it's expected or appreciated (Western-style restaurants, tour guides, massage therapists, hotel porters), and how service culture in China works differently to the West (service is included, not contingent on tips)."
-ogImage: "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/37594384/pexels-photo-37594384.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 China does not have a tipping culture. This is the most useful single sentence for visitors to know, and for most situations, it's the complete answer. But the reality is slightly more nuanced than "never tip," so here's the full picture.

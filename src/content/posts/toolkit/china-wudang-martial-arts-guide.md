@@ -12,7 +12,7 @@ tags:
   - martial-arts
   - nature
 description: "Wudang Mountain (武当山) in Hubei — the Taoist sacred mountain and the legendary birthplace of Tai Chi and the internal martial arts. The ancient temple complex on the cliffs, the Golden Summit at 1612m, the martial arts schools that accept foreign students (programmes from 1 week to 6 months), and how to get there from Wuhan or Xi'an."
-ogImage: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/37138674/pexels-photo-37138674.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Wudang Mountain (武当山) is one of the places in China that genuinely lives up to its legend. The ancient Taoist temple complex, built into sheer cliff faces at over 1600m elevation, has been active for more than 1,400 years. The mountain is said to be where Zhang Sanfeng created Tai Chi after observing a battle between a snake and a crane. Whether the legend is literally true matters less than the fact that the internal martial arts tradition that emerged from Wudang — Tai Chi, Baguazhang, Xingyiquan — represents one of the world's most sophisticated movement systems.

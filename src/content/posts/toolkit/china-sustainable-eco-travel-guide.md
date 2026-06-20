@@ -12,7 +12,7 @@ tags:
   - green-travel
   - environment
 description: "Travelling sustainably in China in 2026 is both more important and more practical than ever — from certified green hotels to high-speed rail's carbon advantage over flying, from national park conservation fees to community tourism programs in minority villages. This guide covers how to reduce your environmental footprint while exploring China, including practical tips on transport choices, accommodation certification, wildlife ethics and supporting local economies."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/18467639/pexels-photo-18467639.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

@@ -11,7 +11,7 @@ tags:
   - expat
   - long-term
 description: "Working in China — the work visa (Z visa) process for various countries, teaching English (TEFL) positions (which cities pay best, what contracts look like), working in tech in Beijing and Shanghai (the startup ecosystem), living costs as an expat (comfortable living in Beijing on RMB 15,000/month is very feasible), and the visa realities for 2026."
-ogImage: "https://images.unsplash.com/photo-1537944434965-cf4679d1a598?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/9607267/pexels-photo-9607267.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 China is one of the world's most significant destinations for expat workers — the combination of competitive salaries in certain sectors, low living costs relative to what you earn, and the sheer intensity of living in a major Chinese city makes it attractive for career movers and English teachers alike.

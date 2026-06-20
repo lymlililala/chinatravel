@@ -21,7 +21,7 @@ tags:
   - toolkit
   - beginners
 description: "Everything about China's 144-hour (6-day) transit visa exemption — which cities it applies to, exactly how to qualify, what you can and can't do, how to set up your itinerary to maximize 6 days in Shanghai, Beijing, or other gateway cities, and the real-world experience of using it."
-ogImage: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1200&q=85"
+ogImage: "https://images.unsplash.com/photo-1713540161756-c0db69f472da?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxDaGluYSUyMHZpc2F8ZW58MHwwfHx8MTc4MTk0MjM5MXww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
 ---
 
 China's 144-hour transit visa exemption is one of international travel's best practical secrets. It allows citizens of dozens of countries to enter China without a visa for up to **6 days (144 hours)** if they're transiting between two international destinations and meet certain requirements. For many visitors, this is enough time for a genuinely satisfying visit to Shanghai, Beijing, or several other cities — with zero visa bureaucracy.

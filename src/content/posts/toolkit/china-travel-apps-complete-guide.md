@@ -12,7 +12,7 @@ tags:
   - transport
   - food-apps
 description: "The complete guide to every app you need for travelling in China in 2026 — from payment (Alipay, WeChat Pay) and navigation (Baidu Maps, Apple Maps) to translation (Google Translate, Baidu Translate), transport booking (12306, DiDi, Trip.com), food ordering (Meituan, Dianping), and essential utilities. Includes download links, setup instructions for foreign users, and honest assessments of which apps actually work well for non-Chinese speakers."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.unsplash.com/photo-1738640679960-58d445857945?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxFc3NlbnRpYWwlMjBDaGluYSUyMEFwcHMlMjBjaGluYS1hcHBzfGVufDB8MHx8fDE3ODE5NDI1MDd8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
 ---
 
 ## Table of contents

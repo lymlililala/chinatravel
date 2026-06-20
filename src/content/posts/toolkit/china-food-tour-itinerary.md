@@ -11,7 +11,7 @@ tags:
   - toolkit
   - culinary
 description: "A 14-day China culinary tour — the optimal route for experiencing China's four great regional cuisines: starting in Beijing (Peking duck, jianbing, lamb skewers), moving to Xi'an (biang biang noodles, lamb soup, rou jia mo), Chengdu (hotpot, mapo tofu, dan dan noodles), finishing in Guangzhou (dim sum, roast goose, clay pot rice)."
-ogImage: "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/15915265/pexels-photo-15915265.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 China has eight recognised regional cuisines, and they're as different from each other as Italian food is from Thai. A Cantonese dim sum brunch and a Sichuan hotpot are not versions of the same thing — they come from completely different culinary philosophies, different flavour profiles, different techniques. Eating well across China is a genuine adventure.

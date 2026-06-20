@@ -12,7 +12,7 @@ tags:
   - seasonal
   - food
 description: "Dragon Boat Festival (端午节/Duanwu) in China 2026 — when it falls, the best places to watch dragon boat races (Hangzhou, Hong Kong, Miluo in Hunan where Qu Yuan drowned), the zongzi (sticky rice dumpling) regional variations, the five-colour string tradition, and practical tips for visiting during the holiday weekend."
-ogImage: "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/26382130/pexels-photo-26382130.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 The Dragon Boat Festival (端午节, Duānwǔ Jié) is the only Chinese traditional festival where the main activity is athletic. On rivers across China, long narrow dragon boats with 20–40 paddlers race at full sprint to drumbeat, the boats' painted dragon heads cutting through the water. It's visually spectacular, intensely energetic, and deeply rooted in one of China's most enduring stories.

@@ -12,7 +12,7 @@ tags:
   - airport-storage
   - china-practical
 description: "Need to store your luggage in China? Whether you have a long layover, want to explore luggage-free before a night train, or just need to ditch your bags for a few hours, this 2026 guide covers every storage option — from train station left luggage offices and airport facilities to smart lockers, hotel storage, and new app-based services across Chinese cities."
-ogImage: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&q=85"
+ogImage: "https://images.unsplash.com/photo-1747870518444-6a6d5df0dece?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw3fHxMdWdnYWdlJTIwU3RvcmFnZSUyMENoaW5hJTIwbHVnZ2FnZS1zdG9yYWdlfGVufDB8MHx8fDE3ODE5NDI0NDd8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
 ---
 
 ## Table of contents

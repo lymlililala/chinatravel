@@ -12,7 +12,7 @@ tags:
   - calendar
   - planning
 description: "China's public holiday system produces extraordinary travel surges — the Spring Festival and National Day Golden Week see over a billion domestic trips. This 2026 holiday calendar guide covers exact dates, how the make-up working day system works, which destinations to avoid and which remain manageable, accommodation booking lead times and practical strategies for visiting during or around China's major holidays."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/34778395/pexels-photo-34778395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

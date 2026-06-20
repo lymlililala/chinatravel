@@ -12,7 +12,7 @@ tags:
   - maple
   - ginkgo
 description: "Chase China's spectacular autumn colours from the birch forests of Heilongjiang to the maple mountains of Sichuan with this comprehensive 2026 foliage guide. Covers the 15 best destinations for autumn photography, peak colour timing for each region, the science behind Chinese autumn colours, accommodation booking strategies for peak season, and practical tips for capturing the perfect fall photograph."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/19134817/pexels-photo-19134817.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

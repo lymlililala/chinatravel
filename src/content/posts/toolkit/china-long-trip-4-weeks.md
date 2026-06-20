@@ -11,7 +11,7 @@ tags:
   - planning
   - long-trip
 description: "A 4-week China itinerary covering the country's highlights — Week 1 in Beijing (Forbidden City, Great Wall, Xi'an), Week 2 in Sichuan (Chengdu, Jiuzhaigou, Leshan), Week 3 in Yunnan (Lijiang, Dali, Xishuangbanna), Week 4 in Shanghai and Suzhou. Train connections, what to cut if time is short, and the logical flow that avoids backtracking."
-ogImage: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/9606741/pexels-photo-9606741.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Four weeks gives you enough time to see China's major highlights with room to breathe — to linger somewhere that grabs you and not feel perpetually rushed. This itinerary covers the north-to-south diagonal that takes in the imperial history, the panda heartland, Yunnan's extraordinary diversity, and the cosmopolitan east coast, with train connections that make geographic sense and don't require excessive backtracking.

@@ -12,7 +12,7 @@ tags:
   - yunnan
   - xinjiang
 description: "Can foreigners drive in China? The honest answer, plus the most spectacular road trip routes, how to get a temporary Chinese driving permit, car rental options for foreigners, and route-by-route advice for self-drive travel in 2026."
-ogImage: "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=900&q=80"
+ogImage: "https://images.pexels.com/photos/543605/pexels-photo-543605.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Driving in China is one of the most rewarding — and most misunderstood — ways to travel the country. The roads are generally excellent. The scenery on the great highway routes (G318, the Yunnan small-loop, the Xinjiang northern loop) is extraordinary. The freedom of stopping where you want, when you want, in a country where much of the most beautiful scenery lies between population centres, is genuinely different from train-and-bus travel.

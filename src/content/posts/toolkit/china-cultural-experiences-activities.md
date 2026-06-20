@@ -14,7 +14,7 @@ tags:
   - traditional arts
   - experiences
 description: "Discover the best cultural experiences in China for 2026. From learning kung fu at Shaolin Temple and practicing calligraphy with a master to joining a traditional tea ceremony and crafting ceramics in Jingdezhen, this guide covers hands-on activities, costs, booking tips, and where to find authentic cultural immersion across the country."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/34735512/pexels-photo-34735512.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 China isn't just a place you visit — it's a place you experience. After spending considerable time traveling through the country, I've come to believe that the most memorable moments aren't standing in front of famous landmarks, but sitting cross-legged in a wooden teahouse learning how to pour pu-erh tea, or watching your own calligraphy strokes dry on rice paper while a patient teacher guides your brush. These hands-on cultural activities transform a holiday into something genuinely meaningful.

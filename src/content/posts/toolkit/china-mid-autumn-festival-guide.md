@@ -11,7 +11,7 @@ tags:
   - culture
   - seasonal
 description: "China's Mid-Autumn Festival (中秋节) — when it falls in 2026, the mooncake tradition and the best cities to buy and taste them, lantern festivals across China (Zigong, Chengdu, Hong Kong are spectacular), the cultural significance, where not to be (the Great Wall gets insanely crowded), and which cities feel the festival most authentically."
-ogImage: "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/31529279/pexels-photo-31529279.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 The Mid-Autumn Festival (中秋节, Zhōngqiū Jié) is one of China's three most important traditional festivals, alongside Chinese New Year and Dragon Boat Festival. It falls on the 15th day of the 8th lunar month — the night of the year's fullest and brightest moon — and it's a holiday centred on being together, eating mooncakes, and looking up at the sky.

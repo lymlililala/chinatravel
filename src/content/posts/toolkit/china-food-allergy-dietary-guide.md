@@ -13,7 +13,7 @@ tags:
   - practical
   - health
 description: "Managing food allergies and dietary restrictions in China requires specific preparation — the cuisine uses many hidden allergens, language barriers are real, and cross-contamination is common. This 2026 guide covers how to communicate food allergies in Chinese, specific risks in Chinese cooking, halal dining, vegetarian options, resources for allergy cards and which cuisines are safest for each restriction type."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/28699434/pexels-photo-28699434.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

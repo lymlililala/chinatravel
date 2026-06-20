@@ -14,7 +14,7 @@ tags:
   - Beijing
   - Shanghai
 description: "Explore China's thriving contemporary art scene in 2026. From Beijing's 798 Art District and Shanghai's West Bund to Chengdu's art parks and Shenzhen's OCT Loft, this guide covers the best galleries, museums, and art spaces for visitors, including opening hours, entry fees, and practical visiting tips."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/12102947/pexels-photo-12102947.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 When most people think about art in China, they picture ancient ceramics in the Palace Museum or ink paintings behind glass in climate-controlled galleries. And while those traditions are extraordinary, China also has one of the most dynamic contemporary art scenes in the world — bold, experimental, sometimes confrontational, and increasingly internationally recognized.

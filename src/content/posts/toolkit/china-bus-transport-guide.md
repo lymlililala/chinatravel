@@ -11,7 +11,7 @@ tags:
   - toolkit
   - budget
 description: "China's long-distance bus network for visitors — when buses make more sense than trains (rural areas, mountainous destinations not served by rail), how to buy tickets at bus stations, the difference between sleeper buses (卧铺) and regular coaches, the quality range, and specific routes where buses are the only option (to Huangshan, many Guizhou villages, Tibetan areas)."
-ogImage: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/28571678/pexels-photo-28571678.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 China's high-speed rail network is extraordinary, but it doesn't go everywhere. Huge sections of rural China — mountains, karst limestone areas, ethnic minority villages, many nature reserves — are only accessible by road. In these areas, long-distance buses fill the gap. They're the mode of transport that gets you from the last train station to the place you actually want to be. Knowing how to use them unlocks parts of China that most short-stay visitors never reach.

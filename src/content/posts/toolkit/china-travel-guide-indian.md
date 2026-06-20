@@ -12,7 +12,7 @@ tags:
   - vegetarian
   - visa
 description: "The essential China travel guide for Indian citizens in 2026, covering visa application procedures specific to Indian passport holders, finding vegetarian and Jain-friendly food in China, flight connections from Indian cities, cultural similarities and differences between Indian and Chinese civilisation, and practical tips for Indian travellers navigating a country that shares Asia but operates very differently from India."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/12263127/pexels-photo-12263127.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

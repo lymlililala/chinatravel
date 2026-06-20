@@ -12,7 +12,7 @@ tags:
   - urban
   - practical
 description: "Which Chinese cities are most welcoming for LGBTQ+ visitors — Shanghai's underground gay scene (Jing'an district), Chengdu's relaxed queer culture, the reality in Beijing and Guangzhou, how public displays of affection are perceived, gay bars and events that exist, and the 'don't ask, don't tell' dynamic that shapes most LGBTQ+ visitors' experiences."
-ogImage: "https://images.unsplash.com/photo-1537944434965-cf4679d1a598?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/8266384/pexels-photo-8266384.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 LGBTQ+ travel to China is possible and for many visitors is completely fine. But it requires understanding the context — which is genuinely nuanced and has shifted considerably over the past decade in both directions. China decriminalised homosexuality in 1997 and removed it from its list of mental disorders in 2001. There are no laws criminalising same-sex relationships between adults. But there's also no legal protection for LGBTQ+ people, no recognition of same-sex partnerships, and a political environment that has become less permissive of public LGBTQ+ visibility since around 2015.

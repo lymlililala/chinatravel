@@ -12,7 +12,7 @@ tags:
   - nature
   - culinary
 description: "The complete guide to tea tourism in China — the six major tea regions (Wuyishan for rock oolong, Longjing/Hangzhou for green tea, Yunnan for Pu'er, Anxi for Tieguanyin, Anhui for Keemun and Yellow Mountain Mao Feng, Fujian for white tea), tea farm visits, tea ceremony experiences, and how to buy authentic tea."
-ogImage: "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/5975983/pexels-photo-5975983.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 China produces around 3 million tonnes of tea per year and is the origin of every tea tradition in the world. Japanese matcha, British black tea, Taiwanese oolong — all trace back to Chinese tea cultivation. But drinking tea in a tea shop outside China and visiting the actual mountain where the tea grows are entirely different experiences.

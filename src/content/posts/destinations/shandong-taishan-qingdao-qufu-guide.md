@@ -12,7 +12,7 @@ tags:
   - east-china
   - history
 description: "Shandong Province clusters three world-class experiences within easy reach — China's most sacred mountain, the birthplace of Confucius, and the German colonial beer city of Qingdao on the Yellow Sea."
-ogImage: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/19334674/pexels-photo-19334674.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Shandong (山东) projects into the Yellow Sea like a fist — a large peninsula historically significant as the birthplace of Confucius and the location of Mount Tai (泰山), the most sacred mountain in Chinese culture. The province combines ancient philosophical heritage with German colonial coastal charm and some of China's best seafood.

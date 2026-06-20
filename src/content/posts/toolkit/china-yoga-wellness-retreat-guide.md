@@ -14,7 +14,7 @@ tags:
   - health
   - nature
 description: "Discover the best yoga and wellness retreats in China for 2026. From mountain meditation centers in Wudang and Yangshuo to Zen Buddhist temple stays, Tibetan healing practices, and modern urban wellness spas in Shanghai and Beijing, this guide covers locations, costs, what to expect, and how to book your ideal wellness experience."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/13849204/pexels-photo-13849204.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 China might not be the first country that comes to mind when you think of yoga retreats, but this is changing rapidly. The country has a rich indigenous wellness tradition — centuries of Taoist mountain practice, Buddhist meditation, Qi Gong, and Traditional Chinese Medicine — alongside a growing modern wellness industry that has embraced yoga, mindfulness, and international retreat formats enthusiastically.

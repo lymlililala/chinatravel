@@ -12,7 +12,7 @@ tags:
   - harbin
   - north-china
 description: "The complete guide to the Harbin International Ice and Snow Festival — exact dates for the 2026-27 season, tickets and entrance fees to Ice and Snow World and Sun Island, the best night for illuminations, how cold it actually gets (and how to dress), the ice sculpture competition, and practical logistics for visiting China's most extreme winter event."
-ogImage: "https://images.unsplash.com/photo-1437846972679-9e6e537be46e?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/35352648/pexels-photo-35352648.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Harbin's International Ice and Snow Festival is one of the most extraordinary spectacles in Asia. A city of vast ice buildings lit from within by coloured lights, at temperatures that regularly reach -25°C to -30°C, the festival turns Harbin into something that doesn't quite exist anywhere else in the world. It's simultaneously a children's playground, a fine arts venue, a sporting event venue, and a test of your winter gear.

@@ -12,7 +12,7 @@ tags:
   - etiquette
   - beginners
 description: "How to visit China's temples, mosques, and sacred sites respectfully — the dress code at Buddhist and Taoist temples, which side of a threshold to step over, when photography is and isn't allowed, the difference between Buddhist, Taoist, Confucian, and folk religion temples (most visitors can't tell them apart), and what the red envelopes and offerings actually mean."
-ogImage: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/37626184/pexels-photo-37626184.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Visiting temples in China is one of the highlights of any trip — both for the architecture and for the genuine, living religious practice that happens in many of them. Understanding a few basics about what you're looking at and how to behave makes the experience richer and ensures you're a respectful visitor rather than an oblivious one stumbling through someone's place of worship.

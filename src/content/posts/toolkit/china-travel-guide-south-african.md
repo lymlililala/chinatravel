@@ -11,7 +11,7 @@ tags:
   - african-travellers
   - beginners
 description: "China travel guide for South African passport holders — visa requirements (South Africans need a visa, applied at the Chinese Embassy in Pretoria or Cape Town), direct flights from Johannesburg, payment setup, China's perception of Africa and vice versa, and practical tips for South African visitors."
-ogImage: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/8985610/pexels-photo-8985610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 South African travellers to China face a different first step from most of their European and Asian counterparts: as of 2026, South African passport holders are **not** included in China's visa-free tourism program. You'll need to apply for a visa before you go. This is not a difficult or unusual process — it just requires some advance planning.

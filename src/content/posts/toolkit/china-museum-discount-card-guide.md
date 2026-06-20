@@ -12,7 +12,7 @@ tags:
   - money-saving
   - attractions
 description: "Save money on China's attractions with this comprehensive 2026 guide to museum discount cards, free entry days, student and senior discounts, city tourist passes, online booking savings, and strategic timing tips. Learn which attractions offer free admission on specific days, how to get foreign student discounts, and the booking hacks that can cut your attraction costs by 30-50%."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/37221718/pexels-photo-37221718.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

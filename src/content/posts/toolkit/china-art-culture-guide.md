@@ -11,7 +11,7 @@ tags:
   - culture
   - urban
 description: "China's contemporary art scene — Beijing's 798 Art District (a genuine world-class art district), Shanghai's M50 and the new Power Station of Art, Chengdu's Chengdu Contemporary Art Center, the West Bund cultural corridor in Shanghai, and the Chinese artists whose work is shaping global contemporary art. How to access galleries and what admission costs."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/29191587/pexels-photo-29191587.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 The popular image of China as a cultural monolith is completely at odds with the reality. China has one of the world's most dynamic contemporary art scenes, driven by a generation of artists grappling with urbanisation, tradition, censorship, and global connectivity in ways that produce genuinely original work. The gallery districts in Beijing and Shanghai are legitimate world-class destinations for anyone who cares about contemporary art.

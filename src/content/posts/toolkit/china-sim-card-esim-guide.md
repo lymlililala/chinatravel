@@ -11,7 +11,7 @@ tags:
   - practical
   - planning
 description: "Mobile data in China for foreign visitors — buying a local SIM on arrival (China Unicom 'Tourist SIM' at major airports, ¥100-200 for 30 days), using an international roaming SIM (expensive but setup-free), Hong Kong SIM cards that work in mainland China, eSIM options for 2026, and the relationship between your SIM and Alipay/WeChat (they need separate verification)."
-ogImage: "https://images.unsplash.com/photo-1537944434965-cf4679d1a598?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/20781838/pexels-photo-20781838.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 faq:
   - question: "What is the best travel SIM card for China?"
     answer: "For most visitors the China Unicom Tourist SIM bought at the airport is the easiest option — around ¥99–200 for 20–100GB over 30 days, activated on the spot with your passport. If you would rather arrive already connected, a travel eSIM from a provider like Airalo or Holafly works the moment you land and routes around the Great Firewall, which a local SIM does not."

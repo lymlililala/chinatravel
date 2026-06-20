@@ -12,7 +12,7 @@ tags:
   - nature
   - harbin
 description: "Where to travel in China in winter — Harbin Ice Festival, Yunnan's mild climate, Southern China's subtropical warmth, plus how to handle Chinese New Year crowds and which destinations are actually better in cold weather."
-ogImage: "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=900&q=80"
+ogImage: "https://images.pexels.com/photos/635255/pexels-photo-635255.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Winter is the least-visited season for foreign tourists in China — which makes it, in certain important ways, the best time to visit many destinations. The crowds thin dramatically at sites like Pingyao, Guilin, and the Forbidden City. Hotels drop 20–40% in price (except during Chinese New Year). The air quality in northern China is mixed (coal heating in winter creates smog in some cities) but some destinations are extraordinarily beautiful in the cold.

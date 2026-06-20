@@ -11,7 +11,7 @@ tags:
   - day-trip
   - jiangsu
 description: "Nanjing as a day trip from Shanghai — 1 hour on the HSR, the Sun Yat-sen Mausoleum and Ming Xiaoling Tomb on Purple Mountain, the city wall (longest ancient city wall in the world), the Nanjing Massacre Memorial Hall, and the Fuzi Temple night market. Which sites to prioritise if you only have 8 hours."
-ogImage: "https://images.unsplash.com/photo-1513407030348-c983a97b98d8?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/18709779/pexels-photo-18709779.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Nanjing is one of China's great historical cities — former capital of multiple dynasties, site of a terrible 20th-century atrocity, and home to architectural monuments that put it in a different category from most day-trip destinations. The G trains from Shanghai Hongqiao to Nanjing take **around 1 hour** and cost **¥84–¥137** second class. That's a low-friction access to one of China's most historically significant cities, and it should be on every China itinerary that includes a Shanghai base.

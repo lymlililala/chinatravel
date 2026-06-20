@@ -12,7 +12,7 @@ tags:
   - tea
   - coast
 description: "Rizhao in southeastern Shandong is one of China's most pleasant small coastal cities — famous for its gold-sand beaches, surprisingly good green tea plantations, and a relaxed atmosphere that sets it apart from the more commercialized Qingdao. This guide covers the beaches, the tea culture, fresh seafood, and why Rizhao is Shandong's most underrated seaside destination."
-ogImage: "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/35218485/pexels-photo-35218485.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Rizhao (日照, literally "Sunshine") occupies a stretch of the southeastern Shandong coast where the Yellow Sea meets long, gently curving beaches of unusually fine golden sand. The name is apt — Rizhao claims to be the first place on China's coast to receive the sunrise each morning, and the city has built a modest tourism brand around this distinction.

@@ -11,7 +11,7 @@ tags:
   - practical-guide
   - culture
 description: "Fast China travel misses China. The country's rhythms — morning markets, afternoon teahouses, the gradual trust that opens neighborhoods over weeks — only reveal themselves to travelers who slow down. This 2026 guide covers how to arrange long-stay accommodation, integrate into neighborhood life, learn enough Chinese to break through the tourist bubble, and find the hidden rhythms that most visitors never encounter."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/36194597/pexels-photo-36194597.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents

@@ -13,7 +13,7 @@ tags:
   - transport
   - safety
 description: "Answers to the 60 most common questions first-time visitors ask about travelling China in 2026 — from visa rules and mobile payments to internet access, safety, and what to expect on arrival."
-ogImage: "https://images.unsplash.com/photo-1538428494232-9c0d8a3ab403?w=900&q=80"
+ogImage: "https://images.pexels.com/photos/2789781/pexels-photo-2789781.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Planning a first trip to China raises a flood of questions that other travel destinations simply don't prepare you for. The internet firewall. Mobile payments that seem to work for everyone except tourists. Trains that require passport registration. A language barrier that can feel total when you are staring at a menu with no pictures.

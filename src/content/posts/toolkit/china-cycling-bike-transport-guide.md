@@ -11,7 +11,7 @@ tags:
   - outdoor
   - toolkit
 description: "Cycling as transport and recreation in China — the Hellobike, Meituan Bike, and DiDi Bike sharing apps (how to register with a foreign phone number), the best cycling cities (Chengdu's bike culture, Shanghai's French Concession cycling, Yangshuo's Yulong River valley), and multi-day cycling routes for adventurous visitors."
-ogImage: "https://images.unsplash.com/photo-1537944434965-cf4679d1a598?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/20776468/pexels-photo-20776468.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Cycling in China operates on two different scales that don't overlap much. On one end: the ubiquitous dockless bike-share systems covering every city, enabling quick point-to-point rides for ¥1–¥2. On the other: multi-day cycling tours through some of the most dramatic landscapes on the planet — the Tibetan plateau, the Yunnan-Guizhou border, the karst valleys around Yangshuo. Both are genuinely accessible to foreign visitors, though the setup requires a bit of preparation.

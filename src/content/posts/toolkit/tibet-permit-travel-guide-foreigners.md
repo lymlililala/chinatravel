@@ -12,7 +12,7 @@ tags:
   - beginners
   - transport
 description: "The complete guide to visiting Tibet as a foreign traveller in 2026 — what permits are required, how to apply, which tour operators are reliable, what is open to foreigners, and how to plan the Lhasa, Namtso, and Everest Base Camp route."
-ogImage: "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=900&q=80"
+ogImage: "https://images.pexels.com/photos/8061949/pexels-photo-8061949.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Tibet is the most restricted destination in China for foreign visitors — and for many travellers, the most compelling. The Potala Palace rising above Lhasa. The turquoise expanse of Namtso Lake at 4,718 metres. The road to Everest Base Camp at dawn, the summit glowing gold above the Tibetan plateau.
