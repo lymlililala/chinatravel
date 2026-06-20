@@ -10,11 +10,14 @@ tags:
   - nature
   - day-trip
 description: "Qiandao Lake (Thousand Island Lake) in Zhejiang — the crystal clear reservoir with 1,078 forested islands, how to do it as a day trip from Hangzhou or Shanghai, the sunken underwater city mystery, and why this underrated lake deserves more attention."
+ogImage: "https://images.pexels.com/photos/17754422/pexels-photo-17754422.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Qiandao Lake (千岛湖, Thousand Island Lake) is an artificial reservoir created by the Xin'an Jiang dam in 1959 — when the valley was flooded, 29 towns and 1,000+ villages were submerged, creating a 573 sq km lake with 1,078 forested islands rising from the clear water.
 
 The lake has extraordinary water clarity — Qiandao Lake water is used as bottled mineral water throughout China and is genuinely drinkable directly from the lake surface. The combination of pine-forested islands, clear aquamarine water, and the atmospheric morning mist creates one of Zhejiang's most photographed landscapes.
+
+![Thousand Island Lake (Qiandao Lake) & Zhejiang Trip — Getting There](https://images.pexels.com/photos/34934876/pexels-photo-34934876.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting There
 
@@ -23,6 +26,8 @@ The lake has extraordinary water clarity — Qiandao Lake water is used as bottl
 **From Shanghai**: 2.5–3 hours by train/bus combination.
 
 **Day trip feasibility**: As a day trip from Hangzhou, comfortable. From Shanghai, very rushed — better as an overnight.
+
+![Thousand Island Lake (Qiandao Lake) & Zhejiang Trip — The Lake Experience](https://images.pexels.com/photos/5350604/pexels-photo-5350604.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Lake Experience
 
@@ -33,6 +38,8 @@ The standard lake visit is by boat tour — ferries serve different circuits con
 **The water**: Ask any local about the water quality and they'll tell you it's the cleanest lake in eastern China. There's a distinct turquoise depth visible from the boat that most Chinese reservoirs lack.
 
 **Photography conditions**: The lake is most beautiful in early morning when mist fills the valleys between islands and the still water reflects the pine forests. October–November for autumn colour on the island slopes.
+
+![Thousand Island Lake (Qiandao Lake) & Zhejiang Trip — The Underwater Mystery: Shi Cheng](https://images.pexels.com/photos/2408692/pexels-photo-2408692.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Underwater Mystery: Shi Cheng
 

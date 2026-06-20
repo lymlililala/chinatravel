@@ -12,7 +12,7 @@ tags:
   - silk-road
   - desert
 description: "The journey from Urumqi to Turpan covers the transition from Xinjiang's modern hub city to one of the Silk Road's great ancient oases. Turpan's Flaming Mountains, the ruined cities of Jiaohe and Gaochang, Grape Valley's tunnel of vines, and the ancient Bezeklik Cave murals make this one of the most historically layered destinations in Central Asia. This 2026 complete guide covers both cities and the route between them."
-ogImage: "https://images.pexels.com/photos/30123684/pexels-photo-30123684.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.pexels.com/photos/26622972/pexels-photo-26622972.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -22,6 +22,8 @@ The road from Urumqi south to Turpan crosses a landscape that seems to compress 
 Turpan (吐鲁番) is a classic Silk Road oasis city: a pocket of extraordinary fertility in the surrounding desert, sustained by ancient karez underground irrigation channels dug over 2,000 years ago. Grapes grow here in quantities that supply much of China's raisin and wine production. The Uyghur community cultivated this fertility, built cities, and painted caves — and the ruins of those cities and the remnants of those paintings are among the most evocative archaeological sites in the country.
 
 ## Urumqi: The Gateway (1 Day)
+
+![Urumqi Turpan Xinjiang — Urumqi: The Gateway (1 Day)](https://images.pexels.com/photos/27987227/pexels-photo-27987227.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### Getting to Urumqi
 
@@ -50,6 +52,8 @@ High-speed rail also connects Urumqi to Lanzhou (via Lanxin HSR) and the nationa
 **Note**: Turpan North Station is 50km from Turpan city. Take the complimentary shuttle bus or a taxi (¥50–80) to reach the city or individual sights.
 
 **By bus**: Direct buses from Urumqi Bus Station (the south bus terminal) to Turpan city take 2–3 hours, ¥40–50. Slower but drops you in the city center.
+
+![Urumqi Turpan Xinjiang — Turpan: The Ancient Oasis (2–3 Days)](https://images.unsplash.com/photo-1620789573863-57c96e248a91?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw0fHxUdXJwYW58ZW58MHwwfHx8MTc4MTkzMDEyMnww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## Turpan: The Ancient Oasis (2–3 Days)
 
@@ -120,6 +124,8 @@ An educational attraction where you can walk through an original karez channel u
 - **Polo (hand pilaf)**: The classic Uyghur rice dish, with Turpan's lamb adding specific regional character
 
 **Cheap and excellent**: The evening food stalls near the central bazaar area serve complete Uyghur meals for ¥25–40/person.
+
+![Urumqi Turpan Xinjiang — Where to Stay in Turpan](https://images.pexels.com/photos/36943572/pexels-photo-36943572.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Where to Stay in Turpan
 

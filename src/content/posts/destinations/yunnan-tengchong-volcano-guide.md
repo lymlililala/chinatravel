@@ -24,6 +24,8 @@ What makes Tengchong special isn't just the geology, though. It's the layering: 
 
 ## The Volcanic Landscape
 
+![Tengchong Yunnan — The Volcanic Landscape](https://images.pexels.com/photos/8332691/pexels-photo-8332691.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 **Huoshan Volcanic Cluster (火山群):** The main volcanic area encompasses a cluster of craters that were last significantly active several hundred years ago. The most visited cone, Dayingshan, rises about 2,614 metres and can be climbed on a paved trail — it takes about 45 minutes to reach the rim. The views over the crater and across the forested volcanic plains are excellent on clear days.
 
 The area around the volcanic cluster has a distinctly eerie character: black basalt fields, scrubby vegetation that has colonised ancient lava flows, and the constant reminder that this is a geologically active region. Minor seismic activity is recorded here regularly.
@@ -56,6 +58,8 @@ Walking through Heshun's main historic area, you'll find: the Ai Wuwei former re
 
 **Evening in Heshun:** The commercial street becomes more atmospheric after dark as the souvenir and tea shops close and the restaurants fill with local families. Several small restaurants and cafes line the waterway. Expect to pay ¥50–120 per person for dinner.
 
+![Tengchong Yunnan — The Jade Trade](https://images.pexels.com/photos/34675316/pexels-photo-34675316.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The Jade Trade
 
 Tengchong is one of China's primary jade trading centres. Myanmar, just across the border, contains the world's most important jadeite deposits, and the trading route between Tengchong and the Mandalay area is thousands of years old. Today, the jade market in central Tengchong (and specifically the Tengchong Jade Wholesale Market on Juncheng Road) is the place to buy jadeite if you know what you're doing — or to admire the extraordinary range of the material if you don't.
@@ -82,6 +86,8 @@ Tengchong is about 50km from the Myanmar border, and the borderland character pe
 Cross-border travel to Myanmar is possible for Chinese citizens and some foreign nationalities via the Ruili border crossing (a few hours south of Tengchong) or the Wanding crossing. However, the Myanmar political situation in 2025–2026 has made border crossings unpredictable — check current conditions and your government's travel advisories before planning any cross-border movement.
 
 The borderland culture of Tengchong county itself — the De'ang people, the Dai villages south of town, the Bai settlements — is worth exploring on its own terms without crossing the border.
+
+![Tengchong Yunnan — Second World War History](https://images.pexels.com/photos/37172050/pexels-photo-37172050.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Second World War History
 

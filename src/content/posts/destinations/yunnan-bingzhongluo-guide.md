@@ -12,12 +12,14 @@ tags:
   - remote-village
   - wilderness
 description: "Journey to Bingzhongluo, the remote and breathtaking settlement at the northern end of Yunnan's Nujiang Grand Canyon, where the Nu River carves through mountains, Tibetan and Nu minority villages cling to cliffs, and ancient tea horse trails cross high passes into Tibet. This 2026 guide covers the stunning gorge scenery, the hiking trails to Tibetan villages, the first bend of the Nu River, cross-border perspectives, local Nu and Lisu cuisine, and hard-won practical advice for reaching one of China's last truly remote destinations."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/6513729/pexels-photo-6513729.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
 
 ## Bingzhongluo — Where the Road Ends and the Wild Begins
+
+![Bingzhongluo Yunnan — Bingzhongluo — Where the Road Ends and the Wild Begins](https://images.pexels.com/photos/30274489/pexels-photo-30274489.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Bingzhongluo (丙中洛) sits at the very end of the road — literally. This small settlement in Gongshan County, at the northern tip of Yunnan's Nujiang Prefecture, is where the paved road along the Nu River gives way to footpaths and horse tracks leading over the mountains into Tibet and Myanmar. It's one of the most remote communities in China that you can still reach by public transport, and the scenery surrounding it is of a scale and drama that makes you forget, temporarily, that modern China exists at all.
 
@@ -38,6 +40,8 @@ Key stops along the way:
 **Stone Moon (石月亮):** About 80 km south of Bingzhongluo, a natural arch in the cliff face high above the river, through which the sky is visible. It's a sacred site for the Lisu people. Visible from the road but requires a steep hike to reach.
 
 **Feilai Temple (飞来寺):** A small temple perched on a cliff face across the river, accessible by a footbridge. The temple seems to have been placed there by divine intervention — hence the name, "Flying Temple."
+
+![Bingzhongluo Yunnan — Bingzhongluo Village and Surroundings](https://images.pexels.com/photos/31374669/pexels-photo-31374669.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Bingzhongluo Village and Surroundings
 

@@ -10,12 +10,14 @@ tags:
   - myanmar border china
   - yunnan frontier towns
 description: "Discover Wanding, Yunnan's southernmost frontier town pressed against the Myanmar border. This guide covers the historic Wanding Bridge, bustling jade and amber markets, Dai and Jingpo ethnic villages, tropical rainforest hikes, and the unique border-crossing experience that makes this one of China's most unusual travel destinations."
-ogImage: "https://images.unsplash.com/photo-1596422846541-6d0a4b9c5c3e?w=1200&q=85"
+ogImage: "https://images.unsplash.com/photo-1677922069742-914f7b73e28d?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwyfHxXYW5kaW5nJTIwWXVubmFufGVufDB8MHx8fDE3ODE5MzAxOTd8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
 ---
 
 ## Table of contents
 
 ## Why Wanding Belongs on Your Yunnan Itinerary
+
+![Wanding Yunnan — Why Wanding Belongs on Your Yunnan Itinerary](https://images.unsplash.com/photo-1604661808622-639387f6f698?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHx3aHklMjB3YW5kaW5nfGVufDB8MHx8fDE3ODE5MzAxOTl8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 Most travellers racing through Yunnan stick to the Dali–Lijiang–Shangri-La corridor and never venture south of Xishuangbanna. That is a shame, because Wanding (畹町) offers something none of those places can: the electric, slightly surreal feeling of standing at China's edge, watching a different country unfold just across a narrow river. This tiny border city — population roughly 30,000 — sits in Dehong Dai and Jingpo Autonomous Prefecture, pressed so tightly against Myanmar that you can literally throw a stone from one country into the other.
 
@@ -56,6 +58,8 @@ The jade market operates daily but is most active in the mornings (7:00–12:00)
 Myanmar's Kachin State produces some of the world's finest amber, and Wanding is one of the easiest places to buy it directly from traders. A row of shops along the main road near the border specializes in amber jewelry and raw specimens containing insects — some dating back 100 million years. A small pendant with a visible insect inclusion costs ¥200–800 depending on clarity and species rarity.
 
 **A word of caution:** The amber trade has ethical dimensions, as mining conditions in Myanmar can be dangerous and unregulated. Buy from established shops with proper receipts, and be aware that exporting certain amber specimens may require permits.
+
+![Wanding Yunnan — Dai and Jingpo Culture](https://images.pexels.com/photos/8564586/pexels-photo-8564586.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Dai and Jingpo Culture
 
@@ -113,6 +117,8 @@ Wanding's food sits at the delicious intersection of Dai, Jingpo, and Burmese cu
 - **Wanding Border Restaurant** (畹町国门饭店): Solid Dai and Burmese dishes, generous portions. ¥50–80 per person.
 - **Night market along Renmin Road**: Dozens of stalls from 6:00 PM onwards. Great for snacking and people-watching.
 - **Jade Market snack stalls**: Quick, cheap, and authentic. Perfect for breakfast — try the rice noodle soup with pork offal for ¥12.
+
+![Wanding Yunnan — Where to Stay](https://images.unsplash.com/photo-1677922069742-914f7b73e28d?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwyfHx3YW5kaW5nJTIweXVubmFufGVufDB8MHx8fDE3ODE5MzAyMDF8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## Where to Stay
 

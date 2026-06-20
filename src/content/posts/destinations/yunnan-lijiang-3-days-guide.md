@@ -11,7 +11,7 @@ tags:
   - itinerary
   - southwest-china
 description: "A practical 3-day Lijiang guide — navigating the old town UNESCO alleyways at golden hour, the day trip to Jade Dragon Snow Mountain (altitude acclimatization advice), the Shuhe Ancient Town day trip, and Naxi bar culture at night."
-ogImage: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/10836079/pexels-photo-10836079.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Lijiang's Old Town (Dayan Ancient Town) is genuinely one of the most beautiful places in China — a UNESCO World Heritage Site with a canal network and cobblestone alleys that have survived intact for 800 years. The Naxi minority people who built it created an architecture that blends Tibetan, Han, and local traditions in a way you don't see elsewhere.
@@ -21,6 +21,8 @@ Here's the tension with Lijiang: it's extremely popular. The old town has been h
 ## Table of contents
 
 ## Before You Arrive
+
+![Lijiang, Yunnan — Before You Arrive](https://images.pexels.com/photos/6437449/pexels-photo-6437449.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **Getting there:** Lijiang Sanyi Airport (LJG) receives domestic flights from Kunming (45 min), Chengdu, Chongqing, and most major Chinese cities. No international connections — you'll transit through another Chinese city.
 
@@ -33,6 +35,8 @@ Trains: Lijiang has a high-speed rail connection to Kunming (3.5 hours, ¥160) a
 **Accommodation:** Stay inside or just outside the old town walls. Guesthouses (客栈, kèzhàn) with courtyard gardens are the characteristic Lijiang accommodation type. Expect ¥200-500/night for a decent one. Book ahead for October and spring holidays — the good ones fill months in advance.
 
 ---
+
+![Lijiang, Yunnan — Day 1: Lijiang Old Town — Canals, Alleyways & Naxi Culture](https://images.pexels.com/photos/14553045/pexels-photo-14553045.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day 1: Lijiang Old Town — Canals, Alleyways & Naxi Culture
 
@@ -61,6 +65,8 @@ In the afternoon, look for the **Naxi Ancient Music** performances — the Naxi 
 Better for food: the smaller restaurants in the back alleys of the old town serve **Yunnan rice noodles** (米线, ¥15-20), **Yunnan goat cheese** (乳扇, grilled or pan-fried, ¥10-15), and **crossing bridge noodles** (过桥米线, ¥25-40). These are what you should be eating.
 
 ---
+
+![Lijiang, Yunnan — Day 2: Jade Dragon Snow Mountain](https://images.pexels.com/photos/15466619/pexels-photo-15466619.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day 2: Jade Dragon Snow Mountain
 

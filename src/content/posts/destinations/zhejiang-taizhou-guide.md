@@ -12,7 +12,7 @@ tags:
   - coastal-islands
   - hidden-gem
 description: "Discover Taizhou, one of Zhejiang's most overlooked destinations, where the dramatic Shenxianju scenic area rivals any mountain landscape in the province, coastal islands offer pristine beaches within sight of the mainland, and ancient towns maintain traditions largely untouched by mass tourism. This 2026 guide covers Shenxianju's stunning rock formations and glass bridge, the island retreat of Dachen, Linhai's ancient Great Wall, local Zhejiang cuisine, and practical advice for exploring this rewarding corner of eastern China."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/32118127/pexels-photo-32118127.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -52,6 +52,8 @@ The scenic area has been developed with impressive infrastructure: cable cars, g
 **Entrance fee:** ¥125 ($17 USD). Cable car ¥65 ($9 USD) each way. Glass bridge included in entrance fee. Open 7:30 AM — 5:00 PM.
 
 **Tip:** Go on a cloudy or misty day — the rock formations are actually more atmospheric when partially obscured by cloud. Clear days can make the landscape feel a bit stark.
+
+![Taizhou Zhejiang — Linhai — The Ancient Great Wall](https://images.pexels.com/photos/12978405/pexels-photo-12978405.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Linhai — The Ancient Great Wall
 

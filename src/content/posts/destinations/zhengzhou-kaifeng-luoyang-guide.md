@@ -12,7 +12,7 @@ tags:
   - central-china
   - history
 description: "Henan Province is where Chinese civilisation began — the Shaolin Temple, Longmen Grottoes, Song Dynasty capital Kaifeng, and the Yellow River's ancient sites are all within easy reach."
-ogImage: "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/5305562/pexels-photo-5305562.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Henan (河南, "south of the Yellow River") is China's most historically layered province — more ancient dynasties had their capital here than anywhere else in the country. The Yellow River (黄河) cradle of Chinese civilisation runs through the province; the Shaolin Temple defines an entire global martial arts tradition; and the Buddha carvings at Longmen are among the world's greatest artworks.
@@ -20,6 +20,8 @@ Henan (河南, "south of the Yellow River") is China's most historically layered
 ## Table of contents
 
 ## Shaolin Temple (少林寺)
+
+![Henan — Shaolin Temple (少林寺)](https://images.pexels.com/photos/37639472/pexels-photo-37639472.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 The birthplace of Chan (Zen) Buddhism and Chinese martial arts — Shaolin Temple (少林寺) in the Songshan Mountains is one of the world's most famous religious and cultural sites.
 
@@ -33,6 +35,8 @@ The birthplace of Chan (Zen) Buddhism and Chinese martial arts — Shaolin Templ
 **Getting there:** Bus from Zhengzhou (1.5 hours) or Luoyang (1.5 hours). Entry ¥100.
 
 ---
+
+![Henan — Longmen Grottoes (龙门石窟)](https://images.pexels.com/photos/11105693/pexels-photo-11105693.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Longmen Grottoes (龙门石窟)
 
@@ -48,6 +52,8 @@ The birthplace of Chan (Zen) Buddhism and Chinese martial arts — Shaolin Templ
 **Entry:** ¥110. Allow 3–4 hours. UNESCO World Heritage Site.
 
 ---
+
+![Henan — Luoyang (洛阳) — Peony Capital](https://images.pexels.com/photos/5305565/pexels-photo-5305565.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Luoyang (洛阳) — Peony Capital
 

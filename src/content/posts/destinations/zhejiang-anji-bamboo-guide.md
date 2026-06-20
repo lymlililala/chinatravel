@@ -12,7 +12,7 @@ tags:
   - tea
   - day-trip
 description: "Anji County in northern Zhejiang is famous for two things: the bamboo sea where Crouching Tiger Hidden Dragon was filmed, and some of China's finest white tea. A day trip or weekend from Shanghai or Hangzhou, Anji offers bamboo forest walks, spring tea-picking experiences, and a refreshing escape from city life. This 2026 guide covers all major sites, how to get here, and the best ways to experience Anji's unique offerings."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/31761186/pexels-photo-31761186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -22,6 +22,8 @@ Anji (安吉) is one of those perfect one or two-day escapes from Shanghai or Ha
 Director Ang Lee filmed the bamboo forest duel sequence of Crouching Tiger, Hidden Dragon in Anji's Tianhuangping area, and the scene has made the forest internationally famous. But there's more to Anji than movie locations — the county produces Anji Baicha (安吉白茶), one of China's most prized green teas (confusingly named "white tea" but actually a green tea made from a particular leucistic cultivar), and the surrounding hills have excellent hiking.
 
 ## Getting to Anji
+
+![Anji Bamboo Sea Zhejiang — Getting to Anji](https://images.pexels.com/photos/12736039/pexels-photo-12736039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### From Shanghai
 The most convenient approach for international visitors.
@@ -67,6 +69,8 @@ The bamboo forest is most photogenic:
 
 For the cinematic effect from the movie, find a path that runs straight between high bamboo walls, use a wide angle lens, and shoot at ground level looking up the "corridor."
 
+![Anji Bamboo Sea Zhejiang — Tianhuangping Area (天荒坪)](https://images.pexels.com/photos/4258243/pexels-photo-4258243.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Tianhuangping Area (天荒坪)
 
 The Tianhuangping reservoir area (天荒坪水库) is a different landscape — an enormous pumped-storage hydroelectric reservoir surrounded by forested mountains. The dam itself is impressive engineering, and the drive up through the mountains is one of the better scenic roads in northern Zhejiang.
@@ -102,6 +106,8 @@ If you're offered tea at a farm, here's how to get the most from the experience:
 - Second steep: 45–60 seconds
 - Third steep: 60–90 seconds
 - Genuine Anji Baicha has a vegetal, slightly sweet, almost orchid-like fragrance and a very clean, light taste
+
+![Anji Bamboo Sea Zhejiang — Bamboo Shoots: The Edible Season](https://images.pexels.com/photos/753990/pexels-photo-753990.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Bamboo Shoots: The Edible Season
 

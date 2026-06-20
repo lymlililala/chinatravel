@@ -63,6 +63,8 @@ A terraced field area about 10km north of town where the rapeseed fields form sp
 **Ten-Thousand Peak Lake (万峰湖):**
 A reservoir area where the flower fields extend to the water's edge, with karst peaks reflected in the still water. About 20km from town; requires hired transport.
 
+![Luoping Yunnan — Jiulong Waterfalls (九龙瀑布群)](https://images.pexels.com/photos/6870655/pexels-photo-6870655.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Jiulong Waterfalls (九龙瀑布群)
 
 The Jiulong (Nine Dragon) Waterfalls are a series of 10 waterfalls on the Jiulong River, about 20km northeast of Luoping town. The tallest single drop is 56 meters, and the total cascade length is about 2km. During the spring rapeseed bloom, the waterfalls are framed by yellow flowers, creating one of the most photogenic waterfall settings in China.
@@ -91,6 +93,8 @@ The Duoyi River flows through a scenic valley about 30km southeast of Luoping, n
 
 **Entry fee:** ¥60 per person  
 **Getting there:** About 45 minutes by car from Luoping town
+
+![Luoping Yunnan — Luoping Town](https://images.pexels.com/photos/15969586/pexels-photo-15969586.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Luoping Town
 

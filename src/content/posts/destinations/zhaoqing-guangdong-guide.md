@@ -22,6 +22,8 @@ Most visitors come from Guangzhou or Shenzhen for a day or overnight trip. It's 
 
 ## Seven Star Crags (七星岩)
 
+![Zhaoqing — Seven Star Crags (七星岩)](https://images.pexels.com/photos/15586141/pexels-photo-15586141.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 The Seven Star Crags are seven limestone karst pinnacles that rise abruptly from the middle of a lake system — the iconic image of Zhaoqing. The pinnacles are arranged in a pattern that allegedly mirrors the Big Dipper constellation (hence "Seven Stars"), though this requires some imagination from most viewing angles.
 
 **Opening hours:** 7:30am–6:00pm  
@@ -68,6 +70,8 @@ The temple's **Pearl Lotus Pool (宝莲池)** is famous for its collection of an
 The main trail from the entrance ascends to the summit area through dense forest with multiple waterfalls. The round trip to the summit takes about 4–5 hours. Shorter loops (2 hours) are available for those wanting less than the full ascent.
 
 **Butterfly Zone (蝴蝶谷):** A natural section of the trail in spring (April–June) when hundreds of butterfly species gather at specific clearings. Photography is excellent.
+
+![Zhaoqing — The Jesuit Connection: Matteo Ricci in Zhaoqing](https://images.pexels.com/photos/34009800/pexels-photo-34009800.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Jesuit Connection: Matteo Ricci in Zhaoqing
 

@@ -11,7 +11,7 @@ tags:
   - hunan
   - nature
 description: "The Zhangjiajie accommodation decision — staying inside Wulingyuan National Park area (expensive, limited options, worth it to be first on trails), Zhangjiajie city (35 mins by bus, much cheaper, more dining options), or hotels near Tianmen Mountain. What the 'mountain view' rooms actually look out onto, and which areas fill up fastest in peak season."
-ogImage: "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/34683501/pexels-photo-34683501.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Zhangjiajie's accommodation strategy comes down to a fundamental question: how early do you want to get into the park, and what are you willing to pay for that privilege? The quartzite sandstone pillars of Wulingyuan (the landscape that inspired Pandora in Avatar) are at their best in the early morning before tour groups arrive and before the day's heat reduces visibility. Staying inside the park gate lets you be on the trails by 7am. Staying in Zhangjiajie city means a 35-40 minute bus or taxi journey that likely puts you there at 9am — an hour behind the first movers.
@@ -19,6 +19,8 @@ Zhangjiajie's accommodation strategy comes down to a fundamental question: how e
 ## Table of contents
 
 ## The Main Areas Explained
+
+![Stay Zhangjiajie — The Main Areas Explained](https://images.pexels.com/photos/10907831/pexels-photo-10907831.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### Wulingyuan Area: Inside and Near the Park Gate
 
@@ -61,6 +63,8 @@ The scenic areas of Zhangjiajie Forest Park have a small number of hotels physic
 
 Some hotels near the Tianmen Mountain cable car base station are worth considering if Tianmen Mountain is your priority. These tend to be newer and better-value than Wulingyuan town accommodation.
 
+![Stay Zhangjiajie — What "Mountain View" Actually Means](https://images.pexels.com/photos/30379624/pexels-photo-30379624.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## What "Mountain View" Actually Means
 
 Many Zhangjiajie hotel listings advertise mountain views. The reality:
@@ -70,6 +74,8 @@ Many Zhangjiajie hotel listings advertise mountain views. The reality:
 **The honest question to ask:** "Can you see the sandstone pillar formations (石英砂岩柱, shíyīng shāyán zhù) from the room window or balcony?"
 
 **The best views:** From within the park itself on the high-elevation viewing platforms and the elevated hotel at the top. From the Tianmen Mountain cable car and glass walkways. Not typically from hotel room windows in the town.
+
+![Stay Zhangjiajie — Hotel Picks](https://images.pexels.com/photos/36644768/pexels-photo-36644768.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Hotel Picks
 

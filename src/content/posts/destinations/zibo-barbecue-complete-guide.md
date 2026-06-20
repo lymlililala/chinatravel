@@ -12,12 +12,14 @@ tags:
   - barbecue
   - china food tourism
 description: "Zibo BBQ took China by storm and became one of the most talked-about food destinations in the country. This complete guide covers where to eat the best Zibo barbecue, how to get there, what to order, local etiquette, and everything you need for an unforgettable food trip to Shandong's most viral city in 2026."
-ogImage: "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/18936008/pexels-photo-18936008.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
 
 ## Why Zibo BBQ Became China's Biggest Food Phenomenon
+
+![Zibo BBQ — Why Zibo BBQ Became China's Biggest Food Phenomenon](https://images.pexels.com/photos/34453548/pexels-photo-34453548.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 In the spring of 2023, something extraordinary happened in a mid-sized industrial city in Shandong Province. College students who had been quarantined in Zibo during the pandemic returned to thank their hosts — and they brought the entire internet with them. Videos of tiny charcoal grills, paper-thin flatbreads wrapped around grilled meat and spring onions, and overflowing cups of local beer flooded Chinese social media platforms overnight.
 
@@ -66,6 +68,8 @@ These "time-honoured" establishments have been in operation for decades. Look fo
 
 **万象城附近烧烤聚集区** — Near Wanxiang City Mall
 A newer cluster that emerged partly due to the tourism boom. More tables, better organisation, and some venues have English menus or picture menus.
+
+![Zibo BBQ — What to Order: The Complete Zibo BBQ Menu](https://images.pexels.com/photos/6529688/pexels-photo-6529688.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## What to Order: The Complete Zibo BBQ Menu
 
@@ -140,6 +144,8 @@ Zibo BBQ is fundamentally a social food. Tables are large, meat comes in large q
 - Don't arrive expecting to eat immediately at peak hour without queuing
 - Don't ignore the flatbreads — eating the meat alone misses the point
 - Don't order in enormous quantities upfront; in most places you can order continuously
+
+![Zibo BBQ — Beyond the BBQ: What Else to Do in Zibo](https://images.pexels.com/photos/5774159/pexels-photo-5774159.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Beyond the BBQ: What Else to Do in Zibo
 

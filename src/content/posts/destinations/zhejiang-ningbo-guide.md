@@ -12,7 +12,7 @@ tags:
   - history
   - seafood
 description: "Ningbo is Zhejiang's second city and one of China's great maritime heritage towns — home to the world's oldest private library, a handsome riverfront Bund, offshore island escapes and some of the country's finest seafood cuisine. This 2026 guide covers all major attractions, transport from Shanghai and Hangzhou, accommodation options across budgets, and practical tips for making the most of this underrated coastal city."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/25237241/pexels-photo-25237241.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -85,6 +85,8 @@ Ningbo is part of the East China Sea fishing basin, and its seafood culture is d
 
 **Where to eat:** The fishing village of Chunxiao (春晓) about 20 km south of the city has excellent seafood restaurants overlooking the water; dinner for two ¥150–¥250 ($21–$35). In the city, the area around Tianzifang Road has clustered good seafood restaurants.
 
+![Ningbo Zhejiang — Getting to Ningbo](https://images.pexels.com/photos/37560629/pexels-photo-37560629.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Getting to Ningbo
 
 ### From Shanghai
@@ -122,6 +124,8 @@ Ningbo's city centre is compact and well-served by an expanding metro network.
 **Mid-range (¥350–¥600 / $49–$84):** The **Bund International Hotel** on the Bund strip is a solid option; excellent location, comfortable rooms.
 
 **Upscale (¥800–¥1,500+ / $112–$210+):** **InterContinental Ningbo**, **Marriott Ningbo**, and the boutique **Harbor View Hotel** on the waterfront are the top choices.
+
+![Ningbo Zhejiang — Best Time to Visit](https://images.pexels.com/photos/29903855/pexels-photo-29903855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Best Time to Visit
 

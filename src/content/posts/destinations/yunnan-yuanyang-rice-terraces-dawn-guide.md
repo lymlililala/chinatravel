@@ -1,6 +1,7 @@
 ---
 title: "Yuanyang Rice Terraces at Dawn: Photography, Hani Villages & Practical Guide"
 description: "Master a visit to Yuanyang's spectacular Hani rice terraces in Yunnan — the best sunrise viewpoints, how to reach the most photogenic spots, which Hani villages to explore, what to eat, when the terraces flood for maximum reflection, and accommodation near the fields."
+ogImage: "https://images.pexels.com/photos/26068722/pexels-photo-26068722.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Yunnan"
 tags: ["yunnan", "yuanyang", "rice-terraces", "hani-minority", "sunrise", "photography", "UNESCO", "honghe", "dawn-photography"]
@@ -15,6 +16,8 @@ What distinguishes Yuanyang is a combination of scale (over 16,000 hectares of t
 The best experience requires arriving before dawn and staying through the first two hours of morning light — the window when mist, reflection, and golden light combine in ways that justify what may be a 6-hour journey from Kunming.
 
 ---
+
+![Yuanyang Rice Terraces at Dawn — Understanding the Hani Terraces](https://images.pexels.com/photos/2173176/pexels-photo-2173176.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Understanding the Hani Terraces
 
@@ -65,6 +68,8 @@ Named for its resemblance to a tiger's open mouth when viewed from across the va
 
 ---
 
+![Yuanyang Rice Terraces at Dawn — The Hani Villages](https://images.pexels.com/photos/25241731/pexels-photo-25241731.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The Hani Villages
 
 ### Aichun Village (爱春村)
@@ -96,6 +101,8 @@ A village elder (部落长) can sometimes be arranged through the tourism office
 The viewpoints are spread across 25–35 km of mountain road. **Renting a motorcycle or hiring a driver** from Yuanyang New Town (¥200–¥350/day for a driver-guide who knows all viewpoints) is the most practical approach. The mountain roads are narrow and winding; driving yourself requires strong confidence on single-lane mountain curves.
 
 ---
+
+![Yuanyang Rice Terraces at Dawn — Photography Tips](https://images.pexels.com/photos/37134938/pexels-photo-37134938.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Photography Tips
 

@@ -13,6 +13,7 @@ tags:
   - sunrise photography
   - pilgrimage
 description: "The most dramatic mountain sunrise in China — Meili Snow Mountain (Kawagebo) rising above the clouds at dawn, viewed from the village of Feilaisi. A guide to reaching one of China's most sacred and remote mountain destinations in northwest Yunnan."
+ogImage: "https://images.pexels.com/photos/34385755/pexels-photo-34385755.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Meili Snow Mountain (梅里雪山) — known in Tibetan as Kawagebo (卡瓦格博) — is the holiest mountain in Tibetan Buddhism. It has never been climbed: a 17-member Chinese-Japanese expedition died on its slopes in 1991, and no subsequent summit attempts have been permitted out of respect for the mountain's sacred status. The mountain's inaccessibility to climbers paradoxically preserves its atmosphere.
@@ -23,6 +24,8 @@ At 6,740 metres, it's the highest peak in Yunnan, visible from the hillside vill
 
 ## The Sunrise at Feilaisi
 
+![Deqin & Meili Snow Mountain — The Sunrise at Feilaisi](https://images.pexels.com/photos/31433505/pexels-photo-31433505.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 The reason people come to Deqin is a single image: the first sunlight of the day striking the thirteen snow peaks of the Meili range, while the valley below is still in shadow and cloud. The peaks glow orange-gold against a deep blue dawn sky for approximately 5–10 minutes before the full sun rises.
 
 **The viewing point:** The rooftop terraces and hillside slopes facing east from the Feilaisi village. Most guesthouses and hotels have outdoor terraces designed for this view. Arrive at the viewpoint 30 minutes before sunrise; the exact time varies by season (4:30–6:30 AM).
@@ -31,6 +34,8 @@ The reason people come to Deqin is a single image: the first sunlight of the day
 
 **When it happens:** When the conditions align — clear sky, frozen mist in the valley creating a white carpet, the sunrise light arriving precisely — it is one of the most extraordinary natural light shows in China. Tibetan pilgrims who have traveled weeks on foot to see this moment cry; professional photographers book return trips.
 
+![Deqin & Meili Snow Mountain — Kawagebo Pilgrimage Kora](https://images.pexels.com/photos/33175675/pexels-photo-33175675.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Kawagebo Pilgrimage Kora
 
 The circumambulation (kora) of Meili Snow Mountain is one of the three holiest koras in Tibetan Buddhism — the full circuit covering approximately 200 km through three countries (China, Myanmar, Tibet) at altitudes of 3,000–4,800 metres over 12–16 days.
@@ -38,6 +43,8 @@ The circumambulation (kora) of Meili Snow Mountain is one of the three holiest k
 **The accessible section:** The initial section of the kora, entering the valley from the Mingyong Glacier (明永冰川) side, is walkable in 2–3 days. The Mingyong Glacier itself descends to 2,700 metres — a rare low-altitude valley glacier, surrounded by azalea and rhododendron forest.
 
 **Pilgrims:** During the Year of the Monkey (every 12 years in the Tibetan calendar, 2028 is the next), thousands of Tibetan pilgrims complete the full kora. Meeting pilgrims on the trail — who have traveled from across the Tibetan plateau to make this journey — is a powerful human encounter.
+
+![Deqin & Meili Snow Mountain — Deqin Town (德钦)](https://images.pexels.com/photos/26746841/pexels-photo-26746841.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Deqin Town (德钦)
 

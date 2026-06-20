@@ -11,7 +11,7 @@ tags:
   - east-china
   - culture
 description: "Zhouzhuang (周庄) in Jiangsu — the 'Venice of the East' that was the original Chinese water town, now visited by millions. The Double Bridge (双桥) made famous by Chen Yifei's painting, canal boat rides, the Shen's House and Zhang's House mansions, and practical advice for timing your visit to avoid the worst crowds."
-ogImage: "https://images.unsplash.com/photo-1513407030348-c983a97b98d8?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/37015414/pexels-photo-37015414.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Zhouzhuang is the water town that put Chinese water towns on the map. The painter Chen Yifei depicted its Double Bridge in a 1984 artwork that was later given to the United Nations Secretary-General, and almost overnight this quiet village in southern Jiangsu became an international symbol of traditional China. That was over 40 years ago — today Zhouzhuang receives several million visitors per year, and managing those crowds is the central challenge of any visit.
@@ -21,6 +21,8 @@ That said, the town itself is genuinely worth seeing. The canals, stone bridges,
 ## Table of contents
 
 ## What Makes Zhouzhuang Special
+
+![Zhouzhuang Water Town — What Makes Zhouzhuang Special](https://images.pexels.com/photos/21628371/pexels-photo-21628371.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 The town was founded over 900 years ago during the Song Dynasty. About 60% of the buildings date to the Ming and Qing dynasties (1368–1912), and the canal system is still functioning — residents use the waterways for daily life, not just boat tours.
 
@@ -39,6 +41,8 @@ Zhouzhuang is packed on weekends year-round and all week during Chinese national
 - **Evening (after 5pm):** Many day-trippers leave; the lanterns come on and the atmosphere changes entirely
 
 **Worst times:** Saturday and Sunday, Chinese National Holidays (October Golden Week, Chinese New Year), and any weekend in April (spring blossom season).
+
+![Zhouzhuang Water Town — Entry and Tickets](https://images.pexels.com/photos/5801657/pexels-photo-5801657.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Entry and Tickets
 
@@ -63,6 +67,8 @@ Boat rides through the canals are available throughout the day. The boats are tr
 
 ### The Double Bridge at Night
 The evening illuminations transform the Double Bridge area. Red lanterns hang from the eaves of the buildings lining the canal, reflected in the water. It's the best photographic opportunity in Zhouzhuang — and the lower visitor numbers in the evening make it far more enjoyable than the midday rush.
+
+![Zhouzhuang Water Town — Food and Drink](https://images.pexels.com/photos/34981672/pexels-photo-34981672.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Food and Drink
 

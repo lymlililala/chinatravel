@@ -11,7 +11,7 @@ tags:
   - hunan
   - nature
 description: "A 3-day Zhangjiajie itinerary — Day 1 in Wulingyuan for the floating mountains, Day 2 for the 5km Tianmen Mountain cable car and glass walkway, Day 3 for the Zhangjiajie Grand Canyon Glass Bridge. Includes practical transport, queue strategy, and honest reviews."
-ogImage: "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/25000765/pexels-photo-25000765.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Zhangjiajie's quartzite sandstone pillars were the visual inspiration for Pandora's floating mountains in Avatar. The resemblance between the real landscape and the film is striking enough that the park authorities renamed one of the peaks "Avatar Hallelujah Mountain" in 2010. That kind of marketing shouldn't distract from the fact that the landscape is genuinely extraordinary — nothing else in China (or really anywhere) looks quite like it.
@@ -21,6 +21,8 @@ The Zhangjiajie area has three main attractions: **Wulingyuan Scenic Area** (the
 ## Table of contents
 
 ## Before You Arrive
+
+![Zhangjiajie — Before You Arrive](https://images.pexels.com/photos/26771351/pexels-photo-26771351.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **Getting there:** Zhangjiajie Hehua International Airport (DYG) receives domestic flights from most major Chinese cities. Alternatively, high-speed trains connect to Changsha (1.5 hours, ¥135), from where you can fly or connect to anywhere in China.
 
@@ -53,6 +55,8 @@ The stream section from **Zixia Scenic Area** through to the park exit is the be
 **Return to Wulingyuan Town** by 5-6pm. The town has numerous restaurants serving Hunan cuisine — **spicy pork ribs** (小炒排骨, ¥40-60), **steamed fish with chili** (剁椒鱼头, ¥50-80), and of course the regional specialty of **Zhangjiajie rice wine** (张家界米酒).
 
 ---
+
+![Zhangjiajie — Day 2: Tianmen Mountain](https://images.pexels.com/photos/34902901/pexels-photo-34902901.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day 2: Tianmen Mountain
 
@@ -101,6 +105,8 @@ Fenghuang requires at least a half-day or overnight — it's too far for a prope
 Alternatively, spend the afternoon at **Tianmen Mountain** if you want a second visit, or simply explore Zhangjiajie city (湘西土家族苗族自治州) and its local wet markets.
 
 ---
+
+![Zhangjiajie — Honest Reviews](https://images.pexels.com/photos/5981542/pexels-photo-5981542.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Honest Reviews
 

@@ -13,7 +13,7 @@ tags:
   - nature
   - culture
 description: "The complete Yunnan travel guide — from the ancient cobblestone lanes of Lijiang and Dali to the Tibetan plateau town of Shangri-La, tropical Xishuangbanna rainforest, and the extraordinary rice terrace landscapes of Yuanyang."
-ogImage: "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/26746834/pexels-photo-26746834.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Yunnan Province is arguably China's most extraordinary region for travel — a single province containing tropical rainforest at its southern tip, Himalayan glaciers at its northwest, and everything in between. Sixteen officially recognised ethnic minority groups maintain living cultural traditions. Snow-capped mountains stand backdrop to ancient cobblestone towns. This is the China that travellers dream about.
@@ -21,6 +21,8 @@ Yunnan Province is arguably China's most extraordinary region for travel — a s
 ## Table of contents
 
 ## Lijiang (丽江)
+
+![Yunnan — Lijiang (丽江)](https://images.unsplash.com/photo-1677922069769-0164b29e2c1a?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw0fHxMaWppYW5nfGVufDB8MHx8fDE3ODE5MzAxNTh8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ### Lijiang Old Town (世界遗产)
 UNESCO World Heritage since 1997. The Naxi minority town of wooden gabled buildings over a network of clear streams, preserved since the 14th century. The town suffered a 7.0 earthquake in 1996 and was beautifully rebuilt.
@@ -69,6 +71,8 @@ A 250 km² highland lake (1,972m elevation) — cycling around the lake's scenic
 
 ---
 
+![Yunnan — Shangri-La (香格里拉)](https://images.pexels.com/photos/31416544/pexels-photo-31416544.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Shangri-La (香格里拉)
 
 The Tibetan plateau town in northwest Yunnan at 3,280m elevation — named after James Hilton's fictional Himalayan paradise partly as a tourism initiative in 2001. The choice proved prescient: the area genuinely matches the mythical description.
@@ -102,6 +106,8 @@ Five traditional Dai villages on the Mekong River — still inhabited, with auth
 The Mekong begins as the Lancang River in Tibet and flows through Xishuangbanna before entering Myanmar. Evening cruises from Jinghong (¥50) pass fishing villages and forest-covered banks.
 
 ---
+
+![Yunnan — Yuanyang Rice Terraces (元阳梯田)](https://images.pexels.com/photos/27200218/pexels-photo-27200218.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Yuanyang Rice Terraces (元阳梯田)
 

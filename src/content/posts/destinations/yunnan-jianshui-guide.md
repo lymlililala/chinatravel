@@ -12,12 +12,14 @@ tags:
   - confucian-temple
   - steam-train
 description: "Step back centuries in Jianshui, one of Yunnan's most beautifully preserved ancient towns, where a century-old steam train still rattles through the countryside, the second-largest Confucian temple in China stands beside Ming Dynasty wells, and the local tofu might be the best you'll ever taste. This 2026 guide covers the historic sites, the nostalgic narrow-gauge railway, the famous Jianshui tofu and roasted duck, traditional courtyard guesthouses, and practical advice for visiting this cultural treasure that most foreign tourists still overlook."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/35588157/pexels-photo-35588157.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
 
 ## Jianshui — Yunnan's Living Time Capsule
+
+![Jianshui Yunnan — Jianshui — Yunnan's Living Time Capsule](https://images.pexels.com/photos/10670162/pexels-photo-10670162.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 While most travellers to Yunnan make a beeline for Dali and Lijiang, those in the know head to Jianshui (建水). This small city, about 200 km south of Kunming, has been an important cultural centre since the Ming Dynasty, and its old town is one of the best-preserved in all of China. Not recreated, not renovated beyond recognition — genuinely preserved, with families still living in Ming-era courtyard houses, drawing water from 600-year-old wells, and making tofu using methods that haven't changed in centuries.
 
@@ -48,6 +50,8 @@ Adjacent to the temple, the Chaoxue was the imperial examination hall where scho
 Jianshui's wells deserve special mention because they're not museum pieces — they're working infrastructure. The most famous are the Twin Wells (双龙井), two adjacent wells dating from 1387 that still produce clean, sweet water. Locals come daily to collect water for cooking and tea-making, and many claim it produces the best tofu in Yunnan.
 
 There are over 100 ancient wells scattered throughout the old town, ranging from simple round wells to elaborate covered structures with carved stone frames. Each neighbourhood has its own well, and the social life that has developed around them over centuries — women gathering to wash vegetables, neighbours exchanging news — continues today.
+
+![Jianshui Yunnan — The Ancient Town](https://images.pexels.com/photos/8936979/pexels-photo-8936979.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Ancient Town
 

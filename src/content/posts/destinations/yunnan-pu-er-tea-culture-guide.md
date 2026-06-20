@@ -12,12 +12,14 @@ tags:
   - tea-horse-road
   - xishuangbanna
 description: "Journey into the heart of Pu'er tea country in southern Yunnan, where ancient tea trees older than the Ming Dynasty still produce some of the world's most sought-after leaves. This 2026 guide traces the legendary Tea Horse Road, visits centuries-old plantations in Xishuangbanna and Lincang, explains how to taste and buy Pu'er tea like an expert, and provides practical advice on transport, accommodation, and immersive tea experiences that go far beyond the typical tourist trail."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/31756431/pexels-photo-31756431.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
 
 ## Why Pu'er Tea Country Should Be on Your Travel List
+
+![Pu'er Tea Culture Yunnan — Why Pu'er Tea Country Should Be on Your Travel List](https://images.pexels.com/photos/6877852/pexels-photo-6877852.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 There's something mildly addictive about watching tea leaves unfurl in a gaiwan. But watching those leaves come from a tree that's been growing since the Tang Dynasty — a tree whose roots have been drinking Yunnan's red soil for over a thousand years — adds an entirely different dimension to the experience. Pu'er tea (普洱茶) isn't just a beverage; it's a living connection to one of the world's oldest trading networks, a complex art form, and a multi-billion dollar industry that still relies on farmers hiking into mountains to hand-pick leaves from ancient trees.
 
@@ -50,6 +52,8 @@ For over a thousand years, caravans of horses and mules carried compressed tea c
 **The Tea Horse Road Museum (茶马古道博物馆):** Located in Pu'er City, this excellent museum provides comprehensive context for the trading network. Exhibits include original caravan equipment, tea compressing tools, and historical photographs. Entrance ¥30 ($4.20 USD). English labels are limited, so consider hiring a guide for ¥100 ($14 USD).
 
 **Hiking the Ancient Trail:** A 12 km section of the original Tea Horse Road has been preserved near Fengqing (凤庆) in Lincang Prefecture. It's a moderately challenging hike through forest and mountain terrain, with rest stops at former way stations. The hike takes about 5-6 hours. Local guides in Fengqing charge ¥200-300 ($28-41 USD) for a day hike including lunch.
+
+![Pu'er Tea Culture Yunnan — Ancient Tea Plantations](https://images.pexels.com/photos/37479628/pexels-photo-37479628.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Ancient Tea Plantations
 
@@ -119,6 +123,8 @@ The Pu'er market is rife with counterfeits. Basic precautions:
 - Be suspicious of "ancient tree" tea priced below ¥300 per cake
 - Factory teas (Dayi, Xiaguan, Haiwan) have anti-counterfeit features — check the QR codes
 - When in doubt, buy less and taste more before committing to expensive purchases
+
+![Pu'er Tea Culture Yunnan — Getting to Pu'er Tea Country](https://images.pexels.com/photos/2153824/pexels-photo-2153824.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting to Pu'er Tea Country
 

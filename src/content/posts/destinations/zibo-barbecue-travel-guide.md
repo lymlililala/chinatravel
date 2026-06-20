@@ -1,12 +1,15 @@
 ---
 title: "Zibo Barbecue Travel Guide: China's Viral Street Food City in Shandong"
 description: "Complete guide to visiting Zibo for its famous barbecue (烧烤). Where to find the best BBQ restaurants, what to order, how to use the special small grill and rolling technique, day trips and getting there."
+ogImage: "https://images.pexels.com/photos/37030068/pexels-photo-37030068.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Zibo", "Zibo BBQ", "Shandong food", "China food tourism", "street food", "烧烤", "China travel"]
 ---
 
 In the spring of 2023, something unusual happened: a medium-sized industrial city in Shandong Province went viral. Not for temples, not for natural scenery, but for barbecue. Zibo (淄博), population 4.7 million, became one of the most discussed travel destinations in China almost overnight, with travelers arriving by the trainload specifically to eat small skewers on miniature charcoal grills. By 2025, Zibo BBQ had become a permanent fixture in Chinese food tourism, and the city had embraced its new identity wholeheartedly.
+
+![Zibo Barbecue — Why Zibo BBQ Is Different](https://images.pexels.com/photos/11022633/pexels-photo-11022633.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Why Zibo BBQ Is Different
 
@@ -40,6 +43,8 @@ Zibo's barbecue isn't just grilled meat — it's a technique and a ritual. The d
 
 **Beer**: Zibo restaurants serve cold Tsingtao (青岛, the Shandong province beer) in frosty mugs. A liter is ¥12–20.
 
+![Zibo Barbecue — Where to Eat](https://images.pexels.com/photos/38026238/pexels-photo-38026238.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Where to Eat
 
 **Best BBQ areas**:
@@ -58,6 +63,8 @@ Zibo's barbecue isn't just grilled meat — it's a technique and a ritual. The d
 **Four Happiness丸子 (四喜丸子)**: Sweet-glazed pork meatballs, a classic Qi cuisine (齐鲁菜) dish.
 
 **Zibo shortcake (淄博酥锅)**: Pork and vegetable slow-braised into a stew, served cold as a set. A New Year specialty worth trying.
+
+![Zibo Barbecue — Cultural Attractions in Zibo](https://images.pexels.com/photos/14508161/pexels-photo-14508161.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Cultural Attractions in Zibo
 

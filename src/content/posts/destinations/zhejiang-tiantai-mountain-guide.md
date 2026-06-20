@@ -1,6 +1,7 @@
 ---
 title: "Tiantai Mountain Guide: Birthplace of Tiantai Buddhism in Zhejiang"
 description: "Complete guide to visiting Tiantai Mountain (天台山) in Zhejiang Province. Guoqing Temple, Stone Beam Falls, Cold Mountain Temple connection, hiking trails and how to get there."
+ogImage: "https://images.pexels.com/photos/2815210/pexels-photo-2815210.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Tiantai Mountain", "Zhejiang", "Buddhist pilgrimage", "Guoqing Temple", "China temples", "mountain hiking China"]
@@ -9,6 +10,8 @@ tags: ["Tiantai Mountain", "Zhejiang", "Buddhist pilgrimage", "Guoqing Temple", 
 Tiantai Mountain (天台山, Tiāntái Shān) in central Zhejiang Province occupies a singular position in Chinese Buddhist history: it was here that the monk Zhiyi (538–597 AD) founded the Tiantai school of Buddhism — China's first distinctly Chinese Buddhist school, blending Indian teachings with Chinese philosophical traditions in ways that influenced all of East Asian Buddhism.
 
 Today the mountain remains a destination for Buddhist pilgrims from China, Japan and Korea, many of whom trace the lineage of their tradition back to Zhiyi's work here. For the general traveler, it offers magnificent mountain scenery, ancient temple architecture, waterfall hiking and an almost complete absence of Western tourists.
+
+![Tiantai Mountain — Guoqing Temple (国清寺)](https://images.pexels.com/photos/29606775/pexels-photo-29606775.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Guoqing Temple (国清寺)
 
@@ -31,6 +34,8 @@ The combination of the geological feature, the waterfall sound and the ancient a
 **Access**: Bus from Tiantai county town (20 minutes) or Didi.
 
 **Fee**: ¥40
+
+![Tiantai Mountain — Huading Peak (华顶峰)](https://images.pexels.com/photos/12354667/pexels-photo-12354667.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Huading Peak (华顶峰)
 

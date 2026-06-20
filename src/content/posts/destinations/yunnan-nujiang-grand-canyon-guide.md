@@ -1,6 +1,7 @@
 ---
 title: "Yunnan Nujiang Grand Canyon: China's Last Frontier River Valley"
 description: "Journey through the Nujiang (Salween) Grand Canyon in northwest Yunnan — China's deepest and most remote river valley, home to Tibetan, Lisu, Nu, and Dulong ethnic communities, Catholic churches built by French missionaries, and stunning mountain scenery."
+ogImage: "https://images.pexels.com/photos/26746835/pexels-photo-26746835.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Yunnan"
 tags: ["yunnan", "nujiang", "salween", "grand-canyon", "ethnic-minorities", "lisu", "tibetan", "remote-travel", "trekking"]
@@ -13,6 +14,8 @@ West of the Hengduan Mountain ranges, where three of Asia's great rivers — the
 The **Nujiang Grand Canyon** — stretching roughly 320 km from Liuku in the south to Bingzhongluo in the north — is the deepest river gorge in China, flanked by peaks rising 4,000 metres above the river bed. It is also one of the last parts of Yunnan that mass tourism has not yet substantially altered.
 
 ---
+
+![Yunnan Nujiang Grand Canyon — Geography: Understanding the Three Parallel Rivers](https://images.pexels.com/photos/11826227/pexels-photo-11826227.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Geography: Understanding the Three Parallel Rivers
 
@@ -47,6 +50,8 @@ In the **Dulong River Valley** — an even more remote side valley accessible on
 The upper valley around **Bingzhongluo (丙中洛)** and further north has a Tibetan character — Buddhist monasteries cling to cliff faces, mani stone walls line paths, and the prayer flags turn this into a landscape that might have been photographed in Kham or Amdo.
 
 ---
+
+![Yunnan Nujiang Grand Canyon — Key Sites and Destinations](https://images.pexels.com/photos/842528/pexels-photo-842528.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Key Sites and Destinations
 
@@ -87,6 +92,8 @@ The **Gaoligong Range (高黎贡山)** — the western wall of the valley — ca
 Entering the Dulong Valley requires passing through Gongshan County's Dulong Township. The road tunnel opens around May 1 (check locally for current-year status). Basic guesthouses exist in the valley; trekking to higher pastures requires a local guide and several days.
 
 ---
+
+![Yunnan Nujiang Grand Canyon — Practical Information](https://images.pexels.com/photos/26380607/pexels-photo-26380607.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Practical Information
 

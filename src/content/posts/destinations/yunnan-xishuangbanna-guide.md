@@ -26,6 +26,8 @@ This is one of the most surprising regions in the country. The combination of ge
 
 ## Jinghong City: The Gateway
 
+![Xishuangbanna Yunnan — Jinghong City: The Gateway](https://images.pexels.com/photos/12793459/pexels-photo-12793459.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 Xishuangbanna's capital, Jinghong (景洪), sits on the Mekong River — called the Lancang River (澜沧江) in China — and has a relaxed, slightly tropical atmosphere unlike any other Chinese prefecture capital. The streets are lined with palm trees, the food is dominated by Dai flavors, and Buddhist temple complexes rise above the riverside parks.
 
 ### Manting Park (曼听公园)
@@ -59,6 +61,8 @@ Located in Mengla County, about 90 km east of Jinghong, the Xishuangbanna Tropic
 The "Treetop Walkway" (树冠走廊) is a suspended bridge system through the forest canopy at 20 metres height — one of the best in any tropical garden in the world.
 
 **Tickets:** ¥80 ($11). Open daily 07:30–18:00. Budget a full day.
+
+![Xishuangbanna Yunnan — Dai Minority Culture and Villages](https://images.pexels.com/photos/34439498/pexels-photo-34439498.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Dai Minority Culture and Villages
 
@@ -99,6 +103,8 @@ Dai cuisine is distinctive in the Chinese context: herb-heavy, fish-sauce-flavou
 - **Pu-erh tea:** Drink it throughout the day as locals do
 
 **Where to eat:** Manting Road in Jinghong has the highest concentration of Dai restaurants. A full dinner for two costs ¥80–¥150 ($11–$21).
+
+![Xishuangbanna Yunnan — Getting to Xishuangbanna](https://images.pexels.com/photos/16030624/pexels-photo-16030624.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting to Xishuangbanna
 

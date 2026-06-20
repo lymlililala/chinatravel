@@ -12,7 +12,7 @@ tags:
   - monastery
   - nature
 description: "Shangri-La (formerly Zhongdian) in northwestern Yunnan is China's most accessible Tibetan cultural destination — a high-altitude town at 3,300m where Tibetan monasteries, yak butter tea houses, and genuine highland culture coexist with comfortable tourism infrastructure. This 2026 complete guide covers Songzanlin Monastery, Napa Lake, the old town, and realistic tips for planning your visit."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/8936981/pexels-photo-8936981.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -24,6 +24,8 @@ And yet. The Songzanlin Monastery is genuinely magnificent. Napa Lake at dawn in
 This guide is intended to help you find the best version of Shangri-La: the early mornings before tour groups arrive, the trails that most visitors skip, the family-run tea houses where the butter tea is actually good.
 
 ## Getting to Shangri-La
+
+![Shangri — Getting to Shangri-La](https://images.pexels.com/photos/5186422/pexels-photo-5186422.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### By Air
 Shangri-La Diqing Airport (香格里拉迪庆机场, IATA: DIG) is served by direct flights from:
@@ -82,6 +84,8 @@ Walk the circumambulation path (clockwise) around the monastery. About 45 minute
 ### Photography
 The monastery rewards early arrival. Come at opening (8am) before tour groups. The light from the east hits the golden rooftops from about 9am. The reflection in the lake below is best in late afternoon.
 
+![Shangri — Napa Lake (纳帕海)](https://images.pexels.com/photos/33970873/pexels-photo-33970873.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Napa Lake (纳帕海)
 
 Napa Lake is a seasonal lake at 3,260m that transforms with the seasons. In summer it's a large shallow lake; in winter and early spring the water level drops and the surrounding flatlands turn into wetland meadows.
@@ -124,6 +128,8 @@ A half-day trip (15km from the Old Town). Cable car available (¥160 round trip)
 
 ### Tiger Leaping Gorge Entry Point
 Hike or bus to Qiaotou (桥头) about 60km away — this is where most Tiger Leaping Gorge hikes begin. The combination of Shangri-La and Tiger Leaping Gorge in one trip is very popular. Budget an extra day.
+
+![Shangri — Day Trip: Deqin and Meili Snow Mountains](https://images.pexels.com/photos/36879434/pexels-photo-36879434.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day Trip: Deqin and Meili Snow Mountains
 

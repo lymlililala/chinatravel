@@ -12,7 +12,7 @@ tags:
   - stone-forest
   - ethnic-culture
 description: "Kunming, China's Spring City, enjoys perfect weather year-round and serves as the gateway to Yunnan's incredible diversity. This 2026 three-day itinerary covers the spectacular Stone Forest (Shilin), the ethnic minority markets of Dongfeng Square, Green Lake Park's flower culture, and the best places to taste the extraordinary breadth of Yunnan cuisine — from Crossing the Bridge noodles to wild mushroom hot pot."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=85"
+ogImage: "https://images.pexels.com/photos/34628212/pexels-photo-34628212.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 ## Table of contents
@@ -22,6 +22,8 @@ Kunming (昆明) is called the "Spring City" (春城) because its elevation of 1
 The city itself is a useful base more than a destination — though it does have genuine sights — and its role as the capital of Yunnan Province means it concentrates the extraordinary ethnic and culinary diversity of one of China's most fascinating regions. If you're curious about Yi, Bai, Naxi, or any of Yunnan's 25 official ethnic minority groups, some version of their culture is accessible in Kunming.
 
 ## Day 1: Kunming City — Green Lake, Old Muslim District, Yunnan University
+
+![Kunming — Day 1: Kunming City — Green Lake, Old Muslim District, Yunnan University](https://images.pexels.com/photos/12671692/pexels-photo-12671692.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### Morning: Green Lake Park (翠湖公园) (7:30–10:00am)
 
@@ -59,6 +61,8 @@ Kunming's commercial center has excellent evening food markets. The covered nigh
 - Wild mushroom soup (野生菌汤): Yunnan's wild mushrooms are world-class. ¥35–60 for a simple mushroom soup.
 - Fried Yunnan goat cheese (煎乳饼): ¥15–25
 - Yi people roasted corn (彝族烤玉米): ¥5–8 — street snack, outstanding
+
+![Kunming — Day 2: Stone Forest (石林) — Full Day Excursion](https://images.pexels.com/photos/36907620/pexels-photo-36907620.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day 2: Stone Forest (石林) — Full Day Excursion
 
@@ -98,6 +102,8 @@ Return to Shilin Town for lunch before the afternoon stone forest visit:
 ### Afternoon: Return and Evening
 
 Return bus from Shilin to Kunming, arriving around 5:30–6pm. Use the evening for exploring the Fuxing Road (复兴路) night snack area or simply rest after the day trip.
+
+![Kunming — Day 3: Cultural Depth — Bamboo Temple, Dianchi Lake, Ethnic Market](https://images.pexels.com/photos/6437402/pexels-photo-6437402.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day 3: Cultural Depth — Bamboo Temple, Dianchi Lake, Ethnic Market
 

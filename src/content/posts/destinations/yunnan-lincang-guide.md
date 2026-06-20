@@ -61,6 +61,8 @@ Mengku (勐库镇), about 2 hours from Lincang city, contains one of the most ac
 **The World's Oldest Tea Tree:**
 Near Xiaowan Township (小湾镇), a single tree widely identified as the world's oldest known cultivated tea specimen stands in a fenced enclosure on a private farm. Estimated at over 3,200 years old by ring analysis, it's still productive — its annual spring harvest yields a few kilograms of extraordinarily valuable leaves. A visit here is less visually dramatic than Mengku's forest but has a different kind of significance.
 
+![Lincang Yunnan — Zhenyuan and Limen Tea Mountains](https://images.pexels.com/photos/6130781/pexels-photo-6130781.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Zhenyuan and Limen Tea Mountains
 
 **Zhenyuan County (镇沅彝族哈尼族拉祜族自治县):**
@@ -83,6 +85,8 @@ The Wa people of Ximeng County (西盟佤族自治县) in western Lincang repres
 
 **Wa villages:**
 The villages around Ximeng still have traditional longhouse architecture and many women wear distinctive costumes with colorful beaded jewelry. Photography is welcomed with permission; a small gift or purchase from village craft sellers is appropriate.
+
+![Lincang Yunnan — De'ang Minority Villages](https://images.pexels.com/photos/31226849/pexels-photo-31226849.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## De'ang Minority Villages
 

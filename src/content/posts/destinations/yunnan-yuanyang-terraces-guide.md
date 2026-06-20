@@ -1,6 +1,7 @@
 ---
 title: "Yuanyang Rice Terraces: Complete Photography & Travel Guide"
 description: "Everything about visiting Yuanyang's famous Hani rice terraces in Yunnan — best viewpoints, sunrise and sunset photography spots, when the terraces flood (October-April), Hani village life, and practical logistics."
+ogImage: "https://images.pexels.com/photos/37134853/pexels-photo-37134853.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/yuanyang-terraces.jpg"
 category: "destinations"
@@ -15,6 +16,8 @@ The Yuanyang rice terraces (元阳梯田) in southern Yunnan's Honghe Hani and Y
 What makes Yuanyang uniquely photogenic is the seasonal flooding of the terraces. From October through April, the fields are flooded (water is introduced before rice planting), creating a vast stepped mirror reflecting the sky. The colors shift from the pre-dawn pink and gold through morning blue and silver to afternoon green and bronze. In the evening mist, the flooded terraces create abstract patterns that challenge the ability of any camera to do justice.
 
 This guide covers how to experience this landscape at its best, with attention to photography conditions, village culture, and practical logistics.
+
+![Yuanyang Rice Terraces — Understanding the Landscape](https://images.pexels.com/photos/37169885/pexels-photo-37169885.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Understanding the Landscape
 
@@ -49,6 +52,8 @@ Less visited than the main cluster; excellent for afternoon and sunset light hit
 
 Arguably the most dramatic of all viewpoints — looking down at a deep valley of terraces from a high ridge. The scale here is extreme; you're looking down hundreds of meters at terraces extending to the valley floor. Less foggy than Duoyishu; better for clear-weather panoramic shots.
 
+![Yuanyang Rice Terraces — The Hani Villages](https://images.pexels.com/photos/37169881/pexels-photo-37169881.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The Hani Villages
 
 Three main villages are integrated into the scenic area and offer cultural context for the terrace landscape:
@@ -68,6 +73,8 @@ The Hani (also called Akha in Myanmar and Southeast Asia) are one of Yunnan's 26
 **Festivals**: The major Hani festival is the Harvest Festival (矻扎扎, Kùzhāzhā), held in June after the rice is planted. The Long Table Banquet (长街宴) — where the entire village shares a communal meal along a table stretching hundreds of meters — is one of China's most visually remarkable folk customs.
 
 **Daily life**: The agricultural calendar dominates Hani daily life. The terrace-related work schedule is: October-November (flooding terraces for the winter), December-March (most photogenic flooded period), April-May (planting), June-September (growing season, green terraces).
+
+![Yuanyang Rice Terraces — Photography Practical Guide](https://images.pexels.com/photos/11962355/pexels-photo-11962355.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Photography Practical Guide
 
