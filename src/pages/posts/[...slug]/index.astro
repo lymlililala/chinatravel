@@ -120,13 +120,20 @@ const ogImage = ogImageUrl
   ? new URL(ogImageUrl, Astro.url.origin).href
   : undefined;
 
+// SEO <title>: only append the brand suffix when the combined length still
+// fits within Google's ~60-char SERP cutoff. Long guide titles (most posts)
+// are left untouched so their tail keywords aren't truncated away.
+const brandSuffix = ` | ${config.site.title}`;
+const seoTitle =
+  title.length + brandSuffix.length <= 60 ? `${title}${brandSuffix}` : title;
+
 // Estimate reading time
 const wordCount = post.body?.split(/\s+/).length ?? 0;
 const readingTime = Math.ceil(wordCount / 200);
 ---
 
 <PostLayout
-  title={`${title} | ${config.site.title}`}
+  title={seoTitle}
   description={description}
   ogImage={ogImage}
   canonicalURL={canonicalURL}
