@@ -33,6 +33,14 @@ const rssHref = getRelativeLocaleUrl(
   "rss.xml"
 );
 
+// og:locale wants `language_TERRITORY` (e.g. en_US). Map bare language codes
+// to a sensible default territory; pass through codes that already include one.
+const ogLocaleMap: Record<string, string> = { en: "en_US" };
+const rawLocale = Astro.currentLocale ?? config.site.lang;
+const ogLocale = rawLocale.includes("-")
+  ? rawLocale.replace("-", "_")
+  : (ogLocaleMap[rawLocale] ?? rawLocale);
+
 // Sitewide Organization + WebSite structured data (E-E-A-T / brand signals)
 const siteUrl = config.site.url.replace(/\/$/, "");
 const orgSchema = {
@@ -114,6 +122,7 @@ const orgSchema = {
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonicalURL} />
     <meta property="og:image" content={socialImageURL} />
+    <meta property="og:locale" content={ogLocale} />
 
     <!-- Twitter / X -->
     <meta property="twitter:card" content="summary_large_image" />

@@ -9,6 +9,7 @@ type Props = {
   canonicalURL?: string;
   pubDatetime?: Date;
   modDatetime?: Date | null;
+  tags?: string[];
   faq?: { question: string; answer: string }[];
 };
 
@@ -21,16 +22,24 @@ const {
   canonicalURL,
   pubDatetime,
   modDatetime,
+  tags,
   faq,
 } = Astro.props;
+
+const siteUrl = site.url.replace(/\/$/, "");
 
 const structuredData = {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
   headline: title ?? site.title,
+  ...(description && { description }),
   image: ogImage,
+  ...(canonicalURL && {
+    mainEntityOfPage: { "@type": "WebPage", "@id": canonicalURL },
+  }),
   ...(pubDatetime && { datePublished: pubDatetime.toISOString() }),
   ...(modDatetime && { dateModified: modDatetime.toISOString() }),
+  ...(tags && tags.length && { keywords: tags.join(", ") }),
   author: [
     {
       "@type": "Person",
@@ -38,6 +47,15 @@ const structuredData = {
       ...(site.profile && { url: site.profile }),
     },
   ],
+  publisher: {
+    "@type": "Organization",
+    "@id": `${siteUrl}/#organization`,
+    name: site.title,
+    logo: {
+      "@type": "ImageObject",
+      url: `${siteUrl}/${site.ogImage}`,
+    },
+  },
 };
 
 const faqStructuredData =
