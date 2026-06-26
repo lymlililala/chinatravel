@@ -95,3 +95,24 @@ if (!NO_BODY) {
 const toWrite = NO_BODY ? recs : recs.filter(r => r.body_text)
 const written = await upsertSources(toWrite)
 console.log(`\n写入 wx_sources：${written} 篇（本次新发现 ${recs.length}，拉正文 ${bodyCount}），余额 ${cimi.balance}`)
+
+// 本次新入库源文的发布日期分布（按 published_at 看“有没有/有多新的”新文章加入）
+function ymd(v) {
+  const t = v ? new Date(v).getTime() : NaN
+  return Number.isNaN(t) ? null : new Date(t).toISOString().slice(0, 10)
+}
+if (toWrite.length) {
+  const byDay = {}
+  let min = null, max = null
+  for (const r of toWrite) {
+    const d = ymd(r.published_at)
+    if (!d) continue
+    byDay[d] = (byDay[d] || 0) + 1
+    if (!min || d < min) min = d
+    if (!max || d > max) max = d
+  }
+  const dist = Object.keys(byDay).sort().reverse().map(d => `${d}×${byDay[d]}`).join('  ')
+  console.log(`本次新入库发布日期：${min} ～ ${max}  |  ${dist}`)
+} else {
+  console.log('本次无新文章入库。')
+}
