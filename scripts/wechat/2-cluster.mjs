@@ -66,7 +66,15 @@ const out = await ds.chatJSON(
   { maxTokens: 4000 }
 )
 
-const clusters = (out.clusters || []).filter(c => Array.isArray(c.source_ids) && c.source_ids.length >= 2)
+// 可观测性：0 簇时区分“模型返回空”“被过滤砍光”“结构异常”，避免静默退出甩锅给下游。
+const rawClusters = Array.isArray(out.clusters) ? out.clusters : []
+const clusters = rawClusters.filter(c => Array.isArray(c.source_ids) && c.source_ids.length >= 2)
+const dropped = rawClusters.length - clusters.length
+if (dropped > 0) console.log(`⚠️  模型返回 ${rawClusters.length} 簇，过滤掉 ${dropped} 簇（source_ids 不足 2 篇）`)
+if (clusters.length === 0) {
+  if (!Array.isArray(out.clusters)) console.log(`⚠️  模型返回结构异常，无 clusters 数组。顶层 keys: ${Object.keys(out).join(', ')}`)
+  console.log('⚠️  0 簇。模型原始返回（前 800 字）：', JSON.stringify(out).slice(0, 800))
+}
 // 回填源文引用（sn / title），供下一步取全文
 for (const c of clusters) {
   c.sources = c.source_ids.map(id => sources[id]).filter(Boolean).map(s => ({ sn: s.sn, account: s.account, title: s.title }))
