@@ -143,8 +143,9 @@ function buildFrontmatter({ title, description, pubDatetime, tags, ogImage, faq,
 
 const DRAFTS = join(DATA_DIR, 'drafts.json')
 const OUT = join(DATA_DIR, 'published.json')
-if (!existsSync(DRAFTS)) { console.error('缺少 drafts.json，先跑 3-synthesize.mjs'); process.exit(1) }
-const drafts = JSON.parse(readFileSync(DRAFTS, 'utf8'))
+// 安静的夜（当晚 0 簇 → 0 草稿）是合法的空操作，不应让整条夜次流水线失败。
+const drafts = existsSync(DRAFTS) ? JSON.parse(readFileSync(DRAFTS, 'utf8')) : []
+if (!drafts.length) { console.log('drafts.json 为空（本次无新主题簇），跳过发布。'); process.exit(0) }
 
 const ds = new DeepSeek()
 const finder = new ImageFinder()

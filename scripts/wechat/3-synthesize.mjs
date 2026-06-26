@@ -132,6 +132,9 @@ for (const c of clusters) {
   }
 }
 
+// 无条件落盘：簇为 0 时上面的循环不会执行，drafts.json 也就从未写过，
+// 下游 4-publish.mjs 会误报“缺少 drafts.json”。这里兜底，保证文件始终存在（哪怕空数组）。
+writeFileSync(OUT, JSON.stringify(drafts, null, 2))
 console.log(`\n已写入 ${OUT}（共 ${drafts.length} 篇草稿，本次判重跳过 ${skippedDup}）`)
 console.log('用量:', ds.costEstimate())
 console.log('⚠️  抽查 drafts.json 1-2 篇（原创度/英文质量/frontmatter/FAQ/字数），再跑 4-publish.mjs')
