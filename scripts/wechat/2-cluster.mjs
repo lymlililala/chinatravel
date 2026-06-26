@@ -61,20 +61,32 @@ Return ONLY JSON:
 }]}`
 
 console.log(`对 ${list.length} 篇源文聚类（最多 ${MAX_CLUSTERS} 簇）…`)
-const out = await ds.chatJSON(
-  [{ role: 'system', content: sys }, { role: 'user', content: JSON.stringify(list) }],
-  { maxTokens: 4000 }
-)
 
-// 可观测性：0 簇时区分“模型返回空”“被过滤砍光”“结构异常”，避免静默退出甩锅给下游。
-const rawClusters = Array.isArray(out.clusters) ? out.clusters : []
-const clusters = rawClusters.filter(c => Array.isArray(c.source_ids) && c.source_ids.length >= 2)
-const dropped = rawClusters.length - clusters.length
-if (dropped > 0) console.log(`⚠️  模型返回 ${rawClusters.length} 簇，过滤掉 ${dropped} 簇（source_ids 不足 2 篇）`)
-if (clusters.length === 0) {
-  if (!Array.isArray(out.clusters)) console.log(`⚠️  模型返回结构异常，无 clusters 数组。顶层 keys: ${Object.keys(out).join(', ')}`)
-  console.log('⚠️  0 簇。模型原始返回（前 800 字）：', JSON.stringify(out).slice(0, 800))
+// 单次聚类：调用 + 过滤 + 诊断。返回过线的簇数组（可能为空）。
+async function clusterOnce(temperature) {
+  const out = await ds.chatJSON(
+    [{ role: 'system', content: sys }, { role: 'user', content: JSON.stringify(list) }],
+    { maxTokens: 4000, temperature }
+  )
+  // 可观测性：0 簇时区分“模型返回空”“被过滤砍光”“结构异常”，避免静默退出甩锅给下游。
+  const rawClusters = Array.isArray(out.clusters) ? out.clusters : []
+  const passed = rawClusters.filter(c => Array.isArray(c.source_ids) && c.source_ids.length >= 2)
+  const dropped = rawClusters.length - passed.length
+  if (dropped > 0) console.log(`⚠️  模型返回 ${rawClusters.length} 簇，过滤掉 ${dropped} 簇（source_ids 不足 2 篇）`)
+  if (passed.length === 0) {
+    if (!Array.isArray(out.clusters)) console.log(`⚠️  模型返回结构异常，无 clusters 数组。顶层 keys: ${Object.keys(out).join(', ')}`)
+    console.log('⚠️  0 簇。模型原始返回（前 800 字）：', JSON.stringify(out).slice(0, 800))
+  }
+  return passed
 }
+
+// LLM 聚类偶发“每簇仅 1 篇源文”被全过滤的情况（#11）。0 簇时换更高 temperature 重试一次。
+let clusters = await clusterOnce(0.2)
+if (clusters.length === 0) {
+  console.log('\n↻ 首次 0 簇，换 temperature=0.7 重试一次 …')
+  clusters = await clusterOnce(0.7)
+}
+
 // 回填源文引用（sn / title），供下一步取全文
 for (const c of clusters) {
   c.sources = c.source_ids.map(id => sources[id]).filter(Boolean).map(s => ({ sn: s.sn, account: s.account, title: s.title }))
