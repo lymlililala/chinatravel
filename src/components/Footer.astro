@@ -3,6 +3,7 @@ import type { HTMLAttributes } from "astro/types";
 import { useTranslations } from "@/i18n";
 import { getRelativeLocaleUrl } from "astro:i18n";
 import Socials from "@/components/Socials.astro";
+import { getAssetPath } from "@/utils/withBase";
 
 type Props = {
   noMarginTop?: boolean;
@@ -57,10 +58,14 @@ const footerLinks = {
         <div class="sm:col-span-2 lg:col-span-2">
           <!-- Logo -->
           <div class="mb-4 flex items-center gap-2">
-            <span
-              class="flex size-8 items-center justify-center rounded-lg bg-accent text-white text-sm font-black"
+            <img
+              src={getAssetPath("favicon.svg")}
+              alt=""
               aria-hidden="true"
-            >旅</span>
+              width="32"
+              height="32"
+              class="size-8 rounded-lg"
+            />
             <span
               class="text-lg font-extrabold text-foreground"
               style="font-family: var(--font-playfair), Georgia, serif; letter-spacing: -0.02em;"

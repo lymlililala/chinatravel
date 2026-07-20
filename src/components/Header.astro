@@ -8,7 +8,7 @@ import IconSearch from "@/assets/icons/IconSearch.svg";
 import IconMoon from "@/assets/icons/IconMoon.svg";
 import IconX from "@/assets/icons/IconX.svg";
 import LinkButton from "./LinkButton.astro";
-import { stripBase, stripLocale } from "@/utils/withBase";
+import { stripBase, stripLocale, getAssetPath } from "@/utils/withBase";
 import { useTranslations } from "@/i18n";
 import config from "@/config";
 
@@ -60,13 +60,15 @@ const isHomepage = currentPath === "/" || currentPath === "";
       href={getRelativeLocaleUrl(locale, "")}
       class="group flex items-center gap-1 py-1 leading-none whitespace-nowrap transition-all duration-200 hover:opacity-90"
     >
-      <!-- Logo mark — stylised Chinese lantern -->
-      <span
-        class="mr-1 flex size-7 items-center justify-center rounded-lg bg-accent text-white text-xs font-black transition-transform duration-300 group-hover:scale-110 group-hover:rotate-3"
+      <!-- Logo mark — site favicon (mountain & sun seal) -->
+      <img
+        src={getAssetPath("favicon.svg")}
+        alt=""
         aria-hidden="true"
-      >
-        旅
-      </span>
+        width="28"
+        height="28"
+        class="mr-1 size-7 rounded-lg transition-transform duration-300 group-hover:scale-110 group-hover:rotate-3"
+      />
       <span
         class="text-lg font-extrabold leading-none header-logo-text transition-colors"
         style="font-family: var(--font-playfair), Georgia, serif; letter-spacing: -0.02em;"
