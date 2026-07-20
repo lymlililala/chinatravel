@@ -396,10 +396,10 @@ const isHomepage = currentPath === "/" || currentPath === "";
   }
 
   /* Solid state (scrolled / non-homepage) */
-  :not(.header-transparent) .header-logo-text {
+  #site-header:not(.header-transparent) .header-logo-text {
     color: var(--foreground);
   }
-  :not(.header-transparent) .header-nav-text {
+  #site-header:not(.header-transparent) .header-nav-text {
     color: var(--muted-foreground);
   }
 </style>
