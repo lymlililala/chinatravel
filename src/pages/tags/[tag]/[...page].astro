@@ -188,9 +188,85 @@ const isDestinationTag = Boolean(destMeta);
 
 // Thumbnail for the hero image
 const heroImage = destMeta?.heroImage ?? "/destinations/shanghai.jpg";
+
+// ── Per-tag SEO meta ──
+// Proper display names for destination tags (frontmatter tags are lowercase
+// slugs like "beijing"); other tags get title-cased from their label.
+const tagDisplayNames: Record<string, string> = {
+  beijing: "Beijing",
+  shanghai: "Shanghai",
+  xian: "Xi'an",
+  chengdu: "Chengdu",
+  guilin: "Guilin",
+  hangzhou: "Hangzhou",
+  yunnan: "Yunnan",
+  tibet: "Tibet",
+  harbin: "Harbin",
+  jiuzhaigou: "Jiuzhaigou",
+};
+const displayName =
+  tagDisplayNames[tag ?? ""] ??
+  tagName.replace(/\b\w/g, ch => ch.toUpperCase());
+
+// Every tag page is its own search landing page: unique title/description
+// instead of duplicating the sitewide defaults (duplicate descriptions hurt
+// CTR and trigger GSC "duplicate meta description" reports).
+const articleCount = page.total;
+const seoTitle = isDestinationTag
+  ? `${displayName} Travel Guide: ${articleCount} Articles & Tips | ${config.site.title}`
+  : `${displayName} — ${articleCount} China Travel Guides & Tips | ${config.site.title}`;
+const seoDescription = isDestinationTag
+  ? `${destMeta.tagline}. Read ${articleCount} in-depth ${displayName} guides — visa tips, best time to visit, itineraries and local advice.`
+  : `Explore ${articleCount} in-depth China travel guides tagged "${displayName}" — practical tips, itineraries and local advice for international visitors.`;
+
+// JSON-LD: BreadcrumbList (Home › Destinations › Tag) so Google can render
+// the breadcrumb trail in the SERP, plus CollectionPage describing the
+// page's role. Destination tags additionally declare the Place they cover.
+const siteUrl = config.site.url.replace(/\/$/, "");
+const canonicalURL = new URL(Astro.url.pathname, Astro.site).href;
+const tagSchema = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      itemListElement: [
+        { "@type": "ListItem", position: 1, name: "Home", item: `${siteUrl}/` },
+        { "@type": "ListItem", position: 2, name: "Destinations", item: `${siteUrl}/tags/` },
+        { "@type": "ListItem", position: 3, name: displayName },
+      ],
+    },
+    {
+      "@type": "CollectionPage",
+      name: seoTitle,
+      description: seoDescription,
+      url: canonicalURL,
+      isPartOf: { "@id": `${siteUrl}/#website` },
+      ...(isDestinationTag
+        ? {
+            about: { "@type": "Place", name: displayName },
+            primaryImageOfPage: {
+              "@type": "ImageObject",
+              url: new URL(heroImage, Astro.site).href,
+            },
+          }
+        : {}),
+    },
+  ],
+};
 ---
 
-<Layout title={`${t.pages.tagTitle}: ${tagName} | ${config.site.title}`} noindex={noindex}>
+<Layout
+  title={seoTitle}
+  description={seoDescription}
+  ogImage={isDestinationTag ? heroImage : undefined}
+  noindex={noindex}
+>
+  <script
+    slot="head"
+    type="application/ld+json"
+    is:inline
+    set:html={JSON.stringify(tagSchema)}
+  />
   <Header />
 
   <main id="main-content">
@@ -201,7 +277,7 @@ const heroImage = destMeta?.heroImage ?? "/destinations/shanghai.jpg";
         <div class="relative overflow-hidden" style="min-height: 340px;">
           <img
             src={heroImage}
-            alt={tagName}
+            alt={displayName}
             class="absolute inset-0 h-full w-full object-cover"
             loading="eager"
           />
@@ -215,7 +291,7 @@ const heroImage = destMeta?.heroImage ?? "/destinations/shanghai.jpg";
               <svg xmlns="http://www.w3.org/2000/svg" class="h-3.5 w-3.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
               <a href={getRelativeLocaleUrl(locale, "tags")} class="transition-colors hover:text-white">Destinations</a>
               <svg xmlns="http://www.w3.org/2000/svg" class="h-3.5 w-3.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
-              <span class="text-white/85">{tagName}</span>
+              <span class="text-white/85">{displayName}</span>
             </nav>
 
             <!-- Title -->
@@ -225,7 +301,7 @@ const heroImage = destMeta?.heroImage ?? "/destinations/shanghai.jpg";
                 class="text-3xl font-extrabold text-white drop-shadow-lg sm:text-5xl"
                 style="font-family: var(--font-playfair), Georgia, serif; letter-spacing: -0.02em;"
               >
-                {tagName}
+                {displayName}
               </h1>
             </div>
             <p class="mb-6 max-w-2xl text-base text-white/80 sm:text-lg leading-relaxed">
