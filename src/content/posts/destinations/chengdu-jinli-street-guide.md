@@ -1,17 +1,27 @@
 ---
-title: "Chengdu Jinli Ancient Street: Complete Visitor Guide 2026"
-description: "Everything you need to know about Jinli Ancient Street in Chengdu — what to eat, what to buy, best times to visit, how to avoid tourist traps, and nearby Wuhou Shrine. Authentic guide with local tips."
+title: "Jinli Ancient Street Chengdu: Opening Hours & Visitor Guide 2026"
+description: "Jinli Ancient Street in Chengdu: opening hours (8 AM–10 PM, free entry), the best Sichuan street food, Wuhou Shrine tips, and how to get there by metro."
 ogImage: "https://images.pexels.com/photos/33125089/pexels-photo-33125089.png?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-15T08:00:00Z
+modDatetime: 2026-07-20T10:00:00Z
 heroImage: "/destinations/chengdu-jinli.jpg"
 category: "destinations"
-tags: ["Chengdu", "Jinli", "street food", "Sichuan culture", "shopping"]
+tags: ["Chengdu", "Jinli", "Jinli Ancient Street", "street food", "Sichuan culture", "shopping"]
 author: "RoamChina Travel"
+faq:
+  - question: "What are Jinli Ancient Street's opening hours?"
+    answer: "Jinli is an open pedestrian street with no gate or ticket, so you can walk in at any hour. In practice the shops and food stalls operate from around 8:00 AM to 10:00 PM, and the street is at its best in the evening when the red lanterns are lit."
+  - question: "Is Jinli Ancient Street free to enter?"
+    answer: "Yes — entry to Jinli Ancient Street is completely free and no ticket is required. You only pay for food, shopping, and activities like the Sichuan opera teahouses (¥80–200). The adjacent Wuhou Shrine charges a separate ¥50 admission."
+  - question: "What is Jinli Street famous for?"
+    answer: "Jinli is famous as Chengdu's best-known heritage street: Sichuan street food such as rabbit head, dan dan noodles, and tangyuan, Shu embroidery and opera-mask souvenirs, and the red-lantern evening atmosphere next to the historic Wuhou Shrine."
+  - question: "How do I get to Jinli Ancient Street?"
+    answer: "Take Chengdu Metro Line 3 to Gaoshengqiao (高升桥) station and walk about 10 minutes. A taxi or DiDi from central Chengdu costs ¥15–25. The street sits immediately adjacent to the Wuhou Shrine."
 ---
 
 # Chengdu's Jinli Street: Ancient Commerce, Modern Tourism
 
-Jinli (锦里, Jǐn Lǐ) — "Brocade Lane" — is one of Chengdu's most famous tourist streets, adjacent to the Wuhou Shrine. Over a thousand years ago, Jinli was allegedly one of the busiest commercial streets in the Shu Kingdom (221-263 CE), though the current incarnation is a 2004 reconstruction. The debate about "authenticity" matters less than the experience: Jinli is genuinely fun, visually beautiful, and offers some legitimately good Sichuan food alongside the tourist souvenirs.
+Jinli Ancient Street (锦里, Jǐn Lǐ) — "Brocade Lane" — is one of Chengdu's most famous tourist streets, adjacent to the Wuhou Shrine. Over a thousand years ago, Jinli was allegedly one of the busiest commercial streets in the Shu Kingdom (221-263 CE), though the current incarnation is a 2004 reconstruction. The debate about "authenticity" matters less than the experience: Jinli is genuinely fun, visually beautiful, and offers some legitimately good Sichuan food alongside the tourist souvenirs.
 
 Understanding Jinli requires calibrating expectations. This is a curated, commercial heritage street — it's not a living community. But the architecture is well-executed, the food quality is often surprisingly good, and the atmosphere on a winter evening with lanterns lit creates a particular magic that photographs barely capture.
 
@@ -95,6 +105,14 @@ Visiting Jinli specifically in the early evening (5-8 PM) offers a qualitatively
 
 **Sichuan Opera Teahouse**: Several teahouses in Jinli offer abbreviated Sichuan opera performances (1-1.5 hours) including face-changing (变脸), fire-breathing, and shadow puppetry. Ticket prices range from ¥80-200, with tea included. Not as complete as a full performance at the Jinsha or Shufeng Yayun theaters, but the setting within a traditional teahouse is its own charm.
 
+## Jinli Ancient Street Opening Hours
+
+Jinli Ancient Street is an open pedestrian street with no entrance gate or ticket — you can walk in freely at any hour. In practice, the street comes alive around 8:00 AM when the food stalls and shops open, and winds down around 10:00 PM when most businesses close for the night.
+
+Individual shops, teahouses, and restaurants keep their own hours, generally 9:00 AM – 9:30 PM. The adjacent Wuhou Shrine is separately ticketed (¥50) and keeps shorter hours — 8:00 AM – 6:00 PM in summer, 8:00 AM – 5:00 PM in winter.
+
+For the best experience, arrive in the late afternoon and stay past sunset. The red lanterns are lit every evening, and the street is at its most atmospheric between 5 and 8 PM.
+
 ## Practical Information
 
 **Getting There**:
@@ -102,7 +120,7 @@ Visiting Jinli specifically in the early evening (5-8 PM) offers a qualitatively
 - Or Line 1/3 to Tianfu Square, then change to Line 3
 - Taxi from Chengdu center: ¥15-25
 
-**Opening Hours**: Jinli itself is an open street — the gates open around 8 AM and close around 10 PM. Individual businesses have their own hours.
+**Opening Hours**: Jinli itself is an open street with no ticket — shops and stalls operate roughly 8 AM to 10 PM. Individual businesses have their own hours.
 
 **Best Time to Visit**:
 - Weekday mornings (8-11 AM): Quieter, better for photography

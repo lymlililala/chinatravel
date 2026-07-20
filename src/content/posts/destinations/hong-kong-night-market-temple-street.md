@@ -1,15 +1,27 @@
 ---
-title: "Hong Kong Temple Street Night Market: Fortune Tellers, Street Opera & Best Stalls"
-description: "Navigate Hong Kong's most famous night market on Temple Street in Jordan — from fortune tellers and Cantonese opera singers to the best seafood stalls, jade market at Man Ming Lane, and the authentic working-class Kowloon neighbourhood it inhabits."
+title: "Temple Street Night Market Hong Kong: Stalls, Opera & Food"
+description: "Temple Street Night Market in Hong Kong: stalls, fortune tellers, dai pai dong and Cantonese opera in Jordan, Kowloon. Opening hours, location and what to buy."
 ogImage: "https://images.pexels.com/photos/2481626/pexels-photo-2481626.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
+modDatetime: 2026-07-20T10:00:00Z
 destination: "Hong Kong"
-tags: ["hong-kong", "temple-street", "night-market", "jordan", "kowloon", "fortune-tellers", "cantonese-opera", "seafood", "jade-market"]
+tags: ["hong-kong", "temple-street", "night-market", "hong-kong-night-market", "jordan", "kowloon", "fortune-tellers", "cantonese-opera", "seafood", "jade-market", "dai-pai-dong"]
+faq:
+  - question: "Where is Temple Street Night Market in Hong Kong?"
+    answer: "Temple Street Night Market runs along Temple Street in the Jordan–Yau Ma Tei area of Kowloon, Hong Kong, stretching roughly 600 metres from Jordan Road to Kansu Street. Take the MTR to Jordan Station and use Exit A or D — the market entrance is a two-minute walk."
+  - question: "What time does Temple Street Night Market open and close?"
+    answer: "Stalls begin setting up around 14:00–16:00, the market is in full swing by 18:30–19:00, and most stalls stay open until 23:00–00:00. The best window for atmosphere without weekend crowds is 19:00–21:00 on a weeknight."
+  - question: "What can you buy at Temple Street Night Market?"
+    answer: "The stalls sell electronics accessories, watches, lighters, tools, clothing and shoes, with price negotiation expected — start around 60% of the first quoted price. At the northern end, the Jade Market offers jade, gemstones and amber; stick to inexpensive pieces unless you can assess jade quality yourself."
+  - question: "Where are the best dai pai dong near Temple Street?"
+    answer: "The most authentic dai pai dong clusters sit on Jordan Road and on the side streets between Temple Street and Nathan Road, serving char siu pork, roasted goose, wonton soup and stir-fried noodles for roughly ¥60–¥100 per person. The open-air seafood restaurants between Temple Street and the waterfront are also excellent."
+  - question: "Are the Temple Street fortune tellers worth visiting?"
+    answer: "Yes, if you choose carefully — the tellers on Fortune Tellers' Row range from decades-long practitioners to quick tourist operations, so ask whether they speak your language before sitting down. Expect to pay ¥150–¥350 for a face or palm reading and ¥300–¥600 for a full Ba Zi birth-chart analysis."
 ---
 
 # Hong Kong Temple Street Night Market: Complete Guide
 
-As the light fades over the Kowloon peninsula, Temple Street transforms. What was a quiet residential road becomes, between roughly 16:00 and 23:00, the most atmospheric **night market in Hong Kong** — a long, awning-covered lane of stalls selling everything from fake designer goods to handmade leather belts, surrounded by fortune tellers reading palms and birth charts, and periodically interrupted by impromptu performances of **Cantonese opera** that attract circles of elderly men and their folding stools.
+As the light fades over the Kowloon peninsula, the Temple Street Night Market comes alive. What was a quiet residential road becomes, between roughly 16:00 and 23:00, the most atmospheric night market in Hong Kong — a long, awning-covered lane of stalls selling everything from fake designer goods to handmade leather belts, surrounded by fortune tellers reading palms and birth charts, and periodically interrupted by impromptu performances of **Cantonese opera** that attract circles of elderly men and their folding stools.
 
 Temple Street is genuinely working-class Kowloon in a way that Mong Kok's Ladies' Market and Sham Shui Po's electronic bazaars are not — it has edge, character, and the specific atmosphere of a community that has organised its commercial life around the street for generations.
 
@@ -27,7 +39,7 @@ Today the gender distinction has largely faded, though the market retains a masc
 
 ---
 
-## Getting There and When to Go
+## Temple Street Night Market Location: How to Get There & Opening Hours
 
 **MTR:** Jordan Station (荔枝角 MTR Line); Exit A or D leads directly to Temple Street (2-minute walk).
 
@@ -39,7 +51,7 @@ Today the gender distinction has largely faded, though the market retains a masc
 
 ![Hong Kong Temple Street Night Market — The Market: What to Find and Where](https://images.pexels.com/photos/34009126/pexels-photo-34009126.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
-## The Market: What to Find and Where
+## The Stalls: What to Buy at Temple Street Night Market
 
 Temple Street runs north from Jordan Road to Kansu Street, roughly 600 metres. The character changes as you move north:
 

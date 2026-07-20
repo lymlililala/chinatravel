@@ -1,24 +1,26 @@
 ---
 author: Roam China Travel Editorial Team
 pubDatetime: 2025-05-10T08:00:00Z
-modDatetime: 2026-05-20T10:00:00Z
+modDatetime: 2026-07-20T10:00:00Z
 title: "Hainan Snorkeling and Diving Guide: Wuzhizhou Island, Xisha Reefs and Sanya's Marine World"
 faq:
   - question: "Where is the best snorkeling in Hainan?"
     answer: "Wuzhizhou Island, a short boat ride off Sanya, has Hainan's clearest water and best coral, making it the top snorkeling spot. Yalong Bay and the outer reefs near Sanya also offer decent visibility. For serious reef diving, the remote Xisha (Paracel) Islands are exceptional but require an organised cruise."
-  - question: "Can beginners snorkel and dive in Sanya?"
-    answer: "Yes. Wuzhizhou Island and West Island near Sanya run beginner-friendly snorkeling, try-dives and shallow guided dives with gear and instructors provided. No certification is needed for introductory dives, and snorkeling only requires basic swimming confidence."
-  - question: "When is the best time to snorkel in Hainan?"
+  - question: "Do I need to know how to dive to snorkel in Hainan?"
+    answer: "No. Snorkeling only requires basic swimming confidence, and gear is rented at all the main sites. Wuzhizhou Island and West Island near Sanya also run beginner-friendly try-dives and shallow guided dives with instructors — no certification needed for introductory dives."
+  - question: "What is the best season for snorkeling in Hainan?"
     answer: "October to April — Hainan's dry season — gives the calmest, clearest water and the most comfortable weather, which is why it's peak season. Visibility is good much of the year, but summer brings more humidity and the occasional typhoon, so check conditions before booking water activities."
-  - question: "How much does snorkeling at Wuzhizhou Island cost?"
-    answer: "You pay the island entry plus round-trip ferry, then water sports such as snorkeling, diving and the glass-bottom boat are charged separately on top. Buy the main ticket at the pier or online in advance and budget extra for the specific activities you want."
+  - question: "How much does snorkeling cost in Sanya?"
+    answer: "At Wuzhizhou Island you pay the island entry plus round-trip ferry (roughly ¥100–130 combined), then snorkeling gear hire (¥50–100) and other water sports are charged on top. Walk-in snorkeling at Dadonghai Bay is free if you bring your own mask."
 featured: false
 draft: false
 tags:
   - hainan
   - sanya
+  - snorkeling
+  - diving
   - destinations
-description: "A guide to diving and snorkeling around Hainan Island — the best sites near Sanya, how to reach Wuzhizhou Island, the coral gardens of the Xisha Islands, and what marine life to expect. For both beginners and certified divers."
+description: "Hainan snorkeling and diving guide: the best reefs near Sanya, Wuzhizhou Island ferry and costs, Xisha liveaboards, and the best season for clear water."
 ogImage: "https://images.pexels.com/photos/34839988/pexels-photo-34839988.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 

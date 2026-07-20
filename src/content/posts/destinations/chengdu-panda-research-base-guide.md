@@ -1,8 +1,8 @@
 ---
 author: Roam China Travel Editorial Team
 pubDatetime: 2026-05-01T08:00:00Z
-modDatetime: 2026-05-01T10:00:00Z
-title: "Chengdu Giant Panda Research Base Guide 2026: Tickets, Best Time & How to See Active Cubs"
+modDatetime: 2026-07-20T10:00:00Z
+title: "Chengdu Research Base of Giant Panda Breeding Guide 2026"
 featured: false
 draft: false
 tags:
@@ -11,7 +11,17 @@ tags:
   - sichuan
   - wildlife
   - china
-description: "The Chengdu Research Base of Giant Panda Breeding is the best place in the world to see giant pandas — over 200 animals in a semi-natural setting, including cubs that are genuinely playful in the morning hours. This guide covers when to go, how to book tickets, which enclosures to prioritise, and what to expect."
+  - panda-base
+description: "Chengdu Research Base of Giant Panda Breeding guide 2026: opening hours, ¥95 tickets, the best time to see active pandas and cubs, and how to get there."
+faq:
+  - question: "What are the Chengdu Panda Base opening hours in 2026?"
+    answer: "The base opens at 7:30 AM and closes at 6:00 PM in peak season (roughly March–November), with last entry around 5:00 PM. In winter it opens at 8:00 AM and closes at 5:30 PM. Arrive at opening time — the pandas are most active in the first two hours of the day."
+  - question: "How much are Chengdu Panda Base tickets?"
+    answer: "Standard adult admission is ¥95, with discounts for students, children, seniors, and disabled visitors. Book through the official WeChat mini-program or website at least 2–3 days ahead for weekends and holidays."
+  - question: "What is the best time of day to see active pandas?"
+    answer: "Between opening time and about 10 AM. Adult pandas eat their morning bamboo in the early hours and are mostly asleep by late morning; cubs stay playful slightly longer. On hot days over 30°C, many pandas retreat to indoor areas."
+  - question: "How do I get to the Chengdu Research Base of Giant Panda Breeding?"
+    answer: "Take Metro Line 3 to Panda Base station — about 40 minutes from the city centre, then a 15-minute walk to the entrance. A taxi or DiDi from central Chengdu costs ¥30–50 and takes 25–35 minutes. The base is about 10 km north of Tianfu Square."
 ogImage: "https://images.pexels.com/photos/31639676/pexels-photo-31639676.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
@@ -27,11 +37,21 @@ For most visitors, it's also the highlight of their Chengdu trip. Giant pandas a
 
 **Morning arrival is essential.** Giant pandas are most active in the early hours. By 10am, most adults have eaten their morning bamboo allocation and are sleeping. Cubs remain more active slightly longer, but by 11am the energy level drops significantly.
 
-**Arrive at 8am when the gates open.** This gives you approximately 90 minutes of peak activity before the crowds arrive and the pandas slow down.
+**Arrive when the gates open (7:30 AM in peak season, 8:00 AM in winter).** This gives you approximately 90 minutes of peak activity before the crowds arrive and the pandas slow down.
 
 **Temperature matters:** Giant pandas prefer cool weather. On hot summer days (over 30°C), many pandas retreat to air-conditioned indoor areas that have limited public viewing. Spring (March–May) and autumn (September–November) give the best combination of comfortable temperatures, active pandas, and manageable crowds.
 
 **February–April:** Prime time for cub viewing. Cubs born the previous year are usually 6–12 months old — mobile, playful, and curious. This is what you see on viral videos.
+
+## Opening Hours
+
+**Peak season (roughly March–November):** 7:30 AM – 6:00 PM, last entry around 5:00 PM.
+
+**Winter (roughly December–February):** 8:00 AM – 5:30 PM, last entry around 4:30 PM.
+
+These hours apply seven days a week, including most public holidays — but holiday crowds are intense, so an ordinary weekday is always the better visit. The ticket counters stop selling walk-up tickets about an hour before last entry, and online time slots can sell out on peak days.
+
+Timing matters more here than at almost any other attraction in Sichuan. The first two hours after the gates open are when the pandas eat, climb, and play; from late morning onwards you're largely photographing sleeping animals. If you can only manage an afternoon visit, the red panda area tends to stay livelier later in the day.
 
 ## Tickets & Booking
 

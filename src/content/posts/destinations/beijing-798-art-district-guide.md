@@ -1,7 +1,7 @@
 ---
 author: Roam China Travel Editorial Team
 pubDatetime: 2026-04-16T08:00:00Z
-modDatetime: 2026-05-20T10:00:00Z
+modDatetime: 2026-07-20T10:00:00Z
 title: "798 Art District Beijing: What to See, Best Galleries & How to Spend a Day"
 featured: false
 draft: false
@@ -11,17 +11,36 @@ tags:
   - contemporary culture
   - "798"
   - neighbourhoods
-description: "Your guide to Beijing's 798 Art District — the best galleries currently showing, public sculptures, cafés, and what makes this converted Bauhaus factory complex worth visiting in 2026."
+  - 798 art zone
+  - factory 798
+description: "798 Art District Beijing guide 2026: opening hours, best galleries, tickets, and how to reach the Factory 798 art zone, plus cafés and tips."
 ogImage: "https://images.pexels.com/photos/34939606/pexels-photo-34939606.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+faq:
+  - question: "What are the 798 Art District opening hours?"
+    answer: "The district's streets and outdoor sculpture are open around the clock. Most galleries open 10:00 AM–6:00 PM and are closed on Mondays, with last entry often 30 minutes before closing."
+  - question: "Is 798 Art District free to enter?"
+    answer: "Yes — the district itself and most galleries are free. Major exhibitions at venues like UCCA charge ¥50–100, and smaller ticketed shows typically run ¥30–80."
+  - question: "What is Factory 798?"
+    answer: "Factory 798 is the former state-owned military electronics plant — built in the 1950s with East German Bauhaus design — that gave the art district its name. Its converted production halls now house many of the district's main galleries."
+  - question: "How do I get to 798 Art District from central Beijing?"
+    answer: "No metro stop serves 798 directly. Take Subway Line 14 to Jiangtai and then a 10-minute taxi/DiDi, or a taxi/DiDi the whole way (¥30–60 from most central areas). Buses 401, 909 and 955 stop at Dashanzi Lugou near the main entrance."
+  - question: "What are the best galleries in 798 Art District?"
+    answer: "The standouts are UCCA Center for Contemporary Art (the district's anchor institution), Pace Gallery Beijing, Tang Contemporary Art, Vitamin Creative Space, and White Space Beijing — all showing rigorously curated contemporary work."
 ---
 
-In the early 2000s, a cluster of decommissioned military electronics factories in northeast Beijing's Dashanzi area attracted a wave of artists priced out of the city centre. They converted the vast Bauhaus-style halls — built in the 1950s with East German technical assistance — into studios and galleries. The area became known as 798, after the most prominent factory unit.
+798 Art District Beijing — also known as Factory 798 or the 798 Art Zone — is China's most important contemporary art cluster, built inside a decommissioned military electronics factory complex in the city's northeast Dashanzi area. In the early 2000s, these abandoned factory halls attracted a wave of artists priced out of the city centre. They converted the vast Bauhaus-style halls — built in the 1950s with East German technical assistance — into studios and galleries. The area became known as 798, after the most prominent factory unit.
 
-Today, 798 Art District (798艺术区) covers roughly 60 hectares and contains over 200 galleries, art spaces, design studios, bookshops, restaurants, and public sculpture installations. It is China's most significant contemporary art cluster and one of the most visited art districts in Asia.
+Today, 798 Art District (798艺术区) covers roughly 60 hectares and contains over 200 galleries, art spaces, design studios, bookshops, restaurants, and public sculpture installations. It is one of the most visited art districts in Asia.
 
 The quality varies enormously. Some spaces show rigorously curated contemporary art of genuine international standing; others sell decorative prints to tourists. This guide focuses on the former.
 
 ## Table of contents
+
+## Factory 798: Where the Name Comes From
+
+The district takes its name from **Factory 798**, one of several state-owned electronics plants built here in the 1950s as part of the Joint Factory 718 complex, designed with East German technical assistance. The Bauhaus-influenced saw-tooth roofs, north-facing skylights, and high arched halls were engineered for precision electronics production — and turned out to be nearly perfect for showing art.
+
+You will see the area called several names: Factory 798, the 798 Art Zone, the Dashanzi Art District, or simply 798 (七九八, *qi jiu ba*). They all refer to the same 60-hectare complex. Factory 798 itself still stands at the district's centre, and several galleries occupy its original workshops.
 
 ## Essential Information
 
@@ -35,6 +54,12 @@ The quality varies enormously. Some spaces show rigorously curated contemporary 
 | Getting there | No direct metro; take Subway Line 14 to Jiangtai, then taxi/DiDi (10 min); or taxi directly from anywhere in Beijing |
 | Best season | May–October (outdoor sculptures and events); also Spring Festival period for special exhibitions |
 | Recommended time | Half day (3–4 hours) to full day |
+
+## 798 Art District Opening Hours and Tickets
+
+The district's streets and outdoor sculpture are open around the clock and free to enter. The galleries keep their own schedules: most open **10:00 AM–6:00 PM** and close on **Mondays**, with last entry often 30 minutes before closing. UCCA and the larger institutions sometimes stay open later on weekends — check current hours before you go.
+
+Admission to most galleries is free. Major exhibitions at UCCA and a few other venues charge ¥50–100; smaller ticketed shows run ¥30–80. Arriving between 10 and 11 AM on a Tuesday, Wednesday, or Thursday gives you the quietest galleries; by Saturday afternoon the streets are packed.
 
 ## Layout: Understanding 798
 
@@ -139,4 +164,4 @@ Inside the district, everything is walkable. The main 798 Road is about 600 metr
 
 *798 in 2026 is no longer the raw, frontier art scene of 2005. But it remains the most concentrated space in China for seeing serious contemporary art — and on a good day, when a strong exhibition is on and the light hits the old factory roofs just right, it still feels like something is happening here.*
 
-*Last updated: May 2026*
+*Last updated: July 2026*

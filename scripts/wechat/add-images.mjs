@@ -6,6 +6,7 @@
 //   node scripts/wechat/add-images.mjs --slugs a --inline 3   # 每篇正文插 3 张（默认 3）
 //   node scripts/wechat/add-images.mjs --slugs a --dry-run    # 只打印将插什么，不写文件
 //   node scripts/wechat/add-images.mjs --all --limit 5        # 取无图文章前 N 篇
+//   node scripts/wechat/add-images.mjs --dir toolkit --slugs a,b  # 处理 posts/toolkit/ 下的文章
 //
 // 安全：写文件前把原文备份到 data/img-backup/<slug>.md，可手动还原。
 
@@ -25,11 +26,15 @@ const ALL = arg('--all', false) === true
 const LIMIT = arg('--limit', null) ? Number(arg('--limit', null)) : null
 const INLINE = Number(arg('--inline', 3))
 const slugsArg = arg('--slugs', null)
+const dirArg = arg('--dir', null)
 
 const BACKUP_DIR = join(DATA_DIR, 'img-backup')
 
+// 默认处理 destinations/；--dir toolkit 等可切到 posts 下其他子目录
+const postsDir = dirArg && dirArg !== true ? join(POSTS_DIR, '..', String(dirArg)) : POSTS_DIR
+
 function listPosts() {
-  return readdirSync(POSTS_DIR).filter(f => f.endsWith('.md')).map(f => f.replace(/\.md$/, ''))
+  return readdirSync(postsDir).filter(f => f.endsWith('.md')).map(f => f.replace(/\.md$/, ''))
 }
 
 // 选定要处理的 slug 列表
@@ -69,13 +74,13 @@ function fmTags(fm) {
 // 从标题提取"主景点"关键词：去掉冒号后的副标题、去掉通用词与数字（年份/天数）
 const TITLE_STOP = /\b(guide|complete|ultimate|travel|itinerary|tips|best|the|a|an|of|to|in|and|how|when|where|getting|there|days?|day)\b/gi
 function clean(s) {
-  return (s || '').replace(TITLE_STOP, ' ').replace(/\b\d+\b/g, ' ').replace(/\s+/g, ' ').trim()
+  return (s || '').replace(/[（(][^)）]*[)）]/g, ' ').replace(TITLE_STOP, ' ').replace(/\b\d+\b/g, ' ').replace(/\s+/g, ' ').trim()
 }
 function mainSubject(title, tags) {
-  const head = (title || '').split(/[:：|—-]/)[0]               // 冒号前主词
+  const head = (title || '').split(/[:：|—–]/)[0]               // 冒号/竖线/破折号前主词（连字符保留，如 High-Speed）
   const s = clean(head)
   // 兜底地名 tag（gansu/sichuan…）；若主词里已含该地名则不重复附加
-  let geo = (tags || []).find(t => /^[a-z-]+$/.test(t) && !['destinations', 'nature', 'culture', 'history', 'food', 'itinerary', 'hiking', 'photography', 'adventure', 'coastal', 'urban'].includes(t)) || ''
+  let geo = (tags || []).find(t => /^[a-z-]+$/.test(t) && !['destinations', 'nature', 'culture', 'history', 'food', 'itinerary', 'hiking', 'photography', 'adventure', 'coastal', 'urban', 'toolkit', 'seasonal', 'transport', 'money', 'beginners', 'planning', 'romance', 'technology', 'practical-tips', 'foreigners'].includes(t)) || ''
   if (geo && new RegExp(`\\b${geo}\\b`, 'i').test(s)) geo = '' // 主词已含省份 → 去重，避免 "Beijing beijing"
   return { subject: s || head.trim(), geo }
 }
@@ -120,7 +125,7 @@ console.log(`处理 ${slugs.length} 篇，每篇封面 + 正文 ${INLINE} 张${D
 
 let done = 0
 for (const slug of slugs) {
-  const fp = join(POSTS_DIR, `${slug}.md`)
+  const fp = join(postsDir, `${slug}.md`)
   if (!existsSync(fp)) { console.log(`✗ 不存在: ${slug}`); continue }
   const raw = readFileSync(fp, 'utf8')
   const doc = splitDoc(raw)

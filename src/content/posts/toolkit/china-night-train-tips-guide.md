@@ -1,7 +1,7 @@
 ---
 author: Roam China Travel Editorial Team
 pubDatetime: 2026-05-01T08:00:00Z
-modDatetime: 2026-05-01T10:00:00Z
+modDatetime: 2026-07-20T10:00:00Z
 title: "China Night Train Tips Guide 2026: Sleeper Classes, Etiquette & Overnight Journey Advice"
 faq:
   - question: "What is the difference between hard sleeper and soft sleeper on Chinese trains?"
@@ -30,6 +30,8 @@ The overnight train in China is a legitimate travel experience in itself, not ju
 This guide covers everything you need to know to use China's overnight trains comfortably and enjoyably.
 
 ## The Three Sleeper Classes
+
+![China Night Train — The Three Sleeper Classes](https://images.pexels.com/photos/8344978/pexels-photo-8344978.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### Hard Sleeper (硬卧, Yìng Wò) — The Classic
 
@@ -89,6 +91,8 @@ Foreign passports: You can buy at the station ticket window on the day if availa
 
 **Return tickets**: Book the return ticket before you depart if traveling during holiday periods. Golden Week and Spring Festival return tickets can become unavailable.
 
+![China Night Train — What to Pack for a Sleeper Train](https://images.pexels.com/photos/30595796/pexels-photo-30595796.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## What to Pack for a Sleeper Train
 
 ### Essentials
@@ -124,6 +128,8 @@ Understanding Chinese train etiquette prevents most social friction:
 **Sharing the table**: The fold-down tables are shared between the four/six berth occupants. Leave space for others and clean up your food packaging.
 
 **Lower berth hospitality**: If you have a lower berth, it's a gentle social norm to let others sit on the edge during the day. Most strangers on trains will offer this naturally.
+
+![China Night Train — Food on Night Trains](https://images.pexels.com/photos/889831/pexels-photo-889831.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Food on Night Trains
 
@@ -179,3 +185,5 @@ Choose daytime HSR when:
 For routes like Beijing–Shanghai: The 4.5-hour daytime HSR is now the obvious choice. For routes like Chengdu–Kunming or Beijing–Harbin: The overnight train offers a different and legitimate travel experience.
 
 Night trains are one of the things about Chinese travel that Western visitors often discover and then wonder how they'd missed for so long. The combination of practicality, affordability, and genuine social experience makes them worth building into your itinerary at least once.
+
+*Also see: [China overnight sleeper trains guide](/posts/toolkit/china-overnight-sleeper-train-guide/) — hard sleeper vs soft sleeper, notable routes, and how to book as a foreigner.*

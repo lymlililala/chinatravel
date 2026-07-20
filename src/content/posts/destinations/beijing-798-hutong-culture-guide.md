@@ -1,7 +1,7 @@
 ---
 author: Roam China Travel Editorial Team
 pubDatetime: 2026-05-01T08:00:00Z
-modDatetime: 2026-05-01T10:00:00Z
+modDatetime: 2026-07-20T10:00:00Z
 title: "Beijing 798 Art District & Hutong Culture Combined Guide 2026"
 featured: false
 draft: false
@@ -144,3 +144,5 @@ Staying in a converted hutong courtyard hotel transforms the Beijing experience.
 ## Final Word
 
 The juxtaposition of 798's international contemporary art world and the centuries-old hutong neighbourhood fabric is one of the things that makes Beijing uniquely stimulating. Neither experience would be as interesting without the other as context. Together they show you a city in permanent creative negotiation with its own history — which is perhaps what great cities always do.
+
+*Also see: [798 Art District Beijing](/posts/destinations/beijing-798-art-district-guide/) — our in-depth guide to the best galleries, opening hours, and how to get there.*

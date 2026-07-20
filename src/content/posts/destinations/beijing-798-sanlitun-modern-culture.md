@@ -1,7 +1,7 @@
 ---
 author: Roam China Travel Editorial Team
 pubDatetime: 2025-03-10T08:00:00Z
-modDatetime: 2026-05-20T10:00:00Z
+modDatetime: 2026-07-20T10:00:00Z
 title: "Beijing 798 Art District & Sanlitun: The Modern, Creative Side of the Capital"
 featured: false
 draft: false
@@ -148,5 +148,7 @@ A full day in the Chaoyang cultural triangle:
 Budget: gallery admission ¥0–¥100 + meals ¥100–¥200 + DiDi transport ¥50–¥80
 
 ---
+
+*Also see: [798 Art District Beijing](/posts/destinations/beijing-798-art-district-guide/) — our complete guide to the galleries, tickets, and opening hours.*
 
 *Last updated: May 2026 · Gallery programmes change with exhibition schedules. Check individual gallery websites for current shows.*

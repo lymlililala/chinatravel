@@ -1,19 +1,32 @@
 ---
 author: Roam China Travel Editorial Team
 pubDatetime: 2025-05-08T08:00:00Z
-modDatetime: 2026-05-20T10:00:00Z
-title: "Chengdu's Kuanzhai Alley (Wide and Narrow Alley): What's Real, What's Good, and What to Skip"
+modDatetime: 2026-07-20T10:00:00Z
+title: "Kuanzhai Alley Chengdu (Wide and Narrow Alley): An Honest Guide"
 featured: false
 draft: false
 tags:
   - chengdu
   - culture
   - destinations
-description: "An honest guide to Chengdu's most famous pedestrian precinct — the Wide and Narrow Alleys (宽窄巷子). What's genuinely worth seeing, the best food and drink, how to avoid the tourist traps, and what the Qing Dynasty street layout tells us about old Chengdu."
+  - kuanzhai-alley
+  - wide-and-narrow-alley
+description: "Kuanzhai Alley Chengdu — an honest guide to the Wide and Narrow Alleys (Kuan Alley and Zhai Alley): what's worth seeing, the best food, and what to skip."
 ogImage: "https://images.pexels.com/photos/36506164/pexels-photo-36506164.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+faq:
+  - question: "What is Kuanzhai Alley in Chengdu?"
+    answer: "Kuanzhai Alley (宽窄巷子, Wide and Narrow Alley) is a historic Qing Dynasty district in central Chengdu made up of three parallel lanes — Wide Alley, Narrow Alley, and Well Lane. Originally a Manchu military garrison, it's now a pedestrian precinct of teahouses, restaurants, and shops. Entry is free."
+  - question: "What are Kuan Alley and Zhai Alley?"
+    answer: "Kuan Alley (宽巷子, Wide Alley) and Zhai Alley (窄巷子, Narrow Alley) are the two main lanes of Kuanzhai Alley. Kuan Alley has the most traditional courtyard teahouses and upscale restaurants; Zhai Alley is the most food-forward, with Chengdu snack stalls like San Da Pao and Zhong dumplings."
+  - question: "How do I get to Kuanzhai Alley by metro?"
+    answer: "Take Chengdu Metro Line 4 to Kuanzhai Xiangzi Station (宽窄巷子站) — the station exits directly at the district in Qingyang District. A taxi from Tianfu Square takes about 10 minutes."
+  - question: "What are Kuanzhai Alley's opening hours?"
+    answer: "The alleys themselves are public streets and open 24 hours. Individual shops, teahouses, and restaurants generally operate from about 10am to 10pm."
+  - question: "Is Kuanzhai Alley worth visiting or too touristy?"
+    answer: "Both, in parts. The Qing street layout and courtyard teahouses are genuinely worth seeing, but the souvenir shops and tour-group restaurants are skippable. Visit on a weekday morning (9–11am) before the crowds build for the best experience."
 ---
 
-Kuanzhai Alley (宽窄巷子, Kuān Zhǎi Xiàng Zi — literally "Wide and Narrow Alley") is Chengdu's most visited historic street and one of the city's most complex attractions to navigate: a genuinely ancient street layout (dating to the Qing Dynasty Manchu military garrison) now converted into a mixed-use district of restaurants, bars, tea houses, and boutiques. Some of it is excellent; some of it is pure tourist theatre. This guide tells you which is which.
+Kuanzhai Alley Chengdu (宽窄巷子, Kuān Zhǎi Xiàng Zi — literally "Wide and Narrow Alley") is the city's most visited historic street and one of its most complex attractions to navigate: a genuinely ancient street layout (dating to the Qing Dynasty Manchu military garrison) now converted into a mixed-use district of restaurants, bars, tea houses, and boutiques. Some of it is excellent; some of it is pure tourist theatre. This guide tells you which is which.
 
 ## Table of contents
 
@@ -35,7 +48,7 @@ After the Qing Dynasty ended in 1912, the garrison dissolved and the compounds g
 
 ## The Three Alleys
 
-### Wide Alley (宽巷子)
+### Wide Alley (宽巷子, Kuan Alley)
 
 The most historically oriented of the three streets, with more traditional courtyard residences that have been converted to upscale tea houses, restaurants with courtyard seating, and craft shops.
 
@@ -45,7 +58,7 @@ The most historically oriented of the three streets, with more traditional court
 
 **Old Chengdu lifestyle photography**: The Wide Alley has a concentration of small stalls offering old-fashioned photography experiences — dressed in Republican-era (1912–1949) Chengdu costumes, with period props. Kitschy but popular with Chinese domestic tourists and genuinely charming.
 
-### Narrow Alley (窄巷子)
+### Narrow Alley (窄巷子, Zhai Alley)
 
 The most food-forward of the three, with street food stalls concentrated here. Better preserved street-level atmosphere; slightly less international signage.
 
@@ -93,6 +106,18 @@ For the genuine (not tourist-oriented) Chengdu teahouse experience, walk 15 minu
 
 ---
 
+## How to Get to Kuanzhai Alley
+
+**By metro**: take Line 4 to Kuanzhai Xiangzi Station (宽窄巷子站) — the station exits directly onto the district, making this the simplest option from anywhere in central Chengdu. From Tianfu Square (天府广场), it's two stops on Line 4 westbound.
+
+**By taxi or Didi**: from Tianfu Square or Chunxi Road, expect 10–15 minutes and ¥10–¥15 depending on traffic. Ask for 宽窄巷子 — every driver knows it.
+
+**On foot**: Kuanzhai Alley is a 15-minute walk from People's Park (人民公园), which pairs naturally with a visit — do the park's teahouses first, then walk over.
+
+The main pedestrian entrance is on Changshun Street (长顺街); the alleys run parallel to each other and are connected by small cross-lanes, so you can enter at any point and loop through all three.
+
+---
+
 ## Practical Information
 
 **Location**: Qingyang District, Chengdu. Metro: Kuanzhai Xiangzi Station (宽窄巷子站) on Line 4.
@@ -105,4 +130,4 @@ For the genuine (not tourist-oriented) Chengdu teahouse experience, walk 15 minu
 
 ---
 
-*Last updated: May 2026*
+*Last updated: July 2026*

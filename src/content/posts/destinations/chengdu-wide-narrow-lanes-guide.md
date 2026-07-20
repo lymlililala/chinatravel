@@ -1,6 +1,7 @@
 ---
 author: Roam China Travel Editorial Team
 pubDatetime: 2026-05-27T21:50:00Z
+modDatetime: 2026-07-20T10:00:00Z
 title: "Chengdu Wide and Narrow Alleys Guide: History, Food & How to Navigate Beyond the Tourist Flow"
 featured: false
 draft: false
@@ -65,4 +66,4 @@ The restoration is good enough to read the original layout but honest about the 
 
 **Duration**: 1.5–2 hours for a thorough walk through all three alleys.
 
-*Also see: [Chengdu Food Street Guide](/posts/destinations/chengdu-food-street-guide/) | [Chengdu Travel Guide](/posts/destinations/chengdu-travel-guide/) | [Xi'an Chengdu 7-Day Itinerary](/posts/toolkit/xian-chengdu-chongqing-7-day-itinerary/)*
+*Also see: [Kuanzhai Alley (Wide and Narrow Alley)](/posts/destinations/chengdu-widenarrow-alley-guide/) | [Chengdu Food Street Guide](/posts/destinations/chengdu-food-street-guide/) | [Chengdu Travel Guide](/posts/destinations/chengdu-travel-guide/) | [Xi'an Chengdu 7-Day Itinerary](/posts/toolkit/xian-chengdu-chongqing-7-day-itinerary/)*

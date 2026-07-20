@@ -1,8 +1,8 @@
 ---
 author: Roam China Travel Editorial Team
 pubDatetime: 2026-05-02T08:00:00Z
-modDatetime: 2026-05-02T10:00:00Z
-title: "China Overnight Sleeper Trains Guide 2026: Hard Sleeper, Soft Sleeper & What to Expect"
+modDatetime: 2026-07-20T10:00:00Z
+title: "China Long-Distance Trains 2026: Sleeper Classes & Route Planning"
 featured: false
 draft: false
 tags:
@@ -11,7 +11,7 @@ tags:
   - toolkit
   - budget
 description: "Taking overnight sleeper trains in China — the difference between hard sleeper (六铺卧铺, cheapest, communal) and soft sleeper (软卧, private 4-berth, quieter), the T and K series slower overnight trains vs the high-speed D series overnight services, booking berths, dinner on board, and how to sleep through the night in a communal berth."
-ogImage: "https://images.pexels.com/photos/8217961/pexels-photo-8217961.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.pexels.com/photos/17499171/pexels-photo-17499171.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Overnight sleeper trains used to be the backbone of long-distance travel in China. They're less dominant now that high-speed rail has compressed journey times dramatically, but they're far from gone — and for the right routes, they remain one of the best ways to travel. You save on a night's accommodation, you wake up somewhere new, and for routes that still run overnight (Beijing to Xi'an via slower trains, Shanghai to Guilin, Chengdu to Kunming), the experience is genuinely satisfying.
@@ -19,6 +19,8 @@ Overnight sleeper trains used to be the backbone of long-distance travel in Chin
 ## Table of contents
 
 ## Hard Sleeper (硬卧) — The Classic Chinese Way
+
+![China Long-Distance Trains — Hard Sleeper (硬卧) — The Classic Chinese Way](https://images.pexels.com/photos/6414507/pexels-photo-6414507.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Hard sleeper (硬卧, yìng wò) is the most popular overnight option and the one that gives you the authentic experience of traveling the way hundreds of millions of Chinese people travel.
 
@@ -43,6 +45,8 @@ The berths are wider and softer than hard sleeper (the names are literally descr
 
 **Who should book soft sleeper**: Travelers who need sleep, light sleepers, solo female travelers who prefer privacy, or anyone carrying valuable equipment they want to keep secured.
 
+![China Long-Distance Trains — T, K, and Z Trains — The Overnight Fleet](https://images.pexels.com/photos/19744146/pexels-photo-19744146.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## T, K, and Z Trains — The Overnight Fleet
 
 The overnight sleeper trains that run today are mostly the older T, K, and Z series:
@@ -62,6 +66,8 @@ China has introduced overnight services on some high-speed lines. **D series nig
 **G series night trains** are a recent development on some of the very fastest lines. These offer a more modern berth experience than the old T/K trains.
 
 High-speed night train fares are typically **higher than K/T trains** but the journey is faster and the equipment newer. Check availability when booking on 12306 or Trip.com.
+
+![China Long-Distance Trains — Booking Sleeper Berths](https://images.unsplash.com/photo-1695742265305-14f0373cd9dc?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxCb29raW5nJTIwU2xlZXBlciUyMEJlcnRoc3xlbnwwfDB8fHwxNzg0NTUwNjkxfDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## Booking Sleeper Berths
 
@@ -89,3 +95,5 @@ In soft sleeper, your bag fits in the overhead rack inside your locked compartme
 Dining cars on overnight trains serve meals — basic hot dishes, rice, and instant noodles. Prices are modest (¥20–¥50 per dish). Quality is variable. Many travelers prefer to buy food at the departure station (every major station has large food markets) and eat it in their berth with tea from the hot water dispenser.
 
 The dining car is also where you'll find beer in the evening — a social spot before people settle in to sleep.
+
+*Also see: [China overnight sleeper trains guide](/posts/toolkit/china-overnight-sleeper-train-guide/) — hard sleeper vs soft sleeper, notable overnight routes, and booking tips for foreigners.*

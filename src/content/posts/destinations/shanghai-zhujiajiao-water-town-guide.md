@@ -1,7 +1,7 @@
 ---
 author: Roam China Travel Editorial Team
 pubDatetime: 2026-04-22T08:00:00Z
-modDatetime: 2026-05-20T10:00:00Z
+modDatetime: 2026-07-20T10:00:00Z
 title: "Zhujiajiao Water Town: Shanghai's Best Day Trip to Ancient Canals"
 featured: false
 draft: false
@@ -11,11 +11,24 @@ tags:
   - water towns
   - history
   - Jiangnan
-description: "A complete guide to Zhujiajiao — Shanghai's best-preserved ancient water town, an hour from the city. How to get there, what to see, where to eat, and how to avoid the crowds."
+  - zhujiajiao
+  - shanghai water town
+description: "Zhujiajiao water town guide: how to get there from Shanghai, tickets, the best canals, local food, and tips to beat the crowds in this ancient water village."
 ogImage: "https://images.pexels.com/photos/37015407/pexels-photo-37015407.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+faq:
+  - question: "Is Zhujiajiao the best water town near Shanghai?"
+    answer: "For most visitors, yes. Zhujiajiao is the most accessible and best-preserved ancient water town in the Shanghai area — better than Qibao (now essentially a shopping mall with canals) and more historically intact than Jinze. It also has the easiest direct bus connection from the city centre."
+  - question: "How do I get to Zhujiajiao from downtown Shanghai?"
+    answer: "Take direct Bus 1701 from the Puyang Road Transportation Hub (¥12, about 1 hour). A taxi from the city centre costs ¥120–160 and takes around 45 minutes without traffic."
+  - question: "How much time do you need in Zhujiajiao?"
+    answer: "Four to six hours covers the main sights, the back canals, and a meal. Staying overnight in a traditional guesthouse lets you experience the town in the early morning and evening, after the day-trippers leave."
+  - question: "Is Zhujiajiao free to enter?"
+    answer: "Wandering the town itself is free. A combined ticket for the 5 main sites costs ¥80, or you can pay ¥10–30 per individual site (Kezhi Garden is ¥30, the City God Temple main hall ¥10)."
+  - question: "What is the best time of day to visit Zhujiajiao?"
+    answer: "Early morning, around 6:30–8:00 AM. The morning markets are running, the light on the canals is at its best, and the tourist crowds don't build until about 9:30 AM. Tuesday to Thursday are the quietest days."
 ---
 
-Forty kilometres from the Bund, an entirely different Shanghai exists. Zhujiajiao (朱家角) is a 1,700-year-old water town where canals replace streets, stone arch bridges connect the lanes, and the morning light falls on the same grey-tile rooflines that appeared here during the Ming Dynasty. As a half-day or full-day escape from urban Shanghai, nothing else comes close.
+Forty kilometres from the Bund, an entirely different Shanghai exists. Zhujiajiao water town (朱家角) is a 1,700-year-old canal town where waterways replace streets, stone arch bridges connect the lanes, and the morning light falls on the same grey-tile rooflines that appeared here during the Ming Dynasty. As a half-day or full-day escape from urban Shanghai, nothing else comes close.
 
 Zhujiajiao is the most accessible and best-preserved of the ancient water towns in the Shanghai metropolitan area — better than Qibao (which has become a shopping mall with canals) and more historically intact than Jinze. Getting there by direct bus from the city centre takes under an hour.
 
@@ -34,9 +47,15 @@ Zhujiajiao is the most accessible and best-preserved of the ancient water towns 
 | Best day | Tuesday–Thursday (quieter); avoid national holidays |
 | Recommended duration | 4–6 hours; overnight possible with accommodation in the town |
 
+## How to Get to Zhujiajiao from Downtown Shanghai
+
+The simplest route is the direct bus. From the Puyang Road Transportation Hub, **Bus 1701** runs straight to Zhujiajiao for ¥12 and takes about an hour — buy your ticket at the hub counter and keep the stub for the return. Buses fill up on weekend mornings, so aim to board before 8:30 AM.
+
+Coming by metro, take **Line 17** to Zhujiajiao station, then walk or take a short local bus ride the last stretch to the old town entrance — slower than the direct bus but useful if you're starting from Hongqiao. A taxi or Didi from the city centre costs ¥120–160 and takes around 45 minutes without traffic; this is the best option if you're a group of three or four splitting the fare, or if you want to arrive before the 6:30 AM market opens.
+
 ![Zhujiajiao Water Town — History](https://images.pexels.com/photos/38003117/pexels-photo-38003117.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
-## History
+## History of Zhujiajiao Ancient Town
 
 Zhujiajiao was founded during the Three Kingdoms period (220–280 AD), though its current built form is primarily from the Ming and Qing dynasties. The town grew rich on the cotton trade — by the Qing Dynasty it was the primary cotton cloth distribution centre for the entire Yangtze Delta.
 
@@ -110,4 +129,4 @@ Wooden boats with covered canopies ply the main canals on 30-40 minute circuits.
 
 *Zhujiajiao is worth the trip out of the city even if you only have half a day. The 40-kilometre distance from the Bund corresponds to about 600 years of architectural time. Walk the back canals before the boats start and you'll wonder whether you've left Shanghai at all.*
 
-*Last updated: May 2026*
+*Last updated: July 2026*

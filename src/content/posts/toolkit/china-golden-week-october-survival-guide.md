@@ -1,7 +1,7 @@
 ---
 author: Roam China Travel Editorial Team
 pubDatetime: 2026-05-02T08:00:00Z
-modDatetime: 2026-05-02T10:00:00Z
+modDatetime: 2026-07-20T10:00:00Z
 title: "China Golden Week (National Day) Survival Guide 2026: October 1-7 Travel Tips"
 featured: false
 draft: false
@@ -12,7 +12,7 @@ tags:
   - toolkit
   - planning
 description: "Surviving Golden Week in China — 800 million domestic tourists travelling simultaneously for October 1-7. The places to avoid (every listed scenic spot, any city called 'the most beautiful'), the places that are actually manageable (smaller cities, northwest China, any destination requiring a flight), and the contrarian guide to actually enjoying China during Golden Week."
-ogImage: "https://images.pexels.com/photos/21419463/pexels-photo-21419463.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "https://images.pexels.com/photos/29767807/pexels-photo-29767807.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
 Golden Week — the National Day holiday from October 1-7 — is China's second major travel peak after Spring Festival. The numbers are staggering: approximately 700-900 million domestic tourist trips during this single week, representing one of the largest coordinated movements of people on earth.
@@ -22,6 +22,8 @@ For international visitors who either can't avoid travelling during this period 
 ## Table of contents
 
 ## Understanding the Scale
+
+![China Golden Week Survival — Understanding the Scale](https://images.pexels.com/photos/6077797/pexels-photo-6077797.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Golden Week is the result of seven consecutive public holidays being compacted into one block. This means that virtually every Chinese worker with holiday entitlement travels simultaneously. The rail system, road network, and airport infrastructure are all operating at or beyond capacity.
 
@@ -44,6 +46,8 @@ Jiuzhaigou, Zhangjiajie, Tiger Leaping Gorge, the Guilin Li River cruise, West L
 **Any city designated as a "short break" destination by the major domestic travel platforms:** Chengdu, Xi'an, Lijiang, and Yangshuo all feature prominently in Golden Week promotional campaigns by Ctrip and Meituan Travel. They receive their highest visitor numbers of the year.
 
 **Theme parks:** Disneyland Shanghai and Beijing Universal Studios have wait times of 3-4 hours for popular rides during Golden Week. Both are genuinely wonderful parks at other times.
+
+![China Golden Week Survival — Places That Are Actually Manageable](https://images.pexels.com/photos/16448130/pexels-photo-16448130.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Places That Are Actually Manageable
 
@@ -72,6 +76,8 @@ If you're an international visitor who happens to be in China during Golden Week
 
 **Go where the crowds are going away from:** If everyone is going to Jiuzhaigou, the villages in northern Sichuan that would normally have day-trippers from Jiuzhaigou visits (Songpan, Huanglong) will be relatively quiet.
 
+![China Golden Week Survival — The Booking Logistics](https://images.pexels.com/photos/1606957/pexels-photo-1606957.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## The Booking Logistics
 
 **Train tickets:** Open 15 days before departure on the 12306.cn system (Chinese bank card required) or through Trip.com (international cards accepted). For Golden Week, this means tickets for October 1-7 go on sale September 15-17. Set alarms.
@@ -85,3 +91,5 @@ If you're an international visitor who happens to be in China during Golden Week
 ## The Golden Rule
 
 If you have flexibility, arrive the day before (September 30) and leave after October 7. The week between Golden Week and the peak October foliage season (October 8-20) is arguably the best single week in the entire Chinese travel calendar: autumn conditions, normal crowds, normal prices.
+
+*Also see: [China Golden Week October 2026 guide](/posts/toolkit/china-october-golden-week-guide/)*
