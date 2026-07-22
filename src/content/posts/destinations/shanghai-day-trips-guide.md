@@ -1,7 +1,7 @@
 ---
 author: Roam China Travel Editorial Team
 pubDatetime: 2026-05-02T08:00:00Z
-modDatetime: 2026-05-02T10:00:00Z
+modDatetime: 2026-07-22T10:00:00Z
 title: "Day Trips from Shanghai 2026: Suzhou, Hangzhou, Zhujiajiao & More"
 faq:
   - question: "What are the best day trips from Shanghai?"
@@ -96,7 +96,7 @@ Hangzhou (杭州) is famous for West Lake — the most painted landscape in Chin
 
 **Journey:** Bus from Renmin Square (人民广场) Bus Stop at Pu'an Road — direct bus runs every 20-30 minutes, ¥15, ~50 minutes. Or taxi ¥150-180 each way.
 
-Zhujiajiao (朱家角) is a **Ming and Qing Dynasty water town** with canals, stone bridges, and traditional shops. It's the closest of the "ancient water towns" to Shanghai and can comfortably be done in 3-4 hours — making it a genuine half-day option.
+Zhujiajiao (朱家角) is a **Ming and Qing Dynasty water town** with canals, stone bridges, and traditional shops. It's the closest of the "ancient water towns" to Shanghai and can comfortably be done in 3-4 hours — making it a genuine half-day option. For the back canals, where to eat, and how to time the crowds, see our full [Zhujiajiao water town](/posts/destinations/shanghai-zhujiajiao-water-town-guide/) guide.
 
 ### What to do
 

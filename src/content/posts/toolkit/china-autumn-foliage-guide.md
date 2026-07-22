@@ -1,7 +1,7 @@
 ---
 author: Roam China Travel Editorial Team
 pubDatetime: 2026-05-01T08:00:00Z
-modDatetime: 2026-05-01T10:00:00Z
+modDatetime: 2026-07-22T10:00:00Z
 title: "China Autumn Foliage Guide 2026: Best Spots for Fall Colours from North to South"
 featured: false
 draft: false
@@ -11,8 +11,17 @@ tags:
   - china-autumn
   - maple
   - ginkgo
-description: "Chase China's spectacular autumn colours from the birch forests of Heilongjiang to the maple mountains of Sichuan with this comprehensive 2026 foliage guide. Covers the 15 best destinations for autumn photography, peak colour timing for each region, the science behind Chinese autumn colours, accommodation booking strategies for peak season, and practical tips for capturing the perfect fall photograph."
+description: "China's best autumn foliage for 2026 — 16 top spots from Kanas Lake to Beijing's Fragrant Hills and Shanghai's ginkgo streets, with peak timing for each region."
 ogImage: "https://images.pexels.com/photos/19134817/pexels-photo-19134817.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+faq:
+  - question: "Where is the best autumn foliage in China?"
+    answer: "For sheer intensity, Benxi in Liaoning has the most dramatic maple colour — entire mountainsides turn red in mid-October. Jiuzhaigou in Sichuan combines golden larches with turquoise lakes, Kanas Lake in Xinjiang offers Scandinavian-style birch forests in late September, and Beijing's Fragrant Hills is the most accessible major-city display. The best choice depends on your dates: the season starts in the far north in late September and finishes in Yunnan in early December."
+  - question: "When is the best time to see autumn foliage in Beijing in 2026?"
+    answer: "Beijing's autumn colour runs from mid-October to around November 10. The maples and smoke trees at Fragrant Hills typically peak October 15-30, while the city's famous ginkgo avenues — Diaoyutai, Dajue Temple, Olympic Forest Park — turn gold in the last week of October and the first week of November. Weekday visits are strongly recommended at Fragrant Hills."
+  - question: "Where can I see autumn foliage in and around Shanghai?"
+    answer: "Shanghai's own colour arrives late, in the first three weeks of November: golden ginkgo trees on Huangjinchengdao pedestrian street and in Century Park, plus plane trees along the former French Concession avenues. For maples, Tianping Mountain in Suzhou — 30 minutes away by high-speed train — is one of China's four great maple-viewing spots and peaks in mid-to-late November. Hangzhou's West Lake is another easy day trip with late-season colour."
+  - question: "When does autumn foliage season start in China?"
+    answer: "The season begins in the far north around September 15 — the birch forests of Heilongjiang, Inner Mongolia, and Kanas Lake in Xinjiang turn first — and the colour wave then moves south at roughly 200 km per week, reaching Beijing in mid-October, Shanghai and Hangzhou in early November, and Yunnan's ginkgo villages by late November."
 ---
 
 ## Table of contents
@@ -45,14 +54,14 @@ China's autumn colour quality comes from its continental climate — sharp tempe
 
 **Persimmon (柿子, shìzi):** Trees lose their leaves but retain bright orange fruits — a different kind of autumn beauty.
 
-## 15 Best Autumn Foliage Destinations
+## 16 Best Autumn Foliage Destinations
 
 ### 1. Benxi, Liaoning — Maple Paradise
 
 **Peak colour:** October 10-25
 **Best spots:** Guanmen Mountain, Yanghutang
 **What you'll see:** Entire mountainsides blanketed in red and orange maples, reflected in alpine lakes. Some of the most intense maple colour in Asia.
-**See our Benxi guide for full details.**
+**See the [Benxi guide](/posts/destinations/liaoning-benxi-guide/) for full details.**
 
 ### 2. Mohe & Greater Khingan Mountains, Heilongjiang — Birch Gold
 
@@ -72,11 +81,12 @@ China's autumn colour quality comes from its continental climate — sharp tempe
 **Best spots:** West Sea Canyon, Begin-to-Believe Peak
 **What you'll see:** Dramatic granite peaks rising above seas of cloud, with maples and ginkgos providing patches of colour on the rocky slopes. The combination of rock, cloud, and colour is uniquely Chinese.
 
-### 5. Beijing — Ginkgo Gold
+### 5. Beijing — Maples and Ginkgo Gold
 
-**Peak colour:** October 25 — November 10
-**Best spots:** Diaoyutai Ginkgo Avenue, Dajue Temple, Olympic Forest Park, Fragrant Hills
-**What you'll see:** Avenue after avenue of golden ginkgo trees, their fan-shaped leaves creating a yellow canopy over city streets. The Fragrant Hills (香山) are famous for maples but extremely crowded — ginkgo viewing is more pleasant.
+**Peak colour:** October 15 — November 10
+**Best spots:** Fragrant Hills, Diaoyutai Ginkgo Avenue, Dajue Temple, Olympic Forest Park
+**What you'll see:** Two distinct seasons in one city. First the maples: Fragrant Hills (香山), 28 km northwest of the city centre, has some 94,000 maple and smoke trees that ignite from orange to deep red in the second and third weeks of October — spectacular but extremely crowded on weekends. Then the ginkgo: avenue after avenue of golden fan-shaped leaves creating a yellow canopy over city streets in late October and early November, a more relaxed viewing experience than the maple rush.
+**Full details in the [Beijing Fragrant Hills autumn guide](/posts/destinations/beijing-fragrant-hills-autumn-guide/).**
 
 ### 6. Daocheng Yading, Sichuan — Sacred Mountain Autumn
 
@@ -95,6 +105,7 @@ China's autumn colour quality comes from its continental climate — sharp tempe
 **Peak colour:** September 20 — October 10
 **Best spots:** Moon Bay, Dragon Bay, Kanas Lake shore
 **What you'll see:** European-style forests of birch, larch, and poplar around a deep blue alpine lake. Reminiscent of Scandinavia but with Chinese characteristics.
+**Full details in the [Xinjiang Kanas autumn colours guide](/posts/destinations/xinjiang-kanas-autumn-colors-guide/).**
 
 ### 9. Nanjing, Jiangsu — Historical Ginkgo
 
@@ -132,13 +143,19 @@ China's autumn colour quality comes from its continental climate — sharp tempe
 **Best spots:** West Lake causeways, Lingyin Temple, Longjing tea terraces
 **What you'll see:** Weeping willows and maples around the famous lake, with golden leaves drifting on the water. Civilised and accessible autumn beauty.
 
-### 15. Guanmen Mountain, Liaoning — Already covered in #1
-
-*(Replaced by)* **Bipeng Valley, Sichuan — Alpine Valley Colour**
+### 15. Bipeng Valley, Sichuan — Alpine Valley Colour
 
 **Peak colour:** October 20 — November 10
 **Best spots:** Main valley trail, high meadow viewpoint
 **What you'll see:** A steep valley lined with maples and birches, with waterfalls and alpine meadows. Less developed than Jiuzhaigou but equally colourful.
+
+### 16. Shanghai & Suzhou — Late-Season City Gold
+
+**Peak colour:** November 1-25
+**Best spots:** Huangjinchengdao ginkgo street, Century Park, French Concession plane trees; Tianping Mountain (Suzhou)
+**What you'll see:** Shanghai's foliage arrives late and urban — golden ginkgo canopies over the Huangjinchengdao pedestrian street and Century Park, and amber plane trees along the former French Concession avenues. For classic maple colour, Tianping Mountain (天平山) in Suzhou, 30 minutes away by high-speed train, is one of China's four great maple-viewing spots and peaks in mid-to-late November — the perfect finish to a southward foliage chase.
+
+**Honourable mentions:** Xinduqiao on the Sichuan-Tibet Highway (golden poplar avenues and October light that photographers plan trips around) and the Longji rice terraces near Guilin (harvest gold rather than foliage, but at their most photogenic in October).
 
 ## Timing Your Foliage Trip
 

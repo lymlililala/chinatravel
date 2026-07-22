@@ -1,12 +1,22 @@
 ---
-title: "Guangzhou Dim Sum Guide: Where to Eat Yum Cha Like a Local"
-description: "Complete guide to eating dim sum (yum cha) in Guangzhou — the best traditional teahouses, what to order, how the ordering system works, tea culture, and the difference between Guangzhou dim sum and what you find outside China."
+title: "Dim Sum in Guangzhou: A Complete Guide to Eating Yum Cha Like a Local"
+description: "Where to eat the best dim sum in Guangzhou — top traditional teahouses, what to order, how the ordering system works, tea culture, and local etiquette."
 ogImage: "https://images.pexels.com/photos/7563033/pexels-photo-7563033.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-15T08:00:00Z
+modDatetime: 2026-07-22T10:00:00Z
 heroImage: "/destinations/guangzhou-dimsum.jpg"
 category: "destinations"
 tags: ["Guangzhou", "dim sum", "yum cha", "Cantonese food", "teahouse"]
 author: "RoamChina Travel"
+faq:
+  - question: "Where can I eat the best dim sum in Guangzhou?"
+    answer: "For the best dim sum in Guangzhou, head to the historic teahouses: Guangzhou Restaurant (operating since 1935, with weekend push-cart service), Tao Tao Ju (founded 1880, famous for egg tarts), Lian Xiang Lou (1889, the most traditional setting in Xiguan), Pan Xi Restaurant (dim sum in a classical garden on a lake), or Bao She for the most technically refined cooking. Arrive between 8 and 9 AM for the freshest selection."
+  - question: "What is the difference between dim sum and yum cha?"
+    answer: "Yum cha (饮茶, 'drink tea') is the Cantonese social practice of gathering at a teahouse for a morning or midday meal centered on tea. Dim sum (点心) refers to the small dishes — dumplings, buns, rice rolls — served alongside the tea. Locals say 'let's go yum cha' to mean the whole meal event."
+  - question: "How much does dim sum cost in Guangzhou?"
+    answer: "A standard yum cha at a mid-range Guangzhou teahouse costs about ¥60–100 per person including tea and 5–8 dishes. Famous houses like Guangzhou Restaurant or Tao Tao Ju run ¥80–120 per person, and refined restaurants like Bao She ¥100–150. Most teahouses also charge a tea cover fee (茶位费) of ¥8–20 per person."
+  - question: "What time should I go for yum cha in Guangzhou?"
+    answer: "Traditional yum cha is a morning event, roughly 7–11 AM, when the dim sum is freshest and the most traditional crowds fill the teahouses. Sunday morning is the most authentic experience — expect a 30–60 minute wait at popular venues. Many restaurants also serve an afternoon session (2–5 PM) with a slightly smaller menu."
 ---
 
 # Guangzhou Dim Sum: The Origin of Yum Cha
@@ -16,6 +26,8 @@ Dim sum (点心, diǎn xīn) and yum cha (饮茶, yǐn chá — "drink tea") are
 The experience in Guangzhou differs significantly from dim sum outside China: the variety is greater, the quality ceiling is higher, the social atmosphere is more intense, and the ritual of the tea service has greater depth. Understanding the differences — and the etiquette around them — transforms the meal from a confusing round of small plates into one of Asia's most culturally rich dining experiences.
 
 ![Guangzhou Dim Sum — What is Yum Cha?](https://images.unsplash.com/photo-1653558148655-af4633794c4d?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxXaGF0JTIwaXMlMjBZdW0lMjBDaGElM0Z8ZW58MHwwfHx8MTc4MTg0MzE5N3ww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
+
+## Table of contents
 
 ## What is Yum Cha?
 
@@ -33,13 +45,17 @@ Tea selection is the first step at any Cantonese teahouse. A server brings a men
 - **Pu-erh (普洱, pǔ'ěr)**: Fermented and aged tea, deep reddish-brown, earthy flavor. The traditional choice for dim sum — its slight astringency cuts through the richness of the food. Available as 熟普 (shú pǔ, "cooked" pu-erh, darker and earthier) or 生普 (shēng pǔ, "raw" pu-erh, lighter and more complex).
 - **Tieguanyin (铁观音)**: A semi-oxidized oolong from Fujian, floral and slightly roasted. Common choice.
 - **Chrysanthemum (菊花, júhuā)**: Caffeine-free herbal tea, sweet and floral. Often mixed with pu-erh (菊普 or 菊普茶) to lighten the pu-erh's earthiness.
+- **Narcissus (水仙, shuǐxiān)**: A floral, fragrant oolong — a classic teahouse choice.
 - **Jasmine (茉莉花)**: Fragrant green tea with jasmine; light and accessible.
 - **Longjing (龙井)**: Premium green tea from Hangzhou; available at higher-end establishments.
 
+Tea is charged as a cover fee (茶位费, chá wèi fèi) of roughly ¥8-20 per person, which includes unlimited hot-water refills for the session.
+
 **Tea customs**:
 - Tap two fingers on the table to thank someone for pouring your tea (representing a prostrating bow; the story goes that an emperor incognito served tea to his minister, who couldn't bow publicly without revealing the identity, so he tapped his fingers instead — this custom has remained).
+- At traditional teahouses, rinse your chopsticks, spoon, and bowl with a small pour of hot tea before eating — an old hygiene custom still widely observed.
 - When you want the teapot refilled with hot water, open the lid slightly to signal the server.
-- Never let your guest's cup go empty if you're pouring.
+- The youngest person at the table traditionally pours for the elders first, and never lets a guest's cup go empty.
 
 ![Guangzhou Dim Sum — What to Order: Essential Dim Sum](https://images.pexels.com/photos/6529688/pexels-photo-6529688.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
@@ -65,6 +81,12 @@ The classic core dishes that any serious yum cha should include:
 
 **Lo Mai Gai (糯米雞, nuòmǐ jī)**: Glutinous rice with chicken, mushroom, and sausage, wrapped in lotus leaf and steamed. An entire meal in a single parcel. Rich and fragrant with the lotus leaf perfume.
 
+**Liu Sha Bao (流沙包)**: Salted egg yolk custard bun — bite in and molten golden custard flows out. A more modern addition to the dim sum canon, now ubiquitous in Guangzhou.
+
+**Spare Ribs with Black Bean (豉汁排骨)**: Steamed chopped pork ribs in a fermented black bean and garlic sauce. Savory and deeply flavored.
+
+**Cheung Tsoi Gao (韭黄饺)**: Delicate steamed dumplings filled with yellow chives — fragrant and lighter than the pork-heavy standards.
+
 **Chicken Feet (凤爪, fèng zhuǎ)**: Braised and deep-fried chicken feet in a black bean sauce, then steamed. A cultural touchstone of Cantonese dim sum — for the uninitiated, the texture (gelatinous, no meat per se — just skin and cartilage) can be surprising; for enthusiasts, this is one of the meal's most anticipated dishes.
 
 **Turnip Soup (蘿蔔湯)**: Various slow-cooked soups served at the end of the meal, typically clear broths with turnip and meat.
@@ -83,6 +105,14 @@ Arrive before 9 AM on weekends for a seat; the wait can be 30-60 minutes by 9:30
 
 Founded in 1880, Tao Tao Ju is one of Guangzhou's oldest teahouses. The recent renovation (including a newer flagship location in Panyu district) has brought the quality and presentation to a high contemporary standard while maintaining traditional recipes. The egg tarts are exceptional.
 
+### Lian Xiang Lou (莲香楼)
+
+Founded in 1889, Lian Xiang Lou is arguably the most historically significant teahouse in Guangzhou, spread across multiple floors of a colonial-era building in the Xiguan (西关) neighborhood. No English menu — point at neighboring tables' dishes or use a translation app. Best for the most authentic old-school atmosphere.
+
+### Bao She (炳胜品味)
+
+Considered by many food critics to serve Guangzhou's most technically accomplished dim sum — impeccable har gow, ingredients sourced from across Guangdong, in a modern interior. Reservations are essential. Expect ¥100-150 per person. Best for quality-focused visitors willing to splurge.
+
 ### Pan Xi Restaurant (泮溪酒家)
 
 Famous particularly for its enormous variety of dim sum — reportedly over 400 distinct items in the full menu. The restaurant is set on a lake in Liwan district with traditional Cantonese garden architecture. The experience of eating dim sum in a garden setting with ornamental fish ponds and pavilions captures the classical Guangdong teahouse ideal.
@@ -90,6 +120,10 @@ Famous particularly for its enormous variety of dim sum — reportedly over 400 
 ### Yindu Restaurant (银都酒家)
 
 A reliable everyday choice popular with Guangzhou's business community. More accessible for visitors unfamiliar with the full traditional teahouse format — written menus available alongside cart service.
+
+### Five-Star Hotel Teahouses
+
+The White Swan Hotel and the Garden Hotel both run excellent dim sum restaurants popular with business travelers — English menus, English-speaking staff, and consistently high quality. More expensive than the traditional houses, but the most stress-free option for a first yum cha.
 
 ![Guangzhou Dim Sum — How to Navigate the Ordering System](https://images.pexels.com/photos/12935100/pexels-photo-12935100.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
@@ -111,7 +145,12 @@ Afternoon dim sum exists at many restaurants (typically 2-5 PM) — slightly sma
 
 Evening dim sum is available at some restaurants but is less traditional and often uses a different menu format (more like ordering from a regular restaurant menu with some dim sum items alongside main dishes).
 
-**For visitors**: The Sunday morning yum cha is the most authentic experience — arrive at a traditional teahouse between 8-9 AM, expect a possible queue, and plan to spend 1.5-2 hours eating slowly through multiple dishes with frequent tea refills.
+**For visitors**: The Sunday morning yum cha is the most authentic experience — arrive at a traditional teahouse between 8-9 AM, expect a possible queue of 30-90 minutes at popular venues, and plan to spend 1.5-2 hours eating slowly through multiple dishes with frequent tea refills.
+
+**Practical tips**:
+- Dim sum is prepared in batches — arriving after 9:30 AM means some items may have sold out or be sitting in warmers. Early is better.
+- Weekday mornings are quieter and have better availability; weekends are the major social event.
+- There is no dress code — Guangzhou teahouses are democratic, and locals show up in everything from pajamas (literally, at 7 AM) to Sunday best.
 
 ## Budget
 

@@ -1,7 +1,7 @@
 ---
 author: Roam China Travel Editorial Team
 pubDatetime: 2026-05-02T08:00:00Z
-modDatetime: 2026-07-20T10:00:00Z
+modDatetime: 2026-07-22T10:00:00Z
 title: "China Cherry Blossom Guide 2026: Best Places, Peak Bloom Dates & Planning Tips"
 featured: false
 draft: false
@@ -15,8 +15,8 @@ tags:
   - yunnan
 description: "China cherry blossom 2026 guide: peak bloom dates for Wuhan, Beijing, Kunming's Yunnan University and Hongta West Road, plus top March flower spots."
 faq:
-  - question: "When do cherry blossoms bloom at Yunnan University in 2026?"
-    answer: "Yunnan University in Kunming blooms early thanks to the city's mild 'Spring City' climate — for 2026, expect peak bloom in early-to-mid March (roughly March 5–20), about two weeks ahead of Wuhan."
+  - question: "When do cherry blossoms bloom at Yunnan University?"
+    answer: "Yunnan University in Kunming blooms early thanks to the city's mild 'Spring City' climate — the season typically runs from late February through March, with peak bloom usually falling in early-to-mid March. For 2026, expect the fullest displays around March 5–20, about two weeks ahead of Wuhan."
   - question: "Where are the best flower blossom destinations in China in March 2026?"
     answer: "For March 2026, the strongest displays are Kunming's Yunnan University and Hongta West Road (early-to-mid March), Wuhan University and East Lake Cherry Garden (mid-to-late March), and Hangzhou's Taiziwan Park and Su Causeway (late March into early April)."
   - question: "When is peak cherry blossom on Hongta West Road, Kunming?"
@@ -28,7 +28,7 @@ ogImage: "https://images.pexels.com/photos/37521621/pexels-photo-37521621.jpeg?a
 
 China's cherry blossom season is less internationally famous than Japan's but covers a vast geographic range — from subtropical Guizhou blooming in late February to Beijing's final displays in April. Across the country, cherry trees planted along universities, parks, and streets create spectacular spring displays.
 
-The best-known and largest cherry blossom site in China is Wuhan University's campus, where thousands of Japanese cherry trees (planted in the 1930s) bloom along steep hillside paths and around Gothic Revival buildings. But the season extends far beyond one campus, and this guide helps you catch the best displays wherever you are.
+The best-known and largest cherry blossom site in China is Wuhan University's campus, where thousands of Japanese cherry trees (planted in the 1930s) bloom along steep hillside paths and around Gothic Revival buildings. But the season extends far beyond one campus, and this guide helps you catch the best displays wherever you are. For the wider spring season beyond cherries — rapeseed flower seas, peonies, peach blossoms, and alpine rhododendrons — see the [China spring flowers guide](/posts/toolkit/china-spring-flowers-guide/).
 
 ## Table of contents
 
@@ -163,7 +163,7 @@ Anshan in Liaoning Province has a specific cherry blossom mountain walk that's l
 
 Kunming's mild climate means cherry blossoms arrive weeks before most of the country, making it one of the best March flower destinations in China. The two standout spots:
 
-**Yunnan University (云南大学):** The original Donglu campus has a famous cherry avenue where mature trees bloom against 1920s-era teaching buildings — a quieter, free alternative to Wuhan's ticketed campus. **2026 peak: early-to-mid March (roughly March 5–20)**, about two weeks earlier than Wuhan. Go on a weekday morning.
+**Yunnan University (云南大学):** The original Donglu campus has a famous cherry avenue where mature trees bloom against 1920s-era teaching buildings — a quieter, free alternative to Wuhan's ticketed campus. The blooming season typically runs from **late February through March**; **2026 peak: early-to-mid March (roughly March 5–20)**, about two weeks earlier than Wuhan. Go on a weekday morning.
 
 **Hongta West Road (红塔西路):** A roadside cherry corridor near Dianchi Lake in the city's south — several kilometres of cherry trees lining the road, free and open to traffic. **2026 peak: roughly March 5–20**, with the fullest displays mid-month. Best photographed early morning before traffic builds.
 

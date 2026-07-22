@@ -1,7 +1,7 @@
 ---
 author: Roam China Travel Editorial Team
 pubDatetime: 2026-05-02T08:00:00Z
-modDatetime: 2026-05-02T10:00:00Z
+modDatetime: 2026-07-22T10:00:00Z
 title: "Zhouzhuang Water Town Guide 2026: China's Most Famous Canal Town"
 featured: false
 draft: false
@@ -97,7 +97,7 @@ There is no train station in Zhouzhuang itself — you must transfer from Kunsha
 
 Zhouzhuang is the most commercialised of China's water towns, but it's also the best-preserved and most photographed for good reason. If you're only visiting one water town and want the classic "Venice of China" experience, Zhouzhuang delivers.
 
-If you want something quieter, consider **Tongli** (30 minutes away) or **Xitang** in Zhejiang. But if you're willing to visit on a weekday morning or stay for the evening, Zhouzhuang at its best is hard to beat.
+If you want something quieter, consider **Tongli** (30 minutes away) or **Xitang** in Zhejiang. And if you're short on time in Shanghai itself, [Zhujiajiao water town](/posts/destinations/shanghai-zhujiajiao-water-town-guide/) — 40km from the Bund, reachable by direct bus or Metro Line 17 — delivers a similar canal-town atmosphere without leaving the city. But if you're willing to visit on a weekday morning or stay for the evening, Zhouzhuang at its best is hard to beat.
 
 ## Practical Tips
 

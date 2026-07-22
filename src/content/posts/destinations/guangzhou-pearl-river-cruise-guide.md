@@ -1,7 +1,7 @@
 ---
 author: Roam China Travel Editorial Team
 pubDatetime: 2026-05-01T08:00:00Z
-modDatetime: 2026-05-01T10:00:00Z
+modDatetime: 2026-07-22T10:00:00Z
 title: "Guangzhou Pearl River Night Cruise Guide 2026: Boats, Routes & City Lights"
 featured: false
 draft: false
@@ -11,7 +11,14 @@ tags:
   - cruise
   - nightlife
   - china
-description: "The Pearl River (Zhujiang) runs through the heart of Guangzhou, and a night cruise is one of the best ways to see the city — the illuminated skyline, the historic bridges, the Canton Tower lit up in colour, and the contrasting old and new architecture of the river banks reflected in the water."
+description: "Guangzhou Pearl River night cruise guide: options and prices, booking tips, departure piers (Tianzi, Xidi, Pazhou wharfs), and the best evening viewing window."
+faq:
+  - question: "Where do Pearl River night cruises depart from in Guangzhou?"
+    answer: "Most cruises leave from Tianzi Wharf (天字码头), the most central pier — a 5-minute walk from Haizhu Square metro station (Lines 2 and 6), with departures from around 6pm and the main sailings at 7:30 and 8:30pm. Some operators also use Xidi Wharf near Shamian Island or Pazhou Wharf east of the Canton Tower."
+  - question: "How much does a Pearl River night cruise cost?"
+    answer: "A standard 60–90 minute sightseeing cruise costs ¥50–80. Dinner cruises run ¥120–350 per person for a 2–2.5 hour trip and should be booked in advance on weekends. Private charters for groups are significantly more expensive."
+  - question: "When is the best time to take a Pearl River night cruise?"
+    answer: "The prime window is 7:30–9:30pm — late enough for full darkness and the illuminated bridges and Canton Tower, early enough to avoid a very late night. Saturday evenings are the most festive (and most crowded), while Spring Festival and the October 1 Golden Week bring special riverside lighting displays."
 ogImage: "https://images.pexels.com/photos/7875319/pexels-photo-7875319.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 

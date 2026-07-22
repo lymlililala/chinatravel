@@ -1,8 +1,15 @@
 ---
 author: Roam China Travel Editorial Team
 pubDatetime: 2026-05-01T08:00:00Z
-modDatetime: 2026-05-01T10:00:00Z
+modDatetime: 2026-07-22T10:00:00Z
 title: "Anshun Guizhou Guide 2026: Huangguoshu Falls, Zhijin Cave & Buyi Minority Villages"
+faq:
+  - question: "What is Anshun in Guizhou famous for?"
+    answer: "Anshun is best known as the gateway to Huangguoshu Waterfall, the largest waterfall in Asia, about 45 km from the city. It is also famous for Zhijin Cave, one of China's largest cave systems, the 600-year-old Ming garrison village of Tianlong Tunpu, and Buyi minority stone villages where traditional indigo batik is still made by hand."
+  - question: "How do I get to Huangguoshu Waterfall from Anshun?"
+    answer: "Buses leave Anshun Bus Station for the Huangguoshu scenic area every 20 minutes; the journey takes about 45 minutes and costs ¥22 ($3 USD). A taxi costs ¥80-100 ($11-14 USD) each way. High-speed trains from Guiyang reach Anshun West Station in 30 minutes, so the waterfall also works as a day trip from the provincial capital."
+  - question: "How many days do you need in Anshun?"
+    answer: "Two to three days is ideal: one full day for Huangguoshu Waterfall and the Tianxingqiao scenic area, one for Zhijin Cave, and a half-day for a Buyi stone village or Tianlong Tunpu. A budget 3-day trip costs roughly ¥980 ($136 USD) including transport, entrance tickets and food."
 featured: false
 draft: false
 tags:
@@ -11,7 +18,7 @@ tags:
   - huangguoshu
   - zhijin-cave
   - buyi
-description: "Discover Anshun, the gateway to Guizhou's most spectacular natural wonders — including Huangguoshu, the largest waterfall in Asia, and the vast Zhijin Cave with its cathedral-scale chambers. This 2026 guide covers both iconic sites in detail, plus the charming Buyi minority stone villages, the historic Anshun old town, local Guizhou cuisine from sour soup to sticky rice, and practical transport advice for exploring this increasingly popular region of southwest China."
+description: "Explore Anshun, Guizhou — gateway to Huangguoshu Waterfall, Asia's largest, plus Zhijin Cave, Buyi stone villages, local food and a 3-day budget."
 ogImage: "https://images.pexels.com/photos/8776833/pexels-photo-8776833.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
@@ -26,6 +33,8 @@ Anshun (安顺) has been dealt an extraordinary geographical hand. Within a 100 
 I visited Anshun on a rainy April trip, and the rain turned out to be a blessing — Huangguoshu Falls was thundering at full capacity, the cave was dripping with theatrical atmosphere, and the Buyi villages were wrapped in mist that made the stone houses look like something from a scroll painting. Anshun may not have the cultural cachet of southeast Guizhou, but as a base for natural wonders, it's hard to beat.
 
 ## Huangguoshu Waterfall (黄果树瀑布)
+
+Huangguoshu is the reason most travellers come to Anshun — and it lives up to the hype. For an even deeper look at the falls and the surrounding region, see the dedicated [Huangguoshu Waterfall guide](/posts/destinations/guizhou-huangguoshu-waterfall-guide/).
 
 ### The Main Falls
 

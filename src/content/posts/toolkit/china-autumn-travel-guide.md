@@ -1,8 +1,8 @@
 ---
 author: Roam China Travel Editorial Team
 pubDatetime: 2026-05-02T08:00:00Z
-modDatetime: 2026-05-02T10:00:00Z
-title: "China in Autumn 2026: Best Destinations September & October"
+modDatetime: 2026-07-22T10:00:00Z
+title: "Autumn Season in China 2026: Weather, Golden Week Strategy & Where to Go"
 featured: false
 draft: false
 tags:
@@ -10,8 +10,15 @@ tags:
   - autumn
   - toolkit
   - planning
-description: "Autumn is China's best season for travel — September-October before the Golden Week crowds (pre-October 1 is ideal), the Xinjiang autumn colors at Kanas, Beijing's Fragrant Hills turning red, Jiuzhaigou in its most spectacular seasonal display, Yunnan harvest season, and why Golden Week (October 1-7) requires specific crowd management strategies."
+description: "Autumn is China's best travel season. September–November weather by region, Golden Week crowd strategy, packing advice, and where to go month by month."
 ogImage: "https://images.pexels.com/photos/36552715/pexels-photo-36552715.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+faq:
+  - question: "When is the autumn season in China?"
+    answer: "Autumn in China runs from mid-September through November. The two best travel windows are late September (September 25-30, before the National Day holiday) and October 8-31, after Golden Week ends — clear skies, comfortable temperatures across most of the country, and manageable crowds. By late November the north turns cold, but Yunnan and the south stay warm."
+  - question: "Is October a good time to visit China?"
+    answer: "October is the single best month for most of China — with one exception. Avoid the National Day Golden Week (October 1-7), when hundreds of millions of domestic tourists travel simultaneously and hotels and trains sell out. From October 8 onwards the crowds drain away, the air is at its clearest, and autumn colour peaks almost everywhere."
+  - question: "What should I pack for China in autumn?"
+    answer: "Layering is essential. In September, summer clothes plus a light evening layer are enough almost everywhere. In October, add a light down jacket or fleece and a waterproof shell — Beijing afternoons can hit 22°C while mornings drop below 10°C. By November, the north needs a proper warm coat, gloves, and hat, while Yunnan, Guangdong, and Hainan remain mild to warm."
 ---
 
 Autumn is genuinely China's best travel season, and most experienced China travellers will tell you so. September and October bring clear skies, comfortable temperatures across almost the entire country, and the dramatic colours of foliage season at exactly the destinations that benefit most from it. The crowds, while real, are more manageable than the Golden Week period if you time your visit intelligently.
@@ -76,17 +83,35 @@ The UNESCO site closes to all visitors from November 15 onwards, and October (po
 **Sichuan-Tibet Highway in October**
 The road between Chengdu and Lhasa reaches its autumn peak in October. The poplar trees lining the rivers turn gold, the harvest is underway in the Tibetan valleys, and the clarity of light before winter sets in is remarkable.
 
-## Autumn Foliage Calendar
+## November: The South Stays Warm
 
-| Location | Peak Colour | Notes |
-|---|---|---|
-| Kanas Lake, Xinjiang | Late September | Birch/larch turning early at altitude |
-| Jiuzhaigou, Sichuan | Mid-October | Blue lakes + golden trees |
-| Beijing Fragrant Hills | Oct 15-30 | Red maples, popular weekends |
-| Changbai Mountain, Jilin | Late September | Forest transition |
-| Wulingyuan / Zhangjiajie | Late October | Cooler, less crowded |
-| Tibetan Plateau valleys | Early October | Golden poplars lining rivers |
-| West Lake, Hangzhou | November | Later than most; ginkgo trees last |
+By late November, northern China begins its winter transition — Beijing and Xi'an drop below 10°C by month's end. But the south and southwest remain excellent.
+
+**Yunnan (entire November):** Arguably the best month for the province. The monsoon is finished, skies are clear, and Dali and Lijiang sit at a comfortable 20-25°C in the valleys with lower visitor numbers than October.
+
+**Guangdong and Fujian (November):** The southern humidity finally breaks. Guangzhou's food scene and the Hakka tulou (earthen roundhouses) of Fujian are comfortable to explore.
+
+**Hainan (November onwards):** Typhoon season ends and the tropical beach season begins — Sanya is at its best from now through April.
+
+**Chengdu (November):** Still mild, and a good time for the Giant Panda Base — cubs born in summer are active and visible by autumn.
+
+## Autumn Weather by Region
+
+| Region | September | October | November |
+|---|---|---|---|
+| Beijing / North China | 20-28°C, pleasant | 12-22°C, ideal | 2-12°C, cold |
+| Xi'an | 18-26°C | 10-20°C | 5-13°C |
+| Shanghai / Jiangnan | 22-30°C | 16-25°C | 10-18°C |
+| Chengdu / Sichuan | 20-28°C | 15-22°C | 10-18°C |
+| Guilin / Guangxi | 24-32°C | 20-28°C | 14-24°C |
+| Yunnan (Lijiang) | 15-22°C | 12-20°C | 8-18°C |
+| Tibet / Qinghai | 5-15°C | 0-10°C | -10-5°C |
+| Xinjiang (Altai) | 10-20°C | 0-10°C | Cold |
+| Hainan | 28-34°C | 26-32°C | 24-30°C |
+
+## Autumn Colour: Where to Chase the Foliage
+
+Autumn colour is its own subject, and this guide deliberately keeps to the seasonal overview. For peak-colour timing and the 16 best foliage destinations — Kanas Lake, Jiuzhaigou, Beijing's Fragrant Hills, Benxi's maple mountains, Shanghai's ginkgo streets, and more — see the dedicated [China autumn foliage guide](/posts/toolkit/china-autumn-foliage-guide/).
 
 ## Practical Autumn Planning
 
@@ -94,6 +119,6 @@ The road between Chengdu and Lhasa reaches its autumn peak in October. The popla
 
 **Consider the post-week dip:** October 8-15 is a sweet spot — many domestic tourists have returned to work, prices return to normal, but the autumn conditions are at their peak.
 
-**What to pack:** Layering is important. Temperatures swing from 25°C at midday to 8°C at night in Beijing in October. Evenings in Jiuzhaigou and high-altitude destinations require a proper warm layer.
+**What to pack:** Layering is important — temperatures swing from 25°C at midday to 8°C at night in Beijing in October. September calls for summer clothes with a light evening layer; October needs a light down jacket or fleece plus a waterproof shell; November means a proper warm coat, gloves, and hat in the north, while Yunnan and the south stay manageable in lighter layers. Evenings in Jiuzhaigou and other high-altitude destinations require a genuinely warm layer from late September onwards.
 
 **Camera timing:** The mid-October light in China is often extraordinary — warm, low-angle afternoon light that makes every subject look good. Plan your major outdoor sites for afternoon (3-5pm) rather than the busy morning slots.

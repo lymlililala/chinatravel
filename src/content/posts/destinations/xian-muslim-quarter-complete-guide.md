@@ -1,8 +1,8 @@
 ---
 author: Roam China Travel Editorial Team
 pubDatetime: 2026-05-01T08:00:00Z
-modDatetime: 2026-05-01T10:00:00Z
-title: "Xi'an Muslim Quarter Complete Guide 2026: Street Food, Mosque & Silk Road Culture Hub"
+modDatetime: 2026-07-22T10:00:00Z
+title: "Xi'an Muslim Street (Muslim Quarter): Complete Guide 2026 — Street Food, Great Mosque & Silk Road Culture"
 featured: false
 draft: false
 tags:
@@ -11,7 +11,14 @@ tags:
   - street-food
   - silk-road
   - hui-culture
-description: "Xi'an's Muslim Quarter (Huimin Jie) is one of China's most vibrant food and cultural streets — a living legacy of the Silk Road, where Hui Muslim families have maintained their community, food traditions and the magnificent Great Mosque for over a thousand years. This 2026 guide covers the best food, the Great Mosque visit, navigation tips, timing and how to experience the Muslim Quarter authentically."
+description: "Xi'an Muslim Street (Muslim Quarter) guide: the best street food, the Great Mosque, halal etiquette, timing and how to explore Huimin Jie like a local."
+faq:
+  - question: "What is the Muslim Street in Xi'an famous for?"
+    answer: "Xi'an's Muslim Street — the Muslim Quarter (Huimin Jie) around Beiyuanmen pedestrian street — is famous above all for its street food: rou jia mo (halal beef or lamb burgers), yangrou paomo (mutton bread soup), biangbiang noodles, cumin-spiced mutton skewers and traditional pastries. It is also home to the Great Mosque of Xi'an, founded in the Tang Dynasty, and to one of China's oldest living Hui Muslim communities, descended from Silk Road merchants."
+  - question: "Is Xi'an Muslim Street the same as the Muslim Quarter?"
+    answer: "Yes. 'Muslim Street' is the common English name for Xi'an's Muslim Quarter (回民街, Huimin Jie) — the network of lanes north of the Drum Tower centred on Beiyuanmen pedestrian street. Both names refer to the same Hui Muslim neighbourhood and food street."
+  - question: "When is the best time to visit Xi'an Muslim Street?"
+    answer: "Evening from about 17:00 to 21:00 is the liveliest time, when every food stall is operating and the lanterns are lit. Come between 07:00 and 09:00 for a quieter visit — breakfast stalls are open and the Great Mosque is calm before tour groups arrive. Avoid Chinese national holidays, when the quarter is overwhelmed."
 ogImage: "https://images.unsplash.com/photo-1742689502050-a407e55af693?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw0fHxtdXNsaW0lMjBxdWFydGVyfGVufDB8MHx8fDE3ODE5MjYyMTd8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
 ---
 
@@ -19,7 +26,7 @@ ogImage: "https://images.unsplash.com/photo-1742689502050-a407e55af693?ixid=M3w5
 
 The Muslim Quarter of Xi'an is one of the few places in China where you can walk into a street scene that has maintained substantial continuity for over a thousand years. The Hui Muslim community here traces its roots to the Tang Dynasty (618–907), when Xi'an — then Chang'an — was the eastern terminus of the Silk Road and the most cosmopolitan city in the world. Merchants from Persia, Arabia and Central Asia settled in the northwest of the city; their descendants are still here.
 
-The Muslim Quarter (回民街, Huimin Jie) today is very much a working community as well as a tourist destination. The 60,000+ Hui residents of this district maintain their religious practice, their distinctive architecture and, most famously, their food culture. The food here is justifiably world-famous among food obsessives.
+The Muslim Quarter (回民街, Huimin Jie) — often called Muslim Street in English-language guidebooks and on signage — today is very much a working community as well as a tourist destination. The 60,000+ Hui residents of this district maintain their religious practice, their distinctive architecture and, most famously, their food culture. The food here is justifiably world-famous among food obsessives.
 
 ## The Food You Must Eat
 
@@ -45,6 +52,10 @@ The broth is rich, slightly gamey, warming. The pickled garlic is a necessary co
 
 Thick, wide, hand-pulled noodles (often as wide as a belt) in a chilli oil sauce. The character 'biang' is one of the most complex Chinese characters, containing 57 strokes — deliberately created for a word that has no literary precedent. The noodles are served with a vinegar-and-chilli sauce poured over, sometimes with tomato and egg, sometimes with braised pork. ¥15–¥25 per bowl.
 
+### Liangpi (凉皮) — Cold Noodle Skin
+
+Cold wheat or rice starch noodles dressed with rice vinegar, chilli oil, sesame paste, cucumber and bean sprouts — refreshing, slightly numbing and addictive in hot weather. The Xi'an variant is Qin Zhen Liangpi (秦镇米皮): rice-based, softer than the wheat version, paired with gluten pieces (面筋). Sold from carts throughout the quarter; ¥10–¥15 per portion.
+
 ### Xi'an-Style Stuffed Flatbread (油泼辣子夹馍)
 
 A simpler version of rou jia mo: the hot flat bread stuffed with fried egg and spiced oil. Street food at its most direct. ¥5–¥8.
@@ -55,7 +66,7 @@ Available from dozens of charcoal grill carts throughout the Muslim Quarter. Xi'
 
 ### Date Pastries and Sweet Items
 
-Multiple shops in the quarter sell traditional pastries: date-stuffed shortbreads, sesame biscuits, honey cakes and rose-flavoured sugar. Good gifts and snacks; budget ¥20–¥50 ($3–$7) for an assortment.
+Multiple shops in the quarter sell traditional pastries: date-stuffed shortbreads, sesame biscuits, walnut cakes (核桃饼) filled with walnut paste, honey cakes and rose-flavoured sugar. Good gifts and snacks; budget ¥20–¥50 ($3–$7) for an assortment. To drink, look for suan mei tang (酸梅汤) — a dark, tart plum drink sold the traditional way from large clay jars at several old shops on Beiyuanmen.
 
 ## Great Mosque of Xi'an (清真大寺)
 
@@ -89,7 +100,7 @@ The lane leading directly to the Great Mosque entrance; lined with shops selling
 
 ### Laodong Hutong and Surrounding Residential Areas
 
-The residential blocks north and west of Beiyuanmen contain the highest density of original Ming-Qing architecture in the quarter. Some blocks retain their original courtyard house rows intact. Walking here with awareness of being in a living neighbourhood (not gawking or photographing residents intrusively) provides the most authentic encounter with the community.
+The residential blocks north and west of Beiyuanmen contain the highest density of original Ming-Qing architecture in the quarter. Some blocks retain their original courtyard house rows intact. The lanes north of the Great Mosque — Xuanfeng Alley (旋风巷), Dapiyuan Street (大皮院) and Xibei Xiang (西北巷) — are the actual living neighbourhood: children at courtyard schools, the smell of fresh bread from family ovens, elderly men in white prayer caps playing chess at street corners. Walking here with awareness of being in a living neighbourhood (not gawking or photographing residents intrusively) provides the most authentic encounter with the community.
 
 ## Drum Tower and Bell Tower Context
 
@@ -115,7 +126,7 @@ The Muslim Quarter sits immediately north of Xi'an's Drum Tower (鼓楼) and Bel
 - **Budget:** You can eat extremely well here for ¥50–¥80 per person ($7–$11). Don't pay tourist prices at restaurants with pictures on the menus; follow the locals to the stalls.
 - **Bargaining:** Souvenir and craft shops expect mild bargaining. Food stalls do not; the prices are fair already.
 - **Photography:** Always ask before photographing individuals. Food stalls are generally fine; inside the mosque, people in prayer require respect and discretion.
-- **Getting here:** The Muslim Quarter is a 10-minute walk north from the Bell Tower. Metro Line 2 to the Bell Tower stop, then walk north on Xida Street to find the Drum Tower.
+- **Getting here:** The Muslim Quarter is a 10-minute walk north from the Bell Tower. Metro Line 2 or Line 6 to the Bell Tower (Zhonglou) stop, then walk north on Xida Street to find the Drum Tower.
 
 ## Accommodation Near the Muslim Quarter
 

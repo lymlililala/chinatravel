@@ -60,4 +60,4 @@ Xi'an has one of China's strongest live music scenes outside of Beijing and Shan
 
 The **Qin Opera (秦腔)** — Xi'an's own operatic tradition, described as the "original opera" from which all Chinese opera forms developed — is performed nightly at the Yisucheng Theatre near the Bell Tower.
 
-*Also see: [Xi'an Terracotta Warriors Guide](/posts/destinations/xian-terracotta-army-complete-guide/) | [Xi'an Muslim Quarter Food Guide](/posts/destinations/xian-muslim-quarter-food-guide/) | [Xi'an 7-Day Itinerary](/posts/toolkit/xian-chengdu-chongqing-7-day-itinerary/)*
+*Also see: [Xi'an Terracotta Warriors Guide](/posts/destinations/xian-terracotta-army-complete-guide/) | [Xi'an Muslim Street (Muslim Quarter) Guide](/posts/destinations/xian-muslim-quarter-complete-guide/) | [Xi'an 7-Day Itinerary](/posts/toolkit/xian-chengdu-chongqing-7-day-itinerary/)*

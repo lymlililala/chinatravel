@@ -52,7 +52,7 @@ China's two week-long national holidays cause the biggest travel surges of the y
 | **Mid-Autumn Festival** | Late September | Often runs into Golden Week; mooncakes everywhere |
 | **National Day Golden Week** | 1–7 October | Peak crowds and prices nationwide; sights hit visitor caps |
 
-**Read next:** [Spring Festival Travel Guide](/posts/toolkit/china-spring-festival-how-to-guide/) · [October Golden Week Guide](/posts/toolkit/china-october-golden-week-guide/)
+**Read next:** [Spring Festival Travel Guide](/posts/toolkit/china-spring-festival-how-to-guide/) · [October Golden Week Guide](/posts/toolkit/china-golden-week-october-survival-guide/)
 
 ## Best time to visit in 2026
 

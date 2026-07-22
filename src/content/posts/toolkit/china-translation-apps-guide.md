@@ -1,16 +1,23 @@
 ---
 author: Roam China Travel Editorial Team
 pubDatetime: 2026-05-01T08:00:00Z
-modDatetime: 2026-05-01T10:00:00Z
-title: "China Translation Apps Guide 2026: Best Tools for Communicating Without Mandarin"
+modDatetime: 2026-07-22T10:00:00Z
+title: "Best Translation Apps for China 2026: Communicate Without Mandarin"
 featured: false
+faq:
+  - question: "What is the best translation app for China?"
+    answer: "Google Translate is the best translation app for China if you have a VPN — its camera mode instantly translates menus, signs, and labels. Without a VPN, Microsoft Translator is the best alternative because it works freely in mainland China."
+  - question: "Do translation apps work in China without a VPN?"
+    answer: "Yes. Microsoft Translator and Baidu Translate both work in mainland China without a VPN, with camera and voice translation comparable to Google's. Google Translate is blocked and requires a VPN set up before you arrive."
+  - question: "Can I use Google Translate offline in China?"
+    answer: "Yes. Download the Simplified Chinese language pack before your trip (Settings > Downloaded Languages) and camera translation and text translation will work without an internet connection."
 draft: false
 tags:
   - apps
   - language
   - practical
   - china
-description: "Not speaking Mandarin used to make travelling independently in China genuinely difficult. In 2026, translation technology has largely solved this problem. This guide covers the best translation apps, how to use them for menus, signs, and conversations, and what to do when technology isn't enough."
+description: "The best translation apps for China in 2026: camera, voice, and offline tools compared, plus our pick for the best translation app if you only download one."
 ogImage: "https://images.pexels.com/photos/10774603/pexels-photo-10774603.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 

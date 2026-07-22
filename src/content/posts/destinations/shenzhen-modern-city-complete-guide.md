@@ -157,4 +157,4 @@ A morning in the botanical garden with the monks' breakfast of congee (if you ti
 
 ---
 
-*Also see: [Guangdong Pearl River Delta Guide](/posts/destinations/guangdong-pearl-river-delta-guide/) | [Guangzhou Dim Sum Guide](/posts/destinations/guangzhou-dim-sum-yum-cha-guide/) | [China Shopping Guide](/posts/toolkit/china-shopping-what-to-buy-guide/)*
+*Also see: [Guangdong Pearl River Delta Guide](/posts/destinations/guangdong-pearl-river-delta-guide/) | [Guangzhou Dim Sum Guide](/posts/destinations/guangzhou-dim-sum-complete-guide/) | [China Shopping Guide](/posts/toolkit/china-shopping-what-to-buy-guide/)*

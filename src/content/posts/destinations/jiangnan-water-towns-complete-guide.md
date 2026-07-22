@@ -1,7 +1,7 @@
 ---
 author: Roam China Travel Editorial Team
 pubDatetime: 2025-05-01T08:00:00Z
-modDatetime: 2026-05-20T10:00:00Z
+modDatetime: 2026-07-22T10:00:00Z
 title: "Jiangnan Water Towns Complete Guide: Wuzhen, Xitang, Tongli, Zhouzhuang and Nanxun"
 featured: false
 draft: false
@@ -30,6 +30,8 @@ The Jiangnan (江南, "South of the Yangtze") region — encompassing Shanghai, 
 | Tongli | 80km (1.5h) | Moderate | ¥100–¥130 | Classical gardens, quieter canal experience |
 | Zhouzhuang | 60km (1h) | High | ¥100 | The "original"; double bridges |
 | Nanxun | 130km (2h) | Low-Moderate | ¥60–¥80 | East-West architecture blend, less crowded |
+
+One notable town missing from this list is [Zhujiajiao water town](/posts/destinations/shanghai-zhujiajiao-water-town-guide/), which sits inside Shanghai's own Qingpu District — just 40km from the Bund and reachable by direct bus or Metro Line 17 in about an hour. It's free to enter and by far the easiest canal town to visit from Shanghai, making it the default choice when time is short.
 
 ---
 

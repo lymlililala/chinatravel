@@ -58,4 +58,4 @@ The Museum of the Nanyue Kingdom houses the tomb of Zhao Mo (died 122 BC), the s
 
 One of the best-presented archaeological museums in China. The tomb chamber is preserved in situ, allowing visitors to enter the original burial space.
 
-*Also see: [Guangzhou Travel Guide](/posts/destinations/guangzhou-travel-guide/) | [Guangzhou Dim Sum Guide](/posts/destinations/guangzhou-dim-sum-yum-cha-guide/) | [Guangdong Pearl River Delta Guide](/posts/destinations/guangdong-pearl-river-delta-guide/)*
+*Also see: [Guangzhou Travel Guide](/posts/destinations/guangzhou-travel-guide/) | [Guangzhou Dim Sum Guide](/posts/destinations/guangzhou-dim-sum-complete-guide/) | [Guangdong Pearl River Delta Guide](/posts/destinations/guangdong-pearl-river-delta-guide/)*

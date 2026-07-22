@@ -133,7 +133,10 @@ function getThumb(id: string): string {
 }
 ---
 
-<Layout title={`Travel Essentials | ${config.site.title}`}>
+<Layout
+  title={`China Travel Toolkit 2026: Visa, Payment, Transport & Planning Guides | ${config.site.title}`}
+  description="China travel toolkit 2026: visa-free entry, Alipay & WeChat Pay setup, high-speed trains, must-have apps, itineraries and seasonal planning guides."
+>
   <Header />
 
   <main id="main-content">
@@ -366,11 +369,10 @@ function getThumb(id: string): string {
 
         <div class="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
           {toolkitArticles.map((post) => {
-            const slug = post.id.replace(/^(destinations|toolkit)\//, "");
             const thumb = getThumb(post.id);
             return (
               <a
-                href={`/posts/${slug}/`}
+                href={`/posts/${post.id}/`}
                 class="group relative flex flex-col overflow-hidden rounded-2xl border border-border bg-[var(--card-bg)] shadow-sm transition-all duration-300 hover:shadow-xl hover:-translate-y-1.5 hover:border-accent/25"
               >
                 <!-- Thumbnail -->

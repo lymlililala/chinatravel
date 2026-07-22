@@ -1,15 +1,16 @@
 ---
+author: Roam China Travel Editorial Team
 title: "Temple Street Night Market Hong Kong: Stalls, Opera & Food"
 description: "Temple Street Night Market in Hong Kong: stalls, fortune tellers, dai pai dong and Cantonese opera in Jordan, Kowloon. Opening hours, location and what to buy."
 ogImage: "https://images.pexels.com/photos/2481626/pexels-photo-2481626.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 pubDatetime: 2026-05-27T08:00:00Z
-modDatetime: 2026-07-20T10:00:00Z
+modDatetime: 2026-07-22T10:00:00Z
 destination: "Hong Kong"
 tags: ["hong-kong", "temple-street", "night-market", "hong-kong-night-market", "jordan", "kowloon", "fortune-tellers", "cantonese-opera", "seafood", "jade-market", "dai-pai-dong"]
 faq:
-  - question: "Where is Temple Street Night Market in Hong Kong?"
-    answer: "Temple Street Night Market runs along Temple Street in the Jordan–Yau Ma Tei area of Kowloon, Hong Kong, stretching roughly 600 metres from Jordan Road to Kansu Street. Take the MTR to Jordan Station and use Exit A or D — the market entrance is a two-minute walk."
-  - question: "What time does Temple Street Night Market open and close?"
+  - question: "Where is Temple Street Night Market located?"
+    answer: "Temple Street Night Market runs along Temple Street in the Jordan–Yau Ma Tei area of Kowloon, Hong Kong, stretching roughly 600 metres from Jordan Road to Kansu Street. Take the MTR to Jordan Station (Exit A or D, a two-minute walk) or Yau Ma Tei Station (Exit C, about five minutes)."
+  - question: "What time does Temple Street Night Market open?"
     answer: "Stalls begin setting up around 14:00–16:00, the market is in full swing by 18:30–19:00, and most stalls stay open until 23:00–00:00. The best window for atmosphere without weekend crowds is 19:00–21:00 on a weeknight."
   - question: "What can you buy at Temple Street Night Market?"
     answer: "The stalls sell electronics accessories, watches, lighters, tools, clothing and shoes, with price negotiation expected — start around 60% of the first quoted price. At the northern end, the Jade Market offers jade, gemstones and amber; stick to inexpensive pieces unless you can assess jade quality yourself."
@@ -41,7 +42,7 @@ Today the gender distinction has largely faded, though the market retains a masc
 
 ## Temple Street Night Market Location: How to Get There & Opening Hours
 
-**MTR:** Jordan Station (荔枝角 MTR Line); Exit A or D leads directly to Temple Street (2-minute walk).
+**MTR:** Jordan Station (Tsuen Wan Line); Exit A or D leads directly to Temple Street (2-minute walk). Alternatively, Yau Ma Tei Station Exit C puts you at the northern end of the market near the Jade Market (5-minute walk) — useful if you want to walk the market south-to-north or north-to-south without backtracking.
 
 **Hours:** Stalls begin setting up around **14:00–16:00**; the market is in full swing by **18:30–19:00**; most stalls remain open until **23:00–00:00**.
 

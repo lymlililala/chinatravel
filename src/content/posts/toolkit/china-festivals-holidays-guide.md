@@ -179,4 +179,4 @@ Chinese holidays shift each year because Spring Festival and several others foll
 
 ---
 
-*Also see: [Best Time to Visit China](/posts/toolkit/best-time-to-visit-china/) | [China Autumn Travel Guide](/posts/toolkit/china-autumn-fall-travel-guide/) | [China Winter Travel Guide](/posts/toolkit/china-winter-travel-guide/)*
+*Also see: [Best Time to Visit China](/posts/toolkit/best-time-to-visit-china/) | [China Autumn Travel Guide](/posts/toolkit/china-autumn-travel-guide/) | [China Winter Travel Guide](/posts/toolkit/china-winter-travel-guide/)*

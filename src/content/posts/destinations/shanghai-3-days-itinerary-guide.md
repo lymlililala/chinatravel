@@ -1,7 +1,7 @@
 ---
 author: Roam China Travel Editorial Team
 pubDatetime: 2026-05-02T08:00:00Z
-modDatetime: 2026-05-02T10:00:00Z
+modDatetime: 2026-07-22T10:00:00Z
 title: "3 Days in Shanghai: The Perfect First-Timer's Itinerary"
 featured: false
 draft: false
@@ -92,7 +92,7 @@ For dinner, the streets around Jing'an and Changshu Road metro stations have Sha
 
 ### Morning & Afternoon: Zhujiajiao
 
-**Zhujiajiao** (朱家角) is 45 minutes from Shanghai by direct bus and is the easiest authentic water town day trip. Unlike the more-marketed Tongli or Wuzhen, it can comfortably be done in half a day.
+**Zhujiajiao** (朱家角) is 45 minutes from Shanghai by direct bus and is the easiest authentic water town day trip. Unlike the more-marketed Tongli or Wuzhen, it can comfortably be done in half a day. Our dedicated [Zhujiajiao water town](/posts/destinations/shanghai-zhujiajiao-water-town-guide/) guide covers the back canals, the best local restaurants, and overnight guesthouse options in more detail.
 
 **Getting there:** Buses depart from Pu'an Road (next to People's Square) every 20-30 minutes (¥15 one-way, ~50 min). Taxis cost ¥150-180 each way.
 

@@ -9,7 +9,7 @@ tags: ["xinjiang", "kanas", "autumn", "photography", "tuva-village", "hemu", "ho
 
 # Kanas Lake Autumn: Northern Xinjiang's Most Spectacular Season
 
-In the northern tip of Xinjiang, where the Altay Mountains form the border with Russia and Mongolia, a glacial lake of extraordinary transparency fills a valley carved by Ice Age glaciers. **Kanas Lake (喀纳斯湖)** is China's deepest freshwater lake, fed by snowmelt from Friendship Peak (友谊峰, 4,374 m), and surrounded by a forest that, in the brief weeks between late September and mid-October, transforms into one of the most spectacular autumn colour displays in Asia.
+**Kanas Lake (喀纳斯湖)** in autumn is northern Xinjiang at its most spectacular — a glacial lake of extraordinary transparency filling a valley carved by Ice Age glaciers, in the far northern tip of the region where the Altay Mountains form the border with Russia and Mongolia. China's deepest freshwater lake, fed by snowmelt from Friendship Peak (友谊峰, 4,374 m), it is surrounded by a forest that, in the brief weeks between late September and mid-October, transforms into one of the most spectacular autumn colour displays in Asia.
 
 ---
 

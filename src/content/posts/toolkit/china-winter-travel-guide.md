@@ -105,7 +105,7 @@ Xiamen (厦门) on China's southeastern coast has mild winters (12–18°C) and 
 
 Guangzhou's winter (15–22°C) is genuinely pleasant. The city's world-class Cantonese food scene is the primary draw, and the Guangzhou International Light Festival (December–January) illuminates the city beautifully.
 
-[Guangzhou dim sum guide here](/posts/destinations/guangzhou-dim-sum-yum-cha-guide/).
+[Guangzhou dim sum guide here](/posts/destinations/guangzhou-dim-sum-complete-guide/).
 
 ---
 

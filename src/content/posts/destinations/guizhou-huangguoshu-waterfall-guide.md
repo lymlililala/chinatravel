@@ -1,7 +1,7 @@
 ---
 author: Roam China Travel Editorial Team
 pubDatetime: 2026-05-04T08:00:00Z
-modDatetime: 2026-05-20T10:00:00Z
+modDatetime: 2026-07-22T10:00:00Z
 title: "Huangguoshu Waterfall & Ancient Villages: Guizhou's Hidden Southwest"
 featured: false
 draft: false
@@ -31,7 +31,7 @@ Guizhou also happens to have exceptional food, China's best-known rice wine (Mou
 | Getting there | Fly to Anshun (AKU) from major cities; or high-speed rail to Guiyang (2–4 hrs from most major cities), then 1 hr train to Anshun |
 | Huangguoshu ticket | ¥160 (waterfall + surrounding park); book online in advance |
 | Best season | June–September when rainfall is highest and falls are most powerful; May and October for balance of flow and weather |
-| Combine with | Zhijin Cave (30 km north), Buyi stone villages, Anshun old town |
+| Combine with | Zhijin Cave (30 km north), Buyi stone villages, Anshun old town — see the [Anshun guide](/posts/destinations/guizhou-anshun-guide/) for a full regional itinerary |
 
 ## Huangguoshu Waterfall (黄果树瀑布)
 

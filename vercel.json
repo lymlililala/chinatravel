@@ -2389,6 +2389,116 @@
       "source": "/tags/chunyun/",
       "destination": "/tags/spring-festival/",
       "permanent": true
+    },
+    {
+      "source": "/posts/destinations/beijing-798-hutong-culture-guide",
+      "destination": "/posts/destinations/beijing-798-art-district-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/beijing-798-hutong-culture-guide/",
+      "destination": "/posts/destinations/beijing-798-art-district-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/beijing-798-sanlitun-modern-culture",
+      "destination": "/posts/destinations/beijing-798-art-district-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/beijing-798-sanlitun-modern-culture/",
+      "destination": "/posts/destinations/beijing-798-art-district-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/chengdu-widenarrow-alley-guide",
+      "destination": "/posts/destinations/chengdu-wide-narrow-lanes-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/chengdu-widenarrow-alley-guide/",
+      "destination": "/posts/destinations/chengdu-wide-narrow-lanes-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-october-golden-week-guide",
+      "destination": "/posts/toolkit/china-golden-week-october-survival-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-october-golden-week-guide/",
+      "destination": "/posts/toolkit/china-golden-week-october-survival-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-long-distance-train-sleeper-guide",
+      "destination": "/posts/toolkit/china-overnight-sleeper-train-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-long-distance-train-sleeper-guide/",
+      "destination": "/posts/toolkit/china-overnight-sleeper-train-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-night-train-tips-guide",
+      "destination": "/posts/toolkit/china-overnight-sleeper-train-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-night-train-tips-guide/",
+      "destination": "/posts/toolkit/china-overnight-sleeper-train-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-train-overnight-sleeper-etiquette",
+      "destination": "/posts/toolkit/china-overnight-sleeper-train-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-train-overnight-sleeper-etiquette/",
+      "destination": "/posts/toolkit/china-overnight-sleeper-train-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-autumn-fall-travel-guide",
+      "destination": "/posts/toolkit/china-autumn-travel-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/toolkit/china-autumn-fall-travel-guide/",
+      "destination": "/posts/toolkit/china-autumn-travel-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/hainan-sanya-beaches-guide",
+      "destination": "/posts/destinations/sanya-beach-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/hainan-sanya-beaches-guide/",
+      "destination": "/posts/destinations/sanya-beach-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/xian-muslim-quarter-food-guide",
+      "destination": "/posts/destinations/xian-muslim-quarter-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/xian-muslim-quarter-food-guide/",
+      "destination": "/posts/destinations/xian-muslim-quarter-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/guangzhou-dim-sum-yum-cha-guide",
+      "destination": "/posts/destinations/guangzhou-dim-sum-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/destinations/guangzhou-dim-sum-yum-cha-guide/",
+      "destination": "/posts/destinations/guangzhou-dim-sum-complete-guide/",
+      "permanent": true
     }
   ]
 }

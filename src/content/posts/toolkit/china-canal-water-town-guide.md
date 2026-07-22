@@ -88,6 +88,8 @@ See the separate Wuzhen guide for a full analysis. The essential summary: Wuzhen
 | Day trip from Shanghai | Tongli or Xitang (2–2.5 hours each) |
 | Family with children | Wuzhen (best facilities) |
 
+If you're based in Shanghai with only a few hours to spare, [Zhujiajiao water town](/posts/destinations/shanghai-zhujiajiao-water-town-guide/) is the practical choice — it sits inside the city's Qingpu District and is reachable by direct bus or Metro Line 17 in about an hour, with free entry to the town itself.
+
 ---
 
 ## Practical Tips for All Water Towns

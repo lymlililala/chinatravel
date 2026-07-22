@@ -1,7 +1,7 @@
 ---
 author: Roam China Travel Editorial Team
 pubDatetime: 2026-04-22T08:00:00Z
-modDatetime: 2026-07-20T10:00:00Z
+modDatetime: 2026-07-22T10:00:00Z
 title: "Zhujiajiao Water Town: Shanghai's Best Day Trip to Ancient Canals"
 featured: false
 draft: false
@@ -18,8 +18,8 @@ ogImage: "https://images.pexels.com/photos/37015407/pexels-photo-37015407.jpeg?a
 faq:
   - question: "Is Zhujiajiao the best water town near Shanghai?"
     answer: "For most visitors, yes. Zhujiajiao is the most accessible and best-preserved ancient water town in the Shanghai area — better than Qibao (now essentially a shopping mall with canals) and more historically intact than Jinze. It also has the easiest direct bus connection from the city centre."
-  - question: "How do I get to Zhujiajiao from downtown Shanghai?"
-    answer: "Take direct Bus 1701 from the Puyang Road Transportation Hub (¥12, about 1 hour). A taxi from the city centre costs ¥120–160 and takes around 45 minutes without traffic."
+  - question: "How do I get to Zhujiajiao water town from Shanghai?"
+    answer: "The simplest route from downtown Shanghai to Zhujiajiao water town is direct Bus 1701 from the Puyang Road Transportation Hub (¥12, about 1 hour). Alternatively, take Metro Line 17 to Zhujiajiao station and walk or hop on a short local bus to the old town entrance. A taxi or Didi from the city centre costs ¥120–160 and takes around 45 minutes without traffic."
   - question: "How much time do you need in Zhujiajiao?"
     answer: "Four to six hours covers the main sights, the back canals, and a meal. Staying overnight in a traditional guesthouse lets you experience the town in the early morning and evening, after the day-trippers leave."
   - question: "Is Zhujiajiao free to enter?"
@@ -47,7 +47,9 @@ Zhujiajiao is the most accessible and best-preserved of the ancient water towns 
 | Best day | Tuesday–Thursday (quieter); avoid national holidays |
 | Recommended duration | 4–6 hours; overnight possible with accommodation in the town |
 
-## How to Get to Zhujiajiao from Downtown Shanghai
+## How to Get to Zhujiajiao Water Town from Shanghai
+
+Getting from Shanghai to Zhujiajiao water town is straightforward, with three realistic options depending on budget and starting point: direct bus, metro, or taxi.
 
 The simplest route is the direct bus. From the Puyang Road Transportation Hub, **Bus 1701** runs straight to Zhujiajiao for ¥12 and takes about an hour — buy your ticket at the hub counter and keep the stub for the return. Buses fill up on weekend mornings, so aim to board before 8:30 AM.
 

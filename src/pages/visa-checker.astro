@@ -134,6 +134,62 @@ const description = "Free China visa checker — select your nationality to inst
         <span aria-hidden="true">🛂</span> How to Apply for a China Tourist Visa
       </a>
     </div>
+
+    <!-- Documents section -->
+    <section class="mt-12">
+      <h2
+        class="mb-3 text-2xl font-extrabold leading-tight text-foreground"
+        style="font-family: var(--font-playfair), Georgia, serif; letter-spacing: -0.02em;"
+      >
+        Documents needed for a Chinese visa application
+      </h2>
+      <p class="mb-4 text-muted-foreground">
+        If the checker above says you need a tourist (L) visa, prepare the following before you apply. Requirements vary slightly by embassy, so confirm the exact list with your local Chinese visa application centre.
+      </p>
+      <ul class="list-disc space-y-2 pl-6 text-muted-foreground">
+        <li>A passport valid for at least 6 months beyond your arrival date, with at least two blank visa pages.</li>
+        <li>A completed Chinese visa application form (filled in online via the COVA system, printed and signed).</li>
+        <li>A recent passport-style photo (48×33 mm, taken within the last 6 months, plain light background).</li>
+        <li>Round-trip flight bookings and hotel reservations covering your stay — or an invitation letter from a host or travel agency in China.</li>
+        <li>Proof of funds (recent bank statements) where required by your local embassy.</li>
+      </ul>
+    </section>
+
+    <!-- Step-by-step section -->
+    <section class="mt-12">
+      <h2
+        class="mb-3 text-2xl font-extrabold leading-tight text-foreground"
+        style="font-family: var(--font-playfair), Georgia, serif; letter-spacing: -0.02em;"
+      >
+        How to apply for a China tourist visa, step by step
+      </h2>
+      <ol class="list-decimal space-y-2 pl-6 text-muted-foreground">
+        <li><strong class="font-semibold text-foreground">Check your eligibility.</strong> Use the checker above to confirm whether you actually need a visa or can travel visa-free.</li>
+        <li><strong class="font-semibold text-foreground">Fill in the application form.</strong> Complete the online COVA form, print it and sign it.</li>
+        <li><strong class="font-semibold text-foreground">Book an appointment</strong> at your nearest Chinese visa application service centre or embassy.</li>
+        <li><strong class="font-semibold text-foreground">Submit your documents and biometrics.</strong> Attend the appointment in person with your passport, form and supporting papers, and provide fingerprints.</li>
+        <li><strong class="font-semibold text-foreground">Collect your passport.</strong> Pick it up with the visa sticker after processing — typically 4 working days for regular service.</li>
+      </ol>
+      <p class="mt-4 text-muted-foreground">
+        For a deeper walkthrough with screenshots and fee tables, read the <a href={getRelativeLocaleUrl(locale, "posts/toolkit/china-visa-application-guide")} class="font-medium text-accent transition-colors hover:underline">full China visa application guide</a>.
+      </p>
+    </section>
+
+    <!-- Visa policy categories -->
+    <section class="mt-12">
+      <h2
+        class="mb-3 text-2xl font-extrabold leading-tight text-foreground"
+        style="font-family: var(--font-playfair), Georgia, serif; letter-spacing: -0.02em;"
+      >
+        China's 2026 visa policy at a glance
+      </h2>
+      <ul class="space-y-3 text-muted-foreground">
+        <li><strong class="font-semibold text-foreground">Visa-free for up to 30 days</strong> — most of Europe and much of Asia-Pacific, e.g. the United Kingdom, France, Germany, Spain, Italy, Australia, New Zealand, Japan, South Korea, Singapore and Malaysia.</li>
+        <li><strong class="font-semibold text-foreground">Visa-free for up to 15 days</strong> — a smaller group including Russia and Brunei.</li>
+        <li><strong class="font-semibold text-foreground">Visa-free transit up to 240 hours (10 days)</strong> — for nationalities such as the United States, Canada, Mexico, Indonesia and the Philippines when travelling onward to a third country via eligible ports.</li>
+        <li><strong class="font-semibold text-foreground">Visa required</strong> — nationalities such as India generally need a standard L tourist visa arranged in advance.</li>
+      </ul>
+    </section>
   </main>
 
   <Footer />
@@ -160,6 +216,30 @@ const description = "Free China visa checker — select your nationality to inst
         acceptedAnswer: {
           "@type": "Answer",
           text: "Eligible nationalities can stay visa-free for up to 30 days for tourism, business or family visits as of 2026. Visa-free transit allows up to 240 hours (10 days) within eligible regions when continuing to a third country.",
+        },
+      },
+      {
+        "@type": "Question",
+        name: "What documents do I need for a Chinese visa application?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "You typically need a passport valid for at least 6 months with blank visa pages, a completed and signed COVA application form, a recent passport-style photo, round-trip flight bookings and hotel reservations (or an invitation letter from a host in China), and proof of funds where required by your local embassy.",
+        },
+      },
+      {
+        "@type": "Question",
+        name: "How do I apply for a China tourist visa?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "First check whether you qualify for visa-free entry. If you need a visa, complete the online COVA application form, book an appointment at your nearest Chinese visa application service centre or embassy, submit your documents and biometrics in person, then collect your passport once processed — usually around 4 working days for regular service.",
+        },
+      },
+      {
+        "@type": "Question",
+        name: "Which countries are visa-free for China in 2026?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "As of 2026, citizens of most European countries (including the UK, France, Germany, Spain and Italy) and much of Asia-Pacific (including Australia, New Zealand, Japan, South Korea, Singapore and Malaysia) can enter China visa-free for up to 30 days. Russia and Brunei qualify for 15-day visa-free entry. Several other nationalities, including the US and Canada, can use visa-free transit of up to 240 hours. Use the checker above to see where your passport stands.",
         },
       },
     ],

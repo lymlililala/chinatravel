@@ -1,7 +1,7 @@
 ---
 author: Roam China Travel Editorial Team
 pubDatetime: 2026-04-16T08:00:00Z
-modDatetime: 2026-07-20T10:00:00Z
+modDatetime: 2026-07-22T10:00:00Z
 title: "798 Art District Beijing: What to See, Best Galleries & How to Spend a Day"
 featured: false
 draft: false
@@ -16,9 +16,9 @@ tags:
 description: "798 Art District Beijing guide 2026: opening hours, best galleries, tickets, and how to reach the Factory 798 art zone, plus cafés and tips."
 ogImage: "https://images.pexels.com/photos/34939606/pexels-photo-34939606.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 faq:
-  - question: "What are the 798 Art District opening hours?"
+  - question: "What are the opening hours of the 798 Art District?"
     answer: "The district's streets and outdoor sculpture are open around the clock. Most galleries open 10:00 AM–6:00 PM and are closed on Mondays, with last entry often 30 minutes before closing."
-  - question: "Is 798 Art District free to enter?"
+  - question: "Is the 798 Art District free to enter?"
     answer: "Yes — the district itself and most galleries are free. Major exhibitions at venues like UCCA charge ¥50–100, and smaller ticketed shows typically run ¥30–80."
   - question: "What is Factory 798?"
     answer: "Factory 798 is the former state-owned military electronics plant — built in the 1950s with East German Bauhaus design — that gave the art district its name. Its converted production halls now house many of the district's main galleries."
@@ -61,11 +61,11 @@ The district's streets and outdoor sculpture are open around the clock and free 
 
 Admission to most galleries is free. Major exhibitions at UCCA and a few other venues charge ¥50–100; smaller ticketed shows run ¥30–80. Arriving between 10 and 11 AM on a Tuesday, Wednesday, or Thursday gives you the quietest galleries; by Saturday afternoon the streets are packed.
 
-## Layout: Understanding 798
+## 798 Art District Map and Layout
 
 The district is organised along several main streets, with a labyrinth of smaller paths between factory buildings. The scale can be disorienting. The main north-south artery — **798 Road (798路)** — is the most gallery-dense and the logical starting point.
 
-Pick up a free gallery map from the visitor centre near the main entrance, or download the **798 Art District** WeChat mini-program, which has a real-time gallery map showing current exhibitions.
+For a 798 Art District map, pick up the free printed gallery map from the visitor centre near the main entrance, or use the **798 Art District** WeChat mini-program, which has a real-time gallery map showing current exhibitions. Any taxi or DiDi map app will also find the district by searching "798艺术区".
 
 ![Art District Beijing — Major Galleries Worth Visiting](https://images.pexels.com/photos/27044013/pexels-photo-27044013.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
@@ -94,6 +94,14 @@ A Guangzhou-based gallery with a strong Beijing programme — particularly good 
 ### White Space Beijing (空白空间)
 
 Consistently rigorous programme with a focus on conceptual and abstract work. The building itself — a converted factory with soaring ceilings and good natural light — is one of the better exhibition spaces in the district. Free admission.
+
+### Long March Space (长征空间)
+
+One of China's most significant private galleries, supporting Chinese contemporary art since 2002. The programme leans conceptual and politically engaged, and the main hall handles large installations well. Free admission.
+
+### Arrow Factory (箭厂空间)
+
+A tiny project space in a former arrow-making workshop, showing experimental work by emerging artists. Easy to miss on the map but often the most interesting fifteen minutes of a visit. Free admission.
 
 ## Public Sculpture: The Outdoor Collection
 
@@ -134,17 +142,29 @@ The district's food options have improved dramatically in recent years, with a c
 
 **798 International Art Festival** runs in autumn with a programme of performance, video art, and site-specific commissions. Free events mix with ticketed performances.
 
-### Hutong Projects: Beyond 798
+**Open studio weekends** in spring (April/May) and autumn (October/November) open artist studios that are otherwise closed to the public — the best chance to see working artists rather than finished exhibitions.
+
+### 751 D·PARK (751设计广场)
+
+Immediately adjacent to 798 — about ten minutes' walk — **751 D·PARK** is a newer creative district built in a former gas plant, focused on design, fashion, and technology events. It hosts parts of Beijing Design Week, fashion week shows, and tech showcases. Less gallery-focused than 798 and more event-driven, but worth passing through on the same visit.
+
+### Caochangdi: The Rawer Alternative
 
 The **Caochangdi** (草场地) arts district, a 10-minute walk north of 798, is where many of the more experimental artist studios relocated as rents rose in 798. Fewer tourists, rawer spaces, more interesting work in some cases. Ai Weiwei's original studio (now demolished) was here; the area still has a strong sense of working artist community.
 
-## Getting There and Getting Around
+### Combining 798 with the Hutongs and Sanlitun
+
+798 pairs naturally with a half-day in the old-city hutongs — the Drum Tower and Shichahai alleyways are a 25–30 minute DiDi ride southwest. See the [Nanluoguxiang hutong guide](/posts/destinations/beijing-nanluoguxiang-hutong-guide/) for the most accessible starting point. In the other direction, the Sanlitun dining and nightlife district is about 15 minutes by taxi, which makes it a practical place to end the evening after the galleries close.
+
+## Where Is the 798 Art District and How to Get There
+
+The 798 Art District sits in the Dashanzi area of Chaoyang District, in Beijing's northeast, on Jiuxianqiao Road (酒仙桥路) — roughly 15 km from Tiananmen and about 15 minutes by taxi from Sanlitun. The address in Chinese: 朝阳区酒仙桥路4号798艺术区.
 
 **No single metro stop serves 798 directly.** The most practical options:
 
-1. **DiDi or taxi** from anywhere in Beijing — straightforward, ¥30–60 depending on where you're coming from. The address in Chinese: 朝阳区酒仙桥路4号798艺术区
-2. **Metro Line 14 to Jiangtai**, then 10-minute taxi/DiDi ride
-3. **Bus 401, 909, or 955** to Dashanzi Lugou stop — a short walk to the main entrance
+1. **DiDi or taxi** from anywhere in Beijing — straightforward, ¥30–60 depending on where you're coming from
+2. **Metro Line 14 to Jiangtai or Wangjing South**, then a 10-minute taxi/DiDi ride (about ¥12 from Wangjing South)
+3. **Bus 401, 909, or 955** to Dashanzi Lugou stop — a short walk to the main entrance; buses 418 and 621 stop at Jiuxianqiao nearby
 
 Inside the district, everything is walkable. The main 798 Road is about 600 metres long; the full district perimeter is approximately 2 kilometres.
 

@@ -16,6 +16,8 @@ ogImage: "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=900&q=8
 
 China's e-commerce ecosystem is the world's largest, and as a visitor you can tap into it for everything from last-minute camping gear to silk souvenirs at prices far below tourist-area shops. Here's how to navigate it as a foreigner with a non-Chinese payment method.
 
+> **First, get mobile payment working.** Almost every Chinese online platform settles through Alipay or WeChat Pay, so set one up before you shop. See our main [Alipay & WeChat Pay in China guide](/posts/toolkit/china-digital-payment-foreigners-guide/) for step-by-step setup with foreign cards.
+
 ## Table of contents
 
 ## The Main Platforms
