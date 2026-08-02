@@ -23,7 +23,7 @@ The title stuck. Every March and early April, around three million visitors desc
 
 ## When to Visit for the Rapeseed Flowers
 
-![— Mingcidou Old Town Scenery, Jingdezhen](/img/destinations/wuyuan-village-guide/1.webp)
+![Mingcidou Old Town Scenery, Jingdezhen](/img/destinations/wuyuan-village-guide/1.webp)
 
 The rapeseed blooms at slightly different times depending on altitude and location:
 

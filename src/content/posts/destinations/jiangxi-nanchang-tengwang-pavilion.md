@@ -23,7 +23,7 @@ It owes its enduring fame not primarily to its architecture but to a poem. In 67
 
 ## The Poem and Its Significance
 
-![— Mingcidou Old Town Scenery, Jingdezhen](/img/destinations/jiangxi-nanchang-tengwang-pavilion/1.webp)
+![Mingcidou Old Town Scenery, Jingdezhen](/img/destinations/jiangxi-nanchang-tengwang-pavilion/1.webp)
 
 Understanding why Tengwang Pavilion matters requires understanding why Wang Bo's poem matters. The parallel prose composition (骈文) was a supremely difficult literary form — every phrase had to balance grammatically and tonally with its partner phrase, while the content needed to flow naturally. The result Wang Bo produced at 25 is considered to have mastered the form as completely as anyone ever has.
 

@@ -74,6 +74,7 @@ def load_posts() -> list[dict]:
                     "tags": fm.get("_tags", ""),
                     "tokens": slug_tokens(pid.split("/")[-1]),
                     "titleTokens": slug_tokens(fm.get("title", "") + " " + fm.get("_tags", "")),
+                    "tagTokens": slug_tokens(fm.get("_tags", "")),
                     "h2": re.findall(r"^##\s+(.+)$", body, re.M),
                     "hasImages": bool(re.search(r"^!\[", body, re.M)),
                 }
@@ -95,10 +96,18 @@ def album_score(album: dict, post: dict) -> int:
 
     if not prov_tokens & (tokens | title_tokens):
         return 0
-    # A province named in the slug is the post's actual subject; one that only
-    # shows up in the title/tags is usually a passing mention ("day trip from
-    # Beijing" inside a Tianjin guide), so it counts for much less.
-    score = 40 if prov_tokens & tokens else 12
+    # A province named in the slug is the post's actual subject. A province that
+    # only appears in the tags is still a deliberate editorial signal (posts like
+    # baiyangdian-wetlands-guide carry `tags: [hebei]` without repeating it in the
+    # slug), so it counts nearly as much. A province appearing only in the prose
+    # title is usually a passing mention ("day trip from Beijing") — weakest.
+    tag_tokens = set(post["tagTokens"])
+    if prov_tokens & tokens:
+        score = 40
+    elif prov_tokens & tag_tokens:
+        score = 34
+    else:
+        score = 12
 
     # Attraction-level match, syllable aligned: "lijiang" == li+jiang matches
     # 丽江, but "dali" does not match 大连 (da+lian).
@@ -160,7 +169,7 @@ def main() -> int:
     for best, post, candidates in scored:
         if best >= 60:
             stats["attraction"] += 1
-        elif best >= 40:
+        elif best >= 34:
             stats["province"] += 1
         else:
             stats["national"] += 1

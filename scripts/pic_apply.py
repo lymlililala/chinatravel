@@ -73,6 +73,7 @@ def tidy_alt(alt: str) -> str:
     and preserve the ", Province" tail that tells readers where the photo is.
     """
     alt = alt.replace("[", "").replace("]", "")
+    alt = alt.strip(" —–-,·")  # 相册名里的破折号会漏成 alt 开头的孤立标点
     head, _, tail = alt.partition(",")
     words = head.split()
     if len(words) > 6:

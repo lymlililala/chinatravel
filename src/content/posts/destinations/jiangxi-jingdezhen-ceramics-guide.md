@@ -21,7 +21,7 @@ Jiangxi Province is one of China's least-visited regions for international touri
 
 ## Jingdezhen (景德镇) — Porcelain Capital of the World
 
-![— Mingcidou Old Town Scenery, Jingdezhen](/img/destinations/jiangxi-jingdezhen-ceramics-guide/1.webp)
+![Mingcidou Old Town Scenery, Jingdezhen](/img/destinations/jiangxi-jingdezhen-ceramics-guide/1.webp)
 
 Jingdezhen has produced porcelain for Chinese imperial courts and world trade for 1,700 years. The city's white kaolin clay and pine-wood kilns created the distinctive blue-and-white porcelain that defined world trade from the 14th century onward.
 

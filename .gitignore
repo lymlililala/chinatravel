@@ -40,3 +40,7 @@ pic/
 # 图片流水线的本地中间产物（依赖 pic/，无法在别处复现）
 scripts/pic-index.json
 scripts/pic-plan.json
+
+# PDF 攻略素材（2GB，仅本地参考）与抽取的中间文本
+gonglue/
+scripts/pdfguide/data/

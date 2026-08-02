@@ -21,7 +21,7 @@ Jiangxi (江西) is a province that rewarded the intellectuals and artists who w
 
 ## Lushan (庐山)
 
-![— Mingcidou Old Town Scenery, Jingdezhen](/img/destinations/jiangxi-lushan-jingdezhen-guide/1.webp)
+![Mingcidou Old Town Scenery, Jingdezhen](/img/destinations/jiangxi-lushan-jingdezhen-guide/1.webp)
 
 The mountain that Chinese civilization decided was the paradigm of beautiful mountains — painted more times than any other peak in Chinese art, the subject of famous poems since the 4th century. Located north of Nanchang, rising from the southern shore of China's largest freshwater lake (Poyang Lake).
 

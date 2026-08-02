@@ -24,7 +24,7 @@ But even setting aside the cranes, Poyang Lake in winter hosts remarkable concen
 
 ## Understanding Poyang Lake
 
-![— Mingcidou Old Town Scenery, Jingdezhen](/img/destinations/jiangxi-poyang-lake-guide/1.webp)
+![Mingcidou Old Town Scenery, Jingdezhen](/img/destinations/jiangxi-poyang-lake-guide/1.webp)
 
 Poyang Lake (鄱阳湖) is China's largest freshwater lake, but with a significant caveat: its size varies enormously between seasons. In summer (July-September), fed by the five major rivers of Jiangxi and the Yangtze, it expands to over 4,000 square kilometres. In winter, the water recedes dramatically, exposing mudflats and turning vast sections of the lake into shallow wetland habitat — exactly what waterbirds need. At its winter minimum the lake shrinks to perhaps 500-1,000 square kilometres.
 
