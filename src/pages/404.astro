@@ -33,3 +33,30 @@ const t = useTranslations(locale);
 
   <Footer />
 </Layout>
+
+<script>
+  // Legacy/flat post URLs (`/posts/<slug>/`) never existed as routes — every post
+  // lives under `/posts/toolkit/…` or `/posts/destinations/…`. Probe both folders
+  // and forward the visitor instead of dead-ending on this page.
+  document.addEventListener("astro:page-load", () => {
+    const match = location.pathname.match(/^\/posts\/([^/]+)\/?$/);
+    if (!match) return;
+    const slug = match[1];
+    if (slug === "toolkit" || slug === "destinations") return;
+
+    (async () => {
+      for (const folder of ["toolkit", "destinations"]) {
+        const candidate = `/posts/${folder}/${slug}/`;
+        try {
+          const res = await fetch(candidate, { method: "HEAD" });
+          if (res.ok) {
+            location.replace(candidate);
+            return;
+          }
+        } catch {
+          // network hiccup — just fall through and stay on the 404 page
+        }
+      }
+    })();
+  });
+</script>
