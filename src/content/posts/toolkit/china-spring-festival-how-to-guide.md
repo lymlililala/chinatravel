@@ -14,7 +14,7 @@ tags:
   - customs
   - travel tips
 description: "The ultimate guide to experiencing China's Spring Festival (Lunar New Year) as a foreign visitor in 2026. Discover the best events, temple fairs, lantern festivals, traditional foods, customs and etiquette, plus honest advice on surviving the world's largest annual migration and which cities offer the best celebrations."
-ogImage: "https://images.pexels.com/photos/36603900/pexels-photo-36603900.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-spring-festival-how-to-guide/cover.webp"
 ---
 
 Spring Festival — the Chinese Lunar New Year — is the biggest celebration on Earth. Over a billion people participate in the world's largest annual human migration, returning home to family for a period of reunion, feasting, and fireworks. For foreign visitors who happen to be in China during this time, it can be simultaneously the most exhilarating and logistically challenging experience of your travel career.
@@ -24,6 +24,8 @@ I've experienced Spring Festival in China three times, and each time it left me 
 ## Table of contents
 
 ## When Is Spring Festival 2026?
+
+![Xingping, Guangxi, Yangshuo](/img/toolkit/china-spring-festival-how-to-guide/1.webp)
 
 The Spring Festival holiday in 2026 falls as follows:
 - **Chinese New Year's Day:** January 29, 2026 (Year of the Horse begins)
@@ -118,6 +120,8 @@ Temple fairs (庙会) are held at temples, parks, and historic sites throughout 
 **New Year shopping:** Red envelopes (红包, hóng bāo), Spring Festival couplets (春联, chūn lián), paper door gods, New Year decorations
 
 ## Traditional Food: What to Eat
+
+![Forbidden City Bowuyuan, Taiwan, Taipei](/img/toolkit/china-spring-festival-how-to-guide/2.webp)
 
 Food is central to every aspect of Spring Festival. Here's what's traditional:
 

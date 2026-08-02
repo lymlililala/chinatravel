@@ -10,16 +10,16 @@ tags:
   - destinations
   - trade
 description: "Complete guide to attending the China Import and Export Fair (Canton Fair) in Guangzhou — registration process, the three phases, what exhibitors attend each phase, practical logistics, accommodation booking, and how to prepare for a productive sourcing visit."
-ogImage: "https://images.pexels.com/photos/30304299/pexels-photo-30304299.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guangzhou-canton-fair-guide/cover.webp"
 ---
 
 The China Import and Export Fair — universally known as the Canton Fair (广交会) — is the world's largest trade fair, held twice annually in Guangzhou in April–May (Spring Fair) and October–November (Autumn Fair). With over 25,000 exhibitors and 200,000 buyers attending each session, it's the single most comprehensive sourcing event in global manufacturing.
 
 For business visitors, the Canton Fair is often the primary reason for visiting China. For general travellers, understanding the fair context explains Guangzhou's extraordinary import/export infrastructure and the broader Pearl River Delta manufacturing ecosystem.
 
-![Canton Fair — The Three Phases](https://images.pexels.com/photos/14230236/pexels-photo-14230236.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Three Phases
+
+![Baomo Garden, Guangdong, Guangzhou](/img/destinations/guangzhou-canton-fair-guide/1.webp)
 
 Each Canton Fair session is divided into three phases of 5 days each (total 15 exhibition days):
 
@@ -31,9 +31,9 @@ Each Canton Fair session is divided into three phases of 5 days each (total 15 e
 
 Buyers typically attend the phases relevant to their sourcing categories. Exhibitors are present only during their phase.
 
-![Canton Fair — Registration](https://images.pexels.com/photos/14230237/pexels-photo-14230237.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Registration
+
+![Nanyueyuan Scenery, Guangdong, Guangzhou](/img/destinations/guangzhou-canton-fair-guide/2.webp)
 
 **Buyer registration**: Free for international trade buyers. Register online at en.cantonfair.org.cn with a business email and company details.
 
@@ -42,8 +42,6 @@ Buyers typically attend the phases relevant to their sourcing categories. Exhibi
 **Buyer pass**: Electronic pass sent after registration. Present at the registration desk at Pazhou Complex (琶洲展馆) on arrival for physical badge issuance.
 
 **No registration on arrival**: Registration must be completed in advance. The deadline is typically 2 weeks before each phase.
-
-![Canton Fair — Practical Fair Logistics](https://images.pexels.com/photos/3005772/pexels-photo-3005772.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Practical Fair Logistics
 
@@ -58,6 +56,8 @@ Buyers typically attend the phases relevant to their sourcing categories. Exhibi
 **Hours**: 9am–6pm during fair days.
 
 ## Accommodation
+
+![Chenjiaci, Guangdong, Guangzhou](/img/destinations/guangzhou-canton-fair-guide/3.webp)
 
 Hotels within 5km of the Pazhou complex (Guangzhou Marriott Tianhe, Four Points by Sheraton, Crowne Plaza Guangzhou City Centre) are booked months in advance for fair periods. Book 3–4 months ahead.
 

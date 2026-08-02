@@ -11,7 +11,7 @@ tags:
   - day-trip
   - south-china
 description: "The Macau day trip from Hong Kong — ferry vs the Hong Kong-Zhuhai-Macau Bridge (HZMB), what to do if you only have 8 hours (the Ruins of St Paul's, the Senado Square, one casino, one Portuguese restaurant), and whether Macau is worth an overnight stay."
-ogImage: "https://images.pexels.com/photos/32871281/pexels-photo-32871281.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/macau-day-trip-hong-kong-guide/cover.webp"
 ---
 
 Macau is 65km west of Hong Kong across the Pearl River estuary, and the contrast between them is startling. Hong Kong is steel and glass and British colonial efficiency. Macau is Portuguese baroque, pastel facades, a Cantonese-Portuguese hybrid culture, and the world's highest-revenue casino industry — which earns roughly five times more than Las Vegas.
@@ -24,7 +24,7 @@ You don't need to gamble to enjoy Macau. The UNESCO-listed historic center is ge
 
 ## Getting There: Ferry vs HZMB
 
-![Macau Trip from Hong Kong — Getting There: Ferry vs HZMB](https://images.pexels.com/photos/3839434/pexels-photo-3839434.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Dangzaitianhou Palace, Macau](/img/destinations/macau-day-trip-hong-kong-guide/1.webp)
 
 ### Ferry (Recommended for Most Visitors)
 
@@ -49,9 +49,9 @@ The 55km bridge-and-tunnel link opened in 2018 and cuts the road journey to abou
 
 ---
 
-![Macau Trip from Hong Kong — What to Do with 8 Hours in Macau](https://images.pexels.com/photos/37450301/pexels-photo-37450301.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## What to Do with 8 Hours in Macau
+
+![Dasanba Memorial Arch, Macau](/img/destinations/macau-day-trip-hong-kong-guide/2.webp)
 
 ### Arrive & Head to the Historic Centre
 
@@ -110,9 +110,9 @@ Getting to Cotai: free shuttle buses run from the peninsula casinos every 10-15 
 
 ---
 
-![Macau Trip from Hong Kong — Should You Stay Overnight?](https://images.pexels.com/photos/7969105/pexels-photo-7969105.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Should You Stay Overnight?
+
+![Weinisirenjiudian, Macau](/img/destinations/macau-day-trip-hong-kong-guide/3.webp)
 
 **Stay overnight if:**
 - You want to experience the Cotai Strip properly (casinos, nightlife, shows)

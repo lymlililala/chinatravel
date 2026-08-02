@@ -12,7 +12,7 @@ tags:
   - history
   - garden
 description: "The Summer Palace (颐和园) is Beijing's most beautiful imperial garden — 294 hectares of Kunming Lake, pavilion-topped hills, and the world's longest painted corridor. This 2026 complete guide covers all major areas of the garden, ticket options, best photography spots, how to avoid crowds, and the imperial history behind one of China's greatest landscape achievements."
-ogImage: "https://images.pexels.com/photos/12112852/pexels-photo-12112852.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/beijing-summer-palace-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -23,7 +23,7 @@ The palace was the summer retreat of Qing Dynasty emperors, particularly Empress
 
 ## Getting There
 
-![Summer Palace Beijing — Getting There](https://images.pexels.com/photos/30836814/pexels-photo-30836814.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Old Summer Palace Fuhai Scenery, Beijing](/img/destinations/beijing-summer-palace-guide/1.webp)
 
 ### By Metro
 The most convenient option. **Line 4 to Beigongmen Station** (北宫门站) brings you directly to the North Gate. Exit B is a short walk from the gate.
@@ -59,9 +59,9 @@ Beijing traffic can be severe, especially on weekends and holidays. The metro is
 
 Entry starts at 6am — arriving at opening to walk the gardens in early light, before the masses arrive, is one of Beijing's great morning experiences.
 
-![Summer Palace Beijing — Main Areas: The Essential Circuit](https://images.pexels.com/photos/38163825/pexels-photo-38163825.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Main Areas: The Essential Circuit
+
+![Old Summer Palace Qiujing, Beijing](/img/destinations/beijing-summer-palace-guide/2.webp)
 
 ### East Gate to the Long Corridor (东门 → 长廊)
 
@@ -113,6 +113,8 @@ The lakefront shopping street to the east of the Marble Boat is a replica of a S
 
 ## Seasonal Highlights
 
+![Yiyuan Lake Scenery, Beijing, Kunming](/img/destinations/beijing-summer-palace-guide/3.webp)
+
 **March–April**: Peach and cherry blossoms along the Long Corridor and on the hillsides. One of Beijing's finest spring experiences.
 
 **June–July**: Lotus flowers in full bloom on the lake and in the Garden of Harmonious Interests. Morning light on the flowers and reflections of Longevity Hill is extraordinary.
@@ -120,8 +122,6 @@ The lakefront shopping street to the east of the Marble Boat is a replica of a S
 **October–November**: Clear autumn skies, best visibility for views of the hill and across the lake. Some foliage color on the hillsides.
 
 **December–February**: Ice skating on the frozen lake (when conditions permit). Snow transforms the entire composition. Fewer visitors. Dress very warmly.
-
-![Summer Palace Beijing — Photography Guide](https://images.pexels.com/photos/20719367/pexels-photo-20719367.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Photography Guide
 

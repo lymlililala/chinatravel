@@ -12,7 +12,7 @@ tags:
   - family
   - safety
 description: "A practical guide to China for travellers over 60 — accessible destinations, how to handle the digital payment systems, the best transport options for older visitors, health considerations, and ready-made gentle itineraries."
-ogImage: "https://images.pexels.com/photos/33555354/pexels-photo-33555354.png?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-senior-travel-guide/cover.webp"
 ---
 
 China is an excellent destination for older and senior travellers — provided you approach it with realistic preparation. The country has an extraordinary elderly population of its own, which means that infrastructure, pace of life, and social tolerance for slower movement are built in ways that many other developing countries are not. Escalators in metro stations, accessible temples, smooth high-speed train rides, and the genuine warmth of Chinese people toward older visitors all work in a senior traveller's favour.
@@ -24,6 +24,8 @@ The challenges are real too: the digital payment infrastructure requires a setup
 ---
 
 ## Why China Works for Senior Travellers
+
+![Wanli Great Wall Scenery](/img/toolkit/china-senior-travel-guide/1.webp)
 
 **Physical infrastructure.** China's tier-1 and tier-2 cities have invested heavily in accessibility. Metro stations built after 2010 have lifts at virtually all exits. High-speed rail stations — designed for the enormous domestic travel volume — have comprehensive lift and ramp systems. Hotel lobbies are vast and flat. Most major tourist sites have accessible paths and some form of shuttle transport.
 
@@ -113,6 +115,8 @@ Not all of China is equally accessible. Some destinations require significant wa
 ---
 
 ## Transport for Senior Travellers
+
+![Forbidden City Scenery, Beijing](/img/toolkit/china-senior-travel-guide/2.webp)
 
 ### High-Speed Trains
 

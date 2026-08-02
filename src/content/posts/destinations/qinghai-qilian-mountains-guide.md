@@ -1,7 +1,7 @@
 ---
 title: "Qilian Mountains Guide: Qinghai's Wildest Landscape for Trekkers & Photographers"
 description: "Discover the Qilian Mountains between Qinghai and Gansu — dramatic alpine scenery with Tibetan grasslands, wildflower meadows, glaciers, the Zhangye Qilian Scenic Corridor, and some of China's best off-the-beaten-path trekking far from tourist crowds."
-ogImage: "https://images.pexels.com/photos/34448034/pexels-photo-34448034.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/qinghai-qilian-mountains-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Qinghai"
 tags: ["qinghai", "qilian-mountains", "trekking", "alpine", "gansu", "tibetan-grasslands", "wildflowers", "photography", "remote-travel"]
@@ -15,9 +15,9 @@ The Qilian Mountains generate the rivers that feed the oases of the Hexi Corrido
 
 ---
 
-![Qilian Mountains — The Landscape](https://images.pexels.com/photos/36855145/pexels-photo-36855145.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Landscape
+
+![Qilianshanbingxue, Qinghai](/img/destinations/qinghai-qilian-mountains-guide/1.webp)
 
 ### Elevation Zones
 
@@ -39,9 +39,9 @@ The wildflower meadows between Menyuan (门源) and Qilian County Town (祁连�
 
 ---
 
-![Qilian Mountains — Key Areas for Visitors](https://images.pexels.com/photos/28271721/pexels-photo-28271721.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Key Areas for Visitors
+
+![Kekexili Scenery, Qinghai](/img/destinations/qinghai-qilian-mountains-guide/2.webp)
 
 ### Menyuan Rapeseed Flower Sea (门源油菜花海)
 
@@ -64,8 +64,6 @@ On the Gansu side of the range, this managed tourist area provides the most acce
 **Connection to Zhangye Danxia:** Most visitors who come for the Zhangye Rainbow Mountains (Danxia) combine it with a day in the Qilian foothills — the two are about 1.5 hours apart.
 
 ---
-
-![Qilian Mountains — Trekking Routes](https://images.pexels.com/photos/12247773/pexels-photo-12247773.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Trekking Routes
 
@@ -90,6 +88,8 @@ A **local guide is mandatory** — the route crosses unmarked terrain, and weath
 ---
 
 ## Yugur and Tibetan Communities
+
+![Singing Sand Dunes Scenery, Dunhuang](/img/destinations/qinghai-qilian-mountains-guide/3.webp)
 
 The central Qilian is home to the **Yugur people (裕固族)** — one of China's smallest ethnic minorities (approximately 14,000 people), speaking a Turkic language related to Uyghur and practicing a blend of Tibetan Buddhism and their own shamanistic traditions. Their traditional summer encampments on the high meadows are accessible by the track roads that wind into the foothills from Sunan County.
 

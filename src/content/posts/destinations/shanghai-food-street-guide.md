@@ -13,7 +13,7 @@ tags:
   - xiaolongbao
   - east-china
 description: "Shanghai street food guide 2026: the best xiaolongbao and shengjianbao, top street food streets, Yuyuan snacks, prices, and local tips for eating well on a budget."
-ogImage: "https://images.pexels.com/photos/7000842/pexels-photo-7000842.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/shanghai-food-street-guide/cover.webp"
 faq:
   - question: "What street food is Shanghai famous for?"
     answer: "Shanghai is most famous for xiaolongbao (soup dumplings) and shengjianbao (pan-fried soup dumplings eaten for breakfast). Other classics include cong you bing (scallion pancakes), crab shell pastry (xieke huang), smoked fish, and scallion oil noodles."
@@ -33,7 +33,7 @@ Shanghai street food is a study in contrasts. The city has some of the best fine
 
 ## Xiaolongbao: The Ranking That Matters
 
-![Shanghai Street Food & Local Eating — Xiaolongbao: The Ranking That Matters](https://images.pexels.com/photos/24349909/pexels-photo-24349909.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Shiji Park, Shanghai](/img/destinations/shanghai-food-street-guide/1.webp)
 
 **Xiaolongbao** (小笼包, soup dumplings) are Shanghai's most iconic food, and there's a genuine spectrum of quality that most guides don't bother distinguishing.
 
@@ -74,9 +74,9 @@ Shanghai's old dedicated food streets have thinned out as the city has modernise
 
 **The lanes around Yuyuan Garden** are the most touristed but still deliver real snacks (see below). And honestly, the best street food in Shanghai is often not on a "street" at all — it's the breakfast stalls in residential lanes across Jing'an and the French Concession, which only operate until about 10am.
 
-![Shanghai Street Food & Local Eating — Yuyuan Garden Area: Tourist Prices, Some Real Food](https://images.pexels.com/photos/20847326/pexels-photo-20847326.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Yuyuan Garden Area: Tourist Prices, Some Real Food
+
+![Yuyuanchenghuang Temple, Shanghai](/img/destinations/shanghai-food-street-guide/2.webp)
 
 **Yuyuan Garden** (豫园) tourist area is undeniably commercial. The lanes around the Ming dynasty garden are full of souvenir shops and overpriced restaurants. But there are genuinely good things to eat here if you know what to look for.
 
@@ -96,9 +96,9 @@ The market is biggest in the early morning (5-9am) but some vendors trade throug
 
 **Getting there:** Zhenru metro station, Line 11, then taxi or walk 10-15 minutes north.
 
-![Shanghai Street Food & Local Eating — Neighbourhood-by-Neighbourhood Eating](https://images.pexels.com/photos/36051950/pexels-photo-36051950.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Neighbourhood-by-Neighbourhood Eating
+
+![Dishini Architecture Scenery, Shanghai](/img/destinations/shanghai-food-street-guide/3.webp)
 
 ### French Concession (法租界)
 

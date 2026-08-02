@@ -13,7 +13,7 @@ tags:
   - nature
   - buddhism
 description: "Shaoguan in northern Guangdong is home to Danxia Mountain (UNESCO World Heritage), the famous Nanhua Temple, and some of Guangdong's best nature hiking. This 2026 guide covers Danxia entry prices (170 yuan), the Yangyuan Stone, Nanhua Temple visit tips, transport from Guangzhou (1.5 hours by train), and local Shaoguan cuisine."
-ogImage: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&q=85"
+ogImage: "/img/destinations/guangdong-shaoguan-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -24,7 +24,7 @@ Northern Guangdong province is dramatically different from the coastal megacitie
 
 ## Danxia Mountain (丹霞山)
 
-![Shaoguan Guangdong — Danxia Mountain (丹霞山)](https://images.pexels.com/photos/37193108/pexels-photo-37193108.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Zu Temple Scenery, Foshan](/img/destinations/guangdong-shaoguan-guide/1.webp)
 
 Danxia Mountain is the type location for an entire category of geological formation — "Danxia landforms" are defined internationally as the type of red sandstone pillar-and-cliff landscapes found here, now identified in dozens of locations across China and elsewhere. The landscape was formed by geological uplift and erosion over 100 million years, creating the characteristic vertical red cliffs, pinnacles, and buttes that glow in the morning and evening light with a genuinely extraordinary warmth.
 
@@ -54,8 +54,6 @@ The temple complex is large and architecturally coherent, with several impressiv
 
 **Admission:** ¥50 per person. Open 6:30am-5:30pm. Temple canteen serves vegetarian meals (¥15-30) at lunchtime.
 
-![Shaoguan Guangdong — Other Attractions Near Shaoguan](https://images.pexels.com/photos/5189810/pexels-photo-5189810.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Other Attractions Near Shaoguan
 
 **Zhuji Lane (珠玑巷) — Ancient Ancestor Village:** About 60km north of Shaoguan city, this ancient village is considered the ancestral home of tens of millions of Cantonese people in southern China and the Chinese diaspora worldwide. The lane has been inhabited since the Tang dynasty and contains a remarkable concentration of ancestral halls, ancient walls, and Cantonese architectural heritage. Entry ¥60. A fascinating genealogical and cultural site for Cantonese families.
@@ -65,6 +63,8 @@ The temple complex is large and architecturally coherent, with several impressiv
 **Maba Man Site (马坝人遗址):** A prehistoric site where skull fragments of Homo sapiens (Maba Man) dating to 120,000-130,000 years ago were discovered in 1958. The Maba Man Museum covers early human settlement in South China. Entry ¥30.
 
 ## Getting to Shaoguan
+
+![Luofeng Temple Scenery, Guangdong, Guangzhou](/img/destinations/guangdong-shaoguan-guide/2.webp)
 
 **By High-Speed Train from Guangzhou:**
 This is the most convenient option. High-speed trains from Guangzhou South (广州南) to Shaoguan (韶关) take approximately 1-1.5 hours. Tickets: ¥100-160 second class. Multiple daily services throughout the day.
@@ -78,6 +78,8 @@ From Shaoguan station, taxis and Didi are the most practical for getting around.
 **Shaoguan to Danxia Mountain:** The scenic area is about 15km from the city centre. Taxi ¥40-60; scenic area shuttles from the city also available during peak season.
 
 ## Where to Stay
+
+![Liurong Temple Scenery, Guangdong, Guangzhou](/img/destinations/guangdong-shaoguan-guide/3.webp)
 
 **Shaoguan city centre:** The widest range of accommodation. Budget hotels and hostels ¥100-200; mid-range hotels (GreenTree, Ibis) ¥200-350; business hotels ¥350-600.
 

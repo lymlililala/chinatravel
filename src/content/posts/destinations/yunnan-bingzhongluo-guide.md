@@ -12,14 +12,14 @@ tags:
   - remote-village
   - wilderness
 description: "Journey to Bingzhongluo, the remote and breathtaking settlement at the northern end of Yunnan's Nujiang Grand Canyon, where the Nu River carves through mountains, Tibetan and Nu minority villages cling to cliffs, and ancient tea horse trails cross high passes into Tibet. This 2026 guide covers the stunning gorge scenery, the hiking trails to Tibetan villages, the first bend of the Nu River, cross-border perspectives, local Nu and Lisu cuisine, and hard-won practical advice for reaching one of China's last truly remote destinations."
-ogImage: "https://images.pexels.com/photos/28700643/pexels-photo-28700643.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/yunnan-bingzhongluo-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## Bingzhongluo — Where the Road Ends and the Wild Begins
 
-![Bingzhongluo Yunnan — Bingzhongluo — Where the Road Ends and the Wild Begins](https://images.pexels.com/photos/30274489/pexels-photo-30274489.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Dashanshenchu Red Soil Gengdi, Yunnan](/img/destinations/yunnan-bingzhongluo-guide/1.webp)
 
 Bingzhongluo (丙中洛) sits at the very end of the road — literally. This small settlement in Gongshan County, at the northern tip of Yunnan's Nujiang Prefecture, is where the paved road along the Nu River gives way to footpaths and horse tracks leading over the mountains into Tibet and Myanmar. It's one of the most remote communities in China that you can still reach by public transport, and the scenery surrounding it is of a scale and drama that makes you forget, temporarily, that modern China exists at all.
 
@@ -40,8 +40,6 @@ Key stops along the way:
 **Stone Moon (石月亮):** About 80 km south of Bingzhongluo, a natural arch in the cliff face high above the river, through which the sky is visible. It's a sacred site for the Lisu people. Visible from the road but requires a steep hike to reach.
 
 **Feilai Temple (飞来寺):** A small temple perched on a cliff face across the river, accessible by a footbridge. The temple seems to have been placed there by divine intervention — hence the name, "Flying Temple."
-
-![Bingzhongluo Yunnan — Bingzhongluo Village and Surroundings](https://images.pexels.com/photos/31374669/pexels-photo-31374669.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Bingzhongluo Village and Surroundings
 
@@ -69,6 +67,8 @@ About 15 km west of Bingzhongluo, up a side valley, Dimaluo is a primarily Tibet
 
 ## The Churches of the Canyon
 
+![Erhai Lake Scenery, Yunnan, Dali](/img/destinations/yunnan-bingzhongluo-guide/2.webp)
+
 The presence of Christianity in the Nujiang Canyon is one of its most unexpected features. French Catholic missionaries arrived in the late 1800s and established churches among the Nu and Lisu people. Later, Protestant missionaries followed. Today, a significant portion of the Nu and Lisu population are Christian — one of the largest Christian communities in China.
 
 The churches are simple but moving — wooden structures with hand-painted scripture on the walls, congregations singing hymns in minority languages, and a genuine piety that has survived decades of political upheaval. Visiting a Sunday service is a profound cultural experience, regardless of your own faith.
@@ -94,6 +94,8 @@ The cuisine in Bingzhongluo is a blend of Tibetan, Nu, Lisu, and Chinese element
 There are no standalone restaurants in Bingzhongluo — all meals are taken at guesthouses or village homes. The food is simple but plentiful. Budget ¥30-50 ($4.20-7 USD) per person per meal.
 
 ## Practical Information
+
+![Dongchuan Red Soil Scenery](/img/destinations/yunnan-bingzhongluo-guide/3.webp)
 
 ### Getting to Bingzhongluo
 

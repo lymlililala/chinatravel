@@ -10,7 +10,7 @@ tags:
   - guilin
   - destinations
 description: "Beyond the famous karst peaks, Guangxi hides some of China's least-visited and most atmospheric ancient towns. A guide to Daxu ancient town, Xingping fishermen's village, and the Song Dynasty Huangyao ancient town — all within reach of Guilin and Yangshuo."
-ogImage: "https://images.pexels.com/photos/34439501/pexels-photo-34439501.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guangxi-ancient-towns-guide/cover.webp"
 ---
 
 Most visitors to Guangxi come for the Li River karst scenery and Yangshuo. But the limestone karst landscape is backdrop to a collection of ancient towns and river villages that pre-date the current tourist economy by centuries — and in some cases millennia. These places are less visited, less photographed, and far more atmospheric than the famous tourist spots nearby.
@@ -19,7 +19,7 @@ Most visitors to Guangxi come for the Li River karst scenery and Yangshuo. But t
 
 ## Daxu Ancient Town (大圩古镇)
 
-![Guangxi Ancient Towns — Daxu Ancient Town (大圩古镇)](https://images.pexels.com/photos/27777722/pexels-photo-27777722.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Xingping, Guangxi, Yangshuo](/img/destinations/guangxi-ancient-towns-guide/1.webp)
 
 Daxu (大圩, "Great Market") was one of the four great markets of Guangxi during the Ming and Qing Dynasties. Located 18km southeast of Guilin on the Li River, it served as a trading post between coastal Guangdong and inland Guangxi — silk, cotton, salt, and medicine passed through here on river junks.
 
@@ -59,9 +59,9 @@ Walk upstream (north) from the town ferry dock for about 15–20 minutes to the 
 
 ---
 
-![Guangxi Ancient Towns — Huangyao Ancient Town (黄姚古镇)](https://images.pexels.com/photos/29223629/pexels-photo-29223629.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Huangyao Ancient Town (黄姚古镇)
+
+![Yulong River Scenery, Guangxi, Guilin](/img/destinations/guangxi-ancient-towns-guide/2.webp)
 
 Huangyao (黄姚) is the most impressive and least-known of Guangxi's ancient towns. Founded in the Song Dynasty (960–1279), the 1,000-year-old town has 300+ preserved buildings from successive dynasties and a population of Zhuang and Han families who have lived here continuously.
 
@@ -85,6 +85,8 @@ The combination of karst rock outcrops growing between buildings, ancient banyan
 
 ## Jiangtou Village (江头古村): Confucian Architecture
 
+![Liu River Scenery](/img/destinations/guangxi-ancient-towns-guide/3.webp)
+
 About 25km north of Guilin near Xing'an (兴安), Jiangtou Village (江头洲) is a 1,500-year-old Confucian clan village. The Zhou family (周氏) has lived here since the Han Dynasty; the village has over 100 preserved Ming and Qing buildings and a functioning ancestral hall where clan rituals are still observed.
 
 **What makes it different**: Unlike most "ancient villages" that have been converted to tourist displays, Jiangtou's population is still entirely descended from the original clan. The preservation is organic — buildings maintained by the families within them.
@@ -92,8 +94,6 @@ About 25km north of Guilin near Xing'an (兴安), Jiangtou Village (江头洲) i
 **Getting there**: 40km from Guilin, accessible by bus to Xing'an then taxi or DiDi.
 
 ---
-
-![Guangxi Ancient Towns — Zhuang Culture Villages in Guangxi](https://images.pexels.com/photos/36929732/pexels-photo-36929732.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Zhuang Culture Villages in Guangxi
 

@@ -11,7 +11,7 @@ tags:
   - central-china
   - history
 description: "A 5-day Henan itinerary — Luoyang's Longmen Grottoes (most photographed Buddhist cave art in China), the Peony Festival gardens, the Shaolin Temple and Songshan Geopark, and the Song Dynasty culture of Kaifeng (Iron Pagoda, Judge Bao's memorial). Train connections from Zhengzhou hub."
-ogImage: "https://images.pexels.com/photos/5305562/pexels-photo-5305562.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/henan-5-days-itinerary-guide/cover.webp"
 ---
 
 Henan is the cradle of Chinese civilization — the Yellow River valley here was where China's first dynasties rose and where most of the early capitals were located. Thirteen Chinese dynasties had their capitals in Henan. The province has more UNESCO World Heritage Sites than any other Chinese province. And Shaolin Temple, where Chinese martial arts were born, is here.
@@ -22,7 +22,7 @@ Despite all this, Henan is often overlooked by international visitors in favor o
 
 ## Getting There & Around
 
-![Henan — Getting There & Around](https://images.unsplash.com/photo-1646912951442-7a2bc5e8cd06?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw1fHwlMjYlMjBBcm91bmR8ZW58MHwwfHx8MTc4MTgzOTI0OXww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
+![Guanlin Temple Scenery, Henan, Luoyang](/img/destinations/henan-5-days-itinerary-guide/1.webp)
 
 **Hub city:** Zhengzhou (郑州) is Henan's capital and transport hub — located on the intersection of north-south and east-west high-speed rail lines.
 
@@ -71,9 +71,9 @@ Allow 3-4 hours minimum. The site is 13km south of Luoyang city center.
 
 ---
 
-![Henan — Day 3: Shaolin Temple & Songshan](https://images.pexels.com/photos/2247216/pexels-photo-2247216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day 3: Shaolin Temple & Songshan
+
+![Daxiangguo Temple, Kaifeng](/img/destinations/henan-5-days-itinerary-guide/2.webp)
 
 **Journey:** Bus from Luoyang Bus Station to Dengfeng (登封), then minibus to Shaolin Temple. Total ~1.5 hours, ¥30-50. Or book a day tour from Luoyang (¥150-200 including transport).
 
@@ -97,6 +97,8 @@ The **Monks' Training Grounds** in the morning (before 9am) sometimes have stude
 
 ## Day 4: Kaifeng — Song Dynasty Capital
 
+![Chongfa Temple Scenery, Henan](/img/destinations/henan-5-days-itinerary-guide/3.webp)
+
 **Journey:** HSR Luoyang → Zhengzhou (45 min, ¥45) → Kaifeng (20 min, ¥25).
 
 **Kaifeng** (开封) was the capital of the Northern Song Dynasty (960-1127) — one of China's most prosperous historical periods, when Kaifeng was the largest city in the world with a population of over 1 million. The famous **Along the River During the Qingming Festival** (清明上河图, Zhang Zeduan's painting preserved in the Palace Museum) depicts Song-era Kaifeng. The city was later flooded by the Yellow River and lies 8-10 meters below its Song Dynasty predecessor.
@@ -118,8 +120,6 @@ The **Monks' Training Grounds** in the morning (before 9am) sometimes have stude
 **Gulou Night Market** (鼓楼夜市) and the surrounding area around the Drum Tower is Kaifeng's most lively street food scene after dark. Try **stewed sauce noodles** (炒凉粉, ¥8), **braised intestines** (桶子鸡 — whole cooked chicken, ¥25-40 half), and **peanut cake** (花生糕). The Jewish community that settled in Kaifeng during the Song Dynasty has a small historical heritage site in the old city.
 
 ---
-
-![Henan — Day 5: Zhengzhou Day — Erligang Site Museum or Return](https://images.pexels.com/photos/6733647/pexels-photo-6733647.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day 5: Zhengzhou Day — Erligang Site Museum or Return
 

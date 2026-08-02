@@ -10,14 +10,14 @@ tags:
   - goguryeo ruins
   - jilin hidden gems
 description: "Uncover Tonghua in Jilin Province, where the ancient Goguryeo kingdom's mountain fortresses and royal tombs stand amid pristine forest. This guide covers the UNESCO-listed Capital Cities and Tombs of Goguryeo, Ji'an's riverside ruins, the approach to Changbai Mountain, local Korean-Chinese cuisine, and winter activities in one of northeast China's most historically rich corners."
-ogImage: "https://images.pexels.com/photos/35491817/pexels-photo-35491817.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/jilin-tonghua-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## Why Tonghua Is Northeast China's Best-Kept Secret
 
-![Tonghua Jilin — Why Tonghua Is Northeast China's Best-Kept Secret](https://images.pexels.com/photos/11022633/pexels-photo-11022633.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Changbaishan Heavenly Lake, Jilin](/img/destinations/jilin-tonghua-guide/1.webp)
 
 Northeast China's Dongbei region does not get the love it deserves from international travellers. Most skip straight from Beijing to Harbin, missing the densely forested, historically layered province of Jilin entirely. And within Jilin, Tonghua (通化) sits in the southeast corner like a gift nobody has unwrapped — home to one of China's most important archaeological sites, surrounded by mountains that turn into a skier's paradise each winter, and flavoured by a Korean-Chinese fusion cuisine that will make you question why you ever ate anything else.
 
@@ -77,8 +77,6 @@ Plan a full day for the ruins. A logical order is:
 
 Most sites close at 17:00 (16:30 in winter). English signage has improved since the UNESCO listing but remains patchy. Consider hiring a local guide through the Ji'an Tourism Bureau (¥200–300/day) for deeper historical context.
 
-![Tonghua Jilin — The Korean Autonomous County of Changbai](https://images.pexels.com/photos/33960867/pexels-photo-33960867.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Korean Autonomous County of Changbai
 
 About 150 km southeast of Tonghua, **Changbai Korean Autonomous County** (长白朝鲜族自治县) offers a cultural experience unlike anywhere else in Jilin. Nearly a quarter of the population is ethnically Korean, and the town operates with a comfortable bilingualism — shop signs in both Chinese and Hangul, restaurants serving both Dongbei and Korean dishes, and older residents who switch between languages mid-conversation.
@@ -86,6 +84,8 @@ About 150 km southeast of Tonghua, **Changbai Korean Autonomous County** (长白
 The county town is a pleasant base for approaching Changbai Mountain from the south side (less crowded than the north approach from Erdaobaihe). The **Changbai Korean Folk Village** (长白朝鲜族民俗村, ¥50 entry) demonstrates traditional Korean housing, clothing, and food preparation. You can try on a hanbok, watch kimchi being made, and sample rice cakes and cold noodles.
 
 ## Changbai Mountain: The Southern Approach
+
+![Songyuanlangyaba Scenery, Jilin](/img/destinations/jilin-tonghua-guide/2.webp)
 
 Most visitors to Changbai Mountain (长白山) approach from the north via Erdaobaihe. The southern route through Changbai County is less developed but offers distinct advantages: fewer crowds, a different angle on Tianchi (Heavenly Lake), and the beautiful Wangchi (King Pool) scenic area.
 
@@ -123,9 +123,9 @@ Tonghua's position on the Korean border creates a dining scene that fuses hearty
 - **Tonghua Old Street** (通化老街): The best place for guobao rou and other Dongbei classics. ¥30–60 per person.
 - **Ginseng Market restaurants** (人参市场餐厅): Several small eateries attached to the ginseng wholesale market on the city outskirts. The chicken soup is made with ginseng that was in the ground that morning. ¥40–70 per person.
 
-![Tonghua Jilin — Where to Stay](https://images.pexels.com/photos/35491820/pexels-photo-35491820.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Where to Stay
+
+![Changbaishan Natural Landscape, Jilin](/img/destinations/jilin-tonghua-guide/3.webp)
 
 - **Tonghua Guomao Hotel** (通化国贸大酒店): Central, comfortable, and reasonably priced. ¥200–350/night.
 - **Ji'an Goguryeo Hotel** (集安高句丽宾馆): The best option in Ji'an, within walking distance of several tomb sites. ¥180–300/night.

@@ -12,7 +12,7 @@ tags:
   - history
   - temples
 description: "Shanxi Province preserves more pre-Ming Dynasty architecture than any other Chinese province — Pingyao's perfectly intact Ming city walls, Wutai Mountain's Tang-era temples, and the extraordinary Hanging Temple."
-ogImage: "https://images.pexels.com/photos/2870116/pexels-photo-2870116.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/shanxi-pingyao-wutaishan-guide/cover.webp"
 ---
 
 Shanxi Province is China's repository of ancient architecture — it contains over 70% of China's surviving pre-Ming Dynasty wooden buildings. While other regions rebuilt and modernised, Shanxi's relative isolation preserved a staggering legacy of Song, Tang, and even earlier structures.
@@ -21,7 +21,7 @@ Shanxi Province is China's repository of ancient architecture — it contains ov
 
 ## Pingyao Ancient City (平遥古城)
 
-![Shanxi — Pingyao Ancient City (平遥古城)](https://images.pexels.com/photos/9274569/pexels-photo-9274569.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Taixing Mountain Scenery, Shanxi](/img/destinations/shanxi-pingyao-wutaishan-guide/1.webp)
 
 Pingyao is China's best-preserved Ming Dynasty city — 6km of original city walls enclosing a street grid, temples, and residences that look essentially unchanged from the 17th century. Unlike most "ancient towns" in China, Pingyao is a living city where locals still live within the walls.
 
@@ -46,9 +46,9 @@ Accommodation: Stay **inside the city walls** — dozens of courtyard guesthouse
 
 ---
 
-![Shanxi — Wutai Mountain (五台山)](https://images.pexels.com/photos/16004928/pexels-photo-16004928.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Wutai Mountain (五台山)
+
+![Yungang Grottoes, Shanxi, Datong](/img/destinations/shanxi-pingyao-wutaishan-guide/2.webp)
 
 One of China's four sacred Buddhist mountains (五岳 + 四大佛教名山) — Wutai's five flat-topped peaks give it the name "Five Terraces Mountain." Home to 68 active monasteries spanning 1,600 years of Buddhist history.
 
@@ -65,9 +65,9 @@ Wutai's largest temple — founded in the 1st century AD (Eastern Han Dynasty), 
 
 ---
 
-![Shanxi — Datong (大同)](https://images.pexels.com/photos/28263427/pexels-photo-28263427.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Datong (大同)
+
+![Huanghehukou Waterfall](/img/destinations/shanxi-pingyao-wutaishan-guide/3.webp)
 
 Datong was the capital of the Northern Wei Dynasty (386–534 AD) when Buddhism flourished and created extraordinary art.
 

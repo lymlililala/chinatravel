@@ -12,7 +12,7 @@ tags:
   - central-china
   - nature
 description: "Hunan Province delivers three very different but equally extraordinary experiences — the floating sandstone pillars of Zhangjiajie (Avatar's Pandora), the ancient river town of Fenghuang, and Changsha's legendary spicy street food culture."
-ogImage: "https://images.pexels.com/photos/26771351/pexels-photo-26771351.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/hunan-changsha-zhangjiajie-fenghuang-guide/cover.webp"
 ---
 
 Hunan Province (湖南) sits in China's central south — a province of dramatic natural scenery, revolutionary history (Mao Zedong was born here), and one of China's most beloved regional cuisines. It provides three extraordinary destinations within a few hours of each other.
@@ -21,7 +21,7 @@ Hunan Province (湖南) sits in China's central south — a province of dramatic
 
 ## Zhangjiajie (张家界) — The Avatar Mountains
 
-![Hunan — Zhangjiajie (张家界) — The Avatar Mountains](https://images.pexels.com/photos/34683501/pexels-photo-34683501.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Heng Mountain Scenery, Hunan](/img/destinations/hunan-changsha-zhangjiajie-fenghuang-guide/1.webp)
 
 ### Wulingyuan Scenic Area (武陵源风景区) — UNESCO World Heritage
 
@@ -44,9 +44,9 @@ Over 3,000 quartzite sandstone pillars — some reaching 200+ metres — rising 
 
 ---
 
-![Hunan — Fenghuang Ancient Town (凤凰古城)](https://images.pexels.com/photos/4839155/pexels-photo-4839155.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Fenghuang Ancient Town (凤凰古城)
+
+![Guojiasenlin Park, Zhangjiajie](/img/destinations/hunan-changsha-zhangjiajie-fenghuang-guide/2.webp)
 
 A 1,300-year-old Miao and Tujia minority town on the Tuojiang River — wooden stilt houses (吊脚楼) built directly over the water on timber piles, red paper lanterns strung between buildings, stone-paved lanes, and rainbow bridge gates.
 
@@ -60,9 +60,9 @@ A 1,300-year-old Miao and Tujia minority town on the Tuojiang River — wooden s
 
 ---
 
-![Hunan — Changsha (长沙) — Spicy Food Capital](https://images.pexels.com/photos/35422113/pexels-photo-35422113.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Changsha (长沙) — Spicy Food Capital
+
+![Landscape Scenery, Zhangjiajie](/img/destinations/hunan-changsha-zhangjiajie-fenghuang-guide/3.webp)
 
 Changsha is rapidly emerging as one of China's trendiest cities — a young, creative urban centre with extraordinary street food, an excellent contemporary art museum, and Mao Zedong's revolutionary legacy.
 

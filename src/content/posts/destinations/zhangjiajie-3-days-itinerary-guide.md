@@ -11,7 +11,7 @@ tags:
   - hunan
   - nature
 description: "A 3-day Zhangjiajie itinerary — Day 1 in Wulingyuan for the floating mountains, Day 2 for the 5km Tianmen Mountain cable car and glass walkway, Day 3 for the Zhangjiajie Grand Canyon Glass Bridge. Includes practical transport, queue strategy, and honest reviews."
-ogImage: "https://images.pexels.com/photos/13195716/pexels-photo-13195716.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/zhangjiajie-3-days-itinerary-guide/cover.webp"
 ---
 
 Zhangjiajie's quartzite sandstone pillars were the visual inspiration for Pandora's floating mountains in Avatar. The resemblance between the real landscape and the film is striking enough that the park authorities renamed one of the peaks "Avatar Hallelujah Mountain" in 2010. That kind of marketing shouldn't distract from the fact that the landscape is genuinely extraordinary — nothing else in China (or really anywhere) looks quite like it.
@@ -22,7 +22,7 @@ The Zhangjiajie area has three main attractions: **Wulingyuan Scenic Area** (the
 
 ## Before You Arrive
 
-![Zhangjiajie — Before You Arrive](https://images.pexels.com/photos/26771351/pexels-photo-26771351.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Tianzi Mountain Scenery, Zhangjiajie, Hunan](/img/destinations/zhangjiajie-3-days-itinerary-guide/1.webp)
 
 **Getting there:** Zhangjiajie Hehua International Airport (DYG) receives domestic flights from most major Chinese cities. Alternatively, high-speed trains connect to Changsha (1.5 hours, ¥135), from where you can fly or connect to anywhere in China.
 
@@ -56,9 +56,9 @@ The stream section from **Zixia Scenic Area** through to the park exit is the be
 
 ---
 
-![Zhangjiajie — Day 2: Tianmen Mountain](https://images.pexels.com/photos/34902901/pexels-photo-34902901.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day 2: Tianmen Mountain
+
+![Shaoyanglang Mountain Scenery, Hunan](/img/destinations/zhangjiajie-3-days-itinerary-guide/2.webp)
 
 ### Full Day: Tianmen Mountain (天门山)
 
@@ -79,6 +79,8 @@ Allow a full day for Tianmen Mountain — getting there, cable car, summit explo
 ---
 
 ## Day 3: Zhangjiajie Grand Canyon Glass Bridge
+
+![Ancient Town Landscape Scenery, Fenghuang](/img/destinations/zhangjiajie-3-days-itinerary-guide/3.webp)
 
 ### Morning: Grand Canyon Glass Bridge
 
@@ -105,8 +107,6 @@ Fenghuang requires at least a half-day or overnight — it's too far for a prope
 Alternatively, spend the afternoon at **Tianmen Mountain** if you want a second visit, or simply explore Zhangjiajie city (湘西土家族苗族自治州) and its local wet markets.
 
 ---
-
-![Zhangjiajie — Honest Reviews](https://images.pexels.com/photos/5981542/pexels-photo-5981542.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Honest Reviews
 

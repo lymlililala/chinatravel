@@ -1,7 +1,7 @@
 ---
 title: "Hangzhou Song Dynasty Culture: History, Night Markets & Imperial Heritage"
 description: "Dive into Hangzhou's Song dynasty heritage — the city that served as China's imperial capital for 150 years, where the traditions of silk, tea, and refined aesthetics were perfected. Explore the Southern Song Imperial Street, Hefang Street night market, and the cultural legacy of China's most civilised dynasty."
-ogImage: "https://images.pexels.com/photos/6538000/pexels-photo-6538000.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/hangzhou-song-dynasty-culture-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Hangzhou"
 tags: ["hangzhou", "song-dynasty", "history", "hefang-street", "imperial-street", "culture", "silk", "heritage", "zhejiang"]
@@ -17,9 +17,9 @@ Understanding Hangzhou today requires engaging with this Song dynasty inheritanc
 
 ---
 
-![Hangzhou Song Dynasty Culture — The Southern Song Imperial Street (南宋御街)](https://images.pexels.com/photos/37436584/pexels-photo-37436584.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Southern Song Imperial Street (南宋御街)
+
+![Wuzhenxizha Night View, Zhejiang](/img/destinations/hangzhou-song-dynasty-culture-guide/1.webp)
 
 Running 4.2 km from **Drum Tower (鼓楼)** south to the site of the Imperial Palace (now Wansong Academy), the reconstructed **Imperial Street** follows the exact route of the Song dynasty royal processional road. The street is pedestrianised and lined with heritage buildings reconstructed to Song-era appearance.
 
@@ -35,9 +35,9 @@ The Imperial Street district comes alive after dark. **Lanterns** in the Song st
 
 ---
 
-![Hangzhou Song Dynasty Culture — Hefang Street (河坊街) and the Old Medicine Alley](https://images.pexels.com/photos/34099330/pexels-photo-34099330.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Hefang Street (河坊街) and the Old Medicine Alley
+
+![West Lake Scenery, Hangzhou](/img/destinations/hangzhou-song-dynasty-culture-guide/2.webp)
 
 Immediately off the Imperial Street, **Hefang Street** was the primary commercial district of the Song capital — the equivalent of a modern city's main shopping boulevard but built in Song architectural style and specialising in the luxury goods that made Lin'an famous.
 
@@ -54,8 +54,6 @@ Today Hefang Street operates as a **pedestrian tourist market** — touristy, ye
 **Hu Qingyu Tang (胡庆余堂):** The most famous traditional medicine shop in Hangzhou, founded 1874 by a Qing dynasty merchant. Its headquarters on Dajing Lane (大井巷) is a museum of Qing commercial architecture and Chinese pharmacology; the dispensary behind the front museum is still operational.
 
 ---
-
-![Hangzhou Song Dynasty Culture — Song Dynasty Food Heritage](https://images.pexels.com/photos/8257844/pexels-photo-8257844.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Song Dynasty Food Heritage
 
@@ -82,6 +80,8 @@ Hangzhou's restaurant culture is the most direct continuation of Song dynasty cu
 ---
 
 ## Song Dynasty Silk Heritage
+
+![Putuoshan Scenery](/img/destinations/hangzhou-song-dynasty-culture-guide/3.webp)
 
 Song dynasty Hangzhou was the silk capital of the world. The phrase *"上有天堂，下有苏杭"* ("Above is heaven; below are Suzhou and Hangzhou") refers specifically to the silk wealth of both cities during this period.
 

@@ -12,7 +12,7 @@ tags:
   - "accommodation"
   - "southwest-china"
 description: "Discover how Guizhou's high-altitude plateaus, ancient villages, and fiery sour cuisine offer a refreshing alternative to China's summer heat."
-ogImage: "https://images.pexels.com/photos/32437508/pexels-photo-32437508.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guizhou-summer-guide/cover.webp"
 faq:
   - question: "Is Guizhou safe for solo travelers?"
     answer: "Yes, Guizhou is generally very safe. Violent crime is rare. Take normal precautions like safeguarding valuables and avoiding poorly lit areas at night."
@@ -30,9 +30,9 @@ When summer heat grips much of China, Guizhou (贵州, Guìzhōu) emerges as a c
 
 ## Table of contents
 
-![Misty karst peaks and terraced rice fields in Guizhou](https://images.pexels.com/photos/37418475/pexels-photo-37418475.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Why Guizhou for Summer?
+
+![Dong Village Gulou](/img/destinations/guizhou-summer-guide/1.webp)
 
 Guizhou's geography is its secret weapon. The province sits on the Yunnan-Guizhou Plateau, with an average elevation of about 1,100 meters. The combination of altitude, lush forests (over 60% coverage), and monsoon climate keeps temperatures pleasant even in July and August. The "cool capital" Liupanshui is famous, but lesser-known spots like Bijie (毕节, Bìjié) and the "Roof of Guizhou" at Caocaiping (韭菜坪, Jiǔcài Píng) offer even cooler escapes, with summer averages around 16-18°C. Nights are genuinely cool—you'll likely need a light jacket or sweater.
 
@@ -43,8 +43,6 @@ Beyond the climate, Guizhou's summer is a feast for the senses: purple flower se
 ### 1. Caocaiping (韭菜坪): The Purple Flower Sea
 
 Located in Hezhang County (赫章县, Hèzhāng Xiàn), Bijie, Caocaiping is the highest point in Guizhou at 2,900.6 meters. It's divided into two areas: **Big Caocaiping** (大韭菜坪, Dà Jiǔcài Píng) at 2,777 meters, famous for its 10,000 mu (about 667 hectares) of wild leek flowers that bloom in August and September, and **Small Caocaiping** (小韭菜坪, Xiǎo Jiǔcài Píng), the true summit. The sea of purple blossoms, often called the "Oriental Provence," is a sight to behold, especially when combined with rolling clouds and wind turbines on the ridges.
-
-![Purple wild leek flowers covering a mountain ridge under blue sky](https://images.pexels.com/photos/32437508/pexels-photo-32437508.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### 2. Huangguoshu Waterfall (黄果树瀑布)
 
@@ -86,6 +84,8 @@ Return to Guiyang for departure. If time allows, visit the **Guizhou Provincial 
 
 ## Getting There & Around
 
+![Diaojiaolou Scenery](/img/destinations/guizhou-summer-guide/2.webp)
+
 - **By Air:** Guiyang Longdongbao International Airport (KWE) has direct flights from major Asian cities. From the airport, take the metro (Line 1) or taxi to the city center.
 - **By Train:** High-speed trains connect Guiyang to Beijing (8h), Shanghai (9h), Guangzhou (4h), and Chengdu (3h). The **Guiyang North Railway Station** is the main hub.
 - **Getting Around:** For flexibility, rent a car with a driver (about ¥500-800/day). Alternatively, use the extensive bus network between cities and scenic spots. Didi (Chinese Uber) works well in cities.
@@ -98,8 +98,6 @@ Guizhou has a growing number of boutique hotels and homestays. For a unique expe
 
 Guizhou cuisine is defined by its **sour soup** (酸汤, suān tāng), a fermented tomato and chili base that's both refreshing and addictive. The **Red Sour Soup** (红酸汤) from Kaili is legendary—perfect for hotpot with beef, fish, or vegetables. Don't miss **Sour Fish Soup** (酸汤鱼), a local specialty.
 
-![A bubbling red sour soup hotpot with vegetables and meat](https://images.pexels.com/photos/15797951/pexels-photo-15797951.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 Other must-tries:
 - **Luoguo** (烙锅): A DIY griddle where you cook meats and vegetables on a convex pan, dipping them in spicy dry rub.
 - **Hulu Chili** (糊辣椒): Smoked chili flakes used as a condiment or in dipping sauces.
@@ -109,6 +107,8 @@ Other must-tries:
 For more on local flavors, see our [Guizhou food guide](/tags/food).
 
 ## Best Time to Visit
+
+![Qianlinghongfu Temple Scenery, Guizhou](/img/destinations/guizhou-summer-guide/3.webp)
 
 **July to September** is ideal for summer escapes. August is peak for the Caocaiping flower bloom and Huangguoshu's water volume. September offers cooler temperatures and fewer crowds. Avoid Chinese national holidays (October 1-7) when domestic tourism surges.
 

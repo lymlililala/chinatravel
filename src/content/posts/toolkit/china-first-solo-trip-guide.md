@@ -11,12 +11,14 @@ tags:
   - first-trip
   - checklist
 description: "The definitive beginner's guide for your first solo trip to China in 2026 — a step-by-step checklist covering everything from pre-departure preparation (visa, VPN, Alipay setup) through arrival procedures, getting from the airport, navigating your first day, handling common challenges, and building confidence for independent travel in the world's most fascinating and misunderstood country."
-ogImage: "https://images.unsplash.com/photo-1635315621985-fb1564537773?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw1fHxGaXJzdCUyMFNvbG8lMjBUcmlwJTIwQ2hpbmElMjBzb2xvLXRyYXZlbHxlbnwwfDB8fHwxNzgxOTQyNDIyfDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
+ogImage: "/img/toolkit/china-first-solo-trip-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## Your First Solo Trip to China — You've Got This
+
+![Luzhi Old Town, Suzhou](/img/toolkit/china-first-solo-trip-guide/1.webp)
 
 Taking your first solo trip to China can feel daunting. The language barrier, the different social norms, the internet restrictions, the sheer scale of the country — it's a lot. But here's the truth that experienced China travellers all know: China is one of the most manageable and rewarding solo travel destinations in Asia. The infrastructure is world-class, the people are helpful, and the challenges are surmountable with the right preparation.
 
@@ -155,6 +157,8 @@ The sensory experience of a Chinese night market — sizzling skewers, steam fro
 Young Chinese people are often curious about foreigners and may approach you to practice English. These encounters — in parks, on trains, in cafés — are among the most rewarding aspects of solo travel in China.
 
 ## Solo Travel Safety in China
+
+![Wangshi Garden Scenery, Suzhou](/img/toolkit/china-first-solo-trip-guide/2.webp)
 
 ### The Reality
 

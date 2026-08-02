@@ -13,14 +13,14 @@ tags:
   - nomads
   - spring-flowers
 description: "Journey to the Ili River Valley in western Xinjiang, a land of lavender fields, wild tulip meadows, and Kazakh nomadic culture that feels more Central Asian than Chinese. This 2026 guide covers the stunning Sayram Lake, the lavender plantations of Huocheng, the grasslands of Nalati and Kalajun, Kazakh yurt experiences, Ili's unique Uyghur-Kazakh fusion cuisine, and practical advice for reaching and exploring this extraordinary valley that the travel world is only beginning to discover."
-ogImage: "https://images.pexels.com/photos/35096546/pexels-photo-35096546.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/xinjiang-ili-valley-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## Ili — The Valley That Doesn't Feel Like China
 
-![Ili River Valley Xinjiang — Ili — The Valley That Doesn't Feel Like China](https://images.pexels.com/photos/19284795/pexels-photo-19284795.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Beautiful Landscape, Xinjiang](/img/destinations/xinjiang-ili-valley-guide/1.webp)
 
 The Ili River Valley (伊犁河谷) is one of those places that makes you question your assumptions about geography. Driving through rolling green hills covered in wildflowers, past grazing horses and snow-capped mountains, with the warm, moist air carrying the scent of grass and blossom — you could be in Switzerland, or Kyrgyzstan, or maybe Montana. You are not expecting to be in Xinjiang, China's vast northwestern frontier that most people associate with desert and camels.
 
@@ -60,9 +60,9 @@ The lavender typically blooms from mid-June to early July, when the fields turn 
 
 **Buying lavender products:** The area produces lavender essential oil, dried flowers, sachets, and soaps. Essential oil (10ml) ¥30-80 ($4.20-11 USD). Quality varies — buy from the cultural park shop or the larger plantations for the most reliable products.
 
-![Ili River Valley Xinjiang — Nalati Grassland (那拉提草原)](https://images.pexels.com/photos/13544772/pexels-photo-13544772.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Nalati Grassland (那拉提草原)
+
+![Renwenjingguan, Xinjiang](/img/destinations/xinjiang-ili-valley-guide/2.webp)
 
 ### The Sky Grassland
 
@@ -118,9 +118,9 @@ Ili's food is a distinctive blend of Uyghur, Kazakh, and Russian influences — 
 
 **Yining Night Market:** The best eating in the city — a lively street of stalls serving everything from samsa to horse sausage to fresh fruit. Budget ¥20-40 ($2.80-5.50 USD) per person.
 
-![Ili River Valley Xinjiang — Practical Information](https://images.pexels.com/photos/32222930/pexels-photo-32222930.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Practical Information
+
+![Winter Beijiang Snow Scenery](/img/destinations/xinjiang-ili-valley-guide/3.webp)
 
 ### Getting to Ili
 

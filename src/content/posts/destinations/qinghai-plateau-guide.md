@@ -13,9 +13,10 @@ tags:
   - nomadic culture
   - high altitude
 description: "Beyond Qinghai Lake — a complete guide to Qinghai Province. The ancient Kumbum Monastery birthplace of Tsongkhapa, the Sanjiangyuan Three River Source Nature Reserve, Tibetan nomadic culture at Maduo, and the highland steppe that is the source of Asia's greatest rivers."
+ogImage: "/img/destinations/qinghai-plateau-guide/cover.webp"
 ---
 
-![Qinghai Lake sunrise — China's largest lake at 3,196 metres, the deep blue saltwater lake catching the first dawn light with snow mountains and wild birds on the shore](https://images.unsplash.com/photo-1501854140801-50d01698950b?w=1200&q=85)
+
 *Qinghai Lake at dawn — China's largest lake and Asia's largest saltwater lake at 3,196 metres, on the edge of the Tibetan Plateau, with snowcapped mountains all around*
 
 Qinghai Province (青海) is China's third-largest province by area and most sparsely populated — 720,000 km² of the Tibetan Plateau at an average elevation of 3,000+ metres, with the source springs of Asia's three greatest rivers (the Yellow, Yangtze, and Mekong). The province is culturally Tibetan, geologically extreme, and largely inaccessible to mass tourism.
@@ -23,6 +24,8 @@ Qinghai Province (青海) is China's third-largest province by area and most spa
 ## Table of contents
 
 ## Kumbum Monastery (塔尔寺, Ta'er Si)
+
+![Singing Sand Dunes Scenery, Dunhuang](/img/destinations/qinghai-plateau-guide/1.webp)
 
 25 km south of Xining (西宁) — one of the six most important Gelug Buddhist monasteries in the world. Founded in 1583 to mark the birthplace of Tsongkhapa (宗喀巴), the 14th-century reformer who founded the Gelug lineage (the "Yellow Hat" sect of the Dalai Lama and Panchen Lama).
 
@@ -38,6 +41,8 @@ Qinghai Province (青海) is China's third-largest province by area and most spa
 
 ## Sanjiangyuan Nature Reserve (三江源自然保护区)
 
+![Geermuwuzi Lake Scenery, Qinghai](/img/destinations/qinghai-plateau-guide/2.webp)
+
 The "Three River Source" — the area of the southern Qinghai-Tibet Plateau where the Yellow River (黄河), Yangtze River (长江/通天河), and Mekong River (澜沧江) all originate within a relatively small highland area.
 
 **The ecology:** Alpine meadow (高寒草甸), wetlands, glaciers, and high-altitude desert at 4,200–5,000 metres. Wildlife: Tibetan antelope (藏羚羊), wild yak (野牦牛), snow leopard (雪豹), Tibetan sand fox, blue sheep (岩羊).
@@ -49,6 +54,8 @@ The "Three River Source" — the area of the southern Qinghai-Tibet Plateau wher
 ---
 
 ## Tibetan Nomadic Culture
+
+![Hu Natural Scenery, Qinghai](/img/destinations/qinghai-plateau-guide/3.webp)
 
 The nomadic pastoralists (牧民) of the Qinghai Plateau maintain a way of life centred on yak herding — the black yak-hair tents (黑帐篷) visible across the summer grasslands are still the primary accommodation for nomadic families on summer migration.
 

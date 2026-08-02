@@ -11,12 +11,14 @@ tags:
   - visa
   - practical-tips
 description: "The complete 2026 China travel guide specifically for Australian citizens — covering visa requirements and application tips, flight routes from Australian cities, money matters including Alipay setup for Australian cards, health and insurance advice, cultural differences to expect, and practical tips gathered from dozens of Australian travellers who've navigated China's unique travel landscape."
-ogImage: "https://images.pexels.com/photos/346820/pexels-photo-346820.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-travel-guide-australians/cover.webp"
 ---
 
 ## Table of contents
 
 ## G'day, China — Why More Australians Are Making the Trip
+
+![Guojiadizhi Park Scenery, Huangshan](/img/toolkit/china-travel-guide-australians/1.webp)
 
 China has never been a top destination for Australian travellers. The long flight, the language barrier, and the perception of difficulty have kept it well below Southeast Asia, Japan, and Europe on most bucket lists. But that's changing. Direct flights from Sydney and Melbourne have made the journey more manageable, the expansion of visa-free transit options has removed a major hurdle, and the reality of travelling in China — modern infrastructure, extraordinary food, and genuinely welcoming people — is very different from the perception.
 
@@ -175,6 +177,8 @@ China is more crowded than Australians are used to, and the concept of personal 
 - Paying the bill is a competitive sport — let the host win if they insist
 
 ## Internet and Communication
+
+![Scenery, Jiuzhaigou, Sichuan](/img/toolkit/china-travel-guide-australians/2.webp)
 
 ### The Great Firewall
 

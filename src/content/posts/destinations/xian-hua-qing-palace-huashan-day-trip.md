@@ -1,6 +1,7 @@
 ---
 title: "Xi'an Day Trips: Hua Qing Palace Hot Springs and Mount Hua Overnight Hike"
 description: "Complete guide to two essential Xi'an day trips: the Hua Qing Palace imperial hot springs (骊山温泉) and the overnight hike on Mount Hua (华山). Logistics, timing, overnight strategy and the plank walk."
+ogImage: "/img/destinations/xian-hua-qing-palace-huashan-day-trip/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Xi'an", "Hua Qing Palace", "Mount Hua", "Huashan", "Xi'an day trips", "China hiking", "Shaanxi"]
@@ -8,9 +9,9 @@ tags: ["Xi'an", "Hua Qing Palace", "Mount Hua", "Huashan", "Xi'an day trips", "C
 
 Xi'an is a natural base for two of Shaanxi Province's most compelling experiences: the Hua Qing Palace hot springs complex with its imperial romance and a legendary 1936 political kidnapping, and the vertical cliffs of Mount Hua (华山, one of China's five sacred mountains) with its terrifying plank walk on chains across a sheer granite face. Both are within 90 minutes of Xi'an city.
 
-![Xi' Trips — Hua Qing Palace (华清宫)](https://images.pexels.com/photos/7009619/pexels-photo-7009619.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Hua Qing Palace (华清宫)
+
+![Qinglong Temple Scenery, Shaanxi, Xi'an](/img/destinations/xian-hua-qing-palace-huashan-day-trip/1.webp)
 
 **Location**: Lintong District, 30 km east of Xi'an; adjacent to Mount Li (骊山)
 
@@ -37,9 +38,9 @@ The site is organized as a large park with multiple zones:
 
 ---
 
-![Xi' Trips — Mount Hua (华山)](https://images.pexels.com/photos/32762655/pexels-photo-32762655.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Mount Hua (华山)
+
+![Jiangjieshixibei Summer Retreat Changning Palace Scenery, Shaanxi, Xi'an](/img/destinations/xian-hua-qing-palace-huashan-day-trip/2.webp)
 
 Mount Hua is one of the Five Sacred Mountains of Daoism and one of the steepest, most dramatic mountain landscapes in China. Its five peaks rise from a single granite mass to the highest summit at 2,154m, and the paths connecting them traverse sheer faces using chain railings, wooden walkways bolted to cliff faces, and stone steps cut directly into vertical granite.
 

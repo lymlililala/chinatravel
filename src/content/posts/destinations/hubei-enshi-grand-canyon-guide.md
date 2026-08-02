@@ -12,7 +12,7 @@ tags:
   - tujia-culture
   - nature
 description: "The Enshi Grand Canyon in western Hubei is one of China's most dramatic geological spectacles — a 108km-long canyon system with vertical cliffs, the Cloud-Sea Stone Forest, and the Sword Peak Forest of narrow rock pillars. Combined with Enshi's Tujia minority culture and the region's growing accessibility via high-speed rail, this is one of central China's best adventure destinations. This guide covers the canyon, the Tujia cultural sites, and practical travel details."
-ogImage: "https://images.pexels.com/photos/7494186/pexels-photo-7494186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/hubei-enshi-grand-canyon-guide/cover.webp"
 ---
 
 Enshi Tujia and Miao Autonomous Prefecture (恩施土家族苗族自治州) occupies the mountainous western corner of Hubei Province, where the Wuling Mountains create a landscape of deep canyons, limestone karst formations, and forested ridges that feels more like Guizhou or Guangxi than the central China plain.
@@ -25,7 +25,7 @@ Enshi also has a vibrant Tujia minority culture — stilted wooden houses, hand-
 
 ## Getting to Enshi
 
-![Enshi Grand Canyon Hubei — Getting to Enshi](https://images.pexels.com/photos/7494170/pexels-photo-7494170.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Dong Lake Scenery, Hubei, Wuhan](/img/destinations/hubei-enshi-grand-canyon-guide/1.webp)
 
 **By high-speed train:**
 - **From Wuhan:** About 4 hours; ¥180–260; multiple daily departures
@@ -75,8 +75,6 @@ The lower section, accessed by elevator and stairway from the rim. This is a nar
 **Time required:** 2–3 hours  
 **Difficulty:** Moderate; the path is well-constructed but the stairs and the wet conditions require care
 
-![Enshi Grand Canyon Hubei — Tujia Culture (土家族文化)](https://images.unsplash.com/photo-1589682449071-d13c27d1c298?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxUdWppYSUyMEN1bHR1cmV8ZW58MHwwfHx8MTc4MTg1MTAzMHww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
-
 ## Tujia Culture (土家族文化)
 
 The Tujia (土家族) are one of China's larger ethnic minorities, with a population of about 8 million concentrated in the Wuling Mountain area where Hubei, Hunan, Guizhou, and Chongqing meet.
@@ -95,6 +93,8 @@ The Tujia New Year, celebrated in advance of the standard Spring Festival (typic
 
 ## Other Sights Around Enshi
 
+![Tusi City, Hubei, Enshi](/img/destinations/hubei-enshi-grand-canyon-guide/2.webp)
+
 **Pingshang Yingxiang Gallery (屏山峡谷 / The "Suspended Boat" Canyon):**
 About 80km from Enshi city, this narrow gorge has become a social media sensation — the water is so clear and still that boats appear to float in air. The "suspended boat" photo has become one of China's most viral travel images. Access requires advance booking; entry ¥180; boat rides ¥50 per person.
 
@@ -104,9 +104,9 @@ One of the largest cave systems in China, about 6km from Lichuan city (利川, 1
 **Suobuya Stone Forest (梭布垭石林):**
 A karst stone forest area about 50km from Enshi city, with 400 million-year-old Ordovician-era limestone formations shaped by marine erosion before the land was uplifted. Different from the canyon's rim stone forest — these formations are at ground level in a forest setting. Entry ¥80.
 
-![Enshi Grand Canyon Hubei — Enshi Food](https://images.pexels.com/photos/29714906/pexels-photo-29714906.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Enshi Food
+
+![Mingxianling Scenery, Hubei](/img/destinations/hubei-enshi-grand-canyon-guide/3.webp)
 
 **Tujia specialties:**
 - **Hezha (合渣):** A thick soup made from ground soybeans with vegetables and optional meat; the defining Tujia comfort food; ¥15–25 per bowl

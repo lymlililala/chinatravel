@@ -10,7 +10,7 @@ tags:
   - entry
   - toolkit
 description: "A complete breakdown of every China visa category — tourist, business, student, family — with exact document requirements, processing times, and which type suits your trip."
-ogImage: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=900&q=80"
+ogImage: "/img/toolkit/china-visa-types-complete-guide/cover.webp"
 ---
 
 Choosing the wrong visa type is one of the most common — and frustrating — mistakes travellers make when planning a China trip. The Chinese visa system uses single-letter categories, each covering a different purpose of visit. Getting this right from the start saves you rejected applications, wasted fees, and delayed travel plans.
@@ -18,6 +18,8 @@ Choosing the wrong visa type is one of the most common — and frustrating — m
 ## Table of contents
 
 ## Overview of China Visa Categories
+
+![Xingping, Guangxi, Yangshuo](/img/toolkit/china-visa-types-complete-guide/1.webp)
 
 China's Ministry of Foreign Affairs issues visas under over a dozen letter codes. For international visitors, the most relevant are:
 
@@ -90,6 +92,8 @@ Universities, research institutions, or approved NGOs typically issue the invita
 ---
 
 ## The X Visa (Student)
+
+![Forbidden City Panorama Interior, Beijing](/img/toolkit/china-visa-types-complete-guide/2.webp)
 
 ### X1: Long-term study (6 months +)
 

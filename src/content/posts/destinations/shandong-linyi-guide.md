@@ -12,12 +12,14 @@ tags:
   - red-tourism
   - ancient-civilization
 description: "Explore Linyi, one of Shandong's most historically layered cities, where the Yimeng Mountain revolution base meets ancient bamboo strip manuscripts that rewrote Chinese history, and where natural scenery from underground caves to mountain peaks offers surprising variety. This 2026 guide covers the Yimeng Mountain revolutionary sites, the extraordinary Silver Sparrow Mountain Han Tomb bamboo strips, Meng Mountain scenic area, underground gallery caves, local Shandong cuisine, and practical advice for visiting this multifaceted corner of Shandong."
-ogImage: "https://images.pexels.com/photos/15839349/pexels-photo-15839349.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/shandong-linyi-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## Linyi — Layers of History, Mountains of Meaning
+
+![Wucai Mountain Scenery, Shandong](/img/destinations/shandong-linyi-guide/1.webp)
 
 Linyi (临沂) is not a city that announces itself. It doesn't have Qingdao's beaches, Tai'an's mountain, or Qufu's philosophical pedigree. What it has is depth — layer upon layer of history, from a 2,000-year-old tomb that rewrote Chinese military history to the revolutionary bases that helped create modern China. The landscape around Linyi is equally layered — the Yimeng Mountains rise from the plains, hiding underground caves and dramatic gorges beneath their forested slopes.
 
@@ -59,8 +61,6 @@ The term "Yimeng Spirit" (沂蒙精神) — referring to the selfless dedication
 
 **Is it worth visiting if you're not interested in Communist history?** The mountain scenery is genuinely beautiful, and the memorials provide insight into how modern China understands its own history. I'd recommend it even for non-specialists.
 
-![Linyi Shandong — Meng Mountain Scenic Area (蒙山旅游区)](https://images.pexels.com/photos/15949899/pexels-photo-15949899.png?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Meng Mountain Scenic Area (蒙山旅游区)
 
 ### The Natural Side of Yimeng
@@ -76,6 +76,8 @@ Meng Mountain (蒙山), one of the two peaks that give the Yimeng range its name
 **Entrance fee:** ¥80 ($11 USD). Cable car ¥60 ($8.30 USD) each way.
 
 ## Linyi Underground Gallery (临沂地下大峡谷)
+
+![Yi Mountain Scenery, Shandong](/img/destinations/shandong-linyi-guide/2.webp)
 
 ### A Subterranean Wonder
 
@@ -94,8 +96,6 @@ Linyi is one of the centres of the Dongyi (东夷) culture, an ancient civilisat
 **The Linyi Museum (临沂市博物馆):** Displays artefacts from local excavations, including neolithic pottery, jade objects, and Dongyi cultural items. ¥10 ($1.40 USD).
 
 **Xiwangcheng Site:** An ancient city site dating back about 5,000 years. Limited visitor infrastructure but significant for archaeology enthusiasts.
-
-![Linyi Shandong — Linyi Cuisine — Shandong Flavours](https://images.pexels.com/photos/6646364/pexels-photo-6646364.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Linyi Cuisine — Shandong Flavours
 
@@ -118,6 +118,8 @@ Linyi is one of the centres of the Dongyi (东夷) culture, an ancient civilisat
 **Yimeng Mountain Farmhouse:** Near Meng Mountain, serving hearty mountain food. Meals ¥30-50 ($4.20-7 USD) per person.
 
 ## Practical Information
+
+![Lao Mountain Scenery, Shandong, Qingdao](/img/destinations/shandong-linyi-guide/3.webp)
 
 ### Getting to Linyi
 

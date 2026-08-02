@@ -12,14 +12,14 @@ tags:
   - guangdong
   - spa resort
 description: "Conghua Hot Springs is Guangdong's premier spa destination — a valley of natural mineral springs in the mountains north of Guangzhou used by emperors, elite athletes, and weekend city escapes for centuries. This 2026 guide covers the best resorts, how the springs differ, prices, transport from Guangzhou, and tips for combining your hot springs stay with hiking and local food."
-ogImage: "https://images.pexels.com/photos/1069765/pexels-photo-1069765.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guangzhou-conghua-hot-springs/cover.webp"
 ---
 
 ## Table of contents
 
 ## Conghua Hot Springs: Guangdong's Original Wellness Escape
 
-![Conghua Hot Springs Guangzhou — Conghua Hot Springs: Guangdong's Original Wellness Escape](https://images.pexels.com/photos/15289946/pexels-photo-15289946.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Shiwannanfengguzao Scenery, Guangdong, Foshan](/img/destinations/guangzhou-conghua-hot-springs/1.webp)
 
 Long before wellness tourism became a global industry, people in Guangdong were making the trip to Conghua. The valley sits about 80km north of Guangzhou city centre in the mountains where the Liu River flows cold and clear through bamboo forest and persimmon orchards. Beneath these mountains, geothermal activity produces hot spring water that emerges at 30–50°C and is high in radon and bicarbonate minerals long credited with therapeutic properties.
 
@@ -39,8 +39,6 @@ The most medically studied type in the region. Radon-containing springs are moni
 
 ### Bicarbonate Springs
 Slightly effervescent, with a softer mineral character. These spring pools often have a milky appearance due to CO2 dissolved in the water. Considered particularly effective for skin conditions and stress relief.
-
-![Conghua Hot Springs Guangzhou — Best Resorts in Conghua (2026)](https://images.pexels.com/photos/15587173/pexels-photo-15587173.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Best Resorts in Conghua (2026)
 
@@ -76,6 +74,8 @@ Several resorts offer private spring villa packages where the villa itself has a
 
 ## How to Get to Conghua from Guangzhou
 
+![Baomo Garden, Guangdong, Guangzhou](/img/destinations/guangzhou-conghua-hot-springs/2.webp)
+
 ### By Metro (Easiest Option)
 Guangzhou Metro Line 14 extends to Conghua District, making public transport access genuinely convenient.
 
@@ -93,8 +93,6 @@ The drive from central Guangzhou to Conghua takes 1–1.5 hours in normal traffi
 ### By High-Speed Train (from Further Afield)
 Visitors from Shenzhen, Hong Kong, or other cities can take a high-speed train to Guangzhou and then transfer to the Metro Line 14 route.
 
-![Conghua Hot Springs Guangzhou — Best Time to Visit Conghua](https://images.pexels.com/photos/5868296/pexels-photo-5868296.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Best Time to Visit Conghua
 
 ### Autumn (September–November): Best Overall
@@ -110,6 +108,8 @@ The valley comes alive with wildflowers in March and April. Hiking above the res
 Guangdong summers are hot and brutally humid. The hot springs lose their appeal when the outdoor temperature is 35°C. The resort pools remain operational and the river swimming compensates somewhat, but this is the least pleasant time to visit.
 
 ## Beyond the Springs: What Else to Do in Conghua
+
+![Nanyueyuan Scenery, Guangdong, Guangzhou](/img/destinations/guangzhou-conghua-hot-springs/3.webp)
 
 ### Hiking the Liuxi National Forest Park (流溪河国家森林公园)
 This large protected forest area adjoining the resort zone offers well-maintained hiking trails through subtropical mountain forest. The trails are not particularly challenging but the scenery is genuinely beautiful — bamboo groves, granite outcrops, clear mountain streams, and remarkable biodiversity. Trail maps are available at the park entrance. Entry ¥30–50. Allow half a day for a satisfying hike.

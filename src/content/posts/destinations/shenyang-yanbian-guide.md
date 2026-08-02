@@ -15,7 +15,7 @@ tags:
   - Korean culture
   - north korea border
 description: "Explore Shenyang's Manchu palace, Yanbian's Korean culture, and Hunchun, Jilin — China's tri-border city with views of North Korea and Russia from Fangchuan."
-ogImage: "https://images.unsplash.com/photo-1591116851752-3f7f19f5e7b8?w=1200&q=85"
+ogImage: "/img/destinations/shenyang-yanbian-guide/cover.webp"
 faq:
   - question: "Where is Hunchun in China?"
     answer: "Hunchun is a county-level city in the Yanbian Korean Autonomous Prefecture of Jilin Province, in far northeastern China. It sits where the borders of China, Russia, and North Korea meet along the Tumen River."
@@ -27,7 +27,7 @@ faq:
     answer: "Yes if you're interested in border geopolitics — the Fangchuan viewpoint is the one place in China where you can see three countries at once. The town itself is small, so most travelers combine it with Yanji and Changbai Mountain."
 ---
 
-![Shenyang Imperial Palace — the octagonal Dazheng Hall at dusk, its distinctive Manchu-Han hybrid architecture lit against the sky](https://images.unsplash.com/photo-1591116851752-3f7f19f5e7b8?w=1200&q=85)
+
 *Shenyang Imperial Palace — the pre-Beijing Qing Dynasty capital, a UNESCO World Heritage Site with unique Manchu architectural traditions*
 
 Liaoning and Jilin provinces hold two culturally distinct experiences that rarely appear in standard China itineraries: Shenyang's extraordinary Manchu imperial heritage that predates and parallels the Beijing Qing Dynasty; and the Korean cultural landscape of Yanbian, China's Korean autonomous prefecture on the North Korean border — including Hunchun, Jilin, the tri-border city where you can stand in China and look into Russia and North Korea.
@@ -35,6 +35,8 @@ Liaoning and Jilin provinces hold two culturally distinct experiences that rarel
 ## Table of contents
 
 ## Shenyang: The Other Imperial City
+
+![Bei Town Scenery, Liaoning](/img/destinations/shenyang-yanbian-guide/1.webp)
 
 Shenyang (沈阳, formerly Mukden) was the original capital of the Manchu Qing Dynasty before Beijing. The Manchu leader Nurhaci (努尔哈赤) established it as his capital in 1625; his successors built the palace complex that preceded the Forbidden City.
 
@@ -48,7 +50,6 @@ The only imperial palace complex in China outside Beijing — a UNESCO World Her
 
 **Ticket:** ¥60. Open daily 8:30 AM – 5:30 PM.
 
-![Fuling Tomb Shenyang — the imperial approach road through autumn forest, with red walls and the distinctive Manchu-style architectural sequence](https://images.unsplash.com/photo-1599832054737-f7e1b2ff5a59?w=1200&q=85)
 *Fuling Tomb — the hilltop resting place of Nurhaci, founder of the Qing Dynasty, in the forested eastern suburbs of Shenyang*
 
 ### The Qing Dynasty Imperial Tombs
@@ -66,7 +67,8 @@ Both are free with Shenyang tourism cards or ¥50–80 entry.
 
 ## Yanbian Korean Autonomous Prefecture (延边朝鲜族自治州)
 
-![Changbai Mountain Tianchi crater lake — the perfectly circular blue volcanic lake at 2,190 metres, surrounded by snowfields and the volcanic cone rim](https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=1200&q=85)
+![Qian Mountain Scenery, Liaoning](/img/destinations/shenyang-yanbian-guide/2.webp)
+
 *Changbai Mountain Tianchi — the world's highest volcanic crater lake on the China-North Korea border, 13 km in circumference*
 
 In the southeastern corner of Jilin Province, bordering North Korea across the Tumen River — the Yanbian prefecture is home to approximately 700,000 ethnic Koreans (조선족, Joseonjok), creating a landscape where Korean and Chinese cultures coexist in unique ways.
@@ -92,6 +94,8 @@ The extinct volcano on the China-North Korea border — and the most important n
 From lookout points near Tumen City (图们) and Hunchun (珲春), North Korean territory is visible across the narrow Tumen River. The contrast is stark — the North Korean side is largely unlit, unbuilt riverbank; the Chinese side is modern commercial development.
 
 ## Hunchun (珲春): The China–Russia–North Korea Tri-Border City
+
+![Wugoujingguangsheli Pagoda Scenery, Liaoning, Shenyang](/img/destinations/shenyang-yanbian-guide/3.webp)
 
 Hunchun is the trilateral border city where China, Russia, and North Korea meet — a unique geopolitical position. The Russian port of Vladivostok is 170 km away, and Russia's Pacific trade access through this corridor runs through Hunchun.
 

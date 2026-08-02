@@ -12,7 +12,7 @@ tags:
   - great-wall
   - northeast-china
 description: "Dandong is China's largest border city with North Korea, sitting across the Yalu River from Sinuiju. Visitors come to see North Korea from the Chinese side via the famous Broken Bridge, take boat tours along the riverfront, and visit the Eastern endpoint of the Ming Great Wall at Tiger Mountain. This guide covers the border sights, what you can and cannot see, Tiger Mountain, and practical Dandong logistics."
-ogImage: "https://images.unsplash.com/photo-1735741491976-c5ff7bad908d?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxEYW5kb25nJTIwTGlhb25pbmd8ZW58MHwwfHx8MTc4MTg1ODczM3ww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
+ogImage: "/img/destinations/liaoning-dandong-guide/cover.webp"
 ---
 
 Dandong (丹东) sits on the Yalu River (鸭绿江) in the southeastern corner of Liaoning Province, separated from North Korea's Sinuiju (新义州) by only the width of the river. At around 800,000 people, it's China's largest border city with the DPRK, and the economic and human geography of that position defines the city's character in ways that make it one of China's most unusual urban destinations.
@@ -25,7 +25,7 @@ Beyond the Korea-watching tourism, Dandong has Tiger Mountain Great Wall (虎山
 
 ## Getting to Dandong
 
-![Dandong Liaoning — Getting to Dandong](https://images.unsplash.com/photo-1735741491976-c5ff7bad908d?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxEYW5kb25nJTIwRGFuZG9uZyUyMExpYW9uaW5nfGVufDB8MHx8fDE3ODE4NTg3Mzh8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
+![Dandonglvjiang Village Scenery, Liaoning](/img/destinations/liaoning-dandong-guide/1.webp)
 
 **By high-speed train:**
 - **From Shenyang:** About 1.5–2 hours by express train; ¥70–130; frequent departures
@@ -76,9 +76,9 @@ The most popular activity in Dandong is taking a small boat tour along the Yalu 
 
 **Evening tours:** Some operators run illuminated evening tours; the Korean side is largely dark at night (power supply issues) while the Chinese bank is bright — the contrast is itself striking.
 
-![Dandong Liaoning — Tiger Mountain Great Wall (虎山长城)](https://images.pexels.com/photos/19031655/pexels-photo-19031655.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Tiger Mountain Great Wall (虎山长城)
+
+![Qian Mountain Scenery, Liaoning](/img/destinations/liaoning-dandong-guide/2.webp)
 
 About 20km northeast of Dandong city, Tiger Mountain is the site of the eastern terminus of the Ming Dynasty Great Wall — the endpoint from which the wall begins its 6,000km journey westward to Jiayuguan in Gansu.
 
@@ -123,9 +123,9 @@ Dandong periodically serves as a transit point for organized tours to North Kore
 - All foreign visitors require a North Korean visa arranged through an approved travel agency
 - Solo visits without a sanctioned tour are not permitted under any circumstances
 
-![Dandong Liaoning — The Riverfront Promenade & Night Market](https://images.pexels.com/photos/35130115/pexels-photo-35130115.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Riverfront Promenade & Night Market
+
+![Forbidden City, Shenyang](/img/destinations/liaoning-dandong-guide/3.webp)
 
 Dandong's riverside park (江滨公园) extends several kilometers west of the Broken Bridge along the Chinese bank. The evening riverfront walk is a popular local activity:
 

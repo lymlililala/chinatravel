@@ -11,7 +11,7 @@ tags:
   - "south-china"
   - "northeast-china"
 description: "Escape the heat in Guangze (Fujian) and Hunchun (Jilin) – two off-the-beaten-path destinations offering cool weather, stunning nature, and unique cultural"
-ogImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85"
+ogImage: "/img/destinations/cool-off-in-fujian-jilin-summer-guide/cover.webp"
 faq:
   - question: "Do I need a visa to visit Guangze and Hunchun?"
     answer: "Yes, most foreign nationals need a tourist visa (L visa) to enter China. However, if you're transiting through certain cities like Yanji, you may qualify for the 144-hour visa-free transit. Check with your local Chinese embassy."
@@ -35,9 +35,9 @@ Looking to escape China's summer heat without battling crowds? This summer, vent
 
 ## Guangze: The 'Farthest Jiangnan' in Fujian
 
-Nestled in the heart of the Wuyi Mountains (武夷山, Wǔyí Shān) and at the source of the Min River (闽江, Mǐn Jiāng), Guangze County is often called the "Farthest Jiangnan" – a reference to the classic watery landscapes south of the Yangtze. Here, emerald peaks, crystal-clear streams, and ancient forests create a natural air conditioner, with summer temperatures averaging around 25°C.
+![Tailao Mountain Scenery, Fujian](/img/destinations/cool-off-in-fujian-jilin-summer-guide/1.webp)
 
-![Misty mountains and lush forest in Guangze, Fujian](https://images.pexels.com/photos/32454709/pexels-photo-32454709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+Nestled in the heart of the Wuyi Mountains (武夷山, Wǔyí Shān) and at the source of the Min River (闽江, Mǐn Jiāng), Guangze County is often called the "Farthest Jiangnan" – a reference to the classic watery landscapes south of the Yangtze. Here, emerald peaks, crystal-clear streams, and ancient forests create a natural air conditioner, with summer temperatures averaging around 25°C.
 
 ### Top Things to Do in Guangze
 
@@ -63,8 +63,6 @@ For a true immersion, book a **minsu (民宿, mínsù)** – a rural guesthouse.
 
 Now let's cross China to the far northeast. **Hunchun (珲春, Húnchūn)** in Jilin Province sits at the tripoint of China, Russia, and North Korea. It's a place of dramatic contrasts: dense forests roamed by Siberian tigers, a bustling seafood market, and a skyline where you can spot three nations at once.
 
-![View from Fangchuan looking at Russia and North Korea](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85)
-
 ### Why Hunchun is a Summer Paradise
 
 Hunchun enjoys a mild maritime-influenced climate, with average summer highs around 21°C. The city is surrounded by forests (86% coverage) and is part of the **Northeast China Tiger and Leopard National Park**, home to the largest wild population of Amur tigers and leopards in China.
@@ -84,9 +82,9 @@ Hunchun was once the eastern capital of the Balhae Kingdom (Bohai, 渤海, Bóh�
 
 For nature lovers, Hunchun is a dream. The surrounding forests are prime habitat for Amur tigers and leopards. While sightings are rare, you can visit the **Northeast Tiger and Leopard National Park** visitor center to learn about conservation efforts. Birdwatchers flock to the **Jingxin Wetlands (敬信湿地, Jìngxìn Shīdì)** during migration seasons.
 
-![Amur tiger in snowy forest](https://images.pexels.com/photos/8138349/pexels-photo-8138349.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Hunchun Food: The Land of King Crab
+
+![Wuyi Mountain Scenery, Fujian](/img/destinations/cool-off-in-fujian-jilin-summer-guide/2.webp)
 
 Despite being landlocked, Hunchun is famous for seafood – especially **king crab (帝王蟹, dìwáng xiè)**. Russian crabs are imported via the nearby ports, making them fresher and cheaper than in most Chinese cities. Head to **Seafood Street (海鲜街, Hǎixiān Jiē)** for a feast.
 
@@ -111,6 +109,8 @@ Other must-eats:
 - **Etiquette:** When visiting temples or minority villages, dress modestly and ask before taking photos.
 
 ## Best Time to Visit
+
+![Moya Stone Carving Scenery, Fujian, Quanzhou](/img/destinations/cool-off-in-fujian-jilin-summer-guide/3.webp)
 
 Both destinations shine in summer (June to September). Guangze is pleasant from May to October, while Hunchun's peak season is July and August. Spring and autumn are also lovely but cooler.
 
@@ -148,8 +148,6 @@ Both destinations shine in summer (June to September). Guangze is pleasant from 
 - **Attractions:** Most sites are free or under ¥50.
 
 For more travel ideas, check out our [China itineraries](/tags/itinerary) and [nature guides](/tags/nature). If you're interested in Fujian and Jilin specifically, explore our [south China](/tags/south-china) and [northeast China](/tags/northeast-china) tags.
-
-![Korean BBQ skewers grilling in Hunchun](https://images.pexels.com/photos/31459992/pexels-photo-31459992.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## FAQ
 

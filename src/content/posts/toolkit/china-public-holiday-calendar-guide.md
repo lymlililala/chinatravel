@@ -12,7 +12,7 @@ tags:
   - calendar
   - planning
 description: "China's public holiday system produces extraordinary travel surges — the Spring Festival and National Day Golden Week see over a billion domestic trips. This 2026 holiday calendar guide covers exact dates, how the make-up working day system works, which destinations to avoid and which remain manageable, accommodation booking lead times and practical strategies for visiting during or around China's major holidays."
-ogImage: "https://images.pexels.com/photos/34778395/pexels-photo-34778395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-public-holiday-calendar-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -22,6 +22,8 @@ Understanding China's public holiday system is essential for travel planning. Th
 The result is two major travel surges that affect transport, accommodation and tourist site capacity so dramatically that experienced travellers either plan around them entirely or manage them with careful tactics.
 
 ## 2026 Public Holiday Calendar
+
+![Zhuozheng Garden, Suzhou](/img/toolkit/china-public-holiday-calendar-guide/1.webp)
 
 China's official public holidays for 2026 are announced by the State Council, typically in November of the preceding year. The following dates are based on 2026 projections (specific dates may shift slightly; verify with official sources):
 
@@ -116,6 +118,8 @@ If you have full schedule flexibility:
 **Underrated timing:** Late October through November is excellent for most of China — Golden Week is over, crowds are thin, autumn colours are developing, temperatures are comfortable. One of the least-appreciated travel seasons.
 
 ## Train Ticket Booking During Holidays
+
+![Canglangting, Suzhou](/img/toolkit/china-public-holiday-calendar-guide/2.webp)
 
 **Ticket release schedule:**
 - High-speed rail tickets: 30 days before departure date

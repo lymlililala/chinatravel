@@ -11,7 +11,7 @@ tags:
   - safety
   - urban
 description: "LGBTQ+ travel in China — the legal status (homosexuality decriminalised since 1997, not a mental disorder since 2001, but no legal protections or recognition), Shanghai's underground queer scene (Jing'an district, JJ Bar is the institution), Chengdu's more relaxed queer culture, the 'don't ask, don't tell' dynamic for same-sex couples, and what's changed in 2025-2026 (some outdoor Pride events have been blocked again)."
-ogImage: "https://images.pexels.com/photos/6392048/pexels-photo-6392048.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-lgbtq-travel-guide-2026/cover.webp"
 ---
 
 Travelling China as an LGBTQ+ person requires an accurate understanding of both the legal landscape and the social reality, which are quite different from each other. The short version: same-sex relationships are legal but unrecognised; public visibility is tolerated in urban areas but can face friction; the queer scenes in Shanghai and Chengdu are real and vibrant; outside major cities, discretion is generally advisable.
@@ -19,6 +19,8 @@ Travelling China as an LGBTQ+ person requires an accurate understanding of both 
 ## Table of contents
 
 ## The Legal Landscape
+
+![Lvshun West Lake Zui Scenery, Liaoning](/img/toolkit/china-lgbtq-travel-guide-2026/1.webp)
 
 **Homosexuality in China:** Decriminalised in 1997 as part of a broader revision of the criminal code. Removed from the official list of mental disorders in 2001. As of 2026, there is no national law that explicitly criminalises homosexuality.
 
@@ -63,6 +65,8 @@ Beijing's LGBTQ+ scene is real but smaller and more dispersed than Shanghai's. T
 **The political context:** Being the political capital means Beijing is also where official sensitivity about LGBTQ+ visibility is highest. Events that might proceed quietly in Chengdu face more scrutiny in Beijing.
 
 ## What's Changed in 2025-2026
+
+![Wanli Great Wall Scenery](/img/toolkit/china-lgbtq-travel-guide-2026/2.webp)
 
 The environment for public LGBTQ+ expression in China has tightened somewhat in recent years:
 

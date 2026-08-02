@@ -12,14 +12,14 @@ tags:
   - macau food
   - off beaten path
 description: "Taipa Village is the most charming neighbourhood in Macau — a cluster of pastel-coloured Portuguese colonial buildings, family-run bakeries, and narrow streets completely unlike the casino mega-resorts that dominate the rest of the territory. This 2026 guide covers the village's history, the best local food, hidden churches and mansions, practical transport, and why Taipa should be your first stop if you want to see the real Macau."
-ogImage: "https://images.pexels.com/photos/31189652/pexels-photo-31189652.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/macau-taipa-village-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## Taipa Village: The Macau That the Casino Billboards Hide
 
-![Taipa Village Macau — Taipa Village: The Macau That the Casino Billboards Hide](https://images.pexels.com/photos/28252548/pexels-photo-28252548.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Dangzaitianhou Palace, Macau](/img/destinations/macau-taipa-village-guide/1.webp)
 
 Most first-time visitors to Macau have a predictable experience: cross from Hong Kong or mainland China, marvel briefly at the scale of the casino developments, eat some egg tarts, and leave somewhat underwhelmed. The Macau they came looking for — the Macau of faded colonial charm, bacalhau cod fish, and crumbling Portuguese manor houses — seems to exist only in travel brochures.
 
@@ -41,8 +41,6 @@ The quieter main street running parallel to Rua do Cunha, lined with old residen
 
 ### The Back Streets
 Turn off the main tourist routes and the village's residential character becomes apparent. Elderly residents sit in doorways. Laundry dries from upper windows. Small altars to local deities are mounted on the outside walls of houses. These back streets are the real reason to spend time in Taipa rather than rushing through on a casino shuttle.
-
-![Taipa Village Macau — Key Attractions](https://images.pexels.com/photos/9400879/pexels-photo-9400879.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Key Attractions
 
@@ -69,6 +67,8 @@ Tucked behind the main street, an early 20th-century mansion now houses a cultur
 
 ## Food and Drink: Taipa's Best Eating
 
+![Dasanba Memorial Arch, Macau](/img/destinations/macau-taipa-village-guide/2.webp)
+
 ### Macanese Cuisine: What You Need to Know
 Macanese cuisine is one of the world's most fascinating fusion traditions — a product of five centuries of Portuguese colonialism interacting with Cantonese, Malay, Indian, and African culinary influences. The food cannot be found anywhere else in quite this form, and Taipa Village is the best place in Macau to eat it.
 
@@ -93,9 +93,9 @@ Key dishes to seek out:
 ### The Pork Chop Bun Trail
 Several shops on Rua do Cunha compete for the title of best pork chop bun. The main contenders are Peng Kei (炳記食店) and several adjacent shops. The buns are best fresh from the oven — crispy roll, juicy grilled pork chop, sometimes with a slightly sweet marinade. ¥25–35 each.
 
-![Taipa Village Macau — Getting to Taipa Village](https://images.pexels.com/photos/33952478/pexels-photo-33952478.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting to Taipa Village
+
+![Weinisirenjiudian, Macau](/img/destinations/macau-taipa-village-guide/3.webp)
 
 ### From Macau Peninsula
 The Taipa Village shuttle bus (route 28A, 33, and others) runs regularly from the Lisboa Hotel area on the Peninsula. Journey 15–20 minutes. Fare MOP$6 (Macau Pataca).

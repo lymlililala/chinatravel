@@ -12,7 +12,7 @@ tags:
   - food
   - culture
 description: "Wuhan is one of China's great underrated cities — a sprawling metropolis of 11 million where the Han and Yangtze rivers meet, famous for its phoenix-and-dragon mythology, iconic Yellow Crane Tower, vast East Lake, and the best breakfast culture in China. This 3-day Wuhan itinerary guide for 2026 covers the essential sights, where to eat hot dry noodles, how to get around and practical tips."
-ogImage: "https://images.pexels.com/photos/36267209/pexels-photo-36267209.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/hubei-wuhan-3-days-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -23,7 +23,7 @@ Three days is the right amount of time to see Wuhan properly without rushing. Th
 
 ## Before You Start: Wuhan's Geography
 
-![Wuhan — Before You Start: Wuhan's Geography](https://images.pexels.com/photos/9129535/pexels-photo-9129535.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Yueyangdongting Lake, Hubei](/img/destinations/hubei-wuhan-3-days-guide/1.webp)
 
 Wuhan is actually three cities merged: Wuchang (east bank), Hankou (northwest bank) and Hanyang (southwest). The Yangtze and Han rivers divide them. Understanding which district you're in explains the taxi time to your next destination.
 
@@ -95,9 +95,9 @@ The museum also holds remarkable jade burial suits, gold and silver vessels and 
 
 Hùbùxiàng (户部巷) — "Hubu Lane" — is a Wuchang narrow alley famous for its concentration of Wuhan street food vendors. It's tourist-oriented now but the food is genuine: hot dry noodles, doupi, tofu pudding, grilled skewers and dozens of regional snacks. Good for an informal dinner, evening walk and food exploration.
 
-![Wuhan — Day 3: Hankou History and the Wuhan Bund](https://images.pexels.com/photos/7494229/pexels-photo-7494229.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day 3: Hankou History and the Wuhan Bund
+
+![Huanghelou Scenery, Hubei, Wuhan](/img/destinations/hubei-wuhan-3-days-guide/2.webp)
 
 ### Morning: Former Foreign Concessions Walk
 
@@ -144,9 +144,9 @@ A 1–2 hour cruise on the Yangtze offers a perspective on Wuhan that is impossi
 
 **From Guangzhou:** 3–4 hours high-speed; ¥200–¥320 ($28–$45).
 
-![Wuhan — Where to Stay](https://images.pexels.com/photos/7494196/pexels-photo-7494196.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Where to Stay
+
+![Tusi City, Hubei, Enshi](/img/destinations/hubei-wuhan-3-days-guide/3.webp)
 
 **Budget:** Hostels near Wuchang and Hankou stations from ¥60–¥100/night dorm, ¥150–¥220 private room.
 

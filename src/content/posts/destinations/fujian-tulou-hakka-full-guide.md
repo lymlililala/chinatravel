@@ -10,7 +10,7 @@ tags:
   - culture
   - destinations
 description: "Everything you need to know about visiting the Fujian Tulou — UNESCO World Heritage Hakka earth buildings. Best tulou clusters (Nanjing vs Yongding), how to stay overnight inside a tulou, what to eat, and how to get there without a tour."
-ogImage: "https://images.pexels.com/photos/35268681/pexels-photo-35268681.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/fujian-tulou-hakka-full-guide/cover.webp"
 ---
 
 The tulou (土楼, "earth buildings") of Fujian are among China's most architecturally extraordinary structures: circular or rectangular fortress-mansions built from rammed earth, housing entire Hakka clans for centuries. The largest can accommodate 600+ people in a self-contained community with wells, ancestral halls, and grain stores within the walls. Since their UNESCO World Heritage designation in 2008, they've become one of southern China's most rewarding destinations — but visiting them correctly requires knowing which clusters to go to and how to do it beyond the coach-tour experience.
@@ -19,7 +19,7 @@ The tulou (土楼, "earth buildings") of Fujian are among China's most architect
 
 ## Understanding Tulou Architecture
 
-![Fujian Tulou — Understanding Tulou Architecture](https://images.pexels.com/photos/35268678/pexels-photo-35268678.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Yongding Earthen Tulou Scenery, Fujian](/img/destinations/fujian-tulou-hakka-full-guide/1.webp)
 
 ### The purpose
 
@@ -39,9 +39,9 @@ As relative newcomers, Hakka communities built defensively: thick earthen walls 
 
 ---
 
-![Fujian Tulou — The Best Tulou Clusters](https://images.pexels.com/photos/34236800/pexels-photo-34236800.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Best Tulou Clusters
+
+![Tailao Mountain Scenery, Fujian](/img/destinations/fujian-tulou-hakka-full-guide/2.webp)
 
 ### Nanjing Tulou (南靖土楼)
 
@@ -75,8 +75,6 @@ Most independent travellers prefer Nanjing for its better photography conditions
 
 ---
 
-![Fujian Tulou — Sleeping Inside a Tulou](https://images.pexels.com/photos/4321702/pexels-photo-4321702.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Sleeping Inside a Tulou
 
 This is the experience that separates the genuine tulou visit from a coach tour. Several tulou in both Nanjing and Yongding offer basic accommodation in rooms within the original buildings.
@@ -108,6 +106,8 @@ This is the experience that separates the genuine tulou visit from a coach tour.
 ---
 
 ## Hakka Food in Tulou Areas
+
+![Wuyi Mountain Scenery, Fujian](/img/destinations/fujian-tulou-hakka-full-guide/3.webp)
 
 The cuisine of the tulou areas reflects Hakka cooking traditions — practical, preserved, and highly flavoured:
 

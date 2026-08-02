@@ -10,7 +10,7 @@ faq:
   - question: "How do I book China high-speed rail tickets?"
     answer: "Use the official 12306 system or a trusted booking app, entering your passport details. Tickets open about 15 days ahead and popular routes sell out, so book early. You usually travel paperless by scanning your passport at the station gates."
 description: "The most comprehensive guide to China's high-speed rail network — how to book tickets, G vs D vs C trains, seat classes, booking apps, luggage rules, the experience of 350 km/h travel, and tips for making the most of the world's longest HSR network."
-ogImage: "https://images.pexels.com/photos/28752881/pexels-photo-28752881.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-bullet-train-hsr-comprehensive-guide/cover.webp"
 pubDatetime: 2026-05-15T08:00:00Z
 modDatetime: 2026-07-20T10:00:00Z
 heroImage: "/destinations/china-hsr-train.jpg"
@@ -25,9 +25,9 @@ China operates the world's largest high-speed rail network — over 42,000 km of
 
 Understanding how to use this network efficiently is one of the most important practical skills for China travel.
 
-![China High-Speed Rail — Understanding the Train Types](https://images.pexels.com/photos/33454922/pexels-photo-33454922.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Understanding the Train Types
+
+![Sea of Clouds Scenery, Huangshan](/img/toolkit/china-bullet-train-hsr-comprehensive-guide/1.webp)
 
 The Chinese rail system distinguishes trains by speed class and service type:
 
@@ -71,8 +71,6 @@ The official ticket booking system for all Chinese trains is 12306 (named for th
 
 **Ticket delivery**: For foreign visitors, select "No Paper Ticket" (无纸化) — your passport number is your ticket. At the station, use the self-service machines or attended windows to collect physical tickets if needed, or go directly to the boarding gate with your passport.
 
-![China High-Speed Rail — Alternative Booking Methods](https://images.unsplash.com/photo-1695742265305-14f0373cd9dc?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxBbHRlcm5hdGl2ZSUyMEJvb2tpbmclMjBNZXRob2RzfGVufDB8MHx8fDE3ODQ1NTA0OTV8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
-
 ## Alternative Booking Methods
 
 **Trip.com (formerly Ctrip)**: English-language booking platform that works with international cards. Adds a small service fee but handles all the complexity. Good option for first-time users.
@@ -104,9 +102,9 @@ Major HSR stations are connected to city metro systems. Key examples:
 
 Arrive at the station at minimum 20-30 minutes before departure; 45 minutes before if unfamiliar with the station (Chinese HSR stations are large, with complex check-in and security procedures).
 
-![China High-Speed Rail — The Boarding Process](https://images.pexels.com/photos/20848212/pexels-photo-20848212.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Boarding Process
+
+![Guojiadizhi Park Scenery, Huangshan](/img/toolkit/china-bullet-train-hsr-comprehensive-guide/2.webp)
 
 1. **Security check**: X-ray of luggage and metal detector (similar to airport security). Liquids and large electronics through the scanner.
 

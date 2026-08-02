@@ -12,14 +12,14 @@ tags:
   - tibetan-villages
   - western-sichuan
 description: "Discover Xinduqiao, Sichuan's legendary photography paradise where golden poplars line rivers, Tibetan villages dot vast grasslands, and the light at dawn and dusk transforms the landscape into something almost otherworldly. This comprehensive 2026 guide covers the best shooting locations, seasonal highlights, transport from Chengdu or Kangding, accommodation options, and practical tips for capturing the perfect shot at 3,300 metres above sea level."
-ogImage: "https://images.pexels.com/photos/16182259/pexels-photo-16182259.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/sichuan-xinduqiao-photography-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## Why Xinduqiao Deserves Its Photography Reputation
 
-![Xinduqiao Photography Paradise Sichuan — Why Xinduqiao Deserves Its Photography Reputation](https://images.pexels.com/photos/29279019/pexels-photo-29279019.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Tianfuguosheyinger, Sichuan, Chengdu](/img/destinations/sichuan-xinduqiao-photography-guide/1.webp)
 
 Let me be upfront — Xinduqiao (新都桥) isn't a place you visit for mind-blowing individual landmarks. There's no single iconic temple or jaw-dropping gorge. Instead, what makes this small town at 3,300 metres in western Sichuan a mecca for photographers is the cumulative effect of everything around it. Rolling grasslands framed by snow-capped peaks, rows of golden poplars catching the late afternoon light, Tibetan stone houses with smoke curling from their chimneys, and prayer wheels spinning in the breeze — it's the kind of place where you pull over every ten minutes because the scene just got better.
 
@@ -69,8 +69,6 @@ At 4,298 metres, this pass between Kangding and Xinduqiao offers panoramic views
 
 About 35 km from Xinduqiao, Tagong is technically a separate destination but most photographers treat it as part of the same trip. The Tagong Monastery, the golden chorten against the backdrop of Yala Sacred Mountain (5,820 metres), and the nomad tents dotting the grassland make for incredible photography. The entrance fee to the grassland viewpoint is ¥20 ($2.80 USD).
 
-![Xinduqiao Photography Paradise Sichuan — When to Visit for the Best Shots](https://images.pexels.com/photos/16064240/pexels-photo-16064240.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## When to Visit for the Best Shots
 
 ### Autumn (Late October — Mid November) — Peak Season
@@ -92,6 +90,8 @@ Summer is the rainy season, which means you'll deal with overcast skies more oft
 Winter strips the landscape bare and reveals its bones. Snow-covered peaks, frozen rivers, and the stark contrast of dark stone houses against white landscapes make for powerful, minimalist compositions. It's cold — really cold. Daytime highs of 2-8°C and nighttime lows of -15°C are common. Many guesthouses close for the season, but those that stay open offer rooms at half the autumn rate.
 
 ## Accommodation Options
+
+![Shunanzhuhai Landscape](/img/destinations/sichuan-xinduqiao-photography-guide/2.webp)
 
 ### Mid-Range Guesthouses
 
@@ -125,8 +125,6 @@ At 3,300 metres, altitude sickness is a real concern, especially if you've come 
 
 Always ask permission before photographing Tibetan people, especially monks and elderly residents. A smile and a gesture toward your camera usually gets you a nod of approval. Some people may ask for a small payment (¥5-10), which is perfectly reasonable. Never photograph religious ceremonies without explicit permission, and always walk clockwise around stupas and prayer wheels.
 
-![Xinduqiao Photography Paradise Sichuan — Sample 3-Day Photography Itinerary](https://images.pexels.com/photos/3908181/pexels-photo-3908181.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Sample 3-Day Photography Itinerary
 
 **Day 1:** Arrive from Chengdu or Kangding. Spend the afternoon scouting the poplar avenue south of town. Shoot sunset at the riverbank. Light dinner and early rest to acclimatise.
@@ -136,6 +134,8 @@ Always ask permission before photographing Tibetan people, especially monks and 
 **Day 3:** Morning at Zheduo Mountain Pass for panoramic shots. Midday rest and review. Afternoon return to the poplar avenue for different light angles. Final sunset session before departure.
 
 ## Food and Dining
+
+![Giant Buddha, Leshan](/img/destinations/sichuan-xinduqiao-photography-guide/3.webp)
 
 Don't expect culinary excellence in Xinduqiao — the food is functional rather than fancy, but there are some highlights worth seeking out:
 

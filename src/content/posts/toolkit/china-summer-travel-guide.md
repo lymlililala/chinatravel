@@ -11,7 +11,7 @@ tags:
   - toolkit
   - planning
 description: "China in summer — northern cities are hot and humid (Beijing 35°C+), but the high-altitude destinations are cool and spectacular. The best summer China destinations: Qinghai Lake cycling, Qilian Mountain meadows, the Yunnan plateau (Lijiang at altitude), Inner Mongolia and Xinjiang (warm days, cool nights), Jilin Changbai Mountain. What to avoid and what's worth the heat."
-ogImage: "https://images.pexels.com/photos/2310907/pexels-photo-2310907.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-summer-travel-guide/cover.webp"
 ---
 
 Summer in China is genuinely hot in most of the country. Beijing and Shanghai hit 35-38°C with significant humidity in July-August. The Yangtze River valley (including Nanjing, Wuhan, and Chongqing — known as China's "three furnaces") reaches 40°C+ on peak days. The south is a steam bath.
@@ -21,6 +21,8 @@ But China's geography saves summer travel. The country's high-altitude regions �
 ## Table of contents
 
 ## The High-Altitude Summer Strategy
+
+![Great Wall Lao City Wall](/img/toolkit/china-summer-travel-guide/1.webp)
 
 The key principle: **every 1,000m of altitude drops the temperature approximately 6°C**. This means:
 
@@ -75,6 +77,8 @@ Unlike the winter closure of some access roads, Changbai Mountain in summer is f
 The edelweiss and alpine wildflowers around the crater rim in late July are beautiful. The hot springs at the base of the mountain are more pleasant when you're not also dealing with extreme cold.
 
 ## What to Avoid in Summer
+
+![Xingping, Guangxi, Yangshuo](/img/toolkit/china-summer-travel-guide/2.webp)
 
 **Wuhan, Nanjing, Chongqing:** The three furnaces. Temperatures regularly exceed 40°C in July-August and the humidity makes it worse. All have major attractions, but summer visits require strict air-conditioning management.
 

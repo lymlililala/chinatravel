@@ -12,14 +12,14 @@ tags:
   - birdwatching
   - cycling
 description: "Dianchi Lake is the heart of Kunming — a vast highland lake surrounded by mountains, ancient villages, and one of the world's greatest seasonal birdwatching spectacles. This guide covers cycling routes around the lake, the best birdwatching spots for seeing rare gulls and cranes, lakeside villages worth exploring, and practical tips for making the most of this underrated Yunnan gem in 2026."
-ogImage: "https://images.pexels.com/photos/36352361/pexels-photo-36352361.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/kunming-dianchi-lake-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## Dianchi Lake: Yunnan's Inland Sea
 
-![Kunming Dianchi Lake — Dianchi Lake: Yunnan's Inland Sea](https://images.pexels.com/photos/36352362/pexels-photo-36352362.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Erhai Lake Scenery, Yunnan, Dali](/img/destinations/kunming-dianchi-lake-guide/1.webp)
 
 Dianchi Lake (滇池) sits at 1886 metres above sea level on the Yunnan Plateau, spread across 300 square kilometres to the immediate south of Kunming city. On clear days — and Kunming, the "Spring City," has plenty of those — the lake catches the extraordinary highland light and throws it back as a mirror of blue sky and distant ridgelines.
 
@@ -68,9 +68,9 @@ The western shore is the more interesting cycling route, passing through the old
 **Xishan Mountain Connection (20km)**
 A route connecting the northern shore to **Western Hills** (西山, Xishan), Kunming's most dramatic mountain backdrop. The ride to the base of Xishan takes about 1 hour; from there, walking trails lead up through forest to the famous "Dragon Gate" cliff carvings. A full day combining cycling and hiking.
 
-![Kunming Dianchi Lake — Lakeside Villages Worth Visiting](https://images.pexels.com/photos/37486130/pexels-photo-37486130.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Lakeside Villages Worth Visiting
+
+![Erhai Lake Sunrise Scenery, Dali](/img/destinations/kunming-dianchi-lake-guide/2.webp)
 
 ### Haigeng Village (海埂村)
 Right beside the gull feeding area, this old fishing community has partially transformed into a clutch of lakeside restaurants and guesthouses, but retains genuine village character in its back streets. The fish here — particularly the local species of small lake carp — are caught in traditional nets at dawn and served for lunch. A bowl of fish soup with rice costs around ¥20.
@@ -101,9 +101,9 @@ The shores of Dianchi have several botanical gardens and nature reserves worth v
 
 **Dianchi Wetland Natural Area** (滇池湿地自然保护区): The southern end of the lake is a formal nature reserve with restricted access in the most sensitive areas. Walking trails run along the periphery, and the scenery of open water fringed with reeds and distant mountains is genuinely beautiful.
 
-![Kunming Dianchi Lake — Eating Around Dianchi Lake](https://images.pexels.com/photos/36352265/pexels-photo-36352265.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Eating Around Dianchi Lake
+
+![Lugu Lake Natural Landscape](/img/destinations/kunming-dianchi-lake-guide/3.webp)
 
 The lake's culinary speciality is its freshwater fish, though pollution recovery means the most commercially important species are now farmed rather than wild-caught.
 

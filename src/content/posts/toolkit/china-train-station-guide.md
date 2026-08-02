@@ -11,7 +11,7 @@ tags:
   - practical-guide
   - first-time
 description: "Chinese train stations are some of the world's largest and most efficiently run — but they operate by rules that foreign visitors often don't know. This 2026 guide explains the complete Chinese train station process from security screening through ticket checking to finding your carriage, plus waiting room hierarchy, luggage rules, and key differences between regular stations and high-speed rail stations."
-ogImage: "https://images.pexels.com/photos/30243948/pexels-photo-30243948.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-train-station-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -21,6 +21,8 @@ Chinese train stations don't work like European or American train stations — y
 Understanding this system is essential for smooth travel. Missing a train because you didn't know the waiting room rules is a common and unnecessary frustration.
 
 ## The Basic Process: Step by Step
+
+![Forbidden City Panorama Interior, Beijing](/img/toolkit/china-train-station-guide/1.webp)
 
 ### Step 1: Arrive Early
 
@@ -127,6 +129,8 @@ The 12306 app now generates a QR code for each ticket. Show this at the gate. No
 **Storage**: Luggage storage (行李寄存) is available at most major stations for ¥15–30/day per item. Useful for day trips from a base city.
 
 ## Stations with Multiple Terminals
+
+![Jinshanling Great Wall, Beijing](/img/toolkit/china-train-station-guide/2.webp)
 
 Several major cities have multiple stations. It's critical to know which one your train departs from:
 

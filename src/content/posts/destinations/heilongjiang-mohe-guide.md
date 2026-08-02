@@ -12,14 +12,14 @@ tags:
   - arctic-village
   - china-north
 description: "Travel to the absolute top of China — Mohe, the country's northernmost city, where the Arctic Village marks the end of the map, the Northern Lights dance across winter skies, and winter temperatures plunge to -50°C. This 2026 guide covers the Arctic Village, the best aurora viewing, the stunning Nine-Curve Eighteen-Bend River, Russian border perspectives, extreme winter survival tips, and practical advice for reaching and surviving in one of the most remote and extreme destinations in China."
-ogImage: "https://images.pexels.com/photos/12736047/pexels-photo-12736047.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/heilongjiang-mohe-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## Mohe — The Top of China
 
-![Mohe Heilongjiang — Mohe — The Top of China](https://images.pexels.com/photos/31410315/pexels-photo-31410315.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Fuerjiazhuang Garden, Harbin](/img/destinations/heilongjiang-mohe-guide/1.webp)
 
 There's something compelling about going as far as you can go. Mohe (漠河) is the northernmost city in China, sitting at 52°10'N latitude, deep in the Greater Khingan Mountains of Heilongjiang Province, just across the river from Russia. In winter, temperatures here regularly drop below -40°C and have reached a record -52.3°C. In summer, the sun barely sets — the summer solstice brings nearly 22 hours of daylight. It's a place of extremes, and that's precisely what makes it worth visiting.
 
@@ -65,8 +65,6 @@ Yes — but with caveats. Mohe is one of the few places in China where the North
 
 **Honest assessment:** During my 4-night stay, I saw the aurora on one night — faint green curtains low on the northern horizon. It wasn't the dramatic display you see in photographs from Norway, but it was real, it was in China, and it was thrilling.
 
-![Mohe Heilongjiang — Nine-Curve Eighteen-Bend River (九曲十八弯)](https://images.pexels.com/photos/1061134/pexels-photo-1061134.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Nine-Curve Eighteen-Bend River (九曲十八弯)
 
 ### The Signature View
@@ -78,6 +76,8 @@ About 20 km from Mohe city, this viewing platform overlooks a river that meander
 **Entrance fee:** ¥50 ($7 USD). Observation tower access included.
 
 ## Mohe City and Surrounding Area
+
+![Dongtian Scenery, Harbin](/img/destinations/heilongjiang-mohe-guide/2.webp)
 
 ### The 1987 Fire Memorial
 
@@ -129,6 +129,8 @@ The cuisine in Mohe is hearty, calorific, and designed for survival:
 **Mohe City Night Market:** In summer only — a lively street food scene. In winter, most outdoor food operations close.
 
 ## Practical Information
+
+![Suofeiyadajiaotang, Harbin](/img/destinations/heilongjiang-mohe-guide/3.webp)
 
 ### Getting to Mohe
 

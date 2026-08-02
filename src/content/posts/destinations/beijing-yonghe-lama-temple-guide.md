@@ -1,7 +1,7 @@
 ---
 title: "Beijing Yonghe Lama Temple Guide: Tibetan Buddhism in the Capital"
 description: "Explore Beijing's Yonghe Temple (Lama Temple) — China's largest and most ornate Tibetan Buddhist temple complex, its 18-metre sandalwood Buddha, incense-thick courtyards, and the vibrant Mongolian-Tibetan cultural world it represents."
-ogImage: "https://images.pexels.com/photos/34439091/pexels-photo-34439091.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/beijing-yonghe-lama-temple-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Beijing"
 tags: ["beijing", "yonghe-temple", "lama-temple", "tibetan-buddhism", "temple", "culture", "religion", "northeast-beijing"]
@@ -13,9 +13,9 @@ The smoke from thousands of incense sticks drifts across five successive courtya
 
 ---
 
-![Beijing Yonghe Lama Temple — History: From Imperial Bedroom to Sacred Temple](https://images.pexels.com/photos/32646536/pexels-photo-32646536.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## History: From Imperial Bedroom to Sacred Temple
+
+![Temple of Heaven, Beijing](/img/destinations/beijing-yonghe-lama-temple-guide/1.webp)
 
 The compound began as a **residential palace** in 1694 for Yinzhen, the fourth son of the Kangxi Emperor. When Yinzhen unexpectedly became the Yongzheng Emperor in 1722, his private residence was upgraded to imperial status — a step that, according to Qing convention, required it eventually to become a religious institution. In 1744 the Qianlong Emperor converted the entire compound into a **Tibetan Buddhist lamasery**, partly as a gesture of solidarity toward Mongol and Tibetan peoples, and partly to house monks from the Gelug (Yellow Hat) sect of Tibetan Buddhism.
 
@@ -44,8 +44,6 @@ The climax of the visit. Step into this three-storey pavilion and look up: a **1
 
 ---
 
-![Beijing Yonghe Lama Temple — Observing Buddhist Practice](https://images.pexels.com/photos/14632258/pexels-photo-14632258.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Observing Buddhist Practice
 
 Yonghe Temple is a functioning monastery, not a museum. On any given morning you will find:
@@ -63,6 +61,8 @@ Bundles of incense (¥10–¥30) are sold at the gate and from vendors throughou
 ---
 
 ## Practical Information
+
+![Jietai Temple Scenery, Beijing](/img/destinations/beijing-yonghe-lama-temple-guide/2.webp)
 
 ### Getting There
 
@@ -84,9 +84,9 @@ Bundles of incense (¥10–¥30) are sold at the gate and from vendors throughou
 
 ---
 
-![Beijing Yonghe Lama Temple — The Surrounding District: Guozijian Street](https://images.pexels.com/photos/15775577/pexels-photo-15775577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Surrounding District: Guozijian Street
+
+![Tantuo Temple Scenery, Beijing](/img/destinations/beijing-yonghe-lama-temple-guide/3.webp)
 
 Yonghe Temple sits at the northern end of **Guozijian Street (国子监街)**, a perfectly preserved Ming-dynasty academic boulevard lined with scholar trees and traditional shops. Walking south you pass:
 

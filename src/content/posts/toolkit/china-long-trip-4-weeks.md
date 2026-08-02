@@ -11,7 +11,7 @@ tags:
   - planning
   - long-trip
 description: "A 4-week China itinerary covering the country's highlights — Week 1 in Beijing (Forbidden City, Great Wall, Xi'an), Week 2 in Sichuan (Chengdu, Jiuzhaigou, Leshan), Week 3 in Yunnan (Lijiang, Dali, Xishuangbanna), Week 4 in Shanghai and Suzhou. Train connections, what to cut if time is short, and the logical flow that avoids backtracking."
-ogImage: "https://images.pexels.com/photos/9606741/pexels-photo-9606741.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-long-trip-4-weeks/cover.webp"
 ---
 
 Four weeks gives you enough time to see China's major highlights with room to breathe — to linger somewhere that grabs you and not feel perpetually rushed. This itinerary covers the north-to-south diagonal that takes in the imperial history, the panda heartland, Yunnan's extraordinary diversity, and the cosmopolitan east coast, with train connections that make geographic sense and don't require excessive backtracking.
@@ -19,6 +19,8 @@ Four weeks gives you enough time to see China's major highlights with room to br
 ## Table of contents
 
 ## Before You Go: Booking Priorities
+
+![Yanqinglongqingxia Scenery, Beijing](/img/toolkit/china-long-trip-4-weeks/1.webp)
 
 **Book these before departure:**
 - International flights in and out (Beijing in, Shanghai out, or Beijing round-trip if you fly back from Shanghai)
@@ -118,6 +120,8 @@ Bus from Lijiang to Dali (2.5 hours, ¥50). Dali is a laid-back Bai minority tow
 Fly from Dali or Kunming to Jinghong (JHG) for 2 days in China's tropical Dai minority region — rainforest, Buddhist temples of a distinctly Southeast Asian style, and genuine tropical heat. This is an optional extension; if skipping, use these days for more Yunnan or proceed toward Shanghai.
 
 ## Week 4: Shanghai and Suzhou (6 Days)
+
+![Longtan Park Scenery, Beijing](/img/toolkit/china-long-trip-4-weeks/2.webp)
 
 Fly Kunming (or Lijiang/Jinghong) to Shanghai Pudong: 2.5-3 hours (¥400-800).
 

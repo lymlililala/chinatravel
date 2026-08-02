@@ -11,7 +11,7 @@ tags:
   - coastal
   - east-china
 description: "Complete Qingdao guide — the Tsingtao Brewery Museum and the bag-beer culture of the Dengzhou Road Beer Street, the Badaguan villas area with German colonial architecture from the 1900 concession, Qingdao's six beaches and which to choose, the Zhushui Road snack area, and the best seafood restaurants in the Pichaiyuan area."
-ogImage: "https://images.pexels.com/photos/29038201/pexels-photo-29038201.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/qingdao-complete-guide/cover.webp"
 ---
 
 Qingdao is one of those Chinese cities that surprises visitors almost immediately. You arrive expecting a standard coastal city and instead find tree-lined streets climbing red-tiled hills, German villas from the early 1900s, a working harbour with ferries, and a deeply embedded beer culture that is genuinely unlike anywhere else in China. The Germans built a city here between 1898 and 1914; they left their architecture, their brewery, and apparently a lasting enthusiasm for drinking beer from bags.
@@ -22,7 +22,7 @@ The bag-beer thing needs explaining. In Qingdao, fresh unfiltered Tsingtao draft
 
 ## Tsingtao Brewery Museum (青岛啤酒博物馆)
 
-![Qingdao — Tsingtao Brewery Museum (青岛啤酒博物馆)](https://images.pexels.com/photos/11541995/pexels-photo-11541995.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Tai Mountain Scenery, Shandong](/img/destinations/qingdao-complete-guide/1.webp)
 
 The Tsingtao Brewery was founded by German settlers in 1903 and is now China's most exported beer. The museum in the original brewery complex on Dengzhou Road is excellent — well-organized, English-translated, and includes a tasting at the end.
 
@@ -59,8 +59,6 @@ Qingdao has six numbered public beaches (第一至第六海水浴场) strung alo
 
 **Best time to swim:** July–September, when water temperature reaches 22–26°C. The beaches are packed in August — arrive before 9am.
 
-![Qingdao — The Old Town and German Architecture](https://images.pexels.com/photos/14706157/pexels-photo-14706157.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Old Town and German Architecture
 
 The German Concession area (now called the Old Town, 老城区) is the part of Qingdao worth exploring on foot. The grid of streets climbing the red-tiled hills between the harbour and Beach No. 1 still feels distinctly European.
@@ -73,6 +71,8 @@ The German Concession area (now called the Old Town, 老城区) is the part of Q
 **Photography note:** The classic Qingdao view — red roofs, green tree-lined hills, blue harbour in the background — is best captured from **Xinhao Mountain Park (信号山公园)** viewpoint. Entry ¥15; cable car also available. Best light is morning.
 
 ## Seafood in Pichaiyuan Area
+
+![Kong Temple, Qufu](/img/destinations/qingdao-complete-guide/2.webp)
 
 Qingdao's seafood is excellent, and the Pichaiyuan area (劈柴院) near Zhongshan Road is one of the best concentrations of seafood restaurants and snack stalls.
 
@@ -93,8 +93,6 @@ The Qingdao International Beer Festival runs in late July–August each year and
 
 If you're visiting during festival season, book accommodation at least 2–3 months in advance — the city fills completely.
 
-![Qingdao — Getting to Qingdao](https://images.pexels.com/photos/26873061/pexels-photo-26873061.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting to Qingdao
 
 **From Beijing:** High-speed train, 4.5–5 hours, ¥200–270. Alternatively, 1-hour flight.
@@ -108,6 +106,8 @@ If you're visiting during festival season, book accommodation at least 2–3 mon
 Qingdao has two main stations: **Qingdao Station (青岛站)** in the old town (older trains) and **Qingdao North Station (青岛北站)** (high-speed trains). Most visitors use Qingdao North.
 
 ## Getting Around Qingdao
+
+![Konglin, Qufu](/img/destinations/qingdao-complete-guide/3.webp)
 
 Qingdao's metro system is excellent and expanding. Key lines:
 

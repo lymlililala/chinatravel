@@ -1,7 +1,7 @@
 ---
 title: "Wuyi Mountain Fujian: Rock Oolong Tea, Nine-Bend River & UNESCO Scenery"
 description: "Explore Wuyi Mountain in Fujian — birthplace of famous Da Hong Pao and other rock oolong teas, bamboo raft trips on the Nine-Bend River, ancient Taoist heritage, and stunning sandstone peak scenery in one of China's most distinctive UNESCO World Heritage landscapes."
-ogImage: "https://images.pexels.com/photos/6876400/pexels-photo-6876400.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/fujian-wuyi-mountain-oolong-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Fujian"
 tags: ["fujian", "wuyi-mountain", "oolong-tea", "da-hong-pao", "nine-bend-river", "bamboo-raft", "wuyi-rock-tea", "UNESCO"]
@@ -15,9 +15,9 @@ The mountains are simultaneously a **UNESCO World Heritage Site** (inscribed 199
 
 ---
 
-![Wuyi Mountain Fujian — The Nine-Bend River (九曲溪)](https://images.pexels.com/photos/1061134/pexels-photo-1061134.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Nine-Bend River (九曲溪)
+
+![Wuyishan Sea of Clouds Scenery, Fujian](/img/destinations/fujian-wuyi-mountain-oolong-guide/1.webp)
 
 The defining visitor experience on Wuyi Mountain is the **bamboo raft float down the Nine-Bend River** — a 9.5 km journey through the gorge on a slim bamboo raft poled by two boatmen over 90 minutes.
 
@@ -33,9 +33,9 @@ The river takes its name from its nine distinct bends through the sandstone gorg
 
 ---
 
-![Wuyi Mountain Fujian — Wuyi Rock Oolong Tea](https://images.pexels.com/photos/6545351/pexels-photo-6545351.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Wuyi Rock Oolong Tea
+
+![Tailao Mountain Scenery, Fujian](/img/destinations/fujian-wuyi-mountain-oolong-guide/2.webp)
 
 ### Why "Rock Tea"?
 
@@ -68,8 +68,6 @@ The scenic area and town of Wuyishan City have hundreds of tea shops. Most offer
 
 ---
 
-![Wuyi Mountain Fujian — Key Sights Within the Scenic Area](https://images.unsplash.com/photo-1663646207588-6076adc8df57?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxLZXklMjBTaWdodHMlMjBXaXRoaW4lMjBTY2VuaWMlMjBBcmVhfGVufDB8MHx8fDE3ODE4MzkyNjl8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
-
 ## Key Sights Within the Scenic Area
 
 ### Tianxin Rock Monastery (天心岩永乐禅寺)
@@ -94,6 +92,8 @@ A large natural overhang in the cliff face from which water drips in a curtain d
 ---
 
 ## Combining the Scenic Area with City Activities
+
+![Changtinggu Mountain Scenery, Fujian](/img/destinations/fujian-wuyi-mountain-oolong-guide/3.webp)
 
 **Wuyishan City** (the modern administrative town) hosts:
 - **Wuyi Mountain Tea Research Institute:** A serious museum on oolong cultivation and processing; free entry.

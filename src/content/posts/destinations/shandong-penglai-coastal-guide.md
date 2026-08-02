@@ -1,7 +1,7 @@
 ---
 title: "Penglai Shandong: Mythical Immortals' Island, Sea Mist & Coastal Fortresses"
 description: "Visit Penglai on Shandong's north coast — the legendary city of immortals where sea mirages appear each spring, home to a remarkably preserved Ming-dynasty naval fortress, China's oldest lighthouse, and superb seafood in a coastal setting unlike any other in northern China."
-ogImage: "https://images.pexels.com/photos/35635434/pexels-photo-35635434.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/shandong-penglai-coastal-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Shandong"
 tags: ["shandong", "penglai", "mythology", "mirage", "naval-fortress", "coastal", "seafood", "ming-dynasty", "immortals"]
@@ -17,6 +17,8 @@ Whether or not Xu Fu found Japan, the city that bears the mythological name is r
 
 ## The Mirage
 
+![Kong Temple, Qufu](/img/destinations/shandong-penglai-coastal-guide/1.webp)
+
 The **Penglai mirage** occurs when warm air from the sea surface is trapped beneath cooler air above, causing light to refract and project images of distant objects (islands, ships, cities) above the horizon line. These floating images can last from a few minutes to several hours.
 
 **The best conditions:** Warm days in **late April to mid-May**, when the sea surface temperature exceeds the air temperature by 3–5°C and winds are calm. The mirage typically appears in the morning.
@@ -27,9 +29,9 @@ The most famous mirage event recorded in modern times occurred in **2006**, when
 
 ---
 
-![Penglai Shandong — Penglai Pavilion (蓬莱阁)](https://images.pexels.com/photos/18293148/pexels-photo-18293148.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Penglai Pavilion (蓬莱阁)
+
+![Konglin, Qufu](/img/destinations/shandong-penglai-coastal-guide/2.webp)
 
 The most important historical structure in Penglai, the **Penglai Pavilion complex** sits on a cliff above the sea, commanding views north over the Bohai Sea and east toward the Bohai Strait. The main pavilion was first built in 1061 CE (Northern Song dynasty) and rebuilt/expanded through the Ming and Qing periods.
 
@@ -41,8 +43,6 @@ The complex includes:
 **Admission:** ¥130 (includes all pavilion buildings and coastal path).
 
 ---
-
-![Penglai Shandong — Penglai Water City (蓬莱水城): A Ming Naval Fortress](https://images.pexels.com/photos/15906464/pexels-photo-15906464.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Penglai Water City (蓬莱水城): A Ming Naval Fortress
 
@@ -57,6 +57,8 @@ The Water City is most interesting for what it reveals about Ming naval strategy
 ---
 
 ## Penglai Seafood
+
+![Yan Temple Scenery, Shandong, Qufu](/img/destinations/shandong-penglai-coastal-guide/3.webp)
 
 The Bohai Sea and the strait connecting it to the Yellow Sea produce exceptional seafood:
 

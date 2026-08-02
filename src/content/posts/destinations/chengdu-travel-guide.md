@@ -20,7 +20,7 @@ tags:
   - food
   - nature
 description: "Chengdu is China's most relaxed major city — famous for giant pandas, the world's spiciest cuisine, teahouse culture, and its role as the gateway to Tibet and the Sichuan highlands."
-ogImage: "https://images.pexels.com/photos/33745381/pexels-photo-33745381.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/chengdu-travel-guide/cover.webp"
 ---
 
 Chengdu is the city everyone falls for. It has a reputation within China as the most 休闲 (relaxed, leisure-loving) of China's major cities — a place where locals have elevated the afternoon tea break, the all-night hotpot session, and the gentle wander through a park into a philosophy of living. Foreigners who intended to stay two days often stay two weeks.
@@ -31,7 +31,7 @@ It is also, practically speaking, the gateway to Sichuan's extraordinary natural
 
 ## Top Things to See and Do
 
-![Chengdu — Top Things to See and Do](https://images.pexels.com/photos/1750268/pexels-photo-1750268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Tianfuguosheyingyi, Sichuan, Chengdu](/img/destinations/chengdu-travel-guide/1.webp)
 
 ### Giant Panda Base (大熊猫繁育研究基地)
 
@@ -64,9 +64,9 @@ Sipping tea in a Chengdu teahouse for two or three hours while watching street e
 
 ---
 
-![Chengdu — Where to Eat: Sichuan Cuisine](https://images.pexels.com/photos/33460432/pexels-photo-33460432.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Where to Eat: Sichuan Cuisine
+
+![Tianfuguosheyinger, Sichuan, Chengdu](/img/destinations/chengdu-travel-guide/2.webp)
 
 Sichuan food is famous worldwide for its use of **Sichuan peppercorn (花椒, huājiāo)** — the spice that creates a numbing, tingly sensation (called 麻辣, *málà*) quite unlike chilli heat — combined with dried red chillies for genuine fire.
 
@@ -92,9 +92,9 @@ A Chengdu peculiarity: braised rabbit heads split and eaten as a snack, particul
 
 ---
 
-![Chengdu — Day Trips and Side Adventures](https://images.pexels.com/photos/4468726/pexels-photo-4468726.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day Trips and Side Adventures
+
+![Lugu Lake Ligeban Island Scenery, Sichuan](/img/destinations/chengdu-travel-guide/3.webp)
 
 | Destination | Travel | Highlight |
 |-------------|--------|---------|

@@ -12,7 +12,7 @@ tags:
   - yellow-river
   - history
 description: "Zhengzhou is the capital of Henan — China's most historically dense province — and the natural hub for visits to the Shaolin Temple, Songshan Mountain, Yellow River scenic areas and the ancient capitals of Luoyang and Kaifeng. This 2026 guide covers the best of Zhengzhou and its surrounding heritage, transport connections across China, accommodation, food and day-trip logistics."
-ogImage: "https://images.pexels.com/photos/34606842/pexels-photo-34606842.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/henan-zhengzhou-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -25,7 +25,7 @@ You should stop.
 
 ## In Zhengzhou City
 
-![Zhengzhou Henan — In Zhengzhou City](https://images.pexels.com/photos/1578334/pexels-photo-1578334.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Chongfa Temple Scenery, Henan](/img/destinations/henan-zhengzhou-guide/1.webp)
 
 ### Henan Museum (河南博物院)
 
@@ -84,8 +84,6 @@ The "Central Peak" of China's Five Sacred Mountains, Songshan is a complex of mo
 - **Songyue Pagoda (嵩岳寺塔):** China's oldest surviving multi-eaved brick pagoda (523 CE, Northern Wei Dynasty) — a remarkably important piece of architectural history
 - **Songyang Academy (嵩阳书院):** One of China's four great classical academies, established in the Song Dynasty
 
-![Zhengzhou Henan — Zhengzhou Food](https://images.pexels.com/photos/36034214/pexels-photo-36034214.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Zhengzhou Food
 
 Henan cuisine is hearty and staple-focused — wheat cultivation dominates the province, giving rise to extraordinary noodle culture.
@@ -99,6 +97,8 @@ Henan cuisine is hearty and staple-focused — wheat cultivation dominates the p
 **Restaurant areas:** The Dehua Street (德化街) area in Erqi District has excellent concentration of traditional Henan restaurants.
 
 ## Getting to Zhengzhou
+
+![Shaolin Temple, Henan, Kaifeng](/img/destinations/henan-zhengzhou-guide/2.webp)
 
 Zhengzhou Dongzhan (East Station) is one of China's busiest high-speed rail hubs. It's on virtually every major HSR corridor.
 
@@ -118,6 +118,8 @@ Zhengzhou Dongzhan (East Station) is one of China's busiest high-speed rail hubs
 **Upscale (¥700+ / $98+):** **Marriott Zhengzhou**, **InterContinental Zhengzhou** and the **Crowne Plaza Zhengzhou** are the flagship properties.
 
 ## Best Time to Visit
+
+![Song Mountain Scenery, Henan](/img/destinations/henan-zhengzhou-guide/3.webp)
 
 **Spring (April–May):** Warm and relatively dry; good for Yellow River scenery and mountain hiking on Songshan.
 

@@ -1,6 +1,7 @@
 ---
 title: "Typhoon Season Travel in China: When, Where and How to Stay Safe"
 description: "Guide to typhoon season in China for tourists. Covers which coastal regions are affected, typhoon season timing, how to monitor storms, travel insurance requirements, and contingency planning."
+ogImage: "/img/toolkit/china-typhoon-season-travel-advice/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["China weather", "typhoon season", "China travel safety", "coastal China", "Hainan", "Guangdong", "weather tips"]
@@ -9,6 +10,8 @@ tags: ["China weather", "typhoon season", "China travel safety", "coastal China"
 Typhoon season is a real consideration for travelers heading to southern and eastern China between June and October. With the right preparation, most trips go completely unaffected — the vast majority of typhoons track away from popular tourist areas or weaken before landfall. But understanding the patterns helps you plan smarter and respond correctly if a storm does arrive.
 
 ## When is Typhoon Season?
+
+![Xingping, Guangxi, Yangshuo](/img/toolkit/china-typhoon-season-travel-advice/1.webp)
 
 Typhoons (tropical cyclones in the northwest Pacific) form year-round but reach peak frequency and intensity from **June through October**. The most active months are:
 
@@ -73,6 +76,8 @@ Before June and after November, typhoon risk is minimal.
 ---
 
 ## Practical Travel Advice
+
+![Forbidden City Panorama Interior, Beijing](/img/toolkit/china-typhoon-season-travel-advice/2.webp)
 
 ### Before You Book
 

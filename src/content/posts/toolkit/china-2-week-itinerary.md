@@ -24,7 +24,7 @@ tags:
   - transport
   - culture
 description: "The definitive 14-day China itinerary covering Beijing, Xi'an, Chengdu, and Shanghai — with exact train connections, daily budgets, booking tips, and honest advice for independent travellers doing it without a tour group."
-ogImage: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=900&q=80"
+ogImage: "/img/toolkit/china-2-week-itinerary/cover.webp"
 ---
 
 Two weeks is the sweet spot for a first visit to China. It is long enough to experience four genuinely different cities — imperial Beijing, ancient Xi'an, laid-back Chengdu, and cosmopolitan Shanghai — without feeling rushed. It is short enough to keep costs under control and maintain a healthy pace.
@@ -34,6 +34,8 @@ This itinerary has been shaped by the experience of hundreds of independent trav
 ## Table of contents
 
 ## Why This Route Works
+
+![Forbidden City Panorama Interior, Beijing](/img/toolkit/china-2-week-itinerary/1.webp)
 
 The **Beijing → Xi'an → Chengdu → Shanghai** circuit is China's most logical two-week loop for first-timers. Here is why:
 
@@ -178,6 +180,8 @@ Book your international departure flight. Shanghai Pudong Airport has excellent 
 ---
 
 ## Train Connections: The Full Picture
+
+![Jiankou Great Wall Scenery, Beijing](/img/toolkit/china-2-week-itinerary/2.webp)
 
 | Route | Train | Journey time | Price (2nd class) |
 |-------|-------|-------------|-------------------|

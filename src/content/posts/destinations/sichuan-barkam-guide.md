@@ -12,14 +12,14 @@ tags:
   - tibetan-watchtowers
   - danba
 description: "Explore Barkam (Ma'erkang), the capital of Aba Tibetan and Qiang Autonomous Prefecture in western Sichuan, where ancient Tibetan watchtower castles soar above river valleys, traditional stone villages cling to dramatic hillsides, and the plateau culture offers an accessible gateway to Tibetan life. This 2026 guide covers the magnificent Danba watchtowers, Zhuokeji Tibetan chieftain's castle, local monasteries, the stunning Jiaju Tibetan village, plateau trekking, and practical advice for navigating this culturally rich region at the crossroads of Sichuan and Tibet."
-ogImage: "https://images.pexels.com/photos/7494233/pexels-photo-7494233.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/sichuan-barkam-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## Where Sichuan Meets Tibet
 
-![Barkam (Ma'erkang) Sichuan — Where Sichuan Meets Tibet](https://images.pexels.com/photos/8604580/pexels-photo-8604580.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Tianfuguosheyinger, Sichuan, Chengdu](/img/destinations/sichuan-barkam-guide/1.webp)
 
 Barkam (马尔康, Ma'erkang in Chinese) is the capital of Aba Tibetan and Qiang Autonomous Prefecture (阿坝藏族羌族自治州), and stepping off the bus here feels like crossing an invisible border. The signs switch to Tibetan script, the restaurants serve yak butter tea alongside Sichuan hotpot, and the faces in the street are predominantly Tibetan. Geographically still in Sichuan, culturally Barkam is firmly Tibetan — and it's one of the most accessible places to experience Tibetan plateau culture without the permit complications of the Tibet Autonomous Region.
 
@@ -64,9 +64,9 @@ The building gained additional fame when the Red Army stayed here during the Lon
 
 **Entrance fee:** ¥60 ($8.30 USD). Allow 1.5-2 hours. Limited English signage — consider hiring a local guide for ¥100 ($14 USD).
 
-![Barkam (Ma'erkang) Sichuan — Monasteries and Religious Sites](https://images.pexels.com/photos/30002100/pexels-photo-30002100.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Monasteries and Religious Sites
+
+![Lugu Lake Ligeban Island Scenery, Sichuan](/img/destinations/sichuan-barkam-guide/2.webp)
 
 ### Changlie Monastery (昌列寺)
 
@@ -112,9 +112,9 @@ The cuisine in Barkam reflects its position at the cultural crossroads:
 
 **Aba Hotel Restaurant:** Inside the Aba Hotel. More Chinese-oriented menu but reliable quality. Meals ¥30-60 ($4.20-8.30 USD) per person.
 
-![Barkam (Ma'erkang) Sichuan — Practical Information](https://images.pexels.com/photos/37333836/pexels-photo-37333836.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Practical Information
+
+![Shunanzhuhai Landscape](/img/destinations/sichuan-barkam-guide/3.webp)
 
 ### Getting to Barkam
 

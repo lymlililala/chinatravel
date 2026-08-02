@@ -12,7 +12,7 @@ tags:
   - shanghai
   - jiangnan
 description: "The complete travel guide to Suzhou — classical Chinese gardens, ancient canal streets, silk culture, and how to combine Suzhou with a day trip to Tongli or Zhouzhuang. Best things to do, where to stay, and how to get there from Shanghai."
-ogImage: "https://images.pexels.com/photos/9427770/pexels-photo-9427770.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/suzhou-classical-gardens-complete-guide/cover.webp"
 ---
 
 Suzhou is 30 minutes from Shanghai by high-speed train and a century away in atmosphere. The city that imperial administrators retired to when they tired of Beijing — building private gardens of extraordinary refinement — still carries that quality of intentional beauty. This is a place where someone once devoted 16 years to designing a single garden's water views.
@@ -25,7 +25,7 @@ For international visitors, Suzhou offers something most Chinese cities cannot: 
 
 ## Essential Background
 
-![Suzhou — Essential Background](https://images.pexels.com/photos/612419/pexels-photo-612419.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Jiangnan Water Town Scenery, Suzhou](/img/destinations/suzhou-classical-gardens-complete-guide/1.webp)
 
 **Location:** Suzhou is in southeastern Jiangsu Province, 100km west of Shanghai, part of the Yangtze River Delta megalopolis. Population: approximately 5.5 million.
 
@@ -99,8 +99,6 @@ Unlike the more commercial Shantang Street (山塘街), Ping Jiang Road still ha
 
 ---
 
-![Suzhou — Shantang Street (山塘街)](https://images.pexels.com/photos/19954049/pexels-photo-19954049.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Shantang Street (山塘街)
 
 More commercial than Ping Jiang Road but genuinely beautiful, particularly in the evening. The 3.5km street was originally built on a causeway constructed by the Tang dynasty poet Bai Juyi when he governed the city. Evening lantern light reflects in the canal; gondola-style boats carry tourists along the water for ¥70–100 per person.
@@ -116,6 +114,8 @@ One of China's best specialist museums — small, well-curated, and free. Covers
 ---
 
 ## Day Trips from Suzhou
+
+![Gudianmingyuanliu Garden Scenery, Suzhou](/img/destinations/suzhou-classical-gardens-complete-guide/2.webp)
 
 ### Tongli Water Town (同里 Tónglǐ)
 
@@ -141,8 +141,6 @@ Further from Suzhou (about 90 minutes) but the best-preserved of all the Jiangna
 
 ---
 
-![Suzhou — Where to Stay in Suzhou](https://images.pexels.com/photos/20734988/pexels-photo-20734988.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Where to Stay in Suzhou
 
 **Within the old city (recommended):**
@@ -159,6 +157,8 @@ Further from Suzhou (about 90 minutes) but the best-preserved of all the Jiangna
 ---
 
 ## Getting to Suzhou
+
+![Shi Lake Scenery, Jiangsu, Suzhou](/img/destinations/suzhou-classical-gardens-complete-guide/3.webp)
 
 **From Shanghai:** High-speed train from Shanghai Hongqiao or Shanghai station to Suzhou station — 25–40 minutes, trains every 15–30 minutes throughout the day. Tickets ¥34–75 depending on speed. No advance booking required (buy on the day at the station or on the Trip.com app). **This is the standard access method — Suzhou is an easy day trip or overnight from Shanghai.**
 

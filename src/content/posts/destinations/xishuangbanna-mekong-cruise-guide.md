@@ -10,7 +10,7 @@ faq:
   - question: "When is the best time to visit Xishuangbanna?"
     answer: "The cool, dry season from roughly November to April is the most comfortable, with the Dai Water-Splashing Festival in mid-April a colourful highlight. The summer wet season is hotter and rainier but lush, and the rainforest is at its greenest."
 description: "Complete guide to the Mekong River cruise from Jinghong (Xishuangbanna) into Myanmar and Laos. Rainforest trekking, Dai minority villages, tropical fruit, and how this corner of Yunnan feels like Southeast Asia."
-ogImage: "https://images.pexels.com/photos/16030625/pexels-photo-16030625.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/xishuangbanna-mekong-cruise-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Xishuangbanna", "Mekong River", "Yunnan", "Dai minority", "tropical China", "nature travel", "China Southeast Asia"]
@@ -18,9 +18,9 @@ tags: ["Xishuangbanna", "Mekong River", "Yunnan", "Dai minority", "tropical Chin
 
 Xishuangbanna (西双版纳) in southernmost Yunnan Province sits on the upper Mekong River (the Lancang River as it's called in China before crossing into Southeast Asia) at the point where China meets Myanmar and Laos. The climate is tropical, the vegetation is Southeast Asian rainforest, the ethnic Dai minority culture shares more with Laos and Thailand than with Han Chinese culture, and the food is a revelation of herb-forward, sour-spicy cooking that surprises visitors expecting standard Yunnan fare.
 
-![Xishuangbanna Mekong River Cruise Rainforest (Yunnan) — The Landscape and Setting](https://images.pexels.com/photos/29181493/pexels-photo-29181493.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Landscape and Setting
+
+![Erhai Lake Scenery, Yunnan, Dali](/img/destinations/xishuangbanna-mekong-cruise-guide/1.webp)
 
 Xishuangbanna (the name is a transcription of the Dai phrase meaning "twelve rice-growing districts") covers 19,220 km² of tropical basin and surrounding mountains. The capital, Jinghong (景洪), sits at 500m altitude on the Mekong River bank. The surrounding landscape is a mix of:
 
@@ -39,8 +39,6 @@ Xishuangbanna (the name is a transcription of the Dai phrase meaning "twelve ric
 
 **The weather**: Tropical, with a distinct dry season (November–April) and wet season (May–October). January is perfect: clear skies, 23°C, cool evenings. July is 30°C+ with heavy daily rain.
 
-![Xishuangbanna Mekong River Cruise Rainforest (Yunnan) — The Mekong River (Lancang River)](https://images.pexels.com/photos/1660996/pexels-photo-1660996.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Mekong River (Lancang River)
 
 From Jinghong, the river flows south through Myanmar and Laos before eventually reaching Vietnam and the South China Sea. The upper stretch (within China) is still clean and powerful; standing at the riverside in Jinghong and understanding that this water will pass through six countries and reach the Mekong Delta 4,500 km away gives it a special quality.
@@ -51,6 +49,8 @@ From Jinghong, the river flows south through Myanmar and Laos before eventually 
 
 ## Wild Elephant Valley (野象谷)
 
+![Dongchuan Red Soil Scenery](/img/destinations/xishuangbanna-mekong-cruise-guide/2.webp)
+
 The most famous nature attraction in Xishuangbanna. A cable car takes visitors over the rainforest canopy; a ground-level observation platform overlooks a river bend where wild Asian elephants come to drink and bathe. The wild elephant population in Xishuangbanna (approximately 300 animals) represents the last significant wild elephant population in China.
 
 **Elephant sightings**: Not guaranteed — these are wild animals, not a zoo. Elephants are most commonly seen in the late afternoon (15:00–17:00) and morning. A naturalist guide (¥50 additional) dramatically improves spotting chances.
@@ -58,8 +58,6 @@ The most famous nature attraction in Xishuangbanna. A cable car takes visitors o
 **Entry**: ¥80; plus cable car ¥50 return
 
 **⚠️ Note on elephant encounters**: Xishuangbanna's wild elephants have become increasingly bold — there have been numerous incidents of elephants entering roads, villages and even towns. Exercise caution and follow park staff directions. Do not approach wild elephants.
-
-![Xishuangbanna Mekong River Cruise Rainforest (Yunnan) — Nanbanna Tropical Botanic Garden (勐仑植物园)](https://images.pexels.com/photos/6639890/pexels-photo-6639890.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Nanbanna Tropical Botanic Garden (勐仑植物园)
 
@@ -72,6 +70,8 @@ One of the finest botanical gardens in Asia, operated by the Chinese Academy of 
 **Hours**: 07:30–18:00; Entry ¥80
 
 ## Dai Minority Villages
+
+![Cai Landscape, Yunnan](/img/destinations/xishuangbanna-mekong-cruise-guide/3.webp)
 
 Several Dai villages near Jinghong maintain traditional architecture and culture for visitors. **Manting Village (曼听村)** is the most accessible from the city — 15 minutes by Didi. Morning markets (06:00–08:00) where Dai women sell grilled fish, sticky rice, jungle herbs and tropical fruits are the most atmospheric time to visit.
 

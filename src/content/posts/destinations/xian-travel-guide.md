@@ -21,6 +21,7 @@ tags:
   - food
   - culture
 description: "Xi'an was the starting point of the Silk Road and capital of 13 Chinese dynasties. Our guide covers the Terracotta Army, City Wall, Muslim Quarter, and how to do it all in 3–4 days."
+ogImage: "/img/destinations/xian-travel-guide/cover.webp"
 ---
 
 Xi'an (西安) is where Chinese civilisation really begins. Capital of thirteen dynasties — including the mighty Han and Tang — it was for centuries the eastern terminus of the Silk Road, the point where silk, porcelain, and philosophy flowed west and religions, spices, and traders came east. The city's Muslim Quarter is a direct legacy of that exchange, a neighbourhood where the call to prayer mingles with the smell of cumin-roasted lamb on streets that have been selling food to travellers for over a thousand years.
@@ -31,7 +32,7 @@ And then there is the Terracotta Army. Nothing quite prepares you for the scale 
 
 ## Top Things to See and Do
 
-![Xi' — Top Things to See and Do](https://images.pexels.com/photos/1750268/pexels-photo-1750268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Datangfurong Garden, Xi'an](/img/destinations/xian-travel-guide/1.webp)
 
 ### The Terracotta Army (兵马俑)
 
@@ -76,6 +77,8 @@ One of China's best provincial museums, with 370,000 artefacts spanning the enti
 
 ## Practical Information
 
+![Yunju Temple Scenery, Shaanxi, Xi'an](/img/destinations/xian-travel-guide/2.webp)
+
 | Detail | Info |
 |--------|------|
 | Best time to visit | Spring (Mar–May) or Autumn (Sep–Nov) |
@@ -91,9 +94,9 @@ One of China's best provincial museums, with 370,000 artefacts spanning the enti
 
 ---
 
-![Xi' — Day Trips from Xi'an](https://images.pexels.com/photos/3250079/pexels-photo-3250079.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day Trips from Xi'an
+
+![Banpoyizhi, Shaanxi, Xi'an](/img/destinations/xian-travel-guide/3.webp)
 
 - **Huashan (华山)**: One of China's Five Sacred Mountains; famous for its vertiginous cliff-side paths. Reachable in ~1.5 hours by high-speed train.
 - **Famen Temple (法门寺)**: Tang-dynasty temple with relics of the Buddha's finger bone; 1.5 hours by bus.

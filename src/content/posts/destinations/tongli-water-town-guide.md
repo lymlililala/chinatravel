@@ -11,7 +11,7 @@ tags:
   - east-china
   - culture
 description: "Tongli (同里) water town near Suzhou — less crowded than Zhouzhuang, with authentic canal-side living alongside the tourist sites. The Retreat and Reflection Garden (退思园), the historic stone bridges, evening dinner by the canal, and why Tongli is a better day-trip choice for most visitors."
-ogImage: "https://images.pexels.com/photos/37050179/pexels-photo-37050179.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/tongli-water-town-guide/cover.webp"
 ---
 
 Tongli is a water town in southern Jiangsu that most people discover after visiting (or deciding against) Zhouzhuang. It's about 20km from Suzhou and 80km from Shanghai, built across five islands connected by 49 stone bridges, with canals threading through a town where people still live, shop, and go about their days alongside the tourists.
@@ -22,7 +22,7 @@ The key difference from Zhouzhuang: Tongli feels less like a museum and more lik
 
 ## Entry Fees and Getting In
 
-![Tongli Water Town — Entry Fees and Getting In](https://images.pexels.com/photos/8554405/pexels-photo-8554405.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Dreamlike Water Town Zhouzhuang](/img/destinations/tongli-water-town-guide/1.webp)
 
 **Entry fee:** ¥100 per person (includes Retreat and Reflection Garden, Pearl Tower, and several smaller sites)  
 **Opening hours:** 7:30am–5:30pm  
@@ -44,8 +44,6 @@ Tongli has 49 bridges, but three are traditionally walked in sequence during cel
 
 The bridges cluster together in the southern part of the old town, and walking between them takes about 10 minutes. The scene of all three bridges from the canal is one of the best photographs in Tongli.
 
-![Tongli Water Town — Canal Boat Rides](https://images.pexels.com/photos/36466069/pexels-photo-36466069.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Canal Boat Rides
 
 Wooden gondola-style boats depart from multiple points along the main canals. The boatwomen pole the boats through narrow canals between whitewashed walls and beneath stone arches — classic Jiangnan scenery.
@@ -64,11 +62,11 @@ The Pearl Tower is a residential complex-turned-historic site, telling the story
 
 ## Geng Le Tang (耕乐堂)
 
+![Jiangnan Water Town Scenery, Suzhou](/img/destinations/tongli-water-town-guide/2.webp)
+
 A private Qing Dynasty mansion with a large courtyard garden, Geng Le Tang is less visited than the Pearl Tower but architecturally more impressive. The main hall's woodwork carving is exceptional — look at the screen panels behind the main table.
 
 **Included in the main ticket**
-
-![Tongli Water Town — Where to Eat: Canal-Side Dining](https://images.pexels.com/photos/32192060/pexels-photo-32192060.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Where to Eat: Canal-Side Dining
 
@@ -85,6 +83,8 @@ Tongli's restaurant scene is one of its strongest assets. The street along the s
 **Restaurant recommendation:** **Tongli Renjia (同里人家)** on South Street — simple but excellent, expect to pay ¥80–120 per person for a full meal.
 
 ## Evening in Tongli
+
+![Wujiangzhenze Old Town Scenery, Jiangsu](/img/destinations/tongli-water-town-guide/3.webp)
 
 If you can stay until dusk, do. The lanterns come on at around 6pm and the canals take on a completely different character. The reflection of red lanterns and lit windows in the dark water is the image most photographers come to capture.
 

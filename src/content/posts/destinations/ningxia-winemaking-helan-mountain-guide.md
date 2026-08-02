@@ -10,7 +10,7 @@ faq:
   - question: "When is the best time to visit Ningxia wine country?"
     answer: "Late summer and autumn, roughly August to October, are ideal — the vines are lush, harvest is under way, and the desert light is beautiful. Winters are harsh on the steppe, when vines are buried to survive the cold, so the warmer months are far better for visiting."
 description: "Discover Ningxia's emerging wine region in the shadow of the Helan Mountains — China's answer to Bordeaux, where Cabernet Sauvignon thrives at 1,200m altitude in desert conditions, award-winning wineries offer tastings, and the contrast of vines against arid landscape makes for unexpected beauty."
-ogImage: "https://images.pexels.com/photos/290316/pexels-photo-290316.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/ningxia-winemaking-helan-mountain-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Ningxia"
 tags: ["ningxia", "wine", "helan-mountain", "winery", "vineyard", "yinchuan", "chinese-wine", "desert-wine", "cabernet"]
@@ -24,9 +24,9 @@ The **Helan Mountain East Foot wine region (贺兰山东麓)** now has more than
 
 ---
 
-![Ningxia Wine Country — Why Ningxia Produces Good Wine](https://images.pexels.com/photos/10499984/pexels-photo-10499984.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Why Ningxia Produces Good Wine
+
+![Shuidonggougu, Ningxia](/img/destinations/ningxia-winemaking-helan-mountain-guide/1.webp)
 
 ### The Terroir
 
@@ -48,9 +48,9 @@ The combination produces wines with **high natural sugar, good acidity retention
 
 ---
 
-![Ningxia Wine Country — Key Wineries to Visit](https://images.pexels.com/photos/5732734/pexels-photo-5732734.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Key Wineries to Visit
+
+![Zhenbeibaoyingshi City Scenery, Ningxia](/img/destinations/ningxia-winemaking-helan-mountain-guide/2.webp)
 
 ### Silver Heights (银色高地)
 
@@ -72,8 +72,6 @@ The French spirits giant entered Ningxia's wine market in 2009, planting over 1,
 
 ---
 
-![Ningxia Wine Country — The Desert Landscape](https://images.pexels.com/photos/2106223/pexels-photo-2106223.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Desert Landscape
 
 Beyond the wine itself, the Helan Mountain region offers a landscape that few visitors to China anticipate: **desert vineyards** extending toward sand dunes and rocky desert hills, with the snow-capped Helan range as backdrop.
@@ -87,6 +85,8 @@ In **August–September**, mature vines heavy with grapes create a surprisingly 
 ---
 
 ## Combining with Ningxia Cultural Sights
+
+![Lvyougaoqing Scenery, Yinchuan](/img/destinations/ningxia-winemaking-helan-mountain-guide/3.webp)
 
 ### Western Xia Mausoleum (西夏王陵)
 

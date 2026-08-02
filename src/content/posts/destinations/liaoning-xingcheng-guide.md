@@ -12,7 +12,7 @@ tags:
   - city-wall
   - beach
 description: "Xingcheng on the Bohai Sea coast of Liaoning has the most complete Ming Dynasty city wall in China — a nearly intact rectangular circuit of ramparts, towers, and gates enclosing a living old town. Combined with a surprisingly pleasant beach and natural hot springs, Xingcheng makes an excellent stop on any northeast China itinerary. This guide covers the wall, the beach, the hot springs, and practical travel details."
-ogImage: "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&q=85"
+ogImage: "/img/destinations/liaoning-xingcheng-guide/cover.webp"
 ---
 
 Xingcheng (兴城) sits on the Bohai Sea coast of southwestern Liaoning, about 80km southwest of Jinzhou and 300km from Beijing. It has something that no other city in China can claim: a Ming Dynasty city wall that is nearly 100% intact. While Pingyao's walls are more famous, they were substantially rebuilt; Xingcheng's wall is the original Ming structure, maintained and restored but not reconstructed, and it encircles a living old town rather than a museumified tourist zone.
@@ -22,6 +22,8 @@ The city also has a beach on the Bohai Sea, natural hot springs, and a position 
 ## Table of contents
 
 ## Getting to Xingcheng
+
+![Panjinhong Beach Scenery, Liaoning](/img/destinations/liaoning-xingcheng-guide/1.webp)
 
 **By train:**
 - **From Beijing:** About 3.5–4 hours by express train; ¥120–180; multiple daily departures
@@ -66,8 +68,6 @@ The area within the walls is a living neighborhood with a mix of traditional cou
 
 **Street life:** The old town streets are active with daily commerce — produce markets, small restaurants, and barbershops — giving the enclosed city a character that feels authentic rather than curated.
 
-![Xingcheng Liaoning — Xingcheng Beach (兴城海滨)](https://images.pexels.com/photos/37081364/pexels-photo-37081364.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Xingcheng Beach (兴城海滨)
 
 About 3km south of the old town, Xingcheng has a 1.5km stretch of sandy beach on the Bohai Sea. The water is not tropical-clear but the sand is decent, the facilities are adequate, and the beach is significantly less developed and crowded than Dalian's or Qingdao's.
@@ -79,6 +79,8 @@ About 3km south of the old town, Xingcheng has a 1.5km stretch of sandy beach on
 **Off-season:** The beach is quiet but pleasant for walking from May–June and September–October; water too cold for swimming but the sea air and views are enjoyable.
 
 ## Xingcheng Hot Springs (兴城温泉)
+
+![Beiling, Shenyang](/img/destinations/liaoning-xingcheng-guide/2.webp)
 
 Xingcheng has natural hot springs with water temperatures of 52–58°C, rich in minerals. The springs have been used since the Ming Dynasty and were developed as a resort during the Japanese occupation period.
 
@@ -99,6 +101,8 @@ A Buddhist temple complex on the hillside north of the city; active with residen
 **Ming Dynasty defensive system:** Xingcheng was part of the Ming Great Wall coastal defense line — a series of fortifications along the Bohai Sea coast designed to detect and resist potential seaborne invasions. Remnants of watchtowers and signal stations can be found along the coast south of the city.
 
 ## Xingcheng Food
+
+![Bei Town Scenery, Liaoning](/img/destinations/liaoning-xingcheng-guide/3.webp)
 
 The food in Xingcheng reflects the coastal location and northeast Chinese culinary traditions:
 

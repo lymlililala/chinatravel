@@ -12,7 +12,7 @@ tags:
   - hot-springs
   - culture
 description: "Fuzhou is Fujian's underrated provincial capital — a city of outstanding Ming-Qing heritage preserved in the famous Three Lanes and Seven Alleys district, natural hot spring culture embedded into the daily urban fabric, a vibrant seafood economy and easy access to the coastal islands of the Min River estuary. This 2026 guide covers the full city and day trip options."
-ogImage: "https://images.pexels.com/photos/18483385/pexels-photo-18483385.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/fujian-fuzhou-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -23,7 +23,7 @@ More than that, Fuzhou has a particular atmosphere. It's a real working city tha
 
 ## Three Lanes and Seven Alleys (三坊七巷)
 
-![Fuzhou Fujian — Three Lanes and Seven Alleys (三坊七巷)](https://images.pexels.com/photos/8533639/pexels-photo-8533639.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Kaiyuan Temple Scenery, Fujian, Quanzhou](/img/destinations/fujian-fuzhou-guide/1.webp)
 
 The most famous site in Fuzhou and one of the best-preserved urban heritage districts in China, Three Lanes and Seven Alleys (Sanfang Qixiang) occupies about 40 hectares in the heart of the old city. The district dates from the Tang Dynasty and reached its peak of cultural importance during the Song through Qing periods, when it housed the families of Fuzhou's most prominent scholars, officials and merchants.
 
@@ -75,8 +75,6 @@ Fuzhou has an exceptionally rich temple tradition reflecting the region's long c
 
 **White Pagoda (白塔, Baita) and Black Pagoda (乌塔, Wuta):** Two Tang Dynasty pagodas standing about 400 metres apart in the city centre. The White Pagoda is the more photogenic; both are accessible as part of the Three Lanes and Seven Alleys area. **Tickets:** ¥10 ($1.4) each.
 
-![Fuzhou Fujian — Fuzhou Cuisine](https://images.pexels.com/photos/6440094/pexels-photo-6440094.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Fuzhou Cuisine
 
 Fuzhounese cuisine is a distinct branch of the Fujian culinary tradition, characterised by:
@@ -94,6 +92,8 @@ Fuzhounese cuisine is a distinct branch of the Fujian culinary tradition, charac
 **Where to eat:** The Yizhong area (义中路) near the Three Lanes and Seven Alleys has good concentrations of traditional Fuzhounese restaurants.
 
 ## Day Trips from Fuzhou
+
+![Kejia Earthen Tulou, Fujian](/img/destinations/fujian-fuzhou-guide/2.webp)
 
 ### Mawei Shipyard and Naval Museum (马尾船政文化博物馆)
 
@@ -114,8 +114,6 @@ About 70 km south of Fuzhou, Pingtan is the closest point between mainland China
 - **From Guangzhou:** High-speed rail approximately 4 hours; tickets ¥280–¥420 ($39–$59)
 - **By air:** Fuzhou Changle International Airport (FOC) has extensive domestic and some international connections
 
-![Fuzhou Fujian — Where to Stay](https://images.pexels.com/photos/17975608/pexels-photo-17975608.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Where to Stay
 
 **Budget (¥120–¥220 / $17–$31):** Guesthouses near the Three Lanes and Seven Alleys area. **Hanting Express** near Fuzhou South Station is reliable.
@@ -127,6 +125,8 @@ About 70 km south of Fuzhou, Pingtan is the closest point between mainland China
 **Boutique/heritage:** A few small courtyard hotels within the Three Lanes and Seven Alleys district offer atmospheric accommodation from ¥400–¥800/night ($56–$112).
 
 ## Best Time to Visit
+
+![Tailao Mountain Scenery, Fujian](/img/destinations/fujian-fuzhou-guide/3.webp)
 
 **March–May:** Mild weather (18–26°C), good for walking the historic district. Plum blossom season in late February-March.
 

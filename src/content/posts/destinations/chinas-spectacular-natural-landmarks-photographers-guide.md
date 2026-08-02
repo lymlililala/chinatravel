@@ -12,7 +12,7 @@ tags:
   - "qinghai"
   - "zhejiang"
 description: "Explore China's iconic geological wonders, from the Yellow River's grandeur to the otherworldly landscapes of Qinghai. A guide for international travellers."
-ogImage: "https://images.pexels.com/photos/12139755/pexels-photo-12139755.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/chinas-spectacular-natural-landmarks-photographers-guide/cover.webp"
 faq:
   - question: "Do I need a special permit to visit remote areas like Mangya or Medog?"
     answer: "Yes. For Medog (Tibet), you need a Tibet Travel Permit, which must be arranged through a tour operator. For Mangya (Qinghai), no special permit is needed, but you should register with local police if staying overnight."
@@ -32,9 +32,9 @@ China's vast and varied landscape is a treasure trove of natural wonders that wi
 
 ## Top Natural Landmarks at a Glance
 
-China's geography is defined by dramatic contrasts: soaring peaks, vast deserts, winding rivers, and mystical cloud seas. Here are the highlights you shouldn't miss.
+![Huanghuachengshui Great Wall Scenery, Beijing](/img/destinations/chinas-spectacular-natural-landmarks-photographers-guide/1.webp)
 
-![Aerial view of the Yellow River Xiaolangdi Dam releasing water, mist and rainbow](https://images.pexels.com/photos/31358304/pexels-photo-31358304.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+China's geography is defined by dramatic contrasts: soaring peaks, vast deserts, winding rivers, and mystical cloud seas. Here are the highlights you shouldn't miss.
 
 ### The Yellow River's Grandeur: Xiaolangdi Dam
 
@@ -47,8 +47,6 @@ Located near Luoyang in Henan Province, the **Xiaolangdi Dam** (小浪底, Xiǎo
 ### The 'Outer Space' Landscapes of Mangya, Qinghai
 
 In the far west of Qinghai Province, the **Mangya** (茫崖, Máng Yá) region looks like another planet. Here, wind and time have sculpted the desert into bizarre formations: the 'Saturn Rings' (土星环, Tǔxīng Huán) are concentric circles of rock that stretch for kilometres, while the **Black Solo Mountain** (黑独山, Hēi Dú Shān) is coated in a dark 'desert varnish' that makes it appear utterly alien. Nearby, **Yan Zhi Shan** (胭脂山, Yānzhī Shān) glows in soft reds and pinks.
-
-![Black Solo Mountain in Qinghai, dark rocky peaks under a blue sky](https://images.pexels.com/photos/12139755/pexels-photo-12139755.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 - **Best time to visit:** May to October, when temperatures are milder. Avoid winter (temperatures can drop below -20°C).
 - **Getting there:** Fly to Golmud or Dunhuang, then drive 4-6 hours to Mangya. Renting a 4WD is essential.
@@ -83,8 +81,6 @@ While Mohe in Heilongjiang is famous as China's 'North Pole', the actual coldest
 
 Off the coast of Wenzhou, the **Dongtou Islands** (洞头, Dòngtóu) offer a different kind of magic. In summer, warm, moist air meets cool sea breezes, creating a sea of clouds that drifts over the 302 islands. The scene resembles a traditional Chinese ink painting, with peaks and pagodas emerging from the mist.
 
-![Sea of clouds over Dongtou Islands, Zhejiang, with rocky islets](https://images.pexels.com/photos/33065064/pexels-photo-33065064.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 - **Best time to visit:** June to August, especially early morning.
 - **Getting there:** Take a bus from Wenzhou to Dongtou (about 1.5 hours). Ferries connect the main islands.
 - **Photography tips:** Use a tripod for long exposures. A drone can capture the scale of the cloud sea, but check local regulations.
@@ -116,11 +112,15 @@ For international travellers with limited time, here's a route that covers three
 
 ## Where to Stay
 
+![Qiannian Great Wall Lao City Wall](/img/destinations/chinas-spectacular-natural-landmarks-photographers-guide/2.webp)
+
 - **Luoyang:** Choose a hotel near the old town for easy access to the dam. Budget: ¥200-400/night; mid-range: ¥400-800.
 - **Mangya:** Options are limited. The **Mangya Hotel** is basic but clean. Expect to pay ¥150-300/night. Book in advance.
 - **Ya'an:** Many guesthouses near the scenic area. Prices start at ¥150/night.
 
 ## Best Time to Visit
+
+![Forbidden City Museum](/img/destinations/chinas-spectacular-natural-landmarks-photographers-guide/3.webp)
 
 - **Spring (March-May):** Mild temperatures, blooming flowers. Good for Turpan and Ya'an.
 - **Summer (June-August):** Best for Xiaolangdi water release, cloud seas in Dongtou, and high-altitude areas like Qinghai. Avoid Turpan due to extreme heat.

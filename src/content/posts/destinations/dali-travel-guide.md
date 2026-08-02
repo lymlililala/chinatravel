@@ -12,7 +12,7 @@ tags:
   - culture
   - solo
 description: "Dali is where travellers come to slow down — a 700-year-old walled town beside a mountain lake in Yunnan province, home to the Bai minority, tie-dye textiles, and some of China's most relaxed café culture."
-ogImage: "https://images.pexels.com/photos/6513729/pexels-photo-6513729.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/dali-travel-guide/cover.webp"
 ---
 
 There is a rhythm to Dali that is hard to explain until you have been there. The ancient walled town sits at 2,000 metres altitude on the shores of Erhai Lake, with the snow-capped Cangshan range rising to 4,000 metres immediately to the west. The sky is an implausible blue. The afternoon winds roll in off the lake with a smell of wild herbs and distant meadows. The streets of the old town are wide enough for two people to walk comfortably arm in arm, lined with Bai minority architecture — white-washed walls trimmed in grey and accented with painted courtyards.
@@ -23,7 +23,7 @@ Dali has been a favourite with Chinese bohemians, backpackers, and long-term tra
 
 ## Dali Old Town (大理古城)
 
-![Dali — Dali Old Town (大理古城)](https://images.pexels.com/photos/31427560/pexels-photo-31427560.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Ancient Town Aerial View, Lijiang](/img/destinations/dali-travel-guide/1.webp)
 
 The old town is a compact grid of Ming and Qing dynasty streets enclosed by original city walls and four gate towers. It is almost entirely pedestrianised and fully walkable. The main tourist artery, Foreigners' Street (洋人街), is lined with cafés, bars, and guesthouses — many run by expats who came for a week and never left.
 
@@ -36,9 +36,9 @@ The old town is a compact grid of Ming and Qing dynasty streets enclosed by orig
 
 ---
 
-![Dali — Erhai Lake (洱海)](https://images.pexels.com/photos/33970874/pexels-photo-33970874.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Erhai Lake (洱海)
+
+![Erhai Lake Sunrise Scenery, Dali](/img/destinations/dali-travel-guide/2.webp)
 
 The 250km² freshwater lake east of the old town is perhaps Dali's greatest asset. Crystal clear water (one of China's cleanest large lakes), fringed by 16 traditional Bai villages and distant peaks.
 
@@ -50,8 +50,6 @@ The 250km² freshwater lake east of the old town is perhaps Dali's greatest asse
 
 ---
 
-![Dali — Cangshan Mountain (苍山)](https://images.pexels.com/photos/7809056/pexels-photo-7809056.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Cangshan Mountain (苍山)
 
 The 4,122m peak directly west of Dali is accessible by cable car, providing stunning views of Erhai Lake and, on clear days, the entire valley.
@@ -62,6 +60,8 @@ The 4,122m peak directly west of Dali is accessible by cable car, providing stun
 ---
 
 ## Bai Minority Culture
+
+![Shuhe Old Town Scenery, Yunnan, Lijiang](/img/destinations/dali-travel-guide/3.webp)
 
 Dali is the heartland of the **Bai (白族) people** — one of China's 56 recognised ethnic groups — who have inhabited the Erhai basin for over 3,000 years. Their distinctive architecture, clothing, language, and customs remain very much alive.
 

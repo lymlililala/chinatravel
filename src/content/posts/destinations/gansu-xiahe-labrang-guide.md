@@ -12,7 +12,7 @@ tags:
   - tibetan-buddhism
   - monastery
 description: "Xiahe and Labrang Monastery in Gansu Province offer one of China's most immersive Tibetan Buddhist experiences outside Tibet. This 2026 guide covers monastery visiting etiquette, the kora prayer wheel circuit, Sangke Grassland day trips, festival timing, and how to reach this remote but extraordinary destination in the Gannan Tibetan area."
-ogImage: "https://images.pexels.com/photos/34481255/pexels-photo-34481255.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/gansu-xiahe-labrang-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -23,7 +23,7 @@ Xiahe sits at 2,920 meters in the Daxia River valley, about 260km southwest of L
 
 ## Labrang Monastery (拉卜楞寺)
 
-![Xiahe Labrang Monastery Gansu — Labrang Monastery (拉卜楞寺)](https://images.pexels.com/photos/5014993/pexels-photo-5014993.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Gannan Grassland Scenery, Gansu](/img/destinations/gansu-xiahe-labrang-guide/1.webp)
 
 ### Historical Background
 Labrang Monastery was founded in 1709 by the first Jamyang Zhépa, a reincarnating lama lineage that continues today. It grew to become one of the six great monasteries of the Gelug school of Tibetan Buddhism (alongside Sera, Drepung, and Ganden in Tibet, plus Kumbum in Qinghai). At its peak in the early 20th century, Labrang housed over 4,000 monks.
@@ -61,8 +61,6 @@ The monastery area has traditional Tibetan architecture with carved wooden windo
 ### Shopping
 The monastery area has souvenir stalls selling Tibetan religious items — many are genuinely made locally rather than mass-produced. Prayer flags, thangka paintings (simple ones from ¥50, detailed painted ones from ¥500+), prayer wheels (¥30–200), and traditional Tibetan jewelry. Don't bargain aggressively at religious item stalls.
 
-![Xiahe Labrang Monastery Gansu — Sangke Grassland (桑科草原)](https://images.pexels.com/photos/6144757/pexels-photo-6144757.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Sangke Grassland (桑科草原)
 
 About 14km west of Xiahe, the Sangke Grassland is the most accessible part of the Gannan Plateau — a vast alpine meadow at 3,000m+ where nomadic Tibetan families graze yaks and sheep. The views are enormous, the sky is enormous, and the whole experience is a vivid contrast to the monastery's enclosed world.
@@ -74,6 +72,8 @@ About 14km west of Xiahe, the Sangke Grassland is the most accessible part of th
 **Best time**: July and August when the grassland is green and wildflowers are in bloom. The annual Sangke Grassland Horse Racing Festival typically happens in July — a spectacular event worth planning around.
 
 ## Festivals and Best Times to Visit
+
+![Langmusixiao Town Scenery, Gansu](/img/destinations/gansu-xiahe-labrang-guide/2.webp)
 
 ### Monlam Festival (传昭大法会)
 The most important annual event at Labrang is the Monlam Great Prayer Festival, held in the first month of the Tibetan calendar (usually January–February in Gregorian terms). This is when thousands of monks and pilgrims gather for multi-day ceremonies including the unveiling of massive thangka paintings on the hillside behind the monastery.
@@ -106,6 +106,8 @@ Hezuo (合作) is the capital of Gannan Tibetan Autonomous Prefecture and has an
 A new rail connection opened in recent years linking Lanzhou and Linxia. From Linxia station, buses or taxis continue to Xiahe (about 2 hours).
 
 ## Where to Stay
+
+![Liqian Ancient Town Scenery, Gansu](/img/destinations/gansu-xiahe-labrang-guide/3.webp)
 
 ### Budget (¥80–180/night)
 Multiple Tibetan-style guesthouses (民宿) line the main street of the Tibetan quarter. Rooms are basic — wooden furniture, Tibetan carpet floors, simple bathroom. Most include breakfast (tsampa porridge, yak butter tea, bread).

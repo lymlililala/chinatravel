@@ -12,7 +12,7 @@ tags:
   - solo
   - budget
 description: "The honest budget backpacking guide to China in 2026 — realistic daily costs, how to stretch your money, the best hostels, cheapest transport options, free sights, and how to eat well for under $10 a day."
-ogImage: "https://images.pexels.com/photos/19076602/pexels-photo-19076602.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-backpacking-budget-guide-2026/cover.webp"
 ---
 
 China is one of the most accessible countries in the world for budget travel — and one of the most consistently underestimated. Travellers who budget $80 a day for Southeast Asia are often surprised to find that China can be done on $30–40 with more comfort, better food, and higher infrastructure quality than anywhere in the region.
@@ -24,6 +24,8 @@ The key is knowing where the money goes and where it doesn't need to. This guide
 ---
 
 ## Realistic Daily Budgets
+
+![Landscape Scenery, Zhangjiajie](/img/toolkit/china-backpacking-budget-guide-2026/1.webp)
 
 These figures are based on 2026 prices across mainland China, excluding Hong Kong and Macau (which are significantly more expensive).
 
@@ -181,6 +183,8 @@ Not every attraction in China charges an entrance fee. Strategic use of free sig
 ---
 
 ## The Budget Backpacker Route
+
+![Shilihualang Scenery, Zhangjiajie, Hunan](/img/toolkit/china-backpacking-budget-guide-2026/2.webp)
 
 The most cost-efficient multi-city route for first-time China backpackers:
 

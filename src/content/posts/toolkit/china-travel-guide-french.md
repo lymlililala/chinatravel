@@ -12,12 +12,14 @@ tags:
   - visa-exemption
   - culture
 description: "The essential China travel guide for French citizens in 2026, covering the visa exemption that now allows French travellers up to 15 days visa-free, flight connections from Paris, cultural connections between France and China, French-friendly tips for navigating Chinese cuisine, money and payments, and curated itineraries that blend iconic sights with experiences that particularly appeal to French sensibilities."
-ogImage: "https://images.pexels.com/photos/35289942/pexels-photo-35289942.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-travel-guide-french/cover.webp"
 ---
 
 ## Table of contents
 
 ## France and China — A Special Relationship
+
+![Forbidden City Panorama Interior, Beijing](/img/toolkit/china-travel-guide-french/1.webp)
 
 France has always had a particular affinity with China. It was the first Western country to establish diplomatic relations with the People's Republic in 1964. French architects designed landmark Chinese buildings. French cuisine and Chinese cuisine — two of the world's greatest culinary traditions — share a reverence for technique, ingredients, and the social ritual of eating. And in 2024, China announced a visa exemption for French citizens, making it easier than ever for French travellers to visit.
 
@@ -158,6 +160,8 @@ Chinese beer (Tsingtao, Snow Beer) is widely available and cheap (¥5-15/$0.70-2
 - **Craft beer:** Shanghai and Beijing have thriving craft beer scenes
 
 ## Internet Access
+
+![Jinshanling Great Wall, Beijing](/img/toolkit/china-travel-guide-french/2.webp)
 
 ### The Great Firewall
 

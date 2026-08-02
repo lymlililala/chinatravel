@@ -1,6 +1,7 @@
 ---
 title: "China in June: Summer Travel Guide — Dragon Boat Festival & Best Destinations"
 description: "Where to travel in China in June 2026 — Dragon Boat Festival celebrations, avoiding the heat, best summer destinations like Qinghai Lake, Inner Mongolia grasslands, and practical summer travel tips."
+ogImage: "/img/toolkit/china-june-summer-travel-guide/cover.webp"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/china-june-summer.jpg"
 category: "toolkit"
@@ -15,6 +16,8 @@ June marks China's transition into summer — and that means very different thin
 The signature event is the Dragon Boat Festival (端午节, Duānwǔ Jié), which falls on the 5th day of the 5th lunar month — in 2026, this falls on June 21st. This creates a 3-day public holiday and one of the most spectacular traditional festivals visible to travelers.
 
 ## Dragon Boat Festival: What to Expect
+
+![Shi Lake Scenery, Jiangsu, Suzhou](/img/toolkit/china-june-summer-travel-guide/1.webp)
 
 The Dragon Boat Festival commemorates the death of the poet-patriot Qu Yuan (屈原), who drowned himself in the Miluo River in 278 BCE to protest the corruption of the Chu Kingdom. According to legend, people raced their boats to recover his body and threw rice dumplings (粽子, zòngzi) into the water to distract the fish from eating him.
 
@@ -90,6 +93,8 @@ June is one of the best months for Xinjiang — the weather is warm and pleasant
 **Kashgar Old City**: June weather in Kashgar is pleasant (25-30°C) and the city's famous Sunday Market is a year-round phenomenon.
 
 ## Practical Summer Tips
+
+![Gudianmingyuanliu Garden Scenery, Suzhou](/img/toolkit/china-june-summer-travel-guide/2.webp)
 
 ### Dealing with the Heat
 

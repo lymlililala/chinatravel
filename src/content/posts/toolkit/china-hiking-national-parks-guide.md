@@ -1,6 +1,7 @@
 ---
 title: "China National Parks & Hiking Guide 2026: Best Trails for Every Level"
 description: "Complete guide to hiking in China's national parks and scenic areas — best trails for beginners and experts, permit requirements, best seasons, and what makes China's mountain hiking unique compared to other countries."
+ogImage: "/img/toolkit/china-hiking-national-parks-guide/cover.webp"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/china-hiking.jpg"
 category: "toolkit"
@@ -17,6 +18,8 @@ The fundamental differences from Western hiking cultures: most Chinese scenic ar
 Within these parameters, the hiking itself is among the world's best — the landscapes are genuinely spectacular, the trail systems are extensive, and the combination of mountain scenery with Buddhist/Taoist temple architecture creates a cultural depth that purely natural parks don't offer.
 
 ## Understanding China's Mountain Park System
+
+![Scenery, Anhui, Huangshan](/img/toolkit/china-hiking-national-parks-guide/1.webp)
 
 Most of China's famous mountains are operated as formal scenic areas (风景名胜区, fēngjǐng míngshèng qū). This means:
 - Entrance fees (typically ¥80-200)
@@ -89,6 +92,8 @@ The sections of the G318 highway through western Sichuan's high passes offer ext
 **In less-regulated areas**: Camping is broadly possible in China but lacks the infrastructure (established campsites, permit systems) of Western camping destinations. Wild camping in wilderness areas works on a practical basis; leave-no-trace principles are important but not universally understood or practiced.
 
 ## The Stone Staircase Reality
+
+![Sea of Clouds Scenery, Huangshan](/img/toolkit/china-hiking-national-parks-guide/2.webp)
 
 China's mountain trails are almost always stone staircases rather than soft dirt paths. This means:
 - Much easier to navigate in rain (non-slip compared to mud trails)

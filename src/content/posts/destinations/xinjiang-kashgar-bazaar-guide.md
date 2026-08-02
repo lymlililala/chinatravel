@@ -11,7 +11,7 @@ tags:
   - culture
   - silk-road
 description: "Kashgar's Sunday Livestock Market and the Uyghur old city — the most Central Asian city in China, the Id Kah Mosque, the Sunday market, Uyghur food culture, and the complex realities of visiting Xinjiang in 2026."
-ogImage: "https://images.pexels.com/photos/19473640/pexels-photo-19473640.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/xinjiang-kashgar-bazaar-guide/cover.webp"
 ---
 
 Kashgar (喀什, Kashi) stands at the far western edge of China — an oasis city at the foot of the Pamir Mountains, historically the meeting point of the Silk Road's northern and southern routes, and the heart of Uyghur culture and Central Asian Muslim life in the Middle Kingdom.
@@ -20,9 +20,9 @@ The city is visually and culturally more like Samarkand than Shanghai. Arabic sc
 
 **Important note**: Visiting Xinjiang in 2026 involves a specific political and security context that visitors should research thoroughly before travelling. This guide addresses the cultural and travel practical aspects while acknowledging that situation.
 
-![Kashgar Bazaar — The Old City (老城)](https://images.pexels.com/photos/27987227/pexels-photo-27987227.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Old City (老城)
+
+![Tashenkuer City Scenery, Xinjiang](/img/destinations/xinjiang-kashgar-bazaar-guide/1.webp)
 
 Kashgar's old city has been extensively rebuilt and restored — the dense mudbrick neighbourhood of traditional Uyghur courtyard houses has been significantly altered from 2009 onwards. What remains is partially authentic traditional architecture preserved for tourism, partially reconstructed.
 
@@ -30,17 +30,15 @@ Kashgar's old city has been extensively rebuilt and restored — the dense mudbr
 
 **The more genuine sections**: The western and northern residential lanes behind the main tourist areas still have occupied traditional houses. Walking away from the main tourist route finds families going about daily life.
 
-![Kashgar Bazaar — Id Kah Mosque and Square (艾提尕尔清真寺)](https://images.pexels.com/photos/35220191/pexels-photo-35220191.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Id Kah Mosque and Square (艾提尕尔清真寺)
+
+![Daban City, Xinjiang](/img/destinations/xinjiang-kashgar-bazaar-guide/2.webp)
 
 The Id Kah Mosque, built 1442 AD, is the largest mosque in China by capacity (20,000 worshippers for Friday prayer). The yellow-and-white facade with twin minarets dominates the central square.
 
 The mosque is active — five daily prayer calls, Friday communal prayer, Ramadan observance. Non-Muslim visitors are welcome outside prayer times (check current access policy at the gate).
 
 **Friday prayer**: The largest religious gathering visible to visitors — thousands of worshippers coming from throughout Kashgar and surrounding villages.
-
-![Kashgar Bazaar — Sunday Livestock Market (大牧场)](https://images.pexels.com/photos/36960955/pexels-photo-36960955.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Sunday Livestock Market (大牧场)
 
@@ -49,6 +47,8 @@ The Sunday market (Sunday Bazaar, 星期日巴扎) — specifically the livestoc
 **Location**: 3km east of central Kashgar (taxi, ¥15–20). The Sunday general market (Sunday Grand Bazaar) selling textiles, food, handicrafts, and household goods is in a separate complex nearby.
 
 ## Uyghur Food Culture
+
+![Beautiful Landscape, Xinjiang](/img/destinations/xinjiang-kashgar-bazaar-guide/3.webp)
 
 Kashgar's food is entirely different from Han Chinese cuisine:
 

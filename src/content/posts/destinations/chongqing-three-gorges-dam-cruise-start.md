@@ -1,7 +1,7 @@
 ---
 title: "Starting a Yangtze Three Gorges Cruise from Chongqing: Complete Boarding Guide"
 description: "Everything you need to know about beginning a Yangtze River Three Gorges cruise from Chongqing — choosing the right pier, boarding procedures, cabin classes, embarkation day tips, and what to expect on the first night aboard."
-ogImage: "https://images.pexels.com/photos/30183417/pexels-photo-30183417.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/chongqing-three-gorges-dam-cruise-start/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Chongqing"
 tags: ["chongqing", "three-gorges", "yangtze-river", "cruise", "river-cruise", "boarding-guide", "chaotianmen", "gorges"]
@@ -15,9 +15,9 @@ This guide covers everything specific to the embarkation process in Chongqing �
 
 ---
 
-![Starting Yangtze Three Gorges Cruise from Chongqing — Choosing Your Departure Pier in Chongqing](https://images.pexels.com/photos/35439708/pexels-photo-35439708.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Choosing Your Departure Pier in Chongqing
+
+![Jinyun Mountain Scenery, Chongqing](/img/destinations/chongqing-three-gorges-dam-cruise-start/1.webp)
 
 Chongqing has several piers that operate Yangtze cruises. They are not interchangeable; confirming your pier before travel is essential.
 
@@ -73,8 +73,6 @@ These ferries are significantly cheaper (¥200–¥600 vs ¥1,500–¥5,000+ for
 
 ---
 
-![Starting Yangtze Three Gorges Cruise from Chongqing — Embarkation Day: Step by Step](https://images.pexels.com/photos/32630851/pexels-photo-32630851.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Embarkation Day: Step by Step
 
 ### Before You Leave Your Hotel
@@ -101,6 +99,8 @@ The boarding gangway at Chaotianmen descends sharply — the river is 80+ metres
 
 ## First Night Aboard: What to Expect
 
+![Changjiangsanxia Scenery](/img/destinations/chongqing-three-gorges-dam-cruise-start/2.webp)
+
 Most cruises remain docked in Chongqing for the first evening, allowing passengers to settle in and the crew to complete loading. Common first-night activities:
 
 - **Welcome dinner:** Usually a formal meal introducing the ship's restaurant and the cruise director's introduction to the itinerary.
@@ -111,9 +111,9 @@ The ship typically departs Chongqing between 21:00 and 23:00, often timed so pas
 
 ---
 
-![Starting Yangtze Three Gorges Cruise from Chongqing — The First Morning: Waking Up in the Gorges](https://images.pexels.com/photos/29304301/pexels-photo-29304301.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The First Morning: Waking Up in the Gorges
+
+![Shanchengcuican Night View, Chongqing](/img/destinations/chongqing-three-gorges-dam-cruise-start/3.webp)
 
 Set an alarm for approximately 30 minutes before sunrise. Step onto the deck in the morning dark and wait. As the sky lightens, the canyon walls — rising 600–900 metres on both sides — will gradually separate themselves from the darkness. By the time the sun clears the ridgeline, you will be floating in a gorge that feels entirely enclosed, the river ahead and behind bending out of sight around limestone buttresses.
 

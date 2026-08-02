@@ -11,7 +11,7 @@ tags:
   - practical
   - planning
 description: "China business travel guide — the business visa (M visa) vs tourist visa for work travel, WeChat as the essential business tool (how to add contacts, share documents), business card etiquette (receive with both hands, study it, never write on it), banquet dining customs (toasting with baijiu, the host's role), and practical advice for first-time business visitors."
-ogImage: "https://images.unsplash.com/photo-1537944434965-cf4679d1a598?w=1200&q=85"
+ogImage: "/img/toolkit/china-business-travel-guide/cover.webp"
 ---
 
 China remains one of the world's most important business destinations, and the protocol for doing business here is meaningfully different from Western corporate culture. Getting a few things right — business cards, meeting format, relationship-building over dinner — makes a significant difference to how your trip goes. Here's what first-time business visitors to China need to know.
@@ -19,6 +19,8 @@ China remains one of the world's most important business destinations, and the p
 ## Table of contents
 
 ## Visas for Business Travel
+
+![Wanli Great Wall Scenery](/img/toolkit/china-business-travel-guide/1.webp)
 
 The type of visa you need depends on what you're actually doing in China:
 
@@ -57,6 +59,8 @@ This is the detail that gets highlighted in every China business guide because i
 Having bilingual business cards (English on one side, Simplified Chinese on the other) is strongly recommended for regular China visitors. Printing services in China are extremely fast and cheap — a local print shop will produce 200 double-sided cards in 24 hours for ¥60-100.
 
 ## Meeting Protocol and Hierarchy
+
+![Badaling Great Wall, Beijing](/img/toolkit/china-business-travel-guide/2.webp)
 
 Chinese business meetings are more formal than most Western equivalents, particularly at first meetings. A few things to know:
 

@@ -13,7 +13,7 @@ tags:
   - hiking
   - UNESCO
 description: "Wuyi Mountain in northern Fujian is a double UNESCO designation — World Heritage Site for both its extraordinary biodiversity and its cultural landscape of ancient Taoist cliffs, Song Dynasty academy ruins and the birthplace of many of China's most prized oolong teas including Da Hong Pao. This 2026 guide covers rafting, hiking, tea culture, transport from Xiamen and Fuzhou, and where to stay."
-ogImage: "https://images.pexels.com/photos/17702427/pexels-photo-17702427.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/fujian-wuyi-mountain-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -24,7 +24,7 @@ Walking the ridge paths here, you're following routes taken by scholar-officials
 
 ## Understanding the UNESCO Designation
 
-![Wuyi Mountain Fujian — Understanding the UNESCO Designation](https://images.pexels.com/photos/28469395/pexels-photo-28469395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Wuyishan Sea of Clouds Scenery, Fujian](/img/destinations/fujian-wuyi-mountain-guide/1.webp)
 
 Wuyi Mountain received dual UNESCO World Heritage status in 1999: as a Cultural Landscape for its 2,000 years of human habitation and Taoist/Confucian heritage, and as a Natural Heritage site for its extraordinary biodiversity. The mountain is home to over 2,527 species of plants and 5,000 species of animals — including many species found nowhere else — within a single protected area.
 
@@ -87,8 +87,6 @@ Many tea farms and production workshops in the area offer tastings. The **Wuyi M
 
 Several farms around the village of **Tongmu Guan** (桐木关) — a protected nature reserve in the inner mountains — offer overnight stays and farm experience including picking (when in season, April–May), firing and rolling. These typically cost ¥300–¥500/night ($42–$70) per person including meals and tea activities. Book months ahead for the spring picking season.
 
-![Wuyi Mountain Fujian — Getting to Wuyi Mountain](https://images.pexels.com/photos/16004928/pexels-photo-16004928.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting to Wuyi Mountain
 
 ### From Xiamen
@@ -107,6 +105,8 @@ High-speed rail via Fuzhou or Xiamen, total approximately 3.5–4.5 hours.
 
 ## Getting Around the Scenic Area
 
+![Tailao Mountain Scenery, Fujian](/img/destinations/fujian-wuyi-mountain-guide/2.webp)
+
 **Shuttle buses:** The scenic area operates a network of shuttle buses connecting the main gates to individual attraction starting points. A multi-day shuttle pass is available for ¥80 ($11).
 
 **Walking:** Most sites within the central scenic area are connected by walking paths. A full day's hiking covers the main ridge trails and valley paths; wear trail shoes and carry water.
@@ -123,8 +123,6 @@ High-speed rail via Fuzhou or Xiamen, total approximately 3.5–4.5 hours.
 
 **Tea farm homestays:** As mentioned above — the most immersive option for serious tea enthusiasts.
 
-![Wuyi Mountain Fujian — Best Time to Visit](https://images.pexels.com/photos/29903855/pexels-photo-29903855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Best Time to Visit
 
 **Spring (April–May):** The best time by a wide margin. The spring tea picking season is underway, the valley is a vivid green, and the weather is mild (18–25°C). The trade-off is crowds — this is peak season and prices are highest.
@@ -136,6 +134,8 @@ High-speed rail via Fuzhou or Xiamen, total approximately 3.5–4.5 hours.
 **Winter (December–February):** The raft runs at reduced frequency; some trails are closed after snow. The mountain in winter mist has its own stark beauty, and tea shops offer tastings with warm fires. Very few tourists.
 
 ## Practical Tips
+
+![Qingyuan Mountain, Fujian, Quanzhou](/img/destinations/fujian-wuyi-mountain-guide/3.webp)
 
 - **Ticket queues:** The scenic area entrance and the raft departure point have serious queues during peak season. Arrive at 08:00 or buy tickets online the day before via the official WeChat booking system.
 - **Sun exposure:** The Nine-Bend raft has no shade. Bring a hat, sunscreen and keep your water bottle full.

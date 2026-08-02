@@ -12,7 +12,7 @@ tags:
   - food
   - northwest-china
 description: "Lanzhou is the only Chinese city built along the Yellow River, and this geography defines everything — from the views of the river gorge cutting through the city to the floating-raft (羊皮筏) culture that has operated here for centuries. This 2026 complete guide covers the Yellow River riverside experience, the original Lanzhou hand-pulled beef noodle soup that has conquered China, Baita Mountain, and the city's role as the gateway to China's northwest."
-ogImage: "https://images.pexels.com/photos/5754872/pexels-photo-5754872.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/gansu-lanzhou-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -23,7 +23,7 @@ Most travelers treat Lanzhou as a transit hub — arriving by train from Xi'an, 
 
 ## The Lanzhou Beef Noodle Legend
 
-![Lanzhou Gansu — The Lanzhou Beef Noodle Legend](https://images.pexels.com/photos/20824934/pexels-photo-20824934.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Singing Sand Dunes, Gansu, Dunhuang](/img/destinations/gansu-lanzhou-guide/1.webp)
 
 Let's start with the food because it defines the city. Lanzhou Beef Noodle Soup (兰州牛肉面, 兰州拉面) is arguably the most widely eaten breakfast in China. Some estimates suggest over 1 billion bowls are served annually across the country. Every Chinese city has Lanzhou noodle restaurants, but the soup they serve is rarely the same as the original.
 
@@ -84,8 +84,6 @@ Walk the bridge at dawn and dusk — the river and mountain light from the bridg
 
 **Free, 24 hours access.**
 
-![Lanzhou Gansu — Gansu Provincial Museum (甘肃省博物馆)](https://images.pexels.com/photos/33327011/pexels-photo-33327011.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Gansu Provincial Museum (甘肃省博物馆)
 
 The Gansu Provincial Museum is home to the "Flying Horse of Gansu" (马踏飞燕, also called "Galloping Horse Treading on a Swallow") — a Han Dynasty bronze sculpture that has become China's national tourism symbol. The original horse is extraordinary; a copy appears on Chinese tourism signage everywhere.
@@ -96,13 +94,13 @@ Beyond the famous horse, the museum has an exceptional Silk Road collection cove
 
 ## Day Trip from Lanzhou: Bingling Temple Grottoes (炳灵寺石窟)
 
+![Maijishan Grottoes, Gansu](/img/destinations/gansu-lanzhou-guide/2.webp)
+
 The Bingling Temple Grottoes (75km from Lanzhou, accessible by boat across the Liujiaxia Reservoir) are one of Gansu's great Buddhist cave art sites — 183 caves with sculptures and murals dating from the Western Qin Dynasty (385 CE) through the Ming Dynasty. The setting, with the caves embedded in red sandstone cliffs above a turquoise reservoir, is spectacular.
 
 **Access**: Morning boats from Liujiaxia town (刘家峡, 75km from Lanzhou) at 8am and 9am. Return afternoon. Tour packages from Lanzhou: ¥150–200/person including boat and entry.
 
 **Entry**: ¥50/person plus boat fees.
-
-![Lanzhou Gansu — Getting to Lanzhou](https://images.pexels.com/photos/5754941/pexels-photo-5754941.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting to Lanzhou
 
@@ -117,6 +115,8 @@ Lanzhou has two main train stations: **Lanzhou Station (兰州站)** in the cent
 **By Air**: Lanzhou Zhongchuan International Airport (LHW) has connections to all major cities. Airport to city center: 60–70 minutes by bus (¥30) or 40 minutes by taxi (¥80–100).
 
 ## Gansu Silk Road Connections
+
+![Danxia Landform Dimao Natural Scenery, Gansu, Zhangye](/img/destinations/gansu-lanzhou-guide/3.webp)
 
 Lanzhou's significance is as much as a departure point as a destination. From here, the Silk Road extends northwest through the Hexi Corridor:
 

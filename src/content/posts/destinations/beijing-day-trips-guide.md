@@ -11,14 +11,14 @@ tags:
   - great-wall
   - transport
 description: "The best day trips from Beijing — wild Great Wall sections, Chengde mountain resort, Tianjin's colonial architecture, Shanhaiguan where the Wall meets the sea, and the valley towns north of the city — with transport logistics and time requirements."
-ogImage: "https://images.pexels.com/photos/1653823/pexels-photo-1653823.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/beijing-day-trips-guide/cover.webp"
 ---
 
 Beijing's position at the edge of the North China Plain means day trip options extend in three very different directions: north and east into the mountains (Great Wall sections, valley towns), northeast to the imperial resort city of Chengde, and east to Tianjin's coastal colonial city. Each direction offers something unavailable in the capital itself.
 
-![Trips from Beijing — North: Great Wall Variations](https://images.pexels.com/photos/173926/pexels-photo-173926.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## North: Great Wall Variations
+
+![Simatai Great Wall, Beijing](/img/destinations/beijing-day-trips-guide/1.webp)
 
 ### Jiankou (箭扣) — Wild and Dramatic
 
@@ -45,9 +45,9 @@ The Wall plunging into the Bohai Sea at Shanhaiguan is the logical endpoint of a
 
 Shanhaiguan can be combined with Beidaihe resort beach (20 minutes away) for those who want the coast.
 
-![Trips from Beijing — Northeast: Chengde Imperial Summer Resort (承德)](https://images.pexels.com/photos/1653825/pexels-photo-1653825.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Northeast: Chengde Imperial Summer Resort (承德)
+
+![Badaling Great Wall, Beijing](/img/destinations/beijing-day-trips-guide/2.webp)
 
 **Distance**: 230km | **Travel time**: 2 hours by HSR or fast train
 **Character**: Qing dynasty imperial mountain resort, Tibetan Buddhist temples, extraordinary summer scenery
@@ -56,9 +56,9 @@ Chengde's **Mountain Resort (避暑山庄)** was the summer palace and diplomati
 
 Chengde warrants 2 days (overnight stay) to see both the main resort and the key temples properly. [Full Chengde guide](/posts/destinations/hebei-chengde-zhangjiakou-guide/).
 
-![Trips from Beijing — East: Tianjin Colonial Architecture (天津)](https://images.pexels.com/photos/1653826/pexels-photo-1653826.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## East: Tianjin Colonial Architecture (天津)
+
+![Jinshanling Great Wall, Beijing](/img/destinations/beijing-day-trips-guide/3.webp)
 
 **Distance**: 130km | **Travel time**: 35 minutes by HSR from Beijing South
 

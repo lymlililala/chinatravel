@@ -11,7 +11,7 @@ tags:
   - culture
   - north-china
 description: "Chengde (承德) in Hebei — the Qing Dynasty's summer capital, 250km north of Beijing. The vast Mountain Resort palace gardens (the largest imperial garden in China), the Eight Outer Temples including the mini-Potala Palace, and what a day trip from Beijing vs overnight stay gives you."
-ogImage: "https://images.pexels.com/photos/10964092/pexels-photo-10964092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/hebei-chengde-guide/cover.webp"
 ---
 
 The Qing Dynasty emperors had a problem. Summer in Beijing was punishingly hot, the grassland tribes of Mongolia needed careful diplomatic management, and the court required a place where emperors could simultaneously relax, hunt, and receive foreign dignitaries from Central Asia and beyond. Their solution was Chengde — a mountain valley 250km north of Beijing where they built the largest imperial garden complex in China, then surrounded it with eight temples designed to flatter every ethnic group in the empire. The result is one of China's most underappreciated UNESCO World Heritage Sites.
@@ -20,7 +20,7 @@ The Qing Dynasty emperors had a problem. Summer in Beijing was punishingly hot, 
 
 ## The Mountain Resort
 
-![Chengde — The Mountain Resort](https://images.pexels.com/photos/6004053/pexels-photo-6004053.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Bishu Mountain Resort Snow Scenery, Hebei, Chengde](/img/destinations/hebei-chengde-guide/1.webp)
 
 The Bishu Shanzhuang (避暑山庄, literally "Mountain Resort to Escape the Heat") covers 5.64 square kilometres — roughly the size of the Summer Palace in Beijing plus Beihai Park combined. Emperor Kangxi began construction in 1703, and it took a further 89 years of construction under Qianlong to complete. For most of the 18th century this was effectively the real capital of China, where emperors spent five months a year receiving ambassadors, conducting military reviews, and hunting in the vast forests of the surrounding Mulan Hunting Grounds.
 
@@ -32,9 +32,9 @@ The northern forest zone is less visited but covers the largest area. In summer 
 
 **Admission:** ¥90 for the Mountain Resort. Allow a full day to cover the main sights properly.
 
-![Chengde — The Eight Outer Temples](https://images.pexels.com/photos/34783859/pexels-photo-34783859.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Eight Outer Temples
+
+![Cangyan Mountain, Hebei](/img/destinations/hebei-chengde-guide/2.webp)
 
 The temples are honestly the most architecturally fascinating part of Chengde. Built between 1713 and 1780, they were designed to reflect the Buddhist architecture of the ethnic groups the Qing emperors needed to keep on side — Tibetans, Mongols, and the various Central Asian Buddhist peoples. Eight temples were built, of which five are accessible today.
 
@@ -46,9 +46,9 @@ The Xumifushou Temple (须弥福寿之庙) was built specifically to house the P
 
 **Admission:** ¥30-50 per temple. A combined ticket covering multiple temples offers better value.
 
-![Chengde — Day Trip vs Overnight Stay](https://images.pexels.com/photos/37078584/pexels-photo-37078584.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day Trip vs Overnight Stay
+
+![Baishi Mountain Scenery, Hebei](/img/destinations/hebei-chengde-guide/3.webp)
 
 Chengde is 250km from Beijing, which sounds manageable but the road journey takes 3-4 hours. The high-speed train from Beijing North station takes about 2 hours (¥100-150). The question is whether to do it as a day trip or overnight.
 

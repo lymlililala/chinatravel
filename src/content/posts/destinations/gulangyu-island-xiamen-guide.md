@@ -12,7 +12,7 @@ tags:
   - colonial architecture
   - Fujian
 description: "Complete guide to Gulangyu Island — the UNESCO World Heritage car-free island off Xiamen with extraordinary colonial architecture, the Piano Museum, Sunlight Rock, and Fujian's finest seafood."
-ogImage: "https://images.pexels.com/photos/26100564/pexels-photo-26100564.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/gulangyu-island-xiamen-guide/cover.webp"
 ---
 
 In 1903, nine foreign nations established a joint International Settlement on a 1.87 square kilometre island off the coast of Xiamen. For the next four decades, the island of Gulangyu became one of Asia's most cosmopolitan addresses — British consuls, American missionaries, Dutch merchants, and Japanese businessmen built mansions alongside the Fujian Chinese who had always called the island home.
@@ -23,7 +23,7 @@ Today, the island is car-free (electric carts and feet only), UNESCO World Herit
 
 ## Getting to Gulangyu
 
-![Gulangyu Island, Xiamen — Getting to Gulangyu](https://images.pexels.com/photos/37714925/pexels-photo-37714925.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Tailao Mountain Scenery, Fujian](/img/destinations/gulangyu-island-xiamen-guide/1.webp)
 
 Gulangyu is reached by ferry from the Xiamen mainland:
 
@@ -63,8 +63,6 @@ The summit of Gulangyu at 92.7 metres. The views from the top — Xiamen harbour
 
 ---
 
-![Gulangyu Island, Xiamen — Shuzhuang Garden (菽庄花园)](https://images.pexels.com/photos/15753247/pexels-photo-15753247.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Shuzhuang Garden (菽庄花园)
 
 Built in 1913 by a Fujian merchant as his private retreat, this UNESCO-listed garden extends over rocky coastal outcroppings in a design that masterfully integrates classical Chinese garden aesthetics with the harsh realities of a tidal sea wall.
@@ -78,6 +76,8 @@ The garden is divided into sections: a hidden garden (where walls and corridors 
 ---
 
 ## The International Settlement Historic District
+
+![Wuyi Mountain Scenery, Fujian](/img/destinations/gulangyu-island-xiamen-guide/2.webp)
 
 UNESCO's designation of Gulangyu as a World Heritage Site focuses on the 2 km historic district containing over 1,000 historic buildings representing more than 20 architectural styles.
 
@@ -99,9 +99,9 @@ The island has no cars — the only motor vehicles are small electric maintenanc
 
 ---
 
-![Gulangyu Island, Xiamen — Food: Eating on Gulangyu](https://images.pexels.com/photos/37714926/pexels-photo-37714926.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Food: Eating on Gulangyu
+
+![Moya Stone Carving Scenery, Fujian, Quanzhou](/img/destinations/gulangyu-island-xiamen-guide/3.webp)
 
 The main tourist street (Longtou Road / 龙头路) and its side streets are lined with food options. Quality ranges from excellent to tourist-trap.
 

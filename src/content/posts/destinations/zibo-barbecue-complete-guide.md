@@ -12,14 +12,14 @@ tags:
   - barbecue
   - china food tourism
 description: "Zibo BBQ took China by storm and became one of the most talked-about food destinations in the country. This complete guide covers where to eat the best Zibo barbecue, how to get there, what to order, local etiquette, and everything you need for an unforgettable food trip to Shandong's most viral city in 2026."
-ogImage: "https://images.pexels.com/photos/18936008/pexels-photo-18936008.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/zibo-barbecue-complete-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## Why Zibo BBQ Became China's Biggest Food Phenomenon
 
-![Zibo BBQ — Why Zibo BBQ Became China's Biggest Food Phenomenon](https://images.pexels.com/photos/34453548/pexels-photo-34453548.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Kong Temple, Qufu](/img/destinations/zibo-barbecue-complete-guide/1.webp)
 
 In the spring of 2023, something extraordinary happened in a mid-sized industrial city in Shandong Province. College students who had been quarantined in Zibo during the pandemic returned to thank their hosts — and they brought the entire internet with them. Videos of tiny charcoal grills, paper-thin flatbreads wrapped around grilled meat and spring onions, and overflowing cups of local beer flooded Chinese social media platforms overnight.
 
@@ -69,8 +69,6 @@ These "time-honoured" establishments have been in operation for decades. Look fo
 **万象城附近烧烤聚集区** — Near Wanxiang City Mall
 A newer cluster that emerged partly due to the tourism boom. More tables, better organisation, and some venues have English menus or picture menus.
 
-![Zibo BBQ — What to Order: The Complete Zibo BBQ Menu](https://images.pexels.com/photos/6529688/pexels-photo-6529688.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## What to Order: The Complete Zibo BBQ Menu
 
 ### The Holy Trinity: Lamb, Flatbread, Spring Onion
@@ -104,6 +102,8 @@ Three sauces define Zibo BBQ:
 Local draft beer is the standard accompaniment. Ask for **扎啤 (Zhā pí)** — draft beer — served in large pitchers for shared tables. Prices are remarkably low: a litre jug costs ¥10–20. Tsingtao and Laoshan Beer are the most common brands, though several local Zibo craft operations have emerged since the tourism boom.
 
 ## How Much Does Zibo BBQ Cost?
+
+![Konglin, Qufu](/img/destinations/zibo-barbecue-complete-guide/2.webp)
 
 One of the joys of Zibo BBQ is its accessibility. Budget travellers can eat themselves into a happy stupor for very little money.
 
@@ -145,8 +145,6 @@ Zibo BBQ is fundamentally a social food. Tables are large, meat comes in large q
 - Don't ignore the flatbreads — eating the meat alone misses the point
 - Don't order in enormous quantities upfront; in most places you can order continuously
 
-![Zibo BBQ — Beyond the BBQ: What Else to Do in Zibo](https://images.pexels.com/photos/5774159/pexels-photo-5774159.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Beyond the BBQ: What Else to Do in Zibo
 
 ### Zibo Ceramic Museum (淄博陶瓷博物馆)
@@ -161,6 +159,8 @@ The nearby **Ancient Chariot Museum** (古车博物馆) displays actual Bronze A
 Less well-known than the ceramics tradition but equally fascinating, Zibo produces a huge proportion of China's decorative glass. Several studios in the Boshan area offer demonstrations and selling galleries.
 
 ## Where to Stay in Zibo
+
+![Yan Temple Scenery, Shandong, Qufu](/img/destinations/zibo-barbecue-complete-guide/3.webp)
 
 The tourism boom has substantially improved Zibo's accommodation options.
 

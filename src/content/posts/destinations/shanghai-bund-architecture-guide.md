@@ -1,7 +1,7 @@
 ---
 title: "Shanghai Bund Architecture Guide: 52 Buildings on the Waterfront"
 description: "Detailed architectural guide to the Bund's 52 historic buildings — the stories behind the HSBC building, Customs House clock tower, Sassoon House, and others. Best viewpoints, when to visit, and the Bund's history as Asia's greatest collection of 20th-century architecture."
-ogImage: "https://images.pexels.com/photos/37553914/pexels-photo-37553914.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/shanghai-bund-architecture-guide/cover.webp"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/shanghai-bund-architecture.jpg"
 category: "destinations"
@@ -17,9 +17,9 @@ Today the buildings face the spectacular contrast of Pudong's modern skyline acr
 
 This guide focuses on reading the architecture, understanding the history, and experiencing the Bund as more than a photographic backdrop.
 
-![Shanghai Bund Architecture — Understanding the Historical Context](https://images.pexels.com/photos/30685872/pexels-photo-30685872.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Understanding the Historical Context
+
+![The Bund Scenery](/img/destinations/shanghai-bund-architecture-guide/1.webp)
 
 The International Settlement was created by the Treaty of Nanking (1842) following the First Opium War. British, American, and French nationals were granted extraterritorial rights — living and operating under their own legal systems in designated zones of Shanghai. The financial institutions that moved to the Bund were operating in a jurisdiction that was legally equivalent to their home countries, which explains the confidence of the architectural ambitions.
 
@@ -69,9 +69,9 @@ Built 1937. Unusually, this is the one building on the Bund that is explicitly C
 
 **Currently**: Bank of China branch.
 
-![Shanghai Bund Architecture — Walking the Bund](https://images.pexels.com/photos/35632128/pexels-photo-35632128.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Walking the Bund
+
+![Shibohui, Shanghai](/img/destinations/shanghai-bund-architecture-guide/2.webp)
 
 **The Promenade**: The Bund's riverfront promenade runs the full length of the historical buildings. It's open 24 hours; the experience changes dramatically by time of day.
 
@@ -87,13 +87,13 @@ Built 1937. Unusually, this is the one building on the Bund that is explicitly C
 
 ## Beyond the Main Strip
 
+![Shiji Park, Shanghai](/img/destinations/shanghai-bund-architecture-guide/3.webp)
+
 **Waitan 5 (外滩五号)**: The buildings continue south of the main tourist stretch, along Zhongshan East 2nd Road (中山东二路). These buildings are less famous but equally interesting architecturally; the commercial traffic is less, allowing closer inspection.
 
 **The Historic Chinese areas behind the Bund**: Old Shanghai Street (老街) and the Yuyuan area immediately behind the Bund represent the Chinese city that predates the International Settlement. The contrast between the Western financial architecture of the Bund and the traditional Chinese architecture of Yu Garden (a few blocks away) captures the spatial division of colonial Shanghai.
 
 **North Bund (北外滩)**: The area north of Suzhou Creek and the Waibaidu Bridge (外白渡桥 — Garden Bridge) was the American Settlement. Some historical buildings survive; the area is less visited and has a different atmosphere from the main Bund.
-
-![Shanghai Bund Architecture — When to Visit](https://images.pexels.com/photos/30685869/pexels-photo-30685869.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## When to Visit
 

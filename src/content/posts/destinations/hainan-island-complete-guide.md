@@ -12,7 +12,7 @@ tags:
   - beaches
   - nature
 description: "China's Hawaii — Hainan Island combines tropical beaches, ancient Li minority culture, primeval rainforest, and a booming duty-free shopping scene. The perfect winter escape from northern China."
-ogImage: "https://images.pexels.com/photos/37927887/pexels-photo-37927887.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/hainan-island-complete-guide/cover.webp"
 ---
 
 Hainan Island is China's southernmost province — a tropical island the size of Belgium in the South China Sea. It's most famous as a beach destination rivalling Thailand and Bali, but beyond the coastal resorts lies a mountainous interior with primeval rainforest, volcanic landscapes, and the indigenous Li and Miao minority cultures.
@@ -21,7 +21,7 @@ Hainan Island is China's southernmost province — a tropical island the size of
 
 ## Sanya (三亚)
 
-![Hainan Island — Sanya (三亚)](https://images.pexels.com/photos/13318777/pexels-photo-13318777.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Dadonghai Scenery, Hainan, Sanya](/img/destinations/hainan-island-complete-guide/1.webp)
 
 Sanya is Hainan's main tourism hub — a 30km coastal strip of white sand beaches backed by luxury resorts, water sports operations, and seafood restaurants.
 
@@ -39,9 +39,9 @@ Near Danzhou city — China's largest tropical botanical garden with 13,000 plan
 
 ---
 
-![Hainan Island — Hainan Interior: Li & Miao Minority Regions](https://images.pexels.com/photos/11765534/pexels-photo-11765534.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Hainan Interior: Li & Miao Minority Regions
+
+![Boao Landscape, Hainan](/img/destinations/hainan-island-complete-guide/2.webp)
 
 ### Wuzhishan (五指山)
 The mountain at Hainan's heart — "Five Finger Mountain" at 1,867m, the highest peak in the province. The surrounding area is Hainan's most authentic Li and Miao minority culture zone.
@@ -55,9 +55,9 @@ A 70,000-hectare nature reserve protecting Hainan's primary rainforest — the o
 
 ---
 
-![Hainan Island — Haikou (海口) — Capital City](https://images.pexels.com/photos/28970319/pexels-photo-28970319.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Haikou (海口) — Capital City
+
+![Yalongwan Beach Sha Shoal, Sanya](/img/destinations/hainan-island-complete-guide/3.webp)
 
 Haikou has been transformed by the **Hainan Free Trade Port** status (announced 2020, full implementation ongoing) — major Chinese and international companies are establishing headquarters here, and a free trade zone allows duty-free purchases.
 

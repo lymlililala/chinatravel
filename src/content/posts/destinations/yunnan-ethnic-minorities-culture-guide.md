@@ -10,7 +10,7 @@ tags:
   - culture
   - destinations
 description: "An in-depth guide to Yunnan's extraordinary ethnic diversity — 25 distinct groups in one province. Covers the Dai Water Splashing Festival, Naxi Dongba script, Bai villages on Erhai Lake, Hani rice terraces, and Yi Torch Festival."
-ogImage: "https://images.pexels.com/photos/33326991/pexels-photo-33326991.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/yunnan-ethnic-minorities-culture-guide/cover.webp"
 ---
 
 Yunnan Province is home to more ethnic minority groups than any other province in China — 25 officially recognised groups out of China's 55 total. Geography shaped this diversity: mountains, river valleys, and subtropical lowlands at the crossroads of Chinese, Southeast Asian, and Tibetan worlds. Each group maintains distinct languages, festivals, architecture, and cuisine.
@@ -19,7 +19,7 @@ Yunnan Province is home to more ethnic minority groups than any other province i
 
 ## The Dai People: Xishuangbanna
 
-![Yunnan Ethnic Minorities — The Dai People: Xishuangbanna](https://images.unsplash.com/photo-1612342577274-ffdffb5d96a7?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw0fHxEYWklMjBQZW9wbGV8ZW58MHwwfHx8MTc4MTkzMDE0MXww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
+![Erhai Lake Scenery, Yunnan, Dali](/img/destinations/yunnan-ethnic-minorities-culture-guide/1.webp)
 
 The Dai (傣族) live primarily in Xishuangbanna (西双版纳) in southernmost Yunnan, bordering Laos and Myanmar. Their Theravada Buddhist culture is closely related to Thailand, making Xishuangbanna feel dramatically different from the rest of China.
 
@@ -53,9 +53,9 @@ The Mosuo (摩梭) live around Lugu Lake at the Yunnan-Sichuan border. One of th
 
 ---
 
-![Yunnan Ethnic Minorities — The Bai People: Dali and Erhai Lake](https://images.pexels.com/photos/38086585/pexels-photo-38086585.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Bai People: Dali and Erhai Lake
+
+![Dongchuan Red Soil Scenery](/img/destinations/yunnan-ethnic-minorities-culture-guide/2.webp)
 
 The Bai (白族) created the Nanzhao Kingdom (738–902 AD) and Dali Kingdom (937–1253 AD). Their cultural legacy includes:
 - **Dali's Three Pagodas** (大理三塔): Tang Dynasty Buddhist monuments in use for 1,200 years
@@ -72,13 +72,13 @@ The Bai (白族) created the Nanzhao Kingdom (738–902 AD) and Dali Kingdom (93
 
 ## The Hani People: Yuanyang Rice Terraces
 
+![Cai Landscape, Yunnan](/img/destinations/yunnan-ethnic-minorities-culture-guide/3.webp)
+
 The Hani (哈尼族) carved the Yuanyang rice terraces (元阳梯田, UNESCO World Heritage Site) over 1,300 years of continuous farming. Thousands of flooded terraces cascade from mountain peaks to valley floors in Honghe Prefecture.
 
 **Best time**: November–April when terraces flood with water; sunrise reflections create a mosaic of gold and silver light. Key viewpoints: Duoyishu (多依树) for sunrise, Laohuzui (老虎嘴) for dramatic cliff-edge views.
 
 ---
-
-![Yunnan Ethnic Minorities — The Yi People: Torch Festival](https://images.pexels.com/photos/28706447/pexels-photo-28706447.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Yi People: Torch Festival
 

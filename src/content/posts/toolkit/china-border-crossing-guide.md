@@ -1,6 +1,7 @@
 ---
 title: "China Land Border Crossing Guide 2026: Vietnam, Laos, Myanmar, Russia & More"
 description: "Complete guide to crossing China's land borders. Covers major crossings with Vietnam, Laos, Myanmar, Kazakhstan, Russia and Mongolia. Includes hours, visa requirements, transport links and practical tips."
+ogImage: "/img/toolkit/china-border-crossing-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["China border crossing", "overland travel", "Vietnam border", "Mongolia", "Laos", "border visa", "backpacking"]
@@ -9,6 +10,8 @@ tags: ["China border crossing", "overland travel", "Vietnam border", "Mongolia",
 Entering or exiting China by land is one of the most rewarding ways to travel the region, connecting China with Southeast Asia, Central Asia and Northeast Asia. Land crossings vary enormously in infrastructure, wait times and surrounding scenery. This guide covers the most used crossings for independent foreign travelers.
 
 ## China–Vietnam Crossings
+
+![Shizilin, Suzhou](/img/toolkit/china-border-crossing-guide/1.webp)
 
 Vietnam shares an 1,300 km border with China's Yunnan and Guangxi provinces.
 
@@ -69,6 +72,8 @@ Busier road crossing, part of the China-Kazakhstan trade route. International bu
 ---
 
 ## China–Russia Crossings
+
+![Ruiguang Pagoda Scenery, Suzhou](/img/toolkit/china-border-crossing-guide/2.webp)
 
 ### Manzhouli–Zabaykalsk (Inner Mongolia)
 Most popular China–Russia road and rail crossing. International train: Manzhouli to Chita or Trans-Siberian to Moscow.

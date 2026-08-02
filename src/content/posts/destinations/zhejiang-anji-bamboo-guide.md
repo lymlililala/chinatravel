@@ -12,7 +12,7 @@ tags:
   - tea
   - day-trip
 description: "Anji County in northern Zhejiang is famous for two things: the bamboo sea where Crouching Tiger Hidden Dragon was filmed, and some of China's finest white tea. A day trip or weekend from Shanghai or Hangzhou, Anji offers bamboo forest walks, spring tea-picking experiences, and a refreshing escape from city life. This 2026 guide covers all major sites, how to get here, and the best ways to experience Anji's unique offerings."
-ogImage: "https://images.pexels.com/photos/31761186/pexels-photo-31761186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/zhejiang-anji-bamboo-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -23,7 +23,7 @@ Director Ang Lee filmed the bamboo forest duel sequence of Crouching Tiger, Hidd
 
 ## Getting to Anji
 
-![Anji Bamboo Sea Zhejiang — Getting to Anji](https://images.pexels.com/photos/12736039/pexels-photo-12736039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Putuoshan Scenery](/img/destinations/zhejiang-anji-bamboo-guide/1.webp)
 
 ### From Shanghai
 The most convenient approach for international visitors.
@@ -69,8 +69,6 @@ The bamboo forest is most photogenic:
 
 For the cinematic effect from the movie, find a path that runs straight between high bamboo walls, use a wide angle lens, and shoot at ground level looking up the "corridor."
 
-![Anji Bamboo Sea Zhejiang — Tianhuangping Area (天荒坪)](https://images.pexels.com/photos/4258243/pexels-photo-4258243.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Tianhuangping Area (天荒坪)
 
 The Tianhuangping reservoir area (天荒坪水库) is a different landscape — an enormous pumped-storage hydroelectric reservoir surrounded by forested mountains. The dam itself is impressive engineering, and the drive up through the mountains is one of the better scenic roads in northern Zhejiang.
@@ -80,6 +78,8 @@ The reservoir sits at the top of the mountain and the views across the water and
 The drive from Anji city to Tianhuangping passes through the most rural part of the county — bamboo villages, river valleys, and the gradually increasing altitude. This is best done by private car or organized tour.
 
 ## White Tea Experience (安吉白茶)
+
+![Taiziwan Park Landscape, Hangzhou](/img/destinations/zhejiang-anji-bamboo-guide/2.webp)
 
 Anji Baicha is one of China's premium teas and one of the most misunderstood. Despite the name "white tea," it's processed as a green tea — the "white" refers to the pale, almost translucent color of the leaves in spring when the temperature is still cool. When the weather warms, the leaves turn green and are no longer suitable for this tea.
 
@@ -107,8 +107,6 @@ If you're offered tea at a farm, here's how to get the most from the experience:
 - Third steep: 60–90 seconds
 - Genuine Anji Baicha has a vegetal, slightly sweet, almost orchid-like fragrance and a very clean, light taste
 
-![Anji Bamboo Sea Zhejiang — Bamboo Shoots: The Edible Season](https://images.pexels.com/photos/753990/pexels-photo-753990.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Bamboo Shoots: The Edible Season
 
 Late February to early April is bamboo shoot season (竹笋季) in Anji. Fresh moso bamboo shoots — thick as a human arm — emerge from the soil and are harvested before they open. The texture is crunchy and the flavor delicate, very different from canned or dried bamboo shoots.
@@ -121,6 +119,8 @@ Every restaurant in Anji during this season features bamboo shoots: stir-fried w
 - 炸春卷 (Spring rolls with fresh bamboo shoot filling): ¥15–25
 
 ## Accommodation
+
+![Song City Scenery, Hangzhou](/img/destinations/zhejiang-anji-bamboo-guide/3.webp)
 
 Most visitors do Anji as a day trip, but staying overnight gives access to morning light in the bamboo and the quiet that returns after afternoon visitors leave.
 

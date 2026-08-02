@@ -11,25 +11,25 @@ tags:
   - culture
   - spirituality
 description: "Complete guide to climbing Mount Tai (Taishan) — the most sacred mountain in China, climbed by emperors for 3,000 years. The route options (day hike vs. overnight for sunrise), ticket prices, difficulty level, and what you'll find at the 1,545m summit."
-ogImage: "https://images.pexels.com/photos/31506012/pexels-photo-31506012.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/jinan-mount-tai-shandong-guide/cover.webp"
 ---
 
 Mount Tai (泰山, Taishan) is the most spiritually significant mountain in China — not the highest, not the most dramatic, but the most culturally loaded. For three millennia, Chinese emperors climbed Taishan to perform the Fengshan sacrifices at its summit, communicating with heaven and legitimising their rule. Confucius climbed it and said the world looked small from the top. Mao Zedong said the same in a different way.
 
 Visiting Taishan is a different experience from climbing for scenery — you're walking the same stone steps that a hundred emperors walked, past inscribed cliff faces with 2,500 years of accumulated calligraphy, through a forest of stele commemorating every imperial ascent.
 
-![Mount Tai (Taishan) — The Summit and What's There](https://images.pexels.com/photos/8932407/pexels-photo-8932407.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Summit and What's There
+
+![Wucai Mountain Scenery, Shandong](/img/destinations/jinan-mount-tai-shandong-guide/1.webp)
 
 The summit (玉皇顶, Jade Emperor Summit, 1,545m) has:
 - **Jade Emperor Temple (玉皇庙)**: The summit temple where imperial Fengshan ceremonies were performed
 - **The sunrise viewing platform**: The primary reason most Chinese visitors climb overnight — Taishan sunrise is one of the classic Chinese aesthetic experiences
 - **Numerous stele, inscribed cliff faces, and smaller temples** dating from the Han dynasty to the Qing
 
-![Mount Tai (Taishan) — Route Options](https://images.pexels.com/photos/20186117/pexels-photo-20186117.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Route Options
+
+![Yi Mountain Scenery, Shandong](/img/destinations/jinan-mount-tai-shandong-guide/2.webp)
 
 ### Main Central Route (中路) — The Classic Ascent
 
@@ -48,8 +48,6 @@ Two cable car options:
 
 The less-visited approach from the northern side of the mountain — passes through bamboo forest and is more tranquil. Combined with the front route (up one, down the other) for the best variety.
 
-![Mount Tai (Taishan) — The Overnight Climb for Sunrise](https://images.pexels.com/photos/31410275/pexels-photo-31410275.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Overnight Climb for Sunrise
 
 Climbing overnight to watch the sunrise from the summit is the traditional Taishan experience — and genuinely spectacular on clear mornings.
@@ -61,6 +59,8 @@ Climbing overnight to watch the sunrise from the summit is the traditional Taish
 **Practical**: Cold even in summer at the summit (bring a layer). Blankets can be rented at the summit. Food and drink available from summit vendors at premium prices.
 
 ## The Inscription Cliff Faces
+
+![Lao Mountain Scenery, Shandong, Qingdao](/img/destinations/jinan-mount-tai-shandong-guide/3.webp)
 
 Taishan's cliff faces are covered in inscribed text accumulated over 2,500 years — Han dynasty bronze seal script, Tang dynasty calligraphy by major artists, Qing dynasty imperial edicts, modern socialist slogans layered over ancient ones. The concentration of written text on natural rock surfaces is unique in scale and continuity.
 

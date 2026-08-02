@@ -12,7 +12,7 @@ tags:
   - chongqing
   - wuhan
 description: "Everything you need to plan a Yangtze River Three Gorges cruise in 2026 — the 4-day vs 3-day route options, which ship class to choose, what the three gorges actually look like, the Three Gorges Dam ship lift, and how the pre-dam landscapes were forever changed by the reservoir."
-ogImage: "https://images.pexels.com/photos/37105509/pexels-photo-37105509.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/yangtze-three-gorges-dam-cruise-guide/cover.webp"
 ---
 
 The Yangtze River Three Gorges cruise is one of Asia's classic travel experiences — a slow-boat journey through the dramatic cliffs of the Three Gorges, with the Three Gorges Dam (the world's largest hydroelectric project) as the modern centrepiece. The cruise experience has transformed significantly since the dam's construction raised the reservoir by 175 metres in 2003–2006, permanently changing the landscape. What remains is still extraordinary, and the dam itself is one of the engineering wonders of the modern world.
@@ -25,7 +25,7 @@ This guide covers everything needed to plan and book a Yangtze cruise in 2026.
 
 ## Understanding the Route
 
-![Yangtze River Three Gorges Cruise — Understanding the Route](https://images.pexels.com/photos/38099083/pexels-photo-38099083.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Tianzi Mountain Scenery, Zhangjiajie, Hunan](/img/destinations/yangtze-three-gorges-dam-cruise-guide/1.webp)
 
 The classic Three Gorges cruise runs between **Chongqing** (upstream, western end) and **Yichang** (downstream, near the dam). Some cruises continue to **Wuhan** but this section is less interesting scenically.
 
@@ -57,8 +57,6 @@ Visitors can also tour the dam itself at the **Three Gorges Dam Scenic Area** (�
 
 ---
 
-![Yangtze River Three Gorges Cruise — The Lesser Three Gorges (小三峡) — The Highlight of Modern Cruises](https://images.pexels.com/photos/37381166/pexels-photo-37381166.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Lesser Three Gorges (小三峡) — The Highlight of Modern Cruises
 
 The **Daning River Small Gorges** (大宁河小三峡), a tributary entering the Yangtze at Wushan (halfway through the cruise), are considered by most contemporary travellers to be more beautiful than the main gorges.
@@ -70,6 +68,8 @@ This side trip (half day) is consistently the highlight of the cruise for visito
 ---
 
 ## Cruise Ship Classes
+
+![The Bund Scenery](/img/destinations/yangtze-three-gorges-dam-cruise-guide/2.webp)
 
 Three gorges cruises operate across three broad tiers:
 
@@ -95,9 +95,9 @@ Sanctuary Yangtze Explorer (12 cabins, boutique hotel quality) and similar ultra
 
 ---
 
-![Yangtze River Three Gorges Cruise — What the Cruise Actually Looks Like Day by Day](https://images.pexels.com/photos/15241912/pexels-photo-15241912.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## What the Cruise Actually Looks Like Day by Day
+
+![Scenery, Jiuzhaigou, Sichuan](/img/destinations/yangtze-three-gorges-dam-cruise-guide/3.webp)
 
 ### Day 1: Chongqing to Fengdu
 

@@ -12,7 +12,7 @@ tags:
   - culture
   - yangtze
 description: "Nantong is a quietly underrated city in northern Jiangsu — built on the bold vision of Qing Dynasty industrialist Zhang Jian, who transformed a small fishing town into China's first planned modern city. This 2026 guide explores the Haohe River scenic corridor, the textile industry heritage, the Yangtze riverfront, local museums and how to reach Nantong from Shanghai and Suzhou."
-ogImage: "https://images.pexels.com/photos/5926645/pexels-photo-5926645.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/jiangsu-nantong-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -25,7 +25,7 @@ Coming here feels like discovering a secret: a small, self-possessed city with a
 
 ## Top Attractions
 
-![Nantong Jiangsu — Top Attractions](https://images.unsplash.com/photo-1713086158386-a3dccad87df9?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw0fHxuYW50b25nJTIwamlhbmdzdXxlbnwwfDB8fHwxNzgxODU0ODUwfDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
+![Qinhuai River Scenery, Nanjing](/img/destinations/jiangsu-nantong-guide/1.webp)
 
 ### Haohe River Scenic Area (濠河风景区)
 
@@ -87,9 +87,9 @@ Nantong sits at the confluence of the Yangtze and the coast, which gives it acce
 
 **Restaurant areas:** Haohe Park's western bank has a cluster of good traditional restaurants. The **Nantong Food Street (南通小吃街)** near the old city has street food from ¥5–¥20 per item.
 
-![Nantong Jiangsu — Getting to Nantong](https://images.pexels.com/photos/19953865/pexels-photo-19953865.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting to Nantong
+
+![Gudianmingyuanliu Garden Scenery, Suzhou](/img/destinations/jiangsu-nantong-guide/2.webp)
 
 ### From Shanghai
 
@@ -119,9 +119,9 @@ Nantong city centre is compact; the Haohe scenic area and most attractions are w
 
 **Upscale (¥700+ / $98+):** **Wanda Vista Nantong** is the premium business hotel choice.
 
-![Nantong Jiangsu — Best Time to Visit](https://images.pexels.com/photos/29903855/pexels-photo-29903855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Best Time to Visit
+
+![Shi Lake Scenery, Jiangsu, Suzhou](/img/destinations/jiangsu-nantong-guide/3.webp)
 
 **Spring (March–May):** The Haohe riverbanks are beautiful with willow, cherry and plum blossoms. River shrimp season begins.
 

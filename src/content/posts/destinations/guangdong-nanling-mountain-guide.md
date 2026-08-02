@@ -12,14 +12,14 @@ tags:
   - waterfalls
   - summer-escape
 description: "Escape the subtropical furnace of Guangdong's cities and discover Nanling Mountain, the province's highest peak and a remarkable oasis of cool air, pristine waterfalls, and lush forest hiking. This 2026 guide covers the best trails in Nanling National Forest Park, the stunning Qingshui Waterfall cluster, wildlife encounters, mountain accommodation, and practical advice for reaching this underappreciated natural gem on the Guangdong-Hunan border."
-ogImage: "https://images.pexels.com/photos/15949877/pexels-photo-15949877.png?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guangdong-nanling-mountain-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## Guangdong's Cool Secret
 
-![Nanling Mountain Guangdong — Guangdong's Cool Secret](https://images.pexels.com/photos/7623126/pexels-photo-7623126.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Baiyun Mountain Scenery, Guangdong, Guangzhou](/img/destinations/guangdong-nanling-mountain-guide/1.webp)
 
 Guangdong province is not known for mountains. The Pearl River Delta is one of the flattest, hottest, most urbanised stretches of land in China, and when the summer humidity hits 90% and the temperature creeps above 35°C, the idea of finding genuine alpine relief within the province seems fanciful. And yet, in the far north of Guangdong, where the province meets Hunan along the Nanling Mountains (南岭), there's a place where the air is 10 degrees cooler, waterfalls thunder through old-growth forest, and the hiking trails feel like they belong in a different country entirely.
 
@@ -84,9 +84,9 @@ Nanling is one of the best bird-watching sites in southern China, particularly f
 - **Chinese pangolin:** Extremely rare and elusive, but the park is one of their last strongholds in Guangdong
 - **Giant salamander:** Found in the park's streams, though very rarely seen
 
-![Nanling Mountain Guangdong — Accommodation](https://images.pexels.com/photos/31625983/pexels-photo-31625983.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Accommodation
+
+![Qingyuanfeixia Mountain Scenery, Guangdong](/img/destinations/guangdong-nanling-mountain-guide/2.webp)
 
 ### Inside the Park
 
@@ -124,9 +124,9 @@ The food around Nanling reflects the region's Yao minority heritage and mountain
 
 **Mountain Tea (高山茶):** Tea grown at altitude in the Nanling range — light, fragrant, and very reasonably priced compared to famous-name Chinese teas. ¥50-150 ($7-21 USD) per 250g.
 
-![Nanling Mountain Guangdong — Practical Information](https://images.pexels.com/photos/16004928/pexels-photo-16004928.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Practical Information
+
+![Shiwannanfengguzao Scenery, Guangdong, Foshan](/img/destinations/guangdong-nanling-mountain-guide/3.webp)
 
 ### Park Entrance
 

@@ -11,7 +11,7 @@ tags:
   - outdoor
   - toolkit
 description: "Cycling as transport and recreation in China — the Hellobike, Meituan Bike, and DiDi Bike sharing apps (how to register with a foreign phone number), the best cycling cities (Chengdu's bike culture, Shanghai's French Concession cycling, Yangshuo's Yulong River valley), and multi-day cycling routes for adventurous visitors."
-ogImage: "https://images.pexels.com/photos/20776468/pexels-photo-20776468.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-cycling-bike-transport-guide/cover.webp"
 ---
 
 Cycling in China operates on two different scales that don't overlap much. On one end: the ubiquitous dockless bike-share systems covering every city, enabling quick point-to-point rides for ¥1–¥2. On the other: multi-day cycling tours through some of the most dramatic landscapes on the planet — the Tibetan plateau, the Yunnan-Guizhou border, the karst valleys around Yangshuo. Both are genuinely accessible to foreign visitors, though the setup requires a bit of preparation.
@@ -19,6 +19,8 @@ Cycling in China operates on two different scales that don't overlap much. On on
 ## Table of contents
 
 ## Bike-Sharing Apps: The Urban Option
+
+![Jiangnan Water Town Scenery, Suzhou](/img/toolkit/china-cycling-bike-transport-guide/1.webp)
 
 Three main operators dominate Chinese bike-share: **Hellobike (哈啰单车)**, **Meituan Bike (美团单车, formerly Mobike)**, and **DiDi Bike (青桔单车)**. You'll find their bikes — color-coded in yellow, orange/white, and green respectively — in virtually every major and mid-sized Chinese city.
 
@@ -69,6 +71,8 @@ The city-wide bike-share is heavily used here, and the flat terrain makes it acc
 Xi'an's ancient city wall is completely walkable and cyclable. You can rent bikes directly on the wall (a short stretch near the South Gate) and do the full **14 km circuit** of the top of the Ming-dynasty city wall. It takes about 1.5–2 hours by bike. Rental is ¥45 for 100 minutes, tandem bikes available. One of the best ways to understand the scale and layout of the old city.
 
 ## Multi-Day Cycling Routes
+
+![Tongli Old Town Scenery, Jiangsu, Suzhou](/img/toolkit/china-cycling-bike-transport-guide/2.webp)
 
 For serious cyclists, China has extraordinary touring routes:
 

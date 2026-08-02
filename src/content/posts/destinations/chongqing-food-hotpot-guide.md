@@ -11,7 +11,7 @@ tags:
   - culture
   - destinations
 description: "The essential Chongqing food guide for travellers — where to eat the world's most intense hotpot, must-try street snacks, neighbourhood restaurant picks, and how to order when nothing is in English."
-ogImage: "https://images.pexels.com/photos/4087429/pexels-photo-4087429.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/chongqing-food-hotpot-guide/cover.webp"
 ---
 
 Chongqing has one of the most distinctive food cultures in China — and that is a genuinely high bar to clear. The city that gave the world its most celebrated style of hotpot is also the place where street food reaches a level of spice, complexity, and ambition that can stop conversations mid-sentence.
@@ -24,7 +24,7 @@ This guide is for travellers who want to eat in Chongqing the way locals do: at 
 
 ## Why Chongqing Food is Different
 
-![Chongqing Food — Why Chongqing Food is Different](https://images.pexels.com/photos/14785197/pexels-photo-14785197.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Jinyun Mountain Scenery, Chongqing](/img/destinations/chongqing-food-hotpot-guide/1.webp)
 
 Chongqing cuisine is technically part of the broader Sichuan culinary tradition but has evolved separately enough to warrant its own category. The city's signature is **má là (麻辣)** — the combination of numbing Sichuan peppercorn (má, which activates a tingling nerve response rather than a burn) and chilli heat (là). Together, they create a sensation that is intense but curiously addictive: you feel your mouth go slightly numb, then the flavour complexity of whatever you are eating rushes in behind.
 
@@ -109,8 +109,6 @@ Similar to maocai but served cold or at room temperature — raw ingredients ske
 
 ---
 
-![Chongqing Food — Neighbourhood Restaurant Guide](https://images.pexels.com/photos/12735490/pexels-photo-12735490.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Neighbourhood Restaurant Guide
 
 ### Jiefangbei (解放碑) — Central Business District
@@ -140,6 +138,8 @@ The most photographed location in Chongqing — 11-story cliff-side building com
 
 ## How to Order Without Chinese
 
+![Changjiangsanxia Scenery](/img/destinations/chongqing-food-hotpot-guide/2.webp)
+
 A practical guide to menu negotiation:
 
 1. **Look at what the table next to you is eating.** Point at it and say "zhè gè" (这个, "this one"). This works at 90% of Chinese restaurants.
@@ -158,9 +158,9 @@ A practical guide to menu negotiation:
 
 ---
 
-![Chongqing Food — Dietary Considerations](https://images.pexels.com/photos/8965138/pexels-photo-8965138.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Dietary Considerations
+
+![Shanchengcuican Night View, Chongqing](/img/destinations/chongqing-food-hotpot-guide/3.webp)
 
 **Vegetarians:** Chongqing is challenging for strict vegetarians. The hotpot broth base contains beef tallow; even "vegetable" dishes are sometimes cooked in lard. Dedicated vegetarian restaurants (素食馆 sùshí guǎn) exist in the city — search the term in Amap for locations near you.
 

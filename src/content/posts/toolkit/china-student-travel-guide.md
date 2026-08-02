@@ -12,7 +12,7 @@ tags:
   - young-travellers
   - visa
 description: "Travelling China as a student in 2026 means accessing significant discounts on attractions, transport, and accommodation — if you know how to claim them. This guide covers student visas, ISIC card usage, the best cities for student travellers, budget strategies, and how to stretch a tight budget to cover China's best experiences."
-ogImage: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&q=85"
+ogImage: "/img/toolkit/china-student-travel-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -24,6 +24,8 @@ The country also has a genuine culture of student discounts. A valid student ID 
 ---
 
 ## Student Visas and Entry
+
+![Wanli Great Wall Scenery](/img/toolkit/china-student-travel-guide/1.webp)
 
 ### Tourist Visa (L Visa) for Short Visits
 
@@ -174,6 +176,8 @@ China has a well-developed hostel network — both international brand hostels (
 ---
 
 ## University Campus Access
+
+![Forbidden City Scenery, Beijing](/img/toolkit/china-student-travel-guide/2.webp)
 
 Chinese university campuses are generally open to the public (unlike many Western universities). This provides:
 - **Campus canteens**: Often the cheapest, freshest food in the city

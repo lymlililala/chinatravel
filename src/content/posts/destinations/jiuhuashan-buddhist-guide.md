@@ -12,7 +12,7 @@ tags:
   - hiking
   - east-china
 description: "Jiuhuashan (九华山) in Anhui — one of the four sacred Buddhist mountains of China, dedicated to the Bodhisattva Dizang (地藏). The multi-tiered temples on a dramatic mountain landscape, the cable car to the top, staying overnight to watch dawn over the Buddhist community, and how to combine it with Yellow Mountain (Huangshan) in the same trip."
-ogImage: "https://images.pexels.com/photos/34216866/pexels-photo-34216866.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/jiuhuashan-buddhist-guide/cover.webp"
 ---
 
 Jiuhuashan — literally "Nine Glorious Mountains" — is one of China's four sacred Buddhist mountains, the others being Wutai, Emei, and Putuo. Each mountain is associated with a Bodhisattva: Jiuhuashan is dedicated to Dizang (地藏菩萨, Ksitigarbha in Sanskrit), the Bodhisattva of the underworld who vowed to remain in the realms of suffering until all beings are liberated.
@@ -23,7 +23,7 @@ The mountain sits in the southern part of Anhui province, about 60km from Huangs
 
 ## The Mountain and Its Scale
 
-![Jiuhuashan — The Mountain and Its Scale](https://images.pexels.com/photos/31582900/pexels-photo-31582900.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Chuzhoulangya Mountain Scenery](/img/destinations/jiuhuashan-buddhist-guide/1.webp)
 
 Jiuhuashan rises to 1,342 metres at its highest point (Tiantai Peak, 天台峰). The mountain is dramatic — steep forested ridges with temples clinging to cliff faces and mist frequently rolling through the valleys below.
 
@@ -58,9 +58,9 @@ Two cable car systems serve the upper mountain:
 
 Both are standard gondola-style cable cars with good views. On busy days (weekends, public holidays), queues of 30–60 minutes are normal. Arrive early.
 
-![Jiuhuashan — Hiking Jiuhuashan](https://images.pexels.com/photos/28987502/pexels-photo-28987502.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Hiking Jiuhuashan
+
+![Tianzhu Mountain Scenery, Anhui](/img/destinations/jiuhuashan-buddhist-guide/2.webp)
 
 The traditional pilgrimage route follows stone steps up the mountain, passing through multiple temple complexes. The **Central Trail** from the base to Tiantai Peak is about 8–10km and takes 4–6 hours ascending. This is physically demanding but gives you a much deeper feel for the mountain than the cable cars.
 
@@ -96,9 +96,9 @@ Jiuhuashan and Huangshan are about 60km apart and are the natural pairing for an
 
 **Transport connection:** Buses run between Jiuhuashan and Tangkou (Huangshan entry town), about 1.5–2 hours. Or go via Chizhou city (the nearest large town to Jiuhuashan) and then train.
 
-![Jiuhuashan — Getting to Jiuhuashan](https://images.pexels.com/photos/5916301/pexels-photo-5916301.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting to Jiuhuashan
+
+![Huangdi Ancient Village Luo Landscape, Shanxi, Anhui](/img/destinations/jiuhuashan-buddhist-guide/3.webp)
 
 The nearest railway station is **Chizhou Station (池州站)** on the Hefei-Hangzhou high-speed line.
 

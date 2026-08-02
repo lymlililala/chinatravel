@@ -12,7 +12,7 @@ tags:
   - macau
   - pearl-river-delta
 description: "Zhuhai is the Pearl River Delta's most liveable city — a coastal resort town bordering Macau with a famous seaside promenade, offshore islands, the new Hengqin free trade zone and some of the cleanest air in Guangdong. This 2026 guide covers all major attractions, the Macau border crossing, Hengqin Island development, transport from Guangzhou and Shenzhen, accommodation and practical tips."
-ogImage: "https://images.pexels.com/photos/31395169/pexels-photo-31395169.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guangdong-zhuhai-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -23,7 +23,7 @@ The city was designated one of China's original Special Economic Zones in 1979 a
 
 ## Top Attractions
 
-![Zhuhai Guangdong — Top Attractions](https://images.pexels.com/photos/20599712/pexels-photo-20599712.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Liannandixia River Scenery, Guangdong](/img/destinations/guangdong-zhuhai-guide/1.webp)
 
 ### Lover's Road (情侣路)
 
@@ -87,8 +87,6 @@ Zhuhai has a large number of offshore islands, several of which are accessible f
 
 **Overnight Island Stays:** Basic guesthouses on the main islands charge ¥200–¥450/night ($28–$63). Book ahead for summer weekends.
 
-![Zhuhai Guangdong — Zhuhai Food](https://images.pexels.com/photos/8630187/pexels-photo-8630187.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Zhuhai Food
 
 Zhuhai's food reflects its position at the intersection of Cantonese and seafood traditions. The city is famous for the freshness of its seafood, available from the Pearl River estuary and the adjacent South China Sea.
@@ -100,6 +98,8 @@ Zhuhai's food reflects its position at the intersection of Cantonese and seafood
 - **Dim sum:** The usual excellent Cantonese morning tea; the markets near Gongbei are good for dim sum restaurants
 
 ## Getting to Zhuhai
+
+![Taishanshangchuan Island Scenery, Guangdong](/img/destinations/guangdong-zhuhai-guide/2.webp)
 
 ### From Guangzhou
 
@@ -129,8 +129,6 @@ Zhuhai's food reflects its position at the intersection of Cantonese and seafood
 
 **Island eco-resorts:** Several boutique eco-resort options on Wailingding and Donao islands provide a unique experience at ¥500–¥1,200/night ($70–$168).
 
-![Zhuhai Guangdong — Best Time to Visit](https://images.pexels.com/photos/29903855/pexels-photo-29903855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Best Time to Visit
 
 **October–April:** The best season. Comfortable temperatures (15–25°C), lower humidity and very few typhoon risks. Air quality is best in winter and early spring.
@@ -140,6 +138,8 @@ Zhuhai's food reflects its position at the intersection of Cantonese and seafood
 **June–September:** Peak summer heat (32–37°C) and high humidity; typhoon risk July–September. Island ferries can be cancelled with little notice. Still popular domestically, especially for beach tourism.
 
 ## Practical Tips
+
+![Taishannaqinban Island Scenery, Guangdong](/img/destinations/guangdong-zhuhai-guide/3.webp)
 
 - **Border crossing queues:** The Gongbei Port to Macau crossing can have very long queues on weekends, public holidays and Chinese school holidays. Crossing mid-week or early morning/late evening significantly reduces wait times.
 - **WeChat Pay and Alipay:** Standard across Zhuhai. Macau-side requires HK dollars, Macau Pataca or the Macau-specific payment apps.

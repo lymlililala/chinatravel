@@ -1,7 +1,7 @@
 ---
 title: "Fuxian Lake Guide: China's Deepest Freshwater Lake in Yunnan"
 description: "Guide to visiting Fuxian Lake (抚仙湖) near Yuxi in Yunnan Province — China's deepest freshwater lake and one of its cleanest. Beaches, cycling, fishing villages, the submerged ruins mystery and how to get there from Kunming."
-ogImage: "https://images.pexels.com/photos/28700384/pexels-photo-28700384.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/kunming-yuxi-fuxian-lake-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Fuxian Lake", "Yunnan", "Yuxi", "China lakes", "清澈湖泊", "Kunming day trip", "China nature travel"]
@@ -9,9 +9,9 @@ tags: ["Fuxian Lake", "Yunnan", "Yuxi", "China lakes", "清澈湖泊", "Kunming 
 
 Fuxian Lake (抚仙湖) in Yuxi Prefecture, 60 km southeast of Kunming, holds a distinction that surprises most visitors: it is the deepest freshwater lake in China, reaching 157.8 meters at its deepest point, and its water transparency exceeds 12 meters — you can see the bottom in many sections visible even from a low-altitude aerial view. In a country where most major lakes suffer from eutrophication and pollution, Fuxian's near-crystalline water is extraordinary.
 
-![Fuxian Lake — Why Fuxian Lake is Special](https://images.pexels.com/photos/13092792/pexels-photo-13092792.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Why Fuxian Lake is Special
+
+![Erhai Lake Sunrise Scenery, Dali](/img/destinations/kunming-yuxi-fuxian-lake-guide/1.webp)
 
 The lake covers 212 km² and holds 20 billion cubic meters of water — more than all the surface freshwater in Yunnan's other lakes combined. Its water changes at an extremely slow rate (the residence time is over 200 years), meaning any pollution introduced accumulates; local governments have taken this seriously, displacing most lakeside agriculture, restricting development and banning certain motorized boats.
 
@@ -29,8 +29,6 @@ Fuxian's shoreline includes several gentle sandy beaches on the eastern (less de
 
 **Best months for swimming**: May–September. Water temperature at the surface reaches 22–25°C in summer; the deep water stays cold year-round.
 
-![Fuxian Lake — Cycling the Lake](https://images.pexels.com/photos/36410522/pexels-photo-36410522.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Cycling the Lake
 
 The **40 km lake circuit road** is one of Yunnan's best cycling routes — relatively flat on the eastern side, with some hills on the western approach. The road runs close to the lake shore through fishing villages, orchards, fields of purple globe artichokes (a Yunnan specialty) and small rural settlements.
@@ -41,6 +39,8 @@ The **40 km lake circuit road** is one of Yunnan's best cycling routes — relat
 
 ## The Underwater Ruins Mystery
 
+![Lugu Lake Natural Landscape](/img/destinations/kunming-yuxi-fuxian-lake-guide/2.webp)
+
 In 2001, divers investigating the lake discovered extensive submerged architectural ruins at depths of 5–20 meters — stone platforms, carved steps, walls and what appear to be large buildings covering approximately 2.4 km². The structures have been estimated by archaeologists at 1,750–2,500 years old.
 
 The origin of the ruins is debated. The most widely accepted theory connects them to the ancient **Dian Kingdom (滇国)**, a Bronze Age state that flourished in the region before incorporation into the Han Chinese empire. The Dian people left some of the most spectacular bronze artifacts ever found in China (now in the Yunnan Provincial Museum in Kunming), and an underwater city would be consistent with their documented presence in the Fuxian area.
@@ -49,9 +49,9 @@ The mystery element: what caused such extensive stone structures to end up under
 
 **Visiting the ruins**: Diving tours to view the ruins operate from Chengjiang and Jiangcheng. Certified divers can arrange guided dives through local operators; non-divers can view photos and video at the Fuxian Lake Visitor Center.
 
-![Fuxian Lake — Fishing Village Life](https://images.pexels.com/photos/14615216/pexels-photo-14615216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Fishing Village Life
+
+![Lugu Lake Zouhunqiao Natural Renwenjingguan, Yunnan](/img/destinations/kunming-yuxi-fuxian-lake-guide/3.webp)
 
 Several small fishing villages on the eastern shore have maintained traditional net-fishing practices. The **Guanyin Rock Village (观音岩)** area has retained its stone-built whitewashed houses and small harbor. Boats still go out before dawn and return by mid-morning; the catch is sold directly on the pier.
 

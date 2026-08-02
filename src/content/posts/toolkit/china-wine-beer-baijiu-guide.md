@@ -1,6 +1,7 @@
 ---
 title: "China Drinks Guide: Baijiu, Beer, Tea, and What to Order Everywhere"
 description: "Navigate China's drinking culture — from the fiery baijiu that seals business deals to the regional craft beers, the terroir-driven Chinese wines of Ningxia and Xinjiang, when to accept toasts, how to decline politely, and the complete guide to Chinese tea ordering for travellers who don't read Chinese."
+ogImage: "/img/toolkit/china-wine-beer-baijiu-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "baijiu", "beer", "chinese-wine", "tea", "drinking-culture", "toast", "maotai", "local-drinks"]
@@ -15,6 +16,8 @@ This guide covers the practicalities.
 ---
 
 ## Baijiu (白酒): China's National Spirit
+
+![Zhuozheng Garden, Suzhou](/img/toolkit/china-wine-beer-baijiu-guide/1.webp)
 
 **Baijiu** is the world's most consumed spirit by volume — over 10 billion litres sold annually in China — and almost entirely unknown outside Asia. It is a **distilled grain spirit** with alcohol content typically between 40% and 65%.
 
@@ -50,6 +53,8 @@ This guide covers the practicalities.
 ---
 
 ## Chinese Wine (中国葡萄酒)
+
+![Canglangting, Suzhou](/img/toolkit/china-wine-beer-baijiu-guide/2.webp)
 
 Chinese wine has improved dramatically since 2010. The key regions:
 

@@ -12,14 +12,14 @@ tags:
   - archaeology
   - sichuan
 description: "Sanxingdui Museum houses one of the most extraordinary archaeological discoveries in history — a sophisticated Bronze Age civilisation in Sichuan entirely outside known Chinese historical records. This 2026 guide covers the new museum building, the mind-bending bronze collection, how to get there from Chengdu, ticket prices, and why this site is unmissable for visitors to China."
-ogImage: "https://images.pexels.com/photos/12321159/pexels-photo-12321159.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/chengdu-sanxingdui-museum-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## The Discovery That Rewrote Bronze Age History
 
-![Sanxingdui Museum Chengdu — The Discovery That Rewrote Bronze Age History](https://images.pexels.com/photos/16499653/pexels-photo-16499653.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Tianfuguosheyinger, Sichuan, Chengdu](/img/destinations/chengdu-sanxingdui-museum-guide/1.webp)
 
 In 1986, workers at a brick factory in Guanghan, Sichuan Province, struck something unexpected in the earth. What they found over the following weeks transformed the understanding of ancient Chinese civilisation: two sacrificial pits containing thousands of bronze, jade, gold, and ivory objects unlike anything ever seen before in China.
 
@@ -43,8 +43,6 @@ The original building houses the foundational collection that established Sanxin
 
 Plan a minimum of 3–4 hours for a thorough visit to both buildings. Rushing through Sanxingdui means missing the layers of detail and context that make the collection extraordinary.
 
-![Sanxingdui Museum Chengdu — Getting to Sanxingdui from Chengdu](https://images.pexels.com/photos/2299949/pexels-photo-2299949.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting to Sanxingdui from Chengdu
 
 ### By Intercity Train
@@ -58,6 +56,8 @@ About 50–60 minutes depending on traffic, costing ¥120–180. Convenient for 
 
 ## Admission Prices and Booking (2026)
 
+![Lugu Lake Ligeban Island Scenery, Sichuan](/img/destinations/chengdu-sanxingdui-museum-guide/2.webp)
+
 Standard adult ticket: ¥80. Students with valid ID: ¥40. Children under 1.2m: free.
 
 Tickets must be booked in advance through the official Sanxingdui Museum WeChat mini-program or official website. Walk-in tickets are often unavailable, particularly on weekends and during national holidays. Booking opens 7 days in advance with timed entry slots assigned to manage visitor numbers.
@@ -65,8 +65,6 @@ Tickets must be booked in advance through the official Sanxingdui Museum WeChat 
 Opening hours: 9:00 AM to 6:00 PM, Tuesday through Sunday. Closed Mondays. Last entry at 5:00 PM.
 
 Audio guide rental is available in English and multiple languages at the entrance for a ¥30 deposit plus ¥20 rental fee. The audio guide significantly enhances the visit and is strongly recommended.
-
-![Sanxingdui Museum Chengdu — Highlights You Must Not Miss](https://images.pexels.com/photos/7437729/pexels-photo-7437729.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Highlights You Must Not Miss
 
@@ -86,6 +84,8 @@ A gold staff 1.4 metres long and weighing nearly 500g decorated with carved fish
 The most recently opened galleries display objects from new pits excavated starting in 2020. These include a bronze altar, additional bronze figures, and pieces of bronze tree with remarkable detail. Some items are still being conserved and the interpretive work continues — visiting these galleries means seeing archaeology still actively unfolding.
 
 ## The Ongoing Mystery: What Scholars Know and Don't Know
+
+![Shunanzhuhai Landscape](/img/destinations/chengdu-sanxingdui-museum-guide/3.webp)
 
 Part of what makes Sanxingdui fascinating is how much remains unknown. The culture occupied the Chengdu Plain from roughly 2800 to 1100 BCE. It was sophisticated, with bronze-casting technology among the most advanced of its time. The people traded with distant cultures — cowrie shells from coastal regions, bronze raw materials from elsewhere. They built large earthen walls and had sophisticated religious practices involving fire-based rituals.
 

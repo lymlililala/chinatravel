@@ -13,7 +13,7 @@ tags:
   - ceramics
   - culture
 description: "Foshan and its Shunde district form the undisputed capital of Cantonese cuisine — the originating source of dishes eaten across the Cantonese diaspora worldwide. But Foshan is also the home of dragon boat culture, Lingnan architecture, the magnificent Ancestral Temple, and the Shiwan ceramics tradition. This 2026 guide covers food temples, cultural sites, how to get there from Guangzhou and Hong Kong, and where to stay."
-ogImage: "https://images.pexels.com/photos/14230261/pexels-photo-14230261.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guangdong-foshan-shunde-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -24,7 +24,7 @@ A food-focused visit to Foshan and Shunde is genuinely one of the best single-pu
 
 ## Foshan City Highlights
 
-![Foshan & Shunde Guangdong — Foshan City Highlights](https://images.pexels.com/photos/29136533/pexels-photo-29136533.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Zu Temple Scenery, Foshan](/img/destinations/guangdong-foshan-shunde-guide/1.webp)
 
 ### Ancestral Temple (祖庙)
 
@@ -83,9 +83,9 @@ The martial arts legend Ip Man (叶问, 1893–1972) was born in Foshan and lear
 
 **Wing Chun Academies:** Several academies in Foshan offer short-term experience classes in Wing Chun; from ¥100–¥200 for a 2-hour introductory session.
 
-![Foshan & Shunde Guangdong — Getting to Foshan and Shunde](https://images.pexels.com/photos/19900074/pexels-photo-19900074.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting to Foshan and Shunde
+
+![Luofeng Temple Scenery, Guangdong, Guangzhou](/img/destinations/guangdong-foshan-shunde-guide/2.webp)
 
 ### From Guangzhou
 
@@ -119,9 +119,9 @@ For Shunde specifically, train from Guangzhou South to Shunde (顺德站) approx
 **In Shunde:**
 **Mid-range (¥200–¥380 / $28–$53):** Several hotels in Daliang town; the **Shunde Kempinski Hotel** is the premium option.
 
-![Foshan & Shunde Guangdong — Best Time to Visit](https://images.pexels.com/photos/8573370/pexels-photo-8573370.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Best Time to Visit
+
+![Liurong Temple Scenery, Guangdong, Guangzhou](/img/destinations/guangdong-foshan-shunde-guide/3.webp)
 
 **Year-round** — Foshan and Shunde are accessible throughout the year, with no extreme seasonality. The most comfortable months are October–April (avoiding summer heat and humidity). The Lunar New Year period (January–February) brings significant food festival activity and dragon boat events.
 

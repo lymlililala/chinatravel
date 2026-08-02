@@ -1,6 +1,7 @@
 ---
 title: "Getting from Shanghai Airport to City Center: Maglev, Metro & All Options (2026)"
 description: "Complete transport guide from Shanghai Pudong Airport (PVG) and Hongqiao Airport (SHA) to the city center. Includes maglev, metro Line 2, taxi, shuttle bus routes and fare comparison."
+ogImage: "/img/toolkit/shanghai-airport-city-transport-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Shanghai airport transport", "Pudong Airport", "Hongqiao Airport", "maglev Shanghai", "getting to Shanghai", "airport guide Shanghai"]
@@ -9,6 +10,8 @@ tags: ["Shanghai airport transport", "Pudong Airport", "Hongqiao Airport", "magl
 Shanghai has two airports: Pudong (PVG) for most international and some domestic flights, and Hongqiao (SHA) primarily for domestic routes and short-haul regional flights. The two are on opposite sides of the city and require completely different transport strategies. Getting this right before you land saves significant time and frustration.
 
 ## Shanghai Pudong Airport (PVG) → City Center
+
+![Shiji Park, Shanghai](/img/toolkit/shanghai-airport-city-transport-guide/1.webp)
 
 ### Option 1: Maglev Train (World's Fastest Commercial Train)
 
@@ -107,6 +110,8 @@ Journey time to Jing'an/Bund area: 25–45 minutes depending on traffic. Cost: �
 ---
 
 ## Direct Connection: Pudong ↔ Hongqiao
+
+![Yuyuanchenghuang Temple, Shanghai](/img/toolkit/shanghai-airport-city-transport-guide/2.webp)
 
 If you're arriving at Pudong and need to catch a flight or high-speed train from Hongqiao (or vice versa), the direct route is:
 

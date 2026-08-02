@@ -10,14 +10,14 @@ tags:
   - china little mecca
   - hui muslim culture
 description: "Explore Linxia, Gansu Province's remarkable Hui Muslim cultural centre known as China's 'Little Mecca.' This guide covers the stunning Bafang Mosque complex, traditional brick carving artistry, Halal food scene, the Linxia Museum of Hui culture, and practical tips for visiting this under-the-radar destination along the ancient Silk Road corridor."
-ogImage: "https://images.unsplash.com/photo-1564769625905-133e4e4a6810?w=1200&q=85"
+ogImage: "/img/destinations/gansu-linxia-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## Why Linxia Surprises Every Visitor
 
-![Linxia Gansu — Why Linxia Surprises Every Visitor](https://images.pexels.com/photos/11022633/pexels-photo-11022633.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Singing Sand Dunes, Gansu, Dunhuang](/img/destinations/gansu-linxia-guide/1.webp)
 
 Linxia (临夏) does not show up on most China travel itineraries, and that is precisely what makes it worth visiting. Tucked into a river valley along the ancient Silk Road's southern branch in Gansu Province, this mid-sized city of around 400,000 is the cultural and spiritual heart of China's Hui Muslim community. The call to prayer echoes across neighbourhoods where Arabic script adorns shopfronts alongside Chinese characters. Men in white skullcaps gather at tea houses after Friday prayers. The smell of cumin-dusted lamb and freshly baked flatbread drifts from countless small kitchens.
 
@@ -57,8 +57,6 @@ Linxia's mosque landscape is staggeringly diverse. Within walking distance of Ba
 
 Set aside half a day to wander between these mosques. The walk itself — through narrow lanes lined with halal butchers, spice shops, and tea houses — is as rewarding as the destinations.
 
-![Linxia Gansu — The Art of Linxia Brick Carving](https://images.pexels.com/photos/35133297/pexels-photo-35133297.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Art of Linxia Brick Carving
 
 ### A Living Tradition
@@ -79,6 +77,8 @@ Do not miss the section on the **Jahriyya and Khufiyya** Sufi orders, which have
 
 ## Food: The Halal Capital of Northwest China
 
+![Maijishan Grottoes, Gansu](/img/destinations/gansu-linxia-guide/2.webp)
+
 Linxia's food scene alone justifies the trip. As a Hui city operating under halal dietary laws, pork is absent from all menus. In its place, you will find some of the finest lamb, beef, and wheat-based dishes in China.
 
 ### Must-Try Dishes
@@ -96,8 +96,6 @@ Linxia's food scene alone justifies the trip. As a Hui city operating under hala
 - **Ma Zhanlin Hand-Grabbed Lamb** (马占林手抓羊肉): The most famous lamb restaurant in town. Arrive before noon or expect to wait. ¥80–120 per person.
 - **Morning market along Tuanjie Road**: The best place for breakfast. Try the beef noodle soup at any stall with a long queue — the locals know.
 
-![Linxia Gansu — Day Trips from Linxia](https://images.pexels.com/photos/6872842/pexels-photo-6872842.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day Trips from Linxia
 
 ### Bingling Temple Grottoes
@@ -111,6 +109,8 @@ To reach Bingling Temple, take a bus from Linxia to Liujiaxia (¥20, 1.5 hours),
 About 50 km south of Linxia, **Songmingyan** (松鸣岩) offers alpine meadows, forest trails, and a modest ski area in winter. The summer hiking trails wind through pine forests to viewpoints at 2,700 metres. Entry is ¥60. A good option if you need a nature break from the city's intensity.
 
 ## Where to Stay
+
+![Danxia Landform Dimao Natural Scenery, Gansu, Zhangye](/img/destinations/gansu-linxia-guide/3.webp)
 
 - **Linxia Hotel** (临夏饭店): The city's most established hotel, within walking distance of Bafang Mosque. Clean rooms, reliable hot water. ¥200–350/night.
 - **Bafang Guesthouse** (八坊客栈): A charming small hotel in a renovated courtyard building in the old Muslim quarter. Atmospheric but basic. ¥120–200/night.

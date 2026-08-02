@@ -12,7 +12,7 @@ tags:
   - toolkit
   - driving
 description: "Motorcycle travel in China — the iconic Sichuan-Tibet Highway (G318) from Chengdu to Lhasa (14-20 days, the most epic road trip in Asia), renting a motorcycle in China as a foreigner (complex but possible), the Yunnan loop (7-10 days, more manageable), permit requirements for Tibet on a motorbike, and the online communities of foreign riders in China."
-ogImage: "https://images.pexels.com/photos/32964777/pexels-photo-32964777.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-motorcycle-trip-guide/cover.webp"
 ---
 
 The Sichuan-Tibet Highway (G318) is widely considered the greatest road trip in Asia, possibly in the world. From Chengdu at 500m to Lhasa at 3,650m, crossing 14 passes above 4,000m over 2,142km, the highway traverses landscapes that change from subtropical river valleys through Tibetan plateau to high-altitude desert. Thousands of Chinese riders and a growing number of foreigners attempt it each year.
@@ -22,6 +22,8 @@ Here's the practical guide to motorcycle travel in China — what's actually pos
 ## Table of contents
 
 ## The Sichuan-Tibet Highway (G318): Overview
+
+![Erhai Lake Scenery, Yunnan, Dali](/img/toolkit/china-motorcycle-trip-guide/1.webp)
 
 The G318 National Highway from Shanghai to the Nepal border covers 5,476km total, but the section everyone means when they say "the G318" is the Chengdu-to-Lhasa section: approximately 2,142km by the southern route (via Kangding, Litang, Markam, Bomi, Nyingchi to Lhasa).
 
@@ -81,6 +83,8 @@ Add Xishuangbanna (the tropical Mekong border area) from Kunming → Jinhong →
 **Best time:** October-April (Yunnan's dry season). May-September brings significant rain, particularly in July-August.
 
 ## Essential Preparation for the G318
+
+![Terracotta Army](/img/toolkit/china-motorcycle-trip-guide/2.webp)
 
 **Physical preparation:** The high-altitude sections (Litang at 4,014m, most passes at 4,500-5,000m) hit many riders harder than expected. Spend 2-3 days in Kangding or Litang before pushing higher.
 

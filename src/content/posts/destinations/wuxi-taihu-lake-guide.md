@@ -20,7 +20,7 @@ tags:
   - east-china
   - nature
 description: "Wuxi on the shores of Lake Tai (Taihu) in Jiangsu — the Turtle Head Isle (鿌头渚) and its cherry blossoms, a cruise on Lake Tai, the classic Jiangnan scenery of the Li Garden, and Wuxi's role in China's tech manufacturing economy (the city locals call the Silicon Valley of China). Getting there from Shanghai or Nanjing."
-ogImage: "https://images.pexels.com/photos/35342644/pexels-photo-35342644.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/wuxi-taihu-lake-guide/cover.webp"
 ---
 
 Wuxi sits at the northern edge of Lake Tai (Taihu), China's third-largest freshwater lake, roughly halfway between Shanghai and Nanjing. It's a city of 6.5 million people that most international tourists skip entirely — which is exactly why it's worth visiting. The scenery along the lake shore is classic Jiangnan: water, willow trees, pavilions, and boats. And unlike Suzhou or Hangzhou, the tourist crowds here are primarily Chinese, which makes for a more authentic experience.
@@ -29,7 +29,7 @@ Wuxi sits at the northern edge of Lake Tai (Taihu), China's third-largest freshw
 
 ## Turtle Head Isle (鿌头渚)
 
-![Wuxi & Lake Tai (Taihu) — Turtle Head Isle (鿌头渚)](https://images.pexels.com/photos/8569353/pexels-photo-8569353.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Taihuxizhao Scenery, Jiangsu](/img/destinations/wuxi-taihu-lake-guide/1.webp)
 
 Turtle Head Isle is a peninsula jutting into Lake Tai that looks vaguely like a turtle's head from above. The whole area is landscaped parkland, and it's genuinely beautiful — especially in late March and early April when the cherry blossoms are in bloom.
 
@@ -61,8 +61,6 @@ Less visited than Li Garden but historically more significant, Jichang Garden in
 
 The garden is compact — maybe 20 minutes to walk through — but the arrangement of rocks, pools, and borrowed scenery (using Huishan Mountain as a backdrop) is masterful. Combined with the nearby **Huishan Ancient Town** (free entry, Ming and Qing dynasty buildings), this makes a good half-day.
 
-![Wuxi & Lake Tai (Taihu) — Lake Tai Cruise](https://images.pexels.com/photos/10888548/pexels-photo-10888548.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Lake Tai Cruise
 
 The most relaxing way to see Taihu is from the water. Several operators run cruises from the docks near Turtle Head Isle.
@@ -74,6 +72,8 @@ The most relaxing way to see Taihu is from the water. Several operators run crui
 Book at the dock — there are multiple operators and prices are negotiable outside peak season. The lake is genuinely large (2,250 sq km), and on clear days you can't see the far shore.
 
 ## The Lingshan Grand Buddha (灵山大佛)
+
+![Shi Lake Scenery, Jiangsu, Suzhou](/img/destinations/wuxi-taihu-lake-guide/2.webp)
 
 About 45 minutes from central Wuxi, the Lingshan Grand Buddha is an 88-metre bronze standing Buddha completed in 1997 — larger than the Statue of Liberty. It's impressive purely for scale, and the surrounding Brahma Palace complex includes a fascinating (if slightly theme-park-ish) recreation of Buddhist cosmology.
 
@@ -89,8 +89,6 @@ Wuxi is home to a significant cluster of semiconductor and technology manufactur
 
 The **Taihu International Science and Education City** in the southern suburbs has attracted international companies and the city has a surprisingly cosmopolitan restaurant scene as a result — good Vietnamese, Japanese, and Korean restaurants around the Zhongshan Road area.
 
-![Wuxi & Lake Tai (Taihu) — Where to Eat in Wuxi](https://images.pexels.com/photos/37521622/pexels-photo-37521622.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Where to Eat in Wuxi
 
 Wuxi cuisine is a sub-style of Jiangnan cooking, known for being sweeter than average. The signature dish is **Wuxi spare ribs (无锡排骨)** — braised pork ribs in a sauce that's sweet, sticky, and intensely flavoured. You'll find them everywhere.
@@ -101,6 +99,8 @@ Wuxi cuisine is a sub-style of Jiangnan cooking, known for being sweeter than av
 - **Hui Shan Shopping District:** Good for local snacks — sugar-fried taro, clay figurines (a local souvenir), and Wuxi-style soup dumplings.
 
 ## Getting to Wuxi
+
+![Mochou Lake Scenery, Nanjing](/img/destinations/wuxi-taihu-lake-guide/3.webp)
 
 **From Shanghai:** High-speed train from Shanghai Hongqiao, 30–40 minutes, ¥60–90. Trains run approximately every 30 minutes throughout the day.
 

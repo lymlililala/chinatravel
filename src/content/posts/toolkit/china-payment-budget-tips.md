@@ -10,7 +10,7 @@ tags:
   - budget
   - toolkit
 description: "Real, up-to-date daily budget figures for China travel in 2025 — from budget backpacker to mid-range comfort — plus the hidden costs most guides overlook and practical ways to keep spending under control."
-ogImage: "https://images.pexels.com/photos/16600134/pexels-photo-16600134.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-payment-budget-tips/cover.webp"
 ---
 
 China can be remarkably affordable or surprisingly expensive depending on how you travel. The gap between a shoestring backpacker and a comfort-focused independent traveller is enormous, but both can do it for less than comparable trips in Western Europe or Japan. This guide gives you real numbers and practical strategies.
@@ -18,6 +18,8 @@ China can be remarkably affordable or surprisingly expensive depending on how yo
 ## Table of contents
 
 ## The Three Budget Tiers
+
+![The Bund Scenery](/img/toolkit/china-payment-budget-tips/1.webp)
 
 ### Budget: ¥200–¥350 per day (~USD 28–50)
 
@@ -91,6 +93,8 @@ Domestic flights are cheap by global standards (budget ¥300–¥800 one-way for
 ---
 
 ## Where to Save Money in China
+
+![Scenery, Jiuzhaigou, Sichuan](/img/toolkit/china-payment-budget-tips/2.webp)
 
 ### Eat where the locals eat
 

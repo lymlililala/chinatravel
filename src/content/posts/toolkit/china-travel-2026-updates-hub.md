@@ -12,6 +12,7 @@ tags:
   - "2026"
   - itinerary
 description: "Your 2026 China travel hub — the latest visa-free policy updates, the full public-holiday and festival calendar (Spring Festival, Golden Week, cherry blossom season), and the practical changes every international traveller should know before booking."
+ogImage: "/img/toolkit/china-travel-2026-updates-hub/cover.webp"
 faq:
   - question: "What's new for travelling to China in 2026?"
     answer: "The headline change is the continued expansion of visa-free entry: many nationalities can now visit for up to 30 days without a visa, and the transit visa-free scheme has been extended to 240 hours (10 days) at eligible ports. Mobile payment for foreigners (linking Visa/Mastercard to Alipay and WeChat Pay) is also far smoother than a couple of years ago."
@@ -30,6 +31,8 @@ China changes fast — visa rules, holiday dates, and the practicalities of trav
 ## Table of contents
 
 ## Visa & entry: what changed for 2026
+
+![Gudianmingyuanliu Garden Scenery, Suzhou](/img/toolkit/china-travel-2026-updates-hub/1.webp)
 
 China has spent the last two years dramatically opening up to international visitors, and 2026 continues that trend.
 
@@ -55,6 +58,8 @@ China's two week-long national holidays cause the biggest travel surges of the y
 **Read next:** [Spring Festival Travel Guide](/posts/toolkit/china-spring-festival-how-to-guide/) · [October Golden Week Guide](/posts/toolkit/china-golden-week-october-survival-guide/)
 
 ## Best time to visit in 2026
+
+![Zhuozheng Garden, Suzhou](/img/toolkit/china-travel-2026-updates-hub/2.webp)
 
 - **Spring (Mar–May):** Mild weather, cherry blossoms mid-March to early April. The classic season.
 - **Autumn (Sep–Oct):** Clear skies and comfortable temperatures — arguably the best overall, outside Golden Week.

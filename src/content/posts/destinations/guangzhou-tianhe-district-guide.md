@@ -1,7 +1,7 @@
 ---
 title: "Guangzhou Tianhe District Guide: Modern Canton's Commercial Heart"
 description: "Explore Guangzhou's Tianhe district — China's third-tallest skyline, the best shopping malls, Cantonese restaurants, and how this modern neighborhood connects to old Guangzhou. Complete guide for 2026."
-ogImage: "https://images.pexels.com/photos/30304264/pexels-photo-30304264.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guangzhou-tianhe-district-guide/cover.webp"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/guangzhou-tianhe.jpg"
 category: "destinations"
@@ -17,9 +17,9 @@ But Tianhe is also where Guangzhou's famous Cantonese culture asserts itself mos
 
 Understanding Tianhe means understanding the apparent contradiction of Guangzhou: thoroughly modern and thoroughly traditional, simultaneously.
 
-![Guangzhou Tianhe District — The CBD and Financial District](https://images.pexels.com/photos/16097951/pexels-photo-16097951.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The CBD and Financial District
+
+![Baomo Garden, Guangdong, Guangzhou](/img/destinations/guangzhou-tianhe-district-guide/1.webp)
 
 **Zhujiang New Town (珠江新城)** is the planned CBD at Tianhe's southern edge, where Guangzhou concentrated its most ambitious architecture. The planning is rational — wide boulevards, underground retail connections, and consistent setback requirements give the area an un-Chinese orderliness that reflects the deliberate design choices.
 
@@ -36,8 +36,6 @@ Understanding Tianhe means understanding the apparent contradiction of Guangzhou
 Visitor access: Tickets for the observation floor (¥150-200) include the sky walk on the outer rim (not for heights-averse visitors). The bubble tram around the upper exterior is a popular but slightly terrifying experience.
 
 **The Pearl River Promenade**: The riverfront between Canton Tower and Guangzhou's Haizhu Bridge has been developed as a continuous waterfront path, with weekend cyclists, roller skaters, couples, and families creating a lively scene. The views back across the river to Zhujiang New Town's skyline are some of Guangzhou's most photogenic.
-
-![Guangzhou Tianhe District — Shopping in Tianhe](https://images.pexels.com/photos/10726807/pexels-photo-10726807.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Shopping in Tianhe
 
@@ -59,6 +57,8 @@ Despite the mall culture, Tianhe retains significant street-level retail. The st
 
 ## Cantonese Dining in Tianhe
 
+![Nanyueyuan Scenery, Guangdong, Guangzhou](/img/destinations/guangzhou-tianhe-district-guide/2.webp)
+
 Tianhe is home to some of Guangzhou's finest Cantonese dining. A few essential experiences:
 
 ### Dim Sum (点心 / 饮茶)
@@ -77,8 +77,6 @@ Guangzhou's Cantonese seafood tradition is extraordinary, and Tianhe has some of
 
 **Tianhe Sports Center market area**: The streets around the stadium host evening food stalls serving Cantonese snacks: beef offal soup (牛杂汤), fried radish cake (煎萝卜糕), and roast goose (烧鹅). This is where Guangzhou workers eat after long days.
 
-![Guangzhou Tianhe District — The Tianhe Sports Center and Guangzhou FC](https://images.pexels.com/photos/16776661/pexels-photo-16776661.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Tianhe Sports Center and Guangzhou FC
 
 **Tianhe Sports Center (天河体育中心)** is one of China's most historic football venues — China's national team has played significant matches here, and Guangzhou FC (now in the Chinese Super League) has used it as their home. The stadium hosts concerts and events when football is not scheduled.
@@ -86,6 +84,8 @@ Guangzhou's Cantonese seafood tradition is extraordinary, and Tianhe has some of
 Even without a match, the large surrounding park and plaza are pleasant for morning runs and evening walks. The subway station beneath the plaza (Lines 1, 3) makes it an efficient starting point for exploring the area.
 
 ## Cultural and Educational Institutions
+
+![Chenjiaci, Guangdong, Guangzhou](/img/destinations/guangzhou-tianhe-district-guide/3.webp)
 
 **Sun Yat-sen University (中山大学)**: Located on the southern edge of Tianhe near the Pearl River, Sun Yat-sen University's beautiful old campus (established by the Nationalist government in the 1920s) is open to visitors. The banyan-lined paths and colonial-era academic buildings create an atmosphere completely different from the surrounding city.
 

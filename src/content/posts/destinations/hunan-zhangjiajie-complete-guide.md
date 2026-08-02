@@ -12,7 +12,7 @@ tags:
   - avatar
   - hiking
 description: "Zhangjiajie's towering sandstone pillars inspired Avatar's floating mountains and have made it one of China's most famous landscapes. But navigating the area's multiple parks, cable cars, and hiking options is confusing. This 2026 complete guide explains which parks to visit, which to skip, the best viewing strategies, and everything you need to plan the perfect Zhangjiajie trip."
-ogImage: "https://images.pexels.com/photos/25000765/pexels-photo-25000765.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/hunan-zhangjiajie-complete-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -23,7 +23,7 @@ The reality is both better and more complicated than the movie reference suggest
 
 ## Understanding the Zhangjiajie Area
 
-![Zhangjiajie Visit — Understanding the Zhangjiajie Area](https://images.pexels.com/photos/37621083/pexels-photo-37621083.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Ancient Town Landscape Scenery, Fenghuang](/img/destinations/hunan-zhangjiajie-complete-guide/1.webp)
 
 First, the terminology. "Zhangjiajie" refers to multiple things:
 - **Zhangjiajie City (张家界市)**: The administrative city, including the tourist service center
@@ -76,8 +76,6 @@ A more recent attraction featuring a glass bridge over a gorge (Zhangjiajie Glas
 
 **Recommendation**: Worth a half-day if you haven't seen glass bridges/walkways elsewhere. Skip if you're only spending 2 days in the area.
 
-![Zhangjiajie Visit — Recommended Itineraries](https://images.pexels.com/photos/26771351/pexels-photo-26771351.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Recommended Itineraries
 
 ### 2-Day Minimum
@@ -95,6 +93,8 @@ This gives you the key experiences but feels rushed.
 Add the Grand Canyon and glass bridge, longer hikes in the park, and day trips to Fenghuang Ancient Town (2 hours away).
 
 ## Photography: Getting the Best Shots
+
+![Guojiasenlin Park, Zhangjiajie](/img/destinations/hunan-zhangjiajie-complete-guide/2.webp)
 
 ### The Sea of Clouds
 
@@ -117,8 +117,6 @@ Counterintuitively, overcast and lightly misty days (not heavy rain) can produce
 3. **Bailong Elevator viewpoint at the top**: Looking back at the valley you rose from
 4. **Golden Whip Stream at dawn**: The stream between towering pillars, completely deserted at opening time
 
-![Zhangjiajie Visit — Avoiding Crowds](https://images.pexels.com/photos/33665245/pexels-photo-33665245.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Avoiding Crowds
 
 Zhangjiajie is one of China's most popular domestic tourism destinations and can be overwhelmingly crowded. Strategies:
@@ -130,6 +128,8 @@ Zhangjiajie is one of China's most popular domestic tourism destinations and can
 - **Stay inside the park**: Several guesthouses operate inside the scenic area. Staying inside means you can access the trails at 6am and after 5pm when day visitors have left. Evening and dawn light in the pillar landscape are extraordinary.
 
 ## Accommodation
+
+![Landscape Scenery, Zhangjiajie](/img/destinations/hunan-zhangjiajie-complete-guide/3.webp)
 
 ### Outside the Park (Zhangjiajie City)
 Most visitors stay in Zhangjiajie City (张家界市), specifically the Wulingyuan Town area (武陵源镇) near the park entrance.

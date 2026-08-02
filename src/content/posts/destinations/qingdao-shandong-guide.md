@@ -12,6 +12,7 @@ tags:
   - german architecture
   - beer
 description: "Your complete guide to Qingdao — the German-founded beer city on the Yellow Sea. Red-roofed colonial architecture, eight ocean beaches, Tsingtao Brewery tours, fresh seafood, and the best craft beer scene in China."
+ogImage: "/img/destinations/qingdao-shandong-guide/cover.webp"
 ---
 
 Qingdao (青岛) occupies a peninsula on the Yellow Sea coast of Shandong Province, defined by the unusual combination that German colonial occupation (1898–1914) stamped on it: red-roofed Bavarian-style buildings on granite hills, a brewing tradition that produced China's most exported beer, and a remarkably ordered urban layout that is still visible in the old city.
@@ -22,7 +23,7 @@ Qingdao (青岛) occupies a peninsula on the Yellow Sea coast of Shandong Provin
 
 ## The Old German City
 
-![Qingdao old city skyline — the red-tiled German colonial rooftops and twin-spired Evangelical Church against a vivid blue sky, with the Yellow Sea visible behind](https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=1200&q=85)
+![Tai Mountain Scenery, Shandong](/img/destinations/qingdao-shandong-guide/1.webp)
 
 The German administration built one of its most coherent colonial cities here. The **former German Governor's Residence (总督府)** on the hilltop is a Wilhelmine Renaissance building that now houses a museum and commands the best views over the bay. The adjacent streets — **Jiangsu Road (江苏路)**, **Hunan Road (湖南路)**, **Baden-Powell Road** (now renamed) — preserve an essentially intact German residential streetscape.
 
@@ -30,10 +31,11 @@ The German administration built one of its most coherent colonial cities here. T
 
 **Catholic Church (天主教堂, 1934):** Built in the Romanesque Revival style — the largest Catholic church in Shandong. Still holding services. Free to enter outside service times.
 
-![Qingdao Tsingtao Brewery museum building — the original 1903 red-brick German brewery facade with its copper brewing vessels visible through arched windows](https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=85)
 *Tsingtao Brewery Museum — the original 1903 Anglo-German brewery where fresh unfiltered beer can be tasted directly from the fermentation tanks*
 
 ## Tsingtao Brewery (青岛啤酒博物馆)
+
+![Kong Temple, Qufu](/img/destinations/qingdao-shandong-guide/2.webp)
 
 The brewery founded by the Anglo-German Brewery Company in 1903 is now China's second-largest beer producer and the most exported Chinese beer. The museum occupies the original 1903 brewery buildings on Dengzhou Road.
 
@@ -41,7 +43,6 @@ The brewery founded by the Anglo-German Brewery Company in 1903 is now China's s
 
 **Craft beer in Qingdao:** Beyond Tsingtao, Qingdao has developed a small but good craft beer scene — **Panda Brew** and several taprooms in the **Laoshan Road** area.
 
-![Qingdao beach at golden hour — the clean yellow sand and clear Blue Sea water with the city's European-style promenade buildings in the background](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85)
 *Qingdao's Yellow Sea coastline — eight beaches with clean water and year-round swimming season from June through October*
 
 ## The Beaches
@@ -55,6 +56,8 @@ Qingdao has 8 designated ocean beaches along its coastline — clean, well-maint
 **Laoshan Scenic Area (崂山):** 40 km east — China's only coastal mountain, rising directly from the sea. Home of the Taihuai-style Daoist tradition. Good hiking with simultaneous mountain and sea views. ¥70 entry; take Bus 817 from the city.
 
 ## Food: Seafood and Lamb
+
+![Konglin, Qufu](/img/destinations/qingdao-shandong-guide/3.webp)
 
 Qingdao's seafood is excellent — Yellow Sea catches landed fresh daily.
 

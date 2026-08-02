@@ -12,7 +12,7 @@ tags:
   - craft
   - east-china
 description: "Jingdezhen (景德镇) in Jiangxi — the city that has been making China's finest porcelain for 1,000 years. The Imperial Kiln Museum, the ceramics market and artist studios, hands-on pottery workshops, how to buy genuine high-fired porcelain vs tourist junk, and combining Jingdezhen with the rapeseed flower season in nearby Wuyuan."
-ogImage: "https://images.pexels.com/photos/24709642/pexels-photo-24709642.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/jingdezhen-ceramics-guide/cover.webp"
 ---
 
 Jingdezhen has been China's ceramics capital for over a thousand years. The Song Emperor Zhenzong gave the town his reign name "Jingde" in 1004 AD and ordered it to supply the imperial court with porcelain. The kilns have been burning almost continuously since then, producing the white porcelain and blue-and-white ware that shaped global ceramics culture — the word "china" (lowercase) in English literally refers to porcelain from this city.
@@ -23,7 +23,7 @@ Today Jingdezhen is a city of about 1.6 million people where ceramics is still t
 
 ## Imperial Kiln Museum (御窑博物馆)
 
-![Jingdezhen Ceramics — Imperial Kiln Museum (御窑博物馆)](https://images.pexels.com/photos/26794607/pexels-photo-26794607.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Jinggangshan Scenery, Jiangxi](/img/destinations/jingdezhen-ceramics-guide/1.webp)
 
 The Imperial Kiln Museum is the best starting point for understanding Jingdezhen. The building itself is remarkable — a series of oval brick vaults designed by the architect Zhu Pei to echo the shape of traditional dragon kilns. It sits directly on the excavated site of the Ming Dynasty imperial kilns.
 
@@ -68,9 +68,9 @@ Taking a pottery class is now a central part of the Jingdezhen experience. The c
 
 The "Jingpiao" (景漂, literally "Jing-drifters") are the thousands of young artists who have moved to Jingdezhen specifically to work with ceramics — you'll meet them in studios throughout the city.
 
-![Jingdezhen Ceramics — How to Buy Ceramics: Real vs Tourist Junk](https://images.pexels.com/photos/6826793/pexels-photo-6826793.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## How to Buy Ceramics: Real vs Tourist Junk
+
+![Longhu Mountain Scenery, Jiangxi](/img/destinations/jingdezhen-ceramics-guide/2.webp)
 
 Jingdezhen has stalls everywhere selling cheap, mass-produced ceramics alongside genuinely excellent handmade work. Here's how to tell the difference:
 
@@ -116,9 +116,9 @@ Jingdezhen cuisine is Jiangxi-style — less known than Sichuan or Cantonese but
 
 **Restaurant recommendation:** The Taoxichuan complex has several good restaurants including a Jiangxi-style place called **Xinliao Kitchen** — generous portions, local ingredients, around ¥50–80 per person.
 
-![Jingdezhen Ceramics — Getting to Jingdezhen](https://images.unsplash.com/photo-1732776623883-9ddb22867d24?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw4fHxqaW5nZGV6aGVufGVufDB8MHx8fDE3ODE4NTQ5MDV8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
-
 ## Getting to Jingdezhen
+
+![Old Town, Wuyuan](/img/destinations/jingdezhen-ceramics-guide/3.webp)
 
 **From Hangzhou:** High-speed train, about 2.5 hours, ¥100–140
 

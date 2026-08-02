@@ -11,7 +11,7 @@ tags:
   - history
   - northwest-china
 description: "Turpan (吐鲁番) — the hottest place in China and one of the most historically important cities on the Silk Road. The Flaming Mountains (火焰山) from Journey to the West, the ancient ruins of Jiaohe and Gaochang cities, the underground karez irrigation channels (the engineering marvel that keeps the desert fertile), and why Turpan's grapes and melons are China's finest."
-ogImage: "https://images.pexels.com/photos/36943572/pexels-photo-36943572.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/turpan-xinjiang-guide/cover.webp"
 ---
 
 Turpan sits in a depression 154 metres below sea level — the second-lowest point in the world after the Dead Sea — in the middle of the Xinjiang desert. Summer temperatures here reach 47–48°C at their extreme, and the land is technically one of the most arid places on earth. And yet this area has been continuously inhabited and farmed for at least 2,000 years.
@@ -22,7 +22,7 @@ The reason is water: an extraordinary system of underground channels called kare
 
 ## The Ancient Cities
 
-![Turpan — The Ancient Cities](https://images.pexels.com/photos/13359995/pexels-photo-13359995.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Beautiful Landscape, Xinjiang](/img/destinations/turpan-xinjiang-guide/1.webp)
 
 ### Jiaohe Ruins (交河故城)
 
@@ -57,8 +57,6 @@ The mountains are real and genuinely striking — 100km long, rising to 831 metr
 
 A large **thermometer monument** marks the scenic area entrance — Chinese tourists photograph themselves next to the temperature reading (often 40°C+). It's excellent content.
 
-![Turpan — Karez Irrigation System (坎儿井)](https://images.pexels.com/photos/31454647/pexels-photo-31454647.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Karez Irrigation System (坎儿井)
 
 The karez is the engineering achievement that made Turpan's civilisation possible. The system consists of vertical wells dug into the mountain slope, connected by horizontal underground channels that carry snowmelt down to the oasis farms below. Because the channels are underground, evaporation is minimal.
@@ -71,6 +69,8 @@ Turpan has about 1,100 karez channels with a total combined length of over 5,000
 **Opening hours:** 9:00am–7:00pm
 
 ## The Grape Valley (葡萄沟)
+
+![Renwenjingguan, Xinjiang](/img/destinations/turpan-xinjiang-guide/2.webp)
 
 Turpan's grapes are famous throughout China — varieties developed over 2,000 years of selective cultivation in this unique climate produce enormous, sweet fruits with thin skins. The Grape Valley (葡萄沟) northwest of the city is the primary growing area, with trellised vines creating shaded walkways through the orchards.
 
@@ -87,8 +87,6 @@ In the village section of the Grape Valley, Uyghur families sell fresh grapes, d
 
 **The dried fruits:** Turpan dried fruits — raisins, dried apricot, dried mulberry, dried melon — are available at shops throughout the city and make excellent purchases. Quality is far higher than anything sold in Chinese supermarkets. Budget ¥30–80 per 500g.
 
-![Turpan — Uyghur Culture in Turpan](https://images.pexels.com/photos/35624591/pexels-photo-35624591.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Uyghur Culture in Turpan
 
 Turpan is one of the most culturally Uyghur cities in Xinjiang, with a large Uyghur majority and a distinct cultural character.
@@ -102,6 +100,8 @@ Turpan is one of the most culturally Uyghur cities in Xinjiang, with a large Uyg
 **Sunday Bazaar:** The weekly market in the old city has fresh produce, animals, handicrafts, and general goods. More chaotic and authentic than the tourist sites.
 
 ## Getting to Turpan
+
+![Winter Beijiang Snow Scenery](/img/destinations/turpan-xinjiang-guide/3.webp)
 
 **From Urumqi:** The most common entry point. High-speed train from Urumqi South Station to Turpan North Station: about 30 minutes, ¥30–50. Or bus, about 1.5 hours.
 

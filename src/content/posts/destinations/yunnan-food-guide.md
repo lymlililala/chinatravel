@@ -11,7 +11,7 @@ tags:
   - minority-cultures
   - southwest-china
 description: "Yunnan's food is China's most diverse — Crossing the Bridge Rice Noodles (过桥米线) from Kunming, steam pot chicken (汽锅鸡), the remarkable yunnan cheese (乳饼, rubing), Bai people's cold chicken salad in Dali, Naxi BBQ in Lijiang, and the Dai people's sour and citrus-driven food in Xishuangbanna."
-ogImage: "https://images.pexels.com/photos/5915759/pexels-photo-5915759.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/yunnan-food-guide/cover.webp"
 ---
 
 Yunnan's food is unlike anything else in China. The province borders Myanmar, Laos, and Vietnam, has 26 officially recognised ethnic minority groups (more than any other Chinese province), and spans ecosystems from subtropical jungle to Tibetan plateau. The result is a cuisine that doesn't cohere into a single tradition — it's a collection of distinct food cultures that happen to share a province.
@@ -20,7 +20,7 @@ Yunnan's food is unlike anything else in China. The province borders Myanmar, La
 
 ## Crossing the Bridge Rice Noodles (过桥米线)
 
-![Yunnan Food — Crossing the Bridge Rice Noodles (过桥米线)](https://images.pexels.com/photos/14162746/pexels-photo-14162746.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Erhai Lake Scenery, Yunnan, Dali](/img/destinations/yunnan-food-guide/1.webp)
 
 **Guo qiao mi xian** (过桥米线, Crossing the Bridge Rice Noodles) is Yunnan's most famous dish, and the story behind the name is worth knowing. A scholar studying for exams on an island in a lake was brought daily meals by his wife, who discovered that keeping the broth covered with a layer of oil maintained the temperature during the long walk across the bridge. Today the dish recreates this concept: a large bowl of extremely hot chicken broth arrives at your table along with raw ingredients (thin rice noodles, sliced chicken, quail egg, tofu skin, vegetables, scallion), which you add to the broth in order and let cook in the residual heat.
 
@@ -45,8 +45,6 @@ The result is a broth of remarkable clarity and intensity — no oil, no fat fro
 
 **Price:** ¥80-180 per pot depending on size and additions.
 
-![Yunnan Food — Yunnan Cheese (乳饼 Rǔbǐng and 乳扇 Rǔshān)](https://images.pexels.com/photos/31756384/pexels-photo-31756384.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Yunnan Cheese (乳饼 Rǔbǐng and 乳扇 Rǔshān)
 
 China's dairy traditions are sparse — except in Yunnan. The **Bai people** of Dali area have produced cheese for centuries, and the Yunnan varieties are genuinely distinct from any European equivalent.
@@ -59,6 +57,8 @@ The best place to eat rubing and rushan is in **Dali Old Town** — the Bai home
 
 ## Dali: Bai People's Food
 
+![Dongchuan Red Soil Scenery](/img/destinations/yunnan-food-guide/2.webp)
+
 **Dali Old Town** (大理古城) and the surrounding Erhai Lake area is the heartland of **Bai cuisine** (白族饮食).
 
 **Cold chicken in Yunnan sauce** (鸡肉凉菜) — cold poached chicken in a dressing of Sichuan pepper oil, vinegar, coriander, and fresh chillies. Lighter than Sichuan versions. ¥35-55.
@@ -66,8 +66,6 @@ The best place to eat rubing and rushan is in **Dali Old Town** — the Bai home
 **Sour plum fish** (酸梅鱼) — freshwater fish from Erhai Lake cooked with preserved sour plums. The sourness comes from the plums rather than vinegar, giving a fruity, gentle tartness. ¥60-100 for a fish.
 
 **San Dao Cha** (三道茶, Three Courses of Tea) — a Bai ceremonial tea sequence with three cups: first bitter (unsweetened green tea), then sweet (brown sugar and walnuts), then the aromatic (with spices). Not exactly a food, but a cultural eating experience. Available at traditional Bai restaurants in Dali.
-
-![Yunnan Food — Lijiang: Naxi Cuisine and BBQ](https://images.pexels.com/photos/14313093/pexels-photo-14313093.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Lijiang: Naxi Cuisine and BBQ
 
@@ -80,6 +78,8 @@ The best place to eat rubing and rushan is in **Dali Old Town** — the Bai home
 **Yak jerky** (牦牛干巴) — dry-cured yak meat, intensely flavoured, sold in packets as a snack or eaten with drinks. A local speciality from the higher altitude areas around Zhongdian/Shangri-La. ¥30-80 per 100g.
 
 ## Xishuangbanna: Dai People's Cuisine
+
+![Cai Landscape, Yunnan](/img/destinations/yunnan-food-guide/3.webp)
 
 **Xishuangbanna** (西双版纳) in southern Yunnan borders Myanmar and Laos. The **Dai people's cuisine** (傣族饮食) is the most distinctive food in China — sour, herbal, citrus-forward, using ingredients more common in Southeast Asia than China.
 

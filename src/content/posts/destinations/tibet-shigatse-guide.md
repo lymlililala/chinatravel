@@ -13,7 +13,7 @@ tags:
   - buddhism
   - altitude
 description: "Shigatse is Tibet's second-largest city and home to the magnificent Tashilhunpo Monastery, seat of the Panchen Lamas. This 2026 guide covers permits, Tashilhunpo entry (90 yuan), the route to Everest Base Camp, altitude preparation, accommodation options, and how to get there from Lhasa."
-ogImage: "https://images.pexels.com/photos/6723803/pexels-photo-6723803.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/tibet-shigatse-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -24,7 +24,7 @@ Shigatse also functions as the primary staging point for travellers heading to E
 
 ## Permits Required for Shigatse
 
-![Shigatse Tibet — Permits Required for Shigatse](https://images.pexels.com/photos/29162691/pexels-photo-29162691.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Spectacular Ali Scenery, Tibet](/img/destinations/tibet-shigatse-guide/1.webp)
 
 Foreign visitors to Tibet require multiple permits:
 
@@ -58,9 +58,9 @@ Tashilhunpo is one of Tibet's six great Gelugpa monasteries and the largest in T
 
 Distance: Lhasa to Shigatse is approximately 280km by road.
 
-![Shigatse Tibet — The Route to Everest Base Camp](https://images.pexels.com/photos/20529370/pexels-photo-20529370.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Route to Everest Base Camp
+
+![Renwen Natural Landscape, Tibet](/img/destinations/tibet-shigatse-guide/2.webp)
 
 From Shigatse, the Tibetan EBC route continues south and west along the Friendship Highway:
 
@@ -92,9 +92,9 @@ If heading to EBC (5,200m), allow additional acclimatisation days in Shigatse.
 
 **Upscale:** The Shigatse Hotel has been the standard business-class option for years, 600-1,200 yuan per night. Book ahead in peak season (April-May, September-October).
 
-![Shigatse Tibet — Local Food in Shigatse](https://images.pexels.com/photos/36034214/pexels-photo-36034214.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Local Food in Shigatse
+
+![Mount Everest Peak Scenery, Tibet](/img/destinations/tibet-shigatse-guide/3.webp)
 
 **Tsampa:** Roasted barley flour mixed with yak butter tea — the staple food of Tibetan culture. Worth trying once.
 

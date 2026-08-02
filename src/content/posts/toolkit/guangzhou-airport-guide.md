@@ -11,7 +11,7 @@ tags:
   - airport
   - toolkit
 description: "Guangzhou Baiyun International Airport (CAN) — Terminal 1 vs Terminal 2, the APM people mover between terminals, metro Lines 3 and 18 to the city, taxi apps vs airport taxis, and how to get to Shenzhen and Hong Kong directly from the airport without going into Guangzhou."
-ogImage: "https://images.pexels.com/photos/17946131/pexels-photo-17946131.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/guangzhou-airport-guide/cover.webp"
 ---
 
 Guangzhou Baiyun International Airport (IATA: CAN) is southern China's biggest hub, handling over 70 million passengers a year and serving as a key entry point for visitors arriving via Guangzhou before heading to Shenzhen, Hong Kong, or further into the Pearl River Delta. It's well organized, has strong metro connections, and if you know how it works you can move through efficiently. What trips people up is the two-terminal layout and figuring out whether you actually need to enter Guangzhou at all.
@@ -19,6 +19,8 @@ Guangzhou Baiyun International Airport (IATA: CAN) is southern China's biggest h
 ## Table of contents
 
 ## Terminal 1 vs Terminal 2
+
+![Huaqiao City Scenery, Guangdong, Shenzhen](/img/toolkit/guangzhou-airport-guide/1.webp)
 
 Baiyun has two main passenger terminals handling different airlines:
 
@@ -35,6 +37,8 @@ At T2, international arrivals follow the standard route: immigration (bring land
 If you're using Guangzhou for the **144-hour transit visa-free** program, Baiyun is a qualifying port — but confirm that your entry/exit airports fit the required itinerary pairing before you fly.
 
 ## Getting to Guangzhou City
+
+![Shiwannanfengguzao Scenery, Guangdong, Foshan](/img/toolkit/guangzhou-airport-guide/2.webp)
 
 ### Metro Lines 3 and 18
 

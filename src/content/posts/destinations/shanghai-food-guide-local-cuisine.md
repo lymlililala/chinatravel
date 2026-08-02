@@ -10,7 +10,7 @@ tags:
   - food
   - destinations
 description: "A neighbourhood-by-neighbourhood food guide to Shanghai — from the perfect xiaolongbao to century eggs with tofu, hairy crab season, French Concession brunch spots, and the wet markets where locals shop."
-ogImage: "https://images.pexels.com/photos/6752827/pexels-photo-6752827.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/shanghai-food-guide-local-cuisine/cover.webp"
 ---
 
 Shanghai sits at the intersection of Yangtze Delta cuisine, Cantonese influences brought by 20th-century migration, and a century of Western presence that produced a distinctive cosmopolitan palate. The result is arguably China's most diverse and exciting food city. Here's how to eat your way through it properly.
@@ -19,7 +19,7 @@ Shanghai sits at the intersection of Yangtze Delta cuisine, Cantonese influences
 
 ## Xiaolongbao (小笼包): Shanghai's Most Famous Dumpling
 
-![Shanghai Food — Xiaolongbao (小笼包): Shanghai's Most Famous Dumpling](https://images.pexels.com/photos/24349898/pexels-photo-24349898.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Shiji Park, Shanghai](/img/destinations/shanghai-food-guide-local-cuisine/1.webp)
 
 The soup dumpling — thin-skinned, filled with pork and gelatinised stock that melts into broth when steamed — is Shanghai's most recognised export. But the versions most tourists eat are a pale shadow of what's available if you know where to look.
 
@@ -50,8 +50,6 @@ Shengjianbao are pan-fried pork buns with a crunchy bottom, juicy pork-and-soup 
 
 ---
 
-![Shanghai Food — Hairy Crab (大闸蟹): Shanghai's Seasonal Obsession](https://images.pexels.com/photos/37501670/pexels-photo-37501670.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Hairy Crab (大闸蟹): Shanghai's Seasonal Obsession
 
 **Season: October–December** (female crabs: October–November; male: November–December)
@@ -69,6 +67,8 @@ Served steamed with black rice vinegar and ginger dipping sauce. Eating tools (s
 ---
 
 ## Benbang Cai (本帮菜): Shanghai's Home Cuisine
+
+![Yuyuanchenghuang Temple, Shanghai](/img/destinations/shanghai-food-guide-local-cuisine/2.webp)
 
 Benbang cuisine (Shanghai-style Chinese cooking) is characterised by:
 - **Sweet and soy-braised** flavours (浓油赤酱 — rich oil, red sauce)
@@ -96,9 +96,9 @@ Benbang cuisine (Shanghai-style Chinese cooking) is characterised by:
 
 ---
 
-![Shanghai Food — Street Food by Neighbourhood](https://images.pexels.com/photos/33964845/pexels-photo-33964845.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Street Food by Neighbourhood
+
+![Dishini Architecture Scenery, Shanghai](/img/destinations/shanghai-food-guide-local-cuisine/3.webp)
 
 ### Old Town / Yuyuan area (豫园)
 

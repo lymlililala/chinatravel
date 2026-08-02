@@ -21,7 +21,7 @@ tags:
   - diving
   - destinations
 description: "Hainan snorkeling and diving guide: the best reefs near Sanya, Wuzhizhou Island ferry and costs, Xisha liveaboards, and the best season for clear water."
-ogImage: "https://images.pexels.com/photos/34839988/pexels-photo-34839988.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/hainan-snorkeling-diving-guide/cover.webp"
 ---
 
 Hainan Island sits in the South China Sea at tropical latitudes (20°N), surrounded by relatively clear waters that support coral reefs, tropical fish, sea turtles, and whale sharks during the right season. While not competing with world-class destinations like the Coral Triangle, Hainan offers the best accessible diving and snorkeling in mainland China — and the infrastructure has improved dramatically in recent years.
@@ -30,7 +30,7 @@ Hainan Island sits in the South China Sea at tropical latitudes (20°N), surroun
 
 ## Wuzhizhou Island (蜈支洲岛)
 
-![Hainan Snorkeling Diving — Wuzhizhou Island (蜈支洲岛)](https://images.pexels.com/photos/15923584/pexels-photo-15923584.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Dadonghai Scenery, Hainan, Sanya](/img/destinations/hainan-snorkeling-diving-guide/1.webp)
 
 Wuzhizhou Island (pronounced wú zhī zhōu) is Hainan's premier marine recreation island — a small coral-fringed island 2.7km long, accessible by boat from Haitang Bay, approximately 30km north of Sanya's city centre.
 
@@ -67,9 +67,9 @@ The reefs immediately offshore at Dadonghai Bay (大东海湾) — Sanya's neare
 
 ---
 
-![Hainan Snorkeling Diving — Xisha Islands (西沙群岛): Remote Reefs](https://images.pexels.com/photos/12513879/pexels-photo-12513879.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Xisha Islands (西沙群岛): Remote Reefs
+
+![Boao Landscape, Hainan](/img/destinations/hainan-snorkeling-diving-guide/2.webp)
 
 For serious divers, the Xisha Islands (Paracel Islands) lie approximately 300km south of Hainan and are administered by China. These remote coral atolls have some of the best-preserved reefs in the South China Sea — clear water (visibility 20–40m), abundant marine life including Napoleon wrasse, schools of barracuda, and reef sharks.
 
@@ -81,13 +81,13 @@ For serious divers, the Xisha Islands (Paracel Islands) lie approximately 300km 
 
 ## Luhuitou Coral Reserve (鹿回头珊瑚保护区)
 
+![Yalongwan Beach Sha Shoal, Sanya](/img/destinations/hainan-snorkeling-diving-guide/3.webp)
+
 The Luhuitou peninsula south of Sanya has a small protected marine area with maintained coral colonies accessible to snorkelers and shallow divers. Less spectacular than Wuzhizhou but free and uncrowded on weekdays.
 
 The headland itself — accessible by cable car (¥60) or steep path — has a famous stone sculpture of a deer looking back (the legend behind Sanya's name), and good views of the bay.
 
 ---
-
-![Hainan Snorkeling Diving — Marine Life Calendar](https://images.pexels.com/photos/30919068/pexels-photo-30919068.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Marine Life Calendar
 

@@ -12,7 +12,7 @@ tags:
   - practical
   - food
 description: "Food delivery in China is among the world's most efficient and affordable — Meituan and Eleme deliver to virtually every address in every major city within 30–45 minutes. This 2026 guide explains how foreign visitors can use Chinese food delivery apps, set up accounts, navigate menus without reading Chinese, handle payment, and deal with common problems."
-ogImage: "https://images.pexels.com/photos/20296420/pexels-photo-20296420.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-food-delivery-apps-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -22,6 +22,8 @@ China's food delivery ecosystem is genuinely impressive. Millions of orders are 
 For foreign visitors, the challenge is primarily navigational: the two major platforms (Meituan 美团 and Eleme 饿了么) operate almost entirely in Chinese. With some setup and a few workarounds, however, they're accessible to anyone with a Chinese payment method.
 
 ## The Two Main Platforms
+
+![Canglangting, Suzhou](/img/toolkit/china-food-delivery-apps-guide/1.webp)
 
 ### Meituan (美团)
 
@@ -129,6 +131,8 @@ Before opening the app, decide roughly what you want. Search terms that work eve
 - If you can't write Chinese, ask your hotel to write the note for you
 
 ## Common Issues and Solutions
+
+![River Scenery, Suzhou](/img/toolkit/china-food-delivery-apps-guide/2.webp)
 
 ### "Cannot find the address"
 

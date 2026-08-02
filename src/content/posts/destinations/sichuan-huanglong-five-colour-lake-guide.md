@@ -13,7 +13,7 @@ tags:
   - national park
   - nature
 description: "Discover Huanglong's magical five colour lake and terraced travertine pools in Sichuan. This 2026 guide covers the best seasons to visit, altitude sickness prevention, ticket prices (¥200), hiking routes, and practical tips for reaching this remote UNESCO World Heritage Site in northern Sichuan."
-ogImage: "https://images.pexels.com/photos/31654294/pexels-photo-31654294.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/sichuan-huanglong-five-colour-lake-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -24,7 +24,7 @@ This guide will give you everything you need to visit Huanglong in 2026 — when
 
 ## Why Huanglong Is Worth the Effort
 
-![Huanglong Five Colour Lake Sichuan — Why Huanglong Is Worth the Effort](https://images.pexels.com/photos/27631664/pexels-photo-27631664.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Lugu Lake Ligeban Island Scenery, Sichuan](/img/destinations/sichuan-huanglong-five-colour-lake-guide/1.webp)
 
 Huanglong was designated a UNESCO World Heritage Site in 1992 alongside nearby Jiuzhaigou. While Jiuzhaigou gets most of the international attention, Huanglong offers something arguably more spectacular per square kilometre: a 3.6km valley filled with roughly 3,400 travertine pools cascading down the hillside like a natural staircase made of calcium carbonate. The colours come from the minerals in the water interacting with algae, sunlight and depth — a combination that produces an almost unreal palette.
 
@@ -58,8 +58,6 @@ For people coming from sea level or low-altitude Chinese cities, this is high en
 
 If you have a heart or lung condition, consult a doctor before visiting. The site is not suitable for people with severe cardiovascular problems.
 
-![Huanglong Five Colour Lake Sichuan — How to Get to Huanglong](https://images.pexels.com/photos/31654292/pexels-photo-31654292.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## How to Get to Huanglong
 
 Huanglong is genuinely remote. Here are your realistic options from Chengdu in 2026:
@@ -88,6 +86,8 @@ Discounts apply for students (half price with valid ID), seniors over 65 (free),
 
 ## The Valley Walk: What You'll Actually See
 
+![Ruoergaihua Lake Scenery, Sichuan](/img/destinations/sichuan-huanglong-five-colour-lake-guide/2.webp)
+
 The main route follows a boardwalk along the valley floor for approximately 3.6km one-way, gaining about 400 vertical metres from the entrance to the Five Colour Lake. Most visitors take the cable car to the upper end and walk down, which takes 2–3 hours.
 
 **Upper Section (starting near cable car station):**
@@ -106,8 +106,6 @@ The **Mingling Temple (Huanglongsi)** sits about two-thirds of the way down. Thi
 
 As you descend further, the pools become smaller and the forest closes in. The entrance zone has several viewpoints of the lower valley before you exit.
 
-![Huanglong Five Colour Lake Sichuan — Photography Tips for Huanglong](https://images.pexels.com/photos/29767798/pexels-photo-29767798.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Photography Tips for Huanglong
 
 The Five Colour Lake is at its most photogenic between 10am and 2pm when the sun is high enough to illuminate the pool floors and produce the full colour effect. Early morning light (8–9am) is softer and better for the forest sections. Late afternoon can be misty and atmospheric, particularly in autumn.
@@ -117,6 +115,8 @@ Bring a polarising filter if you're shooting with an interchangeable lens camera
 The boardwalks mean you can't get as close as you might like for some shots. A mid-range zoom lens (24–105mm equivalent) covers most scenarios well.
 
 ## Where to Stay Near Huanglong
+
+![Tianfuguosheyingyi, Sichuan, Chengdu](/img/destinations/sichuan-huanglong-five-colour-lake-guide/3.webp)
 
 There is very limited accommodation within the scenic area itself — a few guesthouses in the car park zone that are basic and expensive for what they are (¥400–800 per night in season). Most visitors overnight in one of the following:
 

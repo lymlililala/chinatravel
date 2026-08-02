@@ -12,7 +12,7 @@ tags:
   - buddhism
   - nature
 description: "Baotou is Inner Mongolia's largest city and the industrial heart of China's rare earth economy — yet it sits within striking distance of the Kubuqi Desert dunes, one of Tibetan Buddhism's great monasteries and the grasslands of the Mongolian plateau. This 2026 guide covers Wudang Zhao Temple, desert camping, the Yellow River bend, transport and what makes Baotou a compelling base for exploring western Inner Mongolia."
-ogImage: "https://images.pexels.com/photos/30143819/pexels-photo-30143819.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/inner-mongolia-baotou-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -23,7 +23,7 @@ Inner Mongolia's largest city (about 2.4 million people) is genuinely worth a ni
 
 ## Wudang Zhao Temple (五当召)
 
-![Baotou Inner Mongolia — Wudang Zhao Temple (五当召)](https://images.pexels.com/photos/35891610/pexels-photo-35891610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Tongli Old Town Scenery, Jiangsu, Suzhou](/img/destinations/inner-mongolia-baotou-guide/1.webp)
 
 About 70 km northeast of Baotou, Wudang Zhao is one of the four great lamaseries of Inner Mongolia — a Tibetan Buddhist monastery complex built between 1749 and 1835, during the height of Qing Dynasty patronage of Tibetan Buddhism.
 
@@ -61,8 +61,6 @@ The Yellow River makes a dramatic northward bend through Inner Mongolia before t
 
 **Sanshenggong Water Conservancy Area (三盛公水利枢纽):** A large dam and reservoir on the Yellow River about 100 km west of Baotou, with a surrounding park that provides a good overview of the river's scale. Open to visitors; tickets ¥20 ($3).
 
-![Baotou Inner Mongolia — Meilidai Lake (梅力更水库区)](https://images.pexels.com/photos/4326736/pexels-photo-4326736.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Meilidai Lake (梅力更水库区)
 
 In the hills 30 km north of Baotou, this scenic valley combines a small reservoir, temple ruins (Meilidai Monastery, largely destroyed in the Cultural Revolution but partially rebuilt) and accessible forest walks. Good for a half-day escape from the city.
@@ -76,6 +74,8 @@ The rare earth industry has profoundly shaped Baotou's landscape and ecology. Th
 The **Inner Mongolia Museum of Rare Earths** in Baotou explains the industry's history and importance; tickets ¥30 ($4). No tours of active mining or processing facilities are available to tourists.
 
 ## Getting to Baotou
+
+![Shi Lake Scenery, Jiangsu, Suzhou](/img/destinations/inner-mongolia-baotou-guide/2.webp)
 
 ### From Hohhot (Huhhot)
 
@@ -93,8 +93,6 @@ The **Inner Mongolia Museum of Rare Earths** in Baotou explains the industry's h
 
 **Baotou Erlian Airport (BAV)** has direct flights from Beijing (1.5 hours), Shanghai (3 hours), Chengdu, Xi'an and other major cities.
 
-![Baotou Inner Mongolia — Where to Stay](https://images.pexels.com/photos/7859335/pexels-photo-7859335.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Where to Stay
 
 **Budget (¥100–¥200 / $14–$28):** Chain hotels near the two main stations (Baotou Station and Baotou East Station). **Hanting Express** and **7 Days Inn** are reliable options.
@@ -104,6 +102,8 @@ The **Inner Mongolia Museum of Rare Earths** in Baotou explains the industry's h
 **Near desert:** Desert resorts around Kubuqi provide atmospheric glamping; from ¥400–¥800/night ($56–$112) depending on season and facility.
 
 ## Best Time to Visit
+
+![Zhongyuan Temple Scenery, Jiangsu, Suzhou](/img/destinations/inner-mongolia-baotou-guide/3.webp)
 
 **Autumn (September–October):** The best overall time — warm dry days, good visibility for photography. Desert dunes in autumn light are beautiful.
 

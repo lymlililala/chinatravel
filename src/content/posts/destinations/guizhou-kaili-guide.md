@@ -12,7 +12,7 @@ tags:
   - minority-culture
   - festivals
 description: "Kaili is the gateway to southeast Guizhou's extraordinary Miao minority villages — a world of hand-embroidered costumes, massive silver headdresses, antiphonal singing and ancient drum tower architecture. This 2026 guide covers the best villages to visit, the festival calendar, silver jewelry markets, transport from Guiyang, accommodation and practical tips for respectful cultural tourism."
-ogImage: "https://images.pexels.com/photos/11111330/pexels-photo-11111330.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guizhou-kaili-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -23,7 +23,7 @@ That's Kaili: a city that functions as the administrative centre of the Qiandong
 
 ## Understanding Kaili and the Miao People
 
-![Kaili Guizhou — Understanding Kaili and the Miao People](https://images.pexels.com/photos/30693217/pexels-photo-30693217.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Dong Village Gulou](/img/destinations/guizhou-kaili-guide/1.webp)
 
 Kaili (凯里) is the capital of Guizhou's Qiandongnan Autonomous Prefecture — a region covering about 30,000 square kilometres of steep karst hills and river valleys, home to roughly 4.8 million people across more than 30 ethnic groups, of which the Miao and Dong are the most numerous.
 
@@ -79,9 +79,9 @@ The Gejia (革家人) are a small ethnic group related to the Miao with distinct
 
 **Transport:** Buses from Kaili to Kaili county-level roads; best arranged through guesthouses or hired car.
 
-![Kaili Guizhou — The Festival Calendar](https://images.pexels.com/photos/36463877/pexels-photo-36463877.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Festival Calendar
+
+![Diaojiaolou Scenery](/img/destinations/guizhou-kaili-guide/2.webp)
 
 The greatest way to experience Miao and Dong culture in Kaili is during a festival, and the region has an extraordinarily rich festival calendar. Many festivals follow the lunar calendar and shift dates annually; verify exact dates before planning.
 
@@ -125,9 +125,9 @@ The greatest way to experience Miao and Dong culture in Kaili is during a festiv
 
 Staying overnight in Xijiang or Langde gives a completely different experience from day-tripping. Guesthouse rooms are typically wooden buildings, simple but atmospheric, from ¥120–¥280/night ($17–$39). Some villages have newer boutique homestays (民宿) with more comfort from ¥380–¥680.
 
-![Kaili Guizhou — What to Eat in Kaili](https://images.pexels.com/photos/8702323/pexels-photo-8702323.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## What to Eat in Kaili
+
+![Qianlinghongfu Temple Scenery, Guizhou](/img/destinations/guizhou-kaili-guide/3.webp)
 
 Kaili's food reflects Miao cooking traditions: sour, spicy and fermented. The city is famous for:
 

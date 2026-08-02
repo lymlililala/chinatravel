@@ -14,7 +14,7 @@ tags:
   - 798 art zone
   - factory 798
 description: "798 Art District Beijing guide 2026: opening hours, best galleries, tickets, and how to reach the Factory 798 art zone, plus cafés and tips."
-ogImage: "https://images.pexels.com/photos/34939606/pexels-photo-34939606.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/beijing-798-art-district-guide/cover.webp"
 faq:
   - question: "What are the opening hours of the 798 Art District?"
     answer: "The district's streets and outdoor sculpture are open around the clock. Most galleries open 10:00 AM–6:00 PM and are closed on Mondays, with last entry often 30 minutes before closing."
@@ -38,13 +38,13 @@ The quality varies enormously. Some spaces show rigorously curated contemporary 
 
 ## Factory 798: Where the Name Comes From
 
+![Courtyard House, Beijing](/img/destinations/beijing-798-art-district-guide/1.webp)
+
 The district takes its name from **Factory 798**, one of several state-owned electronics plants built here in the 1950s as part of the Joint Factory 718 complex, designed with East German technical assistance. The Bauhaus-influenced saw-tooth roofs, north-facing skylights, and high arched halls were engineered for precision electronics production — and turned out to be nearly perfect for showing art.
 
 You will see the area called several names: Factory 798, the 798 Art Zone, the Dashanzi Art District, or simply 798 (七九八, *qi jiu ba*). They all refer to the same 60-hectare complex. Factory 798 itself still stands at the district's centre, and several galleries occupy its original workshops.
 
 ## Essential Information
-
-![Art District Beijing — Essential Information](https://images.pexels.com/photos/36541875/pexels-photo-36541875.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 | Detail | Info |
 |--------|------|
@@ -67,9 +67,9 @@ The district is organised along several main streets, with a labyrinth of smalle
 
 For a 798 Art District map, pick up the free printed gallery map from the visitor centre near the main entrance, or use the **798 Art District** WeChat mini-program, which has a real-time gallery map showing current exhibitions. Any taxi or DiDi map app will also find the district by searching "798艺术区".
 
-![Art District Beijing — Major Galleries Worth Visiting](https://images.pexels.com/photos/27044013/pexels-photo-27044013.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Major Galleries Worth Visiting
+
+![Tiananmen, Beijing](/img/destinations/beijing-798-art-district-guide/2.webp)
 
 ### UCCA Center for Contemporary Art (尤伦斯当代艺术中心)
 
@@ -113,8 +113,6 @@ Some of the best art in 798 is the permanent public sculpture installed througho
 
 **Photo tip:** Early morning light (8–9 AM, before galleries open) is the best time to photograph the outdoor sculptures without crowds in frame. The industrial buildings create excellent shadows and geometric compositions.
 
-![Art District Beijing — The 798 Food Scene](https://images.pexels.com/photos/12811304/pexels-photo-12811304.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The 798 Food Scene
 
 The district's food options have improved dramatically in recent years, with a cluster of genuinely good restaurants now operating alongside the galleries.
@@ -133,6 +131,8 @@ The district's food options have improved dramatically in recent years, with a c
 **Timezone 8 Art Books** is the best English-language art bookshop in Beijing, located in 798. Strong selection of monographs on Chinese contemporary art, international art theory, architecture, and design. Worth visiting even if you don't buy anything.
 
 ## The 798 Beyond the Galleries
+
+![Qingxiling, Beijing](/img/destinations/beijing-798-art-district-guide/3.webp)
 
 ### Design Week and Art Fairs
 

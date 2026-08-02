@@ -12,14 +12,14 @@ tags:
   - tibetan plateau
   - lhasa day trip
 description: "Yamdrok Lake is one of Tibet's three sacred lakes — a vast expanse of impossible turquoise water set against snow-capped peaks at 4400 metres altitude. This 2026 guide covers the permits required, how to get there from Lhasa, best photography spots, the sacred significance, and everything you need for a safe and respectful visit in 2026."
-ogImage: "https://images.pexels.com/photos/6666087/pexels-photo-6666087.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/tibet-yamdrok-lake-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## The Sacred Turquoise Sea: First Impressions of Yamdrok
 
-![Yamdrok Lake Tibet — The Sacred Turquoise Sea: First Impressions of Yamdrok](https://images.pexels.com/photos/18118222/pexels-photo-18118222.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Laangcuo Lake, Tibet](/img/destinations/tibet-yamdrok-lake-guide/1.webp)
 
 The first sight of Yamdrok Lake (羊卓雍错) from the Gampa La Pass tends to stop people in their tracks. You have been driving upward through sparse high-altitude scrub, the altitude thickening the air and slowing your thoughts, and then the road crests a pass at 4794 metres and suddenly the lake is there. Not the pale blue of overexposed photographs, but a vivid, saturated turquoise that seems to belong to a more vivid version of reality.
 
@@ -47,9 +47,9 @@ A day trip from Lhasa is perfectly feasible. Most itineraries leave Lhasa at 8�
 
 The most popular multi-day option combines Yamdrok with a drive south over the Karo La Pass where a glacier descends to road level, then continues to Gyantse and Shigatse. This 2–3 day itinerary covers some of the finest landscapes in all of Tibet.
 
-![Yamdrok Lake Tibet — Best Viewpoints and Photography Spots](https://images.unsplash.com/photo-1504992963429-56f2d62fbff0?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw0fHxWaWV3cG9pbnRzJTIwUGhvdG9ncmFwaHklMjBTcG90c3xlbnwwfDB8fHwxNzgxOTIyMjk0fDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
-
 ## Best Viewpoints and Photography Spots
+
+![Namtso Lake Natural Scenery, Tibet](/img/destinations/tibet-yamdrok-lake-guide/2.webp)
 
 ### Gampa La Pass Viewpoint
 At 4794m elevation, this is where you get the first full view of the lake. Stalls sell Tibetan jewellery and ceremonial items, and yaks are available for photographs for a ¥10–20 tip. The viewing area gets crowded mid-morning as day trips from Lhasa arrive, so early arrival pays dividends.
@@ -86,9 +86,9 @@ Acute Mountain Sickness symptoms include headache, nausea, fatigue, and dizzines
 
 Stay hydrated by drinking more water than normal. Avoid alcohol for the first 2–3 days in Tibet. Move slowly and plan more time for everything, as climbing stairs at 4400m is genuinely tiring.
 
-![Yamdrok Lake Tibet — Wildlife at Yamdrok Lake](https://images.pexels.com/photos/8604590/pexels-photo-8604590.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Wildlife at Yamdrok Lake
+
+![Dazhao Temple Scenery, Tibet](/img/destinations/tibet-yamdrok-lake-guide/3.webp)
 
 The high-altitude environment around Yamdrok supports remarkable wildlife adapted to harsh conditions.
 

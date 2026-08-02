@@ -1,7 +1,7 @@
 ---
 title: "Urumqi International Grand Bazaar and City Guide (Xinjiang 2026)"
 description: "Guide to visiting Urumqi's International Grand Bazaar (国际大巴扎), Erdaoqiao Market, Tianshan Mountains day trips, Xinjiang food and practical tips for foreign visitors."
-ogImage: "https://images.pexels.com/photos/27987226/pexels-photo-27987226.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/xinjiang-urumqi-grand-bazaar-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Urumqi", "Xinjiang", "Grand Bazaar", "Xinjiang food", "Silk Road", "Central Asia China", "Uyghur culture"]
@@ -9,9 +9,9 @@ tags: ["Urumqi", "Xinjiang", "Grand Bazaar", "Xinjiang food", "Silk Road", "Cent
 
 Urumqi (乌鲁木齐) is the capital of Xinjiang Uyghur Autonomous Region and the most remote provincial capital from any ocean in the world — a geographic fact that defines the city's character as a crossroads of Central Asian trade routes. The International Grand Bazaar at Erdaoqiao is the most visible symbol of Urumqi's Uyghur and Silk Road heritage, while the surrounding Tianshan Mountains provide dramatic natural scenery within 30 minutes of the city.
 
-![Urumqi International Grand Bazaar City (Xinjiang ) — The International Grand Bazaar (国际大巴扎)](https://images.pexels.com/photos/33349433/pexels-photo-33349433.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The International Grand Bazaar (国际大巴扎)
+
+![Tashenkuer City Scenery, Xinjiang](/img/destinations/xinjiang-urumqi-grand-bazaar-guide/1.webp)
 
 Built in 2003 and expanded since, the Grand Bazaar complex is the largest bazaar in China with over 100,000 m² of market space. It's architecturally distinctive — modeled on traditional Central Asian architecture with decorated arches, minarets, tile mosaics and carved wood elements in a style that references the great bazaars of Samarkand and Kashgar.
 
@@ -29,9 +29,9 @@ Built in 2003 and expanded since, the Grand Bazaar complex is the largest bazaar
 
 **Entry**: ¥30 (daytime); ¥30 (evening performance night entry)
 
-![Urumqi International Grand Bazaar City (Xinjiang ) — Urumqi's Tianshan Mountains](https://images.pexels.com/photos/36003363/pexels-photo-36003363.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Urumqi's Tianshan Mountains
+
+![Daban City, Xinjiang](/img/destinations/xinjiang-urumqi-grand-bazaar-guide/2.webp)
 
 **Tianchi Lake (天池, Heavenly Lake)**: 110 km east of Urumqi, a glacial lake at 1,910m altitude in the Tianshan Mountains. The lake is flanked by spruce forest and a backdrop of the Bogda Peak (5,445m) — a dramatic combination of alpine lake, evergreen forest and snow peak. Tourist development is significant; a cable car serves the main viewpoint. Day trip from Urumqi: 2.5 hours each way plus 2–3 hours at the lake. ¥105 entry.
 
@@ -39,9 +39,9 @@ Built in 2003 and expanded since, the Grand Bazaar complex is the largest bazaar
 
 **Urumqi Scenic Area (乌鲁木齐县风景区)**: Rolling semi-alpine terrain; horse riding available; Kazakh family yurt stays possible in summer.
 
-![Urumqi International Grand Bazaar City (Xinjiang ) — Xinjiang Food in Urumqi](https://images.pexels.com/photos/36943569/pexels-photo-36943569.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Xinjiang Food in Urumqi
+
+![Beautiful Landscape, Xinjiang](/img/destinations/xinjiang-urumqi-grand-bazaar-guide/3.webp)
 
 Urumqi's restaurants showcase the full range of Xinjiang cuisine, including both Uyghur food and the influences of Kazakh, Kyrgyz and Han communities.
 

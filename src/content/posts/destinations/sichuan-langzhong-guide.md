@@ -12,7 +12,7 @@ tags:
   - feng-shui
   - spring-festival
 description: "Langzhong in northeastern Sichuan is one of China's four great ancient cities and is considered the birthplace of the Spring Festival tradition — the Chinese New Year celebration observed by 1.5 billion people worldwide. Its Feng Shui-optimized city layout, 2,300 years of continuous habitation, and remarkably preserved old town make it one of Sichuan's most important cultural destinations."
-ogImage: "https://images.pexels.com/photos/7494243/pexels-photo-7494243.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/sichuan-langzhong-guide/cover.webp"
 ---
 
 Langzhong (阆中) sits in a bend of the Jialing River (嘉陵江) in northeastern Sichuan, surrounded by low mountains in a configuration that has made it a textbook example of ideal Feng Shui for over two millennia. It's one of China's Four Great Ancient Cities (四大古城) alongside Pingyao, Lijiang, and Shexian — and the least visited of the four, which gives it an authenticity that the others have partially lost to tourism.
@@ -23,7 +23,7 @@ Two things distinguish Langzhong from other ancient cities in China. The first i
 
 ## Getting to Langzhong
 
-![Langzhong Ancient City Sichuan — Getting to Langzhong](https://images.pexels.com/photos/30836778/pexels-photo-30836778.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Tianfuguosheyinger, Sichuan, Chengdu](/img/destinations/sichuan-langzhong-guide/1.webp)
 
 **By high-speed train:**
 - **From Chengdu:** About 2 hours; ¥90–140; multiple daily departures
@@ -59,8 +59,6 @@ Another shrine associated with Zhang Fei, containing artifacts and historical do
 **The old town streets:**
 The best way to experience Langzhong is simply to walk. The main streets (Zhandao Street 中天楼街, Wuling Street 武庙街) are lined with wooden shopfronts selling vinegar, beef, silk, and preserved foods. The side lanes are quieter and more residential.
 
-![Langzhong Ancient City Sichuan — Feng Shui and City Layout](https://images.pexels.com/photos/32401786/pexels-photo-32401786.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Feng Shui and City Layout
 
 Langzhong's urban layout is the most complete surviving example of classical Chinese Feng Shui city planning, and the city is studied by architects and geomancers as a reference point.
@@ -85,6 +83,8 @@ The symbolic center of Langzhong, visible from most points in the old town. Clim
 
 ## Spring Festival Origin Story
 
+![Shunanzhuhai Landscape](/img/destinations/sichuan-langzhong-guide/2.webp)
+
 The Spring Festival (春节) — Chinese New Year, celebrated by roughly 1.5 billion people worldwide — traces its formal origin to Langzhong.
 
 **Luo Xiahong and the Tai Chu Calendar:**
@@ -105,8 +105,6 @@ Langzhong celebrates the Spring Festival with particular intensity, claiming to 
 
 Visiting during the Spring Festival period (late January/February) offers the most intense cultural experience, but also the most crowded.
 
-![Langzhong Ancient City Sichuan — Food in Langzhong](https://images.pexels.com/photos/29714906/pexels-photo-29714906.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Food in Langzhong
 
 Langzhong has a distinctive local food culture — different from Chengdu's more famous Sichuan cuisine:
@@ -122,6 +120,8 @@ One of China's four famous vinegars (保宁醋, along with Zhenjiang, Shanxi, an
 **Oil tea (油茶):** A breakfast staple — a thick porridge of fried flour and crushed peanuts, seasoned with Sichuan pepper and chili oil. Available at street stalls throughout the old town for ¥8–15.
 
 ## The Jialing River
+
+![Giant Buddha, Leshan](/img/destinations/sichuan-langzhong-guide/3.webp)
 
 The river that wraps around Langzhong's southern and eastern sides adds significantly to the city's atmosphere:
 

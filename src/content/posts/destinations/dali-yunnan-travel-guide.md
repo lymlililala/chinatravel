@@ -12,7 +12,7 @@ tags:
   - Bai culture
   - lakes
 description: "How to explore Dali in Yunnan — the Ming Dynasty Old Town, cycling around Erhai Lake, visiting Bai minority villages, and what makes this plateau basin one of China's most liveable travel destinations."
-ogImage: "https://images.pexels.com/photos/35410604/pexels-photo-35410604.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/dali-yunnan-travel-guide/cover.webp"
 ---
 
 Dali sits at 1,900 metres on a plateau between the Cang Mountains and the crescent-shaped Erhai Lake. The climate is spring-like year-round. The light is extraordinary — high altitude clarity, intense blue sky, the snow-capped peaks of the Cangshan reflected in the lake's surface. The town has been attracting artists, free spirits, and long-term travellers for 40 years, and the community they've built alongside the indigenous Bai minority culture creates something genuinely unique.
@@ -23,7 +23,7 @@ Dali is the kind of place where visitors who planned three days end up staying t
 
 ## Essential Information
 
-![Dali Yunnan — Essential Information](https://images.pexels.com/photos/34644903/pexels-photo-34644903.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Shuhe Old Town Scenery, Yunnan, Lijiang](/img/destinations/dali-yunnan-travel-guide/1.webp)
 
 | Detail | Info |
 |--------|------|
@@ -46,9 +46,9 @@ The town works because the architecture is consistent — grey-blue stone, white
 - **Bai Architecture:** Look for the distinctive "three squares and one screen wall" (三坊一照壁) courtyard layout typical of Bai houses — three buildings around three sides of a courtyard, with a decorative screen wall on the fourth. Many have been converted into guesthouses and cafés; the courtyards are often beautiful.
 - **The Independent Café Scene:** Dali has an unusually good café scene for a small city — a legacy of the creative community. Several roasters and independent cafés in the back streets west of Fuxing Road.
 
-![Dali Yunnan — Erhai Lake (洱海)](https://images.pexels.com/photos/37486675/pexels-photo-37486675.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Erhai Lake (洱海)
+
+![Shun Old Town Scenery, Yunnan](/img/destinations/dali-yunnan-travel-guide/2.webp)
 
 The defining landscape of Dali. Erhai ("ear sea") Lake is 42 kilometres long and 6 kilometres wide — the second-largest plateau lake in Yunnan. The clarity of the water (excellent for a Chinese lake — strict environmental regulations have improved it significantly) and the surrounding landscape of mountains and Bai fishing villages make it exceptionally beautiful.
 
@@ -68,6 +68,8 @@ Wooden boats with canopied platforms make the crossing from the Old Town pier to
 
 ## The Cangshan Mountains (苍山)
 
+![Chuxiongyiren Old Town Landscape, Yunnan](/img/destinations/dali-yunnan-travel-guide/3.webp)
+
 The Cang Mountains rise directly from the western edge of the old town — 19 peaks, the highest at 4,122 metres, with snow visible October–April.
 
 **Cable car:** Two options — the **Gantong Temple cable car** from central Old Town (¥65 up, ¥55 down, or ¥110 return) rises to around 2,800m; the **Zhonghe Temple cable car** (same price range) accesses a plateau at 2,600m where the **Jade Belt Cloud Path (玉带云路)** runs horizontally across the mountain face for 11 km.
@@ -75,8 +77,6 @@ The Cang Mountains rise directly from the western edge of the old town — 19 pe
 The **Jade Belt Cloud Path** is one of the best walks in Dali: a flat horizontal trail through rhododendron forest (spectacular in flower March–May), with constant lake views, and virtually no crowds beyond the cable car terminus.
 
 **Yuntu Valley (云腿谷):** A deep forested valley accessible from the middle cable car station, with waterfalls and mountain streams. Good half-day hiking.
-
-![Dali Yunnan — Bai Culture and Villages](https://images.pexels.com/photos/38041060/pexels-photo-38041060.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Bai Culture and Villages
 

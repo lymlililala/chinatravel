@@ -19,7 +19,7 @@ faq:
     answer: "A standard 60–90 minute sightseeing cruise costs ¥50–80. Dinner cruises run ¥120–350 per person for a 2–2.5 hour trip and should be booked in advance on weekends. Private charters for groups are significantly more expensive."
   - question: "When is the best time to take a Pearl River night cruise?"
     answer: "The prime window is 7:30–9:30pm — late enough for full darkness and the illuminated bridges and Canton Tower, early enough to avoid a very late night. Saturday evenings are the most festive (and most crowded), while Spring Festival and the October 1 Golden Week bring special riverside lighting displays."
-ogImage: "https://images.pexels.com/photos/7875319/pexels-photo-7875319.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guangzhou-pearl-river-cruise-guide/cover.webp"
 ---
 
 The Pearl River (珠江, Zhūjiāng) runs east-west through central Guangzhou, separating the older commercial districts to the north from the newer Haizhu and Panyu developments to the south. A night cruise on the river gives you a perspective on Guangzhou that walking the streets doesn't — the scale of the city's waterfront, the illuminated bridges, the Canton Tower, and the way the historic shamian island architecture sits alongside gleaming new financial towers.
@@ -30,7 +30,7 @@ It's not a world-class destination in the way the Shanghai Bund is, but as a rel
 
 ## Cruise Options
 
-![Guangzhou Pearl River Night Cruise — Cruise Options](https://images.pexels.com/photos/13120671/pexels-photo-13120671.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Yayuncun Night View, Guangdong, Guangzhou](/img/destinations/guangzhou-pearl-river-cruise-guide/1.webp)
 
 **Standard sightseeing cruise (¥50–80, 60–90 minutes):** The basic option. A medium-sized tour boat doing a set circuit from Tianzi Wharf (天字码头) or Zhongda Wharf. Commentary in Mandarin (usually). Open-deck viewing. Leaves multiple times per evening.
 
@@ -54,8 +54,6 @@ Most standard cruises cover approximately this circuit:
 - **Shamian Island (沙面岛):** The former colonial concession area — French and British consulates and trading houses from the 1840s–1940s. The tree-lined streets and European architecture are immediately recognisable from the river.
 - **White Swan Hotel:** The iconic hotel on Shamian Island is visible from the water.
 
-![Guangzhou Pearl River Night Cruise — Departure Points](https://images.pexels.com/photos/20777847/pexels-photo-20777847.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Departure Points
 
 **Tianzi Wharf (天字码头):** The most central and most used. Near Haizhu Square metro station (Lines 2 and 6). Multiple operators depart from here throughout the evening, starting around 6pm with the main evening departures at 7:30 and 8:30pm.
@@ -66,13 +64,13 @@ Most standard cruises cover approximately this circuit:
 
 ## Best Time to Go
 
+![Night View, Guangdong, Guangzhou](/img/destinations/guangzhou-pearl-river-cruise-guide/2.webp)
+
 **7:30–9:30pm:** The prime window. Late enough for full darkness (in summer, need to wait until around 8pm for proper night views), early enough that you're not making a very late night of it.
 
 **Saturday evenings** are the most festive — more boats on the water, lights more likely to be fully illuminated, restaurant boats visible along the banks. Also the most crowded.
 
 **Spring Festival and October 1 Golden Week:** Special lighting displays along the river banks. Worth timing if you're in Guangzhou during these periods.
-
-![Guangzhou Pearl River Night Cruise — Photography Tips](https://images.pexels.com/photos/18068452/pexels-photo-18068452.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Photography Tips
 
@@ -84,6 +82,8 @@ The Pearl River night scenes require some planning:
 - **Reflections:** Best when the river is calm (weeknight, no strong wind). Wind creates ripple patterns that break up reflections.
 
 ## Combining With Evening Dining
+
+![Liedeqiao Night View, Guangdong, Guangzhou](/img/destinations/guangzhou-pearl-river-cruise-guide/3.webp)
 
 Guangzhou's riverside Jijiang district (滨江路) and the areas around Shamian Island have good restaurants. Consider dinner before a cruise:
 

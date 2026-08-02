@@ -11,7 +11,7 @@ tags:
   - metro
   - toolkit
 description: "Shenzhen's extensive metro system for visitors — the lines connecting Hong Kong (Luohu and Futian border crossings on Lines 1 and 4), the tech districts (Futian CBD on Lines 1/4/11, Nanshan/tech corridor on Lines 5/9), paying with WeChat Pay or the Shenzhen metro card, and getting to popular spots."
-ogImage: "https://images.pexels.com/photos/37209451/pexels-photo-37209451.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/shenzhen-metro-guide/cover.webp"
 ---
 
 Shenzhen's metro is fast, modern, and genuinely useful — covering the whole city from the Hong Kong border crossings in the south to the new northern tech districts. The city was designed around car culture as it developed in the 1980s–2000s, but the metro has steadily expanded and now reaches all the key areas visitors and business travelers need. If you're crossing from Hong Kong or arriving at Shenzhen Bay, the metro will be your first experience of Shenzhen — and it makes a good first impression.
@@ -19,6 +19,8 @@ Shenzhen's metro is fast, modern, and genuinely useful — covering the whole ci
 ## Table of contents
 
 ## Fares and Payment
+
+![Baomo Garden, Guangdong, Guangzhou](/img/toolkit/shenzhen-metro-guide/1.webp)
 
 Shenzhen Metro fares are distance-based:
 - **¥2** starting fare for the first 4 km
@@ -78,6 +80,8 @@ Shenzhen Bay Port is one of the more convenient crossings for those coming from 
 - Bay/coastal development zones westward
 
 ## Getting to Key Destinations
+
+![Nanyueyuan Scenery, Guangdong, Guangzhou](/img/toolkit/shenzhen-metro-guide/2.webp)
 
 **Huaqiangbei Electronics Market**: Lines 1, 3, or 7 to Huaqiang North station. This is the world's largest electronics market — multiple massive malls selling everything electronic imaginable. Even if you're not buying, it's worth seeing.
 

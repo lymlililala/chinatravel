@@ -12,7 +12,7 @@ tags:
   - high-altitude
   - mountain-travel
 description: "Planning to visit Tibet, Qinghai, or China's western mountains in 2026? Altitude sickness can turn a dream trip into a medical emergency. This comprehensive guide covers prevention strategies, symptoms to watch for, medications, acclimatisation schedules, and everything you need to know about travelling safely at elevations above 2,500 metres in China."
-ogImage: "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85"
+ogImage: "/img/toolkit/china-high-altitude-sickness-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -34,6 +34,8 @@ ogImage: "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=
 - [Insurance and Medical Facilities](#insurance)
 
 ## Understanding Altitude Sickness
+
+![Guojiasenlin Park, Zhangjiajie](/img/toolkit/china-high-altitude-sickness-guide/1.webp)
 
 Altitude sickness — properly called Acute Mountain Sickness (AMS) — is not a joke. I learned this the hard way on my first trip to Lhasa in 2019. I flew in from Chengdu, felt fine for the first two hours, then spent the next 36 hours in my hotel room wondering if I'd made a terrible mistake. The headache was unlike anything I'd experienced, and the nausea was relentless. Eventually I recovered, but I wish I'd taken the acclimatisation process more seriously.
 
@@ -301,6 +303,8 @@ Shangri-La's Songzanlin Monastery involves climbing many steps — do this after
 The high trail reaches about 2,600m — generally fine for most people. The starting point at Qiaotou is only 1,800m. This is a good introduction to moderate altitude trekking.
 
 ## Food, Drink and Hydration at Altitude
+
+![Wulingyuan Scenery, Zhangjiajie](/img/toolkit/china-high-altitude-sickness-guide/2.webp)
 
 ### Hydration
 

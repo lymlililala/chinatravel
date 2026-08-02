@@ -1,7 +1,7 @@
 ---
 title: "Maijishan Grottoes Gansu: China's Most Dramatic Buddhist Cliff Sculptures"
 description: "Discover Maijishan in Gansu — one of China's four great Buddhist grotto complexes, carved into a sheer 142-metre cliff since the 4th century CE, with 7,200 clay sculptures visible on open-air walkways bolted into the rock face above a forested Silk Road valley."
-ogImage: "https://images.pexels.com/photos/34514431/pexels-photo-34514431.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/gansu-maiji-mountain-grottoes-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Gansu"
 tags: ["gansu", "maijishan", "grottoes", "buddhist-art", "tianshui", "cliff-sculptures", "silk-road", "clay-figures"]
@@ -15,9 +15,9 @@ The caves are connected by open-air wooden walkway galleries bolted into the cli
 
 ---
 
-![Maijishan Grottoes Gansu — The Art](https://images.pexels.com/photos/7859041/pexels-photo-7859041.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Art
+
+![Baita Mountain Scenery, Gansu, Lanzhou](/img/destinations/gansu-maiji-mountain-grottoes-guide/1.webp)
 
 ### Clay Sculpture Tradition
 
@@ -29,9 +29,9 @@ The **Seven Buddhas (七佛龛)** — seven seated figures, each 4–7 metres ta
 
 ---
 
-![Maijishan Grottoes Gansu — The Walkway Experience](https://images.pexels.com/photos/32102336/pexels-photo-32102336.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Walkway Experience
+
+![Mogao Caves, Gansu, Dunhuang](/img/destinations/gansu-maiji-mountain-grottoes-guide/2.webp)
 
 Climbing the wooden gallery walkways involves:
 - Narrow stairs at 60–70° angles
@@ -42,9 +42,9 @@ Climbing the wooden gallery walkways involves:
 
 ---
 
-![Maijishan Grottoes Gansu — Practical Information](https://images.pexels.com/photos/35044678/pexels-photo-35044678.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Practical Information
+
+![Singing Sand Dunes, Gansu, Dunhuang](/img/destinations/gansu-maiji-mountain-grottoes-guide/3.webp)
 
 **Location:** 45 km southeast of Tianshui city.
 **Getting there:** From Tianshui Railway Station, Bus 34 or taxi (45–60 min). Tianshui is 1 hour from Xi'an by high-speed rail.

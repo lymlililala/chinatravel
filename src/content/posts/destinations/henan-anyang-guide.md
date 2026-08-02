@@ -12,12 +12,14 @@ tags:
   - yin-ruins
   - shang-dynasty
 description: "Journey to Anyang, the cradle of Chinese written civilisation where oracle bones bearing the earliest known Chinese characters were discovered, and where the ruins of the Shang Dynasty capital of Yin reveal a sophisticated Bronze Age society from 3,300 years ago. This 2026 guide covers the UNESCO-listed Yin Ruins, the extraordinary National Museum of Chinese Writing, the Red Flag Canal engineering marvel, local Henan cuisine, and practical advice for exploring one of the most historically significant cities in all of China."
-ogImage: "https://images.pexels.com/photos/5302368/pexels-photo-5302368.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/henan-anyang-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## Anyang — Where China Learned to Write
+
+![Longmen Grottoes, Henan, Luoyang](/img/destinations/henan-anyang-guide/1.webp)
 
 If you want to understand the deep roots of Chinese civilisation, you need to come to Anyang (安阳). This city in northern Henan Province was the capital of the Shang Dynasty (商朝) from approximately 1300 to 1046 BC, making it one of the oldest continuously significant urban areas in the world. More importantly, it was here that the earliest known Chinese writing — the oracle bone script (甲骨文) — was discovered, pushing the history of Chinese literacy back over 3,300 years.
 
@@ -72,9 +74,9 @@ This extraordinary museum, opened in 2009, is dedicated to the history and devel
 
 **Entrance fee:** Free (reservation required through official WeChat account). Open 9:00 AM — 5:00 PM, closed Mondays. Allow 2-3 hours.
 
-![Anyang Henan — The Red Flag Canal (红旗渠)](https://images.pexels.com/photos/5074784/pexels-photo-5074784.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Red Flag Canal (红旗渠)
+
+![Bali Valley Scenery, Henan](/img/destinations/henan-anyang-guide/2.webp)
 
 ### Engineering Against Impossible Odds
 
@@ -114,6 +116,8 @@ The elaborate tomb of Yuan Shikai, the controversial general who became the firs
 **Hu Mian (烩面):** Henan's signature noodle dish — broad flat noodles in a rich lamb broth with vegetables and sometimes egg. ¥12-18 ($1.70-2.50 USD).
 
 ## Practical Information
+
+![Guanlin Temple Scenery, Henan, Luoyang](/img/destinations/henan-anyang-guide/3.webp)
 
 ### Getting to Anyang
 

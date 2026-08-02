@@ -12,7 +12,7 @@ tags:
   - architecture
   - cafe
 description: "Shamian Island in the Pearl River is Guangzhou's most atmospheric neighbourhood — a former foreign concession with immaculate European architecture, shade trees, riverside promenades and excellent cafes. This 2026 guide covers the architecture walk, best cafes, the surrounding Xiguan culture, how to get there, accommodation and what makes this tiny island such a distinctive part of Guangzhou's personality."
-ogImage: "https://images.pexels.com/photos/35144762/pexels-photo-35144762.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guangzhou-shamian-island-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -25,7 +25,7 @@ It's one of Guangzhou's genuine pleasures — and small enough to be experienced
 
 ## The Architecture Walk
 
-![Guangzhou Shamian Island — The Architecture Walk](https://images.pexels.com/photos/8592644/pexels-photo-8592644.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Taishanxiachuan Island Scenery, Guangdong](/img/destinations/guangzhou-shamian-island-guide/1.webp)
 
 ### British and French Concession Buildings
 
@@ -77,8 +77,6 @@ Shamian's immediate neighbourhood — the Xiguan (西关) district of Liwan — 
 
 **Chen Clan Ancestral Hall:** ¥10 ($1.4). Metro Line 1, Chen Clan Ancestral Hall Station.
 
-![Guangzhou Shamian Island — Getting to Shamian Island](https://images.unsplash.com/photo-1649147856874-d3c4901eca94?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwyfHxzaGFtaWFuJTIwaXNsYW5kfGVufDB8MHx8fDE3ODE4NDMyMjN8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
-
 ## Getting to Shamian Island
 
 **Metro:** Line 1, Huangsha Station (黄沙), Exit B. Walk south approximately 500 metres to the island bridges (5 minutes).
@@ -90,6 +88,8 @@ Shamian's immediate neighbourhood — the Xiguan (西关) district of Liwan — 
 **On foot from Guangzhou's Shangxiajiu pedestrian street:** About 15 minutes south walking through the Xiguan district; an excellent approach that takes you through the traditional commercial architecture.
 
 ## Shamian Hotel Options
+
+![Taishanshangchuan Island Scenery, Guangdong](/img/destinations/guangzhou-shamian-island-guide/2.webp)
 
 The island has a small but distinctive accommodation offering.
 
@@ -110,8 +110,6 @@ The island has a small but distinctive accommodation offering.
 
 **April–September:** Hot and humid (30–38°C); mornings are manageable but afternoon exploration is uncomfortable.
 
-![Guangzhou Shamian Island — Combining Shamian with a Guangzhou Day](https://images.pexels.com/photos/35272169/pexels-photo-35272169.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Combining Shamian with a Guangzhou Day
 
 A natural Guangzhou day:
@@ -131,6 +129,8 @@ A natural Guangzhou day:
 **19:00:** Pearl River night cruise from Tianzi Pier
 
 ## Practical Tips
+
+![Taishannaqinban Island Scenery, Guangdong](/img/destinations/guangzhou-shamian-island-guide/3.webp)
 
 - **Tree canopy:** The island's massive banyans and rain trees provide almost complete shade coverage in the central streets. This makes Shamian one of the few comfortable mid-afternoon destinations in Guangzhou's summer.
 - **Photography:** The north promenade at golden hour (hour before sunset) with the Pearl River and Haizhu skyline is excellent. The main east-west street has good light in the morning from the east.

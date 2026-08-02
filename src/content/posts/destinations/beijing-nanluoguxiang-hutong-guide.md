@@ -12,7 +12,7 @@ tags:
   - culture
   - china
 description: "Nanluoguxiang is Beijing's most accessible hutong district — a 786-metre alley lined with courtyard houses, indie cafes, snack vendors, and craft shops. This guide covers the main street highlights, the quieter side lanes worth exploring, best local food, and how to get the most out of a Beijing hutong visit."
-ogImage: "https://images.pexels.com/photos/34939614/pexels-photo-34939614.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/beijing-nanluoguxiang-hutong-guide/cover.webp"
 ---
 
 Nanluoguxiang (南锣鼓巷, South Gong and Drum Lane) is Beijing's most famous hutong — a 786-metre pedestrian alley running north-south through the Drum Tower neighbourhood, lined with Ming and Qing dynasty courtyard houses that have been converted into boutiques, cafes, snack stalls, and craft workshops. It's become genuinely touristy over the past decade, but the main lane remains worth visiting, and the side alleys branching off it retain real neighbourhood character that rewards slower exploration.
@@ -23,7 +23,7 @@ The name comes from the gong-and-drum towers visible from the north end of the a
 
 ## The Main Lane
 
-![Nanluoguxiang Hutong Beijing — The Main Lane](https://images.pexels.com/photos/6122271/pexels-photo-6122271.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Courtyard House, Beijing](/img/destinations/beijing-nanluoguxiang-hutong-guide/1.webp)
 
 The central alley of Nanluoguxiang is a commercial strip — busier and more souvenir-oriented than it was 15 years ago, but still atmospheric. The buildings are genuinely old, the scale is genuinely human (nothing taller than one or two storeys, no cars), and on a good day the sensory combination of roasting lamb skewers, traditional architecture, and Beijing cold air is distinctive.
 
@@ -47,8 +47,6 @@ Eight traditional hutong lanes branch off the main Nanluoguxiang alley, alternat
 
 **Juzi Hutong (菊儿胡同):** Has a famous contemporary courtyard housing development by architect Wu Liangyong that won the Aga Khan Award for Architecture. Worth seeking out if you're interested in how traditional hutong forms can be updated.
 
-![Nanluoguxiang Hutong Beijing — The Drum Tower Area](https://images.unsplash.com/photo-1733456504084-affcfe01a6e9?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw1fHxkcnVtJTIwdG93ZXJ8ZW58MHwwfHx8MTc4MTc4NDE4OXww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
-
 ## The Drum Tower Area
 
 At the north end of Nanluoguxiang, you emerge near the Drum Tower (鼓楼) and Bell Tower (钟楼). The Drum Tower (¥30 entry) has a collection of percussion instruments and hourly drum performances. The Bell Tower is currently periodically closed for restoration — check before visiting. The square between them has good benches and a different view back down toward the alley.
@@ -56,6 +54,8 @@ At the north end of Nanluoguxiang, you emerge near the Drum Tower (鼓楼) and B
 From the Drum Tower area, it's a short walk north to the Shichahai lake area (什刹海) — three connected lakes with willow-shaded promenades, bars, and the Silver Ingot Bridge viewpoint. This is one of Beijing's most beautiful areas for an evening stroll.
 
 ## When to Visit
+
+![Forbidden City Panorama Interior, Beijing](/img/destinations/beijing-nanluoguxiang-hutong-guide/2.webp)
 
 **Weekday mornings:** The best combination of quiet streets and active local life. The stalls are just setting up, residents are out, and you can walk at a human pace.
 
@@ -65,9 +65,9 @@ From the Drum Tower area, it's a short walk north to the Shichahai lake area (�
 
 **Summer evenings:** The outdoor seating of bars and cafes fills with locals, and there's a lively neighbourhood energy around 7–9pm.
 
-![Nanluoguxiang Hutong Beijing — Getting There](https://images.pexels.com/photos/36647047/pexels-photo-36647047.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting There
+
+![Tiananmen, Beijing](/img/destinations/beijing-nanluoguxiang-hutong-guide/3.webp)
 
 **Metro:** Line 8 to Shichahai (什刹海) station, Exit B, then walk south. Or Line 6 to Nanluoguxiang (南锣鼓巷) station, Exit C, which brings you out almost at the entrance of the alley.
 

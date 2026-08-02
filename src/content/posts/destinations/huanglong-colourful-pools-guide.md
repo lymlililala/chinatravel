@@ -11,16 +11,16 @@ tags:
   - unesco
   - altitude
 description: "Huanglong Scenic Area in Sichuan — the UNESCO-listed travertine pool cascade rising to 3,577m, how to visit, altitude acclimatisation requirements, combining with Jiuzhaigou, and why most visitors say it surpasses their expectations despite the altitude."
-ogImage: "https://images.pexels.com/photos/29767798/pexels-photo-29767798.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/huanglong-colourful-pools-guide/cover.webp"
 ---
 
 Huanglong (黄龙, Yellow Dragon) Scenic Area in northern Sichuan is one of China's most visually extraordinary natural landscapes — a 3.6km travertine cascade of 3,400 coloured pools at elevations between 3,145m and 3,577m. The calcium carbonate deposit system creates pools ranging from turquoise to emerald to gold in colour, set within a forested gorge with snow peaks visible above.
 
 Huanglong is UNESCO World Heritage Site listed alongside Jiuzhaigou — and less visited, making it the better experience for most discerning travellers.
 
-![Huanglong UNESCO Scenic Area — The Landscape](https://images.pexels.com/photos/37804559/pexels-photo-37804559.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Landscape
+
+![Tianfuguosheyingyi, Sichuan, Chengdu](/img/destinations/huanglong-colourful-pools-guide/1.webp)
 
 Huanglong's pools form as calcite-saturated water from underground springs flows over the valley floor and deposits calcium carbonate, building the rimstone dam formations that contain each pool. Over thousands of years, this process creates a natural staircase system — similar to the Plitvice Lakes in Croatia but at higher altitude and at larger scale.
 
@@ -28,9 +28,9 @@ The colour variations come from: algae (contributing greens and blues), the calc
 
 **The main cascade**: The primary Huanglong Valley section is 2.5km long. The top section (Huanglong Temple area, 3,577m) has the most dense pool concentration — over 400 pools in the final section.
 
-![Huanglong UNESCO Scenic Area — The Altitude Challenge](https://images.pexels.com/photos/35776225/pexels-photo-35776225.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Altitude Challenge
+
+![Tianfuguosheyinger, Sichuan, Chengdu](/img/destinations/huanglong-colourful-pools-guide/2.webp)
 
 Huanglong is at the base level 3,145m with the path ascending to 3,577m. This is significant altitude — most visitors, even those who handle everyday altitude fine, will notice breathlessness and slower pace at the upper section.
 
@@ -42,9 +42,9 @@ Huanglong is at the base level 3,145m with the path ascending to 3,577m. This is
 
 **Cable car**: A cable car ascends to the upper section (3,300m) — highly recommended for visitors who want to see the most spectacular upper pools without a full altitude ascent on foot. The walk down is significantly easier.
 
-![Huanglong UNESCO Scenic Area — Combining with Jiuzhaigou](https://images.pexels.com/photos/31654293/pexels-photo-31654293.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Combining with Jiuzhaigou
+
+![Lugu Lake Ligeban Island Scenery, Sichuan](/img/destinations/huanglong-colourful-pools-guide/3.webp)
 
 Huanglong and Jiuzhaigou are 120km apart on the same mountain road — most visitors combine both in a 3–4 day circuit from Chengdu.
 

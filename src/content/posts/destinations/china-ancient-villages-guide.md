@@ -10,7 +10,7 @@ tags:
   - culture
   - destinations
 description: "A guide to China's most beautifully preserved ancient villages — the UNESCO-listed Hongcun and Xidi in Anhui, the cliff village of Furong in Zhejiang, and lesser-known gems across the country. What makes each special and how to visit beyond the day-trip bus crowd."
-ogImage: "https://images.pexels.com/photos/28927399/pexels-photo-28927399.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/china-ancient-villages-guide/cover.webp"
 ---
 
 China's ancient villages offer something the cities cannot: the physical texture of pre-modern Chinese life — rammed earth walls, carved wooden screens, stone-paved lanes, wells used by generations of the same family for five centuries. The best-preserved examples are UNESCO World Heritage sites; the least known are entirely untouristed. This guide covers both.
@@ -19,7 +19,7 @@ China's ancient villages offer something the cities cannot: the physical texture
 
 ## Hongcun and Xidi: Anhui's UNESCO Villages
 
-![China's Preserved Ancient Villages — Hongcun and Xidi: Anhui's UNESCO Villages](https://images.pexels.com/photos/3975364/pexels-photo-3975364.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Huqiu Scenery Mingshengqu Scenery, Suzhou](/img/destinations/china-ancient-villages-guide/1.webp)
 
 The villages of **Hongcun (宏村)** and **Xidi (西递)** in She County, Anhui Province, were inscribed on the UNESCO World Heritage List in 2000 as outstanding examples of Huizhou (徽州) architecture. Both were settled and developed by the Wang and Hu merchant clans during the Ming and Qing Dynasties, when Huizhou merchants dominated China's salt trade.
 
@@ -59,8 +59,6 @@ The village is famous for its **"七星八斗" (Seven Stars, Eight Dou)** layout
 
 ---
 
-![China's Preserved Ancient Villages — Zhuge Village (诸葛村): The Labyrinth of Lanxi](https://images.pexels.com/photos/29611975/pexels-photo-29611975.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Zhuge Village (诸葛村): The Labyrinth of Lanxi
 
 Zhuge Village (诸葛村) in Lanxi County, Zhejiang, claims descent from Zhuge Liang — the famous strategist of the Three Kingdoms period (184–280 AD). Whether the genealogy is accurate is debatable; what is beyond dispute is the extraordinary village layout: based on the Eight Trigrams (八卦) pattern from the I Ching, with streets radiating from a central "Sky Pond" (钟池) in a pattern that deliberately confuses navigation — keeping enemies lost and defenders oriented.
@@ -73,6 +71,8 @@ Visitors frequently get lost in the labyrinthine lanes; this is by design. The o
 
 ## Dangjia Village (党家村): Shaanxi's Hidden Gem
 
+![Zhongyuan Temple Scenery, Suzhou](/img/destinations/china-ancient-villages-guide/2.webp)
+
 Dangjia Village (党家村) in Hancheng, Shaanxi Province, is almost unknown outside China but contains 125 preserved Ming and Qing Dynasty courtyard houses (四合院) in near-perfect condition — the finest concentration of northern Chinese vernacular architecture surviving.
 
 Unlike Anhui's white-walled style, these are northern Chinese compounds: high blank outer walls, interior courtyards with carved stone gate towers (门楼), and interior rooms connected by covered walkways. The village has been continuously inhabited by the Dang and Jia clans for over 600 years.
@@ -81,9 +81,9 @@ Unlike Anhui's white-walled style, these are northern Chinese compounds: high bl
 
 ---
 
-![China's Preserved Ancient Villages — Zhaoxing Dong Village (肇兴侗寨): Guizhou's Wind-Rain Bridges](https://images.pexels.com/photos/8776825/pexels-photo-8776825.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Zhaoxing Dong Village (肇兴侗寨): Guizhou's Wind-Rain Bridges
+
+![West Lake Yuefei Temple, Hangzhou](/img/destinations/china-ancient-villages-guide/3.webp)
 
 Zhaoxing (肇兴), in Liping County, Guizhou, is the largest Dong ethnic minority village in China — approximately 1,000 Dong families in a mountain valley. The village is famous for its **five drum towers** (鼓楼, one for each of the five clan groups) and five **Wind-Rain Bridges** (风雨桥): covered wooden bridges that are simultaneously functional crossings and community gathering spaces.
 

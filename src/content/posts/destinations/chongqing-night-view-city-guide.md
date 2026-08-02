@@ -11,16 +11,16 @@ tags:
   - food
   - night
 description: "Chongqing's famous night views — the best viewpoints for the city's dramatic hillside cityscape, the Hongyadong hanging city complex, the Yangtze River light show, Elephant Mountain at 10pm, and the local bar streets where Chongqing residents actually go at night."
-ogImage: "https://images.pexels.com/photos/32599840/pexels-photo-32599840.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/chongqing-night-view-city-guide/cover.webp"
 ---
 
 Chongqing (重庆) has one of the most dramatic urban landscapes in the world — a mountain city built on the peninsula and hillsides where the Jialing River meets the Yangtze, with skyscrapers climbing steep gradients and the entire city visible in layers from across the rivers. At night, when the city's lights reflect on both rivers simultaneously, it becomes extraordinary.
 
 The city is famously photogenic after dark — and the photography challenge is finding viewpoints that capture the full drama rather than the generic tourist compositions.
 
-![Chongqing Night View — The Best Night Viewpoints](https://images.unsplash.com/photo-1734884148216-0b582f3ad2b0?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHx2aWV3cG9pbnRzfGVufDB8MHx8fDE3ODE4MzQ4NDV8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
-
 ## The Best Night Viewpoints
+
+![Jinyun Mountain Scenery, Chongqing](/img/destinations/chongqing-night-view-city-guide/1.webp)
 
 ### Nanshan One Tree Hill (南山一棵树观景台)
 
@@ -44,9 +44,9 @@ The E'ling Sec Factory (鹅岭二厂) — a converted 1930s printing factory on 
 
 The Yangtze River Cableway is a working commuter cableway across the Yangtze — not built for tourism, used by residents. A single crossing (¥20) at night gives moving views of the city from the river level upward. The approach and departure terminals are both in preserved residential areas.
 
-![Chongqing Night View — Hongyadong (洪崖洞)](https://images.pexels.com/photos/11975552/pexels-photo-11975552.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Hongyadong (洪崖洞)
+
+![Fengdougui City, Chongqing](/img/destinations/chongqing-night-view-city-guide/2.webp)
 
 Hongyadong is a stilted city-within-the-city — 11 floors of commercial space built down a cliff face, accessible from ground level at the top and river level at the bottom. The architectural concept is based on traditional Chongqing cliff-face architecture (吊脚楼, stilted houses).
 
@@ -54,9 +54,9 @@ Hongyadong is a stilted city-within-the-city — 11 floors of commercial space b
 
 **Best experience**: View from across the river, then walk in for dinner or drinks in the upper floors with river views.
 
-![Chongqing Night View — Night Food Culture](https://images.pexels.com/photos/32223212/pexels-photo-32223212.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Night Food Culture
+
+![Yongchuancha Mountain Scenery, Chongqing](/img/destinations/chongqing-night-view-city-guide/3.webp)
 
 Chongqing's night food culture centres on three things:
 

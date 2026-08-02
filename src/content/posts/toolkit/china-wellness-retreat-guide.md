@@ -20,7 +20,7 @@ tags:
   - culture
   - health
 description: "Wellness tourism in China — the hot spring resorts near major cities (Conghua near Guangzhou, Anji near Hangzhou, Zhongdian in Yunnan), Traditional Chinese Medicine (TCM) clinics in major cities that accept foreigners, Taoist meditation retreats at Wudang Mountain and Qingcheng Mountain, and the growing yoga retreat scene in Dali and Yangshuo."
-ogImage: "https://images.pexels.com/photos/7662380/pexels-photo-7662380.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-wellness-retreat-guide/cover.webp"
 ---
 
 China has a wellness culture that's thousands of years deep, and the infrastructure for it — hot spring resorts, TCM clinics, Taoist mountain retreats, acupuncture centres — is extraordinarily developed once you know where to look. The challenge for foreign visitors is that much of it operates in Chinese with no English interfaces. This guide covers the accessible entry points.
@@ -28,6 +28,8 @@ China has a wellness culture that's thousands of years deep, and the infrastruct
 ## Table of contents
 
 ## Hot Springs: Where to Go Near Major Cities
+
+![Xingping, Guangxi, Yangshuo](/img/toolkit/china-wellness-retreat-guide/1.webp)
 
 ### Conghua Hot Springs (Guangzhou)
 
@@ -87,6 +89,8 @@ For wellness seekers, Wudang offers:
 The mountain itself is stunning — ancient stone pathways, mist over pine forests, the Golden Summit gleaming at 1612m. It's about 3 hours from Wuhan by train to Danjiangkou Station, then bus to the mountain.
 
 ## Qingcheng Mountain: The Quiet Taoist Mountain
+
+![Forbidden City Panorama Interior, Beijing](/img/toolkit/china-wellness-retreat-guide/2.webp)
 
 Near Chengdu, **Qingcheng Mountain (青城山)** is where Taoism was formally established in China in the 2nd century CE. It's smaller and quieter than Wudang, with atmospheric temple-cave complexes built into forested hillsides. Much less visited than Chengdu's panda base.
 

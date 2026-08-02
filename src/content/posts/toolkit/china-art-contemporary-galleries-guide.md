@@ -14,7 +14,7 @@ tags:
   - Beijing
   - Shanghai
 description: "Explore China's thriving contemporary art scene in 2026. From Beijing's 798 Art District and Shanghai's West Bund to Chengdu's art parks and Shenzhen's OCT Loft, this guide covers the best galleries, museums, and art spaces for visitors, including opening hours, entry fees, and practical visiting tips."
-ogImage: "https://images.pexels.com/photos/12102947/pexels-photo-12102947.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-art-contemporary-galleries-guide/cover.webp"
 ---
 
 When most people think about art in China, they picture ancient ceramics in the Palace Museum or ink paintings behind glass in climate-controlled galleries. And while those traditions are extraordinary, China also has one of the most dynamic contemporary art scenes in the world — bold, experimental, sometimes confrontational, and increasingly internationally recognized.
@@ -26,6 +26,8 @@ This guide covers where to find the best contemporary art in China in 2026, with
 ## Table of contents
 
 ## Beijing: 798 Art District and Beyond
+
+![Jinshanling Great Wall, Beijing](/img/toolkit/china-art-contemporary-galleries-guide/1.webp)
 
 ### 798 Art District (798艺术区)
 
@@ -136,6 +138,8 @@ One of the older contemporary art institutions in China, the Guangdong Museum of
 Located inside a residential tower (unusually), Times Museum has a strong curatorial reputation for showing Chinese and international contemporary art in an experimental, critical framework. Entry: ¥20–¥50.
 
 ## Art Fairs: The Big Events
+
+![Yiyuanjie Scenery, Beijing, Suzhou](/img/toolkit/china-art-contemporary-galleries-guide/2.webp)
 
 If your visit aligns with any of these events, they're well worth attending:
 

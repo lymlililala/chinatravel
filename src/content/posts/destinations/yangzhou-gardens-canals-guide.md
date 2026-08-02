@@ -11,16 +11,16 @@ tags:
   - gardens
   - food
 description: "Yangzhou — one of China's most elegant smaller cities, with classical gardens rivalling Suzhou, the ancient Grand Canal waterfront, extraordinary morning tea (早茶) culture, and proximity to Nanjing and Shanghai."
-ogImage: "https://images.pexels.com/photos/16158489/pexels-photo-16158489.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/yangzhou-gardens-canals-guide/cover.webp"
 ---
 
 "There are three pleasures in life: eating yangzhou food, drinking longquan water, and sleeping in Hangzhou," goes an old Chinese saying — and the first is still absolutely valid. Yangzhou (扬州) is a city of refined pleasures: its classical gardens are among China's most beautiful, its morning tea culture is one of the country's best, and the Grand Canal that made it wealthy for 1,500 years is now a UNESCO World Heritage Site running through its historic centre.
 
 Yangzhou is 1 hour from Nanjing and 1.5 hours from Shanghai by high-speed train — a logical day trip or overnight stop in the Jiangnan circuit.
 
-![Yangzhou — Ge Garden (个园)](https://images.pexels.com/photos/7582615/pexels-photo-7582615.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Ge Garden (个园)
+
+![Gudianmingyuanliu Garden Scenery, Suzhou](/img/destinations/yangzhou-gardens-canals-guide/1.webp)
 
 Ge Garden (建于1818年) is named for the bamboo growing everywhere within it — the character 个 (gè) resembles a bamboo leaf. The garden is famous for its "Four Seasons" rockery design: four distinct rock arrangements made from different stone types evoke the character of spring, summer, autumn, and winter.
 
@@ -28,17 +28,15 @@ The spring rocks (bamboo and light limestone), summer rocks (massive grey-green 
 
 One of the finest examples of the rockery-as-landscape tradition in Chinese garden design.
 
-![Yangzhou — Slender West Lake (瘦西湖)](https://images.pexels.com/photos/7494607/pexels-photo-7494607.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Slender West Lake (瘦西湖)
+
+![Shi Lake Scenery, Jiangsu, Suzhou](/img/destinations/yangzhou-gardens-canals-guide/2.webp)
 
 Slender West Lake is Yangzhou's most-visited attraction — a narrow lake (the "slender" refers to its elongated shape compared to Hangzhou's West Lake) with a sequence of bridges, pavilions, and garden vistas along its banks. The 5-arch Wuting Bridge (五亭桥, Five Pavilion Bridge, 1757) is the most photographed structure — a compound bridge with five hexagonal pavilions on its piers.
 
 The lake circuit is best experienced by boat (¥100–150 per person, shared boat, 1.5 hours) or by walking the western bank path (2–3 hours).
 
 **The Fishing Platform**: The circular pavilion from which Emperor Qianlong is said to have fished, positioned so that the moon reflected in the water appears to rise from the archway when viewed from a specific angle.
-
-![Yangzhou — Grand Canal Waterfront (大运河)](https://images.pexels.com/photos/28916314/pexels-photo-28916314.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Grand Canal Waterfront (大运河)
 
@@ -47,6 +45,8 @@ The Grand Canal (京杭大运河) — the longest canal in the world at 1,794km,
 The **Slender West Lake section** and the **East Gate River (东关古渡)** area preserve the clearest picture of the canal's historical function. The recently developed **Grand Canal Museum (扬州中国大运河博物馆)** — opened 2021 — is one of China's most impressive new museums, with a full-scale reproduction of a Tang dynasty canal section.
 
 ## Morning Tea (早茶) Culture
+
+![Zhuozheng Garden, Suzhou](/img/destinations/yangzhou-gardens-canals-guide/3.webp)
 
 Yangzhou is one of a small number of Chinese cities where morning tea (早茶 zǎochá) is a genuine social institution — and the Yangzhou style is distinct from Guangzhou's yum cha.
 

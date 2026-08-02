@@ -10,7 +10,7 @@ tags:
   - transport
   - toolkit
 description: "How to book China high-speed train tickets and domestic flights using the best apps for foreign visitors — including 12306, Trip.com, and Fliggy — with step-by-step setup and ticket collection instructions."
-ogImage: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=900&q=80"
+ogImage: "/img/toolkit/china-train-flight-booking-apps/cover.webp"
 ---
 
 Booking transport in China as a foreigner has become much easier since 2023, but it still requires navigating a few app-specific quirks. This guide covers every practical method for securing train and flight tickets without a Chinese ID card.
@@ -18,6 +18,8 @@ Booking transport in China as a foreigner has become much easier since 2023, but
 ## Table of contents
 
 ## Booking China Train Tickets (高铁/动车)
+
+![Scenery, Jiuzhaigou, Sichuan](/img/toolkit/china-train-flight-booking-apps/1.webp)
 
 ### Method 1: 12306 App (Official, Best Price)
 
@@ -96,6 +98,8 @@ For day trips: 2nd class is fine and what most Chinese travellers use. For overn
 ---
 
 ## Booking Domestic Flights
+
+![Terracotta Army](/img/toolkit/china-train-flight-booking-apps/2.webp)
 
 ### Apps and platforms
 

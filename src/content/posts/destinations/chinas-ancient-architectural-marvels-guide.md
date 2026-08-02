@@ -13,7 +13,7 @@ tags:
   - "jiangsu"
   - "beijing"
 description: "Discover China's iconic ancient structures: the wooden Yingxian Pagoda, Suzhou's misty Chongyuan Temple, and Beijing's Yuanmingyuan. A guide to history"
-ogImage: "https://images.pexels.com/photos/34675319/pexels-photo-34675319.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/chinas-ancient-architectural-marvels-guide/cover.webp"
 faq:
   - question: "Are these sites accessible for wheelchair users?"
     answer: "Yuanmingyuan has paved paths and is mostly accessible. Chongyuan Temple has some uneven stone paths but is manageable. The Yingxian Wooden Pagoda area is flat, but the pagoda interior is not wheelchair accessible."
@@ -35,9 +35,9 @@ China's ancient architecture is a testament to millennia of ingenuity, spiritual
 
 ## Yingxian Wooden Pagoda: A Millennia-Old Marvel
 
-Standing in the heart of Shanxi Province, the Yingxian Wooden Pagoda is the world's oldest and tallest fully wooden pagoda. Built in 1056 during the Liao Dynasty, it rises 67 meters (220 feet) using 3,000 cubic meters of red pine, all joined without a single nail — a masterpiece of interlocking brackets (斗拱, dǒugǒng).
+![Weimei Natural Scenery, Guangxi, Yangshuo](/img/destinations/chinas-ancient-architectural-marvels-guide/1.webp)
 
-![The towering Yingxian Wooden Pagoda against a blue sky, with intricate wooden brackets visible](https://images.pexels.com/photos/37705849/pexels-photo-37705849.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+Standing in the heart of Shanxi Province, the Yingxian Wooden Pagoda is the world's oldest and tallest fully wooden pagoda. Built in 1056 during the Liao Dynasty, it rises 67 meters (220 feet) using 3,000 cubic meters of red pine, all joined without a single nail — a masterpiece of interlocking brackets (斗拱, dǒugǒng).
 
 ### Why It's Extraordinary
 - **Earthquake-resistant**: The pagoda has survived over a dozen major earthquakes, including a 6.5-magnitude quake in 1976, thanks to its flexible wooden joints.
@@ -55,9 +55,9 @@ For more ancient wonders, explore our [cultural heritage guides](/tags/culture).
 
 ## Chongyuan Temple: A Jiangnan Watercolor
 
-On the shores of Yangcheng Lake in Suzhou, Jiangsu, Chongyuan Temple (also known as Chongxuan Temple) dates back to 503 AD during the Southern Liang Dynasty. Originally a private residence, it became a Buddhist monastery that has been rebuilt over centuries. Its most enchanting aspect is the seamless integration of architecture with water and gardens.
+![Jiejing, Guangxi, Yangshuo](/img/destinations/chinas-ancient-architectural-marvels-guide/2.webp)
 
-![A misty view of Chongyuan Temple's grand hall reflected in a lotus pond, with raindrops creating ripples](https://images.pexels.com/photos/34675319/pexels-photo-34675319.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+On the shores of Yangcheng Lake in Suzhou, Jiangsu, Chongyuan Temple (also known as Chongxuan Temple) dates back to 503 AD during the Southern Liang Dynasty. Originally a private residence, it became a Buddhist monastery that has been rebuilt over centuries. Its most enchanting aspect is the seamless integration of architecture with water and gardens.
 
 ### The Rainy Season Charm
 - **Rain transforms the temple**: The "smoke and rain" (烟雨, yānyǔ) of the Jiangnan region creates a dreamlike atmosphere. The temple's gray tiles and vermilion columns appear more vivid against the overcast sky.
@@ -78,8 +78,6 @@ Pair this visit with other Jiangnan water towns — see our [east China itinerar
 
 Yuanmingyuan, or the Old Summer Palace, was once a vast imperial garden complex built during the Qing Dynasty (18th century). Known as the "Garden of Gardens," it combined Chinese landscaping with European-style palaces and fountains. Destroyed by Anglo-French forces in 1860, its ruins now stand as a poignant historical site.
 
-![Ruins of a European-style palace at Yuanmingyuan with water lilies blooming in a pond in the foreground](https://images.pexels.com/photos/20224297/pexels-photo-20224297.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ### The Lotus Connection
 - **Summer lotus display**: Yuanmingyuan's lakes are famous for their water lilies (睡莲, shuìlián), which bloom from June to August. The flowers range from pale yellow to deep purple, creating a "watercolor palette" effect.
 - **Historical contrast**: The delicate blooms juxtapose with the broken marble columns, offering a poignant reminder of beauty amid destruction.
@@ -95,6 +93,8 @@ Yuanmingyuan, or the Old Summer Palace, was once a vast imperial garden complex 
 For more historical sites in Beijing, check our [Beijing travel guides](/tags/beijing).
 
 ## Practical Tips for Visiting Ancient Sites
+
+![Huangyaguan Great Wall Scenery, Tianjin](/img/destinations/chinas-ancient-architectural-marvels-guide/3.webp)
 
 ### Best Time to Visit
 - **Spring (March-May)** and **Autumn (September-November)** offer mild temperatures and clear skies, ideal for outdoor exploration.

@@ -11,7 +11,7 @@ tags:
   - culture
   - beginners
 description: "The best things to buy in China as a tourist — tea, silk, ceramics, Traditional Chinese Medicine, electronics, and local crafts by city. Where to shop, what prices to expect, how to avoid fakes, and what you can bring through customs."
-ogImage: "https://images.unsplash.com/photo-1491553895911-0055eca6402d?w=900&q=80"
+ogImage: "/img/toolkit/china-shopping-what-to-buy-guide/cover.webp"
 ---
 
 China is one of the world's great shopping destinations — not primarily for luxury goods or international brands (those are cheaper at home or in duty-free), but for things that are genuinely better here: tea, silk, ceramics, carved jade, regional crafts, traditional medicine products, and certain electronics. Knowing what to buy and where is the difference between excellent value and tourist overpricing.
@@ -23,6 +23,8 @@ This guide covers the categories worth considering, the best cities for each, re
 ---
 
 ## Tea — China's Best Export
+
+![Terracotta Army](/img/toolkit/china-shopping-what-to-buy-guide/1.webp)
 
 Tea is the single most recommended purchase in China. The quality-to-price ratio is dramatically different from what reaches overseas markets, even at specialty tea shops in London, New York, or Sydney.
 
@@ -123,6 +125,8 @@ China produces 75–80% of the world's silk, which means prices are a fraction o
 ---
 
 ## Crafts and Art by Region
+
+![Great Wall Lao City Wall](/img/toolkit/china-shopping-what-to-buy-guide/2.webp)
 
 **Beijing:** Cloisonné (enamel metalwork), lacquerware, traditional Chinese paintings and calligraphy on scroll, Peking opera mask crafts.
 

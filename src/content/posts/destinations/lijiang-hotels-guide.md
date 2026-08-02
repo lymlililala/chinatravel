@@ -11,7 +11,7 @@ tags:
   - accommodation
   - southwest-china
 description: "The Lijiang accommodation decision — staying inside the UNESCO old town (atmospheric Naxi wooden guesthouses, no cars, alleys, incredible ambience but limited facilities) vs modern hotels in the new city (better service, taxi access, but generic). Price ranges, specific guesthouse picks, and why the old town is worth paying more for if your budget allows."
-ogImage: "https://images.pexels.com/photos/8936979/pexels-photo-8936979.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/lijiang-hotels-guide/cover.webp"
 ---
 
 Lijiang has one of the clearest accommodation decisions of any Chinese tourist city: you either stay inside the UNESCO-protected old town (古城, gǔchéng) in a Naxi wooden guesthouse, or you stay in the modern city in a conventional hotel. The experiences are not slightly different — they are completely different. One puts you inside one of the most beautiful preserved historic towns in Asia; the other puts you in a generic Chinese city hotel that happens to be near that town. The price difference is smaller than you might expect.
@@ -20,7 +20,7 @@ Lijiang has one of the clearest accommodation decisions of any Chinese tourist c
 
 ## Why the Old Town Changes the Experience
 
-![Stay Lijiang — Why the Old Town Changes the Experience](https://images.pexels.com/photos/18659948/pexels-photo-18659948.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Shun Old Town Scenery, Yunnan](/img/destinations/lijiang-hotels-guide/1.webp)
 
 **Lijiang Old Town** (丽江古城) is a UNESCO World Heritage Site for good reason. The Naxi minority architecture — intricate carved wooden eaves, tiled roofs that curve upward at the corners, cobblestone streets with water channels running alongside, no vehicles, no concrete — creates an environment that's genuinely unlike anywhere else.
 
@@ -60,9 +60,9 @@ Old town guesthouses range from converted Naxi family homes with 4-6 rooms and f
 
 **Ask for courtyard-facing rooms:** Explicitly request a room that faces the internal courtyard rather than the external street or an interior wall. The courtyard view is what you're paying for.
 
-![Stay Lijiang — The New City Alternative](https://images.pexels.com/photos/34714159/pexels-photo-34714159.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The New City Alternative
+
+![Chuxiongyiren Old Town Landscape, Yunnan](/img/destinations/lijiang-hotels-guide/2.webp)
 
 If you require: an actual car to your door, lifts (some old town guesthouses have several staircases), fully disability-accessible facilities, or hotel chain loyalty points — the new city is your option.
 
@@ -74,11 +74,11 @@ If you require: an actual car to your door, lifts (some old town guesthouses hav
 
 ## The Mountain Resort Option
 
+![Shaxi Old Town Fengqing, Yunnan](/img/destinations/lijiang-hotels-guide/3.webp)
+
 A third option exists: **resort hotels north of Lijiang**, particularly in the **Jade Dragon Snow Mountain** (玉龙雪山) scenic area. These large resort hotels — Banyan Tree Lijiang, Ritz-Carlton Lijiang — are set against the mountain backdrop and offer luxury facilities at significant prices (¥2,500-8,000/night).
 
 The trade-off: you're at altitude (around 2,800-3,100m), away from the old town, in a resort environment. For the mountain scenery and the Banyan Tree specifically, many travellers consider this the best accommodation in the Lijiang region.
-
-![Stay Lijiang — Budget: Old Town on Less Money](https://images.pexels.com/photos/6964105/pexels-photo-6964105.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Budget: Old Town on Less Money
 

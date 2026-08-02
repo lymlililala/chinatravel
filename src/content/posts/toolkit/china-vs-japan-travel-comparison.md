@@ -11,7 +11,7 @@ tags:
   - visa
   - budget
 description: "An honest comparison of China and Japan for independent travellers in 2026 — ease of travel, cost, food, landscapes, cultural depth, internet access, payment systems, and which country suits which type of traveller."
-ogImage: "https://images.pexels.com/photos/37065405/pexels-photo-37065405.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-vs-japan-travel-comparison/cover.webp"
 ---
 
 Every year, thousands of travellers planning their first major East Asia trip face the same choice: China or Japan? They are the two largest, most historically significant, most visually distinctive countries in the region — and they are more different from each other than casual comparison suggests.
@@ -23,6 +23,8 @@ This is not a "which is better" article. Both countries are extraordinary. The q
 ---
 
 ## The Short Version
+
+![Scenery, Jiuzhaigou, Sichuan](/img/toolkit/china-vs-japan-travel-comparison/1.webp)
 
 **Visit China first if:**
 - You have 2+ weeks and want enormous variety in a single country
@@ -140,6 +142,8 @@ The Great Firewall blocks Google services, WhatsApp, Facebook, Instagram, YouTub
 ---
 
 ## Payment Systems
+
+![Terracotta Army](/img/toolkit/china-vs-japan-travel-comparison/2.webp)
 
 ### Japan
 Japan accepts cash widely and reliably. Major international credit cards are increasingly accepted. IC transport cards (Suica, Pasmo) simplify metro and convenience store payments. Foreigners can use standard international payment methods with minimal setup.

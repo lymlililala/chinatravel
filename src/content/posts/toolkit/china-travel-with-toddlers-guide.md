@@ -12,7 +12,7 @@ tags:
   - baby-food
   - china-family-tips
 description: "Travelling China with a toddler in 2026? From navigating subway stairs with a stroller to finding baby food and nappies in local shops, this guide covers everything parents need to know. Learn which cities are stroller-friendly, how to handle medical emergencies, where to find Western baby products, and the best family-friendly hotels and attractions across China."
-ogImage: "https://images.unsplash.com/photo-1515488042791-2e9e14b4d5a5?w=1200&q=85"
+ogImage: "/img/toolkit/china-travel-with-toddlers-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -32,6 +32,8 @@ ogImage: "https://images.unsplash.com/photo-1515488042791-2e9e14b4d5a5?w=1200&q=
 - [Common Challenges & Solutions](#common-challenges)
 
 ## Is China Toddler-Friendly? The Honest Answer
+
+![Yiyuanjie Scenery, Beijing, Suzhou](/img/toolkit/china-travel-with-toddlers-guide/1.webp)
 
 Let me be straight with you — China is not what I'd call naturally toddler-friendly, but it's absolutely doable with the right preparation. I've travelled through China twice with my daughter, first when she was 18 months old and again when she was nearly three. The first trip was honestly a bit of a disaster because I hadn't prepared properly. The second trip? Surprisingly smooth once I knew the shortcuts and workarounds.
 
@@ -237,6 +239,8 @@ Chinese pharmacies (药店) are everywhere and carry most medications you'd need
 - Any prescription medications your toddler needs
 
 ## Best Attractions for Toddlers
+
+![Huanghuachengshui Great Wall Scenery, Beijing](/img/toolkit/china-travel-with-toddlers-guide/2.webp)
 
 ### Animals and Nature
 

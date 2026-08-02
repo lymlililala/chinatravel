@@ -13,9 +13,10 @@ tags:
   - xidi
   - rapeseed flowers
 description: "The complete guide to Anhui's Huizhou historic villages — Xidi and Hongcun UNESCO villages with their distinctive horse-head gable walls, the rapeseed flower season turning the valley floor yellow, and the extraordinary Huizhou merchant architecture."
+ogImage: "/img/destinations/anhui-huizhou-shexian-guide/cover.webp"
 ---
 
-![Hongcun village Anhui — the crescent-shaped Nanhu Lake perfectly reflecting the white horse-head gabled walls and grey rooftops of the merchant village at dawn](https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=1200&q=85)
+
 *Hongcun's Nanhu Lake — the most photographed village reflection in China, with 800-year-old merchant architecture mirrored in the still morning water*
 
 The historic villages of southern Anhui's Huizhou region (徽州古村落) are among the most photographed rural landscapes in China — white-walled, grey-roofed merchant houses rising from green mountain valleys, with smoke-darkened interior halls telling stories of merchants who built fortunes on the Ming and Qing Dynasty tea and salt trades, then returned to invest in the most elaborately decorated homes in rural China.
@@ -23,6 +24,8 @@ The historic villages of southern Anhui's Huizhou region (徽州古村落) are a
 ## Table of contents
 
 ## Why Huizhou Architecture Is Special
+
+![Shitan Rapeseed Blossom, Anhui](/img/destinations/anhui-huizhou-shexian-guide/1.webp)
 
 The Huizhou merchant tradition created a specific architectural vocabulary:
 
@@ -32,7 +35,6 @@ The Huizhou merchant tradition created a specific architectural vocabulary:
 
 **Three carving traditions (三雕):** Huizhou woodcarving (木雕), stone carving (石雕), and brick carving (砖雕) — applied to beams, doorframes, windows, ancestral halls, and gates with a density and quality that represents the peak of Chinese vernacular decorative arts.
 
-![Huizhou horse-head gables in morning mist — the stepped white-rendered gable walls rising above grey rooftops, with mist filling the valley between them](https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=85)
 *Huizhou horse-head gables — the stepped white gable walls designed as firebreaks that became the visual signature of southern Anhui*
 
 ## Xidi (西递): The Merchant's Village
@@ -47,10 +49,11 @@ A UNESCO World Heritage Site (with Hongcun) — a relatively compact village of 
 
 **Ticket:** ¥104.
 
-![Xidi village back lane — a narrow whitewashed alley 1 metre wide between 400-year-old merchant houses, carved wooden windows visible overhead](https://images.unsplash.com/photo-1570168007204-dfb528c6958f?w=1200&q=85)
 *Xidi's back lanes — the original Ming Dynasty alley fabric where the walls close to arm's-width and carved wooden screens are visible above*
 
 ## Hongcun (宏村): The Painted Village
+
+![Huangdi Ancient Village Luo Landscape, Shanxi, Anhui](/img/destinations/anhui-huizhou-shexian-guide/2.webp)
 
 The more visually perfect of the two UNESCO villages — Hongcun was deliberately planned around a water management system that routes a stream through every house and into a central moon-shaped lake.
 
@@ -64,9 +67,10 @@ The more visually perfect of the two UNESCO villages — Hongcun was deliberatel
 
 ## Shexian Old Town (歙县古城)
 
+![Chuzhoulangya Mountain Scenery](/img/destinations/anhui-huizhou-shexian-guide/3.webp)
+
 The former Huizhou prefecture capital — multiple memorial archways (牌坊) survive on the old city's main street, particularly the **Tangye Archway Group (棠樾牌坊群)**: seven consecutive archways commemorating Bao family members across five generations, spanning the Ming and Qing periods. The only such continuous multi-archway sequence in China.
 
-![Hongcun artists painting by Nanhu Lake — 20 art students with easels set up at the lakeside, painting the village reflection on a misty morning](https://images.unsplash.com/photo-1531761535209-180857e963b9?w=1200&q=85)
 *Hongcun — China's most painted village, with art students from academies across the country gathering at the lakeside year-round*
 
 ## Rapeseed Flower Season
@@ -75,7 +79,6 @@ The single best reason to time a Huizhou visit carefully: in late March–early 
 
 **Luotan Village (卢村) hills:** The view from the hillsides east of Hongcun, looking down at the rapeseed fields and the village rooftops, is the iconic combination. Early morning light and slight mist produce the best conditions.
 
-![Huizhou valley rapeseed flower season — the valley floor carpeted in brilliant yellow oil rape blooms with white village rooftops rising from the colour, mountains behind](https://images.unsplash.com/photo-1490730141103-6cac27aaab94?w=1200&q=85)
 *Huizhou rapeseed season (late March–April) — the valley floors turn brilliant yellow creating China's most celebrated seasonal landscape*
 
 ## Practical Tips

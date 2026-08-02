@@ -1,6 +1,7 @@
 ---
 title: "Chengdu Metro Guide 2026: Lines, Maps, Fares & Tips for Tourists"
 description: "Complete guide to Chengdu's metro system for foreign visitors. Covers all lines, how to pay, airport connections, key tourist stops, and navigation tips."
+ogImage: "/img/toolkit/chengdu-metro-complete-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Chengdu", "metro", "transport", "subway", "China travel", "practical guide"]
@@ -9,6 +10,8 @@ tags: ["Chengdu", "metro", "transport", "subway", "China travel", "practical gui
 Chengdu's metro network has grown into one of China's most extensive urban rail systems, and for tourists it's the cleanest, cheapest and most reliable way to reach every major attraction. By 2026 the network spans 14 operating lines with more under construction, covering the panda base, Jinli Street, Wuhou Shrine, Kuanzhai Alley, Tianfu Square and the busy Chunxi Road shopping district.
 
 ## Quick Facts
+
+![Tianfuguosheyinger, Sichuan, Chengdu](/img/toolkit/chengdu-metro-complete-guide/1.webp)
 
 | Detail | Info |
 |--------|------|
@@ -64,6 +67,8 @@ Trains arrive every 3–5 minutes during peak hours. Stand behind the yellow lin
 **Mistake 3: Arriving at peak hour without a card.** Ticket machine queues at major stations (Chunxi Road, Tianfu Square) stretch to 15 minutes during rush hour. Load a card in advance or set up the QR code payment before you reach the turnstile.
 
 ## Transfers and Connections
+
+![Shunanzhuhai Landscape](/img/toolkit/chengdu-metro-complete-guide/2.webp)
 
 Most city attractions are within 20 minutes of a metro station. For areas not directly served—such as Leshan or Dujiangyan—take the metro to Chengdu East or North station, then board an intercity high-speed train (30–80 minutes, ¥15–45).
 

@@ -12,7 +12,7 @@ tags:
   - nature
   - north-china
 description: "Gallop across endless grasslands, sleep in a traditional Mongolian yurt, and witness the Naadam Festival — Inner Mongolia offers an adventure unlike anything else in China."
-ogImage: "https://images.pexels.com/photos/35497986/pexels-photo-35497986.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/inner-mongolia-hohhot-grassland-guide/cover.webp"
 ---
 
 Inner Mongolia Autonomous Region spans an extraordinary arc of terrain from the Gobi Desert in the west to the lush Hulunbuir grasslands in the northeast — one of the most diverse and least-visited regions in China for international travellers.
@@ -21,7 +21,7 @@ Inner Mongolia Autonomous Region spans an extraordinary arc of terrain from the 
 
 ## Hohhot (呼和浩特) — The Blue City
 
-![Inner Mongolia — Hohhot (呼和浩特) — The Blue City](https://images.pexels.com/photos/35905576/pexels-photo-35905576.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Da Grassland, Hulunbuir, Inner Mongolia](/img/destinations/inner-mongolia-hohhot-grassland-guide/1.webp)
 
 Hohhot ("Blue City" in Mongolian) is Inner Mongolia's capital and the most practical base for grassland day trips.
 
@@ -36,9 +36,9 @@ Hohhot has a significant Muslim (Hui) population. The Great Mosque (清真大寺
 
 ---
 
-![Inner Mongolia — Hulunbuir Grassland (呼伦贝尔草原)](https://images.pexels.com/photos/30109537/pexels-photo-30109537.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Hulunbuir Grassland (呼伦贝尔草原)
+
+![Manzhoulilao Architecture Scenery, Inner Mongolia](/img/destinations/inner-mongolia-hohhot-grassland-guide/2.webp)
 
 China's most pristine grassland ecosystem — 93,000 square kilometres of rolling green steppe with the Moerge River winding through it in magnificent meanders.
 
@@ -64,9 +64,9 @@ The Erguna River forms the border with Russia. The wetlands here are extraordina
 
 ---
 
-![Inner Mongolia — Resonant Sand Gorge (响沙湾) and Badain Jaran Desert](https://images.pexels.com/photos/33184411/pexels-photo-33184411.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Resonant Sand Gorge (响沙湾) and Badain Jaran Desert
+
+![Chengjisihanling Scenery, Ordos, Inner Mongolia](/img/destinations/inner-mongolia-hohhot-grassland-guide/3.webp)
 
 ### Resonant Sand Gorge (响沙湾)
 Near Hohhot, a large dune field where sand produces a distinctive humming sound when disturbed. Sandboarding, camel rides, and dune climbing available.

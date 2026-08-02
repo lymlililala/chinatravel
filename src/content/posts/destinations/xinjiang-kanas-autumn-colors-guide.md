@@ -1,7 +1,7 @@
 ---
 title: "Xinjiang Kanas Lake Autumn Colors: October Photography & Tuva Villages"
 description: "Experience Kanas Lake in northern Xinjiang during peak autumn — brilliant birch and aspen gold against cold blue water, remote Tuva Mongolian villages, horse-riding through taiga forests, and the best photography opportunities in China's northwest."
-ogImage: "https://images.pexels.com/photos/34388028/pexels-photo-34388028.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/xinjiang-kanas-autumn-colors-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Xinjiang"
 tags: ["xinjiang", "kanas", "autumn", "photography", "tuva-village", "hemu", "horse-riding", "altay-mountains"]
@@ -13,9 +13,9 @@ tags: ["xinjiang", "kanas", "autumn", "photography", "tuva-village", "hemu", "ho
 
 ---
 
-![Xinjiang Kanas Lake Autumn Colors — Why Autumn in Kanas Is Special](https://images.unsplash.com/photo-1698253542757-dcafef34a137?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHx4aW5qaWFuZyUyMGthbmFzfGVufDB8MHx8fDE3ODE5MjYyNTR8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
-
 ## Why Autumn in Kanas Is Special
+
+![Winter Sailimu Lake Scenery, Xinjiang](/img/destinations/xinjiang-kanas-autumn-colors-guide/1.webp)
 
 The Kanas region sits at a **temperate continental latitude** (approximately 49°N — the same as Paris or Vancouver) with a climate heavily influenced by Siberian weather systems. The forest is predominantly **Siberian birch, Siberian aspen, Siberian larch, and Xinjiang spruce** — a forest type essentially identical to those of the Russian taiga.
 
@@ -37,9 +37,9 @@ A platform on the hillside above the northern end of the lake allows a panoramic
 
 ---
 
-![Xinjiang Kanas Lake Autumn Colors — Hemu Village (禾木村)](https://images.pexels.com/photos/13457229/pexels-photo-13457229.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Hemu Village (禾木村)
+
+![Kanas Lake Lakeside Ancient Village Luo, Xinjiang](/img/destinations/xinjiang-kanas-autumn-colors-guide/2.webp)
 
 **Hemu Village** — 60 km south of Kanas Lake through a forest road — is the most beautiful village in the Kanas area and arguably one of the most photogenic rural settlements in China.
 
@@ -59,6 +59,8 @@ Local Tuva families offer **horse rentals** for tours of the surrounding meadows
 
 ## Baihaba Village (白哈巴)
 
+![Tianshan Heavenly Lake Landscape Scenery, Xinjiang](/img/destinations/xinjiang-kanas-autumn-colors-guide/3.webp)
+
 The third major village in the Kanas area, Baihaba sits at **1,905 metres** on a tributary valley near the Chinese border with Kazakhstan. It is smaller and quieter than Hemu — perhaps 200 permanent residents, mostly Tuva and Kazakh families — and feels even more remote.
 
 The village has no mobile signal and limited electricity; accommodation (in family guesthouses, ¥100–¥200/night) requires booking in advance through a tour operator or the scenic area management centre.
@@ -66,8 +68,6 @@ The village has no mobile signal and limited electricity; accommodation (in fami
 The **forest around Baihaba** is the most pristine in the area — large-diameter Siberian spruce and fir trees that have never been logged, with a forest floor of deep moss. Walking the unmarked trails requires a guide; the risk of getting lost in fog is real.
 
 ---
-
-![Xinjiang Kanas Lake Autumn Colors — Wildlife](https://images.pexels.com/photos/13218637/pexels-photo-13218637.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Wildlife
 

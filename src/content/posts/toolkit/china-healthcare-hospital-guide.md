@@ -12,7 +12,7 @@ tags:
   - medical-care
   - china-emergency
 description: "Getting sick in China can be stressful if you don't know the system. This 2026 guide covers everything from finding English-speaking doctors and navigating Chinese hospitals to buying medication at pharmacies, understanding health insurance, and handling medical emergencies. Learn the difference between international and public hospitals, what a doctor visit costs, and how to get help when you need it most."
-ogImage: "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=1200&q=85"
+ogImage: "/img/toolkit/china-healthcare-hospital-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -33,6 +33,8 @@ ogImage: "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=1200&q=
 - [Useful Medical Phrases in Chinese](#medical-phrases)
 
 ## China's Healthcare System: What Foreigners Need to Know
+
+![The Bund Scenery](/img/toolkit/china-healthcare-hospital-guide/1.webp)
 
 Getting sick while travelling is never fun, but getting sick in a country where you don't speak the language and don't understand the medical system can be genuinely frightening. I've been there — doubled over with food poisoning in a Chengdu hospital at 2am, trying to explain my symptoms through a translation app. It worked out fine in the end, but the experience taught me that preparation makes all the difference.
 
@@ -299,6 +301,8 @@ Summer in China (June-August) is brutally hot and humid, especially in the south
 **Prevention:** Use 20% DEET repellent, wear long sleeves at dawn/dusk, and consider vaccination for Japanese encephalitis if staying in rural areas for extended periods.
 
 ## Health Insurance for China
+
+![Scenery, Jiuzhaigou, Sichuan](/img/toolkit/china-healthcare-hospital-guide/2.webp)
 
 ### Do You Need Travel Insurance?
 

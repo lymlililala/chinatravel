@@ -11,7 +11,7 @@ tags:
   - urban
   - food
 description: "China's nightlife scene from a visitor's perspective — the cities with real late-night culture (Shanghai leads, Chengdu is close), the best cocktail bar cities, how China's clubs compare to Southeast Asia, the bar streets not to bother with, and a curated guide to experiencing genuine Chinese nightlife."
-ogImage: "https://images.pexels.com/photos/29534871/pexels-photo-29534871.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-nightlife-guide/cover.webp"
 ---
 
 China's nightlife doesn't always match international visitors' expectations — and that cuts both ways. Some cities have scenes that rival anything in Asia; others have impressive-looking "bar streets" that are overpriced tourist traps with identical decor. Knowing which is which saves you a wasted evening and a hangover from bad whiskey.
@@ -21,6 +21,8 @@ This guide is an honest overview of what going out in China actually looks like 
 ## Table of contents
 
 ## The Cities That Actually Have Late-Night Culture
+
+![Badaling Great Wall, Beijing](/img/toolkit/china-nightlife-guide/1.webp)
 
 ### Shanghai — The Clear Leader
 Shanghai is unambiguously China's nightlife capital. The city has a genuine history of night culture going back to the 1930s jazz clubs, and the modern version is world-class: cocktail bars that win international awards, a live music scene spanning jazz to electronic to indie rock, and a club circuit that draws global DJs. The French Concession has the highest density of genuinely good bars in China. Drinks prices are international (cocktails ¥80–120), but the quality is there to match.
@@ -55,6 +57,8 @@ This is where China truly excels. In virtually every Chinese city, eating cultur
 In Chengdu especially, evening entertainment often involves mahjong — tile game sessions in tea houses and mahjong cafes that run until 2–3am. These are social, relaxed, and very local. You can watch or be taught to play.
 
 ## What to Skip
+
+![Forbidden City Scenery, Beijing](/img/toolkit/china-nightlife-guide/2.webp)
 
 **Tourist bar streets:** Every major Chinese city has designated "bar streets" (酒吧街) that appear to be the obvious nightlife destination. Many are overpriced tourist traps: Tianjin's Ancient Culture Street bars, the commercial strip in Lijiang's old town, parts of Sanlitun in Beijing that are purely targeted at foreigners. Not all are bad — but the strip that looks most like an obvious bar district is often not where locals actually go.
 

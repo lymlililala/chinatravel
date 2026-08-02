@@ -13,7 +13,7 @@ tags:
   - myanmar border
   - nature
 description: "Tengchong in western Yunnan sits on a volcanic field with 97 dormant volcanoes and some of China's best natural hot springs. This 2026 guide covers Rehai geothermal park (¥100), Huoshan volcanic cluster, the jade trading markets, Heshun ancient town, border area culture, and practical travel tips."
-ogImage: "https://images.unsplash.com/photo-1504893524553-b855bce32c67?w=1200&q=85"
+ogImage: "/img/destinations/yunnan-tengchong-volcano-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -24,7 +24,7 @@ What makes Tengchong special isn't just the geology, though. It's the layering: 
 
 ## The Volcanic Landscape
 
-![Tengchong Yunnan — The Volcanic Landscape](https://images.pexels.com/photos/8332691/pexels-photo-8332691.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Jade Dragon Snow Mountain Scenery, Yunnan](/img/destinations/yunnan-tengchong-volcano-guide/1.webp)
 
 **Huoshan Volcanic Cluster (火山群):** The main volcanic area encompasses a cluster of craters that were last significantly active several hundred years ago. The most visited cone, Dayingshan, rises about 2,614 metres and can be climbed on a paved trail — it takes about 45 minutes to reach the rim. The views over the crater and across the forested volcanic plains are excellent on clear days.
 
@@ -58,8 +58,6 @@ Walking through Heshun's main historic area, you'll find: the Ai Wuwei former re
 
 **Evening in Heshun:** The commercial street becomes more atmospheric after dark as the souvenir and tea shops close and the restaurants fill with local families. Several small restaurants and cafes line the waterway. Expect to pay ¥50–120 per person for dinner.
 
-![Tengchong Yunnan — The Jade Trade](https://images.pexels.com/photos/34675316/pexels-photo-34675316.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Jade Trade
 
 Tengchong is one of China's primary jade trading centres. Myanmar, just across the border, contains the world's most important jadeite deposits, and the trading route between Tengchong and the Mandalay area is thousands of years old. Today, the jade market in central Tengchong (and specifically the Tengchong Jade Wholesale Market on Juncheng Road) is the place to buy jadeite if you know what you're doing — or to admire the extraordinary range of the material if you don't.
@@ -69,6 +67,8 @@ Tengchong is one of China's primary jade trading centres. Myanmar, just across t
 The market is most active in the morning (9am–1pm), when traders from Myanmar arrive with fresh stock.
 
 ## Getting to Tengchong
+
+![Jade Dragon Snow Mountain Lanyuegu Scenery, Yunnan](/img/destinations/yunnan-tengchong-volcano-guide/2.webp)
 
 Tengchong's airport (Tengchong Tuofeng Airport, TCZ) opened in 2016 and now has direct flights to:
 - Kunming: Multiple daily flights, approximately 50 minutes, ¥200–600
@@ -87,8 +87,6 @@ Cross-border travel to Myanmar is possible for Chinese citizens and some foreign
 
 The borderland culture of Tengchong county itself — the De'ang people, the Dai villages south of town, the Bai settlements — is worth exploring on its own terms without crossing the border.
 
-![Tengchong Yunnan — Second World War History](https://images.pexels.com/photos/37172050/pexels-photo-37172050.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Second World War History
 
 Tengchong was the site of intense fighting in 1944 as Chinese and American forces retook the city from Japanese occupation (the city had been held since 1942). The National Cemetery (国殇墓园) on the southern edge of town commemorates the more than 9,000 Chinese soldiers who died in the battle. It's one of the better-maintained Second World War memorial sites in China, and the historical context it provides is significant for understanding the Burma Campaign.
@@ -96,6 +94,8 @@ Tengchong was the site of intense fighting in 1944 as Chinese and American force
 Entry: ¥30. Open 8am–6pm.
 
 ## Best Time to Visit Tengchong
+
+![Dashanshenchu Red Soil Gengdi, Yunnan](/img/destinations/yunnan-tengchong-volcano-guide/3.webp)
 
 **November to April** is the dry season and by far the most pleasant. Skies are clear, temperatures mild (12–22°C), and the hot springs are especially appealing in cooler weather.
 

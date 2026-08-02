@@ -13,7 +13,7 @@ tags:
   - food
   - culture
 description: "The perfect 7-day itinerary through Xi'an, Chengdu and Chongqing — Terracotta Warriors, Giant Pandas, Sichuan hotpot, the cliff-city megacity, and the best of China's historic and culinary heartland with day-by-day guide."
-ogImage: "https://images.pexels.com/photos/6940679/pexels-photo-6940679.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/xian-chengdu-chongqing-7-day-itinerary/cover.webp"
 ---
 
 Xi'an, Chengdu, and Chongqing form an inland triangle of remarkable diversity — an ancient imperial capital, a relaxed panda city, and a cliff-built megacity — all connected by high-speed trains and sharing a Sichuan culinary tradition that produces some of the world's most complex spiced food.
@@ -25,6 +25,8 @@ This 7-day circuit is ideal for travellers who want China's historical and cultu
 ---
 
 ## Getting To and From the Circuit
+
+![Wuxiashanxian Natural Scenery, Chongqing](/img/toolkit/xian-chengdu-chongqing-7-day-itinerary/1.webp)
 
 **Entry options:**
 - Fly into **Xi'an Xianyang International Airport** (start in Xi'an)
@@ -157,6 +159,8 @@ Do both if time allows.
 ---
 
 ## Day 6: Chengdu to Chongqing
+
+![Guangren Temple Scenery, Shaanxi, Xi'an](/img/toolkit/xian-chengdu-chongqing-7-day-itinerary/2.webp)
 
 ### Morning — Sanxingdui Museum Day Trip
 

@@ -11,7 +11,7 @@ tags:
   - itinerary
   - beach
 description: "A practical 4-day Sanya itinerary — which beach to base yourself at (Yalong Bay vs Dadonghai vs Sanya Bay), the best snorkeling at Wuzhizhou Island, day trips to the Wuzhishan rainforest and the Li and Miao minority villages, and whether Sanya lives up to its 'Hawaii of China' reputation."
-ogImage: "https://images.pexels.com/photos/13318777/pexels-photo-13318777.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/sanya-hainan-4-days-guide/cover.webp"
 ---
 
 Sanya is China's southern tropical playground — a resort city on the island of Hainan that draws Chinese tourists by the millions for beach holidays that most coastal Chinese cities can't provide. The water is genuinely warm and clear (by Chinese standards, exceptional — water temperature stays above 25°C year-round). The air is humid and tropical. The infrastructure is polished and international.
@@ -22,7 +22,7 @@ The comparison to Hawaii that Chinese tourism marketing loves to make is aspirat
 
 ## Before You Arrive
 
-![Sanya, Hainan — Before You Arrive](https://images.pexels.com/photos/4242876/pexels-photo-4242876.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Dadonghai Scenery, Hainan, Sanya](/img/destinations/sanya-hainan-4-days-guide/1.webp)
 
 **Getting there:** Sanya Phoenix International Airport (SYX) is the main entry point. Domestic flights from most major Chinese cities are frequent and relatively cheap (¥300-800 from Beijing or Shanghai one-way). There's also a high-speed rail connecting Sanya to Haikou (the island capital) in about 1.5 hours.
 
@@ -57,9 +57,9 @@ Preparation styles: steamed (清蒸), stir-fried with ginger and scallion (姜�
 
 ---
 
-![Sanya, Hainan — Day 2: Wuzhizhou Island Snorkeling](https://images.pexels.com/photos/15923584/pexels-photo-15923584.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day 2: Wuzhizhou Island Snorkeling
+
+![Boao Landscape, Hainan](/img/destinations/sanya-hainan-4-days-guide/2.webp)
 
 **Wuzhizhou Island** (蜈支洲岛) is consistently rated China's best readily-accessible snorkeling and diving destination. The island is 15km north of Sanya and the coral reefs surrounding it are genuinely impressive — visibility typically 10-15m, colorful coral and fish in good condition.
 
@@ -81,6 +81,8 @@ Preparation styles: steamed (清蒸), stir-fried with ginger and scallion (姜�
 
 ## Day 3: Li & Miao Village Culture — Betelnut Valley
 
+![Landscape Scenery, Hainan, Sanya](/img/destinations/sanya-hainan-4-days-guide/3.webp)
+
 ### Option A: Betelnut Valley & Li/Miao Village
 
 **Betelnut Valley** (槟榔谷黎苗文化旅游区, ¥170) is 90km northwest of Sanya in the Wuzhishan (Five Finger Mountain) area and is the best-organized cultural park showcasing the indigenous **Li people** (黎族) and **Miao people** (苗族) of Hainan.
@@ -98,8 +100,6 @@ The Li are Hainan's original inhabitants and have maintained distinct weaving, t
 **Yanoda Rainforest** (呀诺达雨林文化旅游区, ¥198) is closer to Sanya (45km) and focuses more on the tropical forest experience — walking trails through genuine rainforest, swimming in natural pools, and bamboo raft river sections. Good for families or anyone more interested in nature than culture.
 
 ---
-
-![Sanya, Hainan — Day 4: Tianya Haijiao & Departure](https://images.pexels.com/photos/18227450/pexels-photo-18227450.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day 4: Tianya Haijiao & Departure
 

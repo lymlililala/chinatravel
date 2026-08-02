@@ -11,7 +11,7 @@ tags:
   - northwest-china
   - tibet-culture
 description: "A practical 5-day Qinghai itinerary — Xining as base and the Kumbum (Ta'er Si) Monastery, cycling around Qinghai Lake (China's largest saltwater lake), the Qilian Mountains with their summer wildflower meadows, and the start of the Sichuan-Tibet Highway at the Yushu grasslands. Altitude advice."
-ogImage: "https://images.pexels.com/photos/36700647/pexels-photo-36700647.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/qinghai-5-days-itinerary-guide/cover.webp"
 ---
 
 Qinghai is China's third-largest province by area and one of the least visited by international tourists. It's the source of three of Asia's great rivers — the Yellow River, the Yangtze, and the Mekong — and its plateau terrain averages 3,000m above sea level. The province is culturally Tibetan in character (most of historic Tibet was in Qinghai before modern borders), with a significant Hui Muslim population in the lowlands.
@@ -22,7 +22,7 @@ For travelers exploring northwest China, Qinghai fills a unique niche: the cultu
 
 ## Before You Arrive
 
-![Qinghai — Before You Arrive](https://images.pexels.com/photos/5597730/pexels-photo-5597730.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Chakayan Lake Scenery, Qinghai](/img/destinations/qinghai-5-days-itinerary-guide/1.webp)
 
 **Getting there:** Xining Caojiabao International Airport (XNN) has connections to most Chinese cities. The **Qinghai-Tibet Railway** from Xining to Lhasa is a famous journey in itself — even if you're not going to Tibet, arriving in Xining by train from Xi'an (2 hours by HSR, ¥145) or Lanzhou (1 hour by HSR, ¥60) is convenient.
 
@@ -55,8 +55,6 @@ Return to Xining for the afternoon. The **Dongguan Mosque** (东关清真大寺,
 
 ---
 
-![Qinghai — Day 2: Qinghai Lake](https://images.pexels.com/photos/31811948/pexels-photo-31811948.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day 2: Qinghai Lake
 
 **Qinghai Lake** (青海湖, ¥60 scenic area) is China's largest lake by surface area — 4,300km² of salt water at 3,195m altitude, ringed by mountains and grasslands. The water is a vivid blue-green that's entirely natural and caused by the mineral content. On clear days, the snow-capped Qilian Mountains are reflected in the water.
@@ -77,6 +75,8 @@ Return to Xining for the afternoon. The **Dongguan Mosque** (东关清真大寺,
 
 ## Day 3: Qilian Mountains
 
+![Kekexili Scenery, Qinghai](/img/destinations/qinghai-5-days-itinerary-guide/2.webp)
+
 **Qilian Mountains** (祁连山) form the northern boundary of the Tibetan Plateau — a massif with peaks above 5,000m that creates Qinghai's own micro-climate, feeding rivers and supporting alpine meadows at its base.
 
 **Zhangye Qilian County** side: The most accessible viewpoints are actually closer to Zhangye in Gansu, but **Menyuan Rapeseed Fields** (门源油菜花, free, ¥20 transport) in Qinghai are genuinely extraordinary in July — stretching to the mountain base and beyond. Menyuan County is 2.5 hours from Xining by bus.
@@ -87,9 +87,9 @@ Return to Xining for the afternoon. The **Dongguan Mosque** (东关清真大寺,
 
 ---
 
-![Qinghai — Day 4: Yellow River Loop or Longyangxia Gorge](https://images.pexels.com/photos/37105509/pexels-photo-37105509.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day 4: Yellow River Loop or Longyangxia Gorge
+
+![Singing Sand Dunes Scenery, Dunhuang](/img/destinations/qinghai-5-days-itinerary-guide/3.webp)
 
 ### Option A: Longyangxia Gorge Dam
 

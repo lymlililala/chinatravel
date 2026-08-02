@@ -12,7 +12,7 @@ tags:
   - southeast-asia
   - overland
 description: "The complete guide to crossing overland from China to Vietnam — the Nanning to Hanoi route via Pingxiang/Đồng Đăng, the Kunming to Hanoi route via Hekou/Lào Cai, the train options, visa requirements for each nationality, and practical crossing advice."
-ogImage: "https://images.pexels.com/photos/32419952/pexels-photo-32419952.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-vietnam-overland-guide/cover.webp"
 ---
 
 The China-Vietnam land border is one of the most-crossed overland borders in Southeast Asia. The mountainous terrain between southern China and northern Vietnam means that despite sharing a long border, there are only a handful of practical crossing points — each with its own character, transport connections, and practical considerations. This guide covers the two main routes that most foreign travelers use.
@@ -20,6 +20,8 @@ The China-Vietnam land border is one of the most-crossed overland borders in Sou
 ## Table of contents
 
 ## Visa Requirements: The Critical Starting Point
+
+![Forbidden City Scenery, Beijing](/img/toolkit/china-vietnam-overland-guide/1.webp)
 
 **Chinese visa:** If you're entering China from Vietnam, you need a valid Chinese visa or visa-free access for your nationality. Check current policies — China's visa-free list has expanded significantly.
 
@@ -64,6 +66,8 @@ Nanning is easily reached from across China by high-speed rail. **Key connection
 - Kunming → Nanning: 4.5 hours by HSR
 
 ## Route 2: Kunming → Hekou → Lào Cai → Hanoi
+
+![Forbidden City Panorama Interior, Beijing](/img/toolkit/china-vietnam-overland-guide/2.webp)
 
 This route through Yunnan province is longer in terms of total distance from major Chinese cities but offers some of the most scenic overland travel in Southeast Asia — and connects to Sapa (one of Vietnam's best trekking areas) immediately after the border crossing.
 

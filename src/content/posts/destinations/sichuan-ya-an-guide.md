@@ -12,7 +12,7 @@ tags:
   - nature
   - tea-horse-road
 description: "Ya'an sits at the junction of the Sichuan Basin and the Tibetan Plateau — a city of extraordinary rainfall, wild giant pandas, the ancient Tea Horse Road trade route and some of Sichuan's most dramatic scenery. This 2026 guide covers the Bifengxia Panda Base, the Erlang Mountain road, Shangri-La Corridor, local food and transport from Chengdu."
-ogImage: "https://images.unsplash.com/photo-1764332688812-f6ac09a687bb?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwyfHxZYSUyNyUyMFNpY2h1YW58ZW58MHwwfHx8MTc4MTkzNzMwMXww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
+ogImage: "/img/destinations/sichuan-ya-an-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -23,7 +23,7 @@ What you get in Ya'an is a China that most tourists don't find: raw, green, hist
 
 ## Bifengxia Giant Panda Base (碧峰峡大熊猫基地)
 
-![Ya' Sichuan — Bifengxia Giant Panda Base (碧峰峡大熊猫基地)](https://images.pexels.com/photos/31639676/pexels-photo-31639676.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Tianfuguosheyingyi, Sichuan, Chengdu](/img/destinations/sichuan-ya-an-guide/1.webp)
 
 The China Conservation and Research Centre for the Giant Panda's Bifengxia base, located in a narrow river gorge 15 km north of Ya'an city, is the sister facility to the famous Chengdu Research Base. The Bifengxia base is actually larger and arguably better for visitors — the enclosures are more spacious, the gorge setting is more dramatic, and it receives fewer tourists than the Chengdu facility.
 
@@ -51,8 +51,6 @@ The old Erlang Mountain road (now largely replaced by a tunnel for motor vehicle
 
 The Erlang Mountain Tunnel (二郎山隧道), at 4.2 km the main vehicle route, has a cultural significance in Chinese popular memory — a famous 1980s folk song celebrated the hardship of crossing the mountain before the tunnel was built.
 
-![Ya' Sichuan — Tea Horse Road (茶马古道) Heritage](https://images.pexels.com/photos/35750669/pexels-photo-35750669.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Tea Horse Road (茶马古道) Heritage
 
 Ya'an was historically one of the most important points on the Tea Horse Road — the ancient trade route connecting Yunnan and Sichuan with Tibet and Central Asia via horse-borne loads of compressed tea. The Ya'an-Kangding section was one of the most demanding stretches: human and horse porters carried loads weighing 70–150 kg over Erlang Mountain into the Tibetan plateau.
@@ -77,6 +75,8 @@ The 2013 Lushan earthquake (magnitude 7.0) caused significant destruction in Ya'
 
 ## Ya'an Food
 
+![Tianfuguosheyinger, Sichuan, Chengdu](/img/destinations/sichuan-ya-an-guide/2.webp)
+
 The city's exceptional rainfall creates an environment for wild mushrooms, bamboo shoots and freshwater fish that make the local cuisine outstanding by any standard.
 
 **Key dishes:**
@@ -86,8 +86,6 @@ The city's exceptional rainfall creates an environment for wild mushrooms, bambo
 - **Wild mushroom hot pot:** The foothills around Ya'an produce extraordinary wild mushrooms including multiple varieties unavailable elsewhere
 
 Restaurants are concentrated in the city centre around Yucheng District; a good dinner for two runs ¥80–¥150 ($11–$21).
-
-![Ya' Sichuan — Getting to Ya'an](https://images.pexels.com/photos/7494233/pexels-photo-7494233.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting to Ya'an
 
@@ -100,6 +98,8 @@ Restaurants are concentrated in the city centre around Yucheng District; a good 
 **Self-drive:** Highway G108 and G318 connect Ya'an to Chengdu; about 1.5 hours in normal traffic. Driving onward to Kangding (3 hours) or Luding (2 hours) makes a self-drive practical.
 
 ## Where to Stay
+
+![Lugu Lake Ligeban Island Scenery, Sichuan](/img/destinations/sichuan-ya-an-guide/3.webp)
 
 Ya'an's accommodation is relatively modest but functional. The best options are clustered in the central Yucheng District.
 

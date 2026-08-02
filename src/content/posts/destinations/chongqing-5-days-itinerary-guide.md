@@ -10,7 +10,7 @@ tags:
   - itinerary
   - southwest-china
 description: "A 5-day Chongqing itinerary — Day 1 for Hongya Cave and the Jiefangbei CBD, Day 2 for the Yangtze River cable car and Ciqikou ancient town, Day 3 for the Three Gorges starting point or a Yangtze cruise, Days 4-5 for Wulong Karst National Park. Practical transport links."
-ogImage: "https://images.pexels.com/photos/37968488/pexels-photo-37968488.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/chongqing-5-days-itinerary-guide/cover.webp"
 ---
 
 Chongqing defies easy categorization. It's the world's largest city by administrative area, a municipality of 30 million people spread across valleys and mountains at the confluence of the Yangtze and Jialing rivers. The city center is built on ridgelines between rivers — there are no flat streets. The metro has stations that require elevators to access cliff-face entrances. Buildings cling to vertical rock faces. And the food — Chongqing hotpot is different from Sichuan hotpot, more aggressive, oilier, and according to locals, superior.
@@ -21,7 +21,7 @@ This 5-day itinerary covers the city highlights plus the extraordinary Wulong ka
 
 ## Before You Arrive
 
-![Chongqing & Surrounding Area — Before You Arrive](https://images.pexels.com/photos/34142836/pexels-photo-34142836.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Baidi City, Chongqing](/img/destinations/chongqing-5-days-itinerary-guide/1.webp)
 
 **Getting there:** Chongqing Jiangbei International Airport (CKG) connects to most domestic cities and has international routes to Southeast Asia, Japan, and South Korea. Within China, Chongqing is also accessible by high-speed rail from Chengdu (70 minutes, ¥131), Xi'an (2.5 hours, ¥249), and Guiyang (2 hours, ¥180).
 
@@ -58,9 +58,9 @@ Key differences from what you've had elsewhere: the Chongqing broth is darker, r
 
 ---
 
-![Chongqing & Surrounding Area — Day 2: Yangtze Cable Car & Ciqikou Ancient Town](https://images.pexels.com/photos/32660207/pexels-photo-32660207.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day 2: Yangtze Cable Car & Ciqikou Ancient Town
+
+![Baodingshan Stone Carving, Chongqing](/img/destinations/chongqing-5-days-itinerary-guide/2.webp)
 
 ### Morning: Yangtze River Cable Car
 
@@ -84,6 +84,8 @@ Local specialties to eat here: **Ma Hua** (麻花, fried twisted dough sticks, �
 
 ## Day 3: Three Gorges Starting Point or Yangtze River Cruise
 
+![Jinyun Mountain Scenery, Chongqing](/img/destinations/chongqing-5-days-itinerary-guide/3.webp)
+
 ### Option A: Fengdu Ghost City Day Trip
 
 **Fengdu Ghost City** (丰都鬼城, ¥60) is 170km east of Chongqing on the Yangtze — a cliff-top complex of temples dedicated to the afterlife, with countless vivid statues depicting the realm of the dead. It's kitsch and religious and fascinating. High-speed buses from Chongqing East Bus Station (¥50, 2 hours), or HSR to Fengdu Station (¥65, 1.5 hours).
@@ -99,8 +101,6 @@ Standard tourist cruises cost ¥1,500-3,500 per person for a 3-day journey (depe
 If not doing the full cruise, the **Wanzhou or Fengjie area** (lesser gorges, accessible by day bus) gives a taste of the Three Gorges without the multi-day commitment.
 
 ---
-
-![Chongqing & Surrounding Area — Days 4-5: Wulong Karst National Park](https://images.pexels.com/photos/7855548/pexels-photo-7855548.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Days 4-5: Wulong Karst National Park
 

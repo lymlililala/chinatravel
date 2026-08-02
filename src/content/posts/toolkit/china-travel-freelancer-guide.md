@@ -19,12 +19,14 @@ tags:
   - remote work china
   - china coworking spaces
 description: "Working remotely from China in 2026? This guide covers the legal grey areas of freelancing on a tourist or business visa, the best co-working spaces in Shanghai, Beijing, Shenzhen and Chengdu, reliable internet solutions including VPNs and SIM cards, tax obligations, and practical tips for maintaining productivity while exploring the Middle Kingdom."
-ogImage: "https://images.unsplash.com/photo-1497366210224-63bb0e23f5e7?w=1200&q=85"
+ogImage: "/img/toolkit/china-travel-freelancer-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## The Reality of Remote Work in China
+
+![Jinshanling Great Wall, Beijing](/img/toolkit/china-travel-freelancer-guide/1.webp)
 
 Let us start with the uncomfortable truth: China does not have a digital nomad visa, and freelancing on a tourist visa is technically illegal. Thousands of remote workers do it anyway, collecting salaries from overseas clients while hopping between Chinese cities on L or M visas. The risk is real but manageable if you understand the landscape. This guide gives you the honest picture — what the rules say, what people actually do, and how to navigate the gap between the two.
 
@@ -134,6 +136,8 @@ If your hotel Wi-Fi is unreliable, co-working spaces offer business-grade connec
 - **Lionspace:** Local co-working with locations near West Lake. ¥60/day. More laid-back atmosphere.
 
 ## Banking and Getting Paid
+
+![Yiyuanjie Scenery, Beijing, Suzhou](/img/toolkit/china-travel-freelancer-guide/2.webp)
 
 ### Receiving Money as a Remote Worker
 

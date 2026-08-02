@@ -12,7 +12,7 @@ tags:
   - northwest
   - history
 description: "Gansu Province is the spine of China's ancient Silk Road — the Hexi Corridor connecting China to Central Asia, dotted with frontier fortresses, Buddhist cave art, and the world's most colourful geological formations."
-ogImage: "https://images.pexels.com/photos/33610277/pexels-photo-33610277.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/gansu-silk-road-zhangye-guide/cover.webp"
 ---
 
 Gansu Province forms a narrow 1,600km corridor between the Tibetan Plateau and the Mongolian steppe — China's ancient Silk Road gateway. Every major civilisation to interact with China passed through here.
@@ -21,7 +21,7 @@ Gansu Province forms a narrow 1,600km corridor between the Tibetan Plateau and t
 
 ## Zhangye (张掖) — Rainbow Mountains
 
-![Gansu Silk Road — Zhangye (张掖) — Rainbow Mountains](https://images.pexels.com/photos/37193108/pexels-photo-37193108.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Mogao Caves, Gansu, Dunhuang](/img/destinations/gansu-silk-road-zhangye-guide/1.webp)
 
 ### Danxia Geopark (丹霞地貌国家地质公园)
 The most spectacular coloured rock formation in the world — 35km² of sandstone layers in vivid red, orange, yellow, green, and purple stripes. The colours are natural, caused by different iron oxide and mineral content in each layer deposited over 24 million years. UNESCO Global Geopark.
@@ -53,9 +53,9 @@ The actual westernmost point of the wall — a crumbling beacon tower on the des
 
 ---
 
-![Gansu Silk Road — Dunhuang (敦煌) — Silk Road Oasis](https://images.unsplash.com/photo-1729581514945-ef3f32fe2e7e?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwyfHxEdW5odWFuZ3xlbnwwfDB8fHwxNzgxODM5MzE1fDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
-
 ## Dunhuang (敦煌) — Silk Road Oasis
+
+![Singing Sand Dunes, Gansu, Dunhuang](/img/destinations/gansu-silk-road-zhangye-guide/2.webp)
 
 For comprehensive Dunhuang coverage (Mogao Caves, Singing Sand Dunes, Crescent Moon Lake), see the dedicated 14-Day Silk Road Itinerary.
 
@@ -68,6 +68,8 @@ For comprehensive Dunhuang coverage (Mogao Caves, Singing Sand Dunes, Crescent M
 
 ## Maiji Grottoes (麦积山石窟)
 
+![Danxia Landform Dimao Natural Scenery, Gansu, Zhangye](/img/destinations/gansu-silk-road-zhangye-guide/3.webp)
+
 Near Tianshui in eastern Gansu — 194 cave temples carved into a naturally haystack-shaped sandstone cliff (hence "haystack mountain"). The caves are accessed via an extraordinary system of plank walkways attached to the cliff face.
 
 The **Maiji Grottoes** are less famous than Dunhuang's Mogao but arguably more atmospheric — smaller scale, more intimate, and the setting is dramatic. Over 7,000 clay sculptures spanning from the 4th century to the Qing Dynasty.
@@ -76,8 +78,6 @@ The **Maiji Grottoes** are less famous than Dunhuang's Mogao but arguably more a
 **Access:** High-speed train from Xi'an to Tianshui (3 hours, ¥100)
 
 ---
-
-![Gansu Silk Road — Lanzhou (兰州) — Noodle City](https://images.unsplash.com/photo-1642690753369-9dc5b460479d?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxMYW56aG91fGVufDB8MHx8fDE3ODE4MzkzMTd8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## Lanzhou (兰州) — Noodle City
 

@@ -12,12 +12,14 @@ tags:
   - luxury
   - travel-expenses
 description: "The most detailed China travel cost breakdown available for 2026 — with specific prices in yuan and USD for accommodation categories, meal types at different restaurant levels, transport options between cities, attraction entrance fees, and daily budgets for three travel styles. Updated with 2026 prices reflecting China's evolving tourism economy, including the impact of mobile payment adoption on spending patterns."
-ogImage: "https://images.pexels.com/photos/29890322/pexels-photo-29890322.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-travel-cost-breakdown-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## What Does China Really Cost in 2026?
+
+![Forbidden City Panorama Interior, Beijing](/img/toolkit/china-travel-cost-breakdown-guide/1.webp)
 
 China has a reputation for being cheap, and it can be — but it can also be surprisingly expensive. A bowl of noodles costs ¥12 ($1.67), but a cocktail at a rooftop bar in Shanghai costs ¥120 ($16.70). A bed in a youth hostel is ¥60 ($8.30), but a suite at the Peninsula is ¥6,000 ($833). The range is enormous, and where you fall on it depends entirely on your choices.
 
@@ -139,6 +141,8 @@ This guide provides the most detailed cost breakdown available for China travel 
 Budget ¥100-200 ($14-28) per day for entrance fees at major tourist destinations. Less in smaller cities and rural areas.
 
 ## Daily Budget Summaries
+
+![Jinshanling Great Wall, Beijing](/img/toolkit/china-travel-cost-breakdown-guide/2.webp)
 
 ### Budget Traveller — ¥200-400/day ($28-56 USD)
 

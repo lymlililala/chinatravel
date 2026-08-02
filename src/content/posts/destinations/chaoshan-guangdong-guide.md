@@ -13,9 +13,10 @@ tags:
   - Chaoshan cuisine
   - gongfu tea
 description: "Discover Chaoshan — the twin cities of Chaozhou and Shantou in eastern Guangdong, home to the world's most elaborate tea ceremony, China's finest seafood, Ming Dynasty city walls, and a diaspora culture that shaped Southeast Asia."
+ogImage: "/img/destinations/chaoshan-guangdong-guide/cover.webp"
 ---
 
-![Chaozhou Guangji Bridge — the ancient floating bridge with stone piers and wooden boat sections spanning the Han River, with the old city wall visible behind](https://images.unsplash.com/photo-1534430480872-3498386e7856?w=1200&q=85)
+
 *Guangji Bridge Chaozhou — the 12th century floating bridge with 18 wooden boat sections that can be removed for river traffic, one of China's most unusual ancient bridges*
 
 The Chaoshan region (潮汕地区) — covering Chaozhou (潮州), Shantou (汕头), and Jieyang (揭阳) in eastern Guangdong — is one of China's most distinct cultural zones. The Chaoshan people have their own language (Teochew, mutually unintelligible with Cantonese or Mandarin), their own cuisine (considered by many food writers as the most refined in China), and their own form of tea ceremony that takes tea preparation to its most elaborate expression anywhere in the world.
@@ -23,6 +24,8 @@ The Chaoshan region (潮汕地区) — covering Chaozhou (潮州), Shantou (汕�
 ## Table of contents
 
 ## Gongfu Tea Ceremony (工夫茶)
+
+![Shiwannanfengguzao Scenery, Guangdong, Foshan](/img/destinations/chaoshan-guangdong-guide/1.webp)
 
 The central cultural institution of Chaoshan life. *Gongfu* here does not refer to martial arts but to skillful attention — the dedicated practice of preparing tea correctly.
 
@@ -32,10 +35,11 @@ The central cultural institution of Chaoshan life. *Gongfu* here does not refer 
 
 **Where to experience it:** Every teahouse in Chaozhou and Shantou — many will welcome you to sit and observe or participate. The **Xihu Park (西湖公园)** area has traditional teahouses. Or simply walk into any Chaoshan home — the invitation to tea is social currency.
 
-![Gongfu tea ceremony setup — tiny clay teapot, three small cups, tea tray with drainage, and the complete ritual preparation of premium Dancong oolong tea](https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=85)
 *Chaoshan gongfu tea ceremony — the most elaborate tea preparation tradition in the world, practised multiple times daily in every Chaoshan household*
 
 ## Chaozhou Ancient City (潮州古城)
+
+![Baomo Garden, Guangdong, Guangzhou](/img/destinations/chaoshan-guangdong-guide/2.webp)
 
 The best-preserved Ming Dynasty walled city in Guangdong — 4 km of city walls survive, with the east gate tower and sections of the wall walk accessible.
 
@@ -45,7 +49,6 @@ The best-preserved Ming Dynasty walled city in Guangdong — 4 km of city walls 
 
 **Guangji Bridge (广济桥):** The famous "floating bridge" — 18 fixed stone piers connected by a central section of 18 floating boats that can be removed to allow river traffic. Built in the 12th century; the mechanism still operates. The view of the Han River (韩江) from the bridge combines the old city wall, temple rooftops, and the river valley.
 
-![Chaozhou Paifang Street — the ceremonial avenue with 23 Ming and Qing memorial archways spanning the street, the most unique streetscape in Guangdong](https://images.unsplash.com/photo-1570168007204-dfb528c6958f?w=1200&q=85)
 *Chaozhou Paifang Street — 23 consecutive memorial archways from the Ming and Qing periods, a unique streetscape found nowhere else in China*
 
 ## Chaoshan Cuisine (潮汕菜)
@@ -60,11 +63,12 @@ Many food critics rank Chaoshan cuisine among the top three in China. The cookin
 
 ## Shantou (汕头)
 
+![Nanyueyuan Scenery, Guangdong, Guangzhou](/img/destinations/chaoshan-guangdong-guide/3.webp)
+
 The treaty port city — opened in 1860, with a preserved historical district (小公园历史街区) of early 20th-century Southeast Asian–influenced Chinese commercial architecture: arcaded shophouses, multi-story commercial buildings, a distinctive urban fabric.
 
 **The overseas Chinese connection:** Shantou is one of the primary sources of the Southeast Asian Chinese diaspora — the ancestors of a large proportion of ethnic Chinese in Thailand, Malaysia, Singapore, Cambodia, and Vietnam came from the Chaoshan region. Many have maintained ancestral hall connections and return for annual visits, giving Shantou an unusual transnational quality.
 
-![Chaoshan beef hot pot — ultra-thin slices of freshly-slaughtered beef being cooked in a light broth with the full range of beef cuts arranged around the pot](https://images.unsplash.com/photo-1563245372-f21724e3856d?w=1200&q=85)
 *Chaoshan beef hot pot — same-day slaughtered beef, specific cuts prepared seconds before serving, the most celebrated hot pot tradition in China*
 
 ## Practical Tips

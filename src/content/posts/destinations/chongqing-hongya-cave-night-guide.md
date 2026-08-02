@@ -1,7 +1,7 @@
 ---
 title: "Chongqing Hongya Cave Night Visit: What to See, Eat and Expect"
 description: "Complete guide to visiting Hongya Cave (洪崖洞) in Chongqing at night. What to expect, best photo spots, the Jialing River view, nearby attractions, hotpot restaurants and how to get there."
-ogImage: "https://images.pexels.com/photos/30606168/pexels-photo-30606168.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/chongqing-hongya-cave-night-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Chongqing", "Hongya Cave", "Chongqing night", "洪崖洞", "Chongqing food", "China travel"]
@@ -11,9 +11,9 @@ Hongya Cave (洪崖洞, Hóngyá Dòng) is Chongqing's most photographed landmar
 
 The reality is equal parts spectacular and crowded. This guide helps you experience the best of it.
 
-![Chongqing Hongya Cave Night Visit — The Best Time to Visit: Golden Hour to Late Evening](https://images.pexels.com/photos/29903855/pexels-photo-29903855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Best Time to Visit: Golden Hour to Late Evening
+
+![Baodingshan Stone Carving, Chongqing](/img/destinations/chongqing-hongya-cave-night-guide/1.webp)
 
 **19:00–22:00** is the magic window. The lights come on at dusk (around 19:00–19:30 depending on season), and the full illumination against the darkening sky and river creates the famous image. Go too early and the lights aren't at full effect; after 22:00 the crowds begin to thin (advantageous for photos) but some vendors close.
 
@@ -28,8 +28,6 @@ The reality is equal parts spectacular and crowded. This guide helps you experie
 **From the top (the Jiefangbei side)**: Looking down from the top of Hongya Cave toward the river gives you the sense of scale — you're inside the structure looking out.
 
 **Opposite bank views**: Take the small ferry across the Jialing River to the north bank. Looking back at Chongqing's cliff-edge cityscape with Hongya Cave visible is the best panoramic view, showing how the entire city climbs vertically from the river. The ferry costs ¥2–5.
-
-![Chongqing Hongya Cave Night Visit — Exploring Inside Hongya Cave](https://images.pexels.com/photos/35636764/pexels-photo-35636764.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Exploring Inside Hongya Cave
 
@@ -48,6 +46,8 @@ The building is essentially a multi-level vertical shopping mall with restaurant
 
 ## What to Do Before or After
 
+![Jinyun Mountain Scenery, Chongqing](/img/destinations/chongqing-hongya-cave-night-guide/2.webp)
+
 ### Jiefangbei CBD (解放碑, 10-minute walk)
 The city's main commercial district, entirely different in character — modern glass towers, luxury brands, underground malls. But worth seeing for the contrast with the old cliff town atmosphere of Hongya Cave. The famous Jiefangbei monument (a victory memorial in the center of a pedestrian plaza) is a photo stop.
 
@@ -59,9 +59,9 @@ One of the last remaining urban cable car systems in China, connecting the Yuzho
 ### 1891 Bar Street (1891酒吧街)
 A 10-minute walk along the riverbank from Hongya Cave; a string of bars and outdoor terraces with views of the illuminated city. Good for a beer after the Hongya visit.
 
-![Chongqing Hongya Cave Night Visit — Food Near Hongya Cave](https://images.pexels.com/photos/33861060/pexels-photo-33861060.png?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Food Near Hongya Cave
+
+![Changjiangsanxia Scenery](/img/destinations/chongqing-hongya-cave-night-guide/3.webp)
 
 **Hotpot** (火锅): Chongqing is the home of spicier, oilier mala hotpot. Several well-regarded hotpot restaurants are within walking distance:
 - Dezhuang Hotpot (德庄火锅): Chain but consistently good; ¥60–100 per person

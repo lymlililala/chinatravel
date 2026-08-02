@@ -13,7 +13,7 @@ tags:
   - transport
   - planning
 description: "The perfect 7-day loop through China's most beautiful and accessible eastern cities — Shanghai's skyline, Hangzhou's West Lake, Suzhou's classical gardens, and ancient water towns."
-ogImage: "https://images.unsplash.com/photo-1538428494232-9c0d8a3ab403?w=1200&q=85"
+ogImage: "/img/toolkit/china-east-coast-7day-itinerary/cover.webp"
 ---
 
 The Yangtze River Delta region packs an extraordinary concentration of world-class experiences into a small geographic area. High-speed trains connect these cities in 30 minutes to 2 hours, making this one of China's most comfortable multi-destination itineraries.
@@ -21,6 +21,8 @@ The Yangtze River Delta region packs an extraordinary concentration of world-cla
 ## Table of contents
 
 ## Route Overview
+
+![Shanhaiguan Great Wall, Beijing](/img/toolkit/china-east-coast-7day-itinerary/1.webp)
 
 **Shanghai (2 nights) → Hangzhou (2 nights) → Suzhou (1 night) → Water Town Day Trip → Shanghai**
 
@@ -96,6 +98,8 @@ Suzhou has nine UNESCO World Heritage classical gardens packed into a compact ol
 ---
 
 ## Day 6: Ancient Water Town Day Trip
+
+![Mutianyu Great Wall Scenery, Beijing](/img/toolkit/china-east-coast-7day-itinerary/2.webp)
 
 From Suzhou or Shanghai, pick one of these ancient canal towns:
 

@@ -13,7 +13,7 @@ tags:
   - UNESCO
   - martial arts
 description: "Wudang Mountain in Hubei is a UNESCO World Heritage Site and the spiritual home of Wudang kung fu and Taoist martial arts. This 2026 guide covers the Golden Hall summit temple, Purple Cloud Palace, kung fu schools, ticket prices (240 yuan), transport from Wuhan and Xi'an, cable car options, and the best places to stay."
-ogImage: "https://images.pexels.com/photos/14369852/pexels-photo-14369852.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/hubei-wudang-mountain-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -24,7 +24,7 @@ The mountain and its UNESCO-listed ancient buildings received World Heritage des
 
 ## The Main Temples and Sites
 
-![Wudang Mountain Hubei — The Main Temples and Sites](https://images.pexels.com/photos/29485843/pexels-photo-29485843.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Dahong Mountain, Hubei](/img/destinations/hubei-wudang-mountain-guide/1.webp)
 
 **Tianmen Golden Hall (金顶天柱峰):** The summit of the highest peak (Tianzhu Peak, 1,612m) is crowned by the Golden Hall — a bronze building erected in 1416 during the Ming dynasty Yongle Emperor's major construction programme across Wudang. Cast entirely from bronze and gilded, the hall has survived over 600 years without rusting. The views from the peak on clear days encompass the entire Wudang range and the valleys far below. Cable car access from the Purple Cloud Palace area to near the Golden Hall summit takes 15-20 minutes.
 
@@ -48,8 +48,6 @@ Several schools operate on the mountain and in the town of Wudangshan at the bas
 
 **Morning practice on the mountain:** If you stay overnight on the mountain and rise before dawn, you will almost certainly encounter resident Taoist practitioners (both priests and lay students) conducting their morning exercises on the temple terraces and mountain paths. This is one of the most authentic and atmospheric experiences the mountain offers. No ticket required — just be respectful, keep a polite distance, and don't photograph without permission.
 
-![Wudang Mountain Hubei — Ticket Prices and Entry](https://images.pexels.com/photos/17527817/pexels-photo-17527817.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Ticket Prices and Entry
 
 **Main scenic area ticket:** ¥240 per person. This combined ticket covers access to all the main temples and palace complexes, scenic area shuttle buses, and most facilities.
@@ -64,6 +62,8 @@ Allow a full day for a thorough visit including the summit. Two days allows a mo
 
 ## Getting to Wudang Mountain
 
+![She Mountain Scenery, Hubei, Wuhan](/img/destinations/hubei-wudang-mountain-guide/2.webp)
+
 **The town of Shiyan (十堰)** in northwest Hubei is the gateway city for Wudang. The mountain is about 75km from Shiyan city centre.
 
 **By High-Speed Train to Wudangshan Station:**
@@ -75,8 +75,6 @@ The dedicated Wudangshan high-speed railway station opened in 2013 and provides 
 From Wudangshan station, the mountain entrance is about 5km. Taxis (¥20-30) and shuttle buses (¥5-10) cover the distance.
 
 **By Bus from Wuhan:** Direct coaches from Wuhan Passenger Bus Terminal to Wudang Mountain (Shiyan area), approximately 4-5 hours, tickets ¥100-140. Less convenient than the train but an option.
-
-![Wudang Mountain Hubei — Where to Stay](https://images.pexels.com/photos/7494240/pexels-photo-7494240.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Where to Stay
 
@@ -90,6 +88,8 @@ From Wudangshan station, the mountain entrance is about 5km. Taxis (¥20-30) and
 **Taoist study centres:** If attending a kung fu school or study programme, accommodation is typically included in the fee.
 
 ## Hiking on Wudang Mountain
+
+![Daojiaoshengdiwudang Mountain Scenery](/img/destinations/hubei-wudang-mountain-guide/3.webp)
 
 Beyond the main temple circuit, Wudang Mountain has extensive hiking trails through ancient forest. The traditional pilgrims' path from the base to the Golden Hall summit takes approximately 5-6 hours of steady climbing — a genuine mountain hike involving stone steps, steep sections, and considerable elevation gain (approximately 1,000m from base to summit). This route was the only way to access the mountain before roads and cable cars arrived, and walking it provides both physical challenge and a sense of the pilgrimage experience.
 

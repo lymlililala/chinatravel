@@ -1,7 +1,7 @@
 ---
 title: "Beijing Olympic Park Guide: Bird's Nest, Water Cube & 2008 Legacy"
 description: "Visit Beijing's Olympic Park — the spectacular centerpiece of the 2008 Summer Olympics and 2022 Winter Olympics. Explore the Bird's Nest stadium, Water Cube aquatics center, and the broader Forest Park, with practical tips for getting there and making the most of your visit."
-ogImage: "https://images.pexels.com/photos/16310139/pexels-photo-16310139.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/beijing-olympic-park-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Beijing"
 tags: ["beijing", "olympic-park", "birds-nest", "water-cube", "2008-olympics", "architecture", "chaoyang-district", "modern-beijing"]
@@ -13,9 +13,9 @@ When the sun sets over northern Beijing and the 91,000-seat **National Stadium**
 
 ---
 
-![Beijing Olympic Park — The Two Olympic Games: A Unique Legacy](https://images.pexels.com/photos/24286129/pexels-photo-24286129.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Two Olympic Games: A Unique Legacy
+
+![Longtan Park Scenery, Beijing](/img/destinations/beijing-olympic-park-guide/1.webp)
 
 Beijing made history by becoming the **first city to host both a Summer Olympics (2008) and a Winter Olympics (2022)**. The Olympic Park was the centrepiece of both:
 
@@ -59,8 +59,6 @@ The interior has been partially converted into a **water park** — slides, wave
 
 ---
 
-![Beijing Olympic Park — Olympic Forest Park](https://images.pexels.com/photos/11064032/pexels-photo-11064032.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Olympic Forest Park
 
 Immediately north of the main stadium complex, the **Olympic Forest Park (奥林匹克森林公园)** is a 680-hectare green space divided into two sections by the North Fifth Ring Road:
@@ -78,6 +76,8 @@ Larger and wilder, the North Park has extensive natural forest, meadows, and a w
 
 ## The Olympic Green
 
+![Zhongshan Park Scenery, Beijing](/img/destinations/beijing-olympic-park-guide/2.webp)
+
 Connecting the venues, the **Olympic Green** is a formal landscape of tree-lined avenues, plazas, and the **Dragon of Water** — an 8-km artificial river running through the park. The central axis is aligned precisely with Beijing's historic north-south imperial axis, a deliberate design choice connecting the Olympic legacy to the city's ancient spatial organisation.
 
 ---
@@ -89,8 +89,6 @@ Connecting the venues, the **Olympic Green** is a formal landscape of tree-lined
 From central Beijing (Tiananmen), the journey takes approximately 35–40 minutes by metro.
 
 ---
-
-![Beijing Olympic Park — When to Visit](https://images.pexels.com/photos/30027097/pexels-photo-30027097.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## When to Visit
 
@@ -106,6 +104,8 @@ From central Beijing (Tiananmen), the journey takes approximately 35–40 minute
 ---
 
 ## Photography Tips
+
+![Park Scenery, Beijing, Beihai](/img/destinations/beijing-olympic-park-guide/3.webp)
 
 - The **reflection of the Water Cube** in the Olympic Green river on still mornings is exceptional.
 - The **aerial view** from Olympic Forest Park's central hill gives the best overview of the entire complex.

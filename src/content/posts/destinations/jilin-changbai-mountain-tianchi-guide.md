@@ -1,7 +1,7 @@
 ---
 title: "Changbai Mountain Tianchi Guide: China's Sacred Volcanic Lake & Winter Wonderland"
 description: "Complete guide to Changbai Mountain and Tianchi (Heaven Lake) in Jilin — China's highest volcanic caldera lake on the North Korea border, the legendary North Slope waterfall, winter snow activities, and visiting this sacred mountain in each season."
-ogImage: "https://images.pexels.com/photos/32752785/pexels-photo-32752785.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/jilin-changbai-mountain-tianchi-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Jilin"
 tags: ["jilin", "changbai-mountain", "tianchi", "heaven-lake", "volcanic-lake", "north-korea-border", "winter", "waterfall", "sacred-mountain"]
@@ -15,9 +15,9 @@ For three ethnicities — Chinese Han, Korean, and Manchu — **Changbai Mountai
 
 ---
 
-![Changbai Mountain Tianchi — The Mountain](https://images.pexels.com/photos/26926327/pexels-photo-26926327.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Mountain
+
+![Jinchan Island Scenery, Jilin](/img/destinations/jilin-changbai-mountain-tianchi-guide/1.webp)
 
 ### Geology
 
@@ -33,9 +33,9 @@ The lake is famous in folklore for a "lake monster" — several large animal sig
 
 ---
 
-![Changbai Mountain Tianchi — Getting to Tianchi: The Three Slopes](https://images.unsplash.com/photo-1708912982884-23357f69e594?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw3fHxUaWFuY2hpfGVufDB8MHx8fDE3ODE4NTQ4ODJ8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
-
 ## Getting to Tianchi: The Three Slopes
+
+![Songyuanlangyaba Scenery, Jilin](/img/destinations/jilin-changbai-mountain-tianchi-guide/2.webp)
 
 Changbai Mountain has three main visitor access points, each with distinct character:
 
@@ -58,8 +58,6 @@ The South Slope entry is the longest and most demanding — and the only one tha
 **This slope is on the Chinese side only** — it does not cross into North Korea — but it offers the closest the average traveller will come to looking into North Korea from China.
 
 ---
-
-![Changbai Mountain Tianchi — Seasons at Changbai Mountain](https://images.pexels.com/photos/9875573/pexels-photo-9875573.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Seasons at Changbai Mountain
 
@@ -92,6 +90,8 @@ The snow melts unevenly; the hiking trails above 2,000 m are still snow-covered;
 ---
 
 ## Hot Springs
+
+![Changbaishan Natural Landscape, Jilin](/img/destinations/jilin-changbai-mountain-tianchi-guide/3.webp)
 
 The North Slope's geothermal field produces **hot springs** ranging from 60°C to 82°C near the waterfall area. Visiting tourists boil eggs in the springs (sold at the nearby market for ¥10–¥20; the eggs come out perfectly cooked in 7–8 minutes) and soak feet in the lower-temperature overflow pools.
 

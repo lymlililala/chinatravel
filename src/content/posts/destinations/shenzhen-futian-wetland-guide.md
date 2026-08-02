@@ -1,7 +1,7 @@
 ---
 title: "Shenzhen Futian Mangrove Wetland Guide: Birdwatching and Urban Nature"
 description: "Guide to visiting Futian Mangrove Nature Reserve in Shenzhen — one of the world's smallest but most biodiverse urban wetlands. Best for birdwatching, cycling and escaping the city within the city."
-ogImage: "https://images.pexels.com/photos/37248923/pexels-photo-37248923.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/shenzhen-futian-wetland-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Shenzhen", "Futian wetland", "mangrove", "birdwatching China", "Shenzhen nature", "urban park Shenzhen"]
@@ -9,9 +9,9 @@ tags: ["Shenzhen", "Futian wetland", "mangrove", "birdwatching China", "Shenzhen
 
 Sandwiched between Shenzhen's dense urban fabric and the Hong Kong border lies one of China's most remarkable urban nature reserves — the Futian Mangrove Nature Reserve (福田红树林自然保护区). Just 368 hectares in area, this strip of wetland hosts over 190 species of birds, including globally endangered migratory shorebirds, resident herons, and wintering ducks. For travelers who associate Shenzhen exclusively with technology parks and shopping malls, the wetland is a revelation.
 
-![Shenzhen Futian Mangrove Wetland — What Is the Futian Mangrove Reserve?](https://images.pexels.com/photos/38127408/pexels-photo-38127408.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## What Is the Futian Mangrove Reserve?
+
+![Baomo Garden, Guangdong, Guangzhou](/img/destinations/shenzhen-futian-wetland-guide/1.webp)
 
 Mangrove forests are coastal wetland ecosystems where specialized trees grow in the intertidal zone — roots permanently submerged in salt or brackish water, creating habitat for fish, crustaceans, birds and invertebrates. The Futian reserve protects a remnant section of the mangroves that once fringed the entire Pearl River Delta coast; urbanization destroyed most of them, but the section near Deep Bay (深圳湾) survived and was given protected status in 1984.
 
@@ -27,9 +27,9 @@ The reserve sits at the apex of the East Asian–Australasian Flyway — the mig
 
 **Birding rating**: International ornithologists rate Futian as a "globally significant Important Bird Area." For serious birders, it's essential; for casual wildlife viewers, there's always something impressive to see at low tide.
 
-![Shenzhen Futian Mangrove Wetland — Visiting the Reserve](https://images.unsplash.com/photo-1714598268918-ab95770723bc?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw1fHxWaXNpdGluZyUyMFJlc2VydmV8ZW58MHwwfHx8MTc4MTg3MjkyMXww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
-
 ## Visiting the Reserve
+
+![Nanyueyuan Scenery, Guangdong, Guangzhou](/img/destinations/shenzhen-futian-wetland-guide/2.webp)
 
 **Main access point**: The reserve has a visitor center and observation tower at the Shenzhen Bay side. Take metro Line 2 to **Hongshulin Station (红树林)** — the station name literally means "mangrove forest."
 
@@ -41,6 +41,8 @@ The reserve sits at the apex of the East Asian–Australasian Flyway — the mig
 
 ## Birdwatching Tips
 
+![Chenjiaci, Guangdong, Guangzhou](/img/destinations/shenzhen-futian-wetland-guide/3.webp)
+
 **Bring binoculars**: The mangrove edges are the best areas; birds can be 50–200m away in the wetland. 8x42 binoculars are adequate; 10x50 better for shorebirds.
 
 **Arrive at low tide**: Check the tide table app (Tides Near Me works in China) before visiting. Low tide exposes the mudflats where most feeding activity occurs. A falling tide (2 hours before low tide) is particularly active.
@@ -48,8 +50,6 @@ The reserve sits at the apex of the East Asian–Australasian Flyway — the mig
 **Best season**: November–January for the Black-faced Spoonbill congregation (which regularly numbers 400+, making Futian the most important wintering site for this species globally).
 
 **Local birding groups**: The Shenzhen Bird Society (深圳观鸟会) organizes regular walks at Futian. Contact through their WeChat public account for information on guided walks.
-
-![Shenzhen Futian Mangrove Wetland — Cycling the Shenzhen Bay Coastal Path](https://images.pexels.com/photos/31746140/pexels-photo-31746140.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Cycling the Shenzhen Bay Coastal Path
 

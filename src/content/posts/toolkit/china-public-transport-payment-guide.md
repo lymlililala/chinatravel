@@ -11,7 +11,7 @@ tags:
   - toolkit
   - practical
 description: "How to pay for buses, metros, and taxis across China as a foreign visitor — adding the Alipay and WeChat transit pass features, city transit cards (the T-Union national card works in 300+ cities), QR code scanning on buses, and what to do if your phone payment doesn't work in a particular city."
-ogImage: "https://images.pexels.com/photos/5835274/pexels-photo-5835274.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-public-transport-payment-guide/cover.webp"
 ---
 
 Paying for public transport in China has changed dramatically in the past five years. The shift to mobile QR code payment has been so complete that many Chinese cities have reduced or eliminated cash payment options on buses and metros. For foreign visitors, this creates a specific challenge: the payment systems are excellent, but they're built around Chinese bank accounts and phone numbers. Here's the current state of play and the most practical options for international visitors.
@@ -19,6 +19,8 @@ Paying for public transport in China has changed dramatically in the past five y
 ## Table of contents
 
 ## The Three Payment Methods Ranked by Convenience
+
+![Shi Lake Scenery, Jiangsu, Suzhou](/img/toolkit/china-public-transport-payment-guide/1.webp)
 
 For international visitors in 2026, the options ranked by setup difficulty vs ongoing convenience:
 
@@ -86,6 +88,8 @@ If you're spending the majority of your trip in one city, the city's own transit
 These are physically similar to T-Union cards but are technically city-specific systems. The T-Union card does everything these do in most cases, plus works across cities — so for multi-city travel, T-Union is better.
 
 ## Using QR Codes on Buses
+
+![Gudianmingyuanliu Garden Scenery, Suzhou](/img/toolkit/china-public-transport-payment-guide/2.webp)
 
 City buses in China have increasingly switched from physical card readers to QR code scanners. Many have a fixed code displayed near the door that you scan, or a screen where a code appears when you board.
 

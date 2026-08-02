@@ -13,7 +13,7 @@ tags:
   - foshan
   - cantonese culture
 description: "Discover the underrated Pearl River Delta cities — Foshan's ancestral temple and Cantonese opera, Zhongshan birthplace of Sun Yat-sen, Zhuhai's coastal charm and Macau connection, and how to explore the most economically productive delta in the world."
-ogImage: "https://images.pexels.com/photos/35130085/pexels-photo-35130085.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guangdong-pearl-river-delta-guide/cover.webp"
 ---
 
 The Pearl River Delta (珠三角) is the most economically dense region in China — nine cities around the Pearl River estuary producing approximately 10% of China's GDP. Guangzhou and Shenzhen absorb most visitor attention; but the surrounding cities contain cultural heritage, traditional Cantonese life, and architectural variety that rewards deeper exploration.
@@ -22,7 +22,7 @@ The Pearl River Delta (珠三角) is the most economically dense region in China
 
 ## Foshan (佛山): Ancestral Temple & Cantonese Crafts
 
-![Pearl River Delta — Foshan (佛山): Ancestral Temple & Cantonese Crafts](https://images.pexels.com/photos/33897485/pexels-photo-33897485.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Shiwannanfengguzao Scenery, Guangdong, Foshan](/img/destinations/guangdong-pearl-river-delta-guide/1.webp)
 
 30 km southwest of Guangzhou — the city that gave its name to the Lei Weng martial arts style and to the kung fu master Ip Man (叶问, Bruce Lee's teacher).
 
@@ -32,9 +32,9 @@ The **Wan Fuk tai (万福台) Opera Stage** adjacent to the main temple is one o
 
 **Shunde district (顺德):** 20 km south of Foshan — the heartland of Cantonese cuisine. Shunde is where many of the most celebrated Cantonese cooking techniques were developed; the *River Snails with Pork** (*田螺猪肉饭*), steamed milk pudding (双皮奶), and the white-cut chicken standard all have Shunde origins.
 
-![Pearl River Delta — Zhongshan (中山): Sun Yat-sen Country](https://images.pexels.com/photos/18137607/pexels-photo-18137607.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Zhongshan (中山): Sun Yat-sen Country
+
+![Baomo Garden, Guangdong, Guangzhou](/img/destinations/guangdong-pearl-river-delta-guide/2.webp)
 
 Named in honour of Sun Yat-sen (孙中山, 1866–1925) — the revolutionary founder of the Republic of China who was born here.
 
@@ -42,9 +42,9 @@ Named in honour of Sun Yat-sen (孙中山, 1866–1925) — the revolutionary fo
 
 **Zhongshan's Architecture:** The city has some of the best-preserved examples of qilou (骑楼) — the arcaded shophouse type that lines Southeast Asian Chinese commercial streets — in Guangdong. The Sunwen West Road historical district (孙文西路) has a concentrated 600-metre commercial street arcade that functions as a living museum.
 
-![Pearl River Delta — Zhuhai (珠海)](https://images.pexels.com/photos/20599726/pexels-photo-20599726.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Zhuhai (珠海)
+
+![Nanyueyuan Scenery, Guangdong, Guangzhou](/img/destinations/guangdong-pearl-river-delta-guide/3.webp)
 
 The coastal city bordering Macau — the most livable city in the Pearl River Delta by quality of life indices, with a long coastal park (情侣路, 28 km of coastal promenade) and distinctly different pace from Guangzhou and Shenzhen.
 

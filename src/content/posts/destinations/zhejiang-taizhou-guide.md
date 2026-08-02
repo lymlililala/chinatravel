@@ -12,12 +12,14 @@ tags:
   - coastal-islands
   - hidden-gem
 description: "Discover Taizhou, one of Zhejiang's most overlooked destinations, where the dramatic Shenxianju scenic area rivals any mountain landscape in the province, coastal islands offer pristine beaches within sight of the mainland, and ancient towns maintain traditions largely untouched by mass tourism. This 2026 guide covers Shenxianju's stunning rock formations and glass bridge, the island retreat of Dachen, Linhai's ancient Great Wall, local Zhejiang cuisine, and practical advice for exploring this rewarding corner of eastern China."
-ogImage: "https://images.pexels.com/photos/32118127/pexels-photo-32118127.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/zhejiang-taizhou-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## Taizhou — Zhejiang's Best-Kept Secret
+
+![Putuoshan Scenery](/img/destinations/zhejiang-taizhou-guide/1.webp)
 
 Zhejiang province gets a lot of tourist attention, but almost all of it goes to Hangzhou, the water towns, and Putuoshan. Taizhou (台州), sprawling along the coast between Ningbo and Wenzhou, barely registers on most itineraries. This is a shame, because Taizhou has some of the most dramatic scenery in the province — the Shenxianju rock formations are genuinely awe-inspiring, the coastal islands are uncrowded and beautiful, and the city of Linhai has a section of the Great Wall that predates Beijing's by centuries.
 
@@ -53,8 +55,6 @@ The scenic area has been developed with impressive infrastructure: cable cars, g
 
 **Tip:** Go on a cloudy or misty day — the rock formations are actually more atmospheric when partially obscured by cloud. Clear days can make the landscape feel a bit stark.
 
-![Taizhou Zhejiang — Linhai — The Ancient Great Wall](https://images.pexels.com/photos/12978405/pexels-photo-12978405.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Linhai — The Ancient Great Wall
 
 ### Jiangnan Great Wall (江南长城)
@@ -77,6 +77,8 @@ Below the wall, Linhai's old town is a charming maze of lanes, traditional house
 - **Qingtuan (青团):** Glutinous rice dumplings dyed green with mugwort, filled with sweet or savoury fillings. ¥5-8 ($0.70-1.10 USD) each.
 
 ## Coastal Islands
+
+![Taiziwan Park Landscape, Hangzhou](/img/destinations/zhejiang-taizhou-guide/2.webp)
 
 ### Dachen Island (大陈岛)
 
@@ -111,6 +113,8 @@ Taizhou cuisine is a branch of Zhejiang cooking that emphasises seafood, freshne
 **Tiantai Vegetarian Cuisine:** The Tiantai Mountain area is a centre of Buddhist vegetarian cooking. The temple restaurants here produce extraordinary meat-free dishes that rival anything in their carnivorous counterparts. Temple meal ¥30-50 ($4.20-7 USD).
 
 ## Practical Information
+
+![Song City Scenery, Hangzhou](/img/destinations/zhejiang-taizhou-guide/3.webp)
 
 ### Getting to Taizhou
 

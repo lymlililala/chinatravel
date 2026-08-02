@@ -11,7 +11,7 @@ tags:
   - outdoor
   - toolkit
 description: "Adventure activities in China — the Tibet-to-Nepal Friendship Highway drive, trekking the Tiger Leaping Gorge in Yunnan (one of Asia's classic multi-day hikes), rock climbing in Yangshuo, cycling around Qinghai Lake, paragliding above Guilin, and the less well-known canyoneering routes in Zhangjiajie. Which need guides and permits."
-ogImage: "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1200&q=85"
+ogImage: "/img/toolkit/china-adventure-travel-guide/cover.webp"
 ---
 
 China is one of the world's great adventure travel destinations, and most visitors don't realise it. Beyond the Forbidden City and the Great Wall, there's a country of extraordinary topographic diversity — from the Tibetan Plateau at 4,000m to deep karst gorges, from subtropical climbing crags to high-altitude alpine circuits. The adventure infrastructure has improved enormously in the past decade.
@@ -21,6 +21,8 @@ Here's an honest guide to the best adventure activities in China, what they invo
 ## Table of contents
 
 ## Trekking: The Classic Multi-Day Routes
+
+![Weimei Natural Scenery, Guangxi, Yangshuo](/img/toolkit/china-adventure-travel-guide/1.webp)
 
 ### Tiger Leaping Gorge, Yunnan
 One of Asia's most rewarding multi-day treks. The two-to-three day high trail follows the northern side of the gorge, with the Jinsha River 3,900 metres below and the Haba Snow Mountain above. The trekking is moderate — no technical climbing, but sustained ascents and descents on rocky trails. The guesthouses along the high trail (Halfway Guesthouse, Tea Horse Guesthouse, Sean's Spring) are legendary backpacker stops.
@@ -81,6 +83,8 @@ Paragliding above the karst landscape at dawn is one of China's most memorable e
 Paragliding in the UNESCO-listed Fanjingshan area is less well-known but growing. Local operators run tandem flights above the forested mountain landscape.
 
 ## The Sichuan-Tibet Highway Drive
+
+![Huangyaguan Great Wall Scenery, Tianjin](/img/toolkit/china-adventure-travel-guide/2.webp)
 
 Often called the most spectacular road in the world, the G318 from Chengdu to Lhasa crosses 14 mountain passes and takes 14-20 days by vehicle (2 weeks minimum to do it properly). Several operators run jeep expeditions — full expedition from Chengdu to Lhasa with private vehicle, driver, and guide costs US$2,000-4,000 per person.
 

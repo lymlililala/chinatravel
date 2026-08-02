@@ -11,7 +11,7 @@ tags:
   - altitude
   - photography
 description: "Namtso (纳木错) Lake — Tibet's largest lake and one of the most spiritually significant in Tibetan Buddhism, at 4,718m. The pilgrim circuit, the sunrise from Tashi Dor Peninsula, the nomad camp experience, the altitude reality (Namtso is 1,000m higher than Lhasa — acclimatize first), and how to organize the 2-day trip from Lhasa."
-ogImage: "https://images.pexels.com/photos/11827256/pexels-photo-11827256.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/tibet-namtso-lake-guide/cover.webp"
 ---
 
 Namtso Lake sits at 4,718 metres above sea level on the Tibetan Plateau, 190 kilometres north of Lhasa. Its water is an improbable shade of turquoise and deep blue that shifts with the sky and the time of day. The snow peaks of the Nyenchen Tanglha range reflect in the surface. Buddhist prayer flags flutter from cairns along the shore. Tibetan nomads graze their yaks on the surrounding grasslands.
@@ -22,7 +22,7 @@ It is one of the most visually overwhelming landscapes in Asia, and also one of 
 
 ## Why Namtso Is Significant
 
-![Namtso Lake — Why Namtso Is Significant](https://images.pexels.com/photos/11827275/pexels-photo-11827275.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Ranwu Lake Landscape, Tibet](/img/destinations/tibet-namtso-lake-guide/1.webp)
 
 Namtso (纳木错, Tibetan: གནམ་མཚོ) means "Heavenly Lake" in Tibetan. It is the largest lake in Tibet, stretching about 70km long and 30km wide, and the third largest saltwater lake in China. Its elevation makes it the highest large lake in the world.
 
@@ -38,8 +38,6 @@ Namtso is typically reached as a 2-day excursion from Lhasa. The road north from
 
 **When to go**: May to October is the accessible season; the road to Namtso closes in winter due to snow. June to September offers the best weather and the highest chance of clear skies. The lake area experiences frequent afternoon thunderstorms in summer — plan your key viewing for morning.
 
-![Namtso Lake — The Tashi Dor Peninsula](https://images.pexels.com/photos/26746837/pexels-photo-26746837.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Tashi Dor Peninsula
 
 The Tashi Dor Peninsula juts into the lake at its eastern end and is where nearly all visitors concentrate. Two rock formations — nicknamed "Mother and Son" — rise from the tip of the peninsula, with cave temples built into them that have been used by hermit monks for centuries.
@@ -50,15 +48,17 @@ Entry fee to the Namtso Scenic Area: ¥120 per person.
 
 ## Sunrise from Tashi Dor: The Essential Experience
 
+![Laangcuo Lake, Tibet](/img/destinations/tibet-namtso-lake-guide/2.webp)
+
 The sunrise over Namtso is the reason most photographers make this difficult journey. Setting up on the lakeshore at 5am, with the sky beginning to lighten behind you in the east, and watching the Nyenchen Tanglha peaks gradually emerge from darkness and take on colour — gold, then pink, then white — is an experience that has no adequate verbal description.
 
 The practical requirements: stay overnight at the guesthouse on Tashi Dor (¥60–¥120 for a basic dorm bed, ¥200–¥350 for a private room), set an alarm for 5am, dress in full winter layers even in summer (the lakeside temperature at dawn is typically -5°C to +5°C even in July), and walk to the western-facing viewpoint 10 minutes before sunrise.
 
 The guesthouse accommodation is extremely basic — no reliable electricity, no hot water, cold and thin bedding. Bring a sleeping bag rated to at least -5°C.
 
-![Namtso Lake — The Altitude Reality](https://images.pexels.com/photos/31410265/pexels-photo-31410265.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Altitude Reality
+
+![Dazhao Temple Scenery, Tibet](/img/destinations/tibet-namtso-lake-guide/3.webp)
 
 This needs to be stated clearly: Namtso at 4,718m is not for visitors who have just arrived in Tibet. The altitude at Namtso is genuinely dangerous for unacclimatized individuals, and emergency evacuations (by helicopter from Lhasa in serious cases) do happen.
 

@@ -11,7 +11,7 @@ tags:
   - toolkit
   - planning
 description: "Complete guide to China's domestic aviation — the best budget airlines (Spring Airlines, Lucky Air, Shenzhen Airlines), how to book Chinese domestic flights as a foreigner (Trip.com vs Ctrip), baggage allowances, airport bus connections, and why some routes beat the high-speed train for time and cost."
-ogImage: "https://images.pexels.com/photos/3235061/pexels-photo-3235061.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-domestic-flights-budget-guide/cover.webp"
 ---
 
 China's domestic aviation network is enormous — over 200 airports, hundreds of routes, and genuine budget carriers that sometimes undercut train prices on longer hauls. If you're planning to cover serious distance (say, Beijing to Chengdu or Shanghai to Yunnan), a domestic flight often makes more sense than a 10-hour train journey. The trick is knowing which airlines to watch, how to book without a Chinese payment method, and what to expect at Chinese domestic terminals.
@@ -19,6 +19,8 @@ China's domestic aviation network is enormous — over 200 airports, hundreds of
 ## Table of contents
 
 ## Budget Airlines Worth Knowing
+
+![West Lake Landscape, Hangzhou](/img/toolkit/china-domestic-flights-budget-guide/1.webp)
 
 Not all Chinese carriers are equal on price. The legacy carriers — Air China, China Eastern, China Southern — run good networks but their fares are rarely the cheapest. These are the budget operators that frequently undercut them:
 
@@ -63,6 +65,8 @@ Chinese domestic flights require **real-name registration** — your passport nu
 At check-in, domestic terminals usually have both counter and self-service kiosks. **The kiosks may not accept foreign passports** — go to the staffed counter if you run into trouble.
 
 ## Getting to and From Domestic Terminals
+
+![Huangdi Ancient Village Luo Landscape, Shanxi, Anhui](/img/toolkit/china-domestic-flights-budget-guide/2.webp)
 
 Most major Chinese airports have separate international and domestic terminals. This matters for connections:
 

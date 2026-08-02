@@ -10,12 +10,14 @@ tags:
   - china visa types
   - china residence permit
 description: "Planning an extended stay in China? This comprehensive 2026 guide breaks down every long-stay visa option — from L tourist visa extensions and M business visas to X1 student visas, Z work permits, and S1/S2 family reunion visas. Learn eligibility requirements, application procedures, processing times, costs, and the path to a residence permit for stays beyond 180 days."
-ogImage: "https://images.unsplash.com/photo-1554224155-6723521a9277?w=1200&q=85"
+ogImage: "/img/toolkit/china-long-stay-visa-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## Understanding China's Visa System in 2026
+
+![Guojiasenlin Park, Zhangjiajie](/img/toolkit/china-long-stay-visa-guide/1.webp)
 
 China's visa system can feel like a labyrinth, especially if you are used to the relatively straightforward immigration processes of Southeast Asian countries. The rules are detailed, the documentation requirements are extensive, and enforcement varies by consulate and entry port. But the system is also logical once you understand its structure, and in 2026, several policy changes have made long stays more accessible than they were even two years ago.
 
@@ -182,6 +184,8 @@ Citizens of 59 countries can visit Hainan Island visa-free for up to 30 days, pr
 China does not yet have a formal digital nomad visa as of 2026. The M visa comes closest, but it technically requires a Chinese business connection. Some digital nomads use the L visa with regular exits and re-entries, but immigration authorities are increasingly scrutinising this pattern.
 
 ## Common Mistakes and How to Avoid Them
+
+![Landscape Scenery, Zhangjiajie](/img/toolkit/china-long-stay-visa-guide/2.webp)
 
 1. **Overstaying your visa.** Penalties include fines of ¥500 per day of overstay (up to ¥10,000), detention, and deportation with a re-entry ban of 1–10 years. Set calendar reminders for your visa expiry date 30 days in advance.
 

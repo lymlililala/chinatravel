@@ -1,7 +1,7 @@
 ---
 title: "Kaifeng Henan: Walking Through the Song Dynasty Capital's Surviving Streets"
 description: "Explore Kaifeng in Henan — the capital of China's most sophisticated dynasty, the Northern Song, where the famous scroll 'Along the River During Qingming Festival' was painted, where China's oldest surviving Jewish community established its synagogue, and where night markets still echo the 1,000-year-old tradition of urban entertainment culture."
-ogImage: "https://images.pexels.com/photos/6733646/pexels-photo-6733646.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/henan-kaifeng-song-dynasty-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Henan"
 tags: ["henan", "kaifeng", "song-dynasty", "qingming-festival-scroll", "night-market", "jewish-community", "iron-pagoda", "ancient-capital"]
@@ -15,9 +15,9 @@ Twenty-first century Kaifeng is a mid-sized Henan city that has never quite reco
 
 ---
 
-![Kaifeng Henan — The Northern Song Legacy](https://images.pexels.com/photos/32011417/pexels-photo-32011417.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Northern Song Legacy
+
+![Longmen Grottoes, Henan, Luoyang](/img/destinations/henan-kaifeng-song-dynasty-guide/1.webp)
 
 ### Qingming Riverside Garden (清明上河园)
 
@@ -41,9 +41,9 @@ Earlier than the Iron Pagoda (977 CE), only 3 of the original 7 storeys remain (
 
 ---
 
-![Kaifeng Henan — Kaifeng Jewish Community](https://images.pexels.com/photos/5974271/pexels-photo-5974271.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Kaifeng Jewish Community
+
+![Bali Valley Scenery, Henan](/img/destinations/henan-kaifeng-song-dynasty-guide/2.webp)
 
 **Kaifeng's Jewish community** is one of the most remarkable and poorly understood episodes in Chinese history. A community of Jewish merchants settled in Kaifeng during the Northern Song dynasty (approximately 9th–11th century CE), built a synagogue in 1163, and maintained a distinct community identity — speaking Chinese but observing Jewish law — for approximately 700 years before gradually assimilating in the 19th century.
 
@@ -56,6 +56,8 @@ Earlier than the Iron Pagoda (977 CE), only 3 of the original 7 storeys remain (
 ---
 
 ## Night Markets
+
+![Guanlin Temple Scenery, Henan, Luoyang](/img/destinations/henan-kaifeng-song-dynasty-guide/3.webp)
 
 Kaifeng's **night market culture** traces a direct lineage to the Northern Song dynasty, when Bianjing was one of the first cities to lift curfews and allow commercial activity at night — a revolutionary development in Chinese urban history.
 

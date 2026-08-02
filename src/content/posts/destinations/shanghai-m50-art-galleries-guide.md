@@ -1,7 +1,7 @@
 ---
 title: "Shanghai M50 Art District & Contemporary Art Scene Guide"
 description: "Explore Shanghai's contemporary art scene — from the M50 galleries on Moganshan Road to the West Bund art corridor, Red Town, and the global art fairs that make Shanghai one of Asia's most important contemporary art cities. A guide for serious art visitors and curious tourists alike."
-ogImage: "https://images.pexels.com/photos/36572679/pexels-photo-36572679.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/shanghai-m50-art-galleries-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Shanghai"
 tags: ["shanghai", "contemporary-art", "M50", "moganshan-road", "west-bund", "art-galleries", "art-district", "modern-art", "culture"]
@@ -15,9 +15,9 @@ For visitors, this means an unusually rich art itinerary that ranges from indepe
 
 ---
 
-![Shanghai M50 Art District & Contemporary Art Scene — M50 Creative Park (莫干山路50号)](https://images.pexels.com/photos/29188500/pexels-photo-29188500.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## M50 Creative Park (莫干山路50号)
+
+![Shiji Park, Shanghai](/img/destinations/shanghai-m50-art-galleries-guide/1.webp)
 
 The original nucleus of Shanghai's contemporary art scene, M50 occupies a former cotton mill complex on **Moganshan Road** in Putuo District. The red-brick and concrete factory buildings — characteristic of Shanghai's 1930s–1950s industrial architecture — house approximately 100 galleries and artists' studios spread across multiple floors and courtyards.
 
@@ -39,9 +39,9 @@ The original nucleus of Shanghai's contemporary art scene, M50 occupies a former
 
 ---
 
-![Shanghai M50 Art District & Contemporary Art Scene — The West Bund Art Corridor (西岸艺术走廊)](https://images.pexels.com/photos/34932698/pexels-photo-34932698.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The West Bund Art Corridor (西岸艺术走廊)
+
+![Yuyuanchenghuang Temple, Shanghai](/img/destinations/shanghai-m50-art-galleries-guide/2.webp)
 
 Fifteen kilometres south of M50, along the Huangpu River's western bank, the **West Bund** district has been developed over the past decade into the most concentrated art museum corridor in China.
 
@@ -71,8 +71,6 @@ The former Nanshi Power Plant — now China's first state-run contemporary art m
 
 ---
 
-![Shanghai M50 Art District & Contemporary Art Scene — Art Fairs and Events](https://images.pexels.com/photos/34748950/pexels-photo-34748950.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Art Fairs and Events
 
 Shanghai has become the primary destination for Asia's most important art fairs:
@@ -86,6 +84,8 @@ Both fairs occur simultaneously in November, creating a one-week art market inte
 ---
 
 ## Additional Galleries and Art Spaces
+
+![Dishini Architecture Scenery, Shanghai](/img/destinations/shanghai-m50-art-galleries-guide/3.webp)
 
 ### Rockbund Art Museum (外滩美术馆)
 

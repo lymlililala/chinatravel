@@ -11,7 +11,7 @@ tags:
   - accommodation
   - beach
 description: "Sanya accommodation by beach — Yalong Bay (luxury resort zone, the Ritz-Carlton and St Regis territory, ¥1500+/night), Dadonghai (mid-range and budget, family-friendly, real restaurants nearby, ¥300-800), Sanya Bay (cheapest, long beach, less touristy). The all-inclusive vs independent question, and how peak season (Dec-Feb) doubles prices."
-ogImage: "https://images.pexels.com/photos/13318776/pexels-photo-13318776.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/sanya-hotels-accommodation-guide/cover.webp"
 ---
 
 Sanya is the Chinese mainland's tropical beach escape — the resort city on Hainan Island's southern coast that serves as a domestic alternative to Thailand or Bali for Chinese families and couples. The city has three distinct beach areas, each with a very different character and price range. Choosing between them shapes the entire trip. The price swings are dramatic by season: a room that costs ¥400 in June might cost ¥1,200 in January when northern China is frozen and Sanya is flooded with domestic tourists.
@@ -20,7 +20,7 @@ Sanya is the Chinese mainland's tropical beach escape — the resort city on Hai
 
 ## The Three Beach Areas: An Overview
 
-![Stay Sanya, Hainan — The Three Beach Areas: An Overview](https://images.pexels.com/photos/37938298/pexels-photo-37938298.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Dadonghai Scenery, Hainan, Sanya](/img/destinations/sanya-hotels-accommodation-guide/1.webp)
 
 ### Yalong Bay (亚龙湾)
 
@@ -54,9 +54,9 @@ The beach is less spectacular than Yalong or Dadonghai (the sand is coarser, the
 
 **Price range:** ¥150-400/night for budget hotels. Mid-range beachfront ¥500-1,000/night. Some good-value mid-range options here.
 
-![Stay Sanya, Hainan — The Seasonal Price Problem](https://images.pexels.com/photos/33008587/pexels-photo-33008587.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Seasonal Price Problem
+
+![Boao Landscape, Hainan](/img/destinations/sanya-hotels-accommodation-guide/2.webp)
 
 Sanya's pricing is one of the most seasonal in China. The reasons: **peak season is December-February**, when northern China is cold and domestic tourists flood south for winter warmth. Prices during this peak can be 2-3x summer prices for the same room.
 
@@ -72,8 +72,6 @@ Sanya's pricing is one of the most seasonal in China. The reasons: **peak season
 
 **The trade-off of low season:** May-September is typhoon and rain season. Weather can be excellent (hot, sunny) with occasional rain days, or it can be disrupted by tropical storms. Check typhoon forecasts before travel in September.
 
-![Stay Sanya, Hainan — All-Inclusive vs Independent: The Yalong Bay Question](https://images.pexels.com/photos/16774979/pexels-photo-16774979.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## All-Inclusive vs Independent: The Yalong Bay Question
 
 The major Yalong Bay resorts offer all-inclusive packages that include three meals, drinks, and resort activities. The argument for all-inclusive:
@@ -85,6 +83,8 @@ The major Yalong Bay resorts offer all-inclusive packages that include three mea
 **The hybrid:** Stay at Yalong Bay for the beach and facilities, but plan 1-2 evenings taking taxis into Sanya city for seafood dinner. The taxi costs ¥40-80 each way; the meal savings more than cover it.
 
 ## Hotel Picks by Beach
+
+![Landscape Scenery, Hainan, Sanya](/img/destinations/sanya-hotels-accommodation-guide/3.webp)
 
 ### Yalong Bay
 - **Ritz-Carlton Sanya** (三亚丽思卡尔顿酒店) — the most consistent luxury property in the zone. ¥2,500-7,000/night peak.

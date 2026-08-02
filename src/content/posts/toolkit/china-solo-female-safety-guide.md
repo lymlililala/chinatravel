@@ -12,7 +12,7 @@ tags:
   - solo-travel
   - china-for-women
 description: "Is China safe for solo female travellers in 2026? Based on real experiences from women who've travelled China alone, this guide covers street safety, hotel security, nightlife tips, scam awareness, and the safest destinations for women exploring China independently. Includes practical advice on handling unwanted attention, choosing accommodation, and navigating cultural differences."
-ogImage: "https://images.unsplash.com/photo-1528127269322-539801943592?w=1200&q=85"
+ogImage: "/img/toolkit/china-solo-female-safety-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -33,6 +33,8 @@ ogImage: "https://images.unsplash.com/photo-1528127269322-539801943592?w=1200&q=
 - [Emergency Contacts and Resources](#emergency-contacts)
 
 ## Is China Safe for Solo Female Travellers?
+
+![Scenery, Jiuzhaigou, Sichuan](/img/toolkit/china-solo-female-safety-guide/1.webp)
 
 I'm going to give you the answer that most travel blogs won't: China is generally one of the safest countries in Asia for solo female travellers, but that doesn't mean you can let your guard down completely.
 
@@ -204,6 +206,8 @@ Based on personal experience and community feedback, here are the most solo fema
 - **Kashgar** — Culturally rich but conservative. Dress modestly and consider a guide
 
 ## Destinations to Approach with Caution
+
+![Terracotta Army](/img/toolkit/china-solo-female-safety-guide/2.webp)
 
 - **Remote Tibetan areas** — Altitude, limited infrastructure, and restricted travel permits make these challenging solo. Consider joining a group.
 - **Rural Xinjiang** — Checkpoints, limited foreigner access, and political sensitivity. Travel with a reputable tour operator.

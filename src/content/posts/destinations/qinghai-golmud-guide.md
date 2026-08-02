@@ -12,7 +12,7 @@ tags:
   - tibet-route
   - desert
 description: "Golmud (Geermu) in western Qinghai is the last major city on the Qinghai-Tibet Railway before Lhasa, sitting in the hyper-arid Qaidam Basin at 2,800 meters. It serves as the practical gateway to Tibet overland and to some of China's most otherworldly desert landscapes — salt lakes, yardang formations, and the vast emptiness of the Qaidam. This guide covers Golmud's role as a transit hub, the surrounding desert attractions, and practical tips for the high-altitude frontier."
-ogImage: "https://images.pexels.com/photos/33264092/pexels-photo-33264092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/qinghai-golmud-guide/cover.webp"
 ---
 
 Golmud (格尔木, also spelled Geermu) sits in the Qaidam Basin (柴达木盆地) at 2,809 meters above sea level, a city of about 220,000 people in one of the most arid and remote regions of China. It exists primarily because of two things: the Qinghai-Tibet Railway, which passes through Golmud on its way to Lhasa, and the Qaidam Basin's extraordinary mineral wealth — potash, lithium, salt, and rare earths that have made this harsh landscape economically significant.
@@ -22,6 +22,8 @@ For travelers, Golmud serves as the practical gateway to Tibet overland. The Qin
 ## Table of contents
 
 ## Getting to Golmud
+
+![Singing Sand Dunes Scenery, Dunhuang](/img/destinations/qinghai-golmud-guide/1.webp)
 
 **By train:**
 - **From Xining (Qinghai capital):** About 8–10 hours; ¥150–230; multiple daily departures on the Qinghai-Tibet Railway
@@ -52,8 +54,6 @@ The road to Lhasa from Golmud is about 1,150km; driving time approximately 15–
 
 **Foreign travelers:** The Tibet Travel Permit (TTP) is required. Arrange through a licensed Tibetan travel agency before arriving in Golmud. You cannot board the train or drive to Lhasa without this permit.
 
-![Golmud Qinghai — Qarhan Salt Lake (察尔汗盐湖)](https://images.pexels.com/photos/31447433/pexels-photo-31447433.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Qarhan Salt Lake (察尔汗盐湖)
 
 The Qarhan Salt Lake is the largest salt lake in China and one of the largest in the world, covering about 5,800 square kilometers of the Qaidam Basin floor. It's a working industrial site — potash and lithium are extracted here at massive scale — but the visual spectacle of the salt flats is extraordinary.
@@ -72,6 +72,8 @@ The Qarhan Salt Lake is the largest salt lake in China and one of the largest in
 
 ## Yardang National Geologic Park (雅丹国家地质公园)
 
+![Geermuwuzi Lake Scenery, Qinghai](/img/destinations/qinghai-golmud-guide/2.webp)
+
 About 100km northwest of Golmud in the Lenghu area, the Yardang (雅丹) formations are one of the most visually striking geological features in China — a landscape of wind-carved sandstone pillars, ridges, and towers stretching across a barren plain.
 
 **What yardangs are:**
@@ -88,9 +90,9 @@ Yardangs form when strong prevailing winds erode soft sedimentary rock over mill
 
 **Note on Lenghu:** The nearby town of Lenghu (冷湖) is itself an extraordinary place — a nearly abandoned former oil town in the middle of the desert that's being partially repurposed as an astronomical observatory site. The combination of the old oil town ruins and the yardang formations is a photographer's dream.
 
-![Golmud Qinghai — The Qaidam Basin Landscape](https://images.unsplash.com/photo-1722081797582-5870d2dabebf?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxRYWlkYW0lMjBCYXNpbiUyMExhbmRzY2FwZXxlbnwwfDB8fHwxNzgxODY4ODMwfDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
-
 ## The Qaidam Basin Landscape
+
+![Hu Natural Scenery, Qinghai](/img/destinations/qinghai-golmud-guide/3.webp)
 
 The broader Qaidam Basin — the third largest inland basin in China at about 250,000 square kilometers — is a landscape of extremes. Annual rainfall averages less than 50mm in some areas; summer daytime temperatures reach 35°C while winter nights drop below -25°C. The basin floor is about 2,700m above sea level, ringed by mountain ranges on all sides.
 

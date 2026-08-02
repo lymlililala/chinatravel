@@ -12,7 +12,7 @@ tags:
   - cycling
   - karst
 description: "The definitive guide to Yangshuo — how to explore the Yulong River valley by bamboo raft and bicycle, the best viewpoints over the karst landscape, where to eat, and how to avoid the worst of the tourist strip."
-ogImage: "https://images.unsplash.com/photo-1536585806558-81c7ea4d393d?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHx5YW5nc2h1byUyMHl1bG9uZ3xlbnwwfDB8fHwxNzgxOTM3MzA0fDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
+ogImage: "/img/destinations/yangshuo-yulong-river-guide/cover.webp"
 ---
 
 The Li River cruise from Guilin to Yangshuo is rightly famous. But Yangshuo itself and the smaller, quieter Yulong River running west of town are where many visitors discover what they were actually looking for: a slow rhythm, extraordinary landscapes accessible by bicycle, bamboo raft trips on still green water between limestone peaks, and a small-town atmosphere that rewards staying more than a single day.
@@ -23,7 +23,7 @@ Yangshuo has been a traveller's stop since the backpacker era of the 1980s. The 
 
 ## Essential Information
 
-![Yangshuo & Yulong River — Essential Information](https://images.pexels.com/photos/24847110/pexels-photo-24847110.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Ludiyan Karst Cave, Guilin](/img/destinations/yangshuo-yulong-river-guide/1.webp)
 
 | Detail | Info |
 |--------|------|
@@ -62,9 +62,9 @@ Extends the above to include the Yulong He upper section, Moon Hill, and the lar
 
 **Moon Hill (月亮山):** A 30-minute hike from the valley floor to a natural limestone arch perforated through the peak — the moon-shape opening frames the sky and surrounding peaks. Good viewpoint over the whole valley. ¥15 entry.
 
-![Yangshuo & Yulong River — The Li River from Guilin](https://images.pexels.com/photos/36535023/pexels-photo-36535023.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Li River from Guilin
+
+![Longji Rice Terraces Landscape, Guangxi](/img/destinations/yangshuo-yulong-river-guide/2.webp)
 
 The classic arrival: the 83-km boat journey downstream from Guilin to Yangshuo passes through the most concentrated karst scenery in China.
 
@@ -77,6 +77,8 @@ The classic arrival: the 83-km boat journey downstream from Guilin to Yangshuo p
 
 ## Yangshuo Town
 
+![Liu River Scenery](/img/destinations/yangshuo-yulong-river-guide/3.webp)
+
 **West Street (西街):** The main tourist strip — 500 metres of bars, restaurants, and souvenir shops. Tourist-oriented but with some good cafés and genuinely useful gear shops (hiking, cycling equipment). Best for breakfast or evening.
 
 **Eating well in Yangshuo:**
@@ -86,8 +88,6 @@ The classic arrival: the 83-km boat journey downstream from Guilin to Yangshuo p
 - **Rice noodles (米粉):** Guilin-style rice noodles with a pork broth and various toppings — the staple breakfast and late-night food of the region.
 
 **Fan Mulan (桂林米粉 recommended shops):** Ask at your guesthouse for the nearest market-style noodle shop (¥8–12/bowl); these are invariably better than the tourist street versions.
-
-![Yangshuo & Yulong River — Where to Stay](https://images.pexels.com/photos/19966000/pexels-photo-19966000.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Where to Stay
 

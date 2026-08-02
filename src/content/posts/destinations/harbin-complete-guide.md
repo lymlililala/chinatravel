@@ -11,7 +11,7 @@ tags:
   - winter
   - history
 description: "Harbin — China's Ice City and gateway to northeastern China. The Ice and Snow Festival complex, the Russian Orthodox Saint Sophia Cathedral, the Central Street (中央大街) Russian-style pedestrian boulevard, the Siberian Tiger Park, and survival tips for -20°C winters (the clothes you need, heated malls as respite, hot red bean paste pancakes on street stalls)."
-ogImage: "https://images.pexels.com/photos/36212873/pexels-photo-36212873.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/harbin-complete-guide/cover.webp"
 ---
 
 Harbin gets cold. We mean this genuinely: January temperatures regularly reach -25°C to -30°C in the city, and it's felt as a physical force the moment you step outside from the airport terminal. The air burns slightly. Exposed skin stings within minutes. Every breath produces visible vapour clouds.
@@ -22,7 +22,7 @@ This is also, paradoxically, why several million visitors come to Harbin every w
 
 ## The Ice and Snow Festival (冰雪节)
 
-![Harbin — The Ice and Snow Festival (冰雪节)](https://images.pexels.com/photos/35252680/pexels-photo-35252680.png?auto=compress&cs=tinysrgb&h=650&w=940)
+![Bingxuedashijie Night View Scenery, Harbin, Heilongjiang](/img/destinations/harbin-complete-guide/1.webp)
 
 The Harbin International Ice and Snow Festival is one of the largest ice festivals in the world. It runs annually from late December through February, centered on two main sites:
 
@@ -59,8 +59,6 @@ The cathedral was built by and for the Russian community that flooded into Harbi
 
 The interior has been converted to an architectural museum displaying Harbin's Russian heritage. The dome is impressive from both inside and out.
 
-![Harbin — Central Street (中央大街)](https://images.pexels.com/photos/5864278/pexels-photo-5864278.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Central Street (中央大街)
 
 Central Street is Harbin's main pedestrian boulevard — a 1,450-metre-long street of European-style buildings dating from the 1900s to the 1930s. Russian Baroque, neo-classical, and modernist buildings line both sides, and the street is paved with the original small stone cobbles (方石路).
@@ -75,6 +73,8 @@ The street connects to **Flood Control Monument (防洪纪念塔)** at its north
 
 ## Siberian Tiger Park (东北虎林园)
 
+![Fuerjiazhuang Garden, Harbin](/img/destinations/harbin-complete-guide/2.webp)
+
 A large open-plan safari-style park outside the city where Siberian tigers roam in large enclosures. Visitors ride caged buses through tiger zones and can buy live chickens to throw to the tigers (controversial but still practiced). About 500 tigers in residence — the largest captive breeding centre for Siberian tigers in the world.
 
 **Opening hours:** 9:00am–4:00pm (winter); 8:30am–5:00pm (summer)  
@@ -82,8 +82,6 @@ A large open-plan safari-style park outside the city where Siberian tigers roam 
 **Getting there:** Taxi from central Harbin, about 30 minutes, ¥30–50
 
 Note: This attraction is ethically contested — the captive conditions and live feeding practices draw criticism. Make an informed decision.
-
-![Harbin — Cold-Weather Survival Guide](https://images.pexels.com/photos/10810282/pexels-photo-10810282.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Cold-Weather Survival Guide
 
@@ -110,6 +108,8 @@ At -20°C and below, standard "winter coats" from temperate climates are inadequ
 - **Camera batteries:** Cold kills batteries fast — keep your camera warm in a pocket until needed
 
 ## Harbin's Food
+
+![Dongtian Scenery, Harbin](/img/destinations/harbin-complete-guide/3.webp)
 
 Harbin cuisine blends Chinese northeastern cooking with Russian-influenced preparations. Don't miss:
 

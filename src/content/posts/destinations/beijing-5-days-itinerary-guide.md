@@ -11,7 +11,7 @@ tags:
   - beginners
   - north-china
 description: "A detailed 5-day Beijing itinerary — Forbidden City and Tiananmen on Day 1, Summer Palace and Yuanmingyuan on Day 2, Great Wall at Mutianyu on Day 3, Temple of Heaven and Panjiayuan market on Day 4, 798 Art District and hutong dinner on Day 5. Metro routes, ticket booking, and restaurant picks."
-ogImage: "https://images.pexels.com/photos/9586996/pexels-photo-9586996.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/beijing-5-days-itinerary-guide/cover.webp"
 ---
 
 Five days in Beijing lets you breathe. You can see the Forbidden City without rushing, spend a proper morning at the Great Wall, and still have time to wander hutongs without an agenda. This itinerary is designed for first-time visitors who want depth rather than a checklist — structured days that leave room for the unexpected.
@@ -22,7 +22,7 @@ Beijing is large and its traffic is genuinely challenging. The metro is the answ
 
 ## Before You Arrive
 
-![Beijing — Before You Arrive](https://images.pexels.com/photos/3053838/pexels-photo-3053838.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Courtyard House, Beijing](/img/destinations/beijing-5-days-itinerary-guide/1.webp)
 
 **Tickets to book in advance:**
 - **Forbidden City** — book at guگن.dpm.org.cn. Required for entry; sells out days or weeks ahead during peak season (May holidays, October Golden Week)
@@ -57,8 +57,6 @@ Start at 7:30am. Beijing's most popular sights are best in the early morning bef
 
 ---
 
-![Beijing — Day 2: Summer Palace & Yuanmingyuan](https://images.pexels.com/photos/16158517/pexels-photo-16158517.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day 2: Summer Palace & Yuanmingyuan
 
 ### Morning: Summer Palace
@@ -85,6 +83,8 @@ Haidian District surrounds the two palaces and is Beijing's university and tech 
 
 ## Day 3: Great Wall at Mutianyu
 
+![Tiananmen, Beijing](/img/destinations/beijing-5-days-itinerary-guide/2.webp)
+
 An early start day. Leave your hotel by 7:30am.
 
 ### Full Day: Mutianyu Great Wall
@@ -103,9 +103,9 @@ For dinner tonight: try **Peking Duck at Siji Minfu** (四季民福) near the Fo
 
 ---
 
-![Beijing — Day 4: Temple of Heaven & Panjiayuan Market](https://images.pexels.com/photos/18180711/pexels-photo-18180711.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day 4: Temple of Heaven & Panjiayuan Market
+
+![Qingxiling, Beijing](/img/destinations/beijing-5-days-itinerary-guide/3.webp)
 
 ### Morning: Temple of Heaven
 

@@ -21,7 +21,7 @@ tags:
   - culture
   - urban
 description: "The definitive Beijing travel guide — how to spend 3–5 days in China's imperial capital, from the Forbidden City to the best hutong courtyards, Peking duck, and lesser-known neighbourhood gems."
-ogImage: "https://images.pexels.com/photos/1182334/pexels-photo-1182334.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/beijing-forbidden-city-hutong-full-guide/cover.webp"
 ---
 
 Beijing is one of the world's great capital cities — 3,000 years of continuous habitation, the seat of five dynasties, and home to six UNESCO World Heritage Sites within city limits. It's also a thoroughly modern metropolis with extraordinary restaurants, cutting-edge galleries, and a creative energy that constantly surprises first-time visitors.
@@ -30,7 +30,7 @@ Beijing is one of the world's great capital cities — 3,000 years of continuous
 
 ## Top Attractions
 
-![Beijing — Top Attractions](https://images.pexels.com/photos/34449552/pexels-photo-34449552.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Temple of Heaven Interior, Beijing](/img/destinations/beijing-forbidden-city-hutong-full-guide/1.webp)
 
 ### The Forbidden City (故宫)
 The world's largest imperial palace complex — 980 buildings, 8,728 rooms, and 72 hectares of vermilion walls and golden rooftops. Built between 1406–1420, it was the administrative and ceremonial centre of the Chinese Empire for nearly 500 years.
@@ -79,9 +79,9 @@ Beijing's most famous hutong (traditional alley) area — a 786-metre pedestrian
 
 ---
 
-![Beijing — Neighbourhoods to Explore](https://images.pexels.com/photos/15556606/pexels-photo-15556606.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Neighbourhoods to Explore
+
+![Temple of Heaven, Beijing](/img/destinations/beijing-forbidden-city-hutong-full-guide/2.webp)
 
 ### Sanlitun (三里屯)
 Beijing's nightlife and shopping hub — Taikoo Li open-air mall (Apple Store, flagship boutiques), rooftop bars, and the city's densest concentration of restaurants and clubs. The nearby **Sanlitun Village** area has Beijing's best international dining.
@@ -94,9 +94,9 @@ The area southwest of Tiananmen has been partially gentrified into an arts and d
 
 ---
 
-![Beijing — Food](https://images.pexels.com/photos/20683315/pexels-photo-20683315.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Food
+
+![Forbidden City Panorama Interior, Beijing](/img/destinations/beijing-forbidden-city-hutong-full-guide/3.webp)
 
 ### Peking Duck
 - **Da Dong (大董)** — modern interpretation, innovative presentation, arguably Beijing's best. Reserve ahead. ¥150–¥300 per person.

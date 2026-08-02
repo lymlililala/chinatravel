@@ -12,14 +12,14 @@ tags:
   - spiritual sites
   - shanghai attractions
 description: "The Jade Buddha Temple is Shanghai's most famous Buddhist temple — home to two exquisite white jade Buddha statues brought from Myanmar in 1882, set amid active monastic life in the heart of the modern city. This 2026 guide covers the temple's history, the jade statues, visiting etiquette, the excellent vegetarian restaurant, ticket prices, and how to make the most of this spiritual oasis in Shanghai."
-ogImage: "https://images.pexels.com/photos/17264104/pexels-photo-17264104.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/shanghai-jade-buddha-temple-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## A Burmese Jade Treasure in Shanghai
 
-![Jade Buddha Temple Shanghai — A Burmese Jade Treasure in Shanghai](https://images.pexels.com/photos/34675316/pexels-photo-34675316.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Jingan Temple, Shanghai](/img/destinations/shanghai-jade-buddha-temple-guide/1.webp)
 
 The Jade Buddha Temple (玉佛禅寺, Yùfó Chán Sì) owes its existence to an unlikely chain of events. In 1882, a monk named Huigen travelled from China to Myanmar in search of Buddhist teachings and sacred items. In Rangoon, he was given five jade Buddha statues carved from a single piece of white Burmese jade. He carried them back to China, stopping in Shanghai on his return journey to Putuoshan Island in Zhejiang.
 
@@ -49,9 +49,9 @@ The sleeping (reclining) Buddha, representing Sakyamuni's entry into Parinirvana
 ### The Sutra Library and Exhibition Hall
 Adjacent buildings house a collection of Buddhist texts and periodic exhibitions on Chinese Buddhist art. Check the temple's schedule for special exhibitions.
 
-![Jade Buddha Temple Shanghai — Admission and Visiting Practical Information (2026)](https://images.pexels.com/photos/25310921/pexels-photo-25310921.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Admission and Visiting Practical Information (2026)
+
+![Longhua Temple, Shanghai](/img/destinations/shanghai-jade-buddha-temple-guide/2.webp)
 
 ### Tickets
 - **Standard entry**: ¥50
@@ -107,6 +107,8 @@ From Nanjing East Road/The Bund area: 15–25 minutes, ¥25–40 depending on tr
 From Jing'an area: 10 minutes, ¥15–20.
 
 ## Combining with Nearby Attractions
+
+![Shibohui, Shanghai](/img/destinations/shanghai-jade-buddha-temple-guide/3.webp)
 
 ### Jing'an Temple (静安寺)
 Just 1km south of the Jade Buddha Temple, Jing'an Temple sits in the heart of Shanghai's most fashionable commercial district — an ancient Buddhist temple surrounded by luxury shopping and glass towers. The contrast is jarring and fascinating. Entry ¥50.

@@ -12,7 +12,7 @@ tags:
   - nightlife
   - culture
 description: "China's live music scene has exploded in the 2020s. From massive outdoor rock festivals drawing 100,000 fans to intimate jazz cellars hidden beneath Shanghai alleyways, this guide covers every tier of the Chinese music experience — where to go, when to go, how to buy tickets, and what to expect as a foreign visitor in 2026."
-ogImage: "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=1200&q=85"
+ogImage: "/img/toolkit/china-music-concert-festivals-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -24,6 +24,8 @@ The tricky part isn't finding music — it's knowing where to look and how to na
 ---
 
 ## The Festival Calendar: When to Plan Your Trip
+
+![Forbidden City Scenery, Beijing](/img/toolkit/china-music-concert-festivals-guide/1.webp)
 
 ### Spring Festivals (March–May)
 
@@ -174,6 +176,8 @@ For K-pop enthusiasts, Korean acts touring China play major arena shows in Shang
 ---
 
 ## Jazz, Classical & Niche Scenes
+
+![Forbidden City Panorama Interior, Beijing](/img/toolkit/china-music-concert-festivals-guide/2.webp)
 
 ### Jazz
 

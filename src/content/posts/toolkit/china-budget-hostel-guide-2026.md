@@ -1,6 +1,7 @@
 ---
 title: "China Hostel & Budget Accommodation Guide 2026: Where to Stay for Under $20"
 description: "Complete guide to budget accommodation in China — best hostel chains, how to book on Chinese platforms, price expectations by city, what to expect from Chinese hostels, and tips for saving money on accommodation."
+ogImage: "/img/toolkit/china-budget-hostel-guide-2026/cover.webp"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/china-hostel.jpg"
 category: "toolkit"
@@ -15,6 +16,8 @@ China has one of the world's most developed and affordable hostel networks — a
 The key insight: China's budget accommodation quality-to-price ratio is among the best in Asia. A ¥80-120 ($11-17 USD) hostel dormitory bed in a tier-1 or tier-2 Chinese city will typically include a clean, modern facility with free breakfast, strong WiFi, a social common room, helpful English-speaking staff, and a location near major public transport.
 
 ## Understanding the Price Tiers
+
+![Panlongshan Great Wall Scenery, Shandong](/img/toolkit/china-budget-hostel-guide-2026/1.webp)
 
 ### Dormitory Beds (per person)
 - **Tier-1 cities** (Beijing, Shanghai, Guangzhou, Shenzhen): ¥80-150 ($11-21 USD)
@@ -118,6 +121,8 @@ Chinese hostels have a notably social atmosphere, particularly at the more inter
 Evening activities at well-run hostels often include guided city walks, pub crawls, cooking classes, mahjong lessons, or organized day trips.
 
 ## Neighborhood Guide for Budget Accommodation
+
+![Guojiasenlin Park, Zhangjiajie](/img/toolkit/china-budget-hostel-guide-2026/2.webp)
 
 ### Beijing
 **Best areas**: Nanluoguxiang/Gulou (South Drum Tower area) for hutong atmosphere; Wangfujing for central access; near Tiananmen Square for major sites.

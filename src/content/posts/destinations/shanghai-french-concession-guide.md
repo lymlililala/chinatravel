@@ -12,7 +12,7 @@ tags:
   - cafes
   - culture
 description: "The French Concession is Shanghai's most atmospheric neighbourhood — shaded by plane trees, dense with Art Deco and Shikumen architecture, home to the city's best independent cafes, art galleries and boutiques. This 2026 guide covers the key streets and lanes, historical architecture, best cafes and restaurants, Sunday markets, nightlife, and how to spend a perfect day exploring the heart of old Shanghai."
-ogImage: "https://images.pexels.com/photos/37238913/pexels-photo-37238913.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/shanghai-french-concession-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -23,7 +23,7 @@ This is the Shanghai that writers, artists and exiles fell in love with in the 1
 
 ## Key Streets and Areas
 
-![Shanghai French Concession — Key Streets and Areas](https://images.pexels.com/photos/16538985/pexels-photo-16538985.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Fengjing Old Town Scenery](/img/destinations/shanghai-french-concession-guide/1.webp)
 
 ### Wukang Road (武康路)
 
@@ -85,8 +85,6 @@ The French Concession is the capital of Shanghai's serious coffee scene — not 
 
 **Budget coffee note:** An excellent flat white at a specialty cafe costs ¥28–¥38 ($4–$5). Chain cafes (Starbucks, Luckin) are ¥15–¥25 ($2–$3.5).
 
-![Shanghai French Concession — Food and Restaurants](https://images.pexels.com/photos/8863183/pexels-photo-8863183.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Food and Restaurants
 
 ### Brunch Culture
@@ -119,6 +117,8 @@ The French Concession's brunch scene is among the best in Asia. Options range fr
 
 ## Nightlife
 
+![Shibohui, Shanghai](/img/destinations/shanghai-french-concession-guide/2.webp)
+
 The French Concession has Shanghai's most sophisticated cocktail bar scene.
 
 **The Nest (爱巢):** On Jiaozhou Road; excellent cocktails, strong music programme.
@@ -128,8 +128,6 @@ The French Concession has Shanghai's most sophisticated cocktail bar scene.
 **Bar No.3 (第3号酒吧):** More casual; good selection of Chinese craft beer and baijiu cocktails.
 
 **Le Baron at Club M50:** For more energetic nightlife; the creative district at M50 (50 Moganshan Road) has evolved into a legitimate nightlife hub.
-
-![Shanghai French Concession — Getting Around the Concession](https://images.pexels.com/photos/37238907/pexels-photo-37238907.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting Around the Concession
 
@@ -142,6 +140,8 @@ The French Concession is best explored on foot and by bicycle.
 **Walking:** The core Wukang Road–Xintiandi–Tianzifang triangle is easily walkable in a day.
 
 ## Where to Stay
+
+![Shiji Park, Shanghai](/img/destinations/shanghai-french-concession-guide/3.webp)
 
 **Within the concession:**
 **Boutique (¥500–¥1,200 / $70–$168):** **The Waterhouse at South Bund** — dramatic loft-style conversion; outstanding design. **Capella Shanghai** — one of the city's most beautiful hotels in a converted heritage building.

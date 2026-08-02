@@ -1,7 +1,7 @@
 ---
 title: "Jinli Ancient Street Chengdu: Opening Hours & Visitor Guide 2026"
 description: "Jinli Ancient Street in Chengdu: opening hours (8 AM–10 PM, free entry), the best Sichuan street food, Wuhou Shrine tips, and how to get there by metro."
-ogImage: "https://images.pexels.com/photos/33125089/pexels-photo-33125089.png?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/chengdu-jinli-street-guide/cover.webp"
 pubDatetime: 2026-05-15T08:00:00Z
 modDatetime: 2026-07-20T10:00:00Z
 heroImage: "/destinations/chengdu-jinli.jpg"
@@ -25,9 +25,9 @@ Jinli Ancient Street (锦里, Jǐn Lǐ) — "Brocade Lane" — is one of Chengdu
 
 Understanding Jinli requires calibrating expectations. This is a curated, commercial heritage street — it's not a living community. But the architecture is well-executed, the food quality is often surprisingly good, and the atmosphere on a winter evening with lanterns lit creates a particular magic that photographs barely capture.
 
-![Chengdu Jinli Ancient Street — History and Context](https://images.pexels.com/photos/5192921/pexels-photo-5192921.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## History and Context
+
+![Tianfuguosheyinger, Sichuan, Chengdu](/img/destinations/chengdu-jinli-street-guide/1.webp)
 
 The Shu Kingdom (蜀国), one of the Three Kingdoms of the 3rd century CE, was centered in Chengdu. Jinli's historical connection to this period is real — Liu Bei's (刘备) tomb and the Wuhou Shrine commemorating Zhuge Liang (诸葛亮) are immediately adjacent, and the street was historically associated with Shu silk production.
 
@@ -59,8 +59,6 @@ Several restaurants in the Jinli complex offer proper Sichuan meals, not just sn
 
 **Sichuan Restaurant in the Wuhou area**: There are several mid-range restaurants on the lanes behind the main Jinli street proper, quieter and with better quality-to-price ratios than the prime tourist spots.
 
-![Chengdu Jinli Ancient Street — Shopping](https://images.pexels.com/photos/3294472/pexels-photo-3294472.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Shopping
 
 ### Worth Buying
@@ -81,6 +79,8 @@ Most "jade" on Jinli is dyed glass. Most "silk" is polyester. Most "antiques" ar
 
 ## Wuhou Shrine (武侯祠)
 
+![Lugu Lake Ligeban Island Scenery, Sichuan](/img/destinations/chengdu-jinli-street-guide/2.webp)
+
 No visit to Jinli is complete without the adjacent Wuhou Shrine. This is one of China's most historically significant sites — a temple complex honoring Liu Bei (first emperor of Shu Han) and his prime minister Zhuge Liang, built in the 4th century CE and expanded through the Tang and Ming dynasties.
 
 **What to see**: 
@@ -95,8 +95,6 @@ No visit to Jinli is complete without the adjacent Wuhou Shrine. This is one of 
 
 **Opening hours**: 8:00 AM – 6:00 PM (summer); 8:00 AM – 5:00 PM (winter)
 
-![Chengdu Jinli Ancient Street — Evening in Jinli: The Lantern Experience](https://images.pexels.com/photos/35629395/pexels-photo-35629395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Evening in Jinli: The Lantern Experience
 
 Jinli transforms after sunset. Red lanterns illuminate the eaves of every building, their reflections shimmering in the small canal that runs through the street's center. Sichuan opera performances begin in the outdoor stages. The food stalls have their most active period.
@@ -106,6 +104,8 @@ Visiting Jinli specifically in the early evening (5-8 PM) offers a qualitatively
 **Sichuan Opera Teahouse**: Several teahouses in Jinli offer abbreviated Sichuan opera performances (1-1.5 hours) including face-changing (变脸), fire-breathing, and shadow puppetry. Ticket prices range from ¥80-200, with tea included. Not as complete as a full performance at the Jinsha or Shufeng Yayun theaters, but the setting within a traditional teahouse is its own charm.
 
 ## Jinli Ancient Street Opening Hours
+
+![Shunanzhuhai Landscape](/img/destinations/chengdu-jinli-street-guide/3.webp)
 
 Jinli Ancient Street is an open pedestrian street with no entrance gate or ticket — you can walk in freely at any hour. In practice, the street comes alive around 8:00 AM when the food stalls and shops open, and winds down around 10:00 PM when most businesses close for the night.
 

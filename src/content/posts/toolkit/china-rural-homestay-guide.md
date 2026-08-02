@@ -12,7 +12,7 @@ tags:
   - authentic-experience
   - budget-travel
 description: "China's rural homestay (农家乐 and 民宿) culture offers some of the country's most authentic travel experiences — sleeping in farmhouses, eating home-cooked meals, waking to roosters and mountain air. This guide explains how to find genuine rural stays, what to expect, and which regions offer the best experiences in 2026."
-ogImage: "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=1200&q=85"
+ogImage: "/img/toolkit/china-rural-homestay-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -28,6 +28,8 @@ This guide covers both, but leans toward the authentic end of the spectrum.
 ---
 
 ## Why Choose a Rural Homestay?
+
+![Luzhi Old Town, Suzhou](/img/toolkit/china-rural-homestay-guide/1.webp)
 
 The case for farmstays in China is straightforward:
 
@@ -119,6 +121,8 @@ Having a Chinese speaker help with initial contact messages is useful. A simple 
 ---
 
 ## What to Expect: The Reality of Rural Chinese Stays
+
+![Zhongyuan Temple Scenery, Suzhou](/img/toolkit/china-rural-homestay-guide/2.webp)
 
 ### Facilities
 

@@ -11,7 +11,7 @@ tags:
   - airport
   - toolkit
 description: "Shanghai's two airports demystified — Pudong (PVG) for international flights and Hongqiao (SHA) for domestic. The Maglev to the city from Pudong (7 minutes, 431 km/h), metro Line 2, taxis, and how to transfer between the two airports when connecting. Terminal layouts and tips."
-ogImage: "https://images.pexels.com/photos/34118486/pexels-photo-34118486.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/shanghai-airport-guide/cover.webp"
 ---
 
 Shanghai runs two airports simultaneously — and they're on opposite sides of the city. **Pudong International (PVG)** sits 45 km east of downtown, handling virtually all international flights plus many domestic routes. **Hongqiao (SHA)** is 13 km west of the city center, a tightly run hub focused on domestic flights and the odd short-haul international route. If you're flying into Shanghai for the first time, you're almost certainly landing at Pudong. If you're taking a domestic flight onward to somewhere like Xi'an or Chengdu, your departure might well be from Hongqiao.
@@ -19,6 +19,8 @@ Shanghai runs two airports simultaneously — and they're on opposite sides of t
 ## Table of contents
 
 ## Pudong International Airport (PVG)
+
+![Shiji Park, Shanghai](/img/toolkit/shanghai-airport-guide/1.webp)
 
 Pudong has two terminals — **T1** and **T2** — connected by a free shuttle bus and an underground people mover. T1 handles China Eastern, SkyTeam carriers, and some others. T2 handles Air China, Star Alliance airlines, and most One World carriers. Check your ticket carefully so you head to the right terminal from the start.
 
@@ -61,6 +63,8 @@ If your itinerary involves arriving internationally at Pudong and then catching 
 **Taxis** from Hongqiao to central Shanghai typically cost **¥60–¥90** — significantly cheaper than from Pudong since the airport is much closer to downtown.
 
 ## Transferring Between PVG and SHA
+
+![Yuyuanchenghuang Temple, Shanghai](/img/toolkit/shanghai-airport-guide/2.webp)
 
 If you land at Pudong and need to catch a domestic flight from Hongqiao (or vice versa), the transfer is manageable but takes real time.
 

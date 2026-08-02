@@ -12,23 +12,24 @@ tags:
   - culture
   - minority
 description: "Guizhou's Miao and Dong minority villages — the authentic village circuit beyond Xijiang, how to reach Zhaoxi and Rongjiang Dong villages, the weekly drum tower market culture, and how to visit without the tourist group experience."
+ogImage: "/img/destinations/guizhou-miao-minority-village-guide/cover.webp"
 ---
 
 Guizhou Province (贵州省) is the most ethnically diverse province in China — 49 officially recognised ethnic groups share the mountainous terrain, including the Miao (苗族, one of the world's largest minority groups globally) and the Dong (侗族). The villages and cultural practices of these communities have been preserved by Guizhou's historical inaccessibility — the mountains made modernisation slow, and the traditional architecture, agricultural practices, and festival culture survived.
 
 The trade-off: the most well-known Miao village (Xijiang/Qianhu Miao Village) has become extremely commercialised. The genuinely authentic villages require more effort to reach.
 
-![Guizhou Miao & Dong Villages — Xijiang: The Famous and Commercialised](https://images.unsplash.com/photo-1547448020-9f1fa36063fe?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw0fHx4aWppYW5nJTIwZ3VpemhvdXxlbnwwfDB8fHwxNzgxODQ3MDkyfDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
-
 ## Xijiang: The Famous and Commercialised
+
+![Dong Village Gulou](/img/destinations/guizhou-miao-minority-village-guide/1.webp)
 
 **Xijiang Miao Village (西江千户苗寨)** is the most-visited village in Guizhou — "Thousand-Household Miao Village," the largest Miao settlement in China. The terraced wooden-stilted Miao houses climbing the valley sides are breathtakingly beautiful. The cultural performances (evening dance and music shows), the craft market, and the silver jewellery workshops are all genuine in origin — but the tourist density (2 million visitors/year) has made Xijiang feel more like a cultural theme park than a living village.
 
 **Still worth visiting**, but temper expectations for authenticity. The architecture is extraordinary; the surrounding rice terraces are beautiful; the evening light on the village is spectacular.
 
-![Guizhou Miao & Dong Villages — Beyond Xijiang: The Authentic Circuit](https://images.unsplash.com/photo-1547448020-9f1fa36063fe?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwzfHxCZXlvbmQlMjBYaWppYW5nJTIwR3VpemhvdSUyME1pYW8lMjAlMjYlMjBEb25nJTIwVmlsbGFnZXN8ZW58MHwwfHx8MTc4MTg0NzA5Nnww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
-
 ## Beyond Xijiang: The Authentic Circuit
+
+![Qiandongnanli Dong Village Scenery, Guizhou](/img/destinations/guizhou-miao-minority-village-guide/2.webp)
 
 ### Basha Miao Village (岜沙苗寨)
 
@@ -48,9 +49,9 @@ Rongjiang's weekly market (held every 5 days on the Dong calendar) gathers Dong,
 
 **Market timing**: The specific day changes on the 5-day cycle; ask at your accommodation the day before or check with local guides.
 
-![Guizhou Miao & Dong Villages — Practical Notes](https://images.pexels.com/photos/34079281/pexels-photo-34079281.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Practical Notes
+
+![Zhaoxing Dong Village Scenery, Guizhou](/img/destinations/guizhou-miao-minority-village-guide/3.webp)
 
 **Getting to the Guizhou minority villages**: Kaili (凯里) is the hub city for the eastern Miao/Dong region — 2 hours by HSR from Guiyang (贵阳), which connects to the national rail network.
 

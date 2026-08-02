@@ -1,7 +1,7 @@
 ---
 title: "Maiji Mountain Grottoes Guide: Gansu's Cliffside Buddhist Sculptures"
 description: "Explore the Maiji Mountain Grottoes in Gansu — the fourth of China's Four Great Grottoes, with extraordinary clay and sandstone Buddhist sculptures from the Northern Wei through Song dynasties, carved into vertiginous cliffside galleries connected by ancient wooden scaffolding walkways."
-ogImage: "https://images.pexels.com/photos/11105693/pexels-photo-11105693.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/gansu-maiji-grottoes-sculpture-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Gansu"
 tags: ["gansu", "maiji-mountain", "grottoes", "buddhist-sculpture", "silk-road", "tianshui", "clay-sculpture", "cave-art", "UNESCO"]
@@ -15,9 +15,9 @@ Unlike the Mogao Caves at Dunhuang (flat cliff, linear arrangement), Maiji's cav
 
 ---
 
-![Maiji Mountain Grottoes — Why Maiji Stands Apart](https://images.pexels.com/photos/37579575/pexels-photo-37579575.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Why Maiji Stands Apart
+
+![Baita Mountain Scenery, Gansu, Lanzhou](/img/destinations/gansu-maiji-grottoes-sculpture-guide/1.webp)
 
 ### The Sculpture Medium
 
@@ -31,9 +31,9 @@ The setting at the base of the wheat-stack cone — surrounded by bamboo and pin
 
 ---
 
-![Maiji Mountain Grottoes — The Historical Phases](https://images.pexels.com/photos/38098072/pexels-photo-38098072.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Historical Phases
+
+![Mogao Caves, Gansu, Dunhuang](/img/destinations/gansu-maiji-grottoes-sculpture-guide/2.webp)
 
 ### Northern Wei (386–534 CE): The Founding Vision
 
@@ -61,8 +61,6 @@ Later additions reflect the Sinicization of Buddhist iconography — figures inc
 
 ---
 
-![Maiji Mountain Grottoes — The Scaffold Walkways](https://images.pexels.com/photos/15766744/pexels-photo-15766744.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Scaffold Walkways
 
 The experience of walking the wooden walkways at Maiji is unique. The main scaffold structure — rebuilt and maintained continuously since the original Tang-dynasty construction — zigzags up the cliff from the valley floor to the highest accessible cave at approximately 80 metres.
@@ -74,6 +72,8 @@ The view from the highest walkway over the valley is extraordinary; the sense of
 ---
 
 ## Visiting Maiji Mountain
+
+![Singing Sand Dunes, Gansu, Dunhuang](/img/destinations/gansu-maiji-grottoes-sculpture-guide/3.webp)
 
 ### Access
 

@@ -10,7 +10,7 @@ tags:
   - "history"
   - "photography"
 description: "Discover exquisite Buddhist stone carvings in Qingzhou, Shandong. A weekend guide to museums, temples, and the serene 'Qingzhou smile' for art lovers."
-ogImage: "https://images.pexels.com/photos/31244379/pexels-photo-31244379.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/qingzhou-buddhist-sculpture-art-pilgrimage/cover.webp"
 faq:
   - question: "Do I need to book tickets in advance for the museums?"
     answer: "Yes, for Qingzhou Museum and Zhucheng Museum, advance reservation is required via their WeChat mini-programs. Other museums may accept walk-ins, but it's safer to book ahead, especially during holidays."
@@ -30,9 +30,9 @@ For art and history enthusiasts, few experiences rival the quiet power of ancien
 
 ## Why Qingzhou? The 'Qingzhou Smile' and a Lost World
 
-The story begins in 1996, when a cache of over 400 Buddhist statues was unearthed at the Longxing Temple (龙兴寺, Lóngxīng Sì) site in Qingzhou. The find electrified the archaeological world: not only were the figures exquisitely carved, but many still bore traces of **gold leaf and polychrome paint**—a rare survival that gives the stone a warm, lifelike presence. The serene, enigmatic expressions on these faces became known as the 'Qingzhou smile', and the term 'Qingzhou style' entered the art-history lexicon.
+![Kong Temple, Qufu](/img/destinations/qingzhou-buddhist-sculpture-art-pilgrimage/1.webp)
 
-![A Northern Qi painted stone Buddha with a gentle smile, gilded details visible](https://images.pexels.com/photos/34413884/pexels-photo-34413884.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+The story begins in 1996, when a cache of over 400 Buddhist statues was unearthed at the Longxing Temple (龙兴寺, Lóngxīng Sì) site in Qingzhou. The find electrified the archaeological world: not only were the figures exquisitely carved, but many still bore traces of **gold leaf and polychrome paint**—a rare survival that gives the stone a warm, lifelike presence. The serene, enigmatic expressions on these faces became known as the 'Qingzhou smile', and the term 'Qingzhou style' entered the art-history lexicon.
 
 But Qingzhou was not the only site. In 1984, the Mingdao Temple (明道寺, Míngdào Sì) in nearby Linqu County yielded about 300 statues from a pagoda crypt. Further west, the Longhua Temple (龙华寺, Lónghuá Sì) site in Boxing County produced over 400 pieces, while Zhucheng to the southeast contributed masterpieces of Northern Dynasties carving. Together, these collections form a cohesive yet varied body of work that illuminates the evolution of Buddhist art in north China.
 
@@ -43,8 +43,6 @@ As China's only county-level museum to be rated a national first-grade museum, Q
 
 ### 2. Linqu Museum (临朐县博物馆, Línqú Xiàn Bówùguǎn)
 Newly reopened after a three-year renovation, Linqu Museum's 'Guānzìzài' (观自在) gallery showcases the Mingdao Temple finds. These statues are notable for their **inscribed dates**—many bear precise reign-era marks, making them key references for dating Northern Dynasties sculpture. Look for the **Northern Wei stone triad with a mandorla** (back plate), where the central Buddha is flanked by two bodhisattvas in a composition that feels both formal and tender.
-
-![A Northern Wei stone stele with three figures, intricate carving and traces of colour](https://images.pexels.com/photos/31244379/pexels-photo-31244379.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### 3. Boxing Museum (博兴县博物馆, Bóxīng Xiàn Bówùguǎn)
 The Boxing collection stands out for its **diversity of materials**: stone, bronze, ceramic, and even lacquer. The 104 small gilt-bronze figures, many with clear inscriptions, have been called 'a yardstick for dating Northern Dynasties bronze statuary'. The museum also displays a rare **Northern Qi stone Buddha head** with a gentle, almost human expression.
@@ -80,6 +78,8 @@ A short drive from Boxing, this **7.1-metre-tall standing Buddha** carved from a
 
 ## Best Time to Visit
 
+![Konglin, Qufu](/img/destinations/qingzhou-buddhist-sculpture-art-pilgrimage/2.webp)
+
 Spring (April–May) and autumn (September–October) offer mild temperatures and clear skies. Summer can be hot and humid; winter is cold but less crowded. The museums are open year-round, though some may have reduced hours during Chinese New Year.
 
 ## Tickets & Booking
@@ -99,6 +99,8 @@ Note: All museums are closed on Mondays (except public holidays). Arrive before 
 - For a more immersive experience, consider a **guesthouse in Linqu or Boxing**—basic but clean, and close to the sites.
 
 ## Food & Local Specialties
+
+![Yan Temple Scenery, Shandong, Qufu](/img/destinations/qingzhou-buddhist-sculpture-art-pilgrimage/3.webp)
 
 Shandong cuisine is known for its bold flavours and seafood. In Qingzhou, try:
 - **Qingzhou pancake** (青州煎饼, Qīngzhōu jiānbǐng): a thin, crispy crepe often filled with scallions and sauce.
@@ -123,8 +125,6 @@ Shandong cuisine is known for its bold flavours and seafood. In Qingzhou, try:
 | Meals (3 days) | 300–500 |
 | Entrance fees | 50–100 |
 | **Total** | **3,550–4,800** |
-
-![A golden sunset over the Xingguo Temple Zhangba Buddha, with green fields in the background](https://images.pexels.com/photos/35918315/pexels-photo-35918315.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## FAQ
 

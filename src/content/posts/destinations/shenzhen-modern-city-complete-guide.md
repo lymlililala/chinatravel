@@ -12,7 +12,7 @@ tags:
   - shopping
   - technology
 description: "The complete Shenzhen travel guide for 2026 — Shenzhen as a tech city and design capital, Huaqiangbei electronics market, the best street food, border crossing from Hong Kong, day trip planning, and the real character of China's most modern city."
-ogImage: "https://images.pexels.com/photos/28905870/pexels-photo-28905870.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/shenzhen-modern-city-complete-guide/cover.webp"
 ---
 
 Shenzhen is China's experiment in what a city can become when built from scratch — in 1979 a fishing village of 30,000 people; today a technology and design capital of 13 million. It's the headquarters of Huawei, DJI, Tencent, BYD, and OnePlus. It contains the world's most concentrated electronics market. Its suburbs are home to some of the best street food in Guangdong Province.
@@ -25,7 +25,7 @@ Shenzhen is not on most international tourist itineraries, but it should be on t
 
 ## Shenzhen in Context
 
-![Shenzhen — Shenzhen in Context](https://images.pexels.com/photos/28074577/pexels-photo-28074577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Baomo Garden, Guangdong, Guangzhou](/img/destinations/shenzhen-modern-city-complete-guide/1.webp)
 
 Shenzhen was designated China's first Special Economic Zone (SEZ) by Deng Xiaoping in 1980, which gave it special status to experiment with market economics. In 45 years it grew from a farming district into one of the world's most important technology and manufacturing hubs.
 
@@ -55,8 +55,6 @@ The city is composed of districts with distinctly different characters:
 Shenzhen is connected by high-speed rail to Guangzhou (30 minutes), Zhuhai (60 minutes), and most major south Chinese cities. Shenzhen Bao'an International Airport has extensive domestic connections.
 
 ---
-
-![Shenzhen — Huaqiangbei Electronics Market — World's Tech Bazaar](https://images.pexels.com/photos/17565491/pexels-photo-17565491.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Huaqiangbei Electronics Market — World's Tech Bazaar
 
@@ -89,6 +87,8 @@ Shenzhen is connected by high-speed rail to Guangzhou (30 minutes), Zhuhai (60 m
 
 ## Shenzhen's Best Food
 
+![Nanyueyuan Scenery, Guangdong, Guangzhou](/img/destinations/shenzhen-modern-city-complete-guide/2.webp)
+
 Shenzhen's food scene has evolved with its population — it draws workers from every province, making it arguably the best city in China for regional food diversity.
 
 ### Seafood — Shekou Fishing Village
@@ -113,8 +113,6 @@ Shenzhen has a large Hakka community, and **Hakka cuisine (客家菜)** — eart
 
 ---
 
-![Shenzhen — OCT Contemporary Art Terminal (华侨城创意文化园)](https://images.pexels.com/photos/1666667/pexels-photo-1666667.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## OCT Contemporary Art Terminal (华侨城创意文化园)
 
 **OCT-LOFT** in the Nanshan district is a converted factory complex now housing independent art galleries, design studios, creative agencies, and coffee shops. Shenzhen's design and creative community centres here, with regular exhibitions and the annual Shenzhen Design Week (March/April) drawing international participants.
@@ -124,6 +122,8 @@ OCT Creative Park and the adjacent **COCO Park** area give a picture of the Shen
 ---
 
 ## Shenzhen Fairy Lake Botanical Garden
+
+![Chenjiaci, Guangdong, Guangzhou](/img/destinations/shenzhen-modern-city-complete-guide/3.webp)
 
 **Fairy Lake Botanical Garden (仙湖植物园)** in the eastern Luohu district covers 590 hectares of sub-tropical hillside, with lakes, bamboo forest, cacti garden, and the extensive Dameisha Valley hiking trail. The **Shenzhen Zen Temple (弘法寺)** within the garden is one of Guangdong's largest and most active Buddhist monasteries.
 

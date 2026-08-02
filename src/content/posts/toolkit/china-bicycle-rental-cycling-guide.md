@@ -12,7 +12,7 @@ tags:
   - china-transport
   - urban-cycling
 description: "Cycling is one of the best ways to explore Chinese cities in 2026. This guide covers everything from dockless shared bikes (HelloRide, Meituan, DiDi) and rental shops to the best cycling routes in Beijing, Shanghai, Chengdu, and Hangzhou. Learn which apps to use, how much it costs, safety tips, and where to ride for the most scenic urban cycling experiences in China."
-ogImage: "https://images.unsplash.com/photo-1507130557918-3356b3be9068?w=1200&q=85"
+ogImage: "/img/toolkit/china-bicycle-rental-cycling-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -33,6 +33,8 @@ ogImage: "https://images.unsplash.com/photo-1507130557918-3356b3be9068?w=1200&q=
 - [Common Problems and Solutions](#common-problems)
 
 ## Why Cycle in China?
+
+![Qinshi Imperial Tomb Terracotta Army](/img/toolkit/china-bicycle-rental-cycling-guide/1.webp)
 
 China is the undisputed kingdom of cycling. The country has more bicycles than anywhere else on Earth, and the dockless bike-sharing revolution that started here has transformed urban mobility. In 2026, Chinese cities are dotted with millions of shared bikes — just scan a QR code and ride.
 
@@ -223,6 +225,8 @@ Proper electric scooters (no pedalling required) are available for rent in touri
 **Chongqing** — Forget it. This is a mountain city with steep hills everywhere. Cycling here is for the extremely dedicated.
 
 ## Top Urban Cycling Routes
+
+![Great Wall Lao City Wall](/img/toolkit/china-bicycle-rental-cycling-guide/2.webp)
 
 ### Beijing: Along the Tonghui River (通惠河)
 

@@ -10,7 +10,7 @@ tags:
   - "food"
   - "urban"
 description: "Discover how Jiangsu's amateur football league sparked a travel craze. This guide covers matchday experiences, city rivalries, local food, and tips for"
-ogImage: "https://images.pexels.com/photos/7494607/pexels-photo-7494607.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/su-super-league-jiangsu-football-travel-guide/cover.webp"
 faq:
   - question: "How do I buy Su Super League tickets as a foreigner?"
     answer: "Tickets are sold on the official WeChat mini-program (search '苏超' in Chinese). You'll need a WeChat account with WeChat Pay or Alipay. Alternatively, buy at the stadium box office on matchday – bring your passport. Prices are ¥10–20."
@@ -28,9 +28,9 @@ In 2025, a grassroots football phenomenon swept across Jiangsu province (江苏�
 
 ## Table of contents
 
-![Rows of stadium seats before kickoff at a Su Super League match in Jiangsu](https://images.pexels.com/photos/35781790/pexels-photo-35781790.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## What is the Su Super League?
+
+![Shi Lake Scenery, Jiangsu, Suzhou](/img/destinations/su-super-league-jiangsu-football-travel-guide/1.webp)
 
 The Su Super League is a city-vs-city amateur football competition featuring all 13 prefecture-level cities of Jiangsu. Unlike China's professional leagues (中超, CSL), the Su Super League is built around local pride: players must hold local residency or have long-term local ties, and each team represents its city's culture, food, and identity. The league runs from May to November, with matches typically on weekends. Tickets cost ¥10–20, making it one of the most affordable live sports experiences in China.
 
@@ -61,8 +61,6 @@ A Su Super League matchday is a festival. Arrive 2–3 hours early to explore th
 - **Cultural performances**: Before kick-off, you might see traditional opera, dragon dances, or even actors dressed as historical figures (e.g., Sun Wukong in Huai'an).
 - **Fan chants and tifos**: Each city has its own songs and banners. Don't be surprised to hear playful insults – it's all part of the fun.
 
-![Skewered street food at a lively night market in Nanjing, Jiangsu](https://images.pexels.com/photos/34981671/pexels-photo-34981671.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## How to Get Tickets
 
 Tickets are sold online via the official Su Super League mini-program on WeChat, and at the stadium box office on matchday. Prices are ¥10–20. For popular matches (e.g., Nanjing vs. Suzhou, or finals), buy at least a week in advance. Foreigners can purchase using Alipay or WeChat Pay – ensure your payment app is set up before arrival. Some cities offer "ticket + attraction" bundles; for example, a match ticket in Yangzhou grants free entry to all state-owned scenic spots on the day of the game.
@@ -76,6 +74,8 @@ Jiangsu has one of China's best high-speed rail networks. All 13 cities are conn
 - **Bike sharing**: Mobike and Hellobike are common. Stadiums usually have bike racks.
 
 ## Where to Stay
+
+![Zhuozheng Garden, Suzhou](/img/destinations/su-super-league-jiangsu-football-travel-guide/2.webp)
 
 Book accommodation in the city centre near the stadium or a metro line. For a cultural experience, consider:
 - **Nanjing**: Xinjiekou area – walking distance to Confucius Temple and the stadium.
@@ -97,9 +97,9 @@ Each city's cuisine is a point of pride. Here's what to try at a match:
 - **Xuzhou**: Spicy chicken (徐州辣子鸡, xúzhōu làzǐ jī) and donkey meat (驴肉, lǘròu).
 - **Changzhou**: Radish and dried pork (常州萝卜干, chángzhōu luóbo gān) – often sold as a snack at the stadium.
 
-![Plate of Yangzhou fried rice and other local dishes](https://images.pexels.com/photos/34683317/pexels-photo-34683317.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Practical Tips for Foreign Visitors
+
+![Fuzimiao Night View, Nanjing](/img/destinations/su-super-league-jiangsu-football-travel-guide/3.webp)
 
 - **Payment**: Alipay and WeChat Pay are essential. Link your international credit card before arriving. Cash is rarely accepted at stadiums or food stalls.
 - **Visa**: Most travellers need a tourist visa (L-visa). If you're transiting through Nanjing or Shanghai, check the 144-hour visa-free transit policy – it may cover your trip if you stay within Jiangsu.

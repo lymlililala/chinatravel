@@ -12,14 +12,14 @@ tags:
   - zhejiang
   - attractions
 description: "Lingyin Temple is one of China's most revered Buddhist temples — set in forested hills above Hangzhou with spectacular stone Buddha grottos carved into nearby cliff faces. This 2026 guide covers the temple's 1700-year history, the Peak Flying Clouds stone carvings, ticket prices, queue tips, seasonal highlights, and how to combine it with West Lake for a perfect Hangzhou day."
-ogImage: "https://images.pexels.com/photos/15816405/pexels-photo-15816405.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/hangzhou-lingyin-temple-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## Lingyin Temple: 1700 Years of Buddhist History
 
-![Lingyin Temple Hangzhou — Lingyin Temple: 1700 Years of Buddhist History](https://images.pexels.com/photos/6386164/pexels-photo-6386164.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Lingyin Temple Scenery, Zhejiang](/img/destinations/hangzhou-lingyin-temple-guide/1.webp)
 
 Lingyin Temple (灵隐寺, Líng Yǐn Sì) translates as "Temple of the Soul's Retreat" — a name that suggests the mood of the place perfectly. Nestled in forested hills 5km west of Hangzhou's famous West Lake, the temple was founded in 326 AD by an Indian Buddhist monk named Huili who, according to tradition, looked at the forested valley and declared that this must be a place where immortals dwell.
 
@@ -46,8 +46,6 @@ Walking slowly along the cliff face and into the caves takes about 45–60 minut
 
 The early morning light striking the west-facing cliff face from 8–10 AM gives the best natural illumination for photography. Later in the day, the cliff falls into shadow and the carvings are harder to read.
 
-![Lingyin Temple Hangzhou — The Temple Complex](https://images.pexels.com/photos/31969428/pexels-photo-31969428.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Temple Complex
 
 ### Hall of the Heavenly Kings (天王殿)
@@ -69,6 +67,8 @@ Lingyin Temple maintains a Buddhist retreat programme where qualified practition
 
 ## Tickets and Opening Hours (2026)
 
+![Yuewang Temple Scenery, Hangzhou](/img/destinations/hangzhou-lingyin-temple-guide/2.webp)
+
 **Feilai Feng Scenic Area** (includes grottos access): ¥45
 **Lingyin Temple** (main halls): ¥30
 **Combined ticket**: ¥75
@@ -82,8 +82,6 @@ Special note: You must enter the Feilai Feng scenic area to reach the temple —
 Lingyin Temple has a ticketed entry limit. On peak days (weekends, national holidays, Buddhist festivals — particularly during the Lunar New Year period), tickets sell out online before the day begins. Book through the official WeChat mini-program or third-party platforms in advance.
 
 The morning slot (7–10 AM) is consistently the most serene and best-lit period for both the grottos and the temple interior.
-
-![Lingyin Temple Hangzhou — Seasonal Highlights](https://images.pexels.com/photos/1726957/pexels-photo-1726957.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Seasonal Highlights
 
@@ -100,6 +98,8 @@ The best season for visiting. Temperatures drop to 15–25°C, foliage colours d
 The temple in occasional snow is extraordinarily atmospheric. Reduced crowds. The Lunar New Year period (typically January–February) brings large numbers of worshippers — this is a major time for temple visits in Chinese Buddhism.
 
 ## Getting to Lingyin Temple
+
+![Xiangji Temple Scenery, Hangzhou](/img/destinations/hangzhou-lingyin-temple-guide/3.webp)
 
 ### Bus from West Lake
 Bus routes Y1, Y2, and several others connect West Lake's Huancheng North Road bus stops to Lingyin Temple. Journey approximately 20–30 minutes. Fare ¥1–2.

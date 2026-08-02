@@ -1,6 +1,7 @@
 ---
 title: "China Contemporary Art Guide: 798 Beijing, West Bund Shanghai & The New Scene"
 description: "Navigate China's contemporary art scene — Beijing's 798 Art District and Caochangdi, Shanghai's West Bund cultural corridor and M50, Chengdu's A4 and Blue Roof, the key Chinese artists whose work defines the post-1989 generation, gallery districts, art fairs, and how to experience one of the world's most dynamic art markets as a traveller."
+ogImage: "/img/toolkit/china-urban-art-contemporary-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "contemporary-art", "798-art-district", "west-bund", "shanghai", "beijing", "galleries", "art-scene"]
@@ -15,6 +16,8 @@ Today, China's art market is the world's third largest (after the US and UK), an
 ---
 
 ## Beijing: 798 and Beyond
+
+![West Lake Scenery, Hangzhou](/img/toolkit/china-urban-art-contemporary-guide/1.webp)
 
 ### 798 Art District (798艺术区)
 
@@ -53,6 +56,8 @@ A converted textile factory in Putuo District; the more traditional gallery dist
 ---
 
 ## Key Artists to Know
+
+![Huangdi Ancient Village Luo Landscape, Shanxi, Anhui](/img/toolkit/china-urban-art-contemporary-guide/2.webp)
 
 **Zhang Xiaogang (张晓刚):** Known for his "Bloodline: Big Family" series — grey toned family portraits of the Cultural Revolution era; one of China's most internationally collected artists.
 

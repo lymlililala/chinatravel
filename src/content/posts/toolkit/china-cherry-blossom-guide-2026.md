@@ -23,7 +23,7 @@ faq:
     answer: "Hongta West Road's roadside cherry corridor near Dianchi Lake typically peaks in early-to-mid March — for 2026, plan for roughly March 5–20, with the fullest displays around the middle of that window. It's free and open to traffic, so go early in the morning."
   - question: "Do I need to book tickets for Wuhan University cherry blossoms?"
     answer: "Yes. During peak bloom the university caps daily visitors and requires advance online booking (¥30–50); tickets sell out within minutes when the window opens, usually about 14 days ahead."
-ogImage: "https://images.pexels.com/photos/37521621/pexels-photo-37521621.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-cherry-blossom-guide-2026/cover.webp"
 ---
 
 China's cherry blossom season is less internationally famous than Japan's but covers a vast geographic range — from subtropical Guizhou blooming in late February to Beijing's final displays in April. Across the country, cherry trees planted along universities, parks, and streets create spectacular spring displays.
@@ -36,7 +36,7 @@ The best-known and largest cherry blossom site in China is Wuhan University's ca
 
 ## Cherry Blossom Calendar: When Each Region Blooms
 
-![China Cherry Blossom — Cherry Blossom Calendar: When Each Region Blooms](https://images.pexels.com/photos/33594696/pexels-photo-33594696.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Sea of Clouds Scenery, Huangshan](/img/toolkit/china-cherry-blossom-guide-2026/1.webp)
 
 Cherry blossom timing in China depends primarily on latitude and altitude. The bloom follows a northward progression as temperatures warm from late February through late April.
 
@@ -58,8 +58,6 @@ These are estimates based on historical patterns. Actual bloom dates vary by 1�
 | Shenyang, Liaoning | Late April – early May |
 
 ---
-
-![China Cherry Blossom — The Best Cherry Blossom Destinations in China](https://images.pexels.com/photos/37521622/pexels-photo-37521622.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Best Cherry Blossom Destinations in China
 
@@ -143,9 +141,9 @@ East Lake in Wuhan has a dedicated cherry garden (武汉东湖磨山樱园) with
 
 ---
 
-![China Cherry Blossom — Lesser-Known Cherry Blossom Destinations](https://images.unsplash.com/photo-1676518169115-78e95e18ef2a?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwyfHxMZXNzZXIlMjBzcHJpbmd8ZW58MHwwfHx8MTc4NDU1MDY4MHww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
-
 ## Lesser-Known Cherry Blossom Destinations
+
+![Guojiadizhi Park Scenery, Huangshan](/img/toolkit/china-cherry-blossom-guide-2026/2.webp)
 
 ### Guizhou Province — Earliest Blooms
 

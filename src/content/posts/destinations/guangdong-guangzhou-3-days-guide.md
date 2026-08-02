@@ -12,7 +12,7 @@ tags:
   - food
   - cantonese
 description: "Guangzhou rewards visitors who prioritize food, architecture, and genuine city life over tourist attractions. This 2026 three-day itinerary covers the best dim sum breakfast experience, the historic Shamian Island, Cantonese opera, the 600m Canton Tower, and where to eat every single meal in one of China's greatest food cities."
-ogImage: "https://images.pexels.com/photos/14230236/pexels-photo-14230236.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guangdong-guangzhou-3-days-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -23,7 +23,7 @@ The 3-day itinerary below prioritizes what Guangzhou does best: food culture, co
 
 ## Day 1: Old Canton — Shamian Island, Liwan, and Xinhua Garden
 
-![Guangzhou — Day 1: Old Canton — Shamian Island, Liwan, and Xinhua Garden](https://images.pexels.com/photos/28697596/pexels-photo-28697596.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Night View, Guangdong, Guangzhou](/img/destinations/guangdong-guangzhou-3-days-guide/1.webp)
 
 ### Morning: Dim Sum at a Traditional Teahouse (7:00–9:30am)
 
@@ -63,9 +63,9 @@ The lake at Lychee Bay in Liwan Park catches beautiful late-afternoon light. The
 
 **Dinner**: Return to the Liwan commercial district for evening eating. Try a traditional Cantonese restaurant for roast meats — roast goose (烤鹅, ¥45–65/portion), BBQ pork (叉烧, ¥35–45/portion), and crispy pork belly (脆皮烧肉, ¥40–55/portion).
 
-![Guangzhou — Day 2: Modern Guangzhou — Tianhe, Pearl River, and Canton Tower](https://images.pexels.com/photos/14230237/pexels-photo-14230237.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day 2: Modern Guangzhou — Tianhe, Pearl River, and Canton Tower
+
+![Liedeqiao Night View, Guangdong, Guangzhou](/img/destinations/guangdong-guangzhou-3-days-guide/2.webp)
 
 ### Morning: Dim Sum at a Modern Teahouse (8:00–10:00am)
 
@@ -107,9 +107,9 @@ The view from the top at night, with the Pearl River curving away in both direct
 
 **Dinner**: The area around the Canton Tower has excellent evening food options — from the Haizhu District's local Cantonese restaurants (¥40–80/person) to the upscale riverside restaurants.
 
-![Guangzhou — Day 3: Cultural Depth — Chen Clan Ancestral Hall, Food Markets, and Temple Fair](https://images.pexels.com/photos/35272124/pexels-photo-35272124.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day 3: Cultural Depth — Chen Clan Ancestral Hall, Food Markets, and Temple Fair
+
+![Night View, Guangdong, Shenzhen](/img/destinations/guangdong-guangzhou-3-days-guide/3.webp)
 
 ### Morning: Chen Clan Ancestral Hall (9:00–11:30am)
 

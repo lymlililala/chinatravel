@@ -11,7 +11,7 @@ tags:
   - "zhejiang"
   - "chongqing"
 description: "Discover China's diverse culinary landscape beyond Sichuan spice, from Xinjiang's sweet fruits to Chongqing's savory pickles and Zhejiang's juicy bayberries."
-ogImage: "https://images.pexels.com/photos/36588816/pexels-photo-36588816.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/chinas-regional-flavors-guide/cover.webp"
 faq:
   - question: "What is the best way to try Xinjiang fruits if I can't visit Xinjiang?"
     answer: "Many Xinjiang fruits are available online through Chinese e-commerce platforms like Taobao or JD.com, often with express delivery. Look for keywords like 'Xinjiang dried fruits' or 'Xinjiang fresh fruits.' In major cities, specialty fruit stores or import supermarkets may also stock them."
@@ -33,9 +33,9 @@ China's culinary reputation often centers on fiery Sichuan spice, but the countr
 
 ## Xinjiang: The Sweet Heart of China's Fruit Bowl
 
-Xinjiang (新疆, Xīn Jiāng), China's vast northwestern region, is a paradise for fruit lovers. Its extreme continental climate—with intense sunlight, dramatic temperature swings between day and night (up to 20°C), and long frost-free periods—creates ideal conditions for sugar development in fruits. The result? Some of the sweetest, most flavorful produce in the country.
+![Tongli Old Town Scenery, Jiangsu, Suzhou](/img/destinations/chinas-regional-flavors-guide/1.webp)
 
-![A cross-section of a Xinjiang 'dinosaur egg' plum-apricot hybrid showing bright red flesh and green skin](https://images.pexels.com/photos/51312/kiwi-fruit-vitamins-healthy-eating-51312.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+Xinjiang (新疆, Xīn Jiāng), China's vast northwestern region, is a paradise for fruit lovers. Its extreme continental climate—with intense sunlight, dramatic temperature swings between day and night (up to 20°C), and long frost-free periods—creates ideal conditions for sugar development in fruits. The result? Some of the sweetest, most flavorful produce in the country.
 
 ### The 'Dinosaur Egg': A Plum-Apricot Marvel
 
@@ -51,9 +51,9 @@ Xinjiang fruits are best enjoyed fresh in local markets from June to September. 
 
 ## Chongqing's Fuling: The Pickled Soul of Chinese Cuisine
 
-While Sichuan is famous for its spicy hotpot, the city of Chongqing (重庆, Chóngqìng) harbors a different culinary treasure: Fuling (涪陵, Fúlíng) pickled mustard stem, known worldwide simply as 'zhacai' (榨菜, zhàcài). This humble ingredient is one of China's most beloved condiments, often described as the 'world's three famous pickles' alongside European pickled cucumbers and German sweet-sour cabbage.
+![Shi Lake Scenery, Jiangsu, Suzhou](/img/destinations/chinas-regional-flavors-guide/2.webp)
 
-![A bowl of Fuling zhacai pickled mustard stems, ready to eat](https://images.pexels.com/photos/36588816/pexels-photo-36588816.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+While Sichuan is famous for its spicy hotpot, the city of Chongqing (重庆, Chóngqìng) harbors a different culinary treasure: Fuling (涪陵, Fúlíng) pickled mustard stem, known worldwide simply as 'zhacai' (榨菜, zhàcài). This humble ingredient is one of China's most beloved condiments, often described as the 'world's three famous pickles' alongside European pickled cucumbers and German sweet-sour cabbage.
 
 ### The Making of Zhacai
 
@@ -74,9 +74,9 @@ Fuling is about 1.5 hours by train from downtown Chongqing. Beyond food, it offe
 
 ## Zhejiang's Xianju: The Fairyland of Bayberries
 
-In eastern China, Zhejiang province (浙江, Zhè Jiāng) is famous for its green tea and silk, but summer brings a fleeting treasure: the bayberry (杨梅, yángméi). Among all bayberry-producing regions, Xianju County (仙居县, Xiānjū Xiàn) stands out for its large, juicy 'Dongkui' variety, which is considered the finest in China.
+![Zhongyuan Temple Scenery, Jiangsu, Suzhou](/img/destinations/chinas-regional-flavors-guide/3.webp)
 
-![Freshly picked Xianju bayberries in a bamboo basket](https://images.pexels.com/photos/6653931/pexels-photo-6653931.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+In eastern China, Zhejiang province (浙江, Zhè Jiāng) is famous for its green tea and silk, but summer brings a fleeting treasure: the bayberry (杨梅, yángméi). Among all bayberry-producing regions, Xianju County (仙居县, Xiānjū Xiàn) stands out for its large, juicy 'Dongkui' variety, which is considered the finest in China.
 
 ### The Unique Terroir of Xianju Bayberries
 

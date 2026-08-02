@@ -10,6 +10,7 @@ faq:
   - question: "Which city is best for history, Beijing, Shanghai or Nanjing?"
     answer: "Beijing has the grandest imperial monuments, while Nanjing offers a different, layered history as a repeated dynastic capital and the site of major modern events. Shanghai is the youngest of the three and is more about colonial-era architecture and contemporary energy than ancient history."
 description: "Compare Beijing, Shanghai, and Nanjing for a first or second China trip — the honest differences in atmosphere, history depth, food, cost, English accessibility, and what each city is genuinely best at, to help you choose the right itinerary rather than defaulting to the standard Beijing-Shanghai circuit because everyone else does it."
+ogImage: "/img/toolkit/china-nanjing-beijing-shanghai-comparison/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "beijing", "shanghai", "nanjing", "city-comparison", "itinerary", "first-trip", "urban-travel"]
@@ -22,6 +23,8 @@ The standard first China itinerary — Beijing + Shanghai — is standard for go
 ---
 
 ## Beijing: History, Power, Northern Identity
+
+![Forbidden City Scenery, Beijing](/img/toolkit/china-nanjing-beijing-shanghai-comparison/1.webp)
 
 **Beijing is best for:**
 - Imperial history (Forbidden City, Temple of Heaven, Summer Palace)
@@ -64,6 +67,8 @@ The standard first China itinerary — Beijing + Shanghai — is standard for go
 ---
 
 ## Nanjing: History's Depth Without the Crowds
+
+![Qiannian Great Wall Lao City Wall](/img/toolkit/china-nanjing-beijing-shanghai-comparison/2.webp)
 
 **Nanjing is best for:**
 - The most important museum collection for Chinese Republican history (1911–1949)

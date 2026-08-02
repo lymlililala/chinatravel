@@ -11,7 +11,7 @@ tags:
   - nature
   - south-china
 description: "Zhaoqing (肇庆) — one of Guangdong's most underrated cities, 1.5 hours by HSR from Guangzhou. The Seven Star Crags (七星岩) limestone pinnacles rising from a lake (a miniature Guilin scenery), the Dinghu Mountain nature reserve and Buddhist monastery, and the best day trip or overnight option from Guangzhou for nature seekers."
-ogImage: "https://images.pexels.com/photos/26380615/pexels-photo-26380615.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/zhaoqing-guangdong-guide/cover.webp"
 ---
 
 Zhaoqing sits on the North River (北江) about 100km west of Guangzhou, at the point where the Pearl River delta starts to give way to the karst limestone mountains of Guangxi. The transition is visible in Zhaoqing itself: within the Star Lake scenic area, limestone pinnacles rise straight from the water like a miniature version of Guilin, surrounded by a flat delta city.
@@ -22,7 +22,7 @@ Most visitors come from Guangzhou or Shenzhen for a day or overnight trip. It's 
 
 ## Seven Star Crags (七星岩)
 
-![Zhaoqing — Seven Star Crags (七星岩)](https://images.pexels.com/photos/15586141/pexels-photo-15586141.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Liannandixia River Scenery, Guangdong](/img/destinations/zhaoqing-guangdong-guide/1.webp)
 
 The Seven Star Crags are seven limestone karst pinnacles that rise abruptly from the middle of a lake system — the iconic image of Zhaoqing. The pinnacles are arranged in a pattern that allegedly mirrors the Big Dipper constellation (hence "Seven Stars"), though this requires some imagination from most viewing angles.
 
@@ -71,8 +71,6 @@ The main trail from the entrance ascends to the summit area through dense forest
 
 **Butterfly Zone (蝴蝶谷):** A natural section of the trail in spring (April–June) when hundreds of butterfly species gather at specific clearings. Photography is excellent.
 
-![Zhaoqing — The Jesuit Connection: Matteo Ricci in Zhaoqing](https://images.pexels.com/photos/34009800/pexels-photo-34009800.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Jesuit Connection: Matteo Ricci in Zhaoqing
 
 Zhaoqing has a historically significant place in the story of Catholicism in China. In 1582–1583, Matteo Ricci — the Italian Jesuit priest who became the most successful early missionary to China — was based in Zhaoqing as one of his first Chinese residences. He brought a world map, a clock, and Western mathematical texts, and worked to win the interest of Chinese officials and scholars.
@@ -82,6 +80,8 @@ Zhaoqing has a historically significant place in the story of Catholicism in Chi
 **Significance for history:** Ricci's work in Zhaoqing established the template for subsequent Jesuit engagement with China — presenting Western science and learning as a gateway to religious conversion. The approach had limited ultimate success but produced a remarkable cultural exchange.
 
 ## Zhaoqing Old City
+
+![Nanhaixiqiao Mountain, Foshan](/img/destinations/zhaoqing-guangdong-guide/2.webp)
 
 The old city of Zhaoqing has a surviving section of city wall (宋城墙) from the Song Dynasty — one of the oldest intact urban walls in Guangdong.
 
@@ -100,6 +100,8 @@ Zhaoqing has its own Cantonese food specialties:
 **Pig's offal congee (猪杂粥):** Cantonese congee with pig's kidney, liver, and intestines; ¥15–25; a staple of morning markets.
 
 ## Getting to Zhaoqing
+
+![Baiyun Mountain Scenery, Guangdong, Guangzhou](/img/destinations/zhaoqing-guangdong-guide/3.webp)
 
 **From Guangzhou:** High-speed train from Guangzhou South to Zhaoqing, about 30–40 minutes, ¥45–65. Very practical for a day trip.
 

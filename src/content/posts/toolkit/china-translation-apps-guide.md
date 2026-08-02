@@ -18,7 +18,7 @@ tags:
   - practical
   - china
 description: "The best translation apps for China in 2026: camera, voice, and offline tools compared, plus our pick for the best translation app if you only download one."
-ogImage: "https://images.pexels.com/photos/10774603/pexels-photo-10774603.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-translation-apps-guide/cover.webp"
 ---
 
 Not speaking Mandarin used to be a significant barrier to independent travel in China. Menus with no pictures, train station signs in characters only, conversations with taxi drivers who spoke no English — these were real challenges that sent many travellers to guided group tours as the only practical option.
@@ -28,6 +28,8 @@ In 2026, translation technology has largely changed this. The combination of cam
 ## Table of contents
 
 ## The Essential Apps
+
+![Jinshanling Great Wall, Beijing](/img/toolkit/china-translation-apps-guide/1.webp)
 
 ### Google Translate
 
@@ -115,6 +117,8 @@ A few useful phrases to prepare as saved translations:
 - "Can you recommend this dish?"
 
 ## Specialist Food Translation
+
+![Yiyuanjie Scenery, Beijing, Suzhou](/img/toolkit/china-translation-apps-guide/2.webp)
 
 For restaurant menus specifically, there are dedicated tools:
 

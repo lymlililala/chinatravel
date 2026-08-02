@@ -1,7 +1,7 @@
 ---
 title: "Nam Tso Lake Cycling Guide: Tibet's Sacred Lake at 4,718m"
 description: "Complete guide to visiting and cycling around Nam Tso Lake (纳木错) in Tibet. Altitude preparation, camping, the best viewpoints, cycling routes from Lhasa, permit requirements and what to expect."
-ogImage: "https://images.pexels.com/photos/18014641/pexels-photo-18014641.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/tibet-namtso-lake-cycling-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Nam Tso Lake", "纳木错", "Tibet cycling", "Tibet travel", "high altitude travel", "Tibet nature", "Lhasa day trip"]
@@ -9,9 +9,9 @@ tags: ["Nam Tso Lake", "纳木错", "Tibet cycling", "Tibet travel", "high altit
 
 Nam Tso (纳木错, Nàmù Cuò — "Sky Lake" in Tibetan) is the second-largest lake in Tibet and the highest saltwater lake in the world at 4,718 meters above sea level. The lake covers 1,920 km² and stretches between the Nyainqêntanglha mountain range (which rises to 7,162m directly above the southern shore) and the Changtang plateau grassland. On clear days, the lake's deep blue is so vivid it seems artificially colored; the silence and the physical exposure to sky and mountain are an experience of enormous psychological force.
 
-![Nam Tso Lake Cycling — The Journey from Lhasa](https://images.pexels.com/photos/4571794/pexels-photo-4571794.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Journey from Lhasa
+
+![Ranwu Lake Landscape, Tibet](/img/destinations/tibet-namtso-lake-cycling-guide/1.webp)
 
 Nam Tso is 240 km north of Lhasa, accessible via the Nyainqêntanglha Pass (那根拉山口) at 5,190m — 472 meters higher than the lake itself. The crossing of this pass is the most dramatic part of the journey: prayer flags strung between poles line the summit, the ground is sometimes snow-covered even in summer, and the first sight of the lake on the descent is one of the great moments of Tibetan travel.
 
@@ -24,8 +24,6 @@ Nam Tso is 240 km north of Lhasa, accessible via the Nyainqêntanglha Pass (那�
 The only developed tourist area on the lake, the Tashi Dor Peninsula extends into the southeastern section of the lake with two rocky outcrops that are considered sacred. Ancient cave hermitages are accessible with a short climb; mani stones (carved with Buddhist prayers) line the pathways. The peninsula has basic accommodation in permanent tent structures (dormitory beds ¥80–200/night) and simple restaurant services.
 
 **The view at dawn**: Sunrise at Nam Tso — the first light turning the Nyainqêntanglha peak pink, reflecting in the flat blue lake — is widely considered the most beautiful natural sight in Tibet accessible without advanced mountaineering. Wake at 05:30 (dawn arrives early at this latitude in summer).
-
-![Nam Tso Lake Cycling — Cycling Routes](https://images.pexels.com/photos/18571814/pexels-photo-18571814.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Cycling Routes
 
@@ -47,6 +45,8 @@ For fit cyclists acclimatized to altitude, Nam Tso offers extraordinary cycling.
 
 ## Wildlife at Nam Tso
 
+![Laangcuo Lake, Tibet](/img/destinations/tibet-namtso-lake-cycling-guide/2.webp)
+
 The lake and surrounding Changtang grassland are one of Tibet's most biodiverse areas:
 
 **Birds**: Bar-headed Goose (breeds here; one of the highest-altitude migrating birds in the world — flies over the Himalayas), Black-necked Crane (endangered), Brown-headed Gull, Tibetan Eared-Pheasant, various raptors.
@@ -55,9 +55,9 @@ The lake and surrounding Changtang grassland are one of Tibet's most biodiverse 
 
 **Best wildlife season**: May–September. In winter the lake partially freezes and most migratory birds have departed.
 
-![Nam Tso Lake Cycling — Altitude Preparation](https://images.pexels.com/photos/37113740/pexels-photo-37113740.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Altitude Preparation
+
+![Dazhao Temple Scenery, Tibet](/img/destinations/tibet-namtso-lake-cycling-guide/3.webp)
 
 Nam Tso is almost always visited after a minimum of 2 nights in Lhasa (3,656m). Do not go to Nam Tso on your first or second day in Tibet — the additional 1,000m from Lhasa to the lake and the exposed conditions cause acute altitude sickness in unprepared visitors.
 

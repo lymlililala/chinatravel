@@ -11,7 +11,7 @@ tags:
   - accommodation
   - history
 description: "Staying in Pingyao's ancient walled city — the converted Ming-Qing courtyard (四合院) hotels that make Pingyao extraordinary, how to book the most atmospheric properties before they fill (they do sell out months ahead in October), what ¥200-800/night gets you, and why staying inside the walls beats a commute from a modern hotel outside."
-ogImage: "https://images.pexels.com/photos/18506159/pexels-photo-18506159.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/pingyao-accommodation-guide/cover.webp"
 ---
 
 Pingyao is one of the few places in China where accommodation is an essential part of the experience rather than just a logistical detail. The city's 2,700-year-old walled town contains hundreds of converted Ming and Qing dynasty courtyard houses that operate as hotels — sleeping inside buildings that have been standing for 300-400 years, in a town where the street grid hasn't changed significantly since the Song dynasty. This is not a normal hotel stay, and the difference between staying inside the walls and outside is the difference between being in Pingyao and being near it.
@@ -20,7 +20,7 @@ Pingyao is one of the few places in China where accommodation is an essential pa
 
 ## Why Staying Inside the Walls Matters
 
-![Stay Pingyao — Why Staying Inside the Walls Matters](https://images.pexels.com/photos/36282705/pexels-photo-36282705.png?auto=compress&cs=tinysrgb&h=650&w=940)
+![Heng Mountain Scenery, Shanxi](/img/destinations/pingyao-accommodation-guide/1.webp)
 
 **Pingyao Ancient City** (平遥古城) was inscribed as a UNESCO World Heritage Site in 1997 — one of China's best-preserved examples of a walled Han Chinese city from the Ming and Qing dynasties. The walls, the main temples, the old merchant banking district, and the residential lanes are all within a compact grid that takes about 40 minutes to walk end-to-end.
 
@@ -45,8 +45,6 @@ Converted to hotels, these properties typically have:
 - Quality of renovation (sympathetic historical restoration vs modern renovation that replaces character with standardisation)
 - The courtyard itself — whether it's well-maintained and actually used as a common area
 - Heating quality (crucial — see below)
-
-![Stay Pingyao — Price Ranges and What to Expect](https://images.pexels.com/photos/33214228/pexels-photo-33214228.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Price Ranges and What to Expect
 
@@ -74,6 +72,8 @@ The top-tier Pingyao properties are historical compounds with the best courtyard
 
 ## Where Inside the Walls to Stay
 
+![Huanghehukou Waterfall](/img/destinations/pingyao-accommodation-guide/2.webp)
+
 The walled city is small enough that no location is far from anything. But there are meaningful differences:
 
 **Near South Street (南大街):** The main commercial street. Maximum restaurant and shop access, also the most noise (though the noise is people walking, not vehicles). Best for visiting the ticket sights along the main axis.
@@ -84,9 +84,9 @@ The walled city is small enough that no location is far from anything. But there
 
 **The northwest quarter:** Farthest from the entry gates and main tourist circuit. Very quiet, the most genuinely residential feeling part of the old city.
 
-![Stay Pingyao — The Heating Question](https://images.pexels.com/photos/36788832/pexels-photo-36788832.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Heating Question
+
+![Taixing Mountain Scenery, Shanxi](/img/destinations/pingyao-accommodation-guide/3.webp)
 
 Pingyao is in northern Shanxi Province and winter (November-March) is genuinely cold. Traditional courtyard architecture was designed around kang bed heating and coal stoves — not necessarily compatible with modern comfort expectations.
 

@@ -12,14 +12,14 @@ tags:
   - water-cube
   - winter-olympics
 description: "Explore Beijing's Olympic Park, the stunning architectural showcase that hosted both the 2008 Summer and 2022 Winter Olympics — making Beijing the world's first dual Olympic city. This 2026 guide covers the iconic Bird's Nest and Water Cube, the Olympic Forest Park, the Ling Long Tower, winter sports experiences you can try yourself, dining and entertainment options, and practical tips for visiting this modern landmark district in northern Beijing."
-ogImage: "https://images.pexels.com/photos/7462950/pexels-photo-7462950.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/beijing-olympic-park-modern-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## Dual Olympic City — A Unique Distinction
 
-![Beijing Olympic Park — Dual Olympic City — A Unique Distinction](https://images.pexels.com/photos/30941720/pexels-photo-30941720.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Longtan Park Scenery, Beijing](/img/destinations/beijing-olympic-park-modern-guide/1.webp)
 
 Beijing achieved something no other city on earth has managed: hosting both the Summer and Winter Olympic Games. The 2008 Olympics announced China's arrival as a global superpower; the 2022 Winter Olympics reinforced that status under very different circumstances. The Olympic Park (奥林匹克公园) stands as the physical embodiment of both achievements — a district of extraordinary architecture, expansive green space, and sporting heritage that has become one of Beijing's most popular destinations.
 
@@ -73,8 +73,6 @@ For the 2022 Winter Olympics, the building was ingeniously converted into the "I
 
 Both the Bird's Nest and Water Cube are illuminated after dark, and the effect is stunning. The Water Cube cycles through colours — blue, green, purple — while the Bird's Nest glows red and gold. The best viewing spot is the Olympic Square between the two venues. Start your evening visit around 7:00 PM for the full effect.
 
-![Beijing Olympic Park — Olympic Forest Park (奥林匹克森林公园)](https://images.pexels.com/photos/31350268/pexels-photo-31350268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Olympic Forest Park (奥林匹克森林公园)
 
 ### The Green Heart
@@ -101,6 +99,8 @@ The park is divided into north and south sections by the Fifth Ring Road, connec
 
 ## Other Park Landmarks
 
+![Zhongshan Park Scenery, Beijing](/img/destinations/beijing-olympic-park-modern-guide/2.webp)
+
 ### Ling Long Tower (玲珑塔)
 
 The five-storey tower near the Bird's Nest served as the Olympic command centre during both Games. Its distinctive stacked-disk design makes it one of the park's most photogenic structures. The tower isn't open for public access, but it's worth circling for photos, especially at night when it's illuminated.
@@ -125,8 +125,6 @@ The 2022 Winter Olympics created a boom in winter sports participation across Ch
 
 **Nearby Ski Slopes:** Several ski resorts within 1-2 hours of Beijing offer day trips. Qiaobo Indoor Ski Resort in Shunyi has year-round indoor skiing, about 40 minutes from the Olympic Park by taxi. Day pass ¥300-500 ($42-69 USD).
 
-![Beijing Olympic Park — Dining and Entertainment](https://images.pexels.com/photos/8257971/pexels-photo-8257971.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Dining and Entertainment
 
 ### Olympic Park Area Restaurants
@@ -142,6 +140,8 @@ The 2022 Winter Olympics created a boom in winter sports participation across Ch
 About 15 minutes by taxi from the Olympic Park, the Wangjing area has one of Beijing's best concentrations of Korean restaurants (Wangjing is home to a large Korean community). Korean barbecue here is outstanding and more authentic than in central Beijing tourist areas. Meals ¥60-100 ($8.30-14 USD) per person.
 
 ## Practical Information
+
+![Park Scenery, Beijing, Beihai](/img/destinations/beijing-olympic-park-modern-guide/3.webp)
 
 ### Getting There
 

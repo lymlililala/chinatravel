@@ -12,7 +12,7 @@ tags:
   - stone-forest
   - ethnic-culture
 description: "Kunming, China's Spring City, enjoys perfect weather year-round and serves as the gateway to Yunnan's incredible diversity. This 2026 three-day itinerary covers the spectacular Stone Forest (Shilin), the ethnic minority markets of Dongfeng Square, Green Lake Park's flower culture, and the best places to taste the extraordinary breadth of Yunnan cuisine — from Crossing the Bridge noodles to wild mushroom hot pot."
-ogImage: "https://images.pexels.com/photos/34628212/pexels-photo-34628212.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/yunnan-kunming-3-days-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -23,7 +23,7 @@ The city itself is a useful base more than a destination — though it does have
 
 ## Day 1: Kunming City — Green Lake, Old Muslim District, Yunnan University
 
-![Kunming — Day 1: Kunming City — Green Lake, Old Muslim District, Yunnan University](https://images.pexels.com/photos/12671692/pexels-photo-12671692.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Zhou City Scenery, Yunnan, Lijiang](/img/destinations/yunnan-kunming-3-days-guide/1.webp)
 
 ### Morning: Green Lake Park (翠湖公园) (7:30–10:00am)
 
@@ -62,9 +62,9 @@ Kunming's commercial center has excellent evening food markets. The covered nigh
 - Fried Yunnan goat cheese (煎乳饼): ¥15–25
 - Yi people roasted corn (彝族烤玉米): ¥5–8 — street snack, outstanding
 
-![Kunming — Day 2: Stone Forest (石林) — Full Day Excursion](https://images.pexels.com/photos/36907620/pexels-photo-36907620.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day 2: Stone Forest (石林) — Full Day Excursion
+
+![Yuanmoulangbapu Earth Forest Scenery, Yunnan](/img/destinations/yunnan-kunming-3-days-guide/2.webp)
 
 The Stone Forest (Shilin, 石林) is Kunming's most famous attraction and one of China's geological wonders — 400 km² of exposed karst limestone formations that erosion has sculpted into massive stone pillars, some reaching 30m. The largest concentration looks from the right angle like a densely-packed urban forest of stone.
 
@@ -103,9 +103,9 @@ Return to Shilin Town for lunch before the afternoon stone forest visit:
 
 Return bus from Shilin to Kunming, arriving around 5:30–6pm. Use the evening for exploring the Fuxing Road (复兴路) night snack area or simply rest after the day trip.
 
-![Kunming — Day 3: Cultural Depth — Bamboo Temple, Dianchi Lake, Ethnic Market](https://images.pexels.com/photos/6437402/pexels-photo-6437402.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day 3: Cultural Depth — Bamboo Temple, Dianchi Lake, Ethnic Market
+
+![Wumao Earth Forest Scenery, Kunming](/img/destinations/yunnan-kunming-3-days-guide/3.webp)
 
 ### Morning: Bamboo Temple (筇竹寺) (8:30–11:00am)
 

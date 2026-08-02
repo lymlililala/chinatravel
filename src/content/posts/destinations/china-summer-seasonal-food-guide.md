@@ -11,7 +11,7 @@ tags:
   - "hunan"
   - "xinjiang"
 description: "Discover China's must-try summer foods: zongzi, crayfish, water peaches, and regional specialties like Hunan's perilla and Xinjiang's white apricots."
-ogImage: "https://images.pexels.com/photos/20802716/pexels-photo-20802716.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/china-summer-seasonal-food-guide/cover.webp"
 faq:
   - question: "When is the best time to try zongzi in China?"
     answer: "Zongzi are most commonly eaten during the Dragon Boat Festival (Duanwu), which falls on the 5th day of the 5th lunar month (usually June). However, they are available year-round in many regions, especially in Huzhou and Jiaxing."
@@ -31,9 +31,9 @@ Summer in China is a feast for the senses, where the heat brings forth a bounty 
 
 ## Zongzi: The Taste of Dragon Boat Festival
 
-**Zongzi** (粽子, zòng zi) are pyramid-shaped glutinous rice dumplings wrapped in bamboo or reed leaves, traditionally eaten during the **Dragon Boat Festival** (Duanwu, 端午节), which falls in June. While the festival honors the poet Qu Yuan, zongzi have become a beloved summer snack across China, with regional variations that reflect local tastes.
+![Badalingshuiguan Great Wall Scenery, Beijing](/img/destinations/china-summer-seasonal-food-guide/1.webp)
 
-![Steamed zongzi on a bamboo steamer, showing sticky rice and fillings](https://images.pexels.com/photos/18505754/pexels-photo-18505754.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+**Zongzi** (粽子, zòng zi) are pyramid-shaped glutinous rice dumplings wrapped in bamboo or reed leaves, traditionally eaten during the **Dragon Boat Festival** (Duanwu, 端午节), which falls in June. While the festival honors the poet Qu Yuan, zongzi have become a beloved summer snack across China, with regional variations that reflect local tastes.
 
 ### Huzhou-Style Zongzi: The Gold Standard
 
@@ -57,8 +57,6 @@ For more on Chinese food culture, see our [food guide](/tags/food).
 
 **Crayfish** (小龙虾, xiǎo lóng xiā) are the undisputed king of Chinese summer night markets. From June to September, streets across the country fill with the aroma of spicy, garlicky, and buttery crustaceans. China is the world's largest producer and consumer of crayfish, with Hubei province alone accounting for over 40% of national output.
 
-![A platter of steaming red crayfish with garlic and chili](https://images.pexels.com/photos/20802716/pexels-photo-20802716.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ### Where to Eat the Best Crayfish
 
 - **Hubei**: The birthplace of modern crayfish farming. **Qianjiang** (潜江) is famous for its **oil-steamed crayfish** (油焖大虾), cooked with beer, ginger, and spices. **Jianli** (监利) is known for its **garlic crayfish** (蒜蓉虾), while **Honghu** (洪湖) offers **steamed crayfish** that highlight the natural sweetness of the meat.
@@ -79,9 +77,9 @@ For more culinary adventures, check out our [Sichuan food guide](/tags/sichuan).
 
 ## Water Peaches: Sichuan's Juicy Summer Treat
 
-**Water peaches** (水蜜桃, shuǐ mì táo) from **Longquanyi** (龙泉驿) in Sichuan are a summer highlight. These peaches are known for their thin skin, meltingly soft flesh, and explosive juiciness. The region, with its purple soil and unique microclimate, has been growing peaches since the Ming dynasty.
+![Badaling Great Wall, Beijing](/img/destinations/china-summer-seasonal-food-guide/2.webp)
 
-![A ripe water peach cut open, showing juicy flesh](https://images.pexels.com/photos/7889965/pexels-photo-7889965.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+**Water peaches** (水蜜桃, shuǐ mì táo) from **Longquanyi** (龙泉驿) in Sichuan are a summer highlight. These peaches are known for their thin skin, meltingly soft flesh, and explosive juiciness. The region, with its purple soil and unique microclimate, has been growing peaches since the Ming dynasty.
 
 ### The "Phoenix" Variety
 
@@ -97,9 +95,9 @@ Longquanyi peaches are sold at fruit markets across China from June to August. L
 
 ## White Apricots: Xinjiang's Sweet Summer Gem
 
-**Xinjiang white apricots** (小白杏, xiǎo bái xìng) from **Luntai** (轮台) are a fleeting summer pleasure, with a harvest season of only about 20 days in June. These small, pale yellow fruits are incredibly sweet (up to 19° Brix) and have a honey-like flavor, earning them the nickname "tree honey."
+![Simatai Great Wall, Beijing](/img/destinations/china-summer-seasonal-food-guide/3.webp)
 
-![A basket of fresh white apricots from Xinjiang](https://images.pexels.com/photos/10111994/pexels-photo-10111994.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+**Xinjiang white apricots** (小白杏, xiǎo bái xìng) from **Luntai** (轮台) are a fleeting summer pleasure, with a harvest season of only about 20 days in June. These small, pale yellow fruits are incredibly sweet (up to 19° Brix) and have a honey-like flavor, earning them the nickname "tree honey."
 
 ### Why They're Special
 
@@ -118,8 +116,6 @@ Look for reputable sellers who offer 7-8/10 ripeness and use cold-chain logistic
 ## Perilla: The Herb That Defines Hunan Summer
 
 **Perilla** (紫苏, zǐ sū) is an essential herb in Hunan cuisine, especially during summer. Its minty, slightly citrusy flavor cuts through the richness of meats and adds freshness to dishes. Hunan cooks use it liberally in everything from crayfish to stir-fries.
-
-![Fresh perilla leaves on a wooden cutting board](https://images.pexels.com/photos/13686900/pexels-photo-13686900.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### Classic Perilla Dishes
 

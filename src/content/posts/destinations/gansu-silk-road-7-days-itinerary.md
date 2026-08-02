@@ -11,7 +11,7 @@ tags:
   - silk-road
   - northwest-china
 description: "A 7-day Gansu Silk Road itinerary — arriving in Lanzhou (Beef Noodle capital), taking the Hexi Corridor route by train to Zhangye's Rainbow Mountains, Jiayuguan fortress (the western end of the Great Wall), and Dunhuang's Mogao Caves and Crescent Moon Lake. Booking tickets, accommodation options."
-ogImage: "https://images.pexels.com/photos/18851744/pexels-photo-18851744.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/gansu-silk-road-7-days-itinerary/cover.webp"
 ---
 
 The Hexi Corridor (河西走廊) is the geographical bottleneck through which the Silk Road passed — a 1,000km strip of land between the Tibetan Plateau to the south and the Gobi Desert to the north. For 2,000 years, every merchant, soldier, monk, and ambassador traveling between China and Central Asia walked this route. The landscape is starkly beautiful: red sandstone mesas, sand dunes, snow mountains, and ancient fortress walls.
@@ -22,7 +22,7 @@ Seven days is tight for the full corridor but covers the essential highlights ef
 
 ## Getting There & Logistics
 
-![on Gansu Silk Road — Getting There & Logistics](https://images.pexels.com/photos/27831374/pexels-photo-27831374.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Singing Sand Dunes, Gansu, Dunhuang](/img/destinations/gansu-silk-road-7-days-itinerary/1.webp)
 
 **Start:** Fly into Lanzhou Zhongchuan Airport (LHW) or arrive by HSR from Xi'an (2.5 hours, ¥250) or Chengdu (via Xi'an, ~5 hours total).
 
@@ -53,8 +53,6 @@ The **Yellow River** (黄河) runs through Lanzhou — the city is the only Chin
 
 ---
 
-![on Gansu Silk Road — Day 3: Zhangye — Rainbow Mountains](https://images.pexels.com/photos/27170287/pexels-photo-27170287.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day 3: Zhangye — Rainbow Mountains
 
 **Journey:** HSR Lanzhou → Zhangye West, ~2.5 hours, ¥150-185.
@@ -73,6 +71,8 @@ They are real. The colors vary throughout the day — the best light is 30-60 mi
 
 ## Day 4: Jiayuguan
 
+![Maijishan Grottoes, Gansu](/img/destinations/gansu-silk-road-7-days-itinerary/2.webp)
+
 **Journey:** HSR Zhangye → Jiayuguan, ~1.5 hours, ¥85-115.
 
 **Jiayuguan** (嘉峪关) is the western terminus of the Ming Dynasty Great Wall — the last fortress before the desert, and for 600 years the literal edge of the Chinese world. Officials banished to the western frontier passed through this gate into exile; merchants and monks passed through in the other direction, bringing silk to Rome and Buddhism to China.
@@ -89,9 +89,9 @@ They are real. The colors vary throughout the day — the best light is 30-60 mi
 
 ---
 
-![on Gansu Silk Road — Days 5-6: Dunhuang](https://images.pexels.com/photos/25525739/pexels-photo-25525739.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Days 5-6: Dunhuang
+
+![Danxia Landform Dimao Natural Scenery, Gansu, Zhangye](/img/destinations/gansu-silk-road-7-days-itinerary/3.webp)
 
 **Journey:** Bus from Jiayuguan to Dunhuang (3.5 hours, ¥90-110) or HSR to Liuyuan then taxi. Multiple daily bus departures from Jiayuguan bus station.
 

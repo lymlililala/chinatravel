@@ -12,7 +12,7 @@ tags:
   - nature
   - altitude
 description: "Kangding is where the Sichuan Basin meets the Tibetan Plateau — a small city in a dramatic river gorge at 2,560 metres, famous across China for its folk love song, surrounded by glaciated 7,000-metre peaks, alpine lakes and traditional Khampa Tibetan culture. This 2026 guide covers Mugecuo Lake, Paoma Mountain, the love song festival, transport from Chengdu and essential altitude tips."
-ogImage: "https://images.pexels.com/photos/16182257/pexels-photo-16182257.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/sichuan-kangding-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -23,7 +23,7 @@ Kangding sits at the dramatic V-shaped gorge where the Zheduo and Yala rivers me
 
 ## Altitude and Acclimatisation
 
-![Kangding Sichuan — Altitude and Acclimatisation](https://images.unsplash.com/photo-1572491671313-e2bb1bf15e76?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxBbHRpdHVkZSUyMEFjY2xpbWF0aXNhdGlvbnxlbnwwfDB8fHwxNzgxODcyOTg5fDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
+![Lugu Lake Ligeban Island Scenery, Sichuan](/img/destinations/sichuan-kangding-guide/1.webp)
 
 Kangding sits at 2,560 metres — high enough for mild altitude discomfort for visitors arriving from sea level, particularly if coming from Chengdu (505m) on the same day. The surrounding mountains and day-trip destinations reach 3,500–4,500 metres.
 
@@ -68,8 +68,6 @@ The scenic area includes several interconnected lakes (Seven Color Lake, Rainbow
 
 **Getting there:** Bus or taxi from Kangding, approximately 40 minutes.
 
-![Kangding Sichuan — Zheduo Pass and Mountain Drive (折多山)](https://images.pexels.com/photos/20349959/pexels-photo-20349959.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Zheduo Pass and Mountain Drive (折多山)
 
 The road west from Kangding climbs over Zheduo Pass at 4,290 metres — the first major plateau crossing on the road to Tibet. Even without crossing the pass, the drive up offers extraordinary views of the Kangding valley below and the Tibetan Plateau beginning to unfold to the west. Snow remains on the highest sections well into June; the pass occasionally closes in winter.
@@ -83,6 +81,8 @@ Kangding's annual Love Song Festival (July/August, specific dates vary) is a cel
 The festival draws visitors from across Sichuan and is one of the better folk cultural events accessible to international visitors without special permit arrangements.
 
 ## Getting to Kangding
+
+![Ruoergaihua Lake Scenery, Sichuan](/img/destinations/sichuan-kangding-guide/2.webp)
 
 ### From Chengdu
 
@@ -105,6 +105,8 @@ The festival draws visitors from across Sichuan and is one of the better folk cu
 **Mugecuo scenic area:** A few small eco-guesthouses operate near the lake entrance; ¥200–¥350/night ($28–$49). Staying here means early morning access before day trippers arrive.
 
 ## Best Time to Visit
+
+![Longtan Water Town Scenery, Sichuan](/img/destinations/sichuan-kangding-guide/3.webp)
 
 **July–August:** The most popular season — Love Song Festival, green alpine meadows, clear glacier views on most mornings. Expect accommodation to fill in the town; book ahead.
 

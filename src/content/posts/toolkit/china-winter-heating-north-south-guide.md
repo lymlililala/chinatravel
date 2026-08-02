@@ -1,6 +1,7 @@
 ---
 title: "Why Is It So Cold Inside in China? North vs South Heating System Explained"
 description: "The infamous difference between northern and southern China's heating systems and why buildings in Shanghai feel colder than buildings in Beijing in winter. Practical advice for winter travelers."
+ogImage: "/img/toolkit/china-winter-heating-north-south-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["China winter", "China heating", "winter travel China", "north vs south China", "accommodation tips", "cold weather"]
@@ -9,6 +10,8 @@ tags: ["China winter", "China heating", "winter travel China", "north vs south C
 Every year, thousands of travelers arrive in Shanghai, Hangzhou or Chengdu in January expecting Central European-style heating and discover instead that it is genuinely colder inside the building than they anticipated. Meanwhile, in Beijing, where the outdoor temperature is -10°C, the hotel room is 22°C and you're sleeping in a t-shirt. This difference confuses and frustrates visitors more than almost any other aspect of Chinese travel. Here's the complete explanation.
 
 ## The Qinling-Huai River Line
+
+![Huanghuachengshui Great Wall Scenery, Beijing](/img/toolkit/china-winter-heating-north-south-guide/1.webp)
 
 In the 1950s, the Chinese government established the **Qinling Mountains–Huai River Line** as the dividing line for central heating infrastructure. Cities north of this line receive **district (central) heating** from government-operated systems; cities south of it traditionally did not, on the grounds that their winters were milder and shorter.
 
@@ -33,6 +36,8 @@ The irony is that the "mild" southern winters in Wuhan (average January low: -3�
 ---
 
 ## City-by-City Winter Accommodation Advice
+
+![Gudianmingyuanliu Garden Scenery, Suzhou](/img/toolkit/china-winter-heating-north-south-guide/2.webp)
 
 ### Beijing (District Heating)
 Heating is on from mid-November to mid-March. Any hotel, guesthouse or hostel built in the last 30 years will be warm regardless of the price point. Budget hostels at ¥80/night are reliably warm. No special precautions needed — Beijing winters are bright, dry and cold outside but comfortable inside.

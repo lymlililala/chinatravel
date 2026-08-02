@@ -12,7 +12,7 @@ tags:
   - pilgrimage
   - nature
 description: "Complete guide to China's four sacred Buddhist mountains (四大佛教名山) — Wutaishan (文殊菩萨) in Shanxi, Emeishan (普贤菩萨) in Sichuan, Putuoshan (观音菩萨) in Zhejiang, and Jiuhuashan (地藏菩萨) in Anhui. Best time to visit each, what to expect, practical transport, and combining multiple mountains in one trip."
-ogImage: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=1200&q=85"
+ogImage: "/img/toolkit/china-buddhist-sacred-mountains-guide/cover.webp"
 ---
 
 China's four sacred Buddhist mountains — 四大佛教名山 — are among the most significant pilgrimage destinations in East Asian Buddhism. Each is associated with one of the four great Bodhisattvas of Chinese Buddhism, and each has accumulated centuries of monasteries, temples, and spiritual practice that have made them living centres of faith rather than merely historical monuments.
@@ -26,6 +26,8 @@ This guide covers each mountain individually and helps you decide which ones to 
 ---
 
 ## The Four Mountains: Overview
+
+![Mutianyu Great Wall Scenery, Beijing](/img/toolkit/china-buddhist-sacred-mountains-guide/1.webp)
 
 | Mountain | Location | Bodhisattva | Character |
 |---------|----------|-------------|-----------|
@@ -144,6 +146,8 @@ For Vietnamese, Thai, Japanese, and Korean Buddhists, Guanyin (Kannon in Japanes
 ---
 
 ## Jiuhuashan (九华山) — Anhui Province
+
+![Forbidden City Scenery, Beijing](/img/toolkit/china-buddhist-sacred-mountains-guide/2.webp)
 
 ### Background
 

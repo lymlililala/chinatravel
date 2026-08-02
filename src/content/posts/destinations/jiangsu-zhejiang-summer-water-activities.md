@@ -12,7 +12,7 @@ tags:
   - "zhejiang"
   - "east-china"
 description: "Discover the best new hotels and resorts in Jiangsu and Zhejiang offering river tracing, glass water, and summer deals for a refreshing escape."
-ogImage: "https://images.pexels.com/photos/10067450/pexels-photo-10067450.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/jiangsu-zhejiang-summer-water-activities/cover.webp"
 faq:
   - question: "What is river tracing and do I need experience?"
     answer: "River tracing involves walking upstream in a shallow river, often over rocks and small waterfalls. No special skills are required, but you should be comfortable in water and wear sturdy water shoes. Children can join easy sections."
@@ -34,15 +34,13 @@ Summer in eastern China can be scorching, but Jiangsu (江苏) and Zhejiang (浙
 
 ## Top Water Activities in Jiangsu and Zhejiang
 
+![Jiangnan Water Town Scenery, Suzhou](/img/destinations/jiangsu-zhejiang-summer-water-activities/1.webp)
+
 ### River Tracing (溯溪) in Xianju, Taizhou
 Xianju County (仙居县) in Taizhou (台州), Zhejiang, is renowned for its "glass water" — streams so clear they look like liquid jade. The area around Danzhu Township (淡竹乡) is a hotspot for river tracing, where you wade through shallow, rocky streams, sometimes climbing over small waterfalls. The water is cool even in peak summer, with average temperatures around 24°C. It's a perfect activity for families and nature lovers.
 
-![A family wading in a crystal-clear mountain stream surrounded by lush green forest](https://images.pexels.com/photos/37161621/pexels-photo-37161621.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ### Water Parks and Splash Zones
 For a more structured water experience, Zhejiang boasts several large water parks. The **Hangzhou Parallel World Water Park** (杭州平行世界水乐园) is a new sci-fi themed indoor-outdoor park spanning over 30,000 sqm with nearly 20 attractions. Another favorite is the **Qiandao Lake Happy Water World** (千岛湖欢乐水世界), offering kayaking, water trampolines, and obstacle courses. In Jiaxing, the **Kaiyuan Senbo Water Park** (嘉兴开元森泊水乐园) is the largest in Zhejiang among the Senbo chain, covering 31,000 sqm.
-
-![Aerial view of a large water park with colorful slides and pools](https://images.pexels.com/photos/10067450/pexels-photo-10067450.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### Lakeside and Seaside Swimming
 Qiandao Lake (千岛湖, Qiān Dǎo Hú) is a man-made reservoir with hundreds of islands, offering swimming and water sports at resorts like the **Qiandao Lake InterContinental** (now renamed Freedom InterContinental Hall). For a seaside vibe, head to **Zhoushan** (舟山) islands, where new hotels like the **Swissotel Zhoushan** provide pools and easy access to beaches.
@@ -51,8 +49,6 @@ Qiandao Lake (千岛湖, Qiān Dǎo Hú) is a man-made reservoir with hundreds o
 
 ### Taizhou Xianju Huajianfu · Ziyuan Hotel (台州神仙居花间府·紫垣酒店)
 This newly opened Huazhu-brand hotel is located in the heart of Danzhu Township, next to the Shenxianju (神仙居) scenic area. It offers 107 rooms with mountain or garden views. The hotel features a children's playground, a meditation space, and direct access to the stream for river tracing. Packages start from ¥998 for two nights, including breakfast and a choice of a river tracing picnic basket or dinner. Summer weekends and Mid-Autumn Festival are included at no extra charge.
-
-![Modern Chinese-style hotel building nestled in green hills with a stream in front](https://images.pexels.com/photos/28849886/pexels-photo-28849886.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### Qiandao Lake Freedom InterContinental Hall (千岛湖自由洲际殿)
 Formerly the InterContinental Qiandao Lake, this resort sits on the Xianshan Peninsula. It boasts a 1,800 sqm kids' club, indoor and outdoor pools, and a private beach. The summer package at ¥1,699 for two nights includes a double pass to the Qiandao Lake Happy Water World (13 activities), breakfast, and mini-bar. Weekdays in summer are free of surcharge.
@@ -78,6 +74,8 @@ Taxis and ride-hailing (via **Alipay** or **WeChat**) are widely available. For 
 
 ## Where to Stay: Summary Table
 
+![Gudianmingyuanliu Garden Scenery, Suzhou](/img/destinations/jiangsu-zhejiang-summer-water-activities/2.webp)
+
 | Hotel | Location | Price (2 nights) | Water Activity | Best For |
 |-------|----------|------------------|----------------|----------|
 | Taizhou Xianju Huajianfu | Xianju, Zhejiang | ¥998 | River tracing | Nature lovers, couples |
@@ -99,6 +97,9 @@ Most hotels offer on-site restaurants featuring local cuisine. The Huajianfu hot
 Summer (June to September) is the prime season for water activities. July and August are the hottest but also the most vibrant. Early June and September offer milder weather and fewer crowds. Weekdays are generally less busy.
 
 ## Costs and Budgeting
+
+![Shi Lake Scenery, Jiangsu, Suzhou](/img/destinations/jiangsu-zhejiang-summer-water-activities/3.webp)
+
 - **Accommodation**: Packages range from ¥699 to ¥1,699 per night, often including breakfast and activity tickets.
 - **Food**: Local meals cost about ¥50-100 per person. Hotel restaurants are pricier but convenient.
 - **Transport**: High-speed rail from Shanghai to Taizhou is around ¥200 one way. Car rental with driver costs about ¥500-800 per day.

@@ -1,7 +1,7 @@
 ---
 title: "Chaozhou Guangdong: The Ancient City Where Teochew Culture Was Born"
 description: "Discover Chaozhou in Guangdong — one of China's most culturally distinct cities, birthplace of Teochew cuisine and Gongfu tea culture, home to a remarkably intact ancient city with 1,600-year-old walls and streets of carved wooden shophouses, and the source of overseas Chinese communities across Southeast Asia."
-ogImage: "https://images.pexels.com/photos/36267611/pexels-photo-36267611.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guangdong-chaozhou-ancient-city-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Guangdong"
 tags: ["guangdong", "chaozhou", "teochew", "gongfu-tea", "ancient-city", "chaoshan", "cuisine", "overseas-chinese"]
@@ -15,9 +15,9 @@ An estimated **10 million people of Teochew descent** live outside China today �
 
 ---
 
-![Chaozhou Guangdong — The Ancient City](https://images.pexels.com/photos/30910182/pexels-photo-30910182.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Ancient City
+
+![Baomo Garden, Guangdong, Guangzhou](/img/destinations/guangdong-chaozhou-ancient-city-guide/1.webp)
 
 Chaozhou's walled old city (潮州古城) is one of the best-preserved in Guangdong — its main street, **Paifang Street (牌坊街, Memorial Arch Street)**, is lined with 22 stone memorial arches erected during the Ming and Qing dynasties, reconstructed in the early 2000s.
 
@@ -30,9 +30,9 @@ The **Old City Streets** behind Paifang Street preserve the actual urban fabric:
 
 ---
 
-![Chaozhou Guangdong — Gongfu Tea (功夫茶)](https://images.pexels.com/photos/7596850/pexels-photo-7596850.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Gongfu Tea (功夫茶)
+
+![Nanyueyuan Scenery, Guangdong, Guangzhou](/img/destinations/guangdong-chaozhou-ancient-city-guide/2.webp)
 
 Chaozhou is the birthplace and heartland of **Gongfu tea (功夫茶)** — the elaborate tea service using tiny teapots (宜兴 Yixing clay or even smaller Chaozhou red clay pots), tiny cups, and a meticulous preparation ritual that is the foundation of all formal Chinese tea culture.
 
@@ -45,9 +45,9 @@ Chaozhou is the birthplace and heartland of **Gongfu tea (功夫茶)** — the e
 
 ---
 
-![Chaozhou Guangdong — Teochew Cuisine](https://images.pexels.com/photos/6646364/pexels-photo-6646364.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Teochew Cuisine
+
+![Chenjiaci, Guangdong, Guangzhou](/img/destinations/guangdong-chaozhou-ancient-city-guide/3.webp)
 
 Teochew cuisine is known for:
 

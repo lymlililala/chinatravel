@@ -1,7 +1,7 @@
 ---
 title: "Hangzhou Longjing Tea Village: Picking, Tasting and the Tea Culture Experience"
 description: "Complete guide to visiting Longjing Village and its tea plantations in Hangzhou. When to visit for picking season, how to buy authentic Longjing tea, tea house experiences, and avoiding overpriced tourist traps."
-ogImage: "https://images.pexels.com/photos/16325844/pexels-photo-16325844.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/hangzhou-longjing-tea-village-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Hangzhou", "Longjing tea", "Dragon Well tea", "tea village", "Hangzhou tea culture", "China tea"]
@@ -9,9 +9,9 @@ tags: ["Hangzhou", "Longjing tea", "Dragon Well tea", "tea village", "Hangzhou t
 
 Longjing tea (龙井茶, Lóngjǐng chá), named after Longjing Village (Dragon Well Village) on the west side of Hangzhou's West Lake, is China's most famous green tea. Flat-pressed leaves, pale jade infusion, chestnut-vegetal aroma — it's been served at Chinese state banquets for centuries and grown on these hills since the Tang Dynasty. Visiting the village in April, when picking is at its peak, is one of the most sensory travel experiences China offers.
 
-![Hangzhou Longjing Tea Village — The Longjing Tea Growing Region](https://images.pexels.com/photos/27818670/pexels-photo-27818670.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Longjing Tea Growing Region
+
+![West Lake Scenery, Hangzhou](/img/destinations/hangzhou-longjing-tea-village-guide/1.webp)
 
 Authentic "Dragon Well" tea is grown in six specific geographic areas (protected origin designation since 2001):
 1. **West Lake area (西湖产区)**: Longjing Village, Weng Family Mountain, Lingyin Temple area — the highest quality and most expensive
@@ -32,8 +32,6 @@ The absolute best time to visit is **mid-March to mid-April**, the Qingming seas
 
 If you visit outside spring, the plantations are still beautiful and tea houses are open year-round — you just won't see the frenetic picking activity and the tea you taste will be from earlier harvests.
 
-![Hangzhou Longjing Tea Village — Getting to Longjing Village](https://images.pexels.com/photos/38075802/pexels-photo-38075802.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting to Longjing Village
 
 **From West Lake**: The village is on the western side of West Lake, in the hills above Meijiawu Road.
@@ -47,6 +45,8 @@ If you visit outside spring, the plantations are still beautiful and tea houses 
 **Cycling**: If you've rented a public bike from West Lake, the road to the village is an uphill 5 km ride through tea fields — beautiful but tiring.
 
 ## What to Do in Longjing Village
+
+![Putuoshan Scenery](/img/destinations/hangzhou-longjing-tea-village-guide/2.webp)
 
 ### Watch or Try Tea Picking (采茶 Cǎi Chá)
 During picking season, the hillside is covered with women (traditionally, tea picking is women's work) in traditional clothes moving methodically through the rows. Many visitors are invited by local growers to try picking for a few minutes. The technique: use your thumbnail and forefinger to snap the leaf bud cleanly, dropping it into the wicker basket. It sounds simple; it's harder than it looks.
@@ -65,9 +65,9 @@ The first pour should be discarded (called "awakening the leaves"). The first pr
 
 **What you're looking for**: Pale jade-gold liquor, fresh grassy-vegetal aroma, sweet finish with no bitterness. Bitterness indicates either too-hot water or over-steeping.
 
-![Hangzhou Longjing Tea Village — Buying Authentic Longjing Tea: Avoiding Fakes](https://images.pexels.com/photos/6545365/pexels-photo-6545365.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Buying Authentic Longjing Tea: Avoiding Fakes
+
+![Taiziwan Park Landscape, Hangzhou](/img/destinations/hangzhou-longjing-tea-village-guide/3.webp)
 
 This is the most practically important section. The Longjing market is flooded with:
 - Tea from other regions labeled as "West Lake Longjing"

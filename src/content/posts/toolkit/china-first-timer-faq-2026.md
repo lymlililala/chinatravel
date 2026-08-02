@@ -13,7 +13,7 @@ tags:
   - transport
   - safety
 description: "Answers to the 60 most common questions first-time visitors ask about travelling China in 2026 — from visa rules and mobile payments to internet access, safety, and what to expect on arrival."
-ogImage: "https://images.pexels.com/photos/2789781/pexels-photo-2789781.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-first-timer-faq-2026/cover.webp"
 ---
 
 Planning a first trip to China raises a flood of questions that other travel destinations simply don't prepare you for. The internet firewall. Mobile payments that seem to work for everyone except tourists. Trains that require passport registration. A language barrier that can feel total when you are staring at a menu with no pictures.
@@ -25,6 +25,8 @@ This guide answers the 60 questions that come up most often — honestly, in pla
 ---
 
 ## Visas and Entry
+
+![Shuhe Old Town Scenery, Yunnan, Lijiang](/img/toolkit/china-first-timer-faq-2026/1.webp)
 
 ### Do I need a visa to visit China?
 
@@ -236,6 +238,8 @@ Foreign card ATM withdrawals typically incur a ¥25–35 fee per transaction fro
 ---
 
 ## Cultural Etiquette
+
+![Terracotta Army](/img/toolkit/china-first-timer-faq-2026/2.webp)
 
 ### What cultural mistakes do foreign travellers make in China?
 

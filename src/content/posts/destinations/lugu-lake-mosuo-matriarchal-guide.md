@@ -12,7 +12,7 @@ tags:
   - minority-cultures
   - southwest-china
 description: "Lugu Lake on the Yunnan-Sichuan border — the turquoise high-altitude lake, the Mosuo people and their unique matriarchal society with 'walking marriage' traditions, the pig-trough canoe experience, and how to visit respectfully."
-ogImage: "https://images.pexels.com/photos/37651841/pexels-photo-37651841.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/lugu-lake-mosuo-matriarchal-guide/cover.webp"
 ---
 
 Lugu Lake sits at 2,685 meters on the border between Yunnan and Sichuan provinces. The water is the kind of blue-green that makes you question whether you're looking at a reflection or the sky. But the lake itself is almost secondary to why most visitors come: this is the homeland of the Mosuo people, one of the last matriarchal societies on earth, and a culture that has maintained traditions around gender, family, and partnership that are unlike anything else in China or elsewhere.
@@ -21,7 +21,7 @@ Lugu Lake sits at 2,685 meters on the border between Yunnan and Sichuan province
 
 ## Understanding the Mosuo People
 
-![Lugu Lake — Understanding the Mosuo People](https://images.pexels.com/photos/36907661/pexels-photo-36907661.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Lugu Lake Zouhunqiao Natural Renwenjingguan, Yunnan](/img/destinations/lugu-lake-mosuo-matriarchal-guide/1.webp)
 
 The Mosuo number around 40,000 and have lived around Lugu Lake for centuries. Their society is structured around women — property, family names, and the household all pass through the maternal line. Men live with their mothers and sisters; women head the household. This isn't just symbolic: Mosuo society genuinely functions this way.
 
@@ -46,9 +46,9 @@ From Xichang in Sichuan, buses run to the lake in about 4 hours. This is the les
 ### Staying Overnight
 Lugu Lake deserves at least two nights — ideally three. The villages of **Lige** and **Luoshui** on the Yunnan side have the most accommodation options, ranging from simple guesthouses (¥80–150/night) to more comfortable boutique lodges (¥300–600/night). Staying overnight means you can see the lake at dawn and dusk when the light is extraordinary and most day-trippers have left.
 
-![Lugu Lake — The Lake and Surrounding Area](https://images.pexels.com/photos/35410604/pexels-photo-35410604.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Lake and Surrounding Area
+
+![Erhai Lake Scenery, Yunnan, Dali](/img/destinations/lugu-lake-mosuo-matriarchal-guide/2.webp)
 
 ### Pig-Trough Canoes (Dugout Boats)
 The iconic image of Lugu Lake is the traditional Mosuo dugout boat — hollowed from a single log, pointed at both ends, propelled by standing paddlers with long poles. **Boat tours** operate from several villages, typically covering a circuit of the lake including the small islands and reed beds. Cost: **¥60–80 per person** for a shared boat, or **¥300–400** to charter a private boat. Morning and evening are the best times — the water is calmest and the reflections most dramatic.
@@ -64,6 +64,8 @@ A short drive from the lakeshore, the grassland areas above the lake have horses
 
 ## Practical Tips for Visiting Respectfully
 
+![Erhai Lake Sunrise Scenery, Dali](/img/destinations/lugu-lake-mosuo-matriarchal-guide/3.webp)
+
 **Photography:** Many Mosuo people don't mind being photographed and some enjoy it — but always ask first. The shorthand rule: would you photograph a stranger's home interior without asking? Apply that standard here. Paying for a portrait photo is acceptable and appreciated if offered.
 
 **Entering homes:** Some Mosuo families run guesthouses and welcome visitors into their common rooms. This is an invitation, not an open license to wander. Pay attention to whether you're in a commercial space or a family's actual living area.
@@ -71,8 +73,6 @@ A short drive from the lakeshore, the grassland areas above the lake have horses
 **Cultural performances:** There are nightly fire-circle dances in the main tourist villages. These are commercialized performances (¥30–50 to participate), but they're genuinely enjoyable and the Mosuo participants are often having a good time. Not everything commercial is inauthentic.
 
 **Altitude:** At 2,685m, some visitors experience mild altitude symptoms — headaches, shortness of breath, disturbed sleep. Drink water, avoid alcohol for the first day, and don't rush around. If you've been at sea level, your body needs a day to adjust.
-
-![Lugu Lake — When to Visit](https://images.unsplash.com/photo-1679244534702-d4ae7b5d93f4?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxWaXNpdCUyMHl1bm5hbnxlbnwwfDB8fHwxNzgxODU4Nzc5fDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## When to Visit
 

@@ -13,7 +13,7 @@ tags:
   - nature
   - ghost-city
 description: "Explore Chongqing's most dramatic landscapes in 2026 — the otherworldly karst formations of Wulong, including the Three Natural Bridges and Furong Cave, paired with Fengdu's ancient Ghost City perched on the banks of the Yangtze. This guide covers transport, tickets, best seasons, accommodation and practical tips for making the most of this spectacular double destination in southwest China."
-ogImage: "https://images.pexels.com/photos/36088606/pexels-photo-36088606.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/chongqing-wulong-fengdu-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -24,7 +24,7 @@ I first came here on a rainy November afternoon expecting a quick box-check. I l
 
 ## Wulong District: Where Karst Becomes Art
 
-![Wulong & Fengdu Chongqing — Wulong District: Where Karst Becomes Art](https://images.pexels.com/photos/34205541/pexels-photo-34205541.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Fengdougui City, Chongqing](/img/destinations/chongqing-wulong-fengdu-guide/1.webp)
 
 ### The Three Natural Bridges (天生三桥)
 
@@ -83,8 +83,6 @@ The original Fengdu town was submerged when the Three Gorges Dam raised reservoi
 
 Most Yangtze river cruises (Chongqing to Yichang or vice versa) include a Fengdu stop as standard. If you're doing it as a standalone day trip from Chongqing, the express bus or high-speed rail is more practical.
 
-![Wulong & Fengdu Chongqing — Getting to Wulong and Fengdu](https://images.pexels.com/photos/7527429/pexels-photo-7527429.png?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting to Wulong and Fengdu
 
 ### From Chongqing to Wulong
@@ -110,6 +108,8 @@ The two destinations are about 90 km apart by road. A logical route is:
 
 ## Where to Stay
 
+![Baidi City, Chongqing](/img/destinations/chongqing-wulong-fengdu-guide/2.webp)
+
 ### In Wulong
 
 **Yama Hotel (雅玛酒店):** A solid mid-range choice near Wulong Town, rooms from ¥280–¥380/night ($39–$53). Clean, reliable WiFi, helpful staff.
@@ -122,8 +122,6 @@ The two destinations are about 90 km apart by road. A logical route is:
 
 Fengdu is primarily a day-trip destination; accommodation options are limited. The best choice is the **Fengdu Impression Hotel** near the river, rooms from ¥320–¥480/night ($45–$67).
 
-![Wulong & Fengdu Chongqing — Best Time to Visit](https://images.pexels.com/photos/8573370/pexels-photo-8573370.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Best Time to Visit
 
 **Spring (March–May):** Mild temperatures in Wulong's valleys; rhododendrons blooming on Fairy Mountain. Good visibility for cave photography.
@@ -135,6 +133,8 @@ Fengdu is primarily a day-trip destination; accommodation options are limited. T
 **Winter (December–February):** Fairy Mountain skiing season. Ice formations can appear inside Furong Cave. Fengdu is atmospheric in winter mist.
 
 ## Practical Tips
+
+![Baodingshan Stone Carving, Chongqing](/img/destinations/chongqing-wulong-fengdu-guide/3.webp)
 
 - **Altitude note:** Wulong Town sits at 700–900m above sea level; Fairy Mountain peaks at 2,100m. The temperature difference can be 8–12°C, so always carry a layer.
 - **Photography:** The Three Bridges are spectacular in morning mist. Arrive at opening time (08:00) for the best light and smallest crowds.

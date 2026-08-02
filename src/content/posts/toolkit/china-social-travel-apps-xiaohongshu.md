@@ -10,7 +10,7 @@ tags:
   - toolkit
   - beginners
 description: "How foreign travellers can use Xiaohongshu (Little Red Book), Mafengwo, and other Chinese travel community apps to find hidden gems, read real reviews, and discover where locals actually go."
-ogImage: "https://images.unsplash.com/photo-1599202875854-23b7cd490ff4?w=900&q=80"
+ogImage: "/img/toolkit/china-social-travel-apps-xiaohongshu/cover.webp"
 ---
 
 The best travel research for China isn't on TripAdvisor or Google — it's on Chinese social platforms where millions of locals document their trips in real time. Even if you don't read Chinese, knowing how to navigate these platforms dramatically improves your trip quality. Here's how to use them as a foreigner.
@@ -18,6 +18,8 @@ The best travel research for China isn't on TripAdvisor or Google — it's on Ch
 ## Table of contents
 
 ## Why Chinese Travel Apps Beat Western Alternatives
+
+![Scenery, Jiuzhaigou, Sichuan](/img/toolkit/china-social-travel-apps-xiaohongshu/1.webp)
 
 Western travel review platforms have limited China coverage:
 - **TripAdvisor**: useful for major attractions, but often outdated listings, sparse reviews outside tier-1 cities
@@ -108,6 +110,8 @@ Dianping is essential for finding restaurants. Think Yelp, but with significantl
 ---
 
 ## WeChat Travel Content
+
+![Mufu Scenery, Yunnan, Lijiang](/img/toolkit/china-social-travel-apps-xiaohongshu/2.webp)
 
 **WeChat Official Accounts (公众号)** are subscription channels operated by tourism boards, travel writers, and local guides. Some publish in both Chinese and English.
 

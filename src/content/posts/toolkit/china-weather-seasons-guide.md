@@ -12,7 +12,7 @@ tags:
   - toolkit
   - beginners
 description: "China's vast size means wildly different climates — from tropical Hainan to frozen Harbin. This complete seasonal guide tells you exactly when to visit every part of China for the best experience."
-ogImage: "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=1200&q=85"
+ogImage: "/img/toolkit/china-weather-seasons-guide/cover.webp"
 ---
 
 China spans 35 degrees of latitude and enormous elevation changes, producing some of the world's most varied climates within a single country. The tropical beaches of Sanya and the Arctic-cold winters of Harbin are both "China" — and they're at their best in opposite seasons.
@@ -20,6 +20,8 @@ China spans 35 degrees of latitude and enormous elevation changes, producing som
 ## Table of contents
 
 ## China's Climate Zones at a Glance
+
+![Xingping, Guangxi, Yangshuo](/img/toolkit/china-weather-seasons-guide/1.webp)
 
 | Region | Climate Type | Best Months | Avoid |
 |--------|-------------|-------------|-------|
@@ -95,6 +97,8 @@ China spans 35 degrees of latitude and enormous elevation changes, producing som
 ---
 
 ## Regional Deep Dives
+
+![Forbidden City Panorama Interior, Beijing](/img/toolkit/china-weather-seasons-guide/2.webp)
 
 ### Yunnan: The Year-Round Destination
 

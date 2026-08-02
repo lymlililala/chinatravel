@@ -1,7 +1,7 @@
 ---
 title: "Shexian Ancient Memorial Arches: Huizhou's Greatest Stone Monuments"
 description: "Explore the Tang Yue Memorial Arches and ancient streets of Shexian in Anhui — the remarkable Huizhou memorial arch complex commemorating Bao Gong's loyal ancestors, the best-preserved ancient county town in Anhui, extraordinary ink stone craft tradition, and how to visit from Huangshan."
-ogImage: "https://images.pexels.com/photos/8665072/pexels-photo-8665072.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/anhui-shexian-ancient-arches-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Anhui"
 tags: ["anhui", "shexian", "memorial-arches", "tang-yue", "huizhou", "architecture", "ink-stone", "bao-gong", "ancient-town"]
@@ -15,9 +15,9 @@ The **Tang Yue Memorial Arch Group (棠樾牌坊群)** — seven arches standing
 
 ---
 
-![Shexian Ancient Memorial Arches — Tang Yue Memorial Arches (棠樾牌坊群)](https://images.pexels.com/photos/4095421/pexels-photo-4095421.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Tang Yue Memorial Arches (棠樾牌坊群)
+
+![Huangdi Ancient Village Luo Landscape, Shanxi, Anhui](/img/destinations/anhui-shexian-ancient-arches-guide/1.webp)
 
 Seven stone memorial arches stand in a precise line along the entrance to the former estate of the Bao clan, spanning approximately 200 metres. They were erected at different times between the Ming and Qing dynasties, each commemorating a different member or principle of the Bao family.
 
@@ -31,9 +31,9 @@ Reading from east to west, the arches alternate between **loyalty arches** (comm
 
 ---
 
-![Shexian Ancient Memorial Arches — Shexian Ancient County Town](https://images.pexels.com/photos/33672248/pexels-photo-33672248.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Shexian Ancient County Town
+
+![Huizhou Ancient Town Winter, Anhui](/img/destinations/anhui-shexian-ancient-arches-guide/2.webp)
 
 The county town itself is one of the best-preserved ancient administrative centres in Anhui:
 
@@ -43,9 +43,9 @@ The county town itself is one of the best-preserved ancient administrative centr
 
 ---
 
-![Shexian Ancient Memorial Arches — Shexian Ink Stone (歙砚)](https://images.pexels.com/photos/8627038/pexels-photo-8627038.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Shexian Ink Stone (歙砚)
+
+![Chaji Ancient Village, Anhui](/img/destinations/anhui-shexian-ancient-arches-guide/3.webp)
 
 One of **China's Four Famous Ink Stones**, the **She Ink Stone (歙砚, Shè Yàn)** has been produced in Shexian for over 1,000 years from a specific slate quarried in the nearby mountains. The stone's qualities — fine grain, excellent ink retention, slight self-lubrication — made it the preferred writing tool of Tang and Song dynasty officials and scholars.
 

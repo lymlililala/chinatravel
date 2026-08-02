@@ -10,12 +10,14 @@ tags:
   - chinese new year events
   - lunar new year celebrations china
 description: "Experience China's biggest holiday like a local in 2026. This guide covers Spring Festival celebrations across 10 major cities — from Beijing's temple fairs and Guangzhou's flower markets to Harbin's ice festival crossover and Xi'an's Tang Dynasty lantern show. Learn about dates, crowd levels, transport chaos, what closes, what stays open, and how to navigate the 40-day chunyun migration."
-ogImage: "https://images.unsplash.com/photo-1549465220-1f8ddb9e0a1f?w=1200&q=85"
+ogImage: "/img/toolkit/china-spring-festival-events-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## Understanding Spring Festival in China
+
+![Scenery, Anhui, Huangshan](/img/toolkit/china-spring-festival-events-guide/1.webp)
 
 Spring Festival (春节), or Chinese New Year, is not just a holiday — it is a national phenomenon that reshapes the country for about three weeks every year. In 2026, Chinese New Year falls on **February 17**, marking the beginning of the Year of the Horse. The official public holiday runs February 15–21, but celebrations begin a week before and the festive atmosphere lingers through the Lantern Festival on March 3.
 
@@ -179,6 +181,8 @@ Tibetan New Year (Losar, 洛萨) often falls close to but not exactly on the Chi
 - **High-speed rail** — runs on a holiday schedule with extra trains
 
 ## Navigating Chunyun — The Travel Rush
+
+![Guojiadizhi Park Scenery, Huangshan](/img/toolkit/china-spring-festival-events-guide/2.webp)
 
 The 40-day chunyun period (February 4 – March 14, 2026) sees the largest annual human migration on Earth. Here is how to survive it:
 

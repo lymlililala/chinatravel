@@ -10,14 +10,14 @@ tags:
   - guanyin mountain guangdong
   - guangdong lesser known
 description: "Escape the Pearl River Delta crowds and discover Maoming, Guangdong's overlooked coastal city. This guide covers the dramatic Guanyin Mountain sea cliffs, 180 km of sandy coastline, Xiti ancient fishing village, the Maoming Petroleum heritage, and the city's incredible seafood scene where dinner costs less than a Shanghai cocktail."
-ogImage: "https://images.unsplash.com/photo-1506929568602-7d88b7639e7d?w=1200&q=85"
+ogImage: "/img/destinations/guangdong-maoming-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## Why Maoming Deserves Your Attention
 
-![Maoming Guangdong — Why Maoming Deserves Your Attention](https://images.pexels.com/photos/4036764/pexels-photo-4036764.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Baiyun Mountain Scenery, Guangdong, Guangzhou](/img/destinations/guangdong-maoming-guide/1.webp)
 
 Ask most Chinese travellers about Guangdong and they will name Guangzhou, Shenzhen, or maybe Foshan. Maoming (茂名) rarely comes up, and that is exactly its appeal. Sitting on Guangdong's southwestern coast about 350 km from Guangzhou, this city of 6 million operates at a pace that feels closer to a county town than a major prefecture. The skyscraper density drops sharply. The streets are wider. People sit outside tea houses in plastic stools at 10 AM on a Tuesday, seemingly without a care in the world.
 
@@ -58,8 +58,6 @@ At the summit (elevation 648 m), you get a panoramic view stretching from the Di
 
 At the mountain's base, a series of sea caves is accessible at low tide. The largest, called Dragon Palace Cave (龙宫洞), extends about 50 metres into the cliff. You will need a flashlight (phone torch works) and shoes with good grip — the rocks are slippery. Check tide tables at the entrance gate; the caves are dangerous at high tide. No additional fee beyond the mountain entry.
 
-![Maoming Guangdong — Maoming's Beach Coast](https://images.pexels.com/photos/188014/pexels-photo-188014.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Maoming's Beach Coast
 
 ### China First Beach (Dianbai)
@@ -86,13 +84,13 @@ There is no entry fee and no formal tourist infrastructure, which is part of the
 
 ## Petroleum Heritage: The Oil City
 
+![Beizaijiao Beach Landscape, Guangdong, Shenzhen](/img/destinations/guangdong-maoming-guide/2.webp)
+
 Maoming's modern identity is inseparable from oil. The city sits atop one of China's largest oil shale deposits, and the Maoming Petrochemical Company has been the backbone of the local economy since the 1950s. While an oil refinery might not sound like a tourist attraction, the **Maoming Petroleum Museum** (茂名石油博物馆, open Tuesday–Sunday 9:00–17:00, free) does a surprisingly good job of telling the story.
 
 Exhibits cover the history of oil shale mining in China, the technical processes of refining, and the social history of the workers who built Maoming from scratch. The most compelling section documents the 1950s and 60s, when thousands of engineers and labourers arrived in this remote coastal area to establish China's independence from foreign oil. It is industrial heritage tourism at its most genuine.
 
 Outside the museum, the towering distillation columns and flame stacks of the active refinery create an oddly compelling skyline, especially at dusk when the gas flares light up against the darkening sky.
-
-![Maoming Guangdong — The Seafood Scene](https://images.pexels.com/photos/17989747/pexels-photo-17989747.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Seafood Scene
 
@@ -114,6 +112,8 @@ Maoming's location between mountain and sea means an abundance of both freshwate
 - **Maoming Restored Street** (茂名老街): Several old-school Cantonese restaurants serving breakfast congee and rice noodle rolls from 6 AM. ¥15–25 for a hearty breakfast.
 
 ## Where to Stay
+
+![Qingyuanfeixia Mountain Scenery, Guangdong](/img/destinations/guangdong-maoming-guide/3.webp)
 
 - **Maoming Grand Hotel** (茂名大酒店): Central location, comfortable rooms, decent breakfast buffet. ¥220–380/night.
 - **Romantic Coast Resort** (浪漫海岸度假村): Beachfront rooms with sea views. ¥400–700/night. Best if you want a resort experience.

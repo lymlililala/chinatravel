@@ -1,7 +1,7 @@
 ---
 title: "Shaxi Ancient Village Yunnan: The Forgotten Tea Horse Road Market Town"
 description: "Discover Shaxi in Yunnan's Jianchuan County — a perfectly preserved Tang-Qing dynasty market town on the Ancient Tea Horse Road, with a Friday bazaar that has operated continuously for 1,300 years, Bai minority culture, and the most authentic rural atmosphere in Yunnan untouched by mass tourism."
-ogImage: "https://images.pexels.com/photos/10670163/pexels-photo-10670163.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/yunnan-shaxi-ancient-village-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Yunnan"
 tags: ["yunnan", "shaxi", "tea-horse-road", "ancient-village", "bai-minority", "friday-market", "jianchuan", "authentic-travel"]
@@ -15,9 +15,9 @@ Twenty-five years later, Shaxi has been carefully restored and is now visited by
 
 ---
 
-![Shaxi Ancient Village Yunnan — The Ancient Tea Horse Road (茶马古道)](https://images.pexels.com/photos/6953194/pexels-photo-6953194.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Ancient Tea Horse Road (茶马古道)
+
+![Ancient Town Aerial View, Lijiang](/img/destinations/yunnan-shaxi-ancient-village-guide/1.webp)
 
 The **Tea Horse Road** was not a single road but a network of trade routes connecting the tea-producing regions of Yunnan and Sichuan with the horse-breeding regions of Tibet and the Mongolian plateau. Tea was essential to Tibetan diet (yak butter tea) and horses were essential to Chinese armies; the exchange sustained both economies for over 1,000 years.
 
@@ -40,9 +40,9 @@ The historic market square is a compact rectangle of approximately 80 × 60 metr
 
 ---
 
-![Shaxi Ancient Village Yunnan — Friday Market](https://images.pexels.com/photos/1103063/pexels-photo-1103063.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Friday Market
+
+![Shuhe Old Town Scenery, Yunnan, Lijiang](/img/destinations/yunnan-shaxi-ancient-village-guide/2.webp)
 
 The **Friday market (赶集)** at Shaxi is perhaps the most authentic traditional market in Yunnan. Unlike the tourist-oriented markets of Dali and Lijiang, Shaxi's market serves **primarily local residents** from surrounding villages — Bai, Yi, and Han farmers and artisans.
 
@@ -56,6 +56,8 @@ The **Friday market (赶集)** at Shaxi is perhaps the most authentic traditiona
 
 ## The Surrounding Hills: Tea Horse Road Hiking
 
+![Shun Old Town Scenery, Yunnan](/img/destinations/yunnan-shaxi-ancient-village-guide/3.webp)
+
 The original Tea Horse Road paths through the hills surrounding Shaxi have been partly restored for hiking. From the market square, stone-paved paths lead into the mountains:
 
 **Shibaoshan Rock Carvings (石宝山摩崖石刻):** 20 km north, a mountain sanctuary with Tang and Song dynasty Buddhist rock carvings — some of the finest examples of Yunnan Nanzhao Kingdom religious art. A 2-hour hike or 45-minute drive.
@@ -63,8 +65,6 @@ The original Tea Horse Road paths through the hills surrounding Shaxi have been 
 **Outer Village Circuit:** A 10–12 km loop through Bai villages above the valley; the path passes tea terraces, Buddhist wayside shrines, and farmhouses where families still produce handmade wooden agricultural tools.
 
 ---
-
-![Shaxi Ancient Village Yunnan — Where to Stay and Eat](https://images.unsplash.com/photo-1527224538127-2104bb71c51b?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxTdGF5JTIwRWF0fGVufDB8MHx8fDE3ODE5MzAxOTF8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## Where to Stay and Eat
 

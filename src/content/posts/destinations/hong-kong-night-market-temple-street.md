@@ -2,7 +2,7 @@
 author: Roam China Travel Editorial Team
 title: "Temple Street Night Market Hong Kong: Stalls, Opera & Food"
 description: "Temple Street Night Market in Hong Kong: stalls, fortune tellers, dai pai dong and Cantonese opera in Jordan, Kowloon. Opening hours, location and what to buy."
-ogImage: "https://images.pexels.com/photos/2481626/pexels-photo-2481626.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/hong-kong-night-market-temple-street/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 modDatetime: 2026-07-22T10:00:00Z
 destination: "Hong Kong"
@@ -28,9 +28,9 @@ Temple Street is genuinely working-class Kowloon in a way that Mong Kok's Ladies
 
 ---
 
-![Hong Kong Temple Street Night Market — History of Temple Street](https://images.pexels.com/photos/12392805/pexels-photo-12392805.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## History of Temple Street
+
+![Xingping, Guangxi, Yangshuo](/img/destinations/hong-kong-night-market-temple-street/1.webp)
 
 The market takes its name from the **Tin Hau Temple** (天后廟) dedicated to the goddess of the sea, which bisects the street near its northern end. The temple predates the British colonial period; the market organised itself around it from the early 20th century.
 
@@ -50,9 +50,9 @@ Today the gender distinction has largely faded, though the market retains a masc
 
 ---
 
-![Hong Kong Temple Street Night Market — The Market: What to Find and Where](https://images.pexels.com/photos/34009126/pexels-photo-34009126.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Stalls: What to Buy at Temple Street Night Market
+
+![Weimei Natural Scenery, Guangxi, Yangshuo](/img/destinations/hong-kong-night-market-temple-street/2.webp)
 
 Temple Street runs north from Jordan Road to Kansu Street, roughly 600 metres. The character changes as you move north:
 
@@ -94,6 +94,8 @@ This is **not a performance for tourists** — it exists because the participant
 
 ## The Jade Market (Temple Street Jade Market)
 
+![Jiejing, Guangxi, Yangshuo](/img/destinations/hong-kong-night-market-temple-street/3.webp)
+
 At the northern end, a covered outdoor market specialises in **jade, gemstones, and amber**. The offerings range from genuine imperial green jadeite at substantial prices to dyed lower-grade jade sold at tourist prices.
 
 **A caution:** Unless you have genuine expertise in jade assessment, resist buying expensive pieces here. The market has both honest traders and sophisticated counterfeiters; "certificate of authenticity" documents are easily fabricated.
@@ -101,8 +103,6 @@ At the northern end, a covered outdoor market specialises in **jade, gemstones, 
 **What to buy safely:** Small carved jade pendants (¥100–¥500); turquoise beads; amber pieces with visible inclusions. These are low-cost enough that the risk-reward calculation is acceptable.
 
 ---
-
-![Hong Kong Temple Street Night Market — Eating at Temple Street](https://images.pexels.com/photos/7192346/pexels-photo-7192346.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Eating at Temple Street
 

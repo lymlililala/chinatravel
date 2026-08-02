@@ -10,7 +10,7 @@ tags:
   - food
   - destinations
 description: "Why Chongqing is China's most three-dimensional city — a guide to the stilted houses on cliffs, the overlapping rail and road levels, the world-famous spicy hotpot, Ciqikou ancient town, and the Cable Car that crosses the Jialing River."
-ogImage: "https://images.pexels.com/photos/11506719/pexels-photo-11506719.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/chongqing-unique-city-guide/cover.webp"
 ---
 
 Chongqing (重庆) is unlike any other Chinese city — a municipality of 32 million people built across mountains at the confluence of two rivers, where the vertical dimension matters as much as the horizontal. Roads pass through buildings. The metro emerges from a skyscraper. A cable car crosses a gorge with apartment blocks on both banks. The city is a permanent architectural marvel that surprises even repeat visitors.
@@ -19,7 +19,7 @@ Chongqing (重庆) is unlike any other Chinese city — a municipality of 32 mil
 
 ## Why Chongqing is Different
 
-![Chongqing — Why Chongqing is Different](https://images.pexels.com/photos/13427044/pexels-photo-13427044.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Fengdougui City, Chongqing](/img/destinations/chongqing-unique-city-guide/1.webp)
 
 ### Geography shapes everything
 
@@ -47,8 +47,6 @@ The most photographed spot in Chongqing: a multi-storey complex of traditional s
 **Dining here**: moderately overpriced; fine for one meal, but not the best hotpot in the city.
 
 ---
-
-![Chongqing — Chongqing Hotpot: The Original and Most Intense](https://images.pexels.com/photos/11826841/pexels-photo-11826841.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Chongqing Hotpot: The Original and Most Intense
 
@@ -81,6 +79,8 @@ Chongqing hotpot is characterised by:
 
 ## Ciqikou Ancient Town (磁器口古镇)
 
+![Yongchuancha Mountain Scenery, Chongqing](/img/destinations/chongqing-unique-city-guide/2.webp)
+
 Located on the western bank of the Jialing River in Shapingba District, Ciqikou was Chongqing's major river trading port during the Ming and Qing Dynasties. The town's stone-paved lanes, traditional wood architecture, and riverside setting are among Chongqing's best-preserved historical streetscapes.
 
 ### What to see and eat here
@@ -96,9 +96,9 @@ Located on the western bank of the Jialing River in Shapingba District, Ciqikou 
 
 ---
 
-![Chongqing — The Yangtze River Experience](https://images.pexels.com/photos/28101617/pexels-photo-28101617.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Yangtze River Experience
+
+![Baidi City, Chongqing](/img/destinations/chongqing-unique-city-guide/3.webp)
 
 ### Cable car crossing (长江索道)
 

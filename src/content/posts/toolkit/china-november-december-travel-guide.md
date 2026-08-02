@@ -1,6 +1,7 @@
 ---
 title: "China November & December Travel Guide: Golden Autumn to Early Winter"
 description: "Plan your China trip in November or December — the autumn colour peak in Beijing and Shanghai, Yunnan's perfect dry season weather, the approach to Chinese New Year in December, the Shanghai design and art fair season, and why late autumn to early winter is one of China's most underrated travel windows for those who can handle cooler temperatures."
+ogImage: "/img/toolkit/china-november-december-travel-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "november", "december", "autumn", "winter", "seasonal-travel", "yunnan-dry-season", "art-fair", "low-season"]
@@ -13,6 +14,8 @@ November and December represent China's most underrated travel window for visito
 ---
 
 ## November: Peak Autumn, Low Crowds
+
+![West Lake Landscape, Hangzhou](/img/toolkit/china-november-december-travel-guide/1.webp)
 
 ### North China in November
 
@@ -62,6 +65,8 @@ The cultural programme in this period is the richest of the year; combined with 
 ---
 
 ## What to Watch for in December
+
+![Huangdi Ancient Village Luo Landscape, Shanxi, Anhui](/img/toolkit/china-november-december-travel-guide/2.webp)
 
 **Approach to Chinese New Year:** By late December, the production and marketing machine for Spring Festival souvenirs, decorations, and food gifts is in full operation. Markets selling red lanterns, lucky couplets (春联), and festive food are excellent browsing.
 

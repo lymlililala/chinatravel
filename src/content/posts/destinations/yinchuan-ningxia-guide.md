@@ -11,7 +11,7 @@ tags:
   - culture
   - northwest-china
 description: "Ningxia Hui Autonomous Region — Yinchuan as the capital and the Western Xia Imperial Tombs (a dynasty largely forgotten by history, with pyramidal tombs that look remarkably like Egypt), the Helan Mountain rock art, the vineyards of the Helan Mountain east face (Ningxia has become China's most respected wine region), and the Hui Muslim culture that defines the province."
-ogImage: "https://images.unsplash.com/photo-1535898331935-2d274aff0fbc?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwyfHxOaW5neGlhfGVufDB8MHx8fDE3ODE5MzczMDV8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
+ogImage: "/img/destinations/yinchuan-ningxia-guide/cover.webp"
 ---
 
 Ningxia Hui Autonomous Region is one of China's smaller provinces and one of its most overlooked by international visitors. It sits at the great bend of the Yellow River, where the river turns north before cutting south again — the river's presence has defined the region for thousands of years, enabling agriculture in an otherwise semi-arid landscape.
@@ -22,7 +22,7 @@ Two things make Ningxia distinctive: the Hui Muslim culture that gives the provi
 
 ## Western Xia Imperial Tombs (西夏王陵)
 
-![Ningxia — Western Xia Imperial Tombs (西夏王陵)](https://images.pexels.com/photos/5054447/pexels-photo-5054447.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Zhenbeibaoyingshi City Scenery, Ningxia](/img/destinations/yinchuan-ningxia-guide/1.webp)
 
 The Western Xia Dynasty (Tangut people, 西夏) ruled a powerful state in northwestern China from 1038 to 1227. At their peak, they controlled a territory larger than many European countries, had their own writing system, maintained Buddhist temples of artistic brilliance, and traded extensively along the Silk Road. Then Genghis Khan destroyed them in 1227, and the Mongols were so thorough in their destruction that subsequent Chinese dynasties barely recorded the Western Xia in their histories.
 
@@ -50,8 +50,6 @@ The site is spread across a gorge — you walk up through the canyon along a pat
 
 **Combination:** The rock art site and Western Xia tombs are 20km apart; most visitors do both in the same day.
 
-![Ningxia — Helan Mountain Vineyards (贺兰山东麓葡萄酒)](https://images.pexels.com/photos/33774270/pexels-photo-33774270.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Helan Mountain Vineyards (贺兰山东麓葡萄酒)
 
 This is one of the more surprising developments in Chinese gastronomy. The eastern face of Helan Mountain has, over the past 20 years, become China's most acclaimed wine-producing region. The combination of altitude (around 1,100 metres), long sunshine hours, large day-night temperature variations, and dry air produces conditions similar to parts of Bordeaux or the Rhône Valley.
@@ -63,6 +61,8 @@ Ningxia wines — particularly Cabernet Sauvignon and Merlot — have won intern
 **Winery route:** The main wine-producing area is along the east face of Helan Mountain between Yinchuan and Qingtongxia — a 60km corridor with over 80 registered wineries.
 
 ## Hui Muslim Culture in Yinchuan
+
+![Lvyougaoqing Scenery, Yinchuan](/img/destinations/yinchuan-ningxia-guide/2.webp)
 
 The Hui people are Chinese Muslims — ethnically Han but following Islam for generations, with a culture that blends Chinese and Islamic elements distinctively. Ningxia is the heartland of Hui culture in China.
 
@@ -92,6 +92,8 @@ The Hui people are Chinese Muslims — ethnically Han but following Islam for ge
 Yinchuan's city centre is compact and navigable by taxi or the limited metro network (Lines 1 and 2 connect the main sights).
 
 ## Shapotou Sand Dunes (沙坡头)
+
+![Sha Lake, Yinchuan](/img/destinations/yinchuan-ningxia-guide/3.webp)
 
 Shapotou, about 140km south of Yinchuan near Zhongwei city, is where the Tengger Desert meets the Yellow River. The dunes drop directly to the river bank — a dramatic contrast of sand and water. Activities include sand surfing, camel riding, and river rafting on traditional sheepskin-bladder rafts.
 

@@ -9,7 +9,7 @@ tags:
   - "summer"
   - "destinations"
 description: "Discover the most stunning lotus-viewing destinations across China, from classic parks to hidden gems, perfect for a summer day trip."
-ogImage: "https://images.pexels.com/photos/15839319/pexels-photo-15839319.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/best-lotus-viewing-china-summer-guide/cover.webp"
 faq:
   - question: "What is the best time of day to see lotus flowers?"
     answer: "Early morning (6–8 AM) is ideal because the flowers are fully open, temperatures are cooler, and crowds are smaller. Lotus flowers close in the afternoon heat."
@@ -29,13 +29,13 @@ Summer in China brings intense heat and sudden rainstorms, but also one of natur
 
 ## Top Lotus-Viewing Destinations
 
+![Zhuozheng Garden, Suzhou](/img/destinations/best-lotus-viewing-china-summer-guide/1.webp)
+
 ### 1. West Lake (西湖, Xī Hú), Hangzhou, Zhejiang
 West Lake is arguably China's most famous lotus spot. The curved causeways and ancient pagodas frame endless lotus blooms from late June to August. The best viewing area is along **Bai Causeway** (白堤) and near **Quyuan Fenghe** (曲院风荷), a park dedicated to lotus and wine culture.
 - **Best time**: Late June to August; early morning for fewer crowds and cooler temperatures.
 - **Getting there**: Take Hangzhou Metro Line 1 to Longxiangqiao or Fengqi Road stations, then walk or take a bus to the lake.
 - **Tip**: Rent a rowboat for ¥30–50 per hour to glide through the lotus clusters.
-
-![A view of West Lake covered in lotus flowers with a pagoda in the background](https://images.pexels.com/photos/34968198/pexels-photo-34968198.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### 2. Daming Lake (大明湖, Dà Míng Hú), Jinan, Shandong
 Jinan's "Pearl of the City" is famous for its lotus and weeping willows. The lake is part of the Baotu Spring Park complex, and the lotus here bloom from July to September.
@@ -55,8 +55,6 @@ This karst landscape in southeast Yunnan is a hidden gem for lotus lovers. Thous
 - **Getting there**: Take a high-speed train from Kunming to Puzhehei station (about 1 hour), then a taxi or bus to the scenic area.
 - **Admission**: ¥200 for a combo ticket (boat + sightseeing bus).
 - **Tip**: Stay overnight in a local guesthouse to catch sunrise over the lotus fields.
-
-![Karst peaks reflected in a lotus-covered lake at Puzhehei](https://images.pexels.com/photos/15839319/pexels-photo-15839319.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### 5. Baiyangdian Lake (白洋淀, Bái Yáng Diàn), Hebei
 Known as the "Pearl of North China," Baiyangdian is a vast wetland with lotus fields stretching to the horizon. It's also a historic site from the Anti-Japanese War.
@@ -82,8 +80,6 @@ This UNESCO World Heritage site features lotus ponds in front of ancient Huizhou
 - **Best time**: July–August; the lotus are at their best in early July.
 - **Getting there**: Take a bus from Huangshan city (about 1 hour) to Hongcun.
 - **Admission**: ¥104.
-
-![Lotus pond in front of traditional Huizhou architecture at Hongcun](https://images.pexels.com/photos/32653041/pexels-photo-32653041.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### 9. Gulou Water Town (古劳水乡, Gǔ Láo Shuǐ Xiāng), Jiangmen, Guangdong
 This water town in the Pearl River Delta is crisscrossed by canals lined with lotus. It's less touristy than other spots.
@@ -135,9 +131,10 @@ Most lotus parks charge ¥10–50 admission. Some require advance booking via We
 - **4:00 PM**: Afternoon tea at a lakeside teahouse (¥30–60).
 - **5:30 PM**: Sunset at Leifeng Pagoda (¥40) for a panoramic view.
 
-![A rowboat gliding through lotus flowers on West Lake](https://images.pexels.com/photos/27877923/pexels-photo-27877923.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Where to Stay
+
+![Canglangting, Suzhou](/img/destinations/best-lotus-viewing-china-summer-guide/2.webp)
+
 For the best lotus experience, stay near the lake or park:
 - **Hangzhou**: Shangri-La Hotel (West Lake view) or budget hostels near Qinghefang.
 - **Wuhan**: East Lake Hotel (within the scenic area) or city center hotels near Metro Line 8.
@@ -152,6 +149,9 @@ Lotus is edible in many forms:
 Look for these at local restaurants or street stalls near lotus destinations.
 
 ## Costs Overview
+
+![River Scenery, Suzhou](/img/destinations/best-lotus-viewing-china-summer-guide/3.webp)
+
 | Item | Estimated Cost (¥) |
 |------|-------------------|
 | Park admission | 10–50 |

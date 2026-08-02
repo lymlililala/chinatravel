@@ -12,7 +12,7 @@ tags:
   - culture
   - gardens
 description: "Baoding is one of Hebei's most historically significant cities — former capital of Zhili Province during the Qing Dynasty, home to beautiful classical gardens and one of China's best-preserved imperial administrative complexes. This 2026 guide covers the White Lotus Pond, Zhili Governor's Office Museum, Baiyangdian wetlands, transport from Beijing, accommodation and practical tips."
-ogImage: "https://images.pexels.com/photos/17049371/pexels-photo-17049371.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/hebei-baoding-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -23,7 +23,7 @@ Today Baoding is a mid-sized city of about 10 million people — substantial by 
 
 ## Top Sights
 
-![Baoding Hebei — Top Sights](https://images.pexels.com/photos/19566841/pexels-photo-19566841.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Bishu Mountain Resort, Chengde](/img/destinations/hebei-baoding-guide/1.webp)
 
 ### Zhili Governor's Office (直隶总督署)
 
@@ -75,8 +75,6 @@ The original jade suits are now in the Hebei Provincial Museum in Shijiazhuang (
 
 **Tickets:** ¥60 ($8). Bus from Baoding to Mancheng, then taxi.
 
-![Baoding Hebei — Dingzhou Pagoda (定州开元寺塔)](https://images.pexels.com/photos/10738311/pexels-photo-10738311.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Dingzhou Pagoda (定州开元寺塔)
 
 In Dingzhou, about 80 km southwest of Baoding, stands one of China's most important Song Dynasty pagodas. The Liaodi Pagoda (built 1001–1055) is China's tallest standing pre-modern pagoda at 84.2 metres — an extraordinary example of Song brick engineering. It was actually constructed as a military observation tower to monitor Khitan (Liao Dynasty) movements to the north. The view from the upper levels is restricted but the exterior is exceptional.
@@ -95,6 +93,8 @@ Baoding has a distinctive North China culinary tradition with several foods it c
 **Restaurant areas:** Yuhua Road (裕华路) has the highest concentration of good casual restaurants. A filling meal for two costs ¥60–¥100 ($8–$14).
 
 ## Getting to Baoding
+
+![Cangyan Mountain, Hebei](/img/destinations/hebei-baoding-guide/2.webp)
 
 ### From Beijing
 
@@ -115,6 +115,8 @@ High-speed rail: Taiyuan South to Baoding East, approximately 1.5 hours; tickets
 The main tourist sites (Zhili Governor's Office, White Lotus Pond) are in the city centre and walkable from each other. DiDi works well throughout the city. The city bus system covers major routes but requires Chinese reading ability.
 
 ## Where to Stay
+
+![Putuozongcheng Temple Scenery, Hebei, Chengde](/img/destinations/hebei-baoding-guide/3.webp)
 
 **Budget (¥120–¥200 / $17–$28):** Multiple budget hotels near the train stations. **7 Days Inn** and **Home Inns** have several properties.
 

@@ -10,6 +10,7 @@ faq:
   - question: "Is TCM safe for foreign travellers?"
     answer: "Mainstream treatments like acupuncture and massage are generally safe when done at reputable clinics or hospitals with licensed practitioners and sterile, single-use needles. Be cautious with unverified herbal remedies, share your medical history and any medications, and favour established TCM hospitals or well-reviewed wellness centres over street stalls."
 description: "Guide to experiencing Traditional Chinese Medicine (TCM) in China as a tourist. Covers acupuncture, cupping, tui na massage, herbal tea, TCM hospitals vs tourist traps, and safety."
+ogImage: "/img/toolkit/china-traditional-medicine-tcm-experience/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Traditional Chinese Medicine", "TCM", "acupuncture China", "Chinese massage", "cupping therapy", "China wellness", "health tourism"]
@@ -18,6 +19,8 @@ tags: ["Traditional Chinese Medicine", "TCM", "acupuncture China", "Chinese mass
 Traditional Chinese Medicine (中医, zhōngyī) is a 2,000-year-old system of medicine that remains a mainstream part of healthcare in China — not a fringe alternative, but something that millions of Chinese people use alongside Western medicine daily. For visitors, trying elements of TCM is one of the most authentic cultural experiences China offers. This guide helps you do it safely and meaningfully.
 
 ## The Main Branches of TCM You Can Try as a Tourist
+
+![Xingping, Guangxi, Yangshuo](/img/toolkit/china-traditional-medicine-tcm-experience/1.webp)
 
 ### Acupuncture (针灸 Zhēnjiǔ)
 The insertion of thin sterile needles at specific points along the body's meridian channels. In China, a qualified acupuncturist (at a licensed TCM hospital or clinic) performs this for everything from back pain to insomnia to digestive issues.
@@ -114,6 +117,8 @@ The rule: if a practitioner barely examines you before recommending ¥2,000 of h
 ---
 
 ## Tong Ren Tang (同仁堂) — The Most Accessible TCM Experience
+
+![Wanli Great Wall Scenery](/img/toolkit/china-traditional-medicine-tcm-experience/2.webp)
 
 Founded in 1669 under the Qing dynasty, Tong Ren Tang is China's oldest and most famous TCM pharmacy chain. It's now a publicly listed company with hundreds of stores across China and internationally.
 

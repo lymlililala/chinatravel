@@ -12,7 +12,7 @@ tags:
   - art
   - north-china
 description: "Datong in Shanxi province — the Yungang Grottoes (云冈石窟), one of the greatest Buddhist cave art complexes in the world with 51,000 carved figures from the 5th century AD Northern Wei dynasty. The most important caves to visit, the Hanging Temple (悬空寺) nearby, and Datong's extraordinary old city wall."
-ogImage: "https://images.pexels.com/photos/37340473/pexels-photo-37340473.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/datong-yungang-caves-guide/cover.webp"
 ---
 
 Datong is one of those Chinese cities that rewards visitors who do their research. On the surface it's a fading industrial city in northern Shanxi — former coal capital of China, dusty and grey. But dig beneath that surface and you find a city with one of the most significant collections of Buddhist art anywhere in the world, a restored city wall of remarkable scale, and the bizarre spectacle of a monastery built into a cliff face 75 metres above a gorge floor.
@@ -23,7 +23,7 @@ The Yungang Grottoes alone are worth the trip from anywhere in China.
 
 ## Yungang Grottoes (云冈石窟)
 
-![Datong & Yungang Grottoes — Yungang Grottoes (云冈石窟)](https://images.pexels.com/photos/38098072/pexels-photo-38098072.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Heng Mountain Scenery, Shanxi](/img/destinations/datong-yungang-caves-guide/1.webp)
 
 Carved between 460 and 525 AD during the Northern Wei Dynasty, the Yungang Grottoes are a UNESCO World Heritage Site containing 51 major caves and 51,000 carved statues, ranging from enormous seated Buddhas to intricate relief panels smaller than your hand.
 
@@ -64,8 +64,6 @@ The engineering is extraordinary: the cliff face overhangs slightly, protecting 
 
 The Hanging Temple gets crowded quickly because the walkways are narrow — the cliff-hanging experience involves shuffling through narrow wooden galleries with others. Come early or on a weekday.
 
-![Datong & Yungang Grottoes — Datong Old City Wall](https://images.pexels.com/photos/28263427/pexels-photo-28263427.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Datong Old City Wall
 
 Datong's city wall has been comprehensively restored over the past 15 years and is now one of the most impressive surviving Ming Dynasty walls in China. The circuit is 6.5km and can be walked in about 2 hours, or cycled in 45 minutes (bicycle rental available on the wall for ¥30).
@@ -82,6 +80,8 @@ Inside the old city walls:
 
 ## Where to Eat in Datong
 
+![Huanghehukou Waterfall](/img/destinations/datong-yungang-caves-guide/2.webp)
+
 Datong cuisine is Shanxi-style, heavy on noodles. **Knife-shaved noodles (刀削面)** are the city's signature dish — a lump of dough is held in the arms while a blade is used to shave thin strips directly into boiling broth. The technique requires years to master and produces a uniquely textured noodle.
 
 **Where to eat knife-shaved noodles:**
@@ -93,9 +93,9 @@ Datong cuisine is Shanxi-style, heavy on noodles. **Knife-shaved noodles (刀削
 - **Shanxi vinegar (山西醋):** Used in virtually every dish; Shanxi vinegar is China's most famous and is significantly sharper and more complex than rice vinegar
 - **Coated lamb (过油肉):** Pork or lamb briefly cooked in oil, then braised with vegetables; ¥35–55
 
-![Datong & Yungang Grottoes — Getting to Datong](https://images.pexels.com/photos/35044518/pexels-photo-35044518.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting to Datong
+
+![Taixing Mountain Scenery, Shanxi](/img/destinations/datong-yungang-caves-guide/3.webp)
 
 **From Beijing:** High-speed train (G-train) from Beijing North Station to Datong, about 2 hours, ¥120–160. This makes Datong a feasible two-day trip from Beijing.
 

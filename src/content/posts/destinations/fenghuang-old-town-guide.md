@@ -11,7 +11,7 @@ tags:
   - minority-cultures
   - culture
 description: "Fenghuang (凤凰) in western Hunan — the ancient town that sits along the Tuojiang River with wooden stilted houses (吊脚楼) reflected in the water, the South Gate tower illuminated at night, the Miao silver jewellery, the local rice wine (咂酒), and getting there from Changsha or Zhangjiajie. Night vs day photography."
-ogImage: "https://images.pexels.com/photos/4839146/pexels-photo-4839146.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/fenghuang-old-town-guide/cover.webp"
 ---
 
 Fenghuang (凤凰, Phoenix) is one of those places where the popular image is accurate. The wooden stilted houses really do hang over the clear green Tuojiang River. The old stone streets really are lit by red lanterns at night. The South Gate watchtower really does reflect perfectly in the water at dusk. What's less expected is how alive the town feels — not a museum piece but a working community where Miao people go about their lives while tourists wander through their neighbourhood. This coexistence gives Fenghuang an energy that many more famous ancient towns lack.
@@ -20,7 +20,7 @@ Fenghuang (凤凰, Phoenix) is one of those places where the popular image is ac
 
 ## The Old Town Layout
 
-![Fenghuang Ancient Town — The Old Town Layout](https://images.pexels.com/photos/34935135/pexels-photo-34935135.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Wumanxiaodong River Scenery](/img/destinations/fenghuang-old-town-guide/1.webp)
 
 Fenghuang Ancient Town sits along a bend in the Tuojiang River in western Hunan, 250km west of Changsha. The old town occupies the north bank of the river, with the stilted houses (吊脚楼) built on stilts over the water along the riverfront. Behind them, two main commercial streets run roughly parallel to the river — Dongzheng Street (东正街) and Nanhua Street (南华街) — lined with Ming and Qing Dynasty buildings that now house guesthouses, restaurants, silver shops, and craft stores.
 
@@ -38,9 +38,9 @@ These are two completely different experiences and most photographers would say 
 
 Arrive for afternoon exploration, stay for sunset from the stone bridge, then photograph the night scene until 10pm when the lanterns start going out.
 
-![Fenghuang Ancient Town — Miao Culture & Silver Jewellery](https://images.pexels.com/photos/30693227/pexels-photo-30693227.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Miao Culture & Silver Jewellery
+
+![Xiangtanchangjiang Town Scenery, Hunan](/img/destinations/fenghuang-old-town-guide/2.webp)
 
 Fenghuang sits in the heartland of Miao minority culture in western Hunan. The Miao are one of China's 55 recognised ethnic minorities with a distinct language (Hmong-Mien language family), textile traditions, and an extraordinary silversmithing tradition.
 
@@ -52,6 +52,8 @@ The Miao New Year (苗年) festival, if your visit coincides (usually November-D
 
 ## Local Food & Rice Wine
 
+![Chenzhouzixingxiaodong River Scenery, Hunan](/img/destinations/fenghuang-old-town-guide/3.webp)
+
 Fenghuang's food reflects its borderland position between Han Chinese cooking and Miao minority cuisine. The distinctive local ingredients include:
 
 **Sour Fish (酸鱼):** Fish preserved in rice wine and fermented for months or years. The result is pungent, intensely flavoured, and an acquired taste — but genuinely traditional and worth trying at least once in a proper restaurant.
@@ -61,8 +63,6 @@ Fenghuang's food reflects its borderland position between Han Chinese cooking an
 **Cizha (咂酒):** The local rice wine, traditionally drunk through a bamboo straw from a communal clay pot. The wine is low-alcohol but complex in flavour, fermented with local herbs and spices. Several riverside restaurants offer communal drinking sessions (¥30-50 per person includes the pot and the demonstration of the drinking ritual).
 
 A proper riverside dinner in Fenghuang costs ¥60-120 per person.
-
-![Fenghuang Ancient Town — Getting There](https://images.pexels.com/photos/25000462/pexels-photo-25000462.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting There
 

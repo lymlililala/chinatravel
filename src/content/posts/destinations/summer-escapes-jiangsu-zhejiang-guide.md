@@ -11,7 +11,7 @@ tags:
   - "east-china"
   - "day-trip"
 description: "Plan your summer getaway to Jiangsu and Zhejiang with hotel deals, nature activities, and tips for international travelers. Explore Moganshan, Tonglu, and more."
-ogImage: "https://images.pexels.com/photos/34675319/pexels-photo-34675319.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/summer-escapes-jiangsu-zhejiang-guide/cover.webp"
 faq:
   - question: "Do I need to speak Chinese to travel in Jiangsu and Zhejiang?"
     answer: "Not necessarily. Major hotels and tourist attractions often have English signage and staff. However, learning a few phrases like 'hello' (nǐ hǎo) and 'thank you' (xiè xiè) helps. Download a translation app for convenience."
@@ -33,13 +33,13 @@ Escape the summer heat in China's lush Jiangsu and Zhejiang provinces, where mis
 
 ## Top Summer Destinations in Jiangsu and Zhejiang
 
+![Shi Lake Scenery, Jiangsu, Suzhou](/img/destinations/summer-escapes-jiangsu-zhejiang-guide/1.webp)
+
 Both provinces are dotted with scenic escapes that are especially popular during the hot months (June–September). Here are the standout spots:
 
 ### Moganshan (莫干山, Mògàn Shān)
 
 A legendary summer resort since the early 20th century, Moganshan is known for its bamboo-covered hills, cool climate, and historic villas. It's located in Deqing County, about a 2-hour drive from Shanghai or Hangzhou. The area offers hiking trails, waterfalls, and boutique hotels that blend into the landscape. Many international travelers come here for a weekend of fresh air and tranquility.
-
-![Bamboo forest path in Moganshan with a historic stone villa](https://images.pexels.com/photos/24033231/pexels-photo-24033231.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### Tonglu (桐庐, Tónglú)
 
@@ -52,8 +52,6 @@ Known as the "Bamboo Sea," Anji is a lush county in Zhejiang with vast bamboo fo
 ### Suzhou (苏州, Sūzhōu)
 
 While Suzhou is famous for its classical gardens and canals, the outskirts offer summer escapes like Taihu Lake and Suzhou乐园 (Suzhou Amusement Land). The Suzhou Longemont Hotel mentioned in deals is near the amusement park and wetlands, ideal for families.
-
-![Suzhou classical garden with a lotus pond in summer](https://images.pexels.com/photos/34675319/pexels-photo-34675319.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Best Time to Visit
 
@@ -78,6 +76,8 @@ China's extensive rail network connects major cities to these destinations:
 - **Buses**: Local buses serve scenic spots, but schedules may be infrequent. Taxis are more convenient for foreigners.
 
 ## Where to Stay: Top Hotel Deals for Summer
+
+![Zhuozheng Garden, Suzhou](/img/destinations/summer-escapes-jiangsu-zhejiang-guide/2.webp)
 
 Based on recent promotions, here are some of the best-value hotels for a summer escape. Most deals are refundable and valid through 2026. Always check the cancellation policy before booking.
 
@@ -116,6 +116,8 @@ Based on recent promotions, here are some of the best-value hotels for a summer 
 
 ## Food & Dining
 
+![Fuzimiao Night View, Nanjing](/img/destinations/summer-escapes-jiangsu-zhejiang-guide/3.webp)
+
 Local cuisine in Jiangsu and Zhejiang is light, fresh, and seasonal. Must-try dishes:
 - **Moganshan**: Bamboo shoot dishes, wild vegetables, and local chicken.
 - **Tonglu**: Fuchun River fish, braised pork with preserved vegetables.
@@ -140,8 +142,6 @@ Many hotels offer meal packages. For authentic local food, visit village restaur
 - **Activities**: Hiking trails are free; theme parks: ¥200–300 per person.
 
 For more travel inspiration, check out our [China itineraries](/tags/itinerary) and [nature guides](/tags/nature). If you're interested in other regions, explore our [east China](/tags/east-china) and [Zhejiang](/tags/zhejiang) tags.
-
-![Fuchun River in Tonglu with karst mountains and a boat](https://images.pexels.com/photos/1682688/pexels-photo-1682688.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## FAQ
 

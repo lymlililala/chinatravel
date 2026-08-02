@@ -26,7 +26,7 @@ tags:
   - high-speed rail tickets
   - china train booking
 description: "China high-speed rail tickets: how to book on 12306 or Trip.com with a foreign passport — the 15-day booking window, seat classes, and fares. No Chinese needed."
-ogImage: "https://images.pexels.com/photos/7494174/pexels-photo-7494174.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-train-booking-guide-foreigners/cover.webp"
 ---
 
 China's high-speed rail network is the largest in the world — over 45,000 kilometres of track connecting virtually every major city. Speeds reach 350 km/h on many routes. Trains are punctual, comfortable, and cheaper than flying once you factor in airport time and costs.
@@ -37,7 +37,7 @@ The challenge for foreign visitors is buying China high-speed rail tickets in th
 
 ## Understanding the Train Types
 
-![China High-Speed Rail Tickets — Understanding the Train Types](https://images.pexels.com/photos/2031758/pexels-photo-2031758.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Forbidden City Panorama Interior, Beijing](/img/toolkit/china-train-booking-guide-foreigners/1.webp)
 
 Before you book, it helps to know what you are booking.
 
@@ -120,8 +120,6 @@ At Chinese railway stations, **foreign passport holders must collect physical ti
 
 ---
 
-![China High-Speed Rail Tickets — Method 2: Book on Trip.com (English, Recommended for Beginners)](https://images.pexels.com/photos/9648940/pexels-photo-9648940.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Method 2: Book on Trip.com (English, Recommended for Beginners)
 
 **Trip.com** (formerly Ctrip) is the largest English-language booking platform for Chinese trains. The process is similar to booking a flight internationally:
@@ -169,6 +167,8 @@ This speeds up the transaction enormously.
 
 ## Understanding Ticket Availability
 
+![Jinshanling Great Wall, Beijing](/img/toolkit/china-train-booking-guide-foreigners/2.webp)
+
 ### The 15-day advance booking window
 
 Tickets become available exactly **15 days before departure** at midnight (Beijing time). For popular routes on busy travel dates, availability on the G trains in second class can disappear within hours of opening.
@@ -184,8 +184,6 @@ Tickets become available exactly **15 days before departure** at midnight (Beiji
 On some routes, once all seats are sold, the system continues selling **standing tickets** (无座) at the same price as second class. These allow you to board but require standing in the aisle or sitting on luggage for the duration. Not recommended for journeys over two hours.
 
 ---
-
-![China High-Speed Rail Tickets — At the Station: What to Expect](https://images.pexels.com/photos/33968153/pexels-photo-33968153.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## At the Station: What to Expect
 

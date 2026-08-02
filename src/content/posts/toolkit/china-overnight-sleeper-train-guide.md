@@ -23,7 +23,7 @@ tags:
   - night-trains
   - sleeper-trains
 description: "China overnight trains explained — hard vs soft sleeper, T/K/Z and high-speed night trains, booking as a foreigner, what to pack, and sleeper train etiquette."
-ogImage: "https://images.pexels.com/photos/9648945/pexels-photo-9648945.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-overnight-sleeper-train-guide/cover.webp"
 ---
 
 China's night sleeper trains are one of the country's great travel experiences — falling asleep in one city and waking up in another, having saved a night's accommodation costs while covering hundreds of kilometres. They're comfortable, affordable, and give you a window into how Chinese people travel. Here's everything you need to know.
@@ -32,7 +32,7 @@ China's night sleeper trains are one of the country's great travel experiences �
 
 ## Why Take China's Night Sleeper Trains?
 
-![China Night Sleeper Trains — Why Take China's Night Sleeper Trains?](https://images.pexels.com/photos/11022633/pexels-photo-11022633.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Forbidden City Scenery, Beijing](/img/toolkit/china-overnight-sleeper-train-guide/1.webp)
 
 **Save time and money**: an overnight journey covers the distance while you sleep, saving both accommodation costs and a day of sightseeing time.
 
@@ -91,8 +91,6 @@ The conventional overnight fleet is made up of three series, shown as a prefix i
 Newer **D-series night trains** run on selected high-speed lines (for example Shanghai–Chengdu, departing around 8–9pm and arriving the next morning) — faster than the classic sleepers with newer rolling stock, at higher fares. Avoid **Y trains** (tourist trains) for overnight travel unless you're specifically on a tourist route.
 
 ---
-
-![China Night Sleeper Trains — China Train Schedules: When Do Night Sleeper Trains Run?](https://images.pexels.com/photos/5868296/pexels-photo-5868296.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## China Train Schedules: When Do Night Sleeper Trains Run?
 
@@ -153,8 +151,6 @@ The world's highest railway — crossing the Tibetan Plateau at altitudes above 
 
 ---
 
-![China Night Sleeper Trains — Booking Sleeper Tickets as a Foreigner](https://images.unsplash.com/photo-1695742265305-14f0373cd9dc?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxib29raW5nJTIwc2xlZXBlcnxlbnwwfDB8fHwxNzg0NTUwNzAxfDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
-
 ## Booking Sleeper Tickets as a Foreigner
 
 Sleeper berths sell out fastest — book as early as possible, as soon as the sales window opens (check the current advance window on 12306, as it changes from time to time).
@@ -202,6 +198,8 @@ Sleeper berths sell out fastest — book as early as possible, as soon as the sa
 ---
 
 ## Food on Night Trains
+
+![Forbidden City Panorama Interior, Beijing](/img/toolkit/china-overnight-sleeper-train-guide/2.webp)
 
 **Dining car (餐车)**: most long-distance overnight trains have one, serving basic hot dishes, rice, and noodles at ¥20–¥60 per dish. Quality is variable, but it's good for a proper hot dinner — and it's the social spot for a beer before people settle in to sleep.
 

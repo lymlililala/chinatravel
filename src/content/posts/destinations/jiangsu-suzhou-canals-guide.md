@@ -12,7 +12,7 @@ tags:
   - canals
   - day-trip
 description: "Suzhou's UNESCO-listed classical gardens are famous worldwide, but most visitors see only the top two or three. This 2026 deep dive covers the lesser-known gems — Couple's Retreat Garden, Master of Nets, and hidden canal neighborhoods — plus night boat rides on the ancient waterways, canal-side homestays, and how to experience the real Suzhou beyond the tour-group circuit."
-ogImage: "https://images.pexels.com/photos/36795927/pexels-photo-36795927.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/jiangsu-suzhou-canals-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -25,7 +25,7 @@ This guide goes beyond the standard Suzhou checklist.
 
 ## Getting to Suzhou
 
-![Suzhou Canals & Gardens Deep Dive — Getting to Suzhou](https://images.pexels.com/photos/35016217/pexels-photo-35016217.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Gudianmingyuanliu Garden Scenery, Suzhou](/img/destinations/jiangsu-suzhou-canals-guide/1.webp)
 
 Suzhou is 25 minutes from Shanghai Hongqiao Station by high-speed train — one of the world's fastest train connections between a major city and a renowned tourist destination.
 
@@ -84,9 +84,9 @@ Much less visited. A canal neighborhood where ordinary Suzhou residents still li
 ### Tonghe Canal District (桐和路)
 One of the least touristed canal areas, with traditional architecture still in residential use. Find it on a map and just walk — the network of bridges and canal lanes here is what Suzhou would look like without tourists.
 
-![Suzhou Canals & Gardens Deep Dive — Night Boat Rides](https://images.pexels.com/photos/36466069/pexels-photo-36466069.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Night Boat Rides
+
+![Shi Lake Scenery, Jiangsu, Suzhou](/img/destinations/jiangsu-suzhou-canals-guide/2.webp)
 
 Evening boat rides on Suzhou's canals are significantly more atmospheric than the daylight version. The combination of lit bridges reflecting in dark water, the narrow passages between buildings, and the sound of the water under oars creates something genuinely beautiful.
 
@@ -112,9 +112,9 @@ Kunqu is considered the "mother of Chinese opera" — most other regional opera 
 - **Master of Nets Garden evening show**: Different musical and opera pieces performed in different pavilions. The most atmospheric setting.
 - **Pingtan Museum (苏州评弹博物馆)**: Pingtan is Suzhou's narrative ballad tradition (not Kunqu, but related). Free entry, occasional performances.
 
-![Suzhou Canals & Gardens Deep Dive — Where to Stay](https://images.pexels.com/photos/35803977/pexels-photo-35803977.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Where to Stay
+
+![Zhuozheng Garden, Suzhou](/img/destinations/jiangsu-suzhou-canals-guide/3.webp)
 
 ### Inside the Old City
 The best Suzhou experience is sleeping inside the canal district rather than in the new commercial areas.

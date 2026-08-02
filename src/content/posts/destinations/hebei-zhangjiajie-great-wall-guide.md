@@ -12,7 +12,7 @@ tags:
   - beijing
   - adventure
 description: "Escape the tourist crowds at Badaling and explore the untamed, unrestored sections of the Great Wall in Hebei and Beijing's outer reaches. This 2026 guide covers Jiankou's crumbling towers, Zhuangdaokou's wooded ridges, night hikes, camping spots, and everything you need to plan a wild Great Wall adventure safely."
-ogImage: "https://images.pexels.com/photos/29466142/pexels-photo-29466142.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/hebei-zhangjiajie-great-wall-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -25,7 +25,7 @@ This guide covers the best unrestored Wall sections accessible from Beijing and 
 
 ## The Wild Wall Philosophy
 
-![Hebei Wild Great Wall Hike — The Wild Wall Philosophy](https://images.pexels.com/photos/1410232/pexels-photo-1410232.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Jiankou Great Wall Scenery, Beijing](/img/destinations/hebei-zhangjiajie-great-wall-guide/1.webp)
 
 First, some context. The Great Wall stretches over 21,000km and was built across multiple dynasties. The sections most tourists visit are Ming Dynasty (1368–1644) sections that were heavily restored in the 20th century. But the majority of the Wall is unrestored — crumbling, overgrown, often structurally unstable.
 
@@ -93,8 +93,6 @@ The "Water Wall" photo spot is accessible by boat (¥40/person for a short ride)
 
 Entry area fee: ¥45 adults, includes boat rides to the Water Wall section. Open 8am–5pm.
 
-![Hebei Wild Great Wall Hike — Gubeikou (古北口) — Ming and Qi Dynasty Walls](https://images.pexels.com/photos/17615499/pexels-photo-17615499.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Gubeikou (古北口) — Ming and Qi Dynasty Walls
 
 Gubeikou is historically significant — this is where two dynasties' worth of Wall construction overlaps, so you can see both the older, rougher "Qi Dynasty Wall" and the better-preserved Ming Dynasty Wall in close proximity. It's also more accessible and less dangerous than Jiankou.
@@ -112,6 +110,8 @@ The Wall here hasn't been restored but also hasn't dramatically crumbled, making
 There's also the attached Gubeikou Water Town (古北水镇), a privately-developed heritage tourism complex next to the Wall. It's quite commercial but the accommodation is good quality — staying here and hiking early morning before crowds arrive works well. Entry to the town: ¥180/person; Wall hiking is included.
 
 ## Simatai at Night (司马台)
+
+![Wanli Great Wall Scenery](/img/destinations/hebei-zhangjiajie-great-wall-guide/2.webp)
 
 Simatai, while partly restored, offers something unique: China's only authorized nighttime Great Wall experience. From around April to October, a section of Simatai is illuminated and open for evening visits (8pm–10pm). The combination of ancient stone, golden light, and mountain darkness creates an unforgettable atmosphere.
 
@@ -142,9 +142,9 @@ Village guesthouses (农家乐) along the route offer basic rooms for ¥60–100
 
 Hiring a local guide for a multi-day traverse is strongly recommended — these mountain villages have residents who have walked every meter of the Wall above them and know which sections are safe and which are dangerous. Rates: ¥200–400/day.
 
-![Hebei Wild Great Wall Hike — Photography Tips for the Wild Wall](https://images.pexels.com/photos/35675995/pexels-photo-35675995.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Photography Tips for the Wild Wall
+
+![Simatai Great Wall, Beijing](/img/destinations/hebei-zhangjiajie-great-wall-guide/3.webp)
 
 The unrestored Wall is a photographer's paradise, but getting the best shots requires thinking about light.
 

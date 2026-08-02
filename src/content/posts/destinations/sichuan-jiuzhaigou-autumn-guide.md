@@ -12,7 +12,7 @@ tags:
   - photography
   - nature
 description: "Autumn at Jiuzhaigou is China's most spectacular foliage season — the UNESCO-listed valley transforms into a canvas of crimson, gold, and impossible blue lakes. This 2026 guide covers the optimal weeks for autumn colors, the new post-earthquake ticket system, photography strategies, and how to navigate peak season crowds while still getting the best experience."
-ogImage: "https://images.pexels.com/photos/34617678/pexels-photo-34617678.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/sichuan-jiuzhaigou-autumn-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -25,7 +25,7 @@ This guide focuses specifically on the autumn visit. Many aspects of Jiuzhaigou 
 
 ## When is Autumn Peak at Jiuzhaigou?
 
-![Jiuzhaigou Autumn — When is Autumn Peak at Jiuzhaigou?](https://images.pexels.com/photos/34619129/pexels-photo-34619129.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Tianfuguosheyinger, Sichuan, Chengdu](/img/destinations/sichuan-jiuzhaigou-autumn-guide/1.webp)
 
 The autumn color window at Jiuzhaigou is not a fixed date — it depends on temperature patterns each year. Historically, the reliable window is:
 
@@ -58,9 +58,9 @@ The eco-bus is essential — the park is large (72km² scenic area) and you cann
 
 **Avoid National Holiday Week (October 1–7)**: The first week of October is China's National Day Golden Week — the most crowded week of the year. Tickets sell out in seconds on the booking platforms, the valley is at maximum capacity, and the experience suffers. If possible, book October 10–25 instead.
 
-![Jiuzhaigou Autumn — Jiuzhaigou Valley: Key Sites for Autumn](https://images.pexels.com/photos/31654293/pexels-photo-31654293.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Jiuzhaigou Valley: Key Sites for Autumn
+
+![Lugu Lake Ligeban Island Scenery, Sichuan](/img/destinations/sichuan-jiuzhaigou-autumn-guide/2.webp)
 
 ### Nuorilang Waterfall (诺日朗瀑布)
 China's widest highland waterfall (270m wide) is on every visitor's route and is even more dramatic in autumn when the trees on the surrounding cliffs are flame-colored. Best photographed in morning light from the viewing platform below.
@@ -84,6 +84,8 @@ The viewing platform fills up quickly — arrive before 9am or after 4pm for les
 
 ## Photography Strategy for Autumn
 
+![Shunanzhuhai Landscape](/img/destinations/sichuan-jiuzhaigou-autumn-guide/3.webp)
+
 ### The Light Question
 Jiuzhaigou's autumn photography lives or dies on light conditions. Clear blue sky creates the most saturated lake colors. Overcast days flatten the colors significantly.
 
@@ -106,8 +108,6 @@ For the autumn color reflections, the key is waiting for wind to die down comple
 
 ### Getting the Fewer-Crowd Shots
 Start at the **top of each valley and walk down**, in the opposite direction from most visitors who start at the bottom. The eco-bus will drop you at the upper end; most Chinese tour groups start from the valley floor. Working against the flow means you'll reach many sites before the crowds arrive.
-
-![Jiuzhaigou Autumn — Logistics and Planning](https://images.pexels.com/photos/31410324/pexels-photo-31410324.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Logistics and Planning
 

@@ -12,7 +12,7 @@ tags:
   - plateau
   - adventure
 description: "Maduo County in Qinghai sits at over 4,200 meters and claims to be the birthplace of China's greatest river, the Yellow River. This 2026 guide covers the Yellow River Source Area, Zaling and Eling Lakes, road conditions for self-drivers, altitude preparation, and what makes this remote Tibetan plateau region one of China's most surreal and least-visited destinations."
-ogImage: "https://images.pexels.com/photos/36314092/pexels-photo-36314092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/qinghai-maduo-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -24,6 +24,8 @@ Maduo County (玛多县) in the Golog Tibetan Autonomous Prefecture is officiall
 The reward is a landscape of almost surreal beauty: thousands of small lakes dotting an enormous plateau under skies of impossible blue, nomadic Tibetan herders' tents visible miles away across the flatlands, and the strange emotional weight of standing at the point where China's mother river begins.
 
 ## Geographic Context
+
+![Singing Sand Dunes Scenery, Dunhuang](/img/destinations/qinghai-maduo-guide/1.webp)
 
 The Yellow River Source Area (黄河源头地区) encompasses a broad wetland complex in the eastern Tibetan Plateau. The headwater streams ultimately trace back to glaciers on the Bayan Har Mountains, but the recognized "source lake" system is centered on two enormous adjacent lakes: Zaling Lake (扎陵湖) and Eling Lake (鄂陵湖), both at around 4,290m elevation.
 
@@ -49,8 +51,6 @@ Yushu (玉树州府, about 380km from Maduo) has an airport with connections to 
 ### Fuel and Supplies
 Maduo County Town has a gas station. There are limited supplies on the road. Before heading to the lake areas, fill up and carry water and food. There's essentially nothing between Maduo Town and the source lakes except road and plateau.
 
-![Maduo Qinghai — The Yellow River Source Area (黄河源头景区)](https://images.pexels.com/photos/22764538/pexels-photo-22764538.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Yellow River Source Area (黄河源头景区)
 
 ### Zaling Lake and Eling Lake (扎陵湖·鄂陵湖)
@@ -70,13 +70,13 @@ There's a small bridge near the source lakes that's promoted as the "first bridg
 
 ## Maduo County Town
 
+![Geermuwuzi Lake Scenery, Qinghai](/img/destinations/qinghai-maduo-guide/2.webp)
+
 The county town itself (马多县城) is a small administrative settlement of a few thousand people, mostly Tibetan, sitting on the plateau at 4,272m. It has basic hotels, a few restaurants, a gas station, and the shops you'd expect in any Chinese county town.
 
 There's nothing here in the tourist-attraction sense, but spending time just walking around gives insight into the reality of life at extreme altitude in rural China. The local Tibetan culture is visible — prayer flags on houses, a small monastery at the edge of town, yak butter being sold at the market.
 
 **Accommodation**: Several guesthouses and small hotels, basic double rooms ¥100–200/night. Don't expect hot showers to be reliable. Book ahead if possible.
-
-![Maduo Qinghai — Altitude Warning](https://images.pexels.com/photos/35471251/pexels-photo-35471251.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Altitude Warning
 
@@ -93,6 +93,8 @@ Maduo is serious altitude country. The county town sits at 4,272m and the lake a
 Altitude sickness here can kill if ignored. This is not hyperbole — the combination of remoteness and high elevation means there is no rapid medical evacuation option.
 
 ## Three Rivers Source National Park
+
+![Hu Natural Scenery, Qinghai](/img/destinations/qinghai-maduo-guide/3.webp)
 
 Maduo sits within the Three Rivers Source National Park (三江源国家公园), one of China's largest and highest-priority ecological preserves. Some areas within the park require permits or have restricted access.
 

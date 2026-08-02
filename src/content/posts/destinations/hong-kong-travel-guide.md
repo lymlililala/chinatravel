@@ -12,7 +12,7 @@ tags:
   - food
   - nature
 description: "Hong Kong's world-class skyline, extraordinary Cantonese food culture, hidden temple villages, and dramatic country park hiking make it one of Asia's most multidimensional destinations."
-ogImage: "https://images.pexels.com/photos/8070412/pexels-photo-8070412.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/hong-kong-travel-guide/cover.webp"
 ---
 
 Hong Kong Special Administrative Region occupies the southern tip of the Pearl River Delta — a dense concentration of skyscrapers, traditional markets, colonial heritage, and surprisingly wild country parks on 263 islands. It's both China and not China, and remains one of Asia's most exciting and cosmopolitan cities.
@@ -21,7 +21,7 @@ Hong Kong Special Administrative Region occupies the southern tip of the Pearl R
 
 ## Practical Entry Information
 
-![Hong Kong — Practical Entry Information](https://images.unsplash.com/photo-1781686910394-9fa17922c499?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw1fHxwcmFjdGljYWwlMjBlbnRyeXxlbnwwfDB8fHwxNzgxODUxMDA3fDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
+![Temple of Heaven Giant Buddha, Hong Kong](/img/destinations/hong-kong-travel-guide/1.webp)
 
 ### Visa-Free Access
 Most passport holders can visit Hong Kong visa-free for 14–90 days (varies by nationality), **independently of China visa requirements**. Hong Kong and Macau have their own immigration systems.
@@ -56,8 +56,6 @@ The most atmospheric historical neighbourhood on Hong Kong Island — **Hollywoo
 
 ---
 
-![Hong Kong — Kowloon](https://images.pexels.com/photos/34432020/pexels-photo-34432020.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Kowloon
 
 ### Temple Street Night Market (廟街)
@@ -73,6 +71,8 @@ A Tang Dynasty-style Buddhist nunnery complex (built 1998–2000 but in authenti
 
 ## Outlying Islands
 
+![Baolianchan Temple, Hong Kong](/img/destinations/hong-kong-travel-guide/2.webp)
+
 ### Lantau Island (大嶼山)
 - **Big Buddha (天壇大佛)** — a 34-metre bronze Buddha on Ngong Ping Plateau; Ngong Ping cable car provides an exceptional 25-minute approach over forests and harbour
 - **Po Lin Monastery** — large active Buddhist monastery beside the Buddha statue
@@ -83,9 +83,9 @@ A small island (no cars!) of alleyways, temples, and beaches — the **Bun Festi
 
 ---
 
-![Hong Kong — Hiking](https://images.pexels.com/photos/29835821/pexels-photo-29835821.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Hiking
+
+![Dishinile Garden, Hong Kong](/img/destinations/hong-kong-travel-guide/3.webp)
 
 Hong Kong's country parks cover 40% of its territory. Trails are world-class:
 

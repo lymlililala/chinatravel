@@ -11,20 +11,20 @@ tags:
   - buddhism
   - history
 description: "Taiyuan and Shanxi Province — gateway to Pingyao Ancient City, Wutai Mountain Buddhist complex, Yungang Grottoes, and the most UNESCO-dense province in China outside of Xi'an."
-ogImage: "https://images.pexels.com/photos/2870587/pexels-photo-2870587.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/taiyuan-shanxi-guide/cover.webp"
 ---
 
 Shanxi Province (山西省) has more UNESCO World Heritage Sites, National Key Cultural Relics, and surviving Song dynasty wooden architecture than any other region in China — yet it remains dramatically undervisited by international tourists. The provincial capital Taiyuan (太原) serves as the hub for reaching the province's three extraordinary UNESCO-listed assets: Pingyao Ancient City, Wutai Mountain, and Yungang Grottoes.
 
-![Taiyuan & Shanxi Province — Getting to Taiyuan](https://images.pexels.com/photos/30941972/pexels-photo-30941972.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting to Taiyuan
+
+![Taixing Mountain Scenery, Shanxi](/img/destinations/taiyuan-shanxi-guide/1.webp)
 
 High-speed trains connect Taiyuan with Beijing (2.5 hours), Xi'an (3 hours), and Zhengzhou (2.5 hours). Taiyuan Wusu International Airport has domestic connections.
 
-![Taiyuan & Shanxi Province — Pingyao Ancient City (平遥古城)](https://images.pexels.com/photos/18506159/pexels-photo-18506159.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Pingyao Ancient City (平遥古城)
+
+![Yungang Grottoes, Shanxi, Datong](/img/destinations/taiyuan-shanxi-guide/2.webp)
 
 Pingyao is the best-preserved pre-modern Chinese walled city — the entire Ming dynasty city wall, the commercial street network, the courtyard residences, and the ancient banking district (Shanxi was 19th-century China's banking centre) survive within a complete circuit.
 
@@ -34,9 +34,9 @@ The **Rishengchang Exchange House (日升昌票号)** — the world's first draf
 
 **Staying in Pingyao**: Courtyard guesthouses (客栈) within the old city wall provide the most atmospheric experience. Stay 2 nights minimum — the city deserves more than a single day.
 
-![Taiyuan & Shanxi Province — Wutai Mountain (五台山)](https://images.pexels.com/photos/12989715/pexels-photo-12989715.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Wutai Mountain (五台山)
+
+![Huanghehukou Waterfall](/img/destinations/taiyuan-shanxi-guide/3.webp)
 
 Wutai Mountain is one of China's Four Sacred Buddhist Mountains and the earthly realm of Manjushri, the bodhisattva of wisdom. The complex of temples and monasteries across five distinct peaks contains the world's highest concentration of Tang dynasty wooden architecture.
 

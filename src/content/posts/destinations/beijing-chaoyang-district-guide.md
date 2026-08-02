@@ -10,16 +10,16 @@ tags:
   - culture
   - shopping
 description: "The complete guide to Beijing's Chaoyang District — the international embassy zone, 798 Art District, Sanlitun nightlife and shopping, Chaoyang Park, and the most cosmopolitan neighbourhood in China's capital."
-ogImage: "https://images.pexels.com/photos/7479314/pexels-photo-7479314.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/beijing-chaoyang-district-guide/cover.webp"
 ---
 
 Beijing's Chaoyang District (朝阳区) is the city's most international zone — home to virtually every foreign embassy, the largest concentration of expats, the 798 contemporary art hub, and the Sanlitun bar and shopping district that serves as the beating heart of Beijing's nightlife.
 
 Chaoyang is where modern Beijing lives: the gleaming business towers of Guomao, the gallery-lined warehouses of 798, the rooftop bars of Sanlitun, and the weekend market culture of Panjiayuan.
 
-![Beijing Chaoyang District — Getting Around Chaoyang](https://images.pexels.com/photos/5302327/pexels-photo-5302327.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting Around Chaoyang
+
+![Courtyard House, Beijing](/img/destinations/beijing-chaoyang-district-guide/1.webp)
 
 Chaoyang is large — it covers the entire eastern half of the city beyond the 3rd Ring Road. The key areas are:
 - **Sanlitun**: Metro Line 10, Tuanjiehu station
@@ -37,9 +37,9 @@ Sanlitun (三里屯) began as an embassy-adjacent bar street in the 1990s and ev
 
 **For visitors:** Sanlitun is useful for a Western meal if you need a break from Chinese food, or for evening drinks in a setting that requires less navigation than the hutong bar districts.
 
-![Beijing Chaoyang District — 798 Art District](https://images.pexels.com/photos/20523156/pexels-photo-20523156.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## 798 Art District
+
+![Tiananmen, Beijing](/img/destinations/beijing-chaoyang-district-guide/2.webp)
 
 The 798 Art District (798艺术区) was built as military electronics factory complex in the 1950s — the Bauhaus-influenced buildings were designed by East German architects. In the early 2000s, artists began moving in to use the cheap industrial space, and 798 became China's first contemporary art hub.
 
@@ -56,6 +56,8 @@ The 798 Art District (798艺术区) was built as military electronics factory co
 
 ## Panjiayuan Antique Market
 
+![Qingxiling, Beijing](/img/destinations/beijing-chaoyang-district-guide/3.webp)
+
 **Panjiayuan Flea Market** (潘家园旧货市场) is Beijing's most famous antiques and collectibles market — 4,000+ vendors spread across a permanent market complex selling everything from genuine Qing dynasty furniture to Cultural Revolution posters to Mao badges to contemporary reproductions.
 
 **Weekend mornings (Saturday/Sunday, 7am–6pm)** are the peak hours when the most vendors are active.
@@ -69,8 +71,6 @@ The 798 Art District (798艺术区) was built as military electronics factory co
 - Hand-crafted jewellery from ethnic minority artisans
 
 **Negotiation is expected.** Starting at 40–50% of the initial quoted price is reasonable. Very few items are genuinely antique — most are reproductions or "collectible" rather than museum-quality — but that's understood by both buyers and sellers.
-
-![Beijing Chaoyang District — Chaoyang Park](https://images.pexels.com/photos/26886992/pexels-photo-26886992.png?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Chaoyang Park
 

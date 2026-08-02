@@ -11,7 +11,7 @@ tags:
   - guangdong
   - south-china
 description: "The best day trips from Guangzhou — Foshan for kung fu and ceramics (40 mins by metro), Shenzhen for tech and modernity (1 hour by HSR), Zhaoqing's Seven Star Crags (1.5 hours), and the mountain village of Conghua for hot springs. Transport times, costs, and what's worth it."
-ogImage: "https://images.pexels.com/photos/1720029/pexels-photo-1720029.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guangzhou-day-trips-guide/cover.webp"
 ---
 
 Guangzhou sits at the center of one of China's most densely connected transportation networks. The Pearl River Delta links cities together so tightly that what counts as a "day trip" here includes destinations 200km away that are reachable faster than some cross-city commutes in other parts of the world. This guide covers the four best day trips from Guangzhou: each offering something genuinely different from the city itself.
@@ -20,7 +20,7 @@ Guangzhou sits at the center of one of China's most densely connected transporta
 
 ## Foshan: Kung Fu, Dragon Kilns & Traditional Guangdong
 
-![Trips from Guangzhou — Foshan: Kung Fu, Dragon Kilns & Traditional Guangdong](https://images.pexels.com/photos/29136533/pexels-photo-29136533.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Baomo Garden, Guangdong, Guangzhou](/img/destinations/guangzhou-day-trips-guide/1.webp)
 
 **Distance/Time:** 40-60 minutes by Guangzhou Metro Line 1 (interchange to Foshan Line 2 at Xilang Station). No need for trains — the metro goes direct.
 
@@ -60,9 +60,9 @@ Shenzhen (深圳) was a fishing village 40 years ago and is now China's technolo
 
 ---
 
-![Trips from Guangzhou — Zhaoqing: Seven Star Crags & Ancient City Walls](https://images.pexels.com/photos/36063984/pexels-photo-36063984.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Zhaoqing: Seven Star Crags & Ancient City Walls
+
+![Nanyueyuan Scenery, Guangdong, Guangzhou](/img/destinations/guangzhou-day-trips-guide/2.webp)
 
 **Distance/Time:** 1.5-2 hours by HSR from Guangzhou South Station (广州南) to Zhaoqing East Station. Trains every 30-60 minutes. Cost: ¥56-80.
 
@@ -82,6 +82,8 @@ Zhaoqing (肇庆) is the most undervisited of the Guangdong day trip options and
 
 ## Conghua: Hot Springs & Mountain Village Escape
 
+![Chenjiaci, Guangdong, Guangzhou](/img/destinations/guangzhou-day-trips-guide/3.webp)
+
 **Distance/Time:** 70km north of Guangzhou. Metro Line 14 (Guangzhou North) + Bus or taxi (total 1.5-2 hours). Alternatively, intercity train to Conghua Station (50 minutes, ¥20-30).
 
 Conghua (从化) is Guangzhou's weekend escape destination — a forested mountain area with **hot spring resorts**, hiking trails, and traditional Hakka villages. For city residents it's a recovery trip; for visitors it fills a gap in the Guangdong tourism circuit.
@@ -95,8 +97,6 @@ Conghua (从化) is Guangzhou's weekend escape destination — a forested mounta
 **Best for:** Relaxation, couples, families wanting a nature break from Guangzhou's urban intensity.
 
 ---
-
-![Trips from Guangzhou — Practical Comparison Table](https://images.pexels.com/photos/7947846/pexels-photo-7947846.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Practical Comparison Table
 

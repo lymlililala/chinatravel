@@ -12,7 +12,7 @@ tags:
   - shanghai
   - destinations
 description: "The most popular China itinerary for first-time visitors — Beijing, Xi'an, and Shanghai by high-speed rail. A day-by-day guide with realistic timings, transport details, accommodation recommendations, and tips for making the most of each city."
-ogImage: "https://images.pexels.com/photos/29204306/pexels-photo-29204306.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-10-day-golden-triangle-itinerary/cover.webp"
 ---
 
 The Beijing-Xi'an-Shanghai triangle is the most-visited itinerary in China for good reason: it covers China's imperial past (Beijing), ancient history (Xi'an), and modern present (Shanghai) in a compact route that's entirely manageable by high-speed rail. If you have 10–12 days and are visiting China for the first time, this is the itinerary.
@@ -20,6 +20,8 @@ The Beijing-Xi'an-Shanghai triangle is the most-visited itinerary in China for g
 ## Table of contents
 
 ## Why This Route Works
+
+![Datangfurong Garden, Xi'an](/img/toolkit/china-10-day-golden-triangle-itinerary/1.webp)
 
 **High-speed rail connects all three**: China's high-speed network puts Beijing-Xi'an at 4.5 hours, Xi'an-Shanghai at 6–7 hours, or Beijing-Shanghai directly at 4.5 hours. No domestic flights needed; the train journey itself is part of the experience.
 
@@ -131,6 +133,8 @@ Allow 3–4 hours at the site.
 ---
 
 ## Transport Summary
+
+![Yunju Temple Scenery, Shaanxi, Xi'an](/img/toolkit/china-10-day-golden-triangle-itinerary/2.webp)
 
 | Leg | Option | Time | Cost |
 |-----|--------|------|------|

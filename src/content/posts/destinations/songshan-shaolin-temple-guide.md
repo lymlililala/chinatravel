@@ -1,7 +1,7 @@
 ---
 title: "Shaolin Temple and Mount Song Travel Guide: Kung Fu, Buddhism and the Sacred Mountain"
 description: "Complete guide to visiting Shaolin Temple (少林寺) at Mount Song, Henan. Kung Fu performances, martial arts schools, hiking the mountain, overnight options and how to get there from Zhengzhou and Luoyang."
-ogImage: "https://images.pexels.com/photos/5342965/pexels-photo-5342965.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/songshan-shaolin-temple-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Shaolin Temple", "Kung Fu", "Henan", "Mount Song", "martial arts China", "Buddhist temple China", "少林寺"]
@@ -9,9 +9,9 @@ tags: ["Shaolin Temple", "Kung Fu", "Henan", "Mount Song", "martial arts China",
 
 Shaolin Temple (少林寺, Shàolín Sì), founded in 495 AD at the foot of Mount Song (嵩山) in Henan Province, is the most famous Buddhist monastery in China and arguably the most globally recognized symbol of Chinese martial arts. The story of its founding — by the Indian monk Bodhidharma (达摩, Dámó) who meditated facing a wall for nine years and then developed exercises that became the foundation of Chan (Zen) Buddhism and martial arts — is legend rather than documented history. But the Shaolin martial arts tradition that grew from this foundation is entirely real, and the temple remains an active monastic and martial arts center.
 
-![Shaolin Temple Mount Song — The Temple Complex](https://images.pexels.com/photos/31969428/pexels-photo-31969428.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Temple Complex
+
+![Guanlin Temple Scenery, Henan, Luoyang](/img/destinations/songshan-shaolin-temple-guide/1.webp)
 
 **Shanmen (山门, Mountain Gate)**: The main entrance gate, built in 1735. The calligraphed plaque above reads "少林寺" in the calligraphy of Emperor Kangxi.
 
@@ -29,9 +29,9 @@ Shaolin Temple (少林寺, Shàolín Sì), founded in 495 AD at the foot of Moun
 
 Just outside the main temple complex is the Pagoda Forest — a field of 248 stone stupas built between the 9th and 19th centuries. Each stupa marks the burial site of a past abbot or monk of great achievement. The size and ornamentation of each pagoda reflects the importance of the person it commemorates. It's one of the largest pagoda forests in China and profoundly atmospheric — the sound of the wind through the pagodas, surrounded by mountains, with monks occasionally visible moving between buildings.
 
-![Shaolin Temple Mount Song — Kung Fu Performances](https://images.pexels.com/photos/6724225/pexels-photo-6724225.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Kung Fu Performances
+
+![Daxiangguo Temple, Kaifeng](/img/destinations/songshan-shaolin-temple-guide/2.webp)
 
 The temple runs public demonstrations of kung fu forms twice daily at a performance hall inside the complex. Performance times vary by season; check the current schedule posted at the ticket office.
 
@@ -45,13 +45,13 @@ Quality varies by the group performing. The daily performances are done by train
 
 ## Martial Arts Schools
 
+![Xinyangjigong Mountain Scenery, Henan](/img/destinations/songshan-shaolin-temple-guide/3.webp)
+
 Outside the temple, the valley is lined with **dozens of martial arts schools** that teach Shaolin kung fu to thousands of students, mostly Chinese children aged 6–18. This has created an unusual landscape — walking toward the temple, you pass school after school with students drilling forms in courtyards.
 
 **As a tourist**: You can observe open practice sessions from the road. Most schools don't offer drop-in classes for tourists.
 
 **Long-term training**: A handful of schools offer foreigner-oriented training programs (1 week to 6 months). Research in advance if martial arts training is your primary reason for visiting. Conditions and quality vary enormously; reputable schools include Tagou Martial Arts School (塔沟武校) and Shaolin Tagou Wushu School.
-
-![Shaolin Temple Mount Song — Mount Song Hiking](https://images.pexels.com/photos/18974451/pexels-photo-18974451.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Mount Song Hiking
 

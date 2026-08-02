@@ -12,7 +12,7 @@ tags:
   - nature
   - north-china
 description: "Complete guide to climbing Mount Huashan (华山) near Xi'an — the famous plank walk on the South Peak, which trails to take for the best views, the cable car option, overnight sunrise hiking, safety realities, and what the tourist photos don't show."
-ogImage: "https://images.pexels.com/photos/32739905/pexels-photo-32739905.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/mount-huashan-dangerous-hike-guide/cover.webp"
 ---
 
 Mount Huashan (华山) has been called the most dangerous hiking trail in the world, and while that's an exaggeration promoted heavily by clickbait travel content, there's no question it's genuinely vertiginous. The mountain rises sharply from the Guanzhong Plain about 120km from Xi'an, and its five peaks are connected by routes that include sections of near-vertical cliff face, chains bolted into rock walls, and — the famous plank walk — a narrow wooden walkway clinging to a sheer cliff at 2,000 meters. Whether you find this thrilling or terrifying depends on your relationship with heights.
@@ -21,7 +21,7 @@ Mount Huashan (华山) has been called the most dangerous hiking trail in the wo
 
 ## Understanding Huashan's Layout
 
-![Mount Huashan Hiking — Understanding Huashan's Layout](https://images.pexels.com/photos/37817222/pexels-photo-37817222.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Taibai Mountain Scenery, Shaanxi, Baoji](/img/destinations/mount-huashan-dangerous-hike-guide/1.webp)
 
 Huashan has five main peaks:
 - **North Peak (Yunai Peak):** 1,614m — accessible by cable car from the east face
@@ -40,9 +40,9 @@ From Huashan North station, take a minibus (¥25) or taxi (¥40–60) to the sce
 
 Alternatively, regular trains from Xi'an to Huayin station (the older station) take about 2 hours for ¥12 — slower but cheaper.
 
-![Mount Huashan Hiking — Cable Car vs. Hiking Trail](https://images.pexels.com/photos/12649148/pexels-photo-12649148.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Cable Car vs. Hiking Trail
+
+![Li Mountain Scenery](/img/destinations/mount-huashan-dangerous-hike-guide/2.webp)
 
 There are two cable cars at Huashan:
 
@@ -56,6 +56,8 @@ There are two cable cars at Huashan:
 
 ## The Plank Walk (Changkong Cliff Path)
 
+![Qinlingguangtou Mountain Scenery, Xi'an](/img/destinations/mount-huashan-dangerous-hike-guide/3.webp)
+
 The Plank Walk is the attraction that put Huashan on the global viral map. It's located on the south face of South Peak: a series of narrow wooden planks bolted into a cliff face, extending about 30 meters horizontally at a point where the drop below is roughly 1,000 meters.
 
 **Cost:** ¥100 for harness rental (mandatory). You clip your harness carabiner to a rope that runs along the cliff. The carabiner doesn't auto-lock — you manually move it around anchor points as you go.
@@ -65,8 +67,6 @@ The Plank Walk is the attraction that put Huashan on the global viral map. It's 
 The bigger practical concern: **queue times**. On busy days (weekends, holidays, summer), the queue for the Plank Walk can reach 2–3 hours. If seeing the Plank Walk is your main goal, visit on a weekday.
 
 **Who shouldn't do it:** People with severe fear of heights, anyone with vertigo, people in flip-flops or inappropriate footwear (yes, people do this), and anyone feeling unwell.
-
-![Mount Huashan Hiking — Overnight Hiking for Sunrise](https://images.pexels.com/photos/10762580/pexels-photo-10762580.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Overnight Hiking for Sunrise
 

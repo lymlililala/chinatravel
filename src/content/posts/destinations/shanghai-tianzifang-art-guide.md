@@ -11,14 +11,14 @@ tags:
   - culture
   - french-concession
 description: "Tianzifang and the French Concession as a creative district — the shikumen art and craft lanes, the independent gallery circuit on Fuxing Road, the design shops, and how Shanghai's hybrid colonial-Chinese aesthetic plays out in its contemporary creative culture."
-ogImage: "https://images.pexels.com/photos/19907280/pexels-photo-19907280.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/shanghai-tianzifang-art-guide/cover.webp"
 ---
 
 Tianzifang (田子坊) is a labyrinth of lanes within a 1930s shikumen (石库门, stone gate house) residential block in the heart of Shanghai's French Concession — the most successful conversion of original Shanghai lane-house architecture into a creative and commercial district.
 
-![Shanghai Tianzifang & French Concession Art — Tianzifang: The Architecture](https://images.unsplash.com/photo-1595414440701-da000c40df9c?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw1fHxUaWFuemlmYW5nfGVufDB8MHx8fDE3ODE4NzI4MzJ8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
-
 ## Tianzifang: The Architecture
+
+![Shiji Park, Shanghai](/img/destinations/shanghai-tianzifang-art-guide/1.webp)
 
 Shikumen buildings are Shanghai's signature housing type — rows of 2-3 story lane houses with stone gate frames (the "stone gate" from which the name comes) arranged in a grid of interior alleyways (里弄, lǐlòng). Built from the 1850s to the 1940s, they combined Jiangnan architectural tradition with Western terraced-house planning and represent the most significant vernacular architecture type in modern Chinese urban history.
 
@@ -26,9 +26,9 @@ Tianzifang preserves approximately 200 such units in a block covering 7,000 sq m
 
 **What's in the lanes**: Independent art galleries, design studios, craft jewellery workshops, speciality coffee, authentic Cantonese tea shops, small restaurants, and souvenir shops of varying quality. The quality varies considerably — the lanes furthest from the main entrance gates have the better independent character.
 
-![Shanghai Tianzifang & French Concession Art — The French Concession Art Gallery Circuit](https://images.pexels.com/photos/27584011/pexels-photo-27584011.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The French Concession Art Gallery Circuit
+
+![Yuyuanchenghuang Temple, Shanghai](/img/destinations/shanghai-tianzifang-art-guide/2.webp)
 
 The French Concession's residential streets have the highest density of independent contemporary art galleries in Shanghai. No formal gallery district exists — they're scattered through the residential blocks, often with minimal signage.
 
@@ -40,9 +40,9 @@ The French Concession's residential streets have the highest density of independ
 
 **Power Station of Art (上海当代艺术博物馆)**: The former South Expo Power Station on the Huangpu River — Shanghai's official contemporary art museum, in a massive industrial space. Major international exhibitions, free on some days. Worth visiting for large-scale installation shows.
 
-![Shanghai Tianzifang & French Concession Art — Design Culture](https://images.pexels.com/photos/30548817/pexels-photo-30548817.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Design Culture
+
+![Dishini Architecture Scenery, Shanghai](/img/destinations/shanghai-tianzifang-art-guide/3.webp)
 
 Shanghai has China's strongest contemporary design culture — product design, furniture, graphic design, and fashion design firms are concentrated in the French Concession area.
 

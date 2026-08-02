@@ -11,7 +11,7 @@ tags:
   - hiking
   - culture
 description: "A 5-day Anhui itinerary combining Yellow Mountain's sea of clouds with the perfectly preserved Huizhou-style villages of Hongcun and Xidi (both UNESCO sites), the Wuyuan rapeseed fields if timing is right, and the Jiuhuashan Buddhist sacred mountain."
-ogImage: "https://images.pexels.com/photos/31582902/pexels-photo-31582902.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/anhui-huangshan-5-days-guide/cover.webp"
 ---
 
 Anhui province delivers a concentrated dose of what makes China so compelling to travel through. Within a 200km radius you'll find a mountain famous enough to inspire an entire school of classical painting, two villages so perfectly preserved they've barely changed in 400 years, a Buddhist mountain that draws millions of pilgrims a year, and rolling countryside that turns brilliant yellow every spring. This five-day circuit is genuinely one of the best regional itineraries in China.
@@ -20,7 +20,7 @@ Anhui province delivers a concentrated dose of what makes China so compelling to
 
 ## Day 1: Arrival & Tunxi Old Street
 
-![Huangshan & Anhui — Day 1: Arrival & Tunxi Old Street](https://images.pexels.com/photos/5516765/pexels-photo-5516765.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Tianzhu Mountain Scenery, Anhui](/img/destinations/anhui-huangshan-5-days-guide/1.webp)
 
 Most visitors fly into Huangshan Tunxi Airport or arrive by high-speed train at Huangshan North station. Both are close to Tunxi, the modern district that serves as the base for the region. Spend your first afternoon on Tunxi Old Street (屯溪老街), a kilometre of Ming and Qing dynasty merchant buildings that now house shops selling Anhui's famous four treasures of the study — Huizhou ink stones, ink sticks, paper, and brushes. The architecture here is a preview of the Huizhou style you'll see throughout the region: whitewashed walls, dark grey roof tiles curving up at the corners, and carved wooden doorframes.
 
@@ -36,9 +36,9 @@ Walk the path around South Lake first. The reflection of the whitewashed Huizhou
 
 The village charges ¥104 admission. Budget roughly half a day here.
 
-![Huangshan & Anhui — Day 3: Xidi Village & Yellow Mountain Base](https://images.pexels.com/photos/29612000/pexels-photo-29612000.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day 3: Xidi Village & Yellow Mountain Base
+
+![Jiuhua Mountain Scenery, Anhui](/img/destinations/anhui-huangshan-5-days-guide/2.webp)
 
 Xidi (西递) is 10km from Hongcun by taxi (¥30-40) and complements it well. Where Hongcun is known for its water system, Xidi is famous for its carved stone archways and exceptionally intact merchant mansions. The Hu Guansan Mansion is the most elaborate, with 36 rooms arranged around multiple courtyards, all decorated with carved wood, stone, and brick panels that depicted scenes of moral instruction for the family's children.
 
@@ -47,6 +47,8 @@ Admission is ¥104. Two hours is enough for a thorough visit.
 In the afternoon, transfer to the Huangshan Scenic Area (about 75 minutes). Check into one of the hotels at the mountain base rather than the summit — base hotels are significantly cheaper (¥300-600) and you can catch an early cable car in the morning.
 
 ## Day 4: Yellow Mountain (Huangshan)
+
+![Huangdi Ancient Village Luo Landscape, Shanxi, Anhui](/img/destinations/anhui-huangshan-5-days-guide/3.webp)
 
 The mountain is the centrepiece of the whole trip. Take the Yungu Cable Car from the eastern side — it runs from 6:30am and the queue builds fast. The cable car takes 8 minutes and delivers you to the White Goose Ridge area at 1,685m.
 
@@ -57,8 +59,6 @@ If you stayed on the mountain the night before (summit hotels start at ¥1,500 p
 The full circuit takes 6-8 hours of moderate hiking. Descend on the Western Steps (西海大峡谷) for more dramatic scenery, or take the Yuping Cable Car down if your legs are finished.
 
 **Entrance fee:** ¥190. Cable cars cost ¥80-100 each way.
-
-![Huangshan & Anhui — Day 5: Jiuhuashan or Wuyuan](https://images.pexels.com/photos/29612001/pexels-photo-29612001.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day 5: Jiuhuashan or Wuyuan
 

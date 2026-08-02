@@ -1,7 +1,7 @@
 ---
 title: "Jiuzhaigou and Huanglong Combined: The Ultimate Sichuan High-Altitude Tour"
 description: "Complete guide to visiting both Jiuzhaigou Valley and Huanglong Scenic Area in one trip. Combining routes, best season, altitude tips, transport between the two sites and 5-day itinerary."
-ogImage: "https://images.pexels.com/photos/34619129/pexels-photo-34619129.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/jiuzhaigou-huanglong-combined-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Jiuzhaigou", "Huanglong", "Sichuan", "China UNESCO sites", "altitude travel", "turquoise lakes", "九寨沟"]
@@ -9,9 +9,9 @@ tags: ["Jiuzhaigou", "Huanglong", "Sichuan", "China UNESCO sites", "altitude tra
 
 Jiuzhaigou Valley (九寨沟) and Huanglong Scenic Area (黄龙景区) are two UNESCO World Heritage Sites in northern Sichuan that sit 85 km apart at altitudes of 2,000–3,400m in the Minshan mountains. Both are famous for their extraordinary colored lakes — caused by calcium carbonate deposits from the limestone geology tinting the water vivid blues, greens and turquoises. Combining both in a single trip (typically 4–6 days) is the standard approach for serious visitors.
 
-![Jiuzhaigou Huanglong Combined — Jiuzhaigou vs Huanglong: What's Different](https://images.pexels.com/photos/31654294/pexels-photo-31654294.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Jiuzhaigou vs Huanglong: What's Different
+
+![Tianfuguosheyingyi, Sichuan, Chengdu](/img/destinations/jiuzhaigou-huanglong-combined-guide/1.webp)
 
 **Jiuzhaigou**: A valley system with 114 lakes connected by waterfalls and rivers, surrounded by forested peaks with autumn foliage in October. The valley floor contains Ti and Tibetan minority villages. More accessible, more famous, larger visitor numbers.
 
@@ -41,8 +41,6 @@ Total walking: 10–15 km. Full day.
 
 ---
 
-![Jiuzhaigou Huanglong Combined — Altitude and Health](https://images.pexels.com/photos/27631664/pexels-photo-27631664.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Altitude and Health
 
 Both sites involve significant altitude:
@@ -62,6 +60,8 @@ Both sites involve significant altitude:
 
 ## Best Season
 
+![Tianfuguosheyinger, Sichuan, Chengdu](/img/destinations/jiuzhaigou-huanglong-combined-guide/2.webp)
+
 **Autumn (late September – early November)**: The universally recommended best season. At Jiuzhaigou, the deciduous trees turn red, gold and orange — the colored foliage reflects in the colored lake water creating the most spectacular combination of autumn colors over turquoise water. The light is clearest of the year. October is very crowded (National Golden Week); late September and early November are better.
 
 **Winter (December–February)**: Jiuzhaigou partially closes for ice conservation; check current policy. Huanglong is accessible but some areas ice over. The frozen waterfalls have their own character. Very few visitors.
@@ -70,9 +70,9 @@ Both sites involve significant altitude:
 
 **Summer (June–August)**: The most crowded season; children on school holidays; the mountains are green but the colored lakes are slightly less brilliant than in autumn.
 
-![Jiuzhaigou Huanglong Combined — Booking](https://images.pexels.com/photos/31654292/pexels-photo-31654292.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Booking
+
+![Lugu Lake Ligeban Island Scenery, Sichuan](/img/destinations/jiuzhaigou-huanglong-combined-guide/3.webp)
 
 **Advance reservation essential**: Both sites require online ticket purchase through China's national scenic spot reservation system. Maximum daily visitor quotas mean tickets sell out weeks in advance for peak autumn dates. Book at minimum 30 days ahead; 60 days for October.
 

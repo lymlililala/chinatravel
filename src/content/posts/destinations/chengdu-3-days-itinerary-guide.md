@@ -11,7 +11,7 @@ tags:
   - beginners
   - sichuan
 description: "A 3-day Chengdu itinerary — morning at the Giant Panda Base, afternoon at the Jinli Ancient Street, a day trip to Leshan Giant Buddha, and how to eat Sichuan food without burning your mouth off. Practical metro and transport info included."
-ogImage: "https://images.pexels.com/photos/18505677/pexels-photo-18505677.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/chengdu-3-days-itinerary-guide/cover.webp"
 ---
 
 Chengdu has figured out how to be a world-class tourism destination while remaining genuinely livable. It's relaxed in a way that Beijing isn't, with an eating and drinking culture that prioritizes pleasure — long lunches, mahjong in teahouses, and hotpot dinners that last three hours. Yes, you're here partly to see the pandas. But stay a bit longer and you'll understand why Chengdu consistently ranks as the city Chinese people most want to move to.
@@ -22,7 +22,7 @@ This itinerary covers the pandas, a day trip to the Leshan Giant Buddha, and eno
 
 ## Before You Arrive
 
-![Chengdu — Before You Arrive](https://images.pexels.com/photos/3945233/pexels-photo-3945233.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Tianfuguosheyinger, Sichuan, Chengdu](/img/destinations/chengdu-3-days-itinerary-guide/1.webp)
 
 **Getting there:** Chengdu Tianfu International Airport (TFU) opened in 2021 and handles most long-haul routes. The older Shuangliu Airport (CTU) still handles domestic and some international flights. Both connect to the metro: Line 6 from Tianfu Airport, Line 10 from Shuangliu. Journey to city center is 40-60 minutes, ¥7-10.
 
@@ -34,9 +34,9 @@ This itinerary covers the pandas, a day trip to the Leshan Giant Buddha, and eno
 
 ---
 
-![Chengdu — Day 1: Giant Panda Base & Jinli Ancient Street](https://images.pexels.com/photos/31639676/pexels-photo-31639676.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day 1: Giant Panda Base & Jinli Ancient Street
+
+![Lugu Lake Ligeban Island Scenery, Sichuan](/img/destinations/chengdu-3-days-itinerary-guide/2.webp)
 
 ### Early Morning: Giant Panda Breeding Research Base
 
@@ -68,8 +68,6 @@ Key order items: thin-sliced beef (肥牛), tripe (毛肚), lotus root (莲藕),
 
 ---
 
-![Chengdu — Day 2: Leshan Giant Buddha Day Trip](https://images.pexels.com/photos/879359/pexels-photo-879359.png?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day 2: Leshan Giant Buddha Day Trip
 
 ### Full Day: Leshan
@@ -89,6 +87,8 @@ Back in Chengdu by 5-6pm. For dinner tonight, try **Mapo Tofu** at Chen Mapo Dou
 ---
 
 ## Day 3: People's Park, Kuanzhai Alley & Local Chengdu
+
+![Shunanzhuhai Landscape](/img/destinations/chengdu-3-days-itinerary-guide/3.webp)
 
 ### Morning: People's Park & Traditional Tea
 

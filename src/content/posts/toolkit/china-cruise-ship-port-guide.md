@@ -10,6 +10,7 @@ faq:
   - question: "What is Qingdao known for as a cruise stop?"
     answer: "Qingdao is famous for its German colonial architecture, seaside promenade and beer culture centred on the historic Tsingtao brewery. The old town and beaches are close to the port, making it an easy and pleasant day ashore."
 description: "Navigate China's cruise ports as a ship passenger — getting the most out of a day in Shanghai (cruise terminal to Bund and back), Tianjin's position as the gateway to Beijing (3 hours each way), Qingdao's European colonial architecture and German beer culture, and the practical port-to-city logistics for China's busiest cruise destinations."
+ogImage: "/img/toolkit/china-cruise-ship-port-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "cruise", "shanghai-cruise", "tianjin-cruise", "qingdao", "port-guide", "day-trip", "shore-excursion"]
@@ -22,6 +23,8 @@ Cruise ships call at several Chinese ports, each requiring different logistics t
 ---
 
 ## Shanghai (Wusongkou International Cruise Terminal)
+
+![Ancient Town Aerial View, Lijiang](/img/toolkit/china-cruise-ship-port-guide/1.webp)
 
 **Port location:** Wusongkou terminal is approximately 30 km north of the Bund — in traffic, this can be 45–90 minutes each way.
 
@@ -75,6 +78,8 @@ Cruise ships call at several Chinese ports, each requiring different logistics t
 ---
 
 ## Hong Kong (Kai Tak Cruise Terminal / Ocean Terminal)
+
+![Lvyou Scenery, Lijiang](/img/toolkit/china-cruise-ship-port-guide/2.webp)
 
 **Position:** Hong Kong is increasingly included in Asia cruise itineraries as the regional hub.
 

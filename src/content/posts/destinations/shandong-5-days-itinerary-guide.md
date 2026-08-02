@@ -11,7 +11,7 @@ tags:
   - east-china
   - culture
 description: "A 5-day Shandong itinerary — climbing Mount Tai (Taishan) at sunrise, the beer and beach culture of Qingdao, Confucius' birthplace at Qufu (the Three Kongs: Mansion, Temple, Cemetery), and the spring-fed pools of Jinan. Train connections and practical booking info."
-ogImage: "https://images.unsplash.com/photo-1680405698748-48ba8eed5eaa?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwyfHxTaGFuZG9uZ3xlbnwwfDB8fHwxNzgxODY4OTA2fDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
+ogImage: "/img/destinations/shandong-5-days-itinerary-guide/cover.webp"
 ---
 
 Shandong is one of China's cultural heartlands — the birthplace of Confucius and Mencius, the location of one of the five sacred mountains, and the province whose overseas diaspora gave the world kung pao chicken and Tsingtao beer. It's also one of the most accessible provinces for first-time China visitors: good infrastructure, relatively English-friendly in Qingdao, and easy HSR connections from Beijing (1.5 hours) and Shanghai (1.5 hours).
@@ -22,7 +22,7 @@ Five days covers the four main destinations: Jinan, Taishan, Qufu, and Qingdao.
 
 ## Getting There & Around
 
-![Shandong — Getting There & Around](https://images.unsplash.com/photo-1646912951442-7a2bc5e8cd06?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw1fHwlMjYlMjBBcm91bmR8ZW58MHwwfHx8MTc4MTgzOTI0OXww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
+![Kong Temple, Qufu](/img/destinations/shandong-5-days-itinerary-guide/1.webp)
 
 **Entry points:** 
 - Jinan Yaoqiang Airport (TNA) for the western circuit
@@ -66,9 +66,9 @@ Shandong cuisine (鲁菜, Lu Cai) is one of China's eight major regional cuisine
 
 ---
 
-![Shandong — Day 2: Taishan (Mount Tai)](https://images.unsplash.com/photo-1586223754361-710ed15b3570?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxUYWlzaGFufGVufDB8MHx8fDE3ODE4NDMxMzl8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
-
 ## Day 2: Taishan (Mount Tai)
+
+![Konglin, Qufu](/img/destinations/shandong-5-days-itinerary-guide/2.webp)
 
 **Journey:** HSR Jinan → Tai'an, 30 minutes, ¥35-50. Then taxi or bus from the station to the mountain entrance (¥15-20 taxi).
 
@@ -96,6 +96,8 @@ On descent, the **Zhongtianmen** (Middle Heavenly Gate) cable car station is the
 
 ## Day 3: Qufu — Confucius' Hometown
 
+![Yan Temple Scenery, Shandong, Qufu](/img/destinations/shandong-5-days-itinerary-guide/3.webp)
+
 **Journey:** HSR Tai'an → Qufu East, 30 minutes, ¥35.
 
 **Qufu** (曲阜) is the birthplace of Confucius (551 BCE) and has been a pilgrimage site for Chinese scholars, officials, and emperors for 2,500 years. The three main sites — the Mansion, Temple, and Cemetery of the Kong family — are collectively known as the **Three Kongs** (三孔) and are UNESCO World Heritage Sites.
@@ -117,8 +119,6 @@ The **Apricot Altar** (杏坛) within the temple grounds is where Confucius taug
 **Take a rickshaw** from the city center to the cemetery and back (¥15-30 per person each way) — they're lined up outside the main gate.
 
 ---
-
-![Shandong — Days 4-5: Qingdao — Beer, Beaches & German Colony](https://images.unsplash.com/photo-1664669174411-0c168466be8c?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwzfHxTaGFuZG9uZ3xlbnwwfDB8fHwxNzgxODY4OTA2fDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## Days 4-5: Qingdao — Beer, Beaches & German Colony
 

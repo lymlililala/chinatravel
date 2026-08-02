@@ -10,7 +10,7 @@ tags:
   - transport
   - toolkit
 description: "A city-by-city guide to metro systems in Guangzhou, Shenzhen, Chengdu, Xi'an, Hangzhou, Nanjing, and Wuhan — which lines serve tourist attractions, how to pay, and local tips for each city's subway."
-ogImage: "https://images.unsplash.com/photo-1555400038-63f5ba517a47?w=900&q=80"
+ogImage: "/img/toolkit/china-metro-city-guide/cover.webp"
 ---
 
 Beyond Beijing and Shanghai, China has some of the world's most modern and extensive metro systems. Understanding the specific quirks of each city's network before you arrive makes the difference between confident and efficient travel. This guide covers the major tourist-city metro systems you'll most likely use.
@@ -18,6 +18,8 @@ Beyond Beijing and Shanghai, China has some of the world's most modern and exten
 ## Table of contents
 
 ## Guangzhou Metro
+
+![Forbidden City, Shenyang](/img/toolkit/china-metro-city-guide/1.webp)
 
 Guangzhou's metro (广州地铁) covers 14 lines and over 300 stations, serving the entire Pearl River Delta metropolitan area.
 
@@ -120,6 +122,8 @@ All four gates of the city wall are within walking distance of Line 2 stations:
 ---
 
 ## Hangzhou Metro
+
+![Lvshun West Lake Zui Scenery, Liaoning](/img/toolkit/china-metro-city-guide/2.webp)
 
 Hangzhou metro (杭州地铁) has expanded significantly, now with 12+ lines.
 

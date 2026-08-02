@@ -11,7 +11,7 @@ tags:
   - nature
   - outdoor
 description: "Cycling around Qinghai Lake (青海湖) — the 360km circumnavigation route that the Tour of Qinghai Lake professional race uses every July, the 2-3 day stages for independent cyclists, which sections are paved, the altitude (3,200m — acclimate first), the best months (June-September), and renting bikes in Xining vs bringing your own."
-ogImage: "https://images.pexels.com/photos/5176496/pexels-photo-5176496.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/qinghai-lake-cycling-guide/cover.webp"
 ---
 
 Qinghai Lake (青海湖) is China's largest inland lake — a high-altitude saltwater sea on the Tibetan Plateau at 3,196 metres above sea level, 105km long, 63km wide, and an extraordinary shade of deep blue that intensifies as you go further from the developed eastern shoreline. The circumnavigation route around the lake is approximately 360km, follows the route of the professional Tour of Qinghai Lake race, and is one of the finest multi-day cycling routes in China.
@@ -22,7 +22,7 @@ You don't need to be a competitive cyclist to do this. You need to be reasonably
 
 ## Why Cycle Qinghai Lake
 
-![Qinghai Lake Cycling — Why Cycle Qinghai Lake](https://images.pexels.com/photos/34630868/pexels-photo-34630868.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Chakayan Lake Scenery, Qinghai](/img/destinations/qinghai-lake-cycling-guide/1.webp)
 
 The appeal is threefold. First, the landscape: the combination of the blue lake, the snow-capped Qilian Mountains to the north, and the open grassland plateau is genuinely magnificent — the kind of scenery that makes you feel like you're cycling through a screensaver rather than reality.
 
@@ -40,9 +40,9 @@ At 3,196m, Qinghai Lake is high enough that altitude affects cycling performance
 
 **Food and water intake**: At altitude, you need more carbohydrates than you think and more water than you think. Carry energy bars or dried fruit for between villages, and aim for 3 litres of water per day.
 
-![Qinghai Lake Cycling — Route Stages for Independent Cyclists](https://images.pexels.com/photos/868495/pexels-photo-868495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Route Stages for Independent Cyclists
+
+![Kekexili Scenery, Qinghai](/img/destinations/qinghai-lake-cycling-guide/2.webp)
 
 The standard approach divides the 360km circuit into 3 main stages from the eastern entry point at Heimahe Village on the southern shore, moving clockwise (north then west then south and back east).
 
@@ -54,6 +54,8 @@ The standard approach divides the 360km circuit into 3 main stages from the east
 
 ## Bike Options: Rent in Xining or Bring Your Own
 
+![Singing Sand Dunes Scenery, Dunhuang](/img/destinations/qinghai-lake-cycling-guide/3.webp)
+
 **Renting in Xining**: Several bike rental shops in Xining near the main backpacker hostels rent touring and hybrid bikes specifically for the Qinghai Lake circuit. Rental rates: ¥80–¥150 per day for a decent touring bike with helmet, rear rack, and basic tools included. Deposit required (usually ¥500–¥1,000). The rental quality varies — inspect the bike carefully, especially brakes, gears, and tyres, before accepting.
 
 Recommended rental areas: the Youth Hostel district near Xining West Train Station has multiple operators who know the route and can advise on current road conditions.
@@ -61,8 +63,6 @@ Recommended rental areas: the Youth Hostel district near Xining West Train Stati
 **Bringing your own**: A good option if you have a folding bike or are arriving by train (fold-and-carry bags work well on Chinese trains). You know your own bike's performance and have already fitted it to your needs. The downside is managing transport on the Xining-lake section at the start and returning at the end.
 
 **What type of bike**: A touring bike or sturdy hybrid is ideal. Road bikes work on the main circuit road but are uncomfortable on the gravel sections near the lake shoreline. A mountain bike is fine but slower. Avoid city bikes and cheap rentals with poor components.
-
-![Qinghai Lake Cycling — Best Months and Weather](https://images.pexels.com/photos/17992867/pexels-photo-17992867.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Best Months and Weather
 

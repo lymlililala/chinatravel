@@ -11,7 +11,7 @@ tags:
   - culture
   - urban
 description: "China's contemporary art scene — Beijing's 798 Art District (a genuine world-class art district), Shanghai's M50 and the new Power Station of Art, Chengdu's Chengdu Contemporary Art Center, the West Bund cultural corridor in Shanghai, and the Chinese artists whose work is shaping global contemporary art. How to access galleries and what admission costs."
-ogImage: "https://images.pexels.com/photos/29191587/pexels-photo-29191587.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-art-culture-guide/cover.webp"
 ---
 
 The popular image of China as a cultural monolith is completely at odds with the reality. China has one of the world's most dynamic contemporary art scenes, driven by a generation of artists grappling with urbanisation, tradition, censorship, and global connectivity in ways that produce genuinely original work. The gallery districts in Beijing and Shanghai are legitimate world-class destinations for anyone who cares about contemporary art.
@@ -19,6 +19,8 @@ The popular image of China as a cultural monolith is completely at odds with the
 ## Table of contents
 
 ## Beijing's 798 Art District
+
+![Simatai Great Wall, Beijing](/img/toolkit/china-art-culture-guide/1.webp)
 
 **798 Art District (798艺术区)** in northeast Beijing occupies a cluster of Bauhaus-style factory buildings originally constructed by East German engineers in the 1950s. In the early 2000s, artists moved in for the cheap industrial studio space; by 2010, it had become one of Asia's most significant contemporary art destinations. It remains that now, though the galleries have become more commercial and the real avant-garde has moved further east to Caochangdi and Songzhuang.
 
@@ -77,6 +79,8 @@ Chengdu has developed rapidly as a creative centre, driven partly by its tech se
 - **Anren Minsheng Museum (安仁民生现代美术馆):** About 40km from Chengdu in the Anren museum town — an extraordinary experiment in rural cultural tourism with multiple art and history museums; entry to the complex ¥80-150
 
 ## Key Chinese Artists to Know
+
+![Shanhaiguan Great Wall, Beijing](/img/toolkit/china-art-culture-guide/2.webp)
 
 Understanding a few names before visiting helps contextualize what you see:
 

@@ -12,7 +12,7 @@ tags:
   - minority-cultures
   - photography
 description: "The Longji (Dragon's Backbone) Rice Terraces in Guangxi — the two main viewing areas (Ping'an Village for sunrise over the Zhuang terraces, Dazhai for the steeper Yao minority terraces), the best seasons (May for emerald green, October for golden harvest), and the homestay culture in the minority villages perched above the terraces."
-ogImage: "https://images.pexels.com/photos/2362085/pexels-photo-2362085.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/longji-rice-terraces-guide/cover.webp"
 ---
 
 The Longji Rice Terraces (龙脊梯田) are among the most dramatic agricultural landscapes in China. Built by Zhuang and Yao minority communities over 650 years, the terraces climb from 300 metres elevation to over 1,100 metres, covering the mountain slopes in an unbroken sequence of curved fields that follow the natural contours of the terrain. The Chinese name — Dragon's Backbone — describes the visual effect perfectly: the ridgelines look like the scales of a vast dragon lying dormant beneath the fields.
@@ -21,7 +21,7 @@ The Longji Rice Terraces (龙脊梯田) are among the most dramatic agricultural
 
 ## Two Terraces, Two Experiences
 
-![Longji Rice Terraces — Two Terraces, Two Experiences](https://images.pexels.com/photos/14828733/pexels-photo-14828733.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Longji Rice Terraces Pinganzhai](/img/destinations/longji-rice-terraces-guide/1.webp)
 
 The Longji area divides into two main terrace systems, each associated with a different ethnic minority group and served by different gateway villages.
 
@@ -43,9 +43,9 @@ The terraces transform completely with the seasons, and the timing of your visit
 
 **December-February (Winter):** When snow falls on the terraces, usually December through February in heavy years, the result is extraordinary — the curved white terraces against the grey-brown mountain background. But transport to the area becomes difficult and homestays may not be heated adequately.
 
-![Longji Rice Terraces — Staying in the Villages](https://images.pexels.com/photos/33539411/pexels-photo-33539411.png?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Staying in the Villages
+
+![Xingping, Guangxi, Yangshuo](/img/destinations/longji-rice-terraces-guide/2.webp)
 
 The homestay culture of the Longji villages is one of the area's greatest appeals. Rooms in family-run guesthouses in Ping'an and Dazhai range from ¥80-200 per night for a basic room with private bathroom, and the family cooking — rice cooked in bamboo tubes, stir-fried mountain vegetables, pork with bamboo shoots — is often the highlight of the trip.
 
@@ -55,11 +55,11 @@ For Dazhai, the Lilang Guesthouse and several unnamed family operations near the
 
 ## Minority Culture
 
+![Detianda Waterfall Scenery, Guangxi](/img/destinations/longji-rice-terraces-guide/3.webp)
+
 The Zhuang and Yao peoples have maintained distinct cultural traditions on these terraces for centuries. The Zhuang are the largest ethnic minority in China (about 18 million people) and their culture is woven into the daily life of Ping'an village — the wooden architecture, the cotton textiles in blue and white, the New Year festivals.
 
 The Yao of Dazhai are a smaller group with more visible distinctiveness. Beyond the famous long hair, Yao women wear elaborately embroidered clothing in daily life, not as a tourist performance. The evening hair-washing demonstration that many guesthouses arrange (¥30-50 per person) is touristic in format but gives genuine context for a practice that Yao women consider central to their identity.
-
-![Longji Rice Terraces — Getting There from Guilin](https://images.pexels.com/photos/36535024/pexels-photo-36535024.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting There from Guilin
 

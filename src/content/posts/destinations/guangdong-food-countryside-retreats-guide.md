@@ -11,7 +11,7 @@ tags:
   - "day-trip"
   - "south-china"
 description: "Explore Shunde's culinary secrets, glamping near Guangzhou, and the best of Guangdong's countryside. From rustic eateries to luxury tents, discover authentic"
-ogImage: "https://images.pexels.com/photos/9822528/pexels-photo-9822528.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guangdong-food-countryside-retreats-guide/cover.webp"
 faq:
   - question: "Is it easy to find English menus in Kaiping?"
     answer: "Most small eateries have Chinese-only menus. Use a translation app like Google Translate or Pleco, or point at photos. In tourist spots like Xinghua, some staff may understand basic English."
@@ -35,9 +35,9 @@ Guangdong is often synonymous with dim sum and Cantonese banquets, but beyond th
 
 ## Why Kaiping? The Undiscovered Food Haven
 
-Kaiping is part of the **Wuyi (五邑, Wǔyì)** region, which includes Xinhui, Taishan, Kaiping, Enping, and Heshan. This area is known for its unique **Wuyi cuisine**, a rustic, ingredient-driven style that prioritizes freshness and tradition. Unlike the polished dishes of urban Cantonese restaurants, Wuyi food is honest and bold—think hand-pounded fish balls, charcoal-cooked congee, and the legendary **eel rice (黄鳝饭, huángshàn fàn)**. Kaiping is also famous for its **Magang goose (马冈鹅, Mǎgāng é)**, one of China's four great goose breeds, and its rich culinary heritage shaped by the overseas Chinese (侨乡, qiáoxiāng) who returned home with new tastes and habits.
+![Baomo Garden, Guangdong, Guangzhou](/img/destinations/guangdong-food-countryside-retreats-guide/1.webp)
 
-![A rustic charcoal stove cooking congee at a street-side stall in Kaiping](https://images.pexels.com/photos/6952418/pexels-photo-6952418.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+Kaiping is part of the **Wuyi (五邑, Wǔyì)** region, which includes Xinhui, Taishan, Kaiping, Enping, and Heshan. This area is known for its unique **Wuyi cuisine**, a rustic, ingredient-driven style that prioritizes freshness and tradition. Unlike the polished dishes of urban Cantonese restaurants, Wuyi food is honest and bold—think hand-pounded fish balls, charcoal-cooked congee, and the legendary **eel rice (黄鳝饭, huángshàn fàn)**. Kaiping is also famous for its **Magang goose (马冈鹅, Mǎgāng é)**, one of China's four great goose breeds, and its rich culinary heritage shaped by the overseas Chinese (侨乡, qiáoxiāng) who returned home with new tastes and habits.
 
 ## Top Food Experiences in Kaiping
 
@@ -48,8 +48,6 @@ Start your day at **Hongxing Lingyu Wan Chaihuo Zhou (宏兴鲮鱼丸柴火粥)*
 ### 2. The "3:15 PM" Afternoon Tea Tradition
 
 Kaiping's overseas Chinese legacy is alive in the **"Three Three" (三点三, sān diǎn sān)** afternoon tea custom. Every day at 3:15 PM, locals flock to **Yueshan (月山, Yuèshān)** street for snacks and free-flow tea. Try **salted chicken basket (咸鸡笼, xián jī lóng)** and **pulut cake (砵仔糕, bō zǎi gāo)**. The highlight is **beef offal (牛杂, niú zá)** from **Yueshan Zhenxing (月山振兴三点三牛杂店)**—simple poached beef face and skin, served with soy sauce and chili. The **beef bone marrow** is a must: use a straw to suck out the rich, unctuous marrow, then balance it with pickled radish or soup. A plate of offal costs about ¥10-20.
-
-![A plate of freshly made beef offal and bone marrow at a Kaiping afternoon tea stall](https://images.pexels.com/photos/9822528/pexels-photo-9822528.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### 3. The Iconic Eel Rice
 
@@ -73,8 +71,6 @@ Kaiping is also home to **UNESCO World Heritage diaolou (碉楼, diāolóu)**—
 
 If you crave nature without sacrificing comfort, **Shanyé (善野·山丘野奢度假酒店)** in **Mazeng Village (麻冚村, Mákǎn Cūn)** , Conghua, is a 90-minute drive from Guangzhou. This "wild luxury" resort sits on a hillside with terraced fields, streams, and 20 tents and cabins. It's designed by Hansom Burn (汉森伯盛), winner of Guangdong's top rural revitalization award, but the real charm is its respect for the land: rough edges remain, giving it an authentic, un-Instagrammed feel.
 
-![A luxury tent cabin overlooking terraced fields and a stream at Shanyé glamping resort](https://images.pexels.com/photos/7163636/pexels-photo-7163636.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ### What Makes It Special
 
 - **Family- and pet-friendly**: Kids can play in the petting zoo and game room; dogs have acres of grass to run. Four butlers serve just 20 rooms—call for a golf cart to pick up tired little ones or furry friends.
@@ -89,6 +85,8 @@ If you crave nature without sacrificing comfort, **Shanyé (善野·山丘野奢
 - **What to bring**: Insect repellent, swimwear (there's a pool), and a good book. The resort provides most amenities.
 
 ## Best Time to Visit Guangdong's Countryside
+
+![Nanyueyuan Scenery, Guangdong, Guangzhou](/img/destinations/guangdong-food-countryside-retreats-guide/2.webp)
 
 The ideal time is **October to December** and **March to May**, when temperatures are mild (15-25°C) and rainfall is low. Summer (June-September) is hot, humid, and prone to typhoons, though it's still possible with proper planning. Winter (January-February) is cool and dry, perfect for hiking and hotpot.
 
@@ -105,6 +103,8 @@ The ideal time is **October to December** and **March to May**, when temperature
 - **Shanyé**: The resort itself is the accommodation. Book well in advance, especially on weekends.
 
 ## Food & Etiquette Tips
+
+![Chenjiaci, Guangdong, Guangzhou](/img/destinations/guangdong-food-countryside-retreats-guide/3.webp)
 
 - **Tipping**: Not customary in China. Service charges are included.
 - **Sharing dishes**: Chinese meals are served family-style. Order 1-2 dishes per person plus rice.

@@ -12,7 +12,7 @@ tags:
   - nature
   - culture
 description: "Guizhou Province is China's best-kept secret — dramatic karst waterfalls, the most intact ethnic minority villages in China, ancient wooden forts, and the world's largest single-dish radio telescope hidden in a mountain valley."
-ogImage: "https://images.unsplash.com/photo-1518623489648-a173ef7824f3?w=1200&q=85"
+ogImage: "/img/destinations/guizhou-miao-village-karst-guide/cover.webp"
 ---
 
 Guizhou (贵州) is the province that China forgot to develop — rugged mountain terrain that resisted both agricultural expansion and industrial connectivity preserved a landscape of extraordinary natural beauty and some of China's most authentic ethnic minority cultures.
@@ -21,7 +21,7 @@ Guizhou (贵州) is the province that China forgot to develop — rugged mountai
 
 ## Qiandongnan — Heart of Miao Country
 
-![Guizhou — Qiandongnan — Heart of Miao Country](https://images.pexels.com/photos/11111070/pexels-photo-11111070.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Dong Village Gulou](/img/destinations/guizhou-miao-village-karst-guide/1.webp)
 
 Qiandongnan Miao and Dong Autonomous Prefecture (黔东南苗族侗族自治州) is home to 30+ ethnic minority groups in one of China's most culturally rich regions.
 
@@ -47,6 +47,8 @@ The Dong people (侗族) are famous for their extraordinary communal architectur
 
 ## Huangguoshu Waterfalls (黄果树瀑布)
 
+![Qiandongnanli Dong Village Scenery, Guizhou](/img/destinations/guizhou-miao-village-karst-guide/2.webp)
+
 Asia's largest waterfall — 78 metres high, 101 metres wide. The falls are unique in that a natural cave behind the curtain of water allows you to walk directly behind the main cascade (a thunderous, soaking experience). During peak flow (July–September), the falls are spectacular.
 
 **Entry:** ¥180 including shuttle buses in the scenic area  
@@ -58,8 +60,6 @@ An underground river system near Huangguoshu — boat through limestone caverns 
 
 ---
 
-![Guizhou — FAST Telescope (贵州500米口径球面射电望远镜)](https://images.pexels.com/photos/8465818/pexels-photo-8465818.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## FAST Telescope (贵州500米口径球面射电望远镜)
 
 The world's largest single-dish radio telescope — a 500-metre diameter dish built into a natural karst depression in a remote Guizhou valley. Operational since 2016, it has detected multiple fast radio bursts and dozens of new pulsars.
@@ -69,6 +69,8 @@ The world's largest single-dish radio telescope — a 500-metre diameter dish bu
 ---
 
 ## Guiyang (贵阳)
+
+![Zhaoxing Dong Village Scenery, Guizhou](/img/destinations/guizhou-miao-village-karst-guide/3.webp)
 
 The provincial capital is a functional but not spectacular city — use it as a transport hub. The **Qingyan Ancient Town (青岩古镇)** 30km south is genuinely well-preserved with Ming and Qing fortification walls, temples, and the unusual **Qingyan bacon tofu (玫瑰糖)**.
 

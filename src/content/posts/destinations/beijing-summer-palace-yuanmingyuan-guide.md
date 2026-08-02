@@ -11,14 +11,14 @@ tags:
   - gardens
   - culture
 description: "The Summer Palace and the Old Summer Palace (Yuanmingyuan) — Beijing's two great imperial garden complexes. How they differ, the specific sites in each, the historical story of the 1860 destruction, and how to combine both in one Beijing day."
-ogImage: "https://images.pexels.com/photos/20224297/pexels-photo-20224297.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/beijing-summer-palace-yuanmingyuan-guide/cover.webp"
 ---
 
 Beijing has two extraordinary imperial garden complexes 2km apart in the northwestern suburbs — the Summer Palace (颐和园) and the Old Summer Palace / Yuanmingyuan (圆明园). They represent China's imperial garden tradition at its most ambitious, and the gap between them encapsulates one of the most significant events in Chinese history.
 
-![Summer Palace & Old Summer Palace — The Summer Palace (颐和园)](https://images.pexels.com/photos/2845940/pexels-photo-2845940.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Summer Palace (颐和园)
+
+![Old Summer Palace Fuhai Scenery, Beijing](/img/destinations/beijing-summer-palace-yuanmingyuan-guide/1.webp)
 
 The Summer Palace is the largest and best-preserved classical Chinese imperial garden — 290 hectares of forested hills, a 220-hectare artificial lake (Kunming Lake), marble bridges, covered walkways, temples, and pavilions created primarily under Emperor Qianlong in the 18th century and rebuilt by Empress Dowager Cixi in the 1880s.
 
@@ -40,9 +40,9 @@ The Summer Palace is the largest and best-preserved classical Chinese imperial g
 
 **Getting there**: Metro Line 4, Xiyuan or Beigongmen stations.
 
-![Summer Palace & Old Summer Palace — The Old Summer Palace (圆明园, Yuanmingyuan)](https://images.pexels.com/photos/18180709/pexels-photo-18180709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Old Summer Palace (圆明园, Yuanmingyuan)
+
+![Old Summer Palace Qiujing, Beijing](/img/destinations/beijing-summer-palace-yuanmingyuan-guide/2.webp)
 
 Yuanmingyuan ("Garden of Perfect Brightness") was the largest and most magnificent imperial garden complex in Chinese history — 350 hectares containing dozens of palace complexes built over 150 years by the Qianlong, Jiaqing, and Daoguang emperors. The Western Mansions section contained baroque palaces designed by Jesuit missionaries.
 
@@ -54,9 +54,9 @@ On October 6–18, 1860, British and French troops looted and burned Yuanmingyua
 
 **The rest of the park**: Beyond the ruins, the original Chinese garden areas are being reconstructed. Some sections have been rebuilt; others remain as landscape with reconstructed labels indicating original buildings.
 
-![Summer Palace & Old Summer Palace — Combining Both Sites](https://images.pexels.com/photos/1445646/pexels-photo-1445646.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Combining Both Sites
+
+![Qianlongyulingdi Palace, Beijing](/img/destinations/beijing-summer-palace-yuanmingyuan-guide/3.webp)
 
 **One full day circuit**: Start at Yuanmingyuan (morning, 9am–12pm) — enter from the west gate, walk to the Western Mansions ruins, then through the Chinese garden sections. Lunch near the north gate. Walk south 1.5km to the Summer Palace north gate (Beigongmen). Spend the afternoon (2–5pm) doing the Long Corridor and lake shore, ending at the sunset from the Longevity Hill.
 

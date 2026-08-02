@@ -13,7 +13,7 @@ tags:
   - history
   - desert
 description: "Jiayuguan marks the dramatic western terminus of the Ming Great Wall in Gansu's Hexi Corridor. This 2026 guide covers the Jiayuguan Fort (¥120), Overhanging Great Wall, First Beacon Tower, Gobi desert landscapes, Silk Road history, local food, and how to combine with Dunhuang and Zhangye."
-ogImage: "https://images.pexels.com/photos/35370409/pexels-photo-35370409.png?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/gansu-jiayuguan-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -24,7 +24,7 @@ Today, Jiayuguan is a medium-sized industrial city (steel production is the main
 
 ## The Jiayuguan Fort Complex
 
-![Jiayuguan Gansu — The Jiayuguan Fort Complex](https://images.pexels.com/photos/30255501/pexels-photo-30255501.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Singing Sand Dunes, Gansu, Dunhuang](/img/destinations/gansu-jiayuguan-guide/1.webp)
 
 The Jiayuguan Fort (嘉峪关关城) is the undisputed centrepiece of any visit. Built over the course of the Ming dynasty, the fort complex comprises inner and outer walls, watchtowers, garrison buildings, and the iconic gate towers that have featured in so many photographs of the western Great Wall. Unlike the more famous sections near Beijing, this section is not just a wall — it's a complete military installation designed to control movement across the critical Hexi Corridor.
 
@@ -54,8 +54,6 @@ The surrounding area has been developed into a scenic park with viewing platform
 
 Included in the ¥120 combined ticket. Allow 1–2 hours.
 
-![Jiayuguan Gansu — Jiayuguan Museum and Great Wall Cultural Centre](https://images.pexels.com/photos/17615498/pexels-photo-17615498.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Jiayuguan Museum and Great Wall Cultural Centre
 
 A large modern museum complex in the city covers the history of the Hexi Corridor from prehistoric times through the Silk Road period and into the present. It's well-curated by Chinese museum standards, with good English labelling in the main permanent galleries. The Great Wall section is particularly strong, with architectural models, excavated artifacts, and documentation of the construction techniques.
@@ -63,6 +61,8 @@ A large modern museum complex in the city covers the history of the Hexi Corrido
 Separate admission: ¥30. Open Tuesday–Sunday 9am–5pm.
 
 ## Wei Jin Period Tombs (魏晋壁画砖墓)
+
+![Maijishan Grottoes, Gansu](/img/destinations/gansu-jiayuguan-guide/2.webp)
 
 About 20km east of the city, the Wei-Jin Tombs (3rd–4th century CE) contain some of the most extraordinary surviving examples of early Chinese figure painting — 1,460 painted bricks depicting life scenes from the period in a style quite different from the court art of the same era. These are working-class people going about their daily lives: farming, cooking, hunting, playing music. The archaeological site is genuinely remarkable, and one tomb (Tomb No. 6) is open for visitors to walk through.
 
@@ -73,8 +73,6 @@ Ticket: ¥31. The site is best reached by taxi (¥30–40 from the city centre) 
 Jiayuguan's significance extends beyond the wall itself. For the entire period of the Silk Road (roughly 200 BCE to 1400 CE), the Hexi Corridor — the narrow strip of habitable land between the Qilian Mountains and the Gobi — was the primary route for trade and cultural exchange between China and Central Asia, the Middle East, and ultimately Europe. Jiayuguan controlled the narrowest and most strategically critical point of this corridor.
 
 Evidence of this history is everywhere: the coins, silks, papers and goods in the museum; the cosmopolitan figures in the Wei-Jin tomb paintings; the place names in the surrounding area (towns named for Sogdian traders who settled here in the Tang dynasty). This context transforms what might otherwise seem like a collection of historical buildings into something much richer — a physical encounter with global history.
-
-![Jiayuguan Gansu — Getting to Jiayuguan](https://images.unsplash.com/photo-1730768772726-a6fc6d725888?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxKaWF5dWd1YW58ZW58MHwwfHx8MTc4MTgzOTI5Mnww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## Getting to Jiayuguan
 
@@ -90,6 +88,8 @@ Evidence of this history is everywhere: the coins, silks, papers and goods in th
 **Getting around the city:** Taxis (¥8 starting fare) and Didi. The three main historical sites (Fort, Overhanging Wall, First Beacon Tower) require transport — they're not walkable from the city centre. A full day taxi charter for all three sites typically costs ¥150–250, which is good value for groups.
 
 ## Where to Stay
+
+![Danxia Landform Dimao Natural Scenery, Gansu, Zhangye](/img/destinations/gansu-jiayuguan-guide/3.webp)
 
 Jiayuguan has a functional range of accommodation centred around the main commercial areas near the fort and the station areas.
 

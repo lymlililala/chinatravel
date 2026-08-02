@@ -11,7 +11,7 @@ tags:
   - northwest-china
   - photography
 description: "Kanas Lake (喀纳斯湖) in northern Xinjiang near the Russian and Mongolian borders — the blue crater lake surrounded by Siberian forest, the Tuwa people's wood villages, the autumn colors from late September (birch and larch turning gold and red), and the Hemu Village at dawn when cattle and sheep emerge from the mist. Getting there and the timed entrance system."
-ogImage: "https://images.pexels.com/photos/30123499/pexels-photo-30123499.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/kanas-hemu-xinjiang-guide/cover.webp"
 ---
 
 Kanas Lake is in northern Xinjiang, close enough to the Russian and Mongolian borders that on a clear day from the right viewpoint you can see all three countries. The landscape here is unlike anything else in China: deep blue lake, dense birch and larch forest, rounded grassy hills — it looks more like Switzerland or the Russian Altai than the China most visitors picture.
@@ -22,7 +22,7 @@ The autumn colours at Kanas (late September through mid-October) are considered 
 
 ## Getting to Kanas
 
-![Kanas Lake & Hemu Village — Getting to Kanas](https://images.pexels.com/photos/3092580/pexels-photo-3092580.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Kanas Lake Lakeside Ancient Village Luo, Xinjiang](/img/destinations/kanas-hemu-xinjiang-guide/1.webp)
 
 Kanas is genuinely remote. The nearest city is **Altay (阿勒泰)** in northern Xinjiang, served by Altay Airport (AAT).
 
@@ -56,8 +56,6 @@ The lake is the centerpiece: about 24km long, 2–3km wide, at 1,374 metres elev
 
 Kanas Lake has its own Nessie-style legend: large creatures have allegedly been observed in the lake by locals and researchers. The lake is 188 metres deep and contains large Siberian hucho taimen (Taimen salmon), some of which grow to extraordinary size. Whether there's genuinely something mysterious in the depths is debated; the lake is deep enough that something very large could exist there.
 
-![Kanas Lake & Hemu Village — Hemu Village (禾木村)](https://images.pexels.com/photos/13457229/pexels-photo-13457229.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Hemu Village (禾木村)
 
 About 50km southeast of Kanas, Hemu Village is a Tuwa people's settlement of traditional wooden log houses set in a wide valley surrounded by birch forest and mountains. It's one of the most photographed villages in China.
@@ -71,6 +69,8 @@ To catch the cattle-and-mist scene, you must be at the **eastern hill viewpoint 
 **Entry to Hemu Village area:** ¥55 per person
 
 ## Baihe Village (白哈巴) — The Third Destination
+
+![Aleitai Kanas Lake Lake, Xinjiang](/img/destinations/kanas-hemu-xinjiang-guide/2.webp)
 
 Often overlooked, **Baihe Village (白哈巴)** is about 40km west of Kanas, directly on the Chinese-Kazakhstan border. It's the westernmost village in China and another Tuwa settlement with similar wooden log-house architecture.
 
@@ -93,8 +93,6 @@ Most visitors do a 3–5 day circuit covering all three main areas.
 - **Hemu Village:** Guesthouses in villagers' homes or dedicated guesthouses; ¥150–400/night. Facilities are basic but the atmosphere is excellent.
 - **Yurts:** Available in some areas, ¥200–500/night including meals
 
-![Kanas Lake & Hemu Village — Autumn Colours: When Exactly](https://images.pexels.com/photos/12610169/pexels-photo-12610169.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Autumn Colours: When Exactly
 
 The peak autumn colour window is narrow and varies by year:
@@ -106,6 +104,8 @@ The trees don't turn all at once — first the birch at lower elevations, then t
 **Check:** Chinese photography forums (摄影吧 on Baidu, or photography sections of Mafengwo) for real-time colour reports in season. Conditions vary year to year.
 
 ## Other Seasons
+
+![Winter Sailimu Lake Scenery, Xinjiang](/img/destinations/kanas-hemu-xinjiang-guide/3.webp)
 
 **Summer (June–August):** Green, warm, good hiking. Fewer crowds than autumn, but less dramatic visually. Wildflowers in June–July.
 

@@ -11,7 +11,7 @@ tags:
   - nature
   - winter
 description: "Jilin province in Northeast China — Changbai Mountain (长白山) and the stunning Heaven Lake volcanic crater at the summit, the rime ice (雾凇) phenomenon in Jilin City where trees frost white along the Songhua River, Yanbian Korean Autonomous Prefecture with its Korean food and culture, and how to structure a Jilin trip."
-ogImage: "https://images.pexels.com/photos/35491818/pexels-photo-35491818.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/changchun-jilin-guide/cover.webp"
 ---
 
 Jilin province in China's northeast sits between Heilongjiang (Harbin) to the north and the Korean and Russian borders to the east. It's one of China's most scenically varied provinces — volcanic mountains, river ice phenomena, boreal forests, and a significant Korean cultural community that gives the eastern part of the province a distinct character.
@@ -22,7 +22,7 @@ Most visitors come for one of two things: Changbai Mountain and its volcanic cra
 
 ## Changbai Mountain (长白山)
 
-![Jilin Province — Changbai Mountain (长白山)](https://images.pexels.com/photos/34257242/pexels-photo-34257242.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Jinchan Island Scenery, Jilin](/img/destinations/changchun-jilin-guide/1.webp)
 
 Changbai Mountain (literally "Ever-White Mountain") straddles the border between China and North Korea. The caldera at the summit, formed by a massive volcanic eruption around 946 AD, contains **Heaven Lake (天池)** — a deep blue crater lake at 2,189 metres elevation that is one of the most visually striking landscapes in China.
 
@@ -80,9 +80,9 @@ Rime ice forms when supercooled water vapour from the Fengman Reservoir (which s
 
 The peak rime ice season is **mid-December to mid-January** (varies by year). The phenomenon requires sustained temperatures below -15°C to form properly.
 
-![Jilin Province — Yanbian Korean Autonomous Prefecture (延边朝鲜族自治州)](https://images.pexels.com/photos/36552425/pexels-photo-36552425.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Yanbian Korean Autonomous Prefecture (延边朝鲜族自治州)
+
+![Changbaishan Heavenly Lake, Jilin](/img/destinations/changchun-jilin-guide/2.webp)
 
 In eastern Jilin, bordering North Korea, Yanbian is home to China's largest Korean ethnic community (around 800,000 people). Crossing into Yanbian from Jilin feels noticeably different — Korean-language shop signs appear alongside Chinese, Korean food culture is everywhere, and the architecture of some towns has a distinctly Korean style.
 
@@ -96,13 +96,13 @@ In eastern Jilin, bordering North Korea, Yanbian is home to China's largest Kore
 
 ## Changchun (长春)
 
+![Songyuanlangyaba Scenery, Jilin](/img/destinations/changchun-jilin-guide/3.webp)
+
 Changchun is Jilin's provincial capital and a useful transit hub, but isn't a major tourist destination in itself. However, two specific sites are worth visiting if you have time:
 
 **Puppet Emperor's Palace (伪满皇宫博物院):** The palace complex where China's last emperor, Puyi, was installed as a Japanese puppet ruler from 1932–1945. The complex is well-preserved and the exhibits are sobering — a detailed account of the Japanese occupation of Manchuria. Entry ¥80; open Tuesday–Sunday.
 
 **Changchun Film City (长影电影城):** A large film studio and theme park complex. China's film industry was largely based in Changchun during the 1940s–1960s. More of a curiosity than a must-see.
-
-![Jilin Province — Suggested Jilin Itinerary](https://images.pexels.com/photos/35491810/pexels-photo-35491810.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Suggested Jilin Itinerary
 

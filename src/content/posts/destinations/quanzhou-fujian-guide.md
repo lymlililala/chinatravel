@@ -11,7 +11,7 @@ tags:
   - history
   - silk-road
 description: "Quanzhou — the starting point of the Maritime Silk Road and a UNESCO World Heritage City since 2021. Explore its extraordinary multicultural history: Islamic mosques, Nestorian Christian churches, Hindu temples, and Minnan culture all preserved in one coastal Fujian city."
-ogImage: "https://images.pexels.com/photos/20818504/pexels-photo-20818504.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/quanzhou-fujian-guide/cover.webp"
 ---
 
 Quanzhou (泉州) is one of China's most historically extraordinary cities and one of its least visited by international tourists — a combination that makes it genuinely special for travellers who value depth over convenience.
@@ -20,15 +20,15 @@ In the Song and Yuan dynasties (10th–14th centuries), Quanzhou was the largest
 
 The entire city was listed as a UNESCO World Heritage Site in 2021: "Quanzhou: Emporium of the World in Song-Yuan China."
 
-![Quanzhou — Getting There](https://images.pexels.com/photos/26664455/pexels-photo-26664455.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting There
+
+![Tailao Mountain Scenery, Fujian](/img/destinations/quanzhou-fujian-guide/1.webp)
 
 Quanzhou has its own airport (Jinjiang Airport) with domestic connections. More commonly: Xiamen is 1 hour away by bus or HSR; Fuzhou is 2 hours north by HSR. Quanzhou fits naturally into an itinerary combining Xiamen (2 days) + Quanzhou (1–2 days) + Fuzhou or the Wuyi Mountains.
 
-![Quanzhou — The Religious Heritage Circuit](https://images.pexels.com/photos/35268679/pexels-photo-35268679.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Religious Heritage Circuit
+
+![Wuyi Mountain Scenery, Fujian](/img/destinations/quanzhou-fujian-guide/2.webp)
 
 ### Qingjing Mosque (清净寺)
 
@@ -46,8 +46,6 @@ Mazu, the sea goddess, is the most widely worshipped deity in Fujian and coastal
 
 The stone museum displays Hindu, Nestorian Christian, Islamic, and Chinese religious sculpture recovered from Quanzhou's multicultural medieval layers — stone figures of Vishnu, Shiva, and Nandi stand alongside Nestorian cross fragments and Chinese Buddhist carvings from the same centuries. One of the most unusual museum collections in East Asia.
 
-![Quanzhou — West Street (西街)](https://images.pexels.com/photos/36818773/pexels-photo-36818773.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## West Street (西街)
 
 Quanzhou's main historic commercial street — running from Kaiyuan Temple eastward through the old city. The street preserves Minnan-style Qilou (arcaded shophouse) architecture and some of the city's oldest family businesses.
@@ -55,6 +53,8 @@ Quanzhou's main historic commercial street — running from Kaiyuan Temple eastw
 **Eat on West Street**: Oyster vermicelli (蚵仔煎, a Minnan staple shared with Taiwan), peanut soup (花生汤), mochi rice cakes, and soy milk tofu (豆花). Quanzhou street food reflects its multicultural past — Arab influence in the spiced meat buns, Minnan tradition in the seafood-based snacks.
 
 ## Chongwu Ancient City and Huishan Stone Carving Village
+
+![Moya Stone Carving Scenery, Fujian, Quanzhou](/img/destinations/quanzhou-fujian-guide/3.webp)
 
 **Chongwu (崇武)** — 30km from Quanzhou — is a remarkably complete Ming dynasty stone city wall, still intact around a fishing village. The wall circuit (4km) is walkable.
 

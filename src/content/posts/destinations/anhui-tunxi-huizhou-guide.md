@@ -13,14 +13,14 @@ tags:
   - tea-market
   - ancient-architecture
 description: "Step into the living museum of Huizhou culture in Tunxi, where the famous Old Street preserves 300-year-old merchant architecture, tea shops still sell Huangshan Maofeng from brass canisters, and the scent of ink stones and cured ham drifts through narrow lanes. This 2026 guide explores the best of Tunxi and the wider Huizhou cultural region — from architectural wonders and tea tasting to local cuisine, nearby villages, and practical travel advice for experiencing this often-overlooked corner of Anhui."
-ogImage: "https://images.pexels.com/photos/33866942/pexels-photo-33866942.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/anhui-tunxi-huizhou-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## Tunxi — The Gateway to Huizhou Culture
 
-![Tunxi & Huizhou Old Street Anhui — Tunxi — The Gateway to Huizhou Culture](https://images.pexels.com/photos/28927399/pexels-photo-28927399.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Huizhou Ancient Town Winter, Anhui](/img/destinations/anhui-tunxi-huizhou-guide/1.webp)
 
 Most travellers pass through Tunxi (屯溪) on their way to Huangshan Mountain without giving it more than a night's stopover. That's a mistake. This small city at the foot of the great mountain is the cultural heart of the Huizhou (徽州) region — a place where merchant traditions, architectural mastery, and tea culture have been preserved with a stubbornness that feels almost defiant in modern China.
 
@@ -73,8 +73,6 @@ Understanding Huizhou architecture enriches every village visit in the region:
 
 **Xidi Village (西递):** A UNESCO World Heritage Site along with Hongcun, Xidi is often overlooked in favour of its more famous neighbour. This is actually an advantage — it's quieter and arguably more atmospheric. The Huizhou merchant homes here are exceptionally well-preserved. Entrance ¥104 ($14 USD).
 
-![Tunxi & Huizhou Old Street Anhui — The Xin'an River and Surrounding Nature](https://images.pexels.com/photos/13274253/pexels-photo-13274253.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Xin'an River and Surrounding Nature
 
 ### River Walk and Night View
@@ -90,6 +88,8 @@ About 10 km from Tunxi, these enormous artificial caves carved into the hillside
 **Entrance fee:** ¥78 ($11 USD). Allow 2-3 hours for the visit. The site is accessible by taxi (¥25-35/$3.50-4.80 USD) or bus No. 6 from Tunxi.
 
 ## Huizhou Cuisine — Savoury, Salty, and Deeply Satisfying
+
+![Chaji Ancient Village, Anhui](/img/destinations/anhui-tunxi-huizhou-guide/2.webp)
 
 Huizhou cuisine (徽菜) is one of China's eight great culinary traditions, and it's characterised by an emphasis on braising, smoking, and preserving — practical techniques for a mountainous region where fresh ingredients were historically scarce in winter.
 
@@ -119,8 +119,6 @@ Several tea farms on the lower slopes of Huangshan offer visitor experiences. Th
 
 While Huangshan Maofeng gets most of the attention, the Anhui region also produces Keemun (祁门, Qímén) black tea — one of the world's most celebrated black teas and a favourite of the British royal family. The Qimen tea region is about 2 hours from Tunxi by road, and several producers offer visits. A day trip with a hired car costs ¥600-800 ($83-111 USD).
 
-![Tunxi & Huizhou Old Street Anhui — Practical Information](https://images.pexels.com/photos/29326490/pexels-photo-29326490.png?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Practical Information
 
 ### Getting to Tunxi
@@ -142,6 +140,8 @@ Tunxi is compact and walkable. Old Street, the riverfront, and most restaurants 
 - **Avoid:** Chinese National Day (October 1-7) and Spring Festival when Old Street is uncomfortably crowded.
 
 ## Accommodation
+
+![Chuzhoulangya Mountain Scenery](/img/destinations/anhui-tunxi-huizhou-guide/3.webp)
 
 **Huizhou Boutique Inn (徽州精品客栈):** A beautifully restored Huizhou merchant house on Old Street itself. Rooms feature carved wooden beds and sky wells. Doubles from ¥350-600 ($48-83 USD). Book well ahead.
 

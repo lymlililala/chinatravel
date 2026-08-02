@@ -12,7 +12,7 @@ tags:
   - etiquette
   - beginners
 description: "How to visit China's temples, mosques, and sacred sites respectfully — the dress code at Buddhist and Taoist temples, which side of a threshold to step over, when photography is and isn't allowed, the difference between Buddhist, Taoist, Confucian, and folk religion temples (most visitors can't tell them apart), and what the red envelopes and offerings actually mean."
-ogImage: "https://images.pexels.com/photos/37626184/pexels-photo-37626184.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-temple-visit-guide/cover.webp"
 ---
 
 Visiting temples in China is one of the highlights of any trip — both for the architecture and for the genuine, living religious practice that happens in many of them. Understanding a few basics about what you're looking at and how to behave makes the experience richer and ensures you're a respectful visitor rather than an oblivious one stumbling through someone's place of worship.
@@ -20,6 +20,8 @@ Visiting temples in China is one of the highlights of any trip — both for the 
 ## Table of contents
 
 ## Telling the Religions Apart
+
+![Scenery, Anhui, Huangshan](/img/toolkit/china-temple-visit-guide/1.webp)
 
 This is genuinely confusing for most visitors, and even experienced travelers mix them up. Here's how to orient yourself:
 
@@ -105,6 +107,8 @@ Don't wave lit incense around carelessly; the smoke and ash can damage artwork a
 **Monks in robes:** Buddhist monks follow rules about interaction with laypeople. Don't expect idle conversation. If a monk speaks to you, respond respectfully. Don't photograph monks without permission.
 
 ## Taoist Temple Specifics
+
+![Guojiadizhi Park Scenery, Huangshan](/img/toolkit/china-temple-visit-guide/2.webp)
 
 Taoist temples are generally slightly less formal for visitors than Buddhist ones. However:
 

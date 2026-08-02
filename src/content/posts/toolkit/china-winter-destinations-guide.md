@@ -11,7 +11,7 @@ tags:
   - toolkit
   - planning
 description: "China in winter — where to go and what to avoid. The north in winter: Harbin ice festival (magical), Beijing winter (cold but functional with far fewer tourists), Xi'an winter (cold but all indoor museums work). The south: Yunnan is perfect in winter (Lijiang gets snow, Xishuangbanna is warm), Sanya/Hainan is peak season, Hong Kong is ideal."
-ogImage: "https://images.pexels.com/photos/34902923/pexels-photo-34902923.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-winter-destinations-guide/cover.webp"
 ---
 
 Winter is China's most misunderstood travel season. The assumption that cold = bad ignores some of the country's most extraordinary experiences — Harbin's ice city, the snow-covered rooftops of Beijing's hutongs, Yunnan's crisp clear skies, and the peak-season perfection of Sanya's beaches. Meanwhile, the winter crowd levels at major attractions like the Forbidden City are dramatically lower than spring or autumn.
@@ -21,6 +21,8 @@ Here's where to go, where to avoid, and what to actually expect.
 ## Table of contents
 
 ## Northern China in Winter: Cold But Worth It
+
+![Huanghuachengshui Great Wall Scenery, Beijing](/img/toolkit/china-winter-destinations-guide/1.webp)
 
 ### Harbin (January-February Peak)
 The Harbin International Ice and Snow Sculpture Festival (late December to late February) is the main reason to visit Harbin in winter. Ice and Snow World, the main venue, covers over 600,000 square metres with illuminated ice structures built from Songhua River ice. The scale and the night-time light show are genuinely extraordinary.
@@ -79,6 +81,8 @@ Winter is Hong Kong's best season for visitors. Temperatures 15-22°C, low humid
 The shopping centres and restaurants are unchanged by season, but the hiking, harbour views, and open-air dining are all dramatically more enjoyable in winter than summer.
 
 ## What to Avoid in Winter
+
+![Gudianmingyuanliu Garden Scenery, Suzhou](/img/toolkit/china-winter-destinations-guide/2.webp)
 
 **The Yangtze River cruise:** December-February on the Yangtze is cold, foggy, and the scenery through the Three Gorges is obscured by mist much of the time. This cruise is best in late summer/autumn.
 

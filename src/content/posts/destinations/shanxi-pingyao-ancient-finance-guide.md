@@ -1,7 +1,7 @@
 ---
 title: "Pingyao Ancient City: China's First Banking Capital & Ming-Qing Architecture"
 description: "Explore Pingyao in Shanxi — China's best-preserved Ming and Qing dynasty walled city, birthplace of Chinese banking (draft exchange houses), stunning courtyard architecture, beef jerky, pingyao beef, and a genuinely intact ancient streetscape that has changed little in 300 years."
-ogImage: "https://images.pexels.com/photos/28678714/pexels-photo-28678714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/shanxi-pingyao-ancient-finance-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Shanxi"
 tags: ["shanxi", "pingyao", "ancient-city", "chinese-banking", "ming-dynasty", "qing-dynasty", "courtyard-architecture", "UNESCO", "draft-exchange"]
@@ -15,9 +15,9 @@ In the 17th and 18th centuries, while banks in Europe were developing letters of
 
 ---
 
-![Pingyao Ancient City — The City Walls](https://images.pexels.com/photos/31025464/pexels-photo-31025464.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The City Walls
+
+![Heng Mountain Scenery, Shanxi](/img/destinations/shanxi-pingyao-ancient-finance-guide/1.webp)
 
 The **Pingyao City Wall** — 6.4 km in circumference, 6–10 metres high — was originally built in the 3rd century BCE and comprehensively rebuilt in its current form in 1370 during the reign of the Hongwu Emperor. The walls are remarkably complete: all four gates, the 72 watchtowers, the 3,000 crenellations (said to represent Confucius's 3,000 disciples), and the wall-top walkway are intact.
 
@@ -47,9 +47,9 @@ The preserved premises occupy a large courtyard complex:
 
 ---
 
-![Pingyao Ancient City — Ming and Qing Courtyard Architecture](https://images.pexels.com/photos/28956205/pexels-photo-28956205.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Ming and Qing Courtyard Architecture
+
+![Huanghehukou Waterfall](/img/destinations/shanxi-pingyao-ancient-finance-guide/2.webp)
 
 The wealth of the piaohao era is embedded in Pingyao's architecture. The city's residential buildings are almost universally **courtyard houses (四合院)** in the Shanxi style — more enclosed and darker than Beijing courtyard houses, with elaborate carved wooden screens between rooms and extraordinary investment in gate decorations.
 
@@ -67,6 +67,8 @@ The wealth of the piaohao era is embedded in Pingyao's architecture. The city's 
 
 ## Inside the City Walls: The Old Town
 
+![Yunchengyanhu Scenery](/img/destinations/shanxi-pingyao-ancient-finance-guide/3.webp)
+
 ### Nan Dajie (南大街): The Ancient Wall Street
 
 The main north-south commercial street of the old city, where the piaohao operated. The street is lined with preserved **shop fronts** that have the same basic layout for 300 years: ground floor shop (now restaurants and craft stores), upper floor storage, residence at the rear.
@@ -82,8 +84,6 @@ The spiritual centre of the old city — Shanxi merchants consistently placed th
 A local craft tradition dating to the Han dynasty, Pingyao lacquerware uses ox-hide as the substrate for multiple layers of lacquer decorated with carved or painted designs. Small items (boxes, plates) are reasonably priced at ¥100–¥500 and travel well.
 
 ---
-
-![Pingyao Ancient City — Food in Pingyao](https://images.pexels.com/photos/29714906/pexels-photo-29714906.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Food in Pingyao
 

@@ -11,7 +11,7 @@ tags:
   - street-food
   - north-china
 description: "Where to eat street food in Beijing — Wangfujing Snack Street (touristy but fun for scorpion-on-sticks), Guijie (Ghost Street) for late-night hotpot, the Sanlitun food lanes, and the local breakfast spots around hutong areas where you'll find jianbing and doujiang. What to order and realistic prices."
-ogImage: "https://images.pexels.com/photos/33583796/pexels-photo-33583796.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/beijing-food-street-market-guide/cover.webp"
 ---
 
 Beijing's food scene is more than Peking duck and imperial palace banquets. The city runs on street food — the morning jianbing (煎饼) eaten during a rushed commute, the midnight lamb skewers around Sanlitun, the hotpot shops that stay open until 3am on Guijie. Getting this part of Beijing right means eating where actual Beijingers eat, not just where the tour groups stop for photos.
@@ -20,7 +20,7 @@ Beijing's food scene is more than Peking duck and imperial palace banquets. The 
 
 ## Wangfujing Snack Street: Touristy, But Worth It Once
 
-![Beijing Street Food & Night Markets — Wangfujing Snack Street: Touristy, But Worth It Once](https://images.pexels.com/photos/29714920/pexels-photo-29714920.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Forbidden City Panorama Interior, Beijing](/img/destinations/beijing-food-street-market-guide/1.webp)
 
 Wangfujing Snack Street (王府井小吃街) near the Wangfujing shopping district is unambiguously touristy. The stalls sell scorpions-on-sticks, starfish, and seahorse skewers — things that photogenic travellers photograph and most locals never eat. But that doesn't mean you should skip it entirely.
 
@@ -48,8 +48,6 @@ Guijie genuinely picks up after 9pm and reaches full chaos around 11pm to midnig
 
 **Getting there:** Beixinqiao metro station, Line 5, then walk east about 5 minutes.
 
-![Beijing Street Food & Night Markets — Hutong Breakfast: What Beijingers Actually Eat in the Morning](https://images.pexels.com/photos/10751717/pexels-photo-10751717.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Hutong Breakfast: What Beijingers Actually Eat in the Morning
 
 The best Beijing breakfast culture happens inside the hutong alleyways, not on main tourist streets. The pattern is consistent: residents emerge around 7am, queue at their preferred breakfast stall, and eat on the street or take food back home.
@@ -70,15 +68,17 @@ Steamed buns with fillings — pork and fennel, pork and cabbage, or egg and chi
 
 ## Sanlitun Area: The International Food Zone
 
+![Courtyard House, Beijing](/img/destinations/beijing-food-street-market-guide/2.webp)
+
 **Sanlitun** is Beijing's main expat and international dining district. For pure Chinese street food it's not the best option — prices are higher and the vibe more curated — but it's where you go when you want variety or a break from the hutong circuit.
 
 The **Sanlitun Village** shopping complex and the surrounding lanes have everything from Japanese ramen to Turkish kebabs to Yunnan rice noodle shops. The **Ghost Street spinoff** area near Gongti North Road has some good late-night options.
 
 For street food specifically, the lanes east of Sanlitun bar street have **lamb skewer (羊肉串, yángròu chuàn) vendors** from Xinjiang operating out of converted three-wheelers. These are typically better quality than the tourist-facing versions — **¥3-5 per skewer**, minimum order usually 5-10 sticks. The lamb is marinated in cumin and chilli and cooked over charcoal.
 
-![Beijing Street Food & Night Markets — The Donghuamen Night Market Area](https://images.pexels.com/photos/36837717/pexels-photo-36837717.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Donghuamen Night Market Area
+
+![Tiananmen, Beijing](/img/destinations/beijing-food-street-market-guide/3.webp)
 
 Near Wangfujing, the **Donghuamen Night Market** area (东华门夜市) has been through several regenerations and the stalls change frequently. The current incarnation focuses more on mainstream snacks than the exotic creatures of years past.
 

@@ -11,7 +11,7 @@ tags:
   - expat
   - long-term
 description: "Working in China — the work visa (Z visa) process for various countries, teaching English (TEFL) positions (which cities pay best, what contracts look like), working in tech in Beijing and Shanghai (the startup ecosystem), living costs as an expat (comfortable living in Beijing on RMB 15,000/month is very feasible), and the visa realities for 2026."
-ogImage: "https://images.pexels.com/photos/9607267/pexels-photo-9607267.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-working-holiday-guide/cover.webp"
 ---
 
 China is one of the world's most significant destinations for expat workers — the combination of competitive salaries in certain sectors, low living costs relative to what you earn, and the sheer intensity of living in a major Chinese city makes it attractive for career movers and English teachers alike.
@@ -21,6 +21,8 @@ The visa process is more bureaucratic than many countries, and the digital envir
 ## Table of contents
 
 ## The Work Visa (Z Visa) Process
+
+![Forbidden City Panorama Interior, Beijing](/img/toolkit/china-working-holiday-guide/1.webp)
 
 The Z visa is the only visa type that allows you to work legally in China. It's employer-sponsored — you cannot apply for a work visa independently; your employer must initiate the process.
 
@@ -76,6 +78,8 @@ English teaching remains one of the most accessible routes for foreigners to wor
 **Key platforms for job searching:** Dave's ESL Cafe, chinajob.com, LinkedIn (jobs are posted for international schools), WeChat groups for expat teachers in specific cities.
 
 ## Working in Tech and Business
+
+![Huanghuachengshui Great Wall Scenery, Beijing](/img/toolkit/china-working-holiday-guide/2.webp)
 
 Beijing's Zhongguancun district (Silicon Valley of China) and Shanghai's Lujiazui (finance) and Zhangjiang (tech) areas are the main hubs for foreign professionals in business and technology.
 

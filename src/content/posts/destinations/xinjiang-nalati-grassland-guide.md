@@ -12,7 +12,7 @@ tags:
   - kazakh
   - yurt
 description: "Nalati Grassland in Xinjiang's Ili Valley is known as the 'Sky Grassland' — a high alpine meadow draped over mountain ridges with views that stretch to the Central Asian steppe. This 2026 guide covers yurt accommodation with Kazakh families, horse riding routes, how to get there from Yining, and why this less-visited gem deserves a place on your Xinjiang itinerary."
-ogImage: "https://images.pexels.com/photos/28700656/pexels-photo-28700656.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/xinjiang-nalati-grassland-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -23,7 +23,7 @@ The Ili Valley in western Xinjiang, where Nalati sits, is one of the regions tha
 
 ## Why Nalati Over Other Xinjiang Grasslands
 
-![Nalati Grassland Xinjiang — Why Nalati Over Other Xinjiang Grasslands](https://images.pexels.com/photos/28700657/pexels-photo-28700657.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Kalajun Grassland, Xinjiang](/img/destinations/xinjiang-nalati-grassland-guide/1.webp)
 
 Xinjiang has several famous grassland destinations: Bayinbuluke, Kanas, the Hemu area. Each has its own character. Nalati's advantages:
 
@@ -53,8 +53,6 @@ Direct taxi from Yining to Nalati Scenic Area costs approximately ¥180–220. A
 
 **By road (Duku Highway):** The spectacular Duku Highway (独库公路, National Highway G217) connects Kuqa on the southern rim of the Tianshan to Korla and eventually Urumqi. This is considered one of China's most scenic roads. It's typically open May–October (closed in winter). Self-driving this route and entering the Ili Valley via the northern end is a classic Xinjiang road trip.
 
-![Nalati Grassland Xinjiang — The Nalati Scenic Area](https://images.unsplash.com/photo-1624644128945-920c0da6931b?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxuYWxhdGklMjBncmFzc2xhbmR8ZW58MHwwfHx8MTc4MTkyNjI2OHww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
-
 ## The Nalati Scenic Area
 
 ### Entry and Getting Around
@@ -80,6 +78,8 @@ Horse riding is available throughout the scenic area from Kazakh family operator
 
 ## Staying in a Yurt with a Kazakh Family
 
+![Beautiful Landscape, Xinjiang](/img/destinations/xinjiang-nalati-grassland-guide/2.webp)
+
 This is the reason many people come specifically to Nalati rather than other grassland destinations. Genuine Kazakh family yurt stays — not the Instagram-perfect tourist yurts built for the scenic area — are available in the villages and pastoral areas around the main scenic zone.
 
 ### How to Find Genuine Homestays
@@ -96,9 +96,9 @@ Kazakh hospitality traditions are strong. If invited for tea in a yurt, accept. 
 
 Don't photograph people without asking. Learn a few Kazakh phrases: "Rahmet" (thank you), "Salamatsyzba" (hello) — the effort is appreciated enormously.
 
-![Nalati Grassland Xinjiang — Nalati Festivals and Events](https://images.pexels.com/photos/27987223/pexels-photo-27987223.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Nalati Festivals and Events
+
+![Renwenjingguan, Xinjiang](/img/destinations/xinjiang-nalati-grassland-guide/3.webp)
 
 ### Naadam/Nayryz (那达慕/纳吾鲁孜节)
 Kazakh communities celebrate their traditional New Year (Nayryz) in March and the Naadam summer festival with horse games, wrestling, and cultural performances. Exact dates vary by community.

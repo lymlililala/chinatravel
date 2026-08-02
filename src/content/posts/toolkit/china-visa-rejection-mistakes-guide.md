@@ -10,7 +10,7 @@ tags:
   - entry
   - toolkit
 description: "The most common reasons China tourist and business visas get rejected, with specific fixes for each problem — from incomplete documentation to previous overstays and travel history red flags."
-ogImage: "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=900&q=80"
+ogImage: "/img/toolkit/china-visa-rejection-mistakes-guide/cover.webp"
 ---
 
 A rejected China visa application is frustrating, but it's almost always preventable. Chinese consulates are generally systematic about what they need, and most rejections come down to a handful of recurring mistakes. This guide identifies every common rejection reason — and exactly how to fix each one before you reapply.
@@ -18,6 +18,8 @@ A rejected China visa application is frustrating, but it's almost always prevent
 ## Table of contents
 
 ## How Chinese Visas Get Rejected
+
+![Zhuozheng Garden, Suzhou](/img/toolkit/china-visa-rejection-mistakes-guide/1.webp)
 
 Unlike Schengen or US visas, China does not issue detailed rejection letters explaining exactly why your application failed. You typically just receive your passport back with a rejection stamp or a brief note.
 
@@ -98,6 +100,8 @@ This makes it important to get your application right the first time — but it 
 ---
 
 ## Nationality-Specific Issues
+
+![Canglangting, Suzhou](/img/toolkit/china-visa-rejection-mistakes-guide/2.webp)
 
 ### Restricted nationalities
 

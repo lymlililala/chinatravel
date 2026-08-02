@@ -12,7 +12,7 @@ tags:
   - national-parks
   - outdoor
 description: "China's world-class national parks and scenic areas — Jiuzhaigou (rainbow-coloured lakes, closed 2017-2019 after earthquake, now re-opened with strict visitor caps), Zhangjiajie/Wulingyuan (the Avatar mountains), Huanglong (coloured terraced pools), Changbai Mountain (volcanic lake on the Korea border), and the ticketing and timed-entry systems you need to book in advance."
-ogImage: "https://images.pexels.com/photos/34683513/pexels-photo-34683513.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-national-parks-guide/cover.webp"
 ---
 
 China has some of the world's most spectacular protected natural areas, and the management systems for accessing them have become increasingly sophisticated. Most major scenic areas now require advance online booking, operate timed-entry ticket systems, and cap daily visitor numbers. Understanding this before you go prevents arriving to find tickets sold out for your preferred date.
@@ -20,6 +20,8 @@ China has some of the world's most spectacular protected natural areas, and the 
 ## Table of contents
 
 ## Jiuzhaigou (九寨沟): The Rainbow Lakes
+
+![Jiangnan Water Town Scenery, Suzhou](/img/toolkit/china-national-parks-guide/1.webp)
 
 **Sichuan Province | Best months: October (peak autumn colour), May-June (spring growth)**
 
@@ -73,6 +75,8 @@ At 3,500m+ elevation, altitude acclimatization matters — take it slowly on the
 **Getting there:** Jiuhuang Airport serves both Jiuzhaigou and Huanglong — if flying in, you can visit both parks in the same trip (about 90 minutes between them by road).
 
 ## Changbai Mountain (长白山): The Volcanic Lake
+
+![Shou West Lake Scenery, Jiangsu](/img/toolkit/china-national-parks-guide/2.webp)
 
 **Jilin Province (North Korea border) | Best months: June-September (no snow on trails)**
 

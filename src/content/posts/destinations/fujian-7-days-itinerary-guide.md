@@ -10,7 +10,7 @@ tags:
   - itinerary
   - east-china
 description: "A 7-day Fujian itinerary — two days in Xiamen and Gulangyu Island, a day trip to the Fujian Tulou earthen roundhouses (Yongding or Nanjing county), the Quanzhou Maritime Silk Road Museum, and two days hiking and drinking tea in the Wuyi Mountain nature reserve."
-ogImage: "https://images.pexels.com/photos/35268679/pexels-photo-35268679.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/fujian-7-days-itinerary-guide/cover.webp"
 ---
 
 Fujian sits across from Taiwan and looks toward Southeast Asia — its population has historically been seafarers, traders, and emigrants. The Hokkien dialect spoken here is still the dominant language of overseas Chinese communities across Malaysia, Singapore, Indonesia, and the Philippines. This maritime history shows in the province's architecture, cuisine, and character.
@@ -21,7 +21,7 @@ Seven days covers Fujian's four distinct destinations: the European-influenced i
 
 ## Getting There & Around
 
-![Fujian — Getting There & Around](https://images.unsplash.com/photo-1646912951442-7a2bc5e8cd06?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw1fHwlMjYlMjBBcm91bmR8ZW58MHwwfHx8MTc4MTgzOTI0OXww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
+![Kejia Earthen Tulou, Fujian](/img/destinations/fujian-7-days-itinerary-guide/1.webp)
 
 **Entry:** Xiamen Gaoqi International Airport (XMN) has international connections including Southeast Asia, Japan, and direct flights from some European hubs via connections. Fuzhou Airport (FOC) is the provincial capital's airport.
 
@@ -63,8 +63,6 @@ The island is famously musical — there's a piano museum (¥50) and an unusuall
 
 ---
 
-![Fujian — Day 3: Fujian Tulou Day Trip](https://images.pexels.com/photos/34334654/pexels-photo-34334654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day 3: Fujian Tulou Day Trip
 
 **Tulou** (土楼) are massive circular and square earthen fortresses built by the Hakka people — some housing hundreds of people from a single clan, some built as late as the 20th century. The UNESCO-listed Fujian Tulou clusters are spread across Nanjing (南靖) and Yongding (永定) counties.
@@ -87,6 +85,8 @@ If visiting Nanjing County as a day trip from Xiamen, taxi costs and the ¥90 co
 
 ## Day 4: Quanzhou Maritime Silk Road Heritage
 
+![Tailao Mountain Scenery, Fujian](/img/destinations/fujian-7-days-itinerary-guide/2.webp)
+
 **Journey:** HSR from Xiamen → Quanzhou, 30 minutes, ¥30.
 
 **Quanzhou** (泉州) was the world's greatest maritime trading port from the Tang through early Ming dynasties. Marco Polo called it Zaytun — the port from which silk, porcelain, and spice flowed to the Arabian Peninsula, East Africa, and Southeast Asia. UNESCO inscribed Quanzhou's "Eminent Maritime Heritage" as a World Heritage Site in 2021.
@@ -107,9 +107,9 @@ The surrounding **Old City** (鲤城区) has a remarkably high density of religi
 
 ---
 
-![Fujian — Days 5-6: Wuyi Mountain](https://images.pexels.com/photos/34722277/pexels-photo-34722277.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Days 5-6: Wuyi Mountain
+
+![Qingyuan Mountain, Fujian, Quanzhou](/img/destinations/fujian-7-days-itinerary-guide/3.webp)
 
 **Journey:** HSR from Quanzhou → Wuyi North (武夷山北), ~3 hours (change at Fuzhou or Wuyi North — check routing). Cost ¥170-220.
 

@@ -1,7 +1,7 @@
 ---
 title: "Inner Mongolia Singing Sand Dunes: Resonant Sand Bay & Desert Experience"
 description: "Visit the Resonant Sand Bay (Xiangshawan) in Inner Mongolia — dramatic singing sand dunes in the Kubuqi Desert where you can sandboard, camel trek, see the desert-meets-grassland landscape, and camp under extraordinary star-filled skies."
-ogImage: "https://images.pexels.com/photos/3121286/pexels-photo-3121286.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/inner-mongolia-singing-sand-dunes-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Inner Mongolia"
 tags: ["inner-mongolia", "singing-sand-dunes", "xiangshawan", "kubuqi-desert", "camel-trekking", "desert", "sandboarding", "stargazing"]
@@ -15,9 +15,9 @@ The "singing" has been explained by science (it results from dry, spherical sand
 
 ---
 
-![Inner Mongolia Singing Sand Dunes — The Singing Sand Phenomenon](https://images.pexels.com/photos/8348355/pexels-photo-8348355.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Singing Sand Phenomenon
+
+![West Lake Scenery, Hangzhou](/img/destinations/inner-mongolia-singing-sand-dunes-guide/1.webp)
 
 Sand dunes produce sound under specific conditions:
 - **Grain uniformity:** The sand at Xiangshawan consists of highly rounded quartz grains of nearly identical diameter.
@@ -54,9 +54,9 @@ Four-wheel-drive dune buggies (¥120/vehicle) enter the back-dune area inaccessi
 
 ---
 
-![Inner Mongolia Singing Sand Dunes — The Desert-Grassland Transition](https://images.pexels.com/photos/2106194/pexels-photo-2106194.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Desert-Grassland Transition
+
+![Huangdi Ancient Village Luo Landscape, Shanxi, Anhui](/img/destinations/inner-mongolia-singing-sand-dunes-guide/2.webp)
 
 What makes the Resonant Sand Bay area uniquely interesting geographically is the **transition zone** between desert and grassland. On the southern and western edges of the dune complex, the Kubuqi Desert is actively controlled by the world's largest desert reforestation project (the Kubuqi Desertification Control Programme), where drought-resistant shrubs have converted bare dunes to scrubland over 600,000 hectares since 1988.
 
@@ -66,6 +66,8 @@ On the northern edge, the dunes abruptly meet the grasslands of the Hetao Plain 
 
 ## Camping and Stargazing
 
+![Scenery, Anhui, Huangshan](/img/destinations/inner-mongolia-singing-sand-dunes-guide/3.webp)
+
 The Resonant Sand Bay scenic area has an **official camp site** at the desert edge (¥80–¥150/tent or pre-erected yurt). Private operators within the camp serve mutton hotpot and millet wine around fire pits after dark.
 
 The night sky above the Kubuqi Desert is extraordinary. The **Hetao Plain** (the Inner Mongolia section of the Yellow River bend) has minimal light pollution; on a clear, moonless night in autumn, the Milky Way is clearly visible to the naked eye and the spectacle of the Big Dipper — *Beidou*, the North Star's constellation, which has served as a navigation tool for Chinese travellers for millennia — directly overhead is emotionally affecting.
@@ -73,8 +75,6 @@ The night sky above the Kubuqi Desert is extraordinary. The **Hetao Plain** (the
 **Best stargazing months:** October and November (dry, clear skies; cold but manageable with camp blankets).
 
 ---
-
-![Inner Mongolia Singing Sand Dunes — Nearby: Kubuqi Desert Eco-Tourism Area](https://images.pexels.com/photos/12033762/pexels-photo-12033762.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Nearby: Kubuqi Desert Eco-Tourism Area
 

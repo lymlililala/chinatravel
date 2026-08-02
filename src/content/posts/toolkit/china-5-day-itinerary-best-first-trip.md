@@ -1,6 +1,7 @@
 ---
 title: "China 5-Day First Trip Itinerary: The Perfect Short Visit to Beijing & Shanghai"
 description: "The ideal first-time China itinerary in 5 days — 2.5 days each in Beijing and Shanghai, covering the unmissable sights, the best food, how to move between the two cities on the high-speed train, the pace that allows genuine experience rather than a checklist sprint, and what to skip to keep the trip enjoyable."
+ogImage: "/img/toolkit/china-5-day-itinerary-best-first-trip/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "itinerary", "5-days", "beijing", "shanghai", "first-trip", "great-wall", "forbidden-city", "bund"]
@@ -13,6 +14,8 @@ Five days is not enough time to understand China. It is enough time to understan
 ---
 
 ## The Logic of This Itinerary
+
+![Glacier Park Spectacular Scenery, Yunnan, Lijiang](/img/toolkit/china-5-day-itinerary-best-first-trip/1.webp)
 
 **Why Beijing + Shanghai?** These two cities represent the most legible contrast in China: Beijing is political, historical, northern — the Great Wall, the Forbidden City, the hutong neighbourhoods. Shanghai is commercial, international, coastal — the Art Deco Bund, the Pudong skyline, the best food shopping in China. Together they frame the country more clearly than either alone.
 
@@ -72,6 +75,8 @@ Xiao Yang Sheng Jian (小杨生煎) for pan-fried soup buns; Nan Xiang Steamed B
 ---
 
 ## Day 4: Shanghai — Old and New
+
+![Zhou City Scenery, Yunnan, Lijiang](/img/toolkit/china-5-day-itinerary-best-first-trip/2.webp)
 
 **9:00–11:30: Yu Garden (豫园)**
 A Ming dynasty scholar's garden in the heart of the old city; the architecture is excellent; the surrounding bazaar streets have decent street food (fried glutinous rice cake, pork jerky). Admission ¥40.

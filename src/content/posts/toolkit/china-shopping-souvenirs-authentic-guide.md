@@ -1,6 +1,7 @@
 ---
 title: "China Shopping & Souvenirs Guide: What's Worth Buying and Where"
 description: "Buy the right things in China — the authentic regional crafts worth seeking out versus the mass-produced tourist trinkets, where to find genuine Yixing teapots and Jingdezhen ceramics, which silk is real silk, the regional specialities by province, how to bargain correctly, and what to declare at customs when bringing Chinese goods home."
+ogImage: "/img/toolkit/china-shopping-souvenirs-authentic-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "shopping", "souvenirs", "silk", "ceramics", "teapot", "crafts", "authentic", "regional-specialities"]
@@ -13,6 +14,8 @@ China's shopping landscape divides neatly into three categories: mass-produced t
 ---
 
 ## Authentic Regional Crafts Worth Buying
+
+![Forbidden City Scenery, Beijing](/img/toolkit/china-shopping-souvenirs-authentic-guide/1.webp)
 
 ### Silk (丝绸): Where and What
 
@@ -78,6 +81,8 @@ Chinese tea bought in China is significantly cheaper than Chinese tea sold inter
 ---
 
 ## Province-Specific Specialties
+
+![Forbidden City Panorama Interior, Beijing](/img/toolkit/china-shopping-souvenirs-authentic-guide/2.webp)
 
 | Region | Best Buy |
 |--------|----------|

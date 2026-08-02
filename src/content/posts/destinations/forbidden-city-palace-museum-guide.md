@@ -12,7 +12,7 @@ tags:
   - history
   - UNESCO heritage
 description: "Everything you need to visit the Forbidden City in Beijing — booking tickets online, the best route through the palace, hidden halls most visitors miss, and tips from frequent visitors."
-ogImage: "https://images.pexels.com/photos/10578447/pexels-photo-10578447.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/forbidden-city-palace-museum-guide/cover.webp"
 ---
 
 The Forbidden City is, by almost any measure, the most impressive historic building in Asia. 9,999 rooms across a 72-hectare walled compound; the home of 24 emperors spanning the Ming and Qing dynasties from 1420 to 1912; today the world's most visited museum with over 17 million annual visitors.
@@ -23,7 +23,7 @@ First-time visitors often walk the main north-south axis and feel they've "done 
 
 ## Before You Go: Booking Tickets (Essential)
 
-![Forbidden City (Palace Museum) Beijing — Before You Go: Booking Tickets (Essential)](https://images.pexels.com/photos/9466387/pexels-photo-9466387.png?auto=compress&cs=tinysrgb&h=650&w=940)
+![Forbidden City Panorama Interior, Beijing](/img/destinations/forbidden-city-palace-museum-guide/1.webp)
 
 The Forbidden City sells strictly limited tickets online only — no tickets are available at the gate. This is non-negotiable.
 
@@ -43,8 +43,6 @@ The Forbidden City sells strictly limited tickets online only — no tickets are
 **Metro:** Take Line 1 to **Tiananmen East** or **Tiananmen West** stations. The main entrance (Meridian Gate / 午门) faces south onto Tiananmen Square — exit the metro and walk north.
 
 **Note:** The Forbidden City opens at 8:30 AM. Arrive by 8:15 AM to queue at the ticket scanning gate and enter early.
-
-![Forbidden City (Palace Museum) Beijing — Layout: Understanding What You're Seeing](https://images.pexels.com/photos/7642124/pexels-photo-7642124.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Layout: Understanding What You're Seeing
 
@@ -74,6 +72,8 @@ Most visitors spend all their time on the central axis. The left (east) and righ
 
 ## The Main Route: Central Axis
 
+![Forbidden City Scenery, Beijing](/img/destinations/forbidden-city-palace-museum-guide/2.webp)
+
 Allow 2–3 hours for the central axis alone.
 
 ### The Three Great Halls (三大殿)
@@ -95,8 +95,6 @@ The primary bedroom palace of the Ming emperors, and in the Qing Dynasty, the ma
 ### Imperial Garden (御花园)
 
 The Forbidden City's surprisingly intimate garden occupies the northern section. Ancient cypress trees over 500 years old, ornamental rocks, pavilions, and seasonal flowers create a peaceful contrast to the vast ceremonial spaces. Visit early morning when it is quietest.
-
-![Forbidden City (Palace Museum) Beijing — Hidden Gems: What Most Visitors Miss](https://images.pexels.com/photos/16141675/pexels-photo-16141675.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Hidden Gems: What Most Visitors Miss
 
@@ -125,6 +123,8 @@ The residential quarters of the imperial concubines, on the western side of the 
 During the imperial era, the emperor watched military ceremonies from the upper galleries of the Meridian Gate. Today, the upper level hosts temporary exhibitions (separate ticket, ¥20–30). The view down into the enormous outer courtyard and the procession of halls stretching north is exceptional — a perspective most visitors never see.
 
 ## Recommended Routes by Time Available
+
+![Qianlongyulingdi Palace, Beijing](/img/destinations/forbidden-city-palace-museum-guide/3.webp)
 
 ### 2 Hours (Rush)
 Central axis only: Meridian Gate → Three Great Halls → Gate of Heavenly Purity → Palace of Heavenly Purity → Imperial Garden → Exit via Shenwumen (North Gate)

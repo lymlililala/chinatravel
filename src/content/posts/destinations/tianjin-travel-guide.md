@@ -12,9 +12,10 @@ tags:
   - Haihe River
   - day trips from Beijing
 description: "Explore Tianjin — Beijing's underrated coastal neighbour with extraordinary European concession architecture, the legendary Goubuli steamed dumplings, the Five Great Avenues heritage district, and the Haihe River waterfront."
+ogImage: "/img/destinations/tianjin-travel-guide/cover.webp"
 ---
 
-![Tianjin Five Great Avenues — a quiet tree-lined street of European-style villas in the former British concession, with Tudor and neoclassical facades](https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=1200&q=85)
+
 *The Five Great Avenues — 230 European-style villas from 12 nations, the most concentrated colonial architecture in China*
 
 Tianjin sits 120 km southeast of Beijing, connected by a 30-minute high-speed rail link. It's the most dramatically underrated day-trip destination from the capital — a city of 15 million people with an extraordinary architectural heritage from the treaty port era and a food culture centred on one of China's most famous street foods.
@@ -22,6 +23,8 @@ Tianjin sits 120 km southeast of Beijing, connected by a 30-minute high-speed ra
 ## Table of contents
 
 ## The Five Great Avenues (五大道)
+
+![Cifangzi Scenery, Tianjin](/img/destinations/tianjin-travel-guide/1.webp)
 
 The most concentrated example of European colonial architecture in China — five parallel streets in the former British concession, lined with 230 European-style villas representing English Tudor, French neoclassical, Italian baroque, German Wilhelmine, and Spanish colonial styles.
 
@@ -31,10 +34,11 @@ The streets were built from the 1900s to 1930s as residences for foreign consula
 
 **Mingyuan Football Stadium (民园广场):** The 1930s sports ground at the circuit's centre, converted into a public square with the original grandstands preserved — atmospheric and photogenic.
 
-![Tianjin's Five Great Avenues villa district in autumn — golden plane tree leaves lining a European-style residential street with ornate iron gates](https://images.unsplash.com/photo-1565098772267-60af42b81ef2?w=1200&q=85)
 *Autumn in the Five Great Avenues — the European residential streetscapes are especially beautiful in October*
 
 ## The Italian Concession (意大利风情区)
+
+![Wudadao Scenery, Tianjin](/img/destinations/tianjin-travel-guide/2.webp)
 
 A concentrated Italian-style neighbourhood — the only surviving Italian concession in China. Piazzas, arcaded streets, Renaissance-style civic buildings. Genuinely coherent architecturally, particularly the area around **Marco Polo Square (马可波罗广场)**.
 
@@ -50,10 +54,11 @@ Tianjin's most famous food — steamed pork dumplings that have been the subject
 
 **Jianbing Guozi (煎饼果子):** Tianjin's other famous street food — a folded savory crêpe with egg, crispy fried dough, bean paste, and chilli sauce. The Tianjin version is considered superior to Beijing's jianbing. Available from street carts everywhere in the morning.
 
-![Goubuli steamed dumplings — 18-fold pork dumplings with gelatinised broth inside, arranged in a bamboo steamer at a Tianjin restaurant](https://images.unsplash.com/photo-1563245372-f21724e3856d?w=1200&q=85)
 *Goubuli steamed dumplings — Tianjin's most famous food, each dumpling with exactly 18 folds since 1858*
 
 ## Haihe River (海河) Waterfront
+
+![Lvzutang Scenery, Tianjin](/img/destinations/tianjin-travel-guide/3.webp)
 
 The Haihe River runs through the heart of Tianjin — widened and landscaped into a 15 km urban waterfront with bridges of different architectural styles and the illuminated European-style buildings reflected in the water.
 
@@ -61,7 +66,6 @@ The Haihe River runs through the heart of Tianjin — widened and landscaped int
 
 **Tianjin Eye (天津之眼):** A 110-metre ferris wheel built over the Yongle Bridge — one of the world's only ferris wheels mounted on a bridge. ¥100 per person; 30-minute circuit.
 
-![Tianjin Haihe River waterfront at night — illuminated European-style buildings reflected in the calm river water, with the Tianjin Eye ferris wheel in the distance](https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?w=1200&q=85)
 *The Haihe River waterfront at night — Baroque and Renaissance facades illuminated along the river, with the ferris wheel on Yongle Bridge*
 
 ## Practical Tips

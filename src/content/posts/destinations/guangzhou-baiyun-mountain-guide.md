@@ -12,14 +12,14 @@ tags:
   - guangdong
   - city views
 description: "Baiyun Mountain rises directly above central Guangzhou — a green forested mountain visible from across the city that has served as the lungs and recreational escape of Guangdong's capital for centuries. This 2026 guide covers the cable car, best hiking trails, the famous Moxing Ridge summit views, seasonal highlights, practical transport, and how to combine a mountain visit with other Guangzhou attractions."
-ogImage: "https://images.pexels.com/photos/36064131/pexels-photo-36064131.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guangzhou-baiyun-mountain-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## Guangzhou's Green Mountain: Why Baiyun Matters
 
-![Baiyun Mountain Guangzhou — Guangzhou's Green Mountain: Why Baiyun Matters](https://images.pexels.com/photos/35272139/pexels-photo-35272139.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Nanhaixiqiao Mountain, Foshan](/img/destinations/guangzhou-baiyun-mountain-guide/1.webp)
 
 In a city of 18 million people built on flat delta land, the fact that a 428-metre forested mountain rises within 10km of the city centre is remarkable. Baiyun Mountain (白云山, Bái Yún Shān) — White Cloud Mountain — has been Guangzhou's green lung, recreational escape, and spiritual backdrop for thousands of years.
 
@@ -62,9 +62,9 @@ Main park: 6:00 AM – 6:00 PM (extended to 7:30 PM in summer)
 Cable car: 8:30 AM – 5:30 PM (weather permitting)
 Dawn entry: Many regulars enter before official opening time via the north entrance for morning exercise. Enforcement is relaxed.
 
-![Baiyun Mountain Guangzhou — Getting to Baiyun Mountain](https://images.pexels.com/photos/32454714/pexels-photo-32454714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting to Baiyun Mountain
+
+![Qingyuanfeixia Mountain Scenery, Guangdong](/img/destinations/guangzhou-baiyun-mountain-guide/2.webp)
 
 ### Metro
 Guangzhou Metro Line 2 has a stop at Baiyun Mountain (白云山站) but this is actually quite far from the main mountain entrances. Better options:
@@ -108,9 +108,9 @@ A Qing dynasty Buddhist temple on the mountain's eastern slope, largely overlook
 ### Moxing Ridge at Sunset
 The ridge has an excellent west-facing aspect. On clear evenings from October through February, the sunset view over the Pearl River Delta and Guangzhou's skyline from the ridge is spectacular — the entire city spread below, the pearl delta gleaming in the distance.
 
-![Baiyun Mountain Guangzhou — Combining Baiyun Mountain with Guangzhou Attractions](https://images.pexels.com/photos/17688717/pexels-photo-17688717.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Combining Baiyun Mountain with Guangzhou Attractions
+
+![Huaqiao City Scenery, Guangdong, Shenzhen](/img/destinations/guangzhou-baiyun-mountain-guide/3.webp)
 
 ### Yuexiu Park (越秀公园)
 The main city park below the mountain's southern flanks, Yuexiu houses the famous Five Goats Sculpture — the symbol of Guangzhou — and excellent views of the city skyline. Entry free. A natural complement to a mountain morning: descend from the mountain and walk through Yuexiu to the city centre.

@@ -11,7 +11,7 @@ tags:
   - european-travellers
   - beginners
 description: "China travel guide for Dutch and Belgian passport holders — 15-day visa-free entry, KLM and Brussels Airlines direct flights to Beijing and Shanghai, setting up Alipay with European bank cards, practical tips from Northern Europe, and recommended China itineraries for first-timers from the Benelux."
-ogImage: "https://images.pexels.com/photos/14647120/pexels-photo-14647120.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-travel-guide-dutch-belgian/cover.webp"
 ---
 
 The Netherlands and Belgium joined China's visa-free program in 2024, making the logistics of a China trip significantly more straightforward for Benelux passport holders. No pre-arranged visa means you can book flights, check the weather forecast, and go — provided you have a valid passport and a return ticket.
@@ -23,6 +23,8 @@ For Dutch and Belgian travellers making a first China trip, this guide covers th
 ---
 
 ## Visa Rules for Dutch and Belgian Passport Holders
+
+![Jinshanling Great Wall, Beijing](/img/toolkit/china-travel-guide-dutch-belgian/1.webp)
 
 ### 15-Day Visa-Free Entry
 
@@ -92,6 +94,8 @@ Many Dutch and Belgian travellers already use Revolut or N26 for travel. Both wo
 ---
 
 ## Practical Tips from a Northern European Perspective
+
+![Yiyuanjie Scenery, Beijing, Suzhou](/img/toolkit/china-travel-guide-dutch-belgian/2.webp)
 
 ### The Internet Situation
 

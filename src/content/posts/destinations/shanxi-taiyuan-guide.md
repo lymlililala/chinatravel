@@ -12,7 +12,7 @@ tags:
   - history
   - culture
 description: "Taiyuan is the capital of Shanxi province — China's most coal-rich and historically underrated region. The city anchors visits to the magnificent Jinci Temple complex, serves as the gateway to Pingyao, Wutai Mountain and the Yungang Caves, and has a surprisingly lively food and culture scene built around centuries of merchant wealth. This 2026 guide covers city highlights, transport, accommodation and day trip logistics."
-ogImage: "https://images.pexels.com/photos/35551538/pexels-photo-35551538.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/shanxi-taiyuan-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -23,7 +23,7 @@ Taiyuan, the provincial capital, is the hub for accessing all of this. The city 
 
 ## Jinci Temple (晋祠)
 
-![Taiyuan Shanxi — Jinci Temple (晋祠)](https://images.pexels.com/photos/29606775/pexels-photo-29606775.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Yungang Grottoes, Shanxi, Datong](/img/destinations/shanxi-taiyuan-guide/1.webp)
 
 Jinci is Taiyuan's finest attraction and one of China's most historically significant garden-temple complexes. Located 25 km southwest of the city centre at the foot of the Xuanweng Mountains, it combines active religious function with extraordinary historical architecture.
 
@@ -56,8 +56,6 @@ Taiyuan's most recognisable skyline feature: two matching 13-storey pagodas (bui
 
 **Tickets:** ¥30 ($4). Open daily 08:30–17:30.
 
-![Taiyuan Shanxi — Tianlong Mountain Buddhist Caves (天龙山石窟)](https://images.pexels.com/photos/37579575/pexels-photo-37579575.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Tianlong Mountain Buddhist Caves (天龙山石窟)
 
 Located about 40 km southwest of Taiyuan in the hills above the Fen River valley, Tianlong Mountain's Buddhist caves were carved during the Eastern Wei, Northern Qi, Sui and Tang Dynasties (6th–8th centuries CE). The statues here represent the peak of Tang Dynasty Buddhist sculpture — fluid, sensuous forms radically different from the more hieratic Wei Dynasty style.
@@ -88,6 +86,8 @@ China's greatest Buddhist cave art complex — 53 major caves containing over 50
 
 ## Taiyuan Food
 
+![Heng Mountain Scenery, Shanxi](/img/destinations/shanxi-taiyuan-guide/2.webp)
+
 Shanxi cuisine is noodle-country — the province claims to have over 280 varieties of noodle, and any serious food-focused visit should be organised around testing this claim.
 
 **Key dishes:**
@@ -107,6 +107,8 @@ Shanxi cuisine is noodle-country — the province claims to have over 280 variet
 - **By air:** Taiyuan Wusu International Airport (TYN) has extensive domestic connections; 1 hour from Beijing
 
 ## Where to Stay
+
+![Huanghehukou Waterfall](/img/destinations/shanxi-taiyuan-guide/3.webp)
 
 **Budget (¥100–¥200 / $14–$28):** Budget chain hotels near Taiyuan South Station (the high-speed hub). **7 Days Inn** and **Hanting Express** are the reliable choices.
 

@@ -12,14 +12,14 @@ tags:
   - hiking
   - history
 description: "Jinggangshan is one of China's most significant historical mountains — birthplace of the Communist revolution's rural strategy, and a genuine natural beauty with misty forests, waterfalls, and dramatic ridgelines. This 2026 guide covers the key revolutionary sites, best hiking trails, practical logistics, and how to experience this unique destination respectfully and meaningfully."
-ogImage: "https://images.pexels.com/photos/15766744/pexels-photo-15766744.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/jinggang-mountain-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## Understanding Jinggangshan: History and Landscape Combined
 
-![Jinggangshan Mountain — Understanding Jinggangshan: History and Landscape Combined](https://images.pexels.com/photos/8709181/pexels-photo-8709181.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Jinggangshanlongtan Waterfall, Jiangxi](/img/destinations/jinggang-mountain-guide/1.webp)
 
 There are places in China where history and landscape are so thoroughly intertwined that separating them feels wrong. Jinggangshan — or Jinggang Mountain — is one of those places. Situated on the border of Jiangxi and Hunan provinces, this mountain range became the cradle of the Chinese Communist revolution's rural strategy when Mao Zedong and Zhu De established the first rural revolutionary base here in 1927.
 
@@ -67,8 +67,6 @@ A longer loop around the Five Finger Peak ridge. Total distance around 15km with
 ### Forest Trails around Ciping — Easy
 Several well-marked short nature walks exist within 3km of Ciping town, suitable for those who want fresh air and forest views without serious hiking. Good for morning walks before the main sites get crowded.
 
-![Jinggangshan Mountain — When to Visit Jinggangshan](https://images.pexels.com/photos/4063192/pexels-photo-4063192.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## When to Visit Jinggangshan
 
 ### Spring (March–May): Best Season
@@ -103,6 +101,8 @@ Within the scenic area, tourist buses run circuits connecting the eight sub-area
 
 ## Admission Prices and Passes
 
+![Longhu Mountain Scenery, Jiangxi](/img/destinations/jinggang-mountain-guide/2.webp)
+
 **Jinggangshan Scenic Area Comprehensive Ticket**: ¥160
 Covers entry to all eight scenic sub-areas and includes transport within the area. Valid for two consecutive days.
 
@@ -111,8 +111,6 @@ Covers entry to all eight scenic sub-areas and includes transport within the are
 **Ropeway/Cable Car**: ¥80–100 one-way at various locations
 
 **Note on free access**: The Chinese government has a policy of free entry to patriotic education bases for certain groups. Chinese citizens (students, veterans, etc.) often receive free or discounted entry. Foreign visitors pay standard prices.
-
-![Jinggangshan Mountain — Where to Stay](https://images.pexels.com/photos/15949877/pexels-photo-15949877.png?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Where to Stay
 
@@ -126,6 +124,8 @@ Most accommodation is concentrated in Ciping, within walking distance of the mai
 **Comfortable**: Several 4-star options have opened in recent years, particularly targeted at the organised tour market. Prices ¥400–700 per night.
 
 ## Food and Dining in Jinggangshan
+
+![Lu Mountain Scenery, Jiangxi](/img/destinations/jinggang-mountain-guide/3.webp)
 
 The local cuisine reflects Jiangxi's love of preserved foods, dried vegetables, and chilli. The mountain conditions historically demanded food that could be stored and transported.
 

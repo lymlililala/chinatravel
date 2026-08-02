@@ -12,14 +12,14 @@ tags:
   - jiangsu
   - republican history
 description: "The Sun Yat-sen Mausoleum on Purple Mountain is one of China's most significant Republican-era monuments — an enormous granite staircase leading to the tomb of the Father of Modern China. This guide covers the history of Dr Sun Yat-sen, how to climb the 392 steps to the tomb, the surrounding Purple Mountain attractions, practical tips, and how to combine it with Nanjing's other historical sites in 2026."
-ogImage: "https://images.pexels.com/photos/11948453/pexels-photo-11948453.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/nanjing-zhongshan-mausoleum-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## Who Was Sun Yat-sen and Why Does His Tomb Matter?
 
-![Sun Yat — Who Was Sun Yat-sen and Why Does His Tomb Matter?](https://images.pexels.com/photos/18137567/pexels-photo-18137567.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Ling Mountain Scenery, Jiangsu, Wuxi](/img/destinations/nanjing-zhongshan-mausoleum-guide/1.webp)
 
 Few figures in modern Chinese history are as universally respected across the political spectrum as Sun Yat-sen (孫中山, Sūn Zhōngshān). Born in Guangdong Province in 1866, he dedicated his life to ending the Qing dynasty's imperial rule and establishing a modern republic based on his Three Principles of the People — Nationalism, Democracy, and People's Livelihood.
 
@@ -55,8 +55,6 @@ Through a door behind the statue, a domed chamber contains the marble sarcophagu
 
 **Entry to the sacrificial hall and tomb**: ¥80 additional ticket required beyond the park entry.
 
-![Sun Yat — Admission Prices (2026)](https://images.pexels.com/photos/33996086/pexels-photo-33996086.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Admission Prices (2026)
 
 - **Zhongshan Scenic Area entry** (purple mountain park): ¥80 comprehensive ticket
@@ -69,6 +67,8 @@ The comprehensive ticket is worth buying if you plan to visit multiple sites wit
 **Free entry days**: The mausoleum is free on several national holidays and Dr Sun Yat-sen's birthday (November 12) and death anniversary (March 12). Expect very large crowds on these dates.
 
 ## Purple Mountain: The Full Scenic Area
+
+![Gudianmingyuanliu Garden Scenery, Suzhou](/img/destinations/nanjing-zhongshan-mausoleum-guide/2.webp)
 
 The Sun Yat-sen Mausoleum is the centrepiece of a much larger scenic area on Purple Mountain. Allow a full day to see the main highlights.
 
@@ -84,8 +84,6 @@ An ancient Buddhist temple and a Republican-era pagoda commemorating soldiers wh
 ### Sun Yat-sen Memorial Concert Hall (音乐台)
 A white marble amphitheatre set in forest, built in 1932 as a memorial to Sun Yat-sen. Free concerts and cultural performances are held here in warmer months. The architectural composition of the stage, colonnade, and surrounding trees is elegant.
 
-![Sun Yat — Getting to Purple Mountain](https://images.pexels.com/photos/30120127/pexels-photo-30120127.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting to Purple Mountain
 
 ### Metro
@@ -98,6 +96,8 @@ A dedicated tourist shuttle bus service connects major sites within the Purple M
 From Nanjing South Railway Station: approximately 20–25 minutes, ¥30–40. From central Nanjing (Xinjiekou): 15 minutes, ¥20–30.
 
 ## Timing Your Visit
+
+![Shi Lake Scenery, Jiangsu, Suzhou](/img/destinations/nanjing-zhongshan-mausoleum-guide/3.webp)
 
 ### Best Season
 **Spring (March–April)**: Cherry trees and plum blossoms bloom across the mountain. The annual Plum Blossom Festival (Meihualun) in nearby Meijaling draws visitors in February–March.

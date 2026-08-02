@@ -12,7 +12,7 @@ tags:
   - desert
   - yellow-river
 description: "Shapotou in Ningxia is where the Tengger Desert meets the Yellow River — a landscape of singing sand dunes dropping directly to the river's edge, sheepskin raft crossings, and China's original sandboarding destination. This guide covers the desert park, the river activities, the Zhongwei old town, and why this improbable desert-river junction is one of northwest China's most photogenic destinations."
-ogImage: "https://images.pexels.com/photos/20470184/pexels-photo-20470184.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/ningxia-zhongwei-shapotou-guide/cover.webp"
 ---
 
 Shapotou (沙坡头, "Sand Slope Head") in Zhongwei (中卫), Ningxia, is one of the most geographically improbable places in China — a point where the Tengger Desert (腾格里沙漠) advances to the very edge of the Yellow River, with sand dunes towering 100 meters above the riverbank and dropping steeply to the water. The desert and the river exist in direct contact, separated by nothing more than a narrow strip of reclaimed land.
@@ -22,6 +22,8 @@ This improbable geography has made Shapotou one of northwest China's most distin
 ## Table of contents
 
 ## Getting to Zhongwei and Shapotou
+
+![Zhenbeibaoyingshi City Scenery, Ningxia](/img/destinations/ningxia-zhongwei-shapotou-guide/1.webp)
 
 **By high-speed train:**
 - **From Yinchuan (Ningxia capital):** About 2 hours; ¥80–120; multiple daily departures
@@ -85,13 +87,13 @@ Motorized boats offer longer river circuits; ¥60–80 per person for a 40-minut
 **Baotou-Lanzhou Railway viewing:**
 The railway passes through the scenic area on an embankment between the dunes and the river — the very section that the straw-checkerboard technique was developed to protect from sand encroachment. Watching a train pass between the dunes and the river is an evocative sight.
 
-![Zhongwei Shapotou Ningxia — The Straw-Checkerboard Sand Control (草方格沙障)](https://images.pexels.com/photos/34388568/pexels-photo-34388568.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Straw-Checkerboard Sand Control (草方格沙障)
 
 The method developed at Shapotou in the 1950s — laying straw in a grid pattern across the sand surface to create a windbreak that stabilizes the dunes — is one of China's most significant contributions to desert management. The technique is visible throughout the park: geometric grids of straw covering the sand surface between the railway and the active dunes. An exhibition hall near the park entrance documents the history and science of the method.
 
 ## Zhongwei Old Town (中卫古城)
+
+![Lvyougaoqing Scenery, Yinchuan](/img/destinations/ningxia-zhongwei-shapotou-guide/2.webp)
 
 About 20km from Shapotou, Zhongwei's old town has a few worthwhile sites:
 
@@ -104,8 +106,6 @@ A remarkable three-story temple complex built in the Ming Dynasty, combining Bud
 **Zhongwei Night Market:**
 The area around the old town comes alive after dark with food stalls, barbecue restaurants, and street vendors. The local barbecue tradition — lamb skewers (羊肉串) with cumin and chili — is excellent.
 
-![Zhongwei Shapotou Ningxia — Ningxia Wine Region](https://images.pexels.com/photos/6377689/pexels-photo-6377689.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Ningxia Wine Region
 
 Zhongwei sits at the edge of Ningxia's Helan Mountain wine region (贺兰山东麓葡萄酒产区), which has emerged as one of China's most important wine-producing areas. Several wineries within an hour's drive of Zhongwei offer tastings and tours:
@@ -116,6 +116,8 @@ Zhongwei sits at the edge of Ningxia's Helan Mountain wine region (贺兰山东�
 **Wine tours:** Arrange through your hotel or contact wineries directly. Some tours combine Shapotou with an afternoon winery visit.
 
 ## Food in Zhongwei
+
+![Sha Lake, Yinchuan](/img/destinations/ningxia-zhongwei-shapotou-guide/3.webp)
 
 **Ningxia lamb (宁夏滩羊):**
 Ningxia's lamb is considered among the finest in China — the sheep graze on alkaline desert plants that give the meat a distinctive mild flavor without the gaminess common in lamb from other regions.

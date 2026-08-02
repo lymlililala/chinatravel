@@ -1,7 +1,7 @@
 ---
 title: "Zhangjiakou Great Wall Hiking: Wild Wall Sections Beyond the Tourist Crowds"
 description: "Explore remote, unrestored Great Wall sections near Zhangjiakou in Hebei — the wild wall at Juyongguan, dramatic Damaolin and Yanmenguan passes, grassland-meets-wall landscapes at Bashang, and practical hiking routes through some of the most photogenic and crowd-free sections in northern China."
-ogImage: "https://images.pexels.com/photos/6637530/pexels-photo-6637530.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/hebei-zhangjiakou-great-wall-hike/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Hebei"
 tags: ["hebei", "zhangjiakou", "great-wall", "wild-wall", "hiking", "unrestored-wall", "bashang", "winter-olympics-site", "frontier"]
@@ -15,9 +15,9 @@ The Great Wall sections north and west of Zhangjiakou are among the **least-visi
 
 ---
 
-![Zhangjiakou Great Wall Hiking — Understanding "Wild Wall" vs. Restored Wall](https://images.pexels.com/photos/28305341/pexels-photo-28305341.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Understanding "Wild Wall" vs. Restored Wall
+
+![Zhangjiakoubashang Grassland](/img/destinations/hebei-zhangjiakou-great-wall-hike/1.webp)
 
 The phrase **"wild wall" (野长城)** describes sections of the Great Wall that have not been restored for tourism — where the original Ming-dynasty bricks are tumbling from their foundations, where weeds grow from the rampart walkways, and where you are likely to be entirely alone.
 
@@ -29,9 +29,9 @@ The sections near Zhangjiakou fall largely in the wild wall category.
 
 ---
 
-![Zhangjiakou Great Wall Hiking — Key Wall Sections Near Zhangjiakou](https://images.pexels.com/photos/33899285/pexels-photo-33899285.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Key Wall Sections Near Zhangjiakou
+
+![Jinshanling Great Wall Landscape, Hebei](/img/destinations/hebei-zhangjiakou-great-wall-hike/2.webp)
 
 ### Panlongshan (盘龙山长城)
 
@@ -65,8 +65,6 @@ A museum at the pass traces its military history, which includes legendary gener
 
 ---
 
-![Zhangjiakou Great Wall Hiking — The 2022 Winter Olympics Legacy](https://images.pexels.com/photos/10363510/pexels-photo-10363510.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The 2022 Winter Olympics Legacy
 
 Zhangjiakou hosted the **Alpine Skiing, Biathlon, Cross-Country Skiing, and Ski Jumping** events at the 2022 Winter Olympics. The **National Ski Center (国家跳台滑雪中心)** — nicknamed "Snow Ruyi" for its resemblance to the traditional jade sceptre — remains open for public visits and limited ski jumping observation.
@@ -76,6 +74,8 @@ The **Taizicheng Olympic Village** in the hills above Zhangjiakou is now a resor
 ---
 
 ## Practical Information
+
+![Bishu Mountain Resort, Chengde](/img/destinations/hebei-zhangjiakou-great-wall-hike/3.webp)
 
 ### Getting There
 

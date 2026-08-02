@@ -12,7 +12,7 @@ tags:
   - UNESCO heritage
   - jade dragon snow mountain
 description: "A complete guide to Lijiang Old Town and Naxi culture in Yunnan — beyond the bar street crowds, into the quieter lanes, the traditional Naxi music, Shuhe Ancient Town, and the snow mountain backdrop."
-ogImage: "https://images.pexels.com/photos/10836079/pexels-photo-10836079.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/lijiang-naxi-old-town-guide/cover.webp"
 ---
 
 Lijiang Old Town (丽江古城) is both overrun by tourism and genuinely extraordinary. These two facts coexist uncomfortably, but managing the balance — knowing where the crowds are and where they aren't — makes a Lijiang visit rewarding rather than frustrating.
@@ -23,7 +23,7 @@ The town was built by the Naxi people (纳西族) from the 10th century onward, 
 
 ## Essential Information
 
-![Lijiang Old Town & Naxi Culture — Essential Information](https://images.pexels.com/photos/14553045/pexels-photo-14553045.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Jade Dragon Snow Mountain Lanyuegu Scenery, Yunnan](/img/destinations/lijiang-naxi-old-town-guide/1.webp)
 
 | Detail | Info |
 |--------|------|
@@ -61,8 +61,6 @@ The former residence of the Mu clan — the Naxi rulers of the Lijiang region fo
 
 The forested hill immediately west of the old town — a city park with old trees and multiple viewing pavilions. The **Wangu Tower (万古楼)** at the summit provides a 360-degree view of the old town, the valley, and the mountains. ¥15 entry. Less visited than the Mu Palace hill despite arguably better views.
 
-![Lijiang Old Town & Naxi Culture — Shuhe Ancient Town (束河古镇)](https://images.pexels.com/photos/36473865/pexels-photo-36473865.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Shuhe Ancient Town (束河古镇)
 
 7 km north of Lijiang — a quieter, less visited version of the old town concept. Shuhe was a Naxi leather-working and trade centre on the Tea Horse Road (古茶马古道) — the overland tea route from Yunnan to Tibet.
@@ -72,6 +70,8 @@ The village is smaller and much less developed than Lijiang Old Town. The centra
 **The Tea Horse Road Museum (茶马古道博物馆)** in Shuhe is small but good — the best context for understanding the trade networks that drove Yunnan's historical wealth.
 
 ## Naxi Culture
+
+![Shuhe Old Town Scenery, Yunnan, Lijiang](/img/destinations/lijiang-naxi-old-town-guide/2.webp)
 
 The Naxi people (纳西族) are the indigenous inhabitants of the Lijiang valley — approximately 310,000 people, concentrated in Lijiang and the surrounding mountains. Their culture has several aspects of extraordinary interest.
 
@@ -87,9 +87,9 @@ Naxi orchestral music is another unique cultural survival — a style of classic
 
 **Naxi Ancient Music Hall (大研纳西古乐会):** Tickets ¥160; performances nightly at 8 PM. The musicians are elderly Naxi men (some in their 80s) playing the ensemble in traditional dress. Controversial for its degree of performance versus authenticity, but the music itself is genuinely rare and beautiful.
 
-![Lijiang Old Town & Naxi Culture — Jade Dragon Snow Mountain (玉龙雪山)](https://images.pexels.com/photos/10887395/pexels-photo-10887395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Jade Dragon Snow Mountain (玉龙雪山)
+
+![Shun Old Town Scenery, Yunnan](/img/destinations/lijiang-naxi-old-town-guide/3.webp)
 
 The massif visible from Lijiang's old town — 5,596m at its highest peak, accessible by cable car to 4,506m.
 

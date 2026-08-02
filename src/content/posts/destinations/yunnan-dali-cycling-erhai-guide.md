@@ -12,7 +12,7 @@ tags:
   - cycling
   - bai-culture
 description: "Cycling around Erhai Lake in Dali, Yunnan is one of China's best bicycle journeys — a 120km circuit around a high-altitude lake with the Cangshan Mountains on one side, clear water and fishing villages on the other, and Bai minority culture woven through every stop. This 2026 guide covers the full circuit route, best villages, where to stay mid-journey, and all practical cycling logistics."
-ogImage: "https://images.pexels.com/photos/36535753/pexels-photo-36535753.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/yunnan-dali-cycling-erhai-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -25,7 +25,7 @@ I've done this circuit twice, once solo and once with a group of four. Both time
 
 ## Planning the Erhai Cycling Circuit
 
-![Dali Erhai Lake Cycling — Planning the Erhai Cycling Circuit](https://images.pexels.com/photos/35410604/pexels-photo-35410604.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Erhai Lake Sunrise Scenery, Dali](/img/destinations/yunnan-dali-cycling-erhai-guide/1.webp)
 
 ### Full Circuit vs. Partial
 
@@ -61,8 +61,6 @@ Multiple rental shops on Huguo Road and side streets near the South Gate. Standa
 - Brakes (test before leaving the shop)
 - Seat height adjustment
 - Whether the shop provides a repair kit or emergency contact
-
-![Dali Erhai Lake Cycling — The Route: Key Stops and What to See](https://images.pexels.com/photos/11498823/pexels-photo-11498823.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Route: Key Stops and What to See
 
@@ -126,13 +124,15 @@ From Haidong (海东) on the southeast shore, the road curves back west toward D
 
 ## Two-Day Itinerary Recommendation
 
+![Lugu Lake Natural Landscape](/img/destinations/yunnan-dali-cycling-erhai-guide/2.webp)
+
 **Day 1**: Dali Old Town → Xizhou → Butterfly Spring → Northern Shore → Shuanglang (overnight). Total distance: ~70km, 5–7 hours including stops.
 
 **Day 2**: Shuanglang → Wase (morning market if Monday) → Southern Shore → Dali. Total distance: ~50km, 3–5 hours.
 
-![Dali Erhai Lake Cycling — Practical Information](https://images.pexels.com/photos/36552433/pexels-photo-36552433.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Practical Information
+
+![Lugu Lake Zouhunqiao Natural Renwenjingguan, Yunnan](/img/destinations/yunnan-dali-cycling-erhai-guide/3.webp)
 
 **Start time**: Leave Dali Old Town by 7:30–8am. Early start gives you the morning light on the water and gets the northern sections before any afternoon headwinds.
 

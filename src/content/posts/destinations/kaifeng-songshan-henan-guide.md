@@ -11,16 +11,16 @@ tags:
   - culture
   - buddhism
 description: "Kaifeng — the capital of the Northern Song dynasty (960–1127 AD) and one of China's most historically significant cities. Combined guide with Dengfeng Songshan Mountain and the Shaolin Temple martial arts monastery."
-ogImage: "https://images.pexels.com/photos/29264332/pexels-photo-29264332.png?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/kaifeng-songshan-henan-guide/cover.webp"
 ---
 
 Kaifeng (开封) was the most populous city in the world in 1100 AD — the capital of the Northern Song dynasty, home to approximately 1 million people when London had 20,000. The city's cultural wealth produced the 22-metre-long Zhang Zeduan scroll "Along the River During the Qingming Festival" (清明上河图) — one of the most detailed visual records of pre-modern urban life ever created, depicting 814 humans, 28 boats, 60 animals, and hundreds of buildings.
 
 In 1127, the Jurchen Jin dynasty invaded from the north and captured Kaifeng and the emperor. The Song court fled south to Hangzhou, establishing the Southern Song dynasty and leaving Kaifeng as a memory of lost greatness.
 
-![Kaifeng & Songshan Mountain — What Survives in Kaifeng](https://images.pexels.com/photos/28002735/pexels-photo-28002735.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## What Survives in Kaifeng
+
+![Guanlin Temple Scenery, Henan, Luoyang](/img/destinations/kaifeng-songshan-henan-guide/1.webp)
 
 **Iron Tower (铁塔)**: An 11th-century glazed-tile pagoda that has survived repeated Yellow River floods, wars, and earthquakes. The building was famously described as being as strong as iron, giving it its name. The glazed tiles show intricate Buddhist figures and decorative patterns.
 
@@ -30,15 +30,15 @@ In 1127, the Jurchen Jin dynasty invaded from the north and captured Kaifeng and
 
 **Jewish Quarter Memory**: Kaifeng had a significant Chinese Jewish community (开封犹太人) from the Song dynasty — the Kaifeng Jews, now largely assimilated into the Han population, maintained a synagogue until the 19th century. The site of the synagogue exists; descendants of the community are researching and reconnecting with this heritage.
 
-![Kaifeng & Songshan Mountain — Kaifeng Night Market Food Culture](https://images.pexels.com/photos/32223212/pexels-photo-32223212.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Kaifeng Night Market Food Culture
+
+![Daxiangguo Temple, Kaifeng](/img/destinations/kaifeng-songshan-henan-guide/2.webp)
 
 Kaifeng's night market (鼓楼夜市) is considered the best in Henan province — a dense outdoor food market that operates from sunset to midnight. Henan specialties: steamed dumplings (灌汤包, soup dumplings specific to Kaifeng), spiced donkey meat, five-spice sausage, and the sweet sticky rice cakes.
 
-![Kaifeng & Songshan Mountain — Combining with Dengfeng Songshan Mountain](https://images.pexels.com/photos/37518984/pexels-photo-37518984.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Combining with Dengfeng Songshan Mountain
+
+![Xinyangjigong Mountain Scenery, Henan](/img/destinations/kaifeng-songshan-henan-guide/3.webp)
 
 **Dengfeng (登封)** — 80km west of Kaifeng — is the location of Mount Song (嵩山), one of China's Five Sacred Mountains, and the Shaolin Temple (少林寺).
 

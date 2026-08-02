@@ -12,7 +12,7 @@ tags:
   - minority-cultures
   - north-china
 description: "Inner Mongolia for visitors — the Hulunbuir grasslands (considered China's most beautiful), the Badain Jaran Desert (the world's third-largest), the singing sand dunes of Xiangshawan, Mongolian yurt stays and horseback riding, the Mongolian food (mutton hotpot, tsuivan noodles, airag fermented mare's milk), and getting around this enormous province by plane and train."
-ogImage: "https://images.pexels.com/photos/7859335/pexels-photo-7859335.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/chifeng-inner-mongolia-guide/cover.webp"
 ---
 
 Inner Mongolia (内蒙古) is one of China's five autonomous regions and one of its least-understood destinations. The name suggests one thing; the reality is considerably more varied. The region stretches nearly 2,500km from east to west — further than the distance from London to Moscow — encompassing grasslands, deserts, boreal forests, mountains, and stretches of the Gobi. The Mongolian culture that defines the region's identity is genuine and alive, particularly in the pastoral north.
@@ -23,7 +23,7 @@ The misconception most visitors carry is that Inner Mongolia is all one thing. I
 
 ## Hulunbuir Grasslands (呼伦贝尔草原)
 
-![Inner Mongolia — Hulunbuir Grasslands (呼伦贝尔草原)](https://images.pexels.com/photos/30109532/pexels-photo-30109532.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Shi Lake Scenery, Jiangsu, Suzhou](/img/destinations/chifeng-inner-mongolia-guide/1.webp)
 
 Hulunbuir in northeastern Inner Mongolia is widely considered the most beautiful grassland in China. The Hulunbuir plain is enormous — roughly the size of France — and in summer (late June through August), the grass is so deep and green it looks painted.
 
@@ -53,8 +53,6 @@ About 70km from Hohhot (the provincial capital), Xiangshawan is one of the more 
 
 This is more of a resort experience than wilderness — the site is developed with cable cars and activities. Better for families than serious desert travelers.
 
-![Inner Mongolia — Badain Jaran Desert (巴丹吉林沙漠)](https://images.pexels.com/photos/3121286/pexels-photo-3121286.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Badain Jaran Desert (巴丹吉林沙漠)
 
 The Badain Jaran is the third-largest desert in the world (after the Sahara and Arabian Desert) and one of the most dramatic landscapes on earth. The dunes here are enormous — some reaching 500 metres high, among the tallest in the world. Between the dune fields, dozens of spring-fed lakes appear, creating a surreal contrast of blue water in yellow sand.
@@ -68,6 +66,8 @@ This is a more serious adventure destination than Xiangshawan — remote, physic
 
 ## Hohhot (呼和浩特) — The Provincial Capital
 
+![Zhongyuan Temple Scenery, Jiangsu, Suzhou](/img/destinations/chifeng-inner-mongolia-guide/2.webp)
+
 Hohhot is the administrative capital of Inner Mongolia and a reasonable base for nearby grassland and desert day trips.
 
 **Inner Mongolia Museum (内蒙古博物院):** One of the best regional museums in China, with excellent exhibits on Mongolian culture, the dinosaur fossils found in the Gobi (some of the richest dinosaur fossil beds in the world), and the history of the steppe peoples.  
@@ -77,9 +77,9 @@ Hohhot is the administrative capital of Inner Mongolia and a reasonable base for
 
 **Old Town (旧城区):** The area around Dazhao Temple has Mongolian restaurants and tea shops.
 
-![Inner Mongolia — Mongolian Food](https://images.pexels.com/photos/4321774/pexels-photo-4321774.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Mongolian Food
+
+![Gudianmingyuanliu Garden Scenery, Suzhou](/img/destinations/chifeng-inner-mongolia-guide/3.webp)
 
 Mongolian cuisine is built around two things: lamb and dairy.
 

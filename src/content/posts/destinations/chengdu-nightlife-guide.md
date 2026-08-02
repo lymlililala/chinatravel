@@ -12,7 +12,7 @@ tags:
   - urban
   - sichuan
 description: "Chengdu's laid-back nightlife — the Jiuyanqiao bar strip, White Rabbit and Panda Brew for craft beer, the Taikoo Li rooftop options, the extraordinary midnight hotpot culture (eating spicy food at 2am is completely normal and recommended), and why Chengdu's going-out scene is more relaxed and less status-conscious than Beijing or Shanghai."
-ogImage: "https://images.pexels.com/photos/5656414/pexels-photo-5656414.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/chengdu-nightlife-guide/cover.webp"
 ---
 
 Chengdu's approach to nightlife says something about the city's character. You won't find the status-signalling bottle service culture of Beijing or the aspirational rooftop posturing of Shanghai. Instead: a riverside bar strip where entry is free and drinks are reasonably priced, a craft beer scene that's producing some of China's best work, music venues that care about the music, and a midnight hotpot tradition that may be the best thing that happens to you on this trip. Chengdu goes out to relax, and that relaxed energy is exactly what makes it enjoyable.
@@ -21,7 +21,7 @@ Chengdu's approach to nightlife says something about the city's character. You w
 
 ## Jiuyanqiao Bar Strip (九眼桥酒吧街)
 
-![Chengdu Nightlife — Jiuyanqiao Bar Strip (九眼桥酒吧街)](https://images.pexels.com/photos/847869/pexels-photo-847869.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Tianfuguosheyinger, Sichuan, Chengdu](/img/destinations/chengdu-nightlife-guide/1.webp)
 
 **Jiuyanqiao** (九眼桥, Nine-Eye Bridge) is the name for the bar-dense strip along the Fu River in the Jinjiang District. The area developed around a historic bridge and has been the centre of Chengdu nightlife since the early 2000s. Unlike Sanlitun in Beijing, Jiuyanqiao's bars are mostly at street level, the entrance is generally free, and the vibe is accessible.
 
@@ -49,8 +49,6 @@ Chengdu's craft beer scene emerged later than Beijing or Shanghai's but has deve
 
 **Master Gao Craft Beer** (高师傅精酿) — a newer Chengdu microbrewery with a small taproom. Less polished than Panda Brew, more experimental. Worth visiting if craft beer is a priority.
 
-![Chengdu Nightlife — Taikoo Li and the Commercial Nightlife Zone](https://images.pexels.com/photos/37877701/pexels-photo-37877701.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Taikoo Li and the Commercial Nightlife Zone
 
 **Taikoo Li Chengdu** (成都太古里) is the upscale commercial complex in the city centre, adjacent to Chunxi Road and opposite the Jinsha Site Museum. Its rooftop areas and the surrounding streets have the most polished nightlife options in Chengdu — closer to the Shanghai model in ambience.
@@ -63,6 +61,8 @@ Chengdu's craft beer scene emerged later than Beijing or Shanghai's but has deve
 
 ## Live Music in Chengdu
 
+![Lugu Lake Ligeban Island Scenery, Sichuan](/img/destinations/chengdu-nightlife-guide/2.webp)
+
 **Tanghui Live** (糖汇LIVE) — one of Chengdu's primary indie music venues. Capacity around 300, books touring Chinese and occasional international acts. Tickets ¥80-200. Located in the Wannian Industrial Park area.
 
 **Little Bar** (小酒馆) near Yulin — a Chengdu institution since 1997. Small, intimate, mostly folk and acoustic indie performances. Entry ¥30-80. The venue has a genuine history in Chengdu's underground music scene and many well-known Chinese musicians played their first shows here.
@@ -71,9 +71,9 @@ Chengdu's craft beer scene emerged later than Beijing or Shanghai's but has deve
 
 **Free music nights:** Several bars along the Yulin South Road area have live music nights (folk, jazz, acoustic) with no cover charge. Walking that street on a Thursday or Friday evening and listening from outside before choosing where to enter is a valid strategy.
 
-![Chengdu Nightlife — Midnight Hotpot: The Real Chengdu Night](https://images.pexels.com/photos/19775602/pexels-photo-19775602.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Midnight Hotpot: The Real Chengdu Night
+
+![Shunanzhuhai Landscape](/img/destinations/chengdu-nightlife-guide/3.webp)
 
 Here's the thing about Chengdu nightlife that nobody in Beijing or Shanghai will fully understand: **eating hotpot at midnight** is a completely normal, respected life choice in Chengdu. The city's hotpot restaurants operate 24 hours. A significant proportion of Chengdu residents, across all ages, will end a night out with a hotpot session starting at 1 or 2am.
 

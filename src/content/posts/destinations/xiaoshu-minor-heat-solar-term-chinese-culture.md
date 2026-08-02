@@ -7,7 +7,7 @@ tags:
   - "culture"
   - "history"
 description: "Discover the Chinese solar term Xiaoshu (Minor Heat), its traditions, foods, and travel tips. Learn how to experience an authentic Chinese summer like a local."
-ogImage: "https://images.pexels.com/photos/5266101/pexels-photo-5266101.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/xiaoshu-minor-heat-solar-term-chinese-culture/cover.webp"
 faq:
   - question: "What is Xiaoshu and when does it occur?"
     answer: "Xiaoshu (Minor Heat) is the 11th solar term in the Chinese calendar, usually falling around July 7. It marks the beginning of the hottest period of summer, known as the 'dog days' (sanfu)."
@@ -27,6 +27,8 @@ Xiaoshu (小暑, Xiǎo Shǔ), or Minor Heat, is the 11th solar term in the tradi
 
 ## What Is Xiaoshu? The Meaning Behind the Name
 
+![Jiejing, Guangxi, Yangshuo](/img/destinations/xiaoshu-minor-heat-solar-term-chinese-culture/1.webp)
+
 The Chinese calendar divides the year into 24 solar terms (节气, jiéqì), each lasting about 15 days. Xiaoshu literally means "minor heat" — as opposed to Dashu (大暑, Great Heat) which arrives later in July. Ancient Chinese texts describe it as the time when "heat begins but is still small." However, don't be fooled by the "minor" label: temperatures rise sharply, humidity spikes, and the combination can feel like being steamed and boiled at the same time — hence the folk saying "上蒸下煮" (shàng zhēng xià zhǔ).
 
 Xiaoshu has three "phenological periods" (候, hòu):
@@ -35,8 +37,6 @@ Xiaoshu has three "phenological periods" (候, hòu):
 - **Hawks soar high** (鹰始鸷): Birds fly to cooler altitudes.
 
 These observations reflect how both nature and people adapt to the intensifying summer.
-
-![A traditional Chinese courtyard with bamboo chairs and a fan, evoking a nostalgic summer scene](https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=1200&q=85)
 
 ## How Xiaoshu Shapes China's Summer Geography
 
@@ -64,12 +64,12 @@ In southern China, Xiaoshu is the season for eel, which is considered "warm but 
 ### Cold Noodles and Dumplings
 Northern Chinese have a saying: "头伏饺子二伏面" (tóu fú jiǎo zi èr fú miàn) — eat dumplings at the start of the dog days and noodles in the middle. These wheat-based dishes are easy to digest and provide energy without overheating the body.
 
-![A bowl of bitter melon soup with soybeans, a traditional Xiaoshu dish](https://images.pexels.com/photos/5266101/pexels-photo-5266101.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ### Mung Bean Soup (绿豆汤, lǜ dòu tāng)
 No Chinese summer is complete without mung bean soup. Boiled with sugar and sometimes rock sugar, this emerald-green drink is served chilled. It's a staple in homes and street stalls alike, believed to dispel heat and toxins.
 
 ## Xiaoshu Traditions: Slow Living and Community
+
+![Huangyaguan Great Wall Scenery, Tianjin](/img/destinations/xiaoshu-minor-heat-solar-term-chinese-culture/2.webp)
 
 Before air conditioning became ubiquitous, Chinese people had their own time-tested methods for staying cool — and they were deeply social.
 
@@ -84,6 +84,8 @@ Before streaming services, summer nights meant open-air movies projected onto wh
 
 ## Best Places to Experience Xiaoshu Culture in China
 
+![Forbidden City Bowuyuan, Taiwan, Taipei](/img/destinations/xiaoshu-minor-heat-solar-term-chinese-culture/3.webp)
+
 If you want to immerse yourself in authentic summer traditions, consider these destinations:
 
 ### 1. **Hangzhou (杭州)** — West Lake Lotus
@@ -97,8 +99,6 @@ Explore the narrow alleys (hutongs) of Beijing, where you might still see older 
 
 ### 4. **Guangzhou (广州)** — Herbal Tea and Dim Sum
 Cantonese cuisine excels at summer cooking. Try a bowl of "凉茶" (liáng chá, herbal tea) at a traditional shop — it's bitter but effective. Then indulge in dim sum, especially dishes with lotus leaf or bamboo shoots.
-
-![West Lake in Hangzhou with lotus flowers in full bloom during summer](https://images.pexels.com/photos/35605867/pexels-photo-35605867.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Practical Tips for Traveling During Xiaoshu
 

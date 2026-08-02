@@ -12,7 +12,7 @@ tags:
   - northwest-china
   - toolkit
 description: "The classic China Silk Road itinerary — Xi'an (Terracotta Warriors, departure point), Tianshui (Maijishan Grottoes), Zhangye (Danxia Rainbow Mountains), Jiayuguan (western end of the Great Wall), Dunhuang (Mogao Caves, singing sand dunes, crescent moon lake), Turpan (Flaming Mountains, Jiaohe ruins), Urumqi, and Kashgar. Trains, flights, permits."
-ogImage: "https://images.unsplash.com/photo-1590385589331-60b83287f924?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwyfHxTaWxrJTIwUm9hZCUyMENoaW5hJTIwc2lsay1yb2FkfGVufDB8MHx8fDE3ODE5NDI0ODV8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
+ogImage: "/img/toolkit/china-silk-road-itinerary/cover.webp"
 ---
 
 The Silk Road — the ancient network of trade routes connecting China to Central Asia, the Middle East, and Europe — produced some of the greatest art, architecture, and cultural exchange in human history. Travelling the Chinese section today means following a chain of oasis cities through some of the world's most dramatic desert and mountain landscapes, with extraordinary Buddhist cave art, ancient ruined cities, and nomadic cultures along the way.
@@ -23,6 +23,8 @@ This 14-day itinerary covers the essential Silk Road route from Xi'an to Kashgar
 
 ## The Route Overview
 
+![Great Wall Lao City Wall](/img/toolkit/china-silk-road-itinerary/1.webp)
+
 **Xi'an → Tianshui → Zhangye → Jiayuguan → Dunhuang → Turpan → Urumqi → Kashgar**
 
 Distance covered: approximately 4,600km (flying the Dunhuang-to-Turpan section or Urumqi-to-Kashgar section saves significant time).
@@ -30,6 +32,8 @@ Distance covered: approximately 4,600km (flying the Dunhuang-to-Turpan section o
 **The transport logic:** High-speed rail connects Xi'an, Tianshui, Zhangye, Jiayuguan, and Dunhuang along the Lanzhou-Xinjiang High-Speed Railway corridor. From Dunhuang onwards (or from Urumqi), flying becomes sensible to avoid 20+ hour train journeys.
 
 ## Day-by-Day Itinerary
+
+![Potala Palace Scenery, Tibet](/img/toolkit/china-silk-road-itinerary/2.webp)
 
 ### Days 1-2: Xi'an (西安) — The Eastern Starting Point
 

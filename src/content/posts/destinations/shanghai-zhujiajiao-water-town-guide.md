@@ -14,7 +14,7 @@ tags:
   - zhujiajiao
   - shanghai water town
 description: "Zhujiajiao water town guide: how to get there from Shanghai, tickets, the best canals, local food, and tips to beat the crowds in this ancient water village."
-ogImage: "https://images.pexels.com/photos/37015407/pexels-photo-37015407.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/shanghai-zhujiajiao-water-town-guide/cover.webp"
 faq:
   - question: "Is Zhujiajiao the best water town near Shanghai?"
     answer: "For most visitors, yes. Zhujiajiao is the most accessible and best-preserved ancient water town in the Shanghai area — better than Qibao (now essentially a shopping mall with canals) and more historically intact than Jinze. It also has the easiest direct bus connection from the city centre."
@@ -36,7 +36,7 @@ Zhujiajiao is the most accessible and best-preserved of the ancient water towns 
 
 ## Essential Information
 
-![Zhujiajiao Water Town — Essential Information](https://images.pexels.com/photos/19979862/pexels-photo-19979862.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Qibao Town, Shanghai](/img/destinations/shanghai-zhujiajiao-water-town-guide/1.webp)
 
 | Detail | Info |
 |--------|------|
@@ -55,9 +55,9 @@ The simplest route is the direct bus. From the Puyang Road Transportation Hub, *
 
 Coming by metro, take **Line 17** to Zhujiajiao station, then walk or take a short local bus ride the last stretch to the old town entrance — slower than the direct bus but useful if you're starting from Hongqiao. A taxi or Didi from the city centre costs ¥120–160 and takes around 45 minutes without traffic; this is the best option if you're a group of three or four splitting the fare, or if you want to arrive before the 6:30 AM market opens.
 
-![Zhujiajiao Water Town — History](https://images.pexels.com/photos/38003117/pexels-photo-38003117.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## History of Zhujiajiao Ancient Town
+
+![Fengjing Old Town Scenery](/img/destinations/shanghai-zhujiajiao-water-town-guide/2.webp)
 
 Zhujiajiao was founded during the Three Kingdoms period (220–280 AD), though its current built form is primarily from the Ming and Qing dynasties. The town grew rich on the cotton trade — by the Qing Dynasty it was the primary cotton cloth distribution centre for the entire Yangtze Delta.
 
@@ -65,9 +65,9 @@ The wealth financed the construction of 36 stone bridges (of which 29 survive), 
 
 Today Zhujiajiao is a protected cultural heritage site. The residential population is a mix of long-term local families and tourism workers. The main commercial street is unambiguously tourist-oriented; the back lanes are still genuinely lived-in.
 
-![Zhujiajiao Water Town — What to See](https://images.pexels.com/photos/4412615/pexels-photo-4412615.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## What to See
+
+![Taiwushixiao Town Scenery, Shanghai](/img/destinations/shanghai-zhujiajiao-water-town-guide/3.webp)
 
 ### Fangsheng Bridge (放生桥)
 

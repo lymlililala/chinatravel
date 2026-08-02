@@ -12,14 +12,14 @@ tags:
   - photography
   - attractions
 description: "Elephant Trunk Hill is Guilin's most iconic landmark — a karst peak shaped remarkably like an elephant drinking from the Li River. This guide covers ticket prices, the best viewing spots (including free alternatives), photography timing, what's inside the hill, and how to combine it with other Guilin attractions for a perfect day in 2026."
-ogImage: "https://images.pexels.com/photos/20370742/pexels-photo-20370742.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guilin-elephant-trunk-hill-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## The Symbol of Guilin: Why Elephant Trunk Hill Matters
 
-![Guilin Elephant Trunk Hill — The Symbol of Guilin: Why Elephant Trunk Hill Matters](https://images.pexels.com/photos/19966096/pexels-photo-19966096.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Detianda Waterfall Scenery, Guangxi](/img/destinations/guilin-elephant-trunk-hill-guide/1.webp)
 
 Of all the extraordinary karst formations rising from the flat plains around Guilin, Elephant Trunk Hill (象鼻山, Xiàngbí Shān) has a special status. For over a thousand years — referenced in Tang dynasty poetry, depicted in imperial paintings, and now reproduced on everything from hotel key cards to regional bank notes — this particular hill has served as the visual shorthand for Guilin itself.
 
@@ -47,8 +47,6 @@ The paid ticket gets you access to the interior of the scenic area, including:
 
 For those primarily interested in the iconic exterior view and photographs, the free viewpoints across the river are arguably better. More on this below.
 
-![Guilin Elephant Trunk Hill — Photography: Best Spots and Timing](https://images.pexels.com/photos/24415055/pexels-photo-24415055.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Photography: Best Spots and Timing
 
 ### The Classic View
@@ -74,6 +72,8 @@ The scenic area and riverside are illuminated in the evenings during summer mont
 
 ## Inside the Scenic Area: What to See
 
+![Gupo Mountain Scenery, Guangxi](/img/destinations/guilin-elephant-trunk-hill-guide/2.webp)
+
 ### The Water Moon Cave (水月洞)
 This is the arch itself — the elephant's trunk. At water level, you can take a small boat through the arch (tickets sold separately within the site, approximately ¥40). Looking up from inside the arch, the circular opening frames the sky perfectly. The cave walls are covered with carved inscriptions from visitors and poets spanning from the Tang through Qing dynasties.
 
@@ -86,8 +86,6 @@ A large boulder split vertically in the approach path. Local legend attributes t
 ### Tang Dynasty Stone Inscriptions (唐代摩崖石刻)
 Along the inner walls and cave faces, inscriptions from the Tang, Song, Ming, and Qing dynasties have been carefully preserved. These literary and calligraphic records are genuinely historically significant. Bring a headlamp to see them properly in the shadowed sections.
 
-![Guilin Elephant Trunk Hill — Free External Views: Getting the Elephant Shot Without Paying](https://images.pexels.com/photos/5951759/pexels-photo-5951759.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Free External Views: Getting the Elephant Shot Without Paying
 
 For budget travellers, there's no need to pay ¥75 for a view that's arguably better from outside the paid area:
@@ -99,6 +97,8 @@ For budget travellers, there's no need to pay ¥75 for a view that's arguably be
 **Boats on the Li River**: Multiple boat tours on the Li River pass Elephant Trunk Hill and provide a completely different perspective — looking up at the arch from the water. River tour boats operate from Binjiang Wharf and prices vary from ¥30 for short cruises to ¥150+ for longer tours.
 
 ## Combining Elephant Trunk Hill with Other Guilin Attractions
+
+![Ludiyan Karst Cave, Guilin](/img/destinations/guilin-elephant-trunk-hill-guide/3.webp)
 
 Elephant Trunk Hill sits in central Guilin, making it easy to combine with other sights in a single day.
 

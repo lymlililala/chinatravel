@@ -10,7 +10,7 @@ faq:
   - question: "When is the best time to dive or snorkel at Wuzhizhou Island?"
     answer: "The dry season from roughly October to April offers the calmest, clearest water and the most comfortable weather. Visibility is generally good year-round, but summer brings more humidity and the occasional typhoon, so check conditions before booking water activities."
 description: "Discover Wuzhizhou Island off Sanya, Hainan — China's premier tropical water sports destination, with excellent coral reef snorkeling, beginner and advanced scuba diving, glass-bottom boat tours, and pristine turquoise waters that rival Southeast Asian island destinations."
-ogImage: "https://images.pexels.com/photos/8426230/pexels-photo-8426230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/hainan-wuzhizhou-island-diving-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Hainan"
 tags: ["hainan", "wuzhizhou-island", "diving", "snorkeling", "sanya", "coral-reef", "water-sports", "tropical", "beach"]
@@ -24,9 +24,9 @@ For Chinese travellers, Wuzhizhou is the answer to the question "where can I exp
 
 ---
 
-![Wuzhizhou Island Hainan — The Marine Environment](https://images.pexels.com/photos/8444918/pexels-photo-8444918.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Marine Environment
+
+![Dadonghai Scenery, Hainan, Sanya](/img/destinations/hainan-wuzhizhou-island-diving-guide/1.webp)
 
 ### Coral Reef Health
 
@@ -65,8 +65,6 @@ Certified divers can explore deeper sections to 20–30 m where visibility is ty
 
 ---
 
-![Wuzhizhou Island Hainan — Snorkeling](https://images.pexels.com/photos/33968347/pexels-photo-33968347.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Snorkeling
 
 The shallow reef zones accessible by **free-diving/snorkeling** from the island's beaches are excellent for non-divers. The best snorkeling is reached by a short boat transfer to the reef edge rather than swimming directly from the beach (the beach approach is sandy; reef begins 100–200 m offshore).
@@ -86,6 +84,8 @@ The typical snorkeling session covers:
 
 ## Other Water Activities
 
+![Boao Landscape, Hainan](/img/destinations/hainan-wuzhizhou-island-diving-guide/2.webp)
+
 **Parasailing:** Towed by speedboat to 30–60 m altitude; good views over the island and Sanya Bay. ¥300–¥500.
 
 **Jet skiing:** Open circuit around the island's protected zone. ¥400–¥600/20 min.
@@ -97,9 +97,9 @@ The typical snorkeling session covers:
 
 ---
 
-![Wuzhizhou Island Hainan — The Island Itself](https://images.pexels.com/photos/34978726/pexels-photo-34978726.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Island Itself
+
+![Yalongwan Beach Sha Shoal, Sanya](/img/destinations/hainan-wuzhizhou-island-diving-guide/3.webp)
 
 ### Beaches
 

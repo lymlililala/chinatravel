@@ -12,7 +12,7 @@ tags:
   - tibet-culture
   - southwest-china
 description: "Daocheng Yading Nature Reserve in western Sichuan — the three sacred peaks (Chenrezig, Jambeyang, Chanadorje), the high-altitude trekking routes, the season to visit for the red-gold autumn colors, and practical logistics for reaching this remote destination."
-ogImage: "https://images.pexels.com/photos/29073200/pexels-photo-29073200.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/daocheng-yading-sacred-mountains-guide/cover.webp"
 ---
 
 Daocheng Yading sits at the edge of the Tibetan Plateau in western Sichuan, at an elevation that turns even a gentle walk into something requiring full lung capacity. Three sacred peaks rise above glacial lakes, alpine meadows, and monasteries: Chenrezig (6,032m), Jambeyang (5,958m), and Chanadorje (5,958m). Together they form a pilgrimage circuit that Tibetan Buddhists have circumambulated for centuries. In recent years, they've attracted trekkers and photographers from across China and the world who come specifically in autumn when the larches turn gold and red — creating scenes of mountain, snow, and fire-colored forest that make this one of the most photographed landscapes in the country.
@@ -21,7 +21,7 @@ Daocheng Yading sits at the edge of the Tibetan Plateau in western Sichuan, at a
 
 ## Why Come Here
 
-![Daocheng Yading — Why Come Here](https://images.pexels.com/photos/11022633/pexels-photo-11022633.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Tianfuguosheyingyi, Sichuan, Chengdu](/img/destinations/daocheng-yading-sacred-mountains-guide/1.webp)
 
 The honest answer is: because nowhere else in China combines Tibetan Buddhist culture, genuine mountain wilderness, and autumn color at this scale. Jiuzhaigou has the turquoise lakes but lacks the mountains and the sacred atmosphere. Tibet itself has the peaks but is more restricted and harder to reach for most visitors. Daocheng Yading occupies a unique position — accessible with effort, genuinely remote in feel, and culturally rich in ways that go beyond scenery.
 
@@ -44,8 +44,6 @@ Long-distance buses from Chengdu to Daocheng exist (15–20 hours, ¥220–280) 
 ### From Shangri-La (Yunnan)
 A two-day overland journey connects Shangri-La to Daocheng. Several agencies in Shangri-La run this route. The road travels through dramatic plateau scenery via Benzilan and Xiangcheng.
 
-![Daocheng Yading — The Yading Nature Reserve](https://images.pexels.com/photos/35454379/pexels-photo-35454379.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Yading Nature Reserve
 
 The scenic area requires a separate entrance fee: **¥270 per person** (valid for 2 days). This includes the shuttle buses and cable car within the reserve.
@@ -64,6 +62,8 @@ The full pilgrimage circuit around all three peaks takes 3–4 days for experien
 
 ## Altitude and Health
 
+![Tianfuguosheyinger, Sichuan, Chengdu](/img/destinations/daocheng-yading-sacred-mountains-guide/2.webp)
+
 **This is serious altitude.** Daocheng town sits at about 3,700m; the reserve is at 4,000–4,700m; the lakes are at nearly 4,700m. If you fly directly from Chengdu (500m), your body needs time to adapt.
 
 **Standard acclimatization advice:**
@@ -76,9 +76,9 @@ The full pilgrimage circuit around all three peaks takes 3–4 days for experien
 
 Flying home at the end of the trip from Daocheng airport carries some mild risk for those who've been at altitude — your ears and sinuses may be affected.
 
-![Daocheng Yading — When to Visit: The Autumn Imperative](https://images.pexels.com/photos/7494233/pexels-photo-7494233.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## When to Visit: The Autumn Imperative
+
+![Lugu Lake Ligeban Island Scenery, Sichuan](/img/destinations/daocheng-yading-sacred-mountains-guide/3.webp)
 
 **October is the reason most people come.** The larches and dwarf birches turn gold, orange, and red against the snow-capped peaks — typically peaking between October 5–20. This is also when the park is most crowded (book flights and accommodation months in advance for this window).
 

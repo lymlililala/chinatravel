@@ -11,7 +11,7 @@ tags:
   - beginners
   - east-china
 description: "A 3-day Shanghai itinerary covering the Bund and Pudong skyline, the French Concession and Tianzifang, and a day trip to the water town Zhujiajiao — with metro directions, restaurant picks, and honest timing advice."
-ogImage: "https://images.pexels.com/photos/19852129/pexels-photo-19852129.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/shanghai-3-days-itinerary-guide/cover.webp"
 ---
 
 Shanghai is the easiest major Chinese city to navigate as a first-time visitor. The metro is excellent, English signage is widespread, and there's a level of international infrastructure — good coffee, international cuisine, functioning VPNs in many hotels — that makes the learning curve gentler than Beijing or Chengdu.
@@ -22,7 +22,7 @@ That said, Shanghai rewards slowing down. The best parts of this city aren't tic
 
 ## Before You Arrive
 
-![Shanghai — Before You Arrive](https://images.pexels.com/photos/35132182/pexels-photo-35132182.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Shiji Park, Shanghai](/img/destinations/shanghai-3-days-itinerary-guide/1.webp)
 
 **Getting there:** Shanghai has two major airports. Pudong International (PVG) handles most long-haul international flights; take the **Maglev** to Longyang Road (¥50, 8 minutes — it hits 430km/h, worth it once), then metro to your hotel. Or take Metro Line 2 direct from Pudong Airport (cheaper at ¥7, but takes 70 minutes to People's Square).
 
@@ -34,9 +34,9 @@ Hongqiao Airport (SHA) handles domestic flights and some short-haul internationa
 
 ---
 
-![Shanghai — Day 1: The Bund, Pudong & Riverside](https://images.pexels.com/photos/30685862/pexels-photo-30685862.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day 1: The Bund, Pudong & Riverside
+
+![Yuyuanchenghuang Temple, Shanghai](/img/destinations/shanghai-3-days-itinerary-guide/2.webp)
 
 ### Morning: The Bund
 
@@ -64,8 +64,6 @@ For the classic experience, take a **Huangpu River cruise** at night (¥100-150 
 
 ---
 
-![Shanghai — Day 2: French Concession, Tianzifang & Jing'an Temple](https://images.pexels.com/photos/32445253/pexels-photo-32445253.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day 2: French Concession, Tianzifang & Jing'an Temple
 
 ### Morning: French Concession Walk
@@ -89,6 +87,8 @@ For dinner, the streets around Jing'an and Changshu Road metro stations have Sha
 ---
 
 ## Day 3: Zhujiajiao Water Town Day Trip
+
+![Dishini Architecture Scenery, Shanghai](/img/destinations/shanghai-3-days-itinerary-guide/3.webp)
 
 ### Morning & Afternoon: Zhujiajiao
 

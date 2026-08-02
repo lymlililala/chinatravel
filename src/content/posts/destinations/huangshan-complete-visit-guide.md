@@ -12,7 +12,7 @@ tags:
   - photography
   - china
 description: "Huangshan (Yellow Mountain) in Anhui province is China's most revered mountain landscape — granite peaks emerging from pine forests and seas of cloud, painted by Chinese artists for a thousand years. This practical guide covers the cable cars, hiking routes, staying overnight for sunrise, and what to bring for a 1–2 day visit."
-ogImage: "https://images.pexels.com/photos/6294699/pexels-photo-6294699.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/huangshan-complete-visit-guide/cover.webp"
 ---
 
 Huangshan (黄山, Yellow Mountain) is China's most painted, most photographed, and most visited mountain — not because it's the highest (its peak, Lotus Flower Peak, is 1,864m) but because the combination of its weathered granite peaks, ancient pine trees clinging to impossible positions on cliff edges, and habitual cloud sea below the summits has made it the visual archetype of Chinese mountain landscape art.
@@ -25,7 +25,7 @@ In 2026, Huangshan handles significant visitor numbers but the trail system is c
 
 ## The Mountain Layout
 
-![Huangshan Yellow Mountain Visit — The Mountain Layout](https://images.pexels.com/photos/37954568/pexels-photo-37954568.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Wan Sea of Clouds Scenery, Anhui, Foshan](/img/destinations/huangshan-complete-visit-guide/1.webp)
 
 Huangshan has two visitor access sides:
 
@@ -47,8 +47,6 @@ Huangshan has two visitor access sides:
 
 **Recommendation:** Take a cable car up, hike down (or the reverse if you want to start with a hike). Doing both ways hiking in a single day is exhausting at altitude.
 
-![Huangshan Yellow Mountain Visit — The Must-See Views](https://images.pexels.com/photos/6836391/pexels-photo-6836391.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Must-See Views
 
 **Welcoming Pine (迎客松):** The single most famous image from Huangshan — a pine tree growing horizontally from a cliff face, its silhouette recognisable from a million paintings. Located near the Yuping cable car top station.
@@ -63,6 +61,8 @@ Huangshan has two visitor access sides:
 
 ## Staying Overnight for Sunrise & Cloud Sea
 
+![Chuzhoulangya Mountain Scenery](/img/destinations/huangshan-complete-visit-guide/2.webp)
+
 This is the thing that makes Huangshan genuinely spectacular rather than merely attractive. The cloud seas (云海) occur when clouds below the summit level create a white sea between the peaks. They're most frequent in autumn after rain, in early spring with humidity, and at sunrise and sunset when temperatures shift. You cannot predict them reliably, but staying overnight dramatically improves your chances.
 
 **Summit hotels:** Several mountain-top hotels exist within the scenic area. They're not cheap (¥800–2,500/night for most options), they're not luxury, and the rooms are small. But you're waking up at 5am with the mountain in your window and that's a different experience than day-tripping.
@@ -71,9 +71,9 @@ This is the thing that makes Huangshan genuinely spectacular rather than merely 
 
 **What to bring for overnight:** Warm layers — even in summer, the mountain can drop to 5°C at night and in cloud. Rain jacket is essential. Good headlamp/phone torch for pre-sunrise walks.
 
-![Huangshan Yellow Mountain Visit — Photography](https://images.pexels.com/photos/31582901/pexels-photo-31582901.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Photography
+
+![Tianzhu Mountain Scenery, Anhui](/img/destinations/huangshan-complete-visit-guide/3.webp)
 
 **Best light:** 1 hour before sunset and 30 minutes after sunrise are the gold standard. Cloud seas are most likely in these windows.
 

@@ -11,7 +11,7 @@ tags:
   - east-china
   - culture
 description: "Zhouzhuang (周庄) in Jiangsu — the 'Venice of the East' that was the original Chinese water town, now visited by millions. The Double Bridge (双桥) made famous by Chen Yifei's painting, canal boat rides, the Shen's House and Zhang's House mansions, and practical advice for timing your visit to avoid the worst crowds."
-ogImage: "https://images.pexels.com/photos/37015414/pexels-photo-37015414.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/zhouzhuang-water-town-guide/cover.webp"
 ---
 
 Zhouzhuang is the water town that put Chinese water towns on the map. The painter Chen Yifei depicted its Double Bridge in a 1984 artwork that was later given to the United Nations Secretary-General, and almost overnight this quiet village in southern Jiangsu became an international symbol of traditional China. That was over 40 years ago — today Zhouzhuang receives several million visitors per year, and managing those crowds is the central challenge of any visit.
@@ -22,7 +22,7 @@ That said, the town itself is genuinely worth seeing. The canals, stone bridges,
 
 ## What Makes Zhouzhuang Special
 
-![Zhouzhuang Water Town — What Makes Zhouzhuang Special](https://images.pexels.com/photos/21628371/pexels-photo-21628371.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Jiangnan Water Town Scenery, Suzhou](/img/destinations/zhouzhuang-water-town-guide/1.webp)
 
 The town was founded over 900 years ago during the Song Dynasty. About 60% of the buildings date to the Ming and Qing dynasties (1368–1912), and the canal system is still functioning — residents use the waterways for daily life, not just boat tours.
 
@@ -42,8 +42,6 @@ Zhouzhuang is packed on weekends year-round and all week during Chinese national
 
 **Worst times:** Saturday and Sunday, Chinese National Holidays (October Golden Week, Chinese New Year), and any weekend in April (spring blossom season).
 
-![Zhouzhuang Water Town — Entry and Tickets](https://images.pexels.com/photos/5801657/pexels-photo-5801657.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Entry and Tickets
 
 **Entry fee:** ¥100 per person (includes access to most historic sites inside)  
@@ -53,6 +51,8 @@ Zhouzhuang is packed on weekends year-round and all week during Chinese national
 The ticket includes entry to **Shen's House (沈厅)**, **Zhang's House (张厅)**, the **Chengxu Temple**, and several smaller museums.
 
 ## The Main Sights
+
+![Gu Canal Scenery, Wuxi](/img/destinations/zhouzhuang-water-town-guide/2.webp)
 
 ### Shen's House (沈厅)
 Built in 1742 during the Qing Dynasty, Shen's House is a sprawling 7-courtyard mansion that once belonged to the Shen family — one of Zhouzhuang's wealthiest merchant families. The complex has over 100 rooms connected by covered walkways. The furniture and household items on display give a good sense of how wealthy Jiangnan merchants lived.
@@ -68,8 +68,6 @@ Boat rides through the canals are available throughout the day. The boats are tr
 ### The Double Bridge at Night
 The evening illuminations transform the Double Bridge area. Red lanterns hang from the eaves of the buildings lining the canal, reflected in the water. It's the best photographic opportunity in Zhouzhuang — and the lower visitor numbers in the evening make it far more enjoyable than the midday rush.
 
-![Zhouzhuang Water Town — Food and Drink](https://images.pexels.com/photos/34981672/pexels-photo-34981672.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Food and Drink
 
 Zhouzhuang's signature dish is **Wan San pork knuckle (万三蹄)** — a slow-braised whole pork leg that has been made here for centuries. Legend has it that a Ming-Dynasty merchant named Shen Wan San invented the dish, and it became so famous that the Emperor eventually summoned him to Beijing. It's rich, gelatinous, and best shared between three or four people. Expect to pay ¥80–120 for a whole knuckle from the restaurants along the main canal.
@@ -80,6 +78,8 @@ Zhouzhuang's signature dish is **Wan San pork knuckle (万三蹄)** — a slow-b
 - **Fermented bean curd (豆腐乳):** Available at street stalls for a few yuan
 
 ## Getting to Zhouzhuang
+
+![Wujiangzhenze Old Town Scenery, Jiangsu](/img/destinations/zhouzhuang-water-town-guide/3.webp)
 
 Zhouzhuang is in Kunshan, Jiangsu Province, about 50km from Shanghai and 30km from Suzhou.
 

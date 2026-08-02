@@ -1,7 +1,7 @@
 ---
 title: "Hefei & Anhui Province Travel Guide: Science City and Ancient Villages"
 description: "Discover Hefei, Anhui's modern capital, and the stunning villages and mountains of Anhui province. From Huizhou architecture in Hongcun to Huangshan mountain, plus practical tips for exploring Anhui in 2026."
-ogImage: "https://images.pexels.com/photos/30607308/pexels-photo-30607308.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/hefei-anhui-travel-guide/cover.webp"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/hefei-anhui.jpg"
 category: "destinations"
@@ -13,9 +13,9 @@ author: "RoamChina Travel"
 
 Anhui (安徽, Ānhuī) is one of China's least visited provinces by international travelers, which makes it one of the most rewarding for those who make the effort. The province contains some of China's most distinctive vernacular architecture (the Huizhou style, with whitewashed walls and black-tiled roofs), two UNESCO World Heritage sites (Huangshan Mountain and the Xidi and Hongcun villages), a remarkable tea culture, and a capital city (Hefei) that is transforming rapidly from provincial center to national science hub.
 
-![Hefei & Anhui Province — Hefei: The Capital in Transition](https://images.pexels.com/photos/15737902/pexels-photo-15737902.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Hefei: The Capital in Transition
+
+![Huizhou Ancient Town Winter, Anhui](/img/destinations/hefei-anhui-travel-guide/1.webp)
 
 Hefei (合肥, Hé Féi) was a relatively minor provincial city until the late 20th century — known primarily as a junction point and administrative center. Two developments transformed it: the relocation of the University of Science and Technology of China (USTC) from Beijing to Hefei in 1970, and a subsequent deliberate policy of developing Hefei as a national center for quantum computing, artificial intelligence, and semiconductor research.
 
@@ -42,8 +42,6 @@ Anhui has excellent rail connections:
 **Huangshan (Yellow Mountain)** is best reached by high-speed train from Hefei (2 hours) or direct from Shanghai (2.5 hours, via the recently completed high-speed line).
 
 **Huangshan city (Tunxi)**: The gateway city for Huangshan Mountain is called Huangshan city, but the urban area is largely known by its historical name Tunxi (屯溪). The old street (屯溪老街) in Tunxi is one of China's best-preserved Ming dynasty commercial streets — and is genuinely less visited than more famous heritage streets.
-
-![Hefei & Anhui Province — Hongcun and Xidi UNESCO Villages](https://images.pexels.com/photos/3975364/pexels-photo-3975364.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Hongcun and Xidi UNESCO Villages
 
@@ -79,6 +77,8 @@ The village's street plan follows a fish-bone pattern with a main lane and perpe
 
 ## Other Huizhou Villages
 
+![Chaji Ancient Village, Anhui](/img/destinations/hefei-anhui-travel-guide/2.webp)
+
 Beyond Hongcun and Xidi, dozens of less-visited Huizhou villages reward exploration:
 
 **Chengkan (呈坎)**: One of the oldest Huizhou villages (Tang dynasty origins), with a village plan based on Eight Trigrams (八卦) cosmological principles.
@@ -89,9 +89,9 @@ Beyond Hongcun and Xidi, dozens of less-visited Huizhou villages reward explorat
 
 These less-famous villages can be visited independently by car hire (available from Tunxi) and typically have entry fees of ¥40-80 with far smaller crowds than Hongcun and Xidi.
 
-![Hefei & Anhui Province — Huizhou Architecture](https://images.pexels.com/photos/33866942/pexels-photo-33866942.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Huizhou Architecture
+
+![Chuzhoulangya Mountain Scenery](/img/destinations/hefei-anhui-travel-guide/3.webp)
 
 The Huizhou (徽州) architectural style developed among the merchant communities of southern Anhui between the 14th and 19th centuries. The merchants were often away on business in distant provinces, and their local wealth was expressed through elaborate family compounds and clan halls at home.
 

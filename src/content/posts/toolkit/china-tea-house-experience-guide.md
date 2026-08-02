@@ -12,7 +12,7 @@ tags:
   - gongfu-tea
   - food-and-drink
 description: "Chinese tea culture runs deeper than most visitors realise. The teahouse (茶馆) is simultaneously a social institution, a meditation practice, a living museum, and one of the most genuinely relaxing experiences China offers. This guide explains gongfu tea ceremony, the best teahouse cities, what to expect, what to pay, and how to buy good tea without getting scammed in 2026."
-ogImage: "https://images.unsplash.com/photo-1556910103-1c02745aae4d?w=1200&q=85"
+ogImage: "/img/toolkit/china-tea-house-experience-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -24,6 +24,8 @@ For visitors, the teahouse experience is one of the most accessible and rewardin
 ---
 
 ## Types of Chinese Tea: A Brief Orientation
+
+![Zhuozheng Garden, Suzhou](/img/toolkit/china-tea-house-experience-guide/1.webp)
 
 Before visiting a teahouse, a basic map of Chinese tea categories helps:
 
@@ -128,6 +130,8 @@ Beijing's teahouse culture has different character than southern China — more 
 ---
 
 ## The Tea Scam: What to Watch For
+
+![Canglangting, Suzhou](/img/toolkit/china-tea-house-experience-guide/2.webp)
 
 The "tea ceremony scam" is one of China's most common tourist traps, particularly in Beijing and Shanghai. The scenario:
 

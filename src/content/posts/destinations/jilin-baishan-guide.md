@@ -12,14 +12,14 @@ tags:
   - tianchi
   - crater-lake
 description: "Explore Baishan, the gateway to the southern slopes of the sacred Changbai Mountain and its legendary Tianchi crater lake, straddling the China-North Korea border. This 2026 guide covers the southern approach to Changbai Mountain (less crowded than the northern route), the spectacular Wangtian'e and Fifteen-Dao-Gou scenic areas, hot spring resorts, Korean-Chinese cuisine, and practical advice for visiting one of Northeast China's most dramatic natural landscapes."
-ogImage: "https://images.pexels.com/photos/35542566/pexels-photo-35542566.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/jilin-baishan-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## The Southern Side of the Sacred Mountain
 
-![Baishan Jilin — The Southern Side of the Sacred Mountain](https://images.pexels.com/photos/14893987/pexels-photo-14893987.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Changbaishan Natural Landscape, Jilin](/img/destinations/jilin-baishan-guide/1.webp)
 
 Changbai Mountain (长白山, "Ever-White Mountain") is one of the most significant peaks in East Asia — a dormant volcano whose crater lake, Tianchi (天池, "Heavenly Lake"), straddles the border between China and North Korea. The mountain is sacred in both Korean and Manchu cosmology, and its slopes harbour some of the best-preserved temperate forest in Northeast Asia.
 
@@ -47,8 +47,6 @@ From the southern viewing platform, you're looking north across the lake toward 
 
 Photography is permitted, but do not photograph the border markers or military installations in detail. The Chinese border guards are generally relaxed about tourists, but use common sense.
 
-![Baishan Jilin — Southern Changbai Scenic Areas](https://images.pexels.com/photos/34257242/pexels-photo-34257242.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Southern Changbai Scenic Areas
 
 ### Wangtian'e Scenic Area (望天鹅景区)
@@ -69,6 +67,8 @@ A less-developed alternative to Wangtian'e, this valley follows one of the 15 st
 
 ## Hot Springs
 
+![Changbaishan Snow Scenery, Jilin](/img/destinations/jilin-baishan-guide/2.webp)
+
 ### Changbaishan Hot Springs
 
 The volcanic activity that created Changbai Mountain also produces geothermal hot springs, and the southern approach has several excellent options:
@@ -78,8 +78,6 @@ The volcanic activity that created Changbai Mountain also produces geothermal ho
 **Wild Hot Springs:** Several natural hot spring seeps exist along the southern slopes, where hot water emerges from the rocks into small pools. These are free to use but require local knowledge to find. Ask at your hotel or guesthouse — locals are usually happy to point you toward the best spots. Use caution — water temperatures can vary and some pools are dangerously hot.
 
 **Tip:** Soaking in an outdoor hot spring surrounded by snow is one of the great Northeast China experiences. Visit in winter for the full effect.
-
-![Baishan Jilin — Korean-Chinese Culture and Cuisine](https://images.pexels.com/photos/15191163/pexels-photo-15191163.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Korean-Chinese Culture and Cuisine
 
@@ -106,6 +104,8 @@ Baishan and the surrounding Changbaishan area have a significant Korean-Chinese 
 **Mountain Trout Restaurant:** Near the Wangtian'e scenic area. Fresh-caught trout prepared simply. Meals ¥40-60 ($5.50-8.30 USD) per person.
 
 ## Practical Information
+
+![Jinchan Island Scenery, Jilin](/img/destinations/jilin-baishan-guide/3.webp)
 
 ### Getting to Baishan
 

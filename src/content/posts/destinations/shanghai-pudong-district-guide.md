@@ -9,16 +9,16 @@ tags:
   - destinations
   - modern-china
 description: "Complete guide to Shanghai's Pudong New Area — the Lujiazui financial skyline, Shanghai Tower observation deck, Oriental Pearl Tower, the Century Park, and how Pudong went from farmland in 1990 to the world's most dramatic urban skyline."
-ogImage: "https://images.pexels.com/photos/16460876/pexels-photo-16460876.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/shanghai-pudong-district-guide/cover.webp"
 ---
 
 Pudong (浦东) is the proof of concept for modern China. In 1990, the land east of the Huangpu River was rice paddies and small villages. The Special Economic Zone designation in 1992 triggered the fastest urban development in history — by 2010, the Lujiazui financial district contained three of the world's ten tallest buildings. Today it is one of the most recognizable skylines on earth.
 
 Visiting Pudong is different from visiting the rest of Shanghai. There are few historical sites and little charm in the conventional sense. Instead, there is scale — the raw physical statement of what 35 years of economic transformation looks like built in glass and steel.
 
-![Shanghai Pudong — Lujiazui Financial District](https://images.pexels.com/photos/38185635/pexels-photo-38185635.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Lujiazui Financial District
+
+![Shibohui, Shanghai](/img/destinations/shanghai-pudong-district-guide/1.webp)
 
 **Lujiazui (陆家嘴)** is the triangle of skyscrapers at the bend of the Huangpu River — the visual opposite of The Bund. Viewed from The Bund's western bank, it creates the "new vs. old Shanghai" photograph that appears on every travel magazine cover.
 
@@ -29,21 +29,21 @@ The three landmark towers:
 
 **Which observation deck to choose:** Shanghai Tower's 118F deck gives the most comprehensive view (including looking down at Jin Mao and the SWFC). Book online in advance; queues on weekends can be 1+ hour.
 
-![Shanghai Pudong — Oriental Pearl Tower (东方明珠塔)](https://images.pexels.com/photos/30563118/pexels-photo-30563118.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Oriental Pearl Tower (东方明珠塔)
+
+![Shiji Park, Shanghai](/img/destinations/shanghai-pudong-district-guide/2.webp)
 
 The Oriental Pearl Tower — the pink-tinted space-needle with spheres — opened in 1994 and was Shanghai's first modern landmark. The middle sphere (263m) has a glass floor section; the upper sphere (350m) has the highest views in the tower. The base has a Shanghai History Museum with recreations of the pre-1949 city.
 
 The tower now looks slightly retro compared to its taller neighbours, which is part of its charm — it's a time capsule from 1990s Shanghai's first wave of ambition.
-
-![Shanghai Pudong — Shanghai Natural History Museum (上海自然博物馆)](https://images.pexels.com/photos/4993489/pexels-photo-4993489.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Shanghai Natural History Museum (上海自然博物馆)
 
 Hidden in Century Park's northwestern corner, this RTKL-designed museum (opened 2015) is one of the world's best natural history museums architecturally — a spiral glass building inspired by the nautilus shell. Five floors covering geological history, prehistoric life, human evolution, and ecosystems. The dinosaur section is excellent.
 
 ## Century Park and Expo Area
+
+![Yuyuanchenghuang Temple, Shanghai](/img/destinations/shanghai-pudong-district-guide/3.webp)
 
 **Century Park (世纪公园)** is Pudong's 140-hectare public park — Shanghai's largest green space within the urban core. Walking paths, paddleboats, and the occasional weekend event. Less remarkable than Fuxing or Zhongshan Parks in the old city but pleasant for a morning run.
 

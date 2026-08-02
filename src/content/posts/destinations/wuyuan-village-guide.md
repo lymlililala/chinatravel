@@ -12,7 +12,7 @@ tags:
   - photography
   - east-china
 description: "Wuyuan (婺源) in Jiangxi — the 'most beautiful village in China', famous for March-April when yellow rapeseed flowers frame white-walled Huizhou-style villages. The specific villages to visit (Jiangwan, Likeng, Xiaoqi), the best photography spots, getting there from Jingdezhen or Hangzhou, and what it's like outside peak flower season."
-ogImage: "https://images.pexels.com/photos/29612001/pexels-photo-29612001.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/wuyuan-village-guide/cover.webp"
 ---
 
 Wuyuan is a county in northeastern Jiangxi province that became famous almost accidentally. Chinese travel photographers discovered in the 1990s that the combination of black-and-white Huizhou architecture — white-walled, grey-tiled, with dramatic horse-head gables — set against yellow rapeseed flower fields created images unlike anywhere else in China. The photos spread, the visitors followed, and Wuyuan was awarded the title of "China's Most Beautiful Village" by various travel magazines.
@@ -23,7 +23,7 @@ The title stuck. Every March and early April, around three million visitors desc
 
 ## When to Visit for the Rapeseed Flowers
 
-![Wuyuan — When to Visit for the Rapeseed Flowers](https://images.pexels.com/photos/37932933/pexels-photo-37932933.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![— Mingcidou Old Town Scenery, Jingdezhen](/img/destinations/wuyuan-village-guide/1.webp)
 
 The rapeseed blooms at slightly different times depending on altitude and location:
 
@@ -61,8 +61,6 @@ A newer addition to the tourist circuit, at higher altitude — which means late
 ### Sixi Yanshi (思溪延村)
 Twin villages — Sixi and Yanshi — along the same road. Merchant family houses from the Qing Dynasty, with excellent interior wood carving. Less photographed for landscapes but excellent for architecture detail.
 
-![Wuyuan — The Scenic Area Pass](https://images.pexels.com/photos/22819716/pexels-photo-22819716.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Scenic Area Pass
 
 Wuyuan is divided into several tourist districts, each with its own ticket. The most practical option is the **Comprehensive Scenic Pass** (通票):
@@ -75,6 +73,8 @@ Individual village tickets range from ¥30–75. If you're visiting more than tw
 
 ## Photography Spots
 
+![Jinggangshan Scenery, Jiangxi](/img/destinations/wuyuan-village-guide/2.webp)
+
 **Shiyiwanqiu Platform (石耳山观景台):** Above Jiangwan, this elevated viewing platform gives the classic aerial view of the village surrounded by rapeseed fields. Arrive by 7am for mist photography in spring.
 
 **Likeng Village Centre:** Stand on the stone bridge near the ancestral hall at golden hour (around 6–7pm) for the best light on the white walls.
@@ -82,8 +82,6 @@ Individual village tickets range from ¥30–75. If you're visiting more than tw
 **Huangcun Village (黄村):** Less visited than the main sites, with a 200-year-old camphor tree and excellent reflections in the village pond.
 
 **Wengong Road (文公路):** The road connecting northern and southern Wuyuan passes through some of the most photogenic rapeseed fields. Rent a bicycle and cycle it slowly in early morning.
-
-![Wuyuan — Getting to Wuyuan](https://images.pexels.com/photos/29612000/pexels-photo-29612000.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting to Wuyuan
 
@@ -103,6 +101,8 @@ Once in Wuyuan, you'll need to get to the villages. Options:
 - **Bicycle rental:** Available in Wuyuan town for ¥30–50/day, practical for the flatter northern circuit villages
 
 ## Where to Stay
+
+![Longhu Mountain Scenery, Jiangxi](/img/destinations/wuyuan-village-guide/3.webp)
 
 **In Wuyuan Town:** Most practical for transport; hotels from ¥150–400/night. The town itself is unremarkable.
 

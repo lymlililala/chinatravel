@@ -11,7 +11,7 @@ tags:
   - toolkit
   - culture
 description: "The best urban photography locations in China — Beijing's hutong doorways and Forbidden City golden hour, Shanghai's Bund at blue hour with Pudong reflected in the river, Chongqing's extraordinary layered cityscape, Hong Kong's Victoria Harbour from the peak, and the photogenic minority villages of Guizhou. Camera settings advice for each."
-ogImage: "https://images.pexels.com/photos/34947070/pexels-photo-34947070.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-photography-city-guide/cover.webp"
 ---
 
 China's cities are among the most photographically rewarding on Earth — not just for the contrast between ancient and modern, but for the sheer density of visual interest. A single Beijing hutong alley contains more compositions than most cities offer in a day. Here's where to go and, more usefully, when to be there.
@@ -19,6 +19,8 @@ China's cities are among the most photographically rewarding on Earth — not ju
 ## Table of contents
 
 ## Beijing: Hutongs, Gates & the Golden Hour
+
+![Pan Gate, Suzhou](/img/toolkit/china-photography-city-guide/1.webp)
 
 Beijing's most photogenic moments happen in the **hutong alleyways** of Dongcheng and Xicheng districts — the old courtyard-house neighbourhoods that survived the development eras. Specifically:
 
@@ -60,6 +62,8 @@ Chongqing is architecturally unlike anywhere else in the world — a city of 32 
 Chongqing rewards photographers who stay after dark. The city at night, with its layered geography and ubiquitous neon, is genuinely world-class.
 
 ## Hong Kong: Vertical Drama
+
+![Wangshi Garden Scenery, Suzhou](/img/toolkit/china-photography-city-guide/2.webp)
 
 Hong Kong is a photographer's city — the combination of dramatic topography, dense vertical architecture, and incredible light makes it endlessly productive.
 

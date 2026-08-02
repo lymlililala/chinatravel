@@ -12,7 +12,7 @@ tags:
   - tea
   - coast
 description: "Rizhao in southeastern Shandong is one of China's most pleasant small coastal cities — famous for its gold-sand beaches, surprisingly good green tea plantations, and a relaxed atmosphere that sets it apart from the more commercialized Qingdao. This guide covers the beaches, the tea culture, fresh seafood, and why Rizhao is Shandong's most underrated seaside destination."
-ogImage: "https://images.pexels.com/photos/35218485/pexels-photo-35218485.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/shandong-rizhao-guide/cover.webp"
 ---
 
 Rizhao (日照, literally "Sunshine") occupies a stretch of the southeastern Shandong coast where the Yellow Sea meets long, gently curving beaches of unusually fine golden sand. The name is apt — Rizhao claims to be the first place on China's coast to receive the sunrise each morning, and the city has built a modest tourism brand around this distinction.
@@ -24,6 +24,8 @@ The surprise for most visitors is the tea. Rizhao is the northernmost tea-growin
 ## Table of contents
 
 ## Getting to Rizhao
+
+![Kong Temple, Qufu](/img/destinations/shandong-rizhao-guide/1.webp)
 
 **By high-speed train:**
 - **From Jinan (Shandong capital):** About 2.5 hours; ¥130–180; multiple daily departures
@@ -64,8 +66,6 @@ About 25km south of the city center in Lanshan District — the least developed 
 
 **Beach season:** June to September. Water temperature reaches 22–26°C by July–August; swimmable but bracing in June. Outside the summer months, the beaches are too cold for swimming but pleasant for walking.
 
-![Rizhao Shandong — Rizhao Green Tea (日照绿茶)](https://images.pexels.com/photos/8952049/pexels-photo-8952049.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Rizhao Green Tea (日照绿茶)
 
 The most unexpected thing about Rizhao for most visitors is that it produces some of China's most prized green tea. The tea gardens lie on the slopes of the Wulian Mountains (五莲山) about 30km inland from the coast, at about 33–36°N latitude — the northernmost tea-growing latitude in China.
@@ -90,6 +90,8 @@ Several tea estates in the Wulian Mountain area offer tours:
 
 ## Seafood & Food Culture
 
+![Konglin, Qufu](/img/destinations/shandong-rizhao-guide/2.webp)
+
 Rizhao's fishing heritage means the seafood is excellent and relatively inexpensive compared to Qingdao:
 
 **At the harbor:**
@@ -104,6 +106,8 @@ The Shijiu Fish Harbor (石臼渔港) on the eastern edge of the city is where t
 **Beach food stalls:** The beachfront at Wanpingkou has a nightly food market (7–11pm in summer) with grilled seafood, cold beer, and local snacks. A seafood dinner here costs ¥50–120 per person with beer.
 
 ## Other Sights
+
+![Yan Temple Scenery, Shandong, Qufu](/img/destinations/shandong-rizhao-guide/3.webp)
 
 **Wulian Mountain (五莲山):**
 A scenic mountain area about 30km inland; granite peaks, forested valleys, and a Buddhist temple complex. A good half-day trip from the beaches. Entry ¥60; cable car ¥50 one-way.

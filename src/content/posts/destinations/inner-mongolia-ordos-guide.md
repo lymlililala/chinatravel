@@ -12,7 +12,7 @@ tags:
   - mongolia-culture
   - north-china
 description: "Ordos in Inner Mongolia is a city of fascinating contradictions — the spiritual homeland of Genghis Khan's memory, a surreal desert landscape with freshwater lakes, and the world's most famous ghost city now surprisingly busy. This guide covers the Genghis Khan Mausoleum, the Kubuqi Desert, Kangbashi district, and the practical details of traveling to one of China's most unusual destinations."
-ogImage: "https://images.pexels.com/photos/35498098/pexels-photo-35498098.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/inner-mongolia-ordos-guide/cover.webp"
 ---
 
 Ordos (鄂尔多斯) sits in the loop of the Yellow River in southern Inner Mongolia, in a landscape that transitions from grassy steppe to rolling sand dunes to coal-rich plateau. It became internationally famous for exactly the wrong reason — Kangbashi, a new district built for a million people that sat mostly empty for years, earning the title "China's Ghost City" and spawning a thousand economic cautionary tales.
@@ -23,7 +23,7 @@ But Ordos is worth visiting for reasons that have nothing to do with empty apart
 
 ## Getting to Ordos
 
-![Ordos Inner Mongolia — Getting to Ordos](https://images.pexels.com/photos/35497982/pexels-photo-35497982.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Manzhoulilao Architecture Scenery, Inner Mongolia](/img/destinations/inner-mongolia-ordos-guide/1.webp)
 
 **By air:**
 - **Ordos Ejin Horo Airport (鄂尔多斯鄂托克前旗机场):** Direct flights from Beijing (1.5 hours, ¥400–700), Shanghai (2.5 hours, ¥600–900), Chengdu, Xi'an, and other major cities
@@ -79,9 +79,9 @@ Several high-end "glamping" resorts operate within the Kubuqi Desert, with Mongo
 **Desert ecological recovery:**
 The Kubuqi is notable as the site of China's most successful desert reclamation project — a 20-year effort by the Elion Resources Group and local communities has reversed desertification along a 500km corridor. The contrast between the still-active sand sea and the stabilized green corridors is visible from the main access roads and adds an interesting dimension to the visit.
 
-![Ordos Inner Mongolia — Kangbashi — The Ghost City That Wasn't](https://images.pexels.com/photos/3121285/pexels-photo-3121285.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Kangbashi — The Ghost City That Wasn't
+
+![Chengjisihanling Scenery, Ordos, Inner Mongolia](/img/destinations/inner-mongolia-ordos-guide/2.webp)
 
 Kangbashi was planned in 2004 as a new administrative and cultural center for Ordos, designed to house a million people. By 2010, it was only about 5% occupied despite having fully built out road networks, apartment blocks, museums, theaters, and public plazas. The resulting images of empty highways, deserted apartment complexes, and ghost malls made international news and became a symbol of China's speculative real estate overbuilding.
 
@@ -129,9 +129,9 @@ Some tourist camps on the steppe north of Dongsheng offer "Mongolian hospitality
 
 **Music:** Mongolian music in Ordos features the morin khuur (horsehead fiddle), long song (长调民歌), and throat singing (呼麦/khoomii). Look for performances at the theater in Kangbashi or in the restaurants serving Mongolian cuisine.
 
-![Ordos Inner Mongolia — Day Trips from Ordos](https://images.pexels.com/photos/20445477/pexels-photo-20445477.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day Trips from Ordos
+
+![Aershanguo Park Snow Scenery, Inner Mongolia](/img/destinations/inner-mongolia-ordos-guide/3.webp)
 
 **Shapa Mountain (沙拉山):** A mesa rising from the desert plain north of Dongsheng, with views across the Ordos plateau. A walking trail circles the top. Free access; ¥15 for the cable car.
 

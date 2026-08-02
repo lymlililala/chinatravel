@@ -12,7 +12,7 @@ tags:
   - practical
   - planning
 description: "Practical accessibility guide to China — the improving wheelchair access on high-speed trains, the reality of accessibility at major tourist sites (Forbidden City has ramps but uneven stones), the cities with best metro wheelchair access (Shanghai leads), accessible hotel options, how to communicate accessibility needs, and which experiences are genuinely accessible vs aspirational."
-ogImage: "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=1200&q=85"
+ogImage: "/img/toolkit/china-accessible-travel-wheelchair-guide/cover.webp"
 ---
 
 Accessible travel in China is a topic that requires honest assessment. China's accessibility infrastructure has improved dramatically in major cities and at high-profile tourist sites over the past decade — driven by both the 2022 Winter Paralympics in Beijing and the country's own disability rights advocacy movement. But the improvements are uneven, and experienced wheelchair travellers know to research each specific element of a trip rather than assuming general accessibility.
@@ -24,6 +24,8 @@ This guide is written with practicality first. Where things work well, we say so
 ---
 
 ## High-Speed Rail: Generally Good
+
+![Shuhe Old Town Scenery, Yunnan, Lijiang](/img/toolkit/china-accessible-travel-wheelchair-guide/1.webp)
 
 China's **High-Speed Railway (HSR)** network is genuinely accessible by international comparison. The newer trains (CRH380, CR400 series) are designed with accessibility in mind:
 
@@ -151,6 +153,8 @@ International hotel chains in China (Marriott, Hilton, Intercontinental, Hyatt, 
 ---
 
 ## Communicating Accessibility Needs
+
+![Heilongtan Park Scenery, Yunnan, Lijiang](/img/toolkit/china-accessible-travel-wheelchair-guide/2.webp)
 
 ### Useful Chinese Phrases
 

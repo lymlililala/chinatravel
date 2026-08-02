@@ -12,7 +12,7 @@ tags:
   - history
   - nature
 description: "Shenyang's Qing Dynasty palaces and Japanese colonial history alongside Dalian's European-planned boulevards, beaches, and seafood — two compelling northeastern cities often missed by visitors."
-ogImage: "https://images.pexels.com/photos/37173337/pexels-photo-37173337.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/shenyang-dalian-northeast-guide/cover.webp"
 ---
 
 Liaoning Province anchors China's industrial northeast with two cities of completely different character: Shenyang, the former Manchu capital where the Qing Dynasty began, and Dalian, a coastal city designed by Russian and then Japanese planners that remains one of China's cleanest and most European-feeling urban environments.
@@ -21,7 +21,7 @@ Liaoning Province anchors China's industrial northeast with two cities of comple
 
 ## Shenyang (沈阳)
 
-![Shenyang & Dalian — Shenyang (沈阳)](https://images.pexels.com/photos/30356098/pexels-photo-30356098.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Bei Town Scenery, Liaoning](/img/destinations/shenyang-dalian-northeast-guide/1.webp)
 
 Shenyang was the capital of the Manchu people before they conquered China and established the Qing Dynasty (1636–1912). It's still called Mukden in some historical contexts, and its imperial palace predates Beijing's Forbidden City.
 
@@ -37,9 +37,9 @@ The "Young Marshal" Zhang Xueliang was the warlord of Manchuria who kidnapped Ch
 ### Mukden Palace Neighbourhood
 The old city around the Imperial Palace has been sensitively developed — traditional buildings, tea houses, and craft shops. The **Shenyang Zhongjie (中街)** pedestrian commercial street is one of the oldest shopping streets in China.
 
-![Shenyang & Dalian — Dalian (大连)](https://images.pexels.com/photos/17557991/pexels-photo-17557991.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Dalian (大连)
+
+![Qian Mountain Scenery, Liaoning](/img/destinations/shenyang-dalian-northeast-guide/2.webp)
 
 Dalian is among China's most pleasant cities — relatively little air pollution (sea breezes clear the air), European urban planning from the Russian and Japanese concession periods, and excellent beaches.
 
@@ -66,8 +66,8 @@ Dalian is one of China's premier seafood cities. Specialties:
 
 ---
 
-![Shenyang & Dalian — Getting Between Shenyang and Dalian](https://images.pexels.com/photos/17557990/pexels-photo-17557990.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting Between Shenyang and Dalian
+
+![Wugoujingguangsheli Pagoda Scenery, Liaoning, Shenyang](/img/destinations/shenyang-dalian-northeast-guide/3.webp)
 
 High-speed train: 1.5–2 hours, ¥100–¥150. Dalian to Harbin: 3 hours by high-speed.

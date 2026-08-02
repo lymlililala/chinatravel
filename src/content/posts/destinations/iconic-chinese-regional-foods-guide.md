@@ -12,7 +12,7 @@ tags:
   - "zhejiang"
   - "sichuan"
 description: "Explore China's diverse cuisine through iconic regional specialties: baozi, zongzi, fruits, and pastries. A beginner-friendly guide to flavors across provinces."
-ogImage: "https://images.pexels.com/photos/18505754/pexels-photo-18505754.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/iconic-chinese-regional-foods-guide/cover.webp"
 faq:
   - question: "Can I find vegetarian baozi in China?"
     answer: "Yes! Look for **sucai baozi** (素菜包子) filled with vegetables, tofu, or glass noodles. In Tianjin, the famous Shimenkan vegetarian buns are a must-try."
@@ -38,9 +38,9 @@ China’s culinary landscape is as vast and varied as its geography. From the st
 
 ## Baozi (Stuffed Buns): A Pocket of Flavor Across China
 
-Baozi are steamed or baked buns filled with savory or sweet ingredients. They are a staple breakfast and snack nationwide, but each region puts its own spin on them.
+![Heilongtan Park Scenery, Yunnan, Lijiang](/img/destinations/iconic-chinese-regional-foods-guide/1.webp)
 
-![Steaming bamboo baskets of various baozi, some with crimped tops](https://images.pexels.com/photos/17317227/pexels-photo-17317227.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+Baozi are steamed or baked buns filled with savory or sweet ingredients. They are a staple breakfast and snack nationwide, but each region puts its own spin on them.
 
 ### Northern China: Hearty and Wheat-Forward
 
@@ -66,8 +66,6 @@ In **Xinjiang**, **kaobaozi** (烤包子) are baked in a tandoor-like oven until
 
 Zongzi — glutinous rice dumplings wrapped in bamboo or reed leaves — are traditionally eaten during the Dragon Boat Festival (June), but in **Huzhou, Zhejiang**, they are enjoyed year-round. Huzhou-style zongzi are pillow-shaped, ensuring every bite contains filling.
 
-![Pillow-shaped zongzi wrapped in green bamboo leaves, tied with string](https://images.pexels.com/photos/18505754/pexels-photo-18505754.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ### Sweet vs. Savory
 
 - **Sweet zongzi**: filled with red bean paste (洗沙粽) or black sesame and walnut. The bean paste is made from “Dahongpao” red beans from Nantong, processed through a traditional 12-step washing method for a silky texture.
@@ -79,13 +77,13 @@ Look for **Huzhou zongzi** at local markets or specialty shops. Many brands now 
 
 ## Seasonal Fruits: Nature’s Candy
 
+![Erhai Lake Scenery, Yunnan, Dali](/img/destinations/iconic-chinese-regional-foods-guide/2.webp)
+
 China’s diverse climate produces exceptional fruits. Two standouts are **Fengtang plums** and **Shaoshan apricots**.
 
 ### Fengtang Plums (蜂糖李) from Guizhou
 
 Grown in the **Liuma Valley** of **Anshun, Guizhou**, these green-skinned plums are nicknamed the “ceiling of plums” for their honey-like sweetness (16-20° Brix). The flesh is crisp, juicy, and separates cleanly from the pit. They are available only from late June to July. Look for fruits with a slight give when gently squeezed — that indicates perfect ripeness.
-
-![Green plums with a slight yellow blush, cut open to show crisp flesh](https://images.pexels.com/photos/37295490/pexels-photo-37295490.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### Shaoshan Apricots (少山红杏) from Shandong
 
@@ -93,9 +91,9 @@ From the **Laoshan foothills in Qingdao**, these apricots are named after the re
 
 ## Traditional Pastries: Tea-Time Treasures
 
-**Chaoshan绿豆饼 (mung bean cakes)** are a classic pairing with Gongfu tea. Made from peeled mung beans, sugar, and wheat flour, these small cakes are pan-fried until golden. The filling is smooth and sweet, with a hint of bean fragrance.
+![Terracotta Army](/img/destinations/iconic-chinese-regional-foods-guide/3.webp)
 
-![Golden-brown mung bean cakes arranged on a plate, with a cup of tea](https://images.pexels.com/photos/32042050/pexels-photo-32042050.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+**Chaoshan绿豆饼 (mung bean cakes)** are a classic pairing with Gongfu tea. Made from peeled mung beans, sugar, and wheat flour, these small cakes are pan-fried until golden. The filling is smooth and sweet, with a hint of bean fragrance.
 
 ### Varieties
 

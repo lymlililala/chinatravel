@@ -19,14 +19,14 @@ tags:
   - adventure
   - nature
 description: "Everything about Zhangjiajie's glass-bottomed bridge and sky walk — ticket booking, what it actually feels like, height and safety, best time to visit, and how to combine with the Avatar Mountains park."
-ogImage: "https://images.pexels.com/photos/37817227/pexels-photo-37817227.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/zhangjiajie-glass-bridge-guide/cover.webp"
 ---
 
 Zhangjiajie has two distinct visitor experiences: the Avatar Mountains forest park with its pillar formations, and the Tianmen Mountain area with its glass-bottomed attractions. The glass bridge (zhangjiajie grand canyon glass bridge) opened in 2016 and was, for a time, the longest glass-bottomed suspension bridge in the world. It remains one of the most vertigo-inducing tourist experiences in China.
 
-![Zhangjiajie Glass Bridge & Sky Walk — Zhangjiajie Grand Canyon Glass Bridge](https://images.pexels.com/photos/14023046/pexels-photo-14023046.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Zhangjiajie Grand Canyon Glass Bridge
+
+![Ancient Town Landscape Scenery, Fenghuang](/img/destinations/zhangjiajie-glass-bridge-guide/1.webp)
 
 **What it is**: A 430-metre suspension bridge, 300 metres above the valley floor, with a transparent glass floor between the steel walkways. The bridge spans the Zhangjiajie Grand Canyon (张家界大峡谷) in Cili County — a separate destination from the Wulingyuan/Avatar Mountains area, about 35km from Zhangjiajie city.
 
@@ -36,9 +36,9 @@ Zhangjiajie has two distinct visitor experiences: the Avatar Mountains forest pa
 
 **Tickets**: ¥138 for bridge + canyon entry. Book online (official website or through Trip.com) in advance — daily visitor cap strictly enforced. Shoes with rubber soles required (no high heels). Mandatory shoe covers provided at the bridge entrance.
 
-![Zhangjiajie Glass Bridge & Sky Walk — Tianmen Mountain Sky Walk (天门山玻璃栈道)](https://images.pexels.com/photos/21897331/pexels-photo-21897331.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Tianmen Mountain Sky Walk (天门山玻璃栈道)
+
+![Guojiasenlin Park, Zhangjiajie](/img/destinations/zhangjiajie-glass-bridge-guide/2.webp)
 
 **What it is**: A cliff-side glass-floored walkway on the sheer face of Tianmen Mountain (1,518m), extending approximately 60 metres at a height of ~1,400 metres. Part of the larger Tianmen Mountain Scenic Area.
 
@@ -48,9 +48,9 @@ Zhangjiajie has two distinct visitor experiences: the Avatar Mountains forest pa
 
 **Ticket**: ¥258 (includes cable car and most attractions). The cable car often has queues of 1–2 hours. Arrive early or book a time slot online.
 
-![Zhangjiajie Glass Bridge & Sky Walk — Wulingyuan/Avatar Mountains: How They Compare](https://images.pexels.com/photos/33231933/pexels-photo-33231933.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Wulingyuan/Avatar Mountains: How They Compare
+
+![Landscape Scenery, Zhangjiajie](/img/destinations/zhangjiajie-glass-bridge-guide/3.webp)
 
 The Zhangjiajie National Forest Park (Wulingyuan area) — the Avatar Mountains — is a different ticket and a different area. The pillar formations here (quartzite sandstone columns rising 200–400 metres) are the landscape that inspired the floating Hallelujah Mountains in the 2009 Avatar film.
 

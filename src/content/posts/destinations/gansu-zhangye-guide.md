@@ -12,12 +12,14 @@ tags:
   - giant-buddha
   - silk-road
 description: "Witness the surreal rainbow-striped mountains of Zhangye, one of China's most photographed landscapes, and discover the Silk Road heritage of this ancient Gansu oasis city with its magnificent Giant Buddha Temple and Danxia landforms. This 2026 guide covers the Zhangye National Geopark's coloured mountains, the Mati Temple grottoes, the Giant Buddha Temple with China's largest reclining Buddha, local Hexi Corridor cuisine, and practical advice for exploring this critical Silk Road waypoint."
-ogImage: "https://images.pexels.com/photos/19334370/pexels-photo-19334370.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/gansu-zhangye-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## Zhangye — The Rainbow City of the Silk Road
+
+![Mogao Caves, Gansu, Dunhuang](/img/destinations/gansu-zhangye-guide/1.webp)
 
 Zhangye (张掖) sits at the geographic centre of the Hexi Corridor, the narrow strip of land between the Qilian Mountains and the Gobi Desert that served as the main artery of the ancient Silk Road. For over 2,000 years, this oasis city has been a critical waypoint for merchants, monks, and armies traveling between China proper and the western regions. Marco Polo reportedly spent a year here, and the city's name — meaning "Extend the Arm" — refers to its strategic role in reaching toward the west.
 
@@ -71,9 +73,9 @@ The temple complex also includes:
 
 The temple's library contains the Yongle Northern Canon — a complete set of Buddhist scriptures printed by imperial order during the Ming Dynasty. This is one of the few surviving complete sets in China and is stored in ornate wooden cabinets. The scriptures are not on general display, but the cabinets themselves are impressive.
 
-![Zhangye Gansu — Mati Temple Grottoes (马蹄寺石窟)](https://images.pexels.com/photos/34509120/pexels-photo-34509120.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Mati Temple Grottoes (马蹄寺石窟)
+
+![Singing Sand Dunes, Gansu, Dunhuang](/img/destinations/gansu-zhangye-guide/2.webp)
 
 ### Cave Temples in the Mountains
 
@@ -116,6 +118,8 @@ An unexpected oasis on the outskirts of the city — a vast wetland area with wa
 **Mingqing Street (明清街):** A renovated old street with restaurants and snack shops. More touristy but reliable. Meals ¥30-60 ($4.20-8.30 USD) per person.
 
 ## Practical Information
+
+![Maijishan Grottoes, Gansu](/img/destinations/gansu-zhangye-guide/3.webp)
 
 ### Getting to Zhangye
 

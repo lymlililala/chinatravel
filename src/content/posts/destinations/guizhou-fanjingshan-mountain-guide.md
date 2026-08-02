@@ -10,7 +10,7 @@ faq:
   - question: "When is the best time to visit Fanjingshan?"
     answer: "Late spring through autumn offers the best weather, with clear days giving the famous sea-of-clouds views around the summit. Avoid Chinese public holidays when the summit stairs become extremely crowded, and check the forecast since mist and rain are common on the mountain."
 description: "Climb Fanjingshan in Guizhou — the world's newest UNESCO World Natural Heritage Site, famous for the extraordinary mushroom-shaped twin rock formations at the summit, ancient Buddhist temples clinging to vertical cliffs, and some of the richest temperate forest biodiversity in China."
-ogImage: "https://images.pexels.com/photos/21815283/pexels-photo-21815283.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guizhou-fanjingshan-mountain-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Guizhou"
 tags: ["guizhou", "fanjingshan", "UNESCO", "sacred-mountain", "mushroom-rock", "biodiversity", "buddhist-temple", "trekking", "tongren"]
@@ -24,9 +24,9 @@ This is the **New Golden Summit (新金顶)** of Fanjingshan, the most distincti
 
 ---
 
-![Fanjingshan UNESCO — The New Golden Summit](https://images.pexels.com/photos/17586883/pexels-photo-17586883.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The New Golden Summit
+
+![Xijiang Miao Village Landscape, Guizhou](/img/destinations/guizhou-fanjingshan-mountain-guide/1.webp)
 
 ### Geology
 
@@ -44,9 +44,9 @@ At the top, two small temple rooms — one dedicated to Maitreya (Future Buddha)
 
 ---
 
-![Fanjingshan UNESCO — Biodiversity: Why UNESCO Listed It](https://images.unsplash.com/photo-1632822631500-8dd784b705bb?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw0fHxCaW9kaXZlcnNpdHl8ZW58MHwwfHx8MTc4MTg0NzAyOHww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
-
 ## Biodiversity: Why UNESCO Listed It
+
+![Dong Village Gulou](/img/destinations/guizhou-fanjingshan-mountain-guide/2.webp)
 
 ### Guizhou Snub-nosed Monkey (黔金丝猴)
 
@@ -68,8 +68,6 @@ Fanjingshan receives extremely high rainfall (over 2,600 mm/year) and is cloud-c
 
 ---
 
-![Fanjingshan UNESCO — Trekking to the Summit](https://images.pexels.com/photos/12247773/pexels-photo-12247773.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Trekking to the Summit
 
 ### Main Route (Western Approach)
@@ -87,6 +85,8 @@ The final 2 km along the summit ridge — from the cable car terminus to the New
 ---
 
 ## Buddhist Heritage
+
+![Diaojiaolou Scenery](/img/destinations/guizhou-fanjingshan-mountain-guide/3.webp)
 
 Fanjingshan has been a pilgrimage destination for **Maitreya Buddhism** (Milefo worship) since the Ming dynasty. The mythological connection between Maitreya and this mountain — the belief that Maitreya would manifest here in the future — made it one of the most active pilgrimage sites in southwest China from the 16th through early 20th centuries.
 

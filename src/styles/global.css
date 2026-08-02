@@ -322,6 +322,11 @@
   cursor: zoom-in;
   border-radius: 8px;
   transition: opacity 0.2s ease;
+  /* Cap the height so a tall (or portrait) photo can't push the article text
+     more than a screenful apart; the crop keeps the frame's centre. */
+  width: 100%;
+  max-height: 30rem;
+  object-fit: cover;
 }
 .app-prose img:hover {
   opacity: 0.92;

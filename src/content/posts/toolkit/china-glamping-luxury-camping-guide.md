@@ -12,7 +12,7 @@ tags:
   - luxury
   - nature
 description: "China's growing glamping scene — the best luxury camping destinations (Gansu desert camps near Dunhuang, Yunnan mountain camps near Lijiang, Inner Mongolia grassland yurts, lakeside camps at Qinghai Lake), what to expect, how to book, typical prices, and the best seasons."
-ogImage: "https://images.pexels.com/photos/2376989/pexels-photo-2376989.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-glamping-luxury-camping-guide/cover.webp"
 ---
 
 China has gone glamping-mad in the last few years. The domestic travel boom that followed the pandemic years, combined with a generation of Chinese travellers who want nature without sacrificing comfort, has produced an extraordinary range of luxury outdoor experiences. You can sleep in a transparent dome under the Milky Way in the Gobi Desert, wake up in a Mongolian yurt to endless grasslands, or spend the night in a cliffside tent above a glacial lake.
@@ -24,6 +24,8 @@ For international visitors, this is a genuinely exciting and underexplored aspec
 ---
 
 ## China's Glamping Landscape: What to Expect
+
+![Forbidden City Panorama Interior, Beijing](/img/toolkit/china-glamping-luxury-camping-guide/1.webp)
 
 Chinese glamping (营地露营 or 轻奢露营) ranges from well-equipped campsites with nice tents all the way to boutique wilderness retreats charging ¥2,000+ per night. The category is loosely defined, but the best examples share a few characteristics:
 
@@ -118,6 +120,8 @@ At 3,300m elevation, Shangri-La has camps near Pudacuo National Park and Songzan
 ---
 
 ## Qinghai Lake: Lakeside Camping
+
+![Jiankou Great Wall Scenery, Beijing](/img/toolkit/china-glamping-luxury-camping-guide/2.webp)
 
 Qinghai Lake (青海湖) is China's largest inland lake — a deep blue sea at 3,200m altitude, surrounded by mountains and wild flowers. The scale impresses even visitors from large-lake countries.
 

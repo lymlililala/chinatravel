@@ -11,7 +11,7 @@ tags:
   - practical-guide
   - culture
 description: "Fast China travel misses China. The country's rhythms — morning markets, afternoon teahouses, the gradual trust that opens neighborhoods over weeks — only reveal themselves to travelers who slow down. This 2026 guide covers how to arrange long-stay accommodation, integrate into neighborhood life, learn enough Chinese to break through the tourist bubble, and find the hidden rhythms that most visitors never encounter."
-ogImage: "https://images.pexels.com/photos/36194597/pexels-photo-36194597.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-slow-travel-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -23,6 +23,8 @@ The difference between fast China travel and slow China travel is the difference
 This guide is for travelers who have more time or want to use their time differently.
 
 ## Why Slow Travel Works Better in China
+
+![Scenery, Anhui, Huangshan](/img/toolkit/china-slow-travel-guide/1.webp)
 
 China is a country of layers. The surface — tourist attractions, English-menu restaurants, WeChat translations — is accessible immediately. But beneath it:
 - **Neighborhood life**: Wet markets, local noodle shops, evening square dances (广场舞), retired men playing chess on stone tables
@@ -107,6 +109,8 @@ The standard tourist visa (L visa) typically allows 30 or 60 days initially, som
 **Language school enrollment**: Enrolling in Mandarin classes (even part-time) provides a legitimate academic visa category and is very common among long-term foreign residents. Most major cities have language schools that handle visa support. Costs: ¥3,000–8,000/quarter for group classes.
 
 ## Developing Local Connections
+
+![Sea of Clouds Scenery, Huangshan](/img/toolkit/china-slow-travel-guide/2.webp)
 
 The transition from tourist to temporary resident happens through repeated encounters and small gestures:
 

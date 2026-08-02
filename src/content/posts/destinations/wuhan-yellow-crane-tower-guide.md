@@ -1,7 +1,7 @@
 ---
 title: "Yellow Crane Tower Wuhan: China's Most Celebrated Pavilion & Yangtze Views"
 description: "Visit Wuhan's Yellow Crane Tower — the most celebrated tower in Chinese literature, rebuilt to its Song-dynasty glory on Snake Hill above the Yangtze River, with stunning panoramic views over the river and city, and the story behind one of China's most quoted poems."
-ogImage: "https://images.pexels.com/photos/7494228/pexels-photo-7494228.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/wuhan-yellow-crane-tower-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Wuhan"
 tags: ["wuhan", "yellow-crane-tower", "hubei", "yangtze-river", "chinese-poetry", "snake-hill", "historical-monument", "architecture"]
@@ -19,9 +19,9 @@ The tower on **Snake Hill (蛇山)** above Wuhan's Yangtze riverbank was first b
 
 ---
 
-![Yellow Crane Tower Wuhan — The Tower's History](https://images.pexels.com/photos/19064883/pexels-photo-19064883.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Tower's History
+
+![Dong Lake Scenery, Hubei, Wuhan](/img/destinations/wuhan-yellow-crane-tower-guide/1.webp)
 
 ### Origins: The Wu Kingdom (223 CE)
 
@@ -60,9 +60,9 @@ A scale model showing all known historical versions of the tower, from the origi
 
 ---
 
-![Yellow Crane Tower Wuhan — Snake Hill (蛇山) Park](https://images.pexels.com/photos/6133948/pexels-photo-6133948.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Snake Hill (蛇山) Park
+
+![Tusi City, Hubei, Enshi](/img/destinations/wuhan-yellow-crane-tower-guide/2.webp)
 
 The tower occupies the highest point of a 1.5 km hill that is itself a pleasant urban park. Walking the paths below and around the tower reveals:
 
@@ -74,13 +74,13 @@ The tower occupies the highest point of a 1.5 km hill that is itself a pleasant 
 
 ## The Yangtze River Views
 
+![Mingxianling Scenery, Hubei](/img/destinations/wuhan-yellow-crane-tower-guide/3.webp)
+
 Looking north from the tower's upper floors, you see the full width of the **Yangtze at its most urban** — barges moving freight upstream and down, the occasional cruise ship, the shoreline of Hankou and Hanyang on the opposite bank. The river here is approximately 1.2 km wide; in flood season (July–August) it expands further and the water takes on the characteristic yellow-brown of heavy silt load.
 
 The **two Yangtze bridges** visible from the tower — the 1957 railway-road bridge and the 1995 expressway bridge — frame the view north in a way that layers industrial modernity over the ancient landscape.
 
 ---
-
-![Yellow Crane Tower Wuhan — Practical Information](https://images.pexels.com/photos/7494196/pexels-photo-7494196.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Practical Information
 

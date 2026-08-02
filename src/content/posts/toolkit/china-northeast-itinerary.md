@@ -12,7 +12,7 @@ tags:
   - planning
   - winter
 description: "Northeast China (Dongbei) 10-day itinerary — Shenyang's Manchu Imperial Palace (1 day), the ice festival in Harbin (2-3 days), the Siberian Tiger Park, the rime ice phenomenon in Jilin City, Changbai Mountain and the Heaven Lake crater (2 days), and the Korean food culture of Yanbian. Best done in winter when everything is at its most extreme."
-ogImage: "https://images.unsplash.com/photo-1606504756251-70aa264f2f62?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw0fHxub3J0aGVhc3QlMjBub3J0aGVhc3R8ZW58MHwwfHx8MTc4MTk0MjQ2NXww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
+ogImage: "/img/toolkit/china-northeast-itinerary/cover.webp"
 ---
 
 Northeast China — the three provinces of Liaoning, Jilin, and Heilongjiang — is one of the country's least-visited regions by international tourists, and one of its most rewarding in winter. When the rest of China is merely cold, northeast China becomes a landscape of extreme cold made extraordinarily beautiful: ice sculptures the size of buildings, trees coated in rime frost, and a volcano crater lake that freezes over completely under the stars.
@@ -22,6 +22,8 @@ This itinerary is designed for January-February (the peak ice and snow season), 
 ## Table of contents
 
 ## Route Overview
+
+![Shi Lake Scenery, Jiangsu, Suzhou](/img/toolkit/china-northeast-itinerary/1.webp)
 
 **Beijing → Shenyang (high-speed train, 4 hours) → Harbin (high-speed train, 3 hours) → Jilin City (train, 2 hours) → Changbai Mountain (bus or private car, 3-4 hours) → Yanji → Beijing (flight)**
 
@@ -75,6 +77,8 @@ The rime ice phenomenon is weather-dependent — it doesn't form on windy or rel
 Accommodation in Jilin City: ¥150-300 for budget hotels near the river. Transfer to Changbai Mountain the next morning.
 
 ## Days 7-8: Changbai Mountain (长白山)
+
+![Zhongyuan Temple Scenery, Jiangsu, Suzhou](/img/toolkit/china-northeast-itinerary/2.webp)
 
 Changbai Mountain straddles the China-Korea border, and the **Tianchi crater lake** (天池, Heaven Lake) at the summit is one of China's most spectacular natural sites — a deep blue/green volcanic crater lake at 2,189m altitude, surrounded by volcanic rock and (in winter) deep snow.
 

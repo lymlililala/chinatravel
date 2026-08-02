@@ -11,16 +11,16 @@ tags:
   - seasonal
   - spring
 description: "Everything about Wuhan's cherry blossom season — when the blossoms peak at Wuhan University and East Lake, how to visit the famous Luojia Hill sakura, tips for avoiding the biggest crowds, and combining with Wuhan's other spring highlights."
-ogImage: "https://images.pexels.com/photos/1462124/pexels-photo-1462124.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/wuhan-cherry-blossom-guide/cover.webp"
 ---
 
 Wuhan (武汉) has an unlikely claim as China's cherry blossom capital — and the claim is legitimate. Wuhan University's (武汉大学) Luojia Hill campus contains one of the densest concentrations of cherry trees in China, with an estimated 1,100 trees of 30+ varieties. East Lake's cherry blossom garden (东湖磁湖樱花园) is one of the largest in Asia.
 
 The spring blossom season makes Wuhan one of the most visited cities in China in March — and one of the most genuinely beautiful.
 
-![Wuhan Cherry Blossom — When Do Wuhan's Cherry Blossoms Peak?](https://images.pexels.com/photos/16851687/pexels-photo-16851687.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## When Do Wuhan's Cherry Blossoms Peak?
+
+![Yueyangdongting Lake, Hubei](/img/destinations/wuhan-cherry-blossom-guide/1.webp)
 
 The peak blossom period typically falls between **mid-March and early April** (approximately March 15–April 5), varying by up to 2 weeks depending on winter temperature patterns.
 
@@ -32,9 +32,9 @@ The peak blossom period typically falls between **mid-March and early April** (a
 
 To check current conditions: The Wuhan University official WeChat account posts daily flowering updates in the days approaching peak bloom.
 
-![Wuhan Cherry Blossom — Wuhan University Luojia Hill (武汉大学珞珈山)](https://images.pexels.com/photos/29373971/pexels-photo-29373971.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Wuhan University Luojia Hill (武汉大学珞珈山)
+
+![Wulong Spring Scenery, Hubei](/img/destinations/wuhan-cherry-blossom-guide/2.webp)
 
 Wuhan University's hillside campus is one of the most beautiful university campuses in China regardless of season — the 1930s Chinese-Western hybrid architecture (main library, mathematics building, law school) designed by American architects is extraordinary. During cherry blossom season, the hillsides visible from the campus paths become pink and white.
 
@@ -46,8 +46,6 @@ Wuhan University's hillside campus is one of the most beautiful university campu
 
 **Best time within the day**: Early morning (7–9am) has the softest light and smallest crowds. The famous hilltop path with views over the entire campus is the primary photo destination.
 
-![Wuhan Cherry Blossom — East Lake Cherry Garden (武汉东湖磁湖樱花园)](https://images.pexels.com/photos/28738902/pexels-photo-28738902.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## East Lake Cherry Garden (武汉东湖磁湖樱花园)
 
 East Lake Scenic Area's cherry blossom garden covers a lakeside peninsula with thousands of trees — the walk takes 1.5–2 hours at a leisurely pace. The combination of cherry blossoms reflected in the lake water creates a double-composition photograph unavailable at the university campus.
@@ -57,6 +55,8 @@ East Lake Scenic Area's cherry blossom garden covers a lakeside peninsula with t
 **Combine with**: East Lake itself is China's largest urban lake. A bicycle circuit (rental available at multiple lake points) covers the cherry garden, the botanical garden section, and the lake peninsulas in 3–4 hours.
 
 ## Guanggu Square and Optics Valley Cherry Trees
+
+![Huanghelou Scenery, Hubei, Wuhan](/img/destinations/wuhan-cherry-blossom-guide/3.webp)
 
 The Optics Valley (光谷) area — Wuhan's technology district — plants cherry trees along its central boulevard and in Guanggu Plaza. Less scenic than the university campus but an unexpected blossom experience in a modern urban context.
 

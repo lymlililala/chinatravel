@@ -12,7 +12,7 @@ tags:
   - nature
   - history
 description: "Anhui Province offers China's most dramatic mountain photography destination at Huangshan, the world's most beautiful rural landscape at Wuyuan, and the extraordinary cultural legacy of the Huizhou merchant civilization."
-ogImage: "https://images.pexels.com/photos/28987502/pexels-photo-28987502.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/anhui-huangshan-wuyuan-guide/cover.webp"
 ---
 
 Anhui Province sits at the junction of China's great mountain chains and river systems — an inland province where extraordinary granite peaks rise from tea plantation valleys and whitewashed merchant mansions decay gracefully in riverside villages.
@@ -21,7 +21,7 @@ Anhui Province sits at the junction of China's great mountain chains and river s
 
 ## Huangshan (黄山) — Yellow Mountain
 
-![Anhui — Huangshan (黄山) — Yellow Mountain](https://images.pexels.com/photos/28957341/pexels-photo-28957341.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Wan Sea of Clouds Scenery, Anhui, Foshan](/img/destinations/anhui-huangshan-wuyuan-guide/1.webp)
 
 ### Overview
 A UNESCO World Heritage Site (natural + cultural) — 72 granite peaks rising from a forest plateau, famous for four spectacles: **strange pines (奇松), bizarre rocks (怪石), sea of clouds (云海), and hot springs (温泉)**. The most photographed mountain in China.
@@ -50,9 +50,9 @@ A UNESCO World Heritage Site (natural + cultural) — 72 granite peaks rising fr
 
 ---
 
-![Anhui — Wuyuan (婺源) — China's Most Beautiful Rural Landscape](https://images.pexels.com/photos/30183123/pexels-photo-30183123.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Wuyuan (婺源) — China's Most Beautiful Rural Landscape
+
+![Huangdi Ancient Village Luo Landscape, Shanxi, Anhui](/img/destinations/anhui-huangshan-wuyuan-guide/2.webp)
 
 Wuyuan (technically in Jiangxi Province but culturally Huizhou and accessed from Anhui) — see Jiangxi guide for full detail. Brief summary:
 
@@ -60,9 +60,9 @@ Wuyuan (technically in Jiangxi Province but culturally Huizhou and accessed from
 
 ---
 
-![Anhui — Huizhou Culture (徽州文化)](https://images.pexels.com/photos/28968968/pexels-photo-28968968.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Huizhou Culture (徽州文化)
+
+![Huangling Ancient Village Luoshaiqiu Scenery, Jiangxi, Wuyuan](/img/destinations/anhui-huangshan-wuyuan-guide/3.webp)
 
 The Huizhou region of southern Anhui produced China's most successful medieval merchant class — Huizhou merchants (徽商) dominated commerce in Ming and Qing Dynasty China for 500+ years. They brought their wealth home and invested it in extraordinary residential architecture.
 

@@ -12,7 +12,7 @@ tags:
   - nature
   - canyon
 description: "Xingyi in southwestern Guizhou is home to the Wanfenglin ('Ten-Li Gallery' of Karst Peaks), one of China's most spectacular karst landscapes, and the Maling River Canyon, a 20km gorge with waterfalls, suspension bridges, and dramatic cliff scenery. This guide covers both major attractions, the old town, transport options, and why Xingyi deserves a spot on every Guizhou itinerary."
-ogImage: "https://images.unsplash.com/photo-1566438480900-0609be27a4be?w=1200&q=85"
+ogImage: "/img/destinations/guizhou-xingyi-guide/cover.webp"
 ---
 
 Xingyi (兴义) sits in the southwestern corner of Guizhou Province, where the plateau begins to break apart into dramatic karst formations before descending toward the Yunnan border. It's the capital of Qianxinan Buyi and Miao Autonomous Prefecture (黔西南布依族苗族自治州) — a jurisdiction that's a mouthful in English and reflects the ethnic complexity of the region.
@@ -22,6 +22,8 @@ Two things make Xingyi exceptional. The first is Wanfenglin (万峰林, "Forest 
 ## Table of contents
 
 ## Getting to Xingyi
+
+![Xijiang Miao Village Landscape, Guizhou](/img/destinations/guizhou-xingyi-guide/1.webp)
 
 **By air:**
 - **Xingyi Wanfeng Airport (兴义万峰机场):** Direct flights from Guiyang (50 minutes), Kunming (50 minutes), Chengdu (1.5 hours), Guangzhou (1.5 hours), and Beijing (2.5 hours)
@@ -58,8 +60,6 @@ Wanfenglin is the more famous of Xingyi's two major natural attractions, and it 
 **Buyi Villages:**
 The valley between the peaks is dotted with Buyi minority villages (布依族寨子) whose distinctive architecture — stone-walled houses with slate roofs — blends into the karst landscape. The villages are inhabited and semi-functioning agricultural communities; cycling through them is one of the best aspects of the Wanfenglin experience.
 
-![Xingyi Guizhou — Maling River Canyon (马岭河峡谷)](https://images.pexels.com/photos/12174046/pexels-photo-12174046.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Maling River Canyon (马岭河峡谷)
 
 The Maling River Canyon is the geological counterpart to Wanfenglin — where Wanfenglin is about peaks rising above you, the canyon is about the same limestone plateau collapsing below. The Maling River has cut a gorge 280 meters deep through the karst plateau, creating what feels like a secret world invisible from the surface.
@@ -84,6 +84,8 @@ The Maling River runs crystal-clear green at the canyon bottom (it's the dischar
 
 ## The Old Town & Daily Life
 
+![Dong Village Gulou](/img/destinations/guizhou-xingyi-guide/2.webp)
+
 Xingyi's old town area, while less spectacular than the natural sights, has a functional charm that rewards an afternoon walk:
 
 **Central market (中心市场):** A daily covered market selling local produce, dried mushrooms, Guizhou snacks, and minority handicrafts. The best time is morning (7–10am) when local farmers bring in fresh produce.
@@ -91,8 +93,6 @@ Xingyi's old town area, while less spectacular than the natural sights, has a fu
 **Xingyi Museum (兴义博物馆):** Houses a significant collection of Guizhou minority artifacts, including Buyi and Miao traditional dress, silver jewelry, and agricultural tools. The natural history section covers the geology of the Wanfenglin karst. Entry free.
 
 **Minority cultural performances:** Several restaurants and tea houses in the old town area offer evening performances of Buyi and Miao music and dance — quality varies; ask your hotel for current recommendations.
-
-![Xingyi Guizhou — Buyi Minority Culture (布依族)](https://images.pexels.com/photos/34439498/pexels-photo-34439498.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Buyi Minority Culture (布依族)
 
@@ -107,6 +107,8 @@ The Buyi people are the largest ethnic minority in southwestern Guizhou, and the
 - **Sixth Month Six (六月六):** Summer festival celebrating the Buyi new year with water activities and traditional music
 
 ## Food in Xingyi
+
+![Diaojiaolou Scenery](/img/destinations/guizhou-xingyi-guide/3.webp)
 
 Xingyi food is a variant of Guizhou cuisine with a stronger Yunnan influence and distinctive Buyi flavors:
 

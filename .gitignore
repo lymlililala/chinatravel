@@ -33,3 +33,10 @@ scripts/wechat/data/
 public/pagefind
 # GSC export reports (analysis artifacts)
 gsc/
+
+# 图片素材源目录（18GB，仅本地，压缩产物进 public/img/）
+pic/
+
+# 图片流水线的本地中间产物（依赖 pic/，无法在别处复现）
+scripts/pic-index.json
+scripts/pic-plan.json

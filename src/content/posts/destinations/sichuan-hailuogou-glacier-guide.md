@@ -12,7 +12,7 @@ tags:
   - nature
   - gongga-mountain
 description: "Hailuogou in western Sichuan is home to the largest glacier in Asia below 3,000 meters, tumbling down from the flanks of Gongga Mountain — the highest peak outside the Himalayas. This guide covers the glacier viewing platforms, the famous outdoor hot springs at the glacier's edge, trekking routes, and practical transport from Chengdu and Kangding."
-ogImage: "https://images.pexels.com/photos/11957639/pexels-photo-11957639.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/sichuan-hailuogou-glacier-guide/cover.webp"
 ---
 
 Hailuogou (海螺沟, literally "Conch Gully") is the name of both a valley and a glacier on the eastern flank of Gongga Mountain (贡嘎山) in the Garzê Tibetan Autonomous Prefecture of western Sichuan. Gongga — at 7,556 meters — is the highest peak outside the Himalayan massif proper, higher than every mountain in the Andes, the Rockies, or the Alps, and it dominates the local landscape with an authority that becomes physically apparent as you approach.
@@ -23,7 +23,7 @@ The glacier that descends from Gongga's eastern flanks is remarkable for one spe
 
 ## Getting to Hailuogou
 
-![Hailuogou Glacier Sichuan — Getting to Hailuogou](https://images.pexels.com/photos/11957638/pexels-photo-11957638.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Siguniang Mountain Scenery, Sichuan](/img/destinations/sichuan-hailuogou-glacier-guide/1.webp)
 
 The journey to Hailuogou is part of the experience — the road from Chengdu passes through some of the most dramatic terrain in Sichuan.
 
@@ -64,8 +64,6 @@ The **glacier ice cliffs** (冰崩) are the visual highlight — sections where 
 
 **Ice avalanches:** The upper glacier regularly calves large ice blocks that cascade down in thunderous avalanches, visible (and audible) from the viewing platforms. These happen unpredictably, multiple times per day in warmer months. Watching one is spectacular; the sound reaches you several seconds after the visual.
 
-![Hailuogou Glacier Sichuan — The Hot Springs](https://images.pexels.com/photos/4555535/pexels-photo-4555535.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Hot Springs
 
 The juxtaposition of glacial ice and geothermal hot springs at Hailuogou is one of the most unusual natural combinations in China. Volcanic activity beneath Gongga has created a series of hot springs in the valley, with temperatures ranging from 30°C to over 80°C.
@@ -80,6 +78,8 @@ The main hot spring facility at Camp 3 has outdoor pools ranging from 38°C to 4
 **Natural thermal streams:** The valley floor below Camp 3 has several thermal streams where the water is too hot to touch. The colors — orange, yellow, white mineral deposits against the stream bed — are striking in themselves.
 
 ## Gongga Mountain Views
+
+![Mountain Scenery, Sichuan, Emei](/img/destinations/sichuan-hailuogou-glacier-guide/2.webp)
 
 Gongga Mountain (贡嘎山, also called Minya Konka) is only visible in clear weather — cloud and mist obscure it for much of the time, particularly during the summer monsoon season. When it does appear, the view is staggering: a snow-and-ice pyramid dominating the horizon, its summit 4,700 meters above the valley floor.
 
@@ -99,8 +99,6 @@ A multi-day high-altitude circuit of Gongga Mountain is one of China's most chal
 
 **Yulongxi Valley (玉龙溪谷):** A less-visited side valley south of the main Hailuogou scenic area with pristine forest, waterfalls, and views of the smaller glaciers on Gongga's flanks. A guide is useful for navigating the unmarked trails.
 
-![Hailuogou Glacier Sichuan — Accommodation Options](https://images.pexels.com/photos/11957631/pexels-photo-11957631.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Accommodation Options
 
 **In Moxi Town:**
@@ -113,6 +111,8 @@ A multi-day high-altitude circuit of Gongga Mountain is one of China's most chal
 - Staying at Camp 3 allows early morning glacier access before day-trippers arrive — worth the premium for photography
 
 ## Moxi Town Attractions
+
+![Xianuoduojishen Mountain Scenery, Sichuan](/img/destinations/sichuan-hailuogou-glacier-guide/3.webp)
 
 Beyond the glacier itself, Moxi is a pleasant base with its own history:
 

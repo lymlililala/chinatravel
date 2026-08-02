@@ -13,7 +13,7 @@ tags:
   - beach
   - northeast
 description: "Huludao in western Liaoning combines the best-preserved ancient walled city in northeast China, accessible Bohai Sea beaches, and mountainous inland hiking — all within easy reach of Shenyang and Beijing. This 2026 guide covers Xingcheng's Ming Dynasty walls, Jiufeng Mountain, the beach coast, seafood, and practical transport information."
-ogImage: "https://images.pexels.com/photos/17583737/pexels-photo-17583737.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/liaoning-huludao-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -24,7 +24,7 @@ Xingcheng is the kind of discovery that makes regional travel in China rewarding
 
 ## Xingcheng Ancient City (兴城古城)
 
-![Huludao Liaoning — Xingcheng Ancient City (兴城古城)](https://images.pexels.com/photos/36473789/pexels-photo-36473789.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Forbidden City, Shenyang](/img/destinations/liaoning-huludao-guide/1.webp)
 
 ### The City Walls
 
@@ -67,8 +67,6 @@ The Huludao coastline stretches for over 200 km along the Bohai Sea. The main be
 
 **Sea bathing season:** July–September. Water temperatures reach 24–26°C at peak.
 
-![Huludao Liaoning — Huludao Seafood](https://images.pexels.com/photos/14786461/pexels-photo-14786461.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Huludao Seafood
 
 Huludao's position on the Bohai coast gives it access to excellent seafood — the Bohai is notably rich in shrimp, crab and sea cucumber.
@@ -81,6 +79,8 @@ Huludao's position on the Bohai coast gives it access to excellent seafood — t
 **Restaurant areas:** The waterfront street in Xingcheng near the Bohai inlet has the best seafood; budget ¥100–¥200 for two people ($14–$28).
 
 ## Getting to Huludao / Xingcheng
+
+![Panjinhong Beach Scenery, Liaoning](/img/destinations/liaoning-huludao-guide/2.webp)
 
 ### From Beijing
 
@@ -110,8 +110,6 @@ The "First Pass Under Heaven" at the eastern end of the Great Wall, Shanhaiguan 
 **In Huludao city:**
 **Mid-range:** Several chain hotels near the railway station; rooms from ¥200–¥350/night ($28–$49).
 
-![Huludao Liaoning — Best Time to Visit](https://images.pexels.com/photos/29903855/pexels-photo-29903855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Best Time to Visit
 
 **Summer (June–August):** Beach season is the main draw for Chinese tourists; the ancient city is busy on weekends. Accommodation in Xingcheng books out during July–August; reserve ahead.
@@ -123,6 +121,8 @@ The "First Pass Under Heaven" at the eastern end of the Great Wall, Shanhaiguan 
 **Winter:** Cold (-10 to -15°C) but very quiet. The walls in snow have a stark, striking appearance.
 
 ## Practical Tips
+
+![Beiling, Shenyang](/img/destinations/liaoning-huludao-guide/3.webp)
 
 - **History preparation:** Reading about the Ming Dynasty northeastern defence system (or even a brief article on the Battle of Ningyuan/Xingcheng) before visiting makes the wall experience much more meaningful.
 - **Wall walking timing:** The walls are spectacular at dusk when the angle of light catches the weathered brick. The north and east sections are less visited than the main gate section.

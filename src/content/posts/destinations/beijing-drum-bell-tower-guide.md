@@ -1,7 +1,7 @@
 ---
 title: "Beijing Drum Tower & Bell Tower Guide: Time in the Imperial Capital"
 description: "Complete guide to Beijing's Drum Tower and Bell Tower — history, what to see, climbing tips, the drum performances, and exploring the surrounding Gulou neighborhood with its cafes, hutongs, and local life."
-ogImage: "https://images.pexels.com/photos/25558881/pexels-photo-25558881.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/beijing-drum-bell-tower-guide/cover.webp"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/beijing-drum-tower.jpg"
 category: "destinations"
@@ -17,9 +17,9 @@ For nearly 700 years, from the Yuan dynasty through the Qing, this system govern
 
 Today, the towers survive in excellent condition, and the surrounding neighborhood — known simply as the Gulou area — has become one of Beijing's most appealing urban environments: a mix of traditional hutong life, excellent coffee shops and bars, creative studios, and residential streets that preserve the texture of pre-high-rise Beijing.
 
-![Beijing Drum Tower & Bell Tower — The Drum Tower (鼓楼)](https://images.pexels.com/photos/34727997/pexels-photo-34727997.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Drum Tower (鼓楼)
+
+![Qinghua University Yuan Qing Dynasty Imperial](/img/destinations/beijing-drum-bell-tower-guide/1.webp)
 
 **History**: The current Drum Tower was built in 1420 during the early Ming dynasty, though the site had towers since the Yuan dynasty (1297 CE). The tower held 24 drums; only one original drum survives, and it is kept on permanent display. The other drums visible today are modern replicas.
 
@@ -35,9 +35,9 @@ The drum-striking schedule was precise: drums were struck at set intervals throu
 
 **Practical details**: Entry ¥20; open 9 AM – 5 PM; combined ticket with Bell Tower available (¥30)
 
-![Beijing Drum Tower & Bell Tower — The Bell Tower (钟楼)](https://images.pexels.com/photos/36140369/pexels-photo-36140369.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Bell Tower (钟楼)
+
+![Forbidden City Panorama Interior, Beijing](/img/destinations/beijing-drum-bell-tower-guide/2.webp)
 
 **History**: Located 100 meters behind the Drum Tower (north), the Bell Tower was built in 1420 alongside the Drum Tower. The original wooden tower burned down in 1745 and was replaced by the current stone and brick structure.
 
@@ -53,9 +53,9 @@ The bell — the largest bell in the pre-modern Beijing system at 63 tons — wa
 
 **Practical details**: Entry ¥15; open 9 AM – 5 PM
 
-![Beijing Drum Tower & Bell Tower — The Gulou Neighborhood](https://images.pexels.com/photos/37587394/pexels-photo-37587394.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Gulou Neighborhood
+
+![Courtyard House, Beijing](/img/destinations/beijing-drum-bell-tower-guide/3.webp)
 
 The area surrounding the Drum and Bell Towers is one of Beijing's most appealing neighborhoods for wandering — a mix of traditional hutong residential streets, converted courtyard houses (now cafes, bars, and boutiques), and the daily life of a dense urban community.
 

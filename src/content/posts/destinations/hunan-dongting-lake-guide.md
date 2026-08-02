@@ -12,14 +12,14 @@ tags:
   - migratory-birds
   - water-landscape
 description: "Explore Dongting Lake, China's second-largest freshwater lake and a place where poetry, history, and wild nature converge. From the legendary Yueyang Tower immortalised by Fan Zhongyan to the vast wetlands that host hundreds of thousands of migratory birds each winter, this 2026 guide covers everything you need for a memorable visit — transport connections, bird-watching seasons, boat tours, local Hunan cuisine, and practical tips for navigating this essential Hunan destination."
-ogImage: "https://images.pexels.com/photos/35422091/pexels-photo-35422091.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/hunan-dongting-lake-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## The Lake That Inspired a Thousand Poems
 
-![Dongting Lake Hunan — The Lake That Inspired a Thousand Poems](https://images.pexels.com/photos/26872822/pexels-photo-26872822.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Landscape Scenery, Zhangjiajie](/img/destinations/hunan-dongting-lake-guide/1.webp)
 
 Dongting Lake (洞庭湖) has been whispering to Chinese poets and scholars for well over a thousand years. This vast expanse of water — roughly 2,800 square kilometres at its summer peak — sits at the southern border of Hubei and the northern edge of Hunan, acting as a massive flood basin for the Yangtze River. But to reduce it to hydrological function misses the point entirely. Dongting Lake is a place of myth, literature, and extraordinary natural beauty.
 
@@ -68,8 +68,6 @@ The top floor offers the panoramic view that inspired centuries of poetry. On a 
 - Photography is allowed inside, but no flash
 - The surrounding Yueyang Tower Park is free to wander and offers excellent lake views from ground level
 
-![Dongting Lake Hunan — Junshan Island — Tea and Legends](https://images.pexels.com/photos/29461570/pexels-photo-29461570.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Junshan Island — Tea and Legends
 
 A 20-minute boat ride from the Yueyang lakefront brings you to Junshan Island (君山岛), a 960-hectare island that's equal parts tea plantation and folklore site.
@@ -114,6 +112,8 @@ Peak bird-watching season runs from November through February. The best time of 
 
 ## Exploring the Lake by Boat
 
+![Heng Mountain Scenery, Hunan](/img/destinations/hunan-dongting-lake-guide/2.webp)
+
 ### Scenic Boat Tours
 
 Several operators run lake cruises from the Yueyang waterfront:
@@ -129,8 +129,6 @@ Several operators run lake cruises from the Yueyang waterfront:
 The communities living along the lake's edge have been fishing these waters for generations, though overfishing and environmental regulations have significantly changed their way of life. Since the Yangtze River fishing ban was implemented in 2020, many fishermen have transitioned to running boat tours or fish restaurants. Visiting these villages offers a glimpse into a rapidly changing way of life.
 
 The village of Lujiao (鹿角), about 15 km south of Yueyang, retains some of its traditional character and is accessible by taxi (¥30-40, $4.20-5.50 USD). Several families here serve home-cooked fish meals for ¥40-60 ($5.50-8.30 USD) per person.
-
-![Dongting Lake Hunan — Hunan Cuisine — Fire on the Lake](https://images.pexels.com/photos/35647012/pexels-photo-35647012.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Hunan Cuisine — Fire on the Lake
 
@@ -153,6 +151,8 @@ Yueyang sits firmly in Hunan, which means the food is fiery, sour, and absolutel
 **Yueyanglou Old Street Food Area:** A cluster of small restaurants and street vendors near the tower. Perfect for sampling multiple dishes. Budget ¥20-40 ($2.80-5.50 USD) per person.
 
 ## Accommodation
+
+![Guojiasenlin Park, Zhangjiajie](/img/destinations/hunan-dongting-lake-guide/3.webp)
 
 ### Near Yueyang Tower
 

@@ -11,7 +11,7 @@ tags:
   - history
   - china
 description: "Macau's UNESCO-listed Historic Centre is a 2.78 square kilometre area containing 22 buildings and 8 public squares that blend 500 years of Portuguese colonial architecture with Chinese temples and Cantonese street life. This guide walks you through the heritage trail beyond the casino strip."
-ogImage: "https://images.pexels.com/photos/33297957/pexels-photo-33297957.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/macau-heritage-walk-guide/cover.webp"
 ---
 
 Most people know Macau for the casinos — the Cotai Strip has become one of the world's densest concentrations of gaming floors and luxury hotels. But the other Macau — the old city, a UNESCO World Heritage Site, with cobblestone streets and pastel-coloured Portuguese colonial buildings next to incense-thick Chinese temples — is where the genuinely interesting part of a visit happens.
@@ -22,7 +22,7 @@ The Historic Centre of Macao was inscribed as a UNESCO World Heritage Site in 20
 
 ## The UNESCO Heritage Trail
 
-![Macau Heritage Walk — The UNESCO Heritage Trail](https://images.pexels.com/photos/29821323/pexels-photo-29821323.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Dangzaitianhou Palace, Macau](/img/destinations/macau-heritage-walk-guide/1.webp)
 
 The official trail connects 22 historic buildings and 8 public squares over about 4km of walking. You can do it in 3 hours at pace, or spread over a full day with more attention.
 
@@ -58,17 +58,17 @@ A 19th-century Cantonese merchant mansion now restored as a heritage museum. The
 
 Free entry.
 
-![Macau Heritage Walk — Beyond the Trail](https://images.pexels.com/photos/32480466/pexels-photo-32480466.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Beyond the Trail
+
+![Dasanba Memorial Arch, Macau](/img/destinations/macau-heritage-walk-guide/2.webp)
 
 **Taipa Village:** A short taxi or bus ride from the Peninsula, Taipa Village is a smaller, quieter version of the Macau heritage experience. The Taipa Houses Museum is a row of five restored colonial villas with period interiors. The food street has excellent Macanese cuisine.
 
 **Coloane Village:** Even quieter, on the southern island. The walk to Seac Pai Van park, the Coloane beach areas, and the village square (where Lord Stow's original bakery is located) make it worth the additional journey.
 
-![Macau Heritage Walk — Macanese Food](https://images.unsplash.com/photo-1593252719532-53f183016149?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxNYWNhbmVzZSUyMEZvb2R8ZW58MHwwfHx8MTc4MTg1ODc5OHww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
-
 ## Macanese Food
+
+![Weinisirenjiudian, Macau](/img/destinations/macau-heritage-walk-guide/3.webp)
 
 Macanese cuisine is the fusion of Portuguese cooking traditions with Chinese, Malay, and Indian ingredients that developed over 400 years of Macau's history as a trading port.
 

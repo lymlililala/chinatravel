@@ -10,7 +10,7 @@ tags:
   - yunnan
   - destinations
 description: "The complete guide to Yunnan's classic loop — from Kunming through Dali and Lijiang to Shangri-La and back. Day-by-day itinerary, transport between towns, altitude tips for Shangri-La, and how to see the Tiger Leaping Gorge without a guide."
-ogImage: "https://images.unsplash.com/photo-1548013146-72479768bada?w=900&q=80"
+ogImage: "/img/toolkit/china-yunnan-loop-itinerary/cover.webp"
 ---
 
 The Yunnan loop is China's most satisfying multi-destination route for independent travellers: diverse landscapes (subtropical lake basins, alpine gorges, high-plateau grasslands), distinct cultural environments (Han, Bai, Naxi, Tibetan) and excellent transport connections between each stop. If you have 10–14 days in China and want variety over big-city intensity, this is the itinerary.
@@ -18,6 +18,8 @@ The Yunnan loop is China's most satisfying multi-destination route for independe
 ## Table of contents
 
 ## Overview of the Route
+
+![Baishuitai Natural Scenery, Shangri-La](/img/toolkit/china-yunnan-loop-itinerary/1.webp)
 
 **Kunming (昆明)** → **Dali (大理)** → **Lijiang (丽江)** → **Tiger Leaping Gorge (虎跳峡)** → **Shangri-La (香格里拉)** → return to Kunming or fly out
 
@@ -80,6 +82,8 @@ Also: Baisha village (白沙), 10km north of Lijiang — the original Naxi settl
 ---
 
 ## Stage 4: Tiger Leaping Gorge (1-2 days)
+
+![Dashanshenchu Red Soil Gengdi, Yunnan](/img/toolkit/china-yunnan-loop-itinerary/2.webp)
 
 ### Overview
 

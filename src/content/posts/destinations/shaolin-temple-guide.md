@@ -12,7 +12,7 @@ tags:
   - buddhism
   - central-china
 description: "The Shaolin Temple (少林寺) on Songshan Mountain in Henan — the birthplace of Shaolin Kung Fu and Chan (Zen) Buddhism. How to visit the temple complex, the Shaolin Monastery Museum, the kung fu performance shows (and how to distinguish genuine martial arts from tourist performances), the Pagoda Forest (塔林), and enrolling in a short-term martial arts programme."
-ogImage: "https://images.pexels.com/photos/13644256/pexels-photo-13644256.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/shaolin-temple-guide/cover.webp"
 ---
 
 Shaolin Temple has two lives: the real one and the Hollywood version. The Hollywood version involves orange-robed monks flying through the air and defeating evil with supernatural martial arts. The real Shaolin is a functioning Chan (Zen) Buddhist monastery, founded in 495 AD by Emperor Xiaowen of the Northern Wei Dynasty, where a genuine tradition of martial arts has been practiced for over 1,500 years.
@@ -25,7 +25,7 @@ Today Shaolin Temple receives over two million visitors per year. The experience
 
 ## The Temple Complex
 
-![Shaolin Temple — The Temple Complex](https://images.pexels.com/photos/34727992/pexels-photo-34727992.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Guanlin Temple Scenery, Henan, Luoyang](/img/destinations/shaolin-temple-guide/1.webp)
 
 Shaolin Temple sits on Songshan Mountain (嵩山), about 80km from Zhengzhou and 12km from the county town of Dengfeng.
 
@@ -72,9 +72,9 @@ An evening outdoor performance in the mountains above the temple, combining mart
 
 This is genuinely spectacular — one of the best produced evening shows in central China. Book in advance.
 
-![Shaolin Temple — Short-Term Martial Arts Programmes](https://images.pexels.com/photos/5305562/pexels-photo-5305562.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Short-Term Martial Arts Programmes
+
+![Daxiangguo Temple, Kaifeng](/img/destinations/shaolin-temple-guide/2.webp)
 
 Several legitimate martial arts schools connected to or near Shaolin offer short-term training programmes for visitors:
 
@@ -104,9 +104,9 @@ Songshan (1,512m) is itself worth exploring beyond the temple complex. The mount
 
 **Three Emperors Summit Trail:** The hike from Shaolin area to the Sanjian peak takes about 3–4 hours and gives excellent views of the Henan plains.
 
-![Shaolin Temple — Getting to Shaolin](https://images.pexels.com/photos/6733646/pexels-photo-6733646.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting to Shaolin
+
+![Xinyangjigong Mountain Scenery, Henan](/img/destinations/shaolin-temple-guide/3.webp)
 
 **From Zhengzhou:** Bus from Zhengzhou Bus Station or Zhengzhou South Bus Station to Dengfeng, about 2 hours, ¥40–55. From Dengfeng, tourist bus or taxi to Shaolin (¥15 bus, ¥25–35 taxi).
 

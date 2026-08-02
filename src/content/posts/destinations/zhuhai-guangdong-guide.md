@@ -10,7 +10,7 @@ tags:
   - zhuhai
   - south-china
 description: "Zhuhai — the planned city next to Macau with wide boulevards, a clean waterfront, and the extraordinary Chimelong Ocean Kingdom resort complex (one of the world's best theme parks). The Zhuhai Gongbei border crossing to Macau (5 minutes on foot), the Hong Kong-Zhuhai-Macau Bridge arrival terminal, and why Zhuhai is a surprisingly pleasant base for exploring the Pearl River Delta."
-ogImage: "https://images.pexels.com/photos/20599726/pexels-photo-20599726.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/zhuhai-guangdong-guide/cover.webp"
 ---
 
 Zhuhai is a planned city. It was designated one of China's original four Special Economic Zones in 1980 and built largely from scratch — which explains why it has such unusually wide boulevards, coherent urban planning, and a cleanliness that distinguishes it from the organic chaos of nearby Guangzhou or Shenzhen. The city sits directly next to Macau and across the Pearl River Delta from Hong Kong, making it one of the best-positioned bases for exploring the region.
@@ -21,7 +21,7 @@ Most international visitors encounter Zhuhai either as a transit point for Macau
 
 ## Chimelong Ocean Kingdom (长隆海洋王国)
 
-![Zhuhai — Chimelong Ocean Kingdom (长隆海洋王国)](https://images.pexels.com/photos/7623126/pexels-photo-7623126.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Baomo Garden, Guangdong, Guangzhou](/img/destinations/zhuhai-guangdong-guide/1.webp)
 
 Chimelong Ocean Kingdom in Hengqin District is regularly ranked among the top five theme parks in the world by industry bodies, consistently outperforming most Disney and Universal parks on value and wait time metrics.
 
@@ -70,9 +70,9 @@ Private vehicles can use the bridge but require a special permit (very limited; 
 
 **The view from the bus:** Driving over the bridge on a clear day is genuinely impressive — 50km of open ocean surrounded by the industrial and residential developments of the Pearl River Delta.
 
-![Zhuhai — Zhuhai Waterfront and Lover's Road (情侣路)](https://images.pexels.com/photos/31395169/pexels-photo-31395169.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Zhuhai Waterfront and Lover's Road (情侣路)
+
+![Nanyueyuan Scenery, Guangdong, Guangzhou](/img/destinations/zhuhai-guangdong-guide/2.webp)
 
 Zhuhai's **Lover's Road** is a 28km coastal promenade running along the western shore of the city, past fishing villages, parks, and beaches. It's most enjoyable by bicycle or e-scooter (both available for hire along the promenade).
 
@@ -102,9 +102,9 @@ The area is well worth a half-day even beyond the theme parks — the developmen
 
 **From Guangzhou:** Multiple HSR trains daily.
 
-![Zhuhai — Where to Stay](https://images.pexels.com/photos/19510628/pexels-photo-19510628.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Where to Stay
+
+![Chenjiaci, Guangdong, Guangzhou](/img/destinations/zhuhai-guangdong-guide/3.webp)
 
 **Gongbei/Xiangzhou area:** Central location, convenient for the border crossing and city sights. Hotels ¥250–600/night.
 

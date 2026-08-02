@@ -11,7 +11,7 @@ tags:
   - singaporean-travellers
   - southeast-asia
 description: "Singapore to China travel guide — Singaporean passport holders' visa status, direct flights from Changi, the Mandarin advantage and what still surprises Singaporean visitors, mobile payment with Singapore cards, and the best itinerary for Chinese-Singaporeans visiting ancestral homelands."
-ogImage: "https://images.pexels.com/photos/20744242/pexels-photo-20744242.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-travel-guide-singaporean/cover.webp"
 ---
 
 Singapore passport holders enjoy one of the most favourable entry arrangements for China travel. The Singapore–China relationship includes robust visa-free access, direct flights covering most of China's major cities from Changi, and a significant cultural bridge for the roughly 75% of Singaporeans with Chinese heritage. But China is still a genuinely foreign country to most Singaporeans, and this guide covers what you need to know before your first — or tenth — visit.
@@ -21,6 +21,8 @@ Singapore passport holders enjoy one of the most favourable entry arrangements f
 ---
 
 ## Visa Rules for Singaporean Passport Holders
+
+![Terracotta Army](/img/toolkit/china-travel-guide-singaporean/1.webp)
 
 ### Visa-Free Entry
 
@@ -93,6 +95,8 @@ Hokkien, Cantonese, and Teochew speakers will find their dialects useful in spec
 ---
 
 ## What Still Surprises Singaporean Visitors
+
+![Xingping, Guangxi, Yangshuo](/img/toolkit/china-travel-guide-singaporean/2.webp)
 
 ### Internet Restrictions
 

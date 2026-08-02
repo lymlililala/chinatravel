@@ -1,7 +1,7 @@
 ---
 title: "Shanghai Jing'an District Guide: Temples, Malls & Hidden Cafes"
 description: "Explore Shanghai's Jing'an district — from the historic Jing'an Temple and Nanjing West Road luxury shopping to hidden specialty coffee shops and art spaces in Jing'an. A complete neighborhood guide for 2026."
-ogImage: "https://images.pexels.com/photos/20734988/pexels-photo-20734988.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/shanghai-jing-an-district-guide/cover.webp"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/shanghai-jingan.jpg"
 category: "destinations"
@@ -15,9 +15,9 @@ Jing'an (静安) sits at the heart of Shanghai's most dynamic tension — the an
 
 For first-time visitors to Shanghai, Jing'an often surprises. It lacks the postcard-ready riverfront of the Bund or the manicured gardens of Yu Garden. What it offers instead is the authentic daily life of prosperous, cosmopolitan Shanghai — the city as Shanghainese people actually live it.
 
-![Shanghai Jing' District — Understanding Jing'an's Geography](https://images.pexels.com/photos/17608033/pexels-photo-17608033.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Understanding Jing'an's Geography
+
+![Night View, Shanghai](/img/destinations/shanghai-jing-an-district-guide/1.webp)
 
 Jing'an district stretches north from the former French Concession, bounded roughly by Suzhou Creek to the north and Yan'an Elevated Road to the south. The main artery is Nanjing West Road (南京西路), which runs east-west through the district's commercial heart.
 
@@ -58,8 +58,6 @@ Nanjing West Road is Shanghai's answer to Paris's Avenue Montaigne or Tokyo's Om
 
 Between the mall anchors, smaller streets yield more interesting retail. Wujiang Road (吴江路) — now partly pedestrianized — was historically a famous street food alley. It's been somewhat gentrified but retains a busy, street-level energy different from the malls.
 
-![Shanghai Jing' District — The Art Deco Residential Lanes](https://images.pexels.com/photos/36825859/pexels-photo-36825859.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Art Deco Residential Lanes
 
 What many visitors miss about Jing'an is its extraordinary collection of 1920s–1940s residential architecture. Shanghai was the Asian hub of Art Deco design, and Jing'an preserves some of the finest examples.
@@ -71,6 +69,8 @@ What many visitors miss about Jing'an is its extraordinary collection of 1920s�
 **The Jing'an Heritage lanes**: Around Shanxi North Road (陕西北路) and Jiaozhou Road (胶州路), several preserved lilong (弄堂, traditional Shanghai lane houses) still function as residences. These are not tourist attractions per se, but walking through them offers a glimpse of pre-high-rise Shanghai life.
 
 ## Specialty Coffee Culture in Jing'an
+
+![Landscape Scenery, Shanghai](/img/destinations/shanghai-jing-an-district-guide/2.webp)
 
 Shanghai has China's most developed specialty coffee scene, and Jing'an is the epicenter. The density of quality independent cafes here rivals any coffee city in Asia.
 
@@ -106,8 +106,6 @@ Shanghai has China's most developed specialty coffee scene, and Jing'an is the e
 
 **Wujiang Road food stalls**: Despite gentrification, some original street food vendors remain. Shengjianbao (生煎包, pan-fried pork dumplings) are the essential Jing'an street food experience.
 
-![Shanghai Jing' District — Art and Culture](https://images.pexels.com/photos/1671016/pexels-photo-1671016.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Art and Culture
 
 **Yuz Museum (余德耀美术馆)**: Technically in Xuhui's West Bund area, but Shanghai's art spaces are so interconnected that serious art visitors treat the whole city as one scene. Jing'an has several galleries worth exploring.
@@ -117,6 +115,8 @@ Shanghai has China's most developed specialty coffee scene, and Jing'an is the e
 **Jing'an Culture Park (静安文化公园)**: A small but thoughtfully designed park with an outdoor amphitheater used for community events.
 
 ## Getting Around Jing'an
+
+![The Bund Scenery](/img/destinations/shanghai-jing-an-district-guide/3.webp)
 
 **Metro**: Lines 2, 7, and 12/13 serve the district exceptionally well. Jing'an Temple Station is the main hub.
 

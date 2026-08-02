@@ -12,7 +12,7 @@ tags:
   - "south-china"
   - "east-china"
 description: "Explore China's lesser-known ancient towns like Huizhou, Qujiang, and Yuhang. Step back in time with authentic culture, history, and local life beyond the"
-ogImage: "https://images.pexels.com/photos/5788531/pexels-photo-5788531.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/hidden-ancient-towns-china-guide/cover.webp"
 faq:
   - question: "Are these ancient towns suitable for solo travelers?"
     answer: "Yes, they are safe and welcoming. Many guesthouses are run by families. Solo travelers can easily join local tours or explore on foot."
@@ -32,11 +32,13 @@ Step back in time in China's lesser-known ancient towns, where history and local
 
 ## Why Go Off the Beaten Path?
 
+![Ruiguang Pagoda Scenery, Suzhou](/img/destinations/hidden-ancient-towns-china-guide/1.webp)
+
 China's famous ancient towns like Lijiang and Pingyao draw millions, but their commercialism can dilute authenticity. For travelers seeking genuine encounters with history, daily life, and local traditions, the country's lesser-known ancient towns offer a more intimate and rewarding experience. These places preserve centuries-old architecture, crafts, and customs without the crowds, allowing you to connect with China's rich cultural tapestry on your own terms.
 
-![A quiet alley in an ancient Huizhou village with white walls and grey tiles](https://images.pexels.com/photos/32468591/pexels-photo-32468591.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Huizhou: The Lost City of Ink and Poetry
+
+![Luzhi Old Town, Suzhou](/img/destinations/hidden-ancient-towns-china-guide/2.webp)
 
 Tucked away in the mountains of southern Anhui, the historical region of Huizhou (徽州, Huī Zhōu) once encompassed six counties including Shexian, Yixian, and Wuyuan (now in Jiangxi). In the 1980s, the city name "Huizhou" was replaced by "Huangshan" after the famous mountain, but the cultural identity endures. This is the birthplace of **Huizhou ink** (徽墨, huī mò), one of the Four Treasures of the Study, and a landscape that inspired poets like Li Bai and artists like Fan Kuan.
 
@@ -53,8 +55,6 @@ During the Ming and Qing dynasties, Huizhou ink flourished with over 120 worksho
 **Xixinan (西溪南, Xī Xī Nán)** – A 1,200-year-old village with lush maple forests and the Fengle River. Unlike Hongcun and Xidi, Xixinan remains uncrowded and free of entry fees. Visit the **Old Pavilion** (老屋阁, Lǎo Wū Gé), a Ming dynasty residence with sturdy Song-Yuan style architecture.
 
 **Jixi Shangzhuang (绩溪上庄, Jì Xī Shàng Zhuāng)** – The hometown of Hu Kaiwen and philosopher Hu Shi. Explore Hu Shi's former residence, built in 1897, and the Yanglin Water Gap, one of Huizhou's three major water gaps.
-
-![A traditional ink stone and ink stick on a wooden desk](https://images.pexels.com/photos/5788531/pexels-photo-5788531.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### Getting There & Around
 
@@ -76,13 +76,13 @@ The North River flows from Jiangxi through Shaoguan and into the Pearl River Del
 
 The North River is famous for its freshwater fish and shrimp. Local specialties include **steamed mandarin fish** (清蒸桂鱼, qīng zhēng guì yú) and **river shrimp** (河虾, hé xiā), simply prepared with oil, salt, and ginger to preserve natural sweetness. The "Big Plate Fish" (大盘鱼, dà pán yú) is a signature dish, slow-cooked with a secret sauce.
 
-![A plate of steamed river fish with green onions on a wooden table by the river](https://images.pexels.com/photos/27381573/pexels-photo-27381573.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ### Getting There & Around
 
 Take a high-speed train from Guangzhou South to Shaoguan (about 30 minutes). From Shaoguan station, local buses or taxis reach Wushi Town in 30 minutes. The best way to explore is by hiring a car or joining a local tour.
 
 ## Yuhang: Zen, Bamboo, and Ancient Paths
+
+![Pan Gate, Suzhou](/img/destinations/hidden-ancient-towns-china-guide/3.webp)
 
 Yuhang District (余杭区, Yú Háng Qū) in Hangzhou is often overlooked by visitors rushing to West Lake. Yet it holds some of the region's most profound cultural sites: **Jingshan Temple** (径山寺, Jìng Shān Sì), the birthplace of Japanese tea ceremony and Zen Buddhism; the **Liangzhu Archaeological Site** (良渚古城, Liáng Zhǔ Gǔ Chéng), a UNESCO World Heritage site dating back 5,000 years; and the **Jingshan Ancient Path** (径山古道, Jìng Shān Gǔ Dào), a scenic hiking trail used by poets like Su Shi.
 
@@ -96,8 +96,6 @@ Yuhang District (余杭区, Yú Háng Qū) in Hangzhou is often overlooked by vi
 ### Where to Stay
 
 Yuhang offers a range of boutique guesthouses, many with bamboo views and river access. Recommended options include **Danzhuyuan** (淡竹元), a family-friendly property surrounded by bamboo groves, and **Jiulin Jingshe** (久临静舍), a quiet retreat with lake fishing.
-
-![Bamboo forest path with sunlight filtering through](https://images.pexels.com/photos/12589611/pexels-photo-12589611.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### Getting There & Around
 

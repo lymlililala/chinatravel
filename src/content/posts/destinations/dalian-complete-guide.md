@@ -11,7 +11,7 @@ tags:
   - coastal
   - northeast-china
 description: "Dalian on the Liaodong Peninsula — the Russian-Japanese colonial architecture, the Russian Street and Japanese Street districts, the beaches (Xinghai Beach, Bangchuidao Beach), the extraordinary freshness and cheapness of the seafood (sea urchin, scallops, clams direct from the ocean), and why Dalian is often compared to a Chinese Marseille."
-ogImage: "https://images.pexels.com/photos/17557991/pexels-photo-17557991.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/dalian-complete-guide/cover.webp"
 ---
 
 Dalian sits at the tip of the Liaodong Peninsula, surrounded by the Yellow Sea on three sides. It was built first by the Russians (who called it Dalny) at the turn of the 20th century as their warm-water port, then by the Japanese (who renamed it Dairen) after the Russo-Japanese War of 1905, and only became fully Chinese in 1945. The colonial legacy is obvious in the architecture — grand European-style buildings, wide boulevards with roundabouts, and street names that still reference the imperial period.
@@ -22,7 +22,7 @@ It's sometimes compared to a Chinese Marseille: a port city with good seafood, c
 
 ## Colonial Architecture Districts
 
-![Dalian — Colonial Architecture Districts](https://images.pexels.com/photos/28490351/pexels-photo-28490351.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Bei Town Scenery, Liaoning](/img/destinations/dalian-complete-guide/1.webp)
 
 ### Zhongshan Square (中山广场)
 The centerpiece of Russian urban planning in Dalian. A perfect circular plaza with ten wide avenues radiating outward like a star, surrounded by ten Beaux-Arts and neo-classical buildings from the Russian and Japanese periods. The buildings are still in use — banks, government offices, hotels — and the square is genuinely impressive for its consistency and scale.
@@ -50,8 +50,6 @@ Dalian has several public beaches along its southern coast. The water is cleaner
 
 **Fujiazhuang Beach (傅家庄海水浴场):** Close to the city centre, popular with locals, good for swimming July–September. Free entry.
 
-![Dalian — Seafood](https://images.pexels.com/photos/24973370/pexels-photo-24973370.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Seafood
 
 This is the real reason to visit Dalian. The city sits at the junction of the Yellow Sea and Bohai Sea, and the seafood freshness and variety is exceptional even by Chinese coastal standards.
@@ -73,13 +71,13 @@ This is the real reason to visit Dalian. The city sits at the junction of the Ye
 
 ## Getting Around Dalian
 
+![Qian Mountain Scenery, Liaoning](/img/destinations/dalian-complete-guide/2.webp)
+
 Dalian has a good metro system (Lines 1–5) and a **tram network (有轨电车)** — actual trams, not tourist rides — on two routes through the city. The trams are good for seeing the colonial architecture at a slow pace.
 
 **Tram Line 201:** Runs from the railway station through the old colonial centre to Xinghai Square. ¥2 flat fare.
 
 Taxis: Base fare ¥10 for first 3km. Didi works throughout the city.
-
-![Dalian — Getting to Dalian](https://images.pexels.com/photos/17557990/pexels-photo-17557990.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting to Dalian
 
@@ -92,6 +90,8 @@ Taxis: Base fare ¥10 for first 3km. Didi works throughout the city.
 **Dalian Zhoushuizi International Airport (DLC)** handles all domestic and international flights. Metro Line 2 connects the airport to the city centre (30 minutes, ¥5).
 
 ## Day Trips from Dalian
+
+![Wugoujingguangsheli Pagoda Scenery, Liaoning, Shenyang](/img/destinations/dalian-complete-guide/3.webp)
 
 **Lüshun (旅顺, formerly Port Arthur):** About 45 minutes south, the site of the Russian naval base and the famous Russian-Japanese battles of 1904–1905. The Russian Cemetery, the Japanese memorial, and the Baiyu Mountain fortifications are genuinely moving historical sites. Some areas still require a permit (check current requirements).
 

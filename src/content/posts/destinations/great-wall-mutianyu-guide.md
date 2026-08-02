@@ -19,16 +19,16 @@ tags:
   - destinations
   - history
 description: "Everything about visiting Mutianyu Great Wall — how to get there independently (much cheaper than tours), which towers to hike to for the best views, the famous toboggan descent, best time to visit in each season, and why Mutianyu is better than Badaling for most visitors."
-ogImage: "https://images.pexels.com/photos/33899285/pexels-photo-33899285.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/great-wall-mutianyu-guide/cover.webp"
 ---
 
 Mutianyu (慕田峪) is the Great Wall section that most experienced China visitors recommend over the more famous Badaling. Both sections are fully restored and accessible, but Mutianyu has more attractive scenery, better hiking variety, the famous toboggan descent, and fewer tour-bus crowds.
 
 The combination of cable car up and toboggan (metal sled track) down makes it the most family-friendly Great Wall experience — but the ridgeline walk and the extended hike east to Jiankou section are the best experiences for visitors wanting more depth.
 
-![Mutianyu Great Wall — Getting There Independently](https://images.pexels.com/photos/32885186/pexels-photo-32885186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting There Independently
+
+![Wanli Great Wall Scenery](/img/destinations/great-wall-mutianyu-guide/1.webp)
 
 **By bus** from Dongzhimen Bus Station (Line H1, runs 7:30am–12pm on weekends, ¥40, 2 hours). This is the cheapest option.
 
@@ -40,9 +40,9 @@ The combination of cable car up and toboggan (metal sled track) down makes it th
 
 **Avoid unmarked "tour vans" outside subway stations or near tourist sites** — these are the source of many scam experiences.
 
-![Mutianyu Great Wall — At the Wall: What to Do](https://images.pexels.com/photos/34439088/pexels-photo-34439088.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## At the Wall: What to Do
+
+![Simatai Great Wall, Beijing](/img/destinations/great-wall-mutianyu-guide/2.webp)
 
 ### Cable Car vs. Hiking Up
 
@@ -66,9 +66,9 @@ The toboggan — a metal sled on a stainless steel track running down the mounta
 
 **Note**: The toboggan is one-way down only. Buy a cable car UP ticket separately.
 
-![Mutianyu Great Wall — Seasonal Considerations](https://images.pexels.com/photos/7759090/pexels-photo-7759090.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Seasonal Considerations
+
+![Badaling Great Wall, Beijing](/img/destinations/great-wall-mutianyu-guide/3.webp)
 
 **October–November**: The most spectacular. Mutianyu's ridgeline forests turn yellow, orange, and red — the Great Wall among autumn foliage is the definitive photograph. Busy but not as overwhelmed as Badaling.
 

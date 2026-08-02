@@ -10,7 +10,7 @@ tags:
   - shanghai
   - destinations
 description: "A complete guide to the ancient canal towns of Jiangnan — comparing Wuzhen, Xitang, Tongli, Zhouzhuang, and Nanxun. Which to visit, how to avoid crowds, where to stay overnight, and what makes each town distinct."
-ogImage: "https://images.pexels.com/photos/9427769/pexels-photo-9427769.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/jiangnan-water-towns-complete-guide/cover.webp"
 ---
 
 The Jiangnan (江南, "South of the Yangtze") region — encompassing Shanghai, Zhejiang, and southern Jiangsu provinces — is threaded with ancient canal towns. Built along waterways that historically formed the region's transport network, these towns preserve Ming and Qing Dynasty canal architecture: stone bridges, whitewashed walls, grey-tile roofs, and gondola-like boats pushing through narrow waterways. Each town has a distinct character; knowing which to visit and when to go makes the difference between an overcrowded tourist experience and one of China's most atmospheric destinations.
@@ -19,7 +19,7 @@ The Jiangnan (江南, "South of the Yangtze") region — encompassing Shanghai, 
 
 ## The Five Major Water Towns: Comparison
 
-![Jiangnan Water Towns — The Five Major Water Towns: Comparison](https://images.pexels.com/photos/37015406/pexels-photo-37015406.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Dreamlike Water Town Zhouzhuang](/img/destinations/jiangnan-water-towns-complete-guide/1.webp)
 
 ### Quick Overview
 
@@ -51,8 +51,6 @@ Wuzhen is the most developed and most visited of the Jiangnan water towns — a 
 
 ---
 
-![Jiangnan Water Towns — Xitang (西塘): Street Food and Old Lane Atmosphere](https://images.pexels.com/photos/36466099/pexels-photo-36466099.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Xitang (西塘): Street Food and Old Lane Atmosphere
 
 **Location**: Jiashan, Zhejiang Province; 90km from Shanghai, 80km from Hangzhou.
@@ -73,6 +71,8 @@ Xitang is famous for its covered walkways (廊棚, láng péng) — continuous r
 
 ## Tongli (同里): Gardens and Quiet Canals
 
+![Tongli Old Town Scenery, Jiangsu, Suzhou](/img/destinations/jiangnan-water-towns-complete-guide/2.webp)
+
 **Location**: Suzhou municipality, Jiangsu Province; 20km south of Suzhou, 80km from Shanghai.
 
 Tongli feels more organic than Wuzhen — less carefully managed for tourism, with residents still living within the historic area alongside tourists. The town has three UNESCO-listed classical gardens (Tuisi Garden, 退思园, is the most important) and a good network of canal walks.
@@ -89,9 +89,9 @@ Five rivers intersect in Tongli, creating a network of small canal bridges. The 
 
 ---
 
-![Jiangnan Water Towns — Zhouzhuang (周庄): The Original Canal Town](https://images.pexels.com/photos/21628371/pexels-photo-21628371.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Zhouzhuang (周庄): The Original Canal Town
+
+![Xitang Old Town Landscape, Zhejiang](/img/destinations/jiangnan-water-towns-complete-guide/3.webp)
 
 **Location**: Kunshan, Jiangsu Province; 60km from Shanghai, 55km from Suzhou.
 

@@ -12,7 +12,7 @@ tags:
   - food
   - coastal
 description: "Discover Shantou, Guangdong's underrated coastal gem where Teochew cuisine reigns supreme. From hand-pulled noodles to steamed fish, explore the OCT Shantou Film Studio, stroll the old foreign concession district, and soak in authentic coastal city life that few foreign tourists ever experience. Your complete 2026 Shantou travel guide."
-ogImage: "https://images.pexels.com/photos/31017183/pexels-photo-31017183.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guangdong-shantou-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -23,7 +23,7 @@ I first stumbled into Shantou by accident, catching an overnight bus from Xiamen
 
 ## Why Visit Shantou in 2026
 
-![Shantou Guangdong — Why Visit Shantou in 2026](https://images.pexels.com/photos/13092792/pexels-photo-13092792.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Baomo Garden, Guangdong, Guangzhou](/img/destinations/guangdong-shantou-guide/1.webp)
 
 Shantou is one of China's original Special Economic Zones — designated alongside Shenzhen and Zhuhai back in 1980 — but it never quite got the same explosive development. That's turned out to be a gift for travelers. The old city has retained its layered architecture of colonial trading houses, overseas Chinese mansion-style buildings, and narrow lanes that smell of incense and dried seafood.
 
@@ -52,8 +52,6 @@ Shantou is compact enough that a combination of walking and DiDi taxis handles m
 
 Shared bicycles (mainly Hello Bike and Meituan Bike) are everywhere and perfect for exploring the old city and seafront. Hourly cost is about ¥1.5–3. Download one app and register before you arrive.
 
-![Shantou Guangdong — Shantou Old City (汕头老市区)](https://images.pexels.com/photos/37280871/pexels-photo-37280871.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Shantou Old City (汕头老市区)
 
 The old city occupies a peninsula jutting into Shantou Bay. Its streets are a compressed history of the city's trading past — shophouse rows built by merchants who traded with Singapore, Bangkok, and Saigon line the main commercial streets, while quieter residential lanes hide family temples and communal wells.
@@ -80,6 +78,8 @@ Beyond the studio, the complex includes exhibition halls on Teochew culture, a c
 Opening hours: 10am–10pm daily. The evening light show (free, runs at 8pm and 9pm) is genuinely spectacular. Getting there from the old city takes about 25 minutes by DiDi (¥20–25).
 
 ## Teochew Food: The Main Event
+
+![Nanyueyuan Scenery, Guangdong, Guangzhou](/img/destinations/guangdong-shantou-guide/2.webp)
 
 Let me be direct: if you only come to Shantou for the food, you will not have wasted your trip. Teochew cuisine (潮州菜, Cháozhōu cài) is one of the great regional cooking traditions of China, with a philosophy of precision and restraint that produces dishes of extraordinary delicacy.
 
@@ -113,8 +113,6 @@ Morning congee at a traditional shop costs ¥15–25 per person including severa
 - **Jinping Night Market**: Starts around 6pm, runs until 2am — chaotic, delicious, cheap
 - **Zhongshan Park Morning Market**: Locals do breakfast here from 5:30am
 
-![Shantou Guangdong — Beaches and Coastal Areas](https://images.pexels.com/photos/28833728/pexels-photo-28833728.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Beaches and Coastal Areas
 
 Shantou isn't primarily a beach destination, but the coastline has its moments.
@@ -126,6 +124,8 @@ This Qing dynasty coastal fortress sits on a small island connected to the mainl
 A 45-minute ferry ride (¥22) or drive via a spectacular cable-stayed bridge gets you to Nan'ao, an island of beaches, hiking trails, and seafood restaurants. The beaches at Qingao and Qianhai are decent by Guangdong standards. For serious beach quality you'd look elsewhere in China, but a day trip here on a clear day is very pleasant.
 
 ## Chaozhou Day Trip
+
+![Chenjiaci, Guangdong, Guangzhou](/img/destinations/guangdong-shantou-guide/3.webp)
 
 Shantou and Chaozhou are culturally the same place split between two cities — take a bus from Shantou Bus Station (40 minutes, ¥15) or a DiDi (about ¥60) and you can be in one of China's best-preserved ancient cities within an hour. Chaozhou's old city walls, Guangji Bridge (one of China's most distinctive ancient bridges), and Kaiyuan Temple are all worth a half-day to full day.
 

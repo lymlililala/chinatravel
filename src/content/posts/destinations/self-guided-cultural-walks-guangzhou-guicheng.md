@@ -10,7 +10,7 @@ tags:
   - "guangzhou"
   - "urban"
 description: "Explore curated walking routes in Guangzhou and Guicheng, from ancient city gates to dragon-boat villages, blending architecture, food, and local culture."
-ogImage: "https://images.pexels.com/photos/19794966/pexels-photo-19794966.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/self-guided-cultural-walks-guangzhou-guicheng/cover.webp"
 faq:
   - question: "Do I need to book tickets for the walking routes?"
     answer: "No, all routes are self-guided and free except for optional guided tours (e.g., Guangzhou's 'Disappeared Gates' walk costs ¥138/person). Temple entry (Guangxiao Temple) is free with registration. No advance booking is required."
@@ -30,9 +30,9 @@ China's cities are layered with history, and the best way to uncover them is on 
 
 ## Why Walk? The Appeal of Urban Cultural Routes
 
-Self-guided walking tours let you set your own pace, linger where you like, and discover hidden corners that buses and taxis skip. In Guangzhou and Guicheng, the streets themselves tell stories of migration, trade, and innovation. You'll encounter Ming dynasty city walls, colonial-era华侨 (overseas Chinese) villas, ancient Buddhist temples, and buzzing wet markets — all within a few kilometres.
+![Baomo Garden, Guangdong, Guangzhou](/img/destinations/self-guided-cultural-walks-guangzhou-guicheng/1.webp)
 
-![A narrow alley in Guangzhou's old town with red brick houses and hanging lanterns](https://images.pexels.com/photos/34862393/pexels-photo-34862393.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+Self-guided walking tours let you set your own pace, linger where you like, and discover hidden corners that buses and taxis skip. In Guangzhou and Guicheng, the streets themselves tell stories of migration, trade, and innovation. You'll encounter Ming dynasty city walls, colonial-era华侨 (overseas Chinese) villas, ancient Buddhist temples, and buzzing wet markets — all within a few kilometres.
 
 ## Route 1: Guangzhou's "Disappeared Gates" — From West Gate to Temple
 
@@ -54,8 +54,6 @@ Huiji West was once the seat of Nanhai County, which governed half of Guangzhou 
 Walk south along Guangxiao Road. The temple is one of Guangzhou's oldest, dating to the 4th century. It's known as the "ancestral temple of Zen Buddhism" — in 676 AD, the Sixth Patriarch Huineng gave his famous "wind or flag?" sermon here, leading to his ordination under a bodhi tree. The hair-burial pagoda (瘗发塔) still stands.
 
 **Tip:** Entry is free with registration. Dress modestly (no shorts above the knee). Incense is provided.
-
-![The main hall of Guangxiao Temple with incense smoke rising](https://images.pexels.com/photos/19794966/pexels-photo-19794966.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### Stop 3: Guangxiao Church (光孝堂, Guāngxiào Táng)
 
@@ -92,9 +90,9 @@ Walk 20 minutes east (or take a 5-minute taxi) to Qian Deng Lake. This free publ
 
 **Evening option:** Rent a pedal boat (¥50/30 min) or visit the Whisky Street (灯湖·樽岸) for a nightcap.
 
-![Qian Deng Lake at night with illuminated pagoda and reflections](https://images.pexels.com/photos/31003644/pexels-photo-31003644.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Route 3: Guicheng's Jade Walk — From Market to Museum
+
+![Nanyueyuan Scenery, Guangdong, Guangzhou](/img/destinations/self-guided-cultural-walks-guangzhou-guicheng/2.webp)
 
 Guicheng is known as the "Hometown of Chinese Jade Bangles." This walk traces the jade trade from raw market to high-end gallery.
 
@@ -129,6 +127,8 @@ Walk to **Dieshui · Luyu Tea House (叠水·陆羽茶居)** for pig liver siu m
 For a contemporary twist, visit **Mingchu Zhiwei (铭厨致味)** in the Qian Deng Lake CBD. Their tasting menu (¥288) features reinvented classics like lobster noodles with aged tangerine peel.
 
 ## Practical Tips for Self-Guided Walks
+
+![Chenjiaci, Guangdong, Guangzhou](/img/destinations/self-guided-cultural-walks-guangzhou-guicheng/3.webp)
 
 | Aspect | Details |
 |--------|---------|

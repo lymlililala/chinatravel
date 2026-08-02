@@ -12,7 +12,7 @@ tags:
   - hiking
   - china
 description: "Purple Mountain (Zijin Shan) in eastern Nanjing is the city's green lung and historical repository — a forested hill complex containing the Sun Yat-sen Mausoleum, the Ming Dynasty founder's tomb, the Linggu Temple complex, and the Nanjing Observatory, all linked by hiking paths through mature forest."
-ogImage: "https://images.pexels.com/photos/11765545/pexels-photo-11765545.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/nanjing-purple-mountain-guide/cover.webp"
 ---
 
 Purple Mountain (紫金山, Zǐjīn Shān, also known as Zhongshan) rises 448 metres above eastern Nanjing, a forested promontory that has served as burial ground for emperors, revolutionary leaders, and dynasties. Today it's a vast park complex where Nanjing residents come to hike and where tourists encounter some of the most significant historical sites in eastern China.
@@ -23,7 +23,7 @@ The name comes from the purple-gold colours the mountain reportedly glows at sun
 
 ## Sun Yat-sen Mausoleum (中山陵)
 
-![Nanjing Purple Mountain — Sun Yat-sen Mausoleum (中山陵)](https://images.pexels.com/photos/11792972/pexels-photo-11792972.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Gudianmingyuanliu Garden Scenery, Suzhou](/img/destinations/nanjing-purple-mountain-guide/1.webp)
 
 The mausoleum of Sun Yat-sen (中山陵, Zhōngshān Líng) is the dominant landmark of Purple Mountain and one of the most visited heritage sites in China. Sun Yat-sen (孙中山, 1866–1925) was the founder of the Republic of China and remains a rare figure revered across both mainland China and Taiwan.
 
@@ -49,8 +49,6 @@ Entry: ¥70
 Time needed: 1.5–2 hours for the main sites  
 Access: From the Sun Yat-sen Mausoleum area, about 1.5km walk through the scenic area  
 
-![Nanjing Purple Mountain — Linggu Scenic Area (灵谷寺)](https://images.pexels.com/photos/33792337/pexels-photo-33792337.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Linggu Scenic Area (灵谷寺)
 
 The eastern section of Purple Mountain contains the Linggu Temple complex, the Wuliang Hall (a rare beamless hall built entirely without wooden beams in 1381), and the Linggu Pagoda (built in the 1930s as a memorial to those who died in the Northern Expedition).
@@ -60,6 +58,8 @@ The beamless hall (无梁殿) is architecturally extraordinary — a completely 
 Entry: Included in the ¥80 scenic area ticket, or ¥35 separately  
 
 ## Hiking the Mountain
+
+![Shi Lake Scenery, Jiangsu, Suzhou](/img/destinations/nanjing-purple-mountain-guide/2.webp)
 
 Several hiking trails criss-cross Purple Mountain through mature forest. The trails are well-marked and the forest provides welcome shade in summer.
 
@@ -71,9 +71,9 @@ Several hiking trails criss-cross Purple Mountain through mature forest. The tra
 
 **Best season for hiking:** Spring (March–May) for azalea flowers along the trails, or autumn (October–November) for foliage.
 
-![Nanjing Purple Mountain — Observatory (紫金山天文台)](https://images.pexels.com/photos/11768608/pexels-photo-11768608.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Observatory (紫金山天文台)
+
+![Zhuozheng Garden, Suzhou](/img/destinations/nanjing-purple-mountain-guide/3.webp)
 
 The Purple Mountain Observatory at the summit is one of China's oldest, founded in 1934. There's a small museum of historical astronomical instruments including Chinese armillary spheres and bronze globes. Occasionally open to visitors for star-gazing evenings — check the website for events.
 

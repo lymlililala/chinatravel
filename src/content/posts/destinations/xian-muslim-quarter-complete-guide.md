@@ -19,7 +19,7 @@ faq:
     answer: "Yes. 'Muslim Street' is the common English name for Xi'an's Muslim Quarter (回民街, Huimin Jie) — the network of lanes north of the Drum Tower centred on Beiyuanmen pedestrian street. Both names refer to the same Hui Muslim neighbourhood and food street."
   - question: "When is the best time to visit Xi'an Muslim Street?"
     answer: "Evening from about 17:00 to 21:00 is the liveliest time, when every food stall is operating and the lanterns are lit. Come between 07:00 and 09:00 for a quieter visit — breakfast stalls are open and the Great Mosque is calm before tour groups arrive. Avoid Chinese national holidays, when the quarter is overwhelmed."
-ogImage: "https://images.unsplash.com/photo-1742689502050-a407e55af693?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw0fHxtdXNsaW0lMjBxdWFydGVyfGVufDB8MHx8fDE3ODE5MjYyMTd8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
+ogImage: "/img/destinations/xian-muslim-quarter-complete-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -30,7 +30,7 @@ The Muslim Quarter (回民街, Huimin Jie) — often called Muslim Street in Eng
 
 ## The Food You Must Eat
 
-![Xi' Muslim Quarter — The Food You Must Eat](https://images.pexels.com/photos/8844887/pexels-photo-8844887.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Datangfurong Garden, Xi'an](/img/destinations/xian-muslim-quarter-complete-guide/1.webp)
 
 Let's start with what matters most.
 
@@ -90,9 +90,9 @@ The street is busiest from 17:00 to 22:00 when the food stalls are fully operati
 
 **Side alleys:** Turning off Beiyuanmen into the residential lanes to the east and west reveals the actual neighbourhood — quieter streets, traditional courtyard houses, children playing, elderly men at tea shops. These alleys are where the quarter's genuine community life is most visible.
 
-![Xi' Muslim Quarter — Beyond the Main Street](https://images.pexels.com/photos/30703908/pexels-photo-30703908.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Beyond the Main Street
+
+![Yunju Temple Scenery, Shaanxi, Xi'an](/img/destinations/xian-muslim-quarter-complete-guide/2.webp)
 
 ### Huajue Lane (化觉巷)
 
@@ -118,9 +118,9 @@ The Muslim Quarter sits immediately north of Xi'an's Drum Tower (鼓楼) and Bel
 
 **Avoid:** Chinese national holidays (October 1–7 Golden Week and Spring Festival) when the quarter is completely overwhelmed. Friday noon around prayer time can be crowded near the mosque if you're visiting then.
 
-![Xi' Muslim Quarter — Practical Tips](https://images.unsplash.com/photo-1742689502177-0e137aa75452?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw1fHxtdXNsaW0lMjBxdWFydGVyfGVufDB8MHx8fDE3ODE5MjYyMTd8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
-
 ## Practical Tips
+
+![Banpoyizhi, Shaanxi, Xi'an](/img/destinations/xian-muslim-quarter-complete-guide/3.webp)
 
 - **Halal only:** The entire Muslim Quarter is halal. No pork anywhere; all meat is beef or lamb. This is not a limitation — the food is outstanding as-is.
 - **Budget:** You can eat extremely well here for ¥50–¥80 per person ($7–$11). Don't pay tourist prices at restaurants with pictures on the menus; follow the locals to the stalls.

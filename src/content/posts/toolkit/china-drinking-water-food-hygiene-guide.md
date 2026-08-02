@@ -1,6 +1,7 @@
 ---
 title: "Drinking Water & Food Hygiene in China: What's Safe and What to Avoid"
 description: "Essential guide to staying healthy in China. Covers tap water safety, bottled water, food hygiene standards at different venue types, stomach illness prevention and what to do if you get sick."
+ogImage: "/img/toolkit/china-drinking-water-food-hygiene-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["China health", "food safety", "drinking water China", "travel health", "China hygiene", "stomach illness"]
@@ -9,6 +10,8 @@ tags: ["China health", "food safety", "drinking water China", "travel health", "
 Stomach illness is the most common health complaint among China travelers, and most cases are preventable. This is not a guide telling you to avoid Chinese food—Chinese cuisine is one of the world's great culinary traditions and the vast majority of visitors eat extremely well without incident. It is a guide to making informed choices so your trip isn't derailed by three days of intestinal regret.
 
 ## The Tap Water Question
+
+![Zhuozheng Garden, Suzhou](/img/toolkit/china-drinking-water-food-hygiene-guide/1.webp)
 
 **Rule number one: do not drink tap water in China.** This applies universally across all cities including Beijing, Shanghai and Shenzhen. China's water treatment infrastructure has improved dramatically, but the pipes in older buildings introduce contamination. The water is safe for brushing teeth in most cities; it is not safe to drink directly.
 
@@ -66,6 +69,8 @@ Sealed disposable chopsticks (个装筷子) in a paper wrapper indicate they hav
 ---
 
 ## Building Stomach Resilience
+
+![Canglangting, Suzhou](/img/toolkit/china-drinking-water-food-hygiene-guide/2.webp)
 
 If you're spending more than two weeks in China, your digestive system generally adapts within the first few days. Many experienced China travelers report that by the second week they're eating at all tiers without issue. The biggest risk period is the first 48–72 hours, when the combination of travel fatigue, jet lag and new bacteria hits all at once.
 

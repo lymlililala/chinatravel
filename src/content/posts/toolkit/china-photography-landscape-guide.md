@@ -11,7 +11,7 @@ tags:
   - toolkit
   - outdoor
 description: "The best landscape photography locations in China — Zhangjiajie's floating sandstone pillars in morning mist, the Yuanyang rice terraces at dawn (the best dawn photography in Asia), Zhangye's rainbow Danxia mountains at sunset, the Crescent Moon Lake at Dunhuang, and the Yellow Mountain (Huangshan) sea of clouds. Optimal months and times for each."
-ogImage: "https://images.pexels.com/photos/1973889/pexels-photo-1973889.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-photography-landscape-guide/cover.webp"
 ---
 
 China is one of the most photographically diverse countries on the planet. In a single trip, you can photograph subtropical karst mountains, subzero volcanic lakes, rainbow-striped desert badlands, and terraced hillsides that glow gold at sunrise. The challenge isn't finding good locations — it's knowing when to be there and what conditions to hope for.
@@ -19,6 +19,8 @@ China is one of the most photographically diverse countries on the planet. In a 
 ## Table of contents
 
 ## Zhangjiajie: The Floating Pillar Shots Everyone Wants
+
+![Xingping, Guangxi, Yangshuo](/img/toolkit/china-photography-landscape-guide/1.webp)
 
 The sandstone pillars of Zhangjiajie in Hunan province are one of China's most iconic images, but getting the shot that looks like those floating mountains from the film Avatar requires patience and planning.
 
@@ -71,6 +73,8 @@ The Crescent Moon Lake (月牙泉, Yuèyáquán) at Dunhuang is one of those pla
 Arrive before the day tours at 08:00. The light from 06:30–08:00 in summer is exceptional.
 
 ## Huangshan (Yellow Mountain): Sea of Clouds
+
+![Weimei Natural Scenery, Guangxi, Yangshuo](/img/toolkit/china-photography-landscape-guide/2.webp)
 
 Huangshan in Anhui province is possibly China's most photographed mountain, and when the cloud inversion happens — which it does roughly 200 days a year — the reason is immediately obvious. Ancient pine trees cling to granite pinnacles above a white sea of cloud stretching to the horizon.
 

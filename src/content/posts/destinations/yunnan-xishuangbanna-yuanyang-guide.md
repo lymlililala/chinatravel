@@ -13,9 +13,10 @@ tags:
   - Hani rice terraces
   - tropical
 description: "Two of Yunnan's most distinctive regions — the tropical rainforest of Xishuangbanna with its Dai Buddhist culture, and the extraordinary Hani rice terraces of Yuanyang flooded with water and reflecting the sunrise sky."
+ogImage: "/img/destinations/yunnan-xishuangbanna-yuanyang-guide/cover.webp"
 ---
 
-![Yuanyang Hani rice terraces at sunrise — thousands of mirror-like terrace pools cascading down the mountain reflecting the dawn sky in gold and rose](https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=85)
+
 *Yuanyang rice terraces at sunrise — 1,300-year-old Hani irrigation terraces reflecting the sky like shattered mirrors, UNESCO-listed for cultural and natural significance*
 
 Yunnan Province reaches into the tropics at its southern tip — Xishuangbanna (西双版纳) borders Myanmar and Laos, sharing climate and culture with Southeast Asia. Five hours north by car, the Hani people of Yuanyang have carved the most beautiful rice terrace landscape in China over 1,300 years of continuous farming. These two destinations represent Yunnan's most unique contributions to Chinese travel.
@@ -23,6 +24,8 @@ Yunnan Province reaches into the tropics at its southern tip — Xishuangbanna (
 ## Table of contents
 
 ## Xishuangbanna (西双版纳)
+
+![Qingkou Rice Terraces Scenery, Yunnan, Yuanyang](/img/destinations/yunnan-xishuangbanna-yuanyang-guide/1.webp)
 
 China's only tropical rainforest zone — on the same latitude as Myanmar, Laos, and northern Thailand. The Dai ethnic minority people here are closely related to the Thai people of Thailand and follow Theravada Buddhism (the southern Buddhist tradition), making the temples and ceremonies here look Southeast Asian rather than Chinese.
 
@@ -49,10 +52,11 @@ The Dai New Year — celebrated in mid-April (same as Thai Songkran) with three 
 
 ---
 
-![Xishuangbanna tropical rainforest — the Mekong tributaries winding through dense jungle with wild elephants at a forest clearing and Dai Buddhist temple spires above](https://images.unsplash.com/photo-1501854140801-50d01698950b?w=1200&q=85)
 *Xishuangbanna — China's only tropical rainforest, shared latitude with Myanmar, Laos, and Thailand, with wild Asian elephants and 5,000 plant species*
 
 ## Yuanyang Rice Terraces (元阳哈尼梯田)
+
+![Stone Forest Scenery, Yunnan](/img/destinations/yunnan-xishuangbanna-yuanyang-guide/2.webp)
 
 In the Ailao Mountains of southern Yunnan — the most beautiful rice terrace landscape in China, and one of the most extraordinary agricultural landscapes in the world. A UNESCO World Heritage Site since 2013.
 
@@ -77,6 +81,8 @@ The Hani people (哈尼族) live in the terraces — in mushroom-shaped straw-ro
 **Staying in Yuanyang:** There are two town areas — Nansha (南沙, the administrative centre in the valley) and Xinjie (新街, the hill town above the main terraces). Stay in Xinjie for direct access to terrace viewpoints.
 
 ## Practical Tips
+
+![Yuanmoulangbapu Earth Forest Scenery, Yunnan](/img/destinations/yunnan-xishuangbanna-yuanyang-guide/3.webp)
 
 **Getting to Xishuangbanna:** Jinghong Xishuangbanna Airport (JHG) — flights from Kunming (1 hr), Chengdu (2 hrs), Shanghai (3.5 hrs).
 

@@ -12,7 +12,7 @@ tags:
   - hiking
   - buddhism
 description: "The best day trips and overnight excursions from Chengdu — Leshan Giant Buddha, Mount Emei (Emei Shan), Ya'an's panda valley, Dujiangyan irrigation system, Qingcheng Mountain, and Sanxingdui Bronze Age Museum, with transport details and time requirements."
-ogImage: "https://images.pexels.com/photos/16296821/pexels-photo-16296821.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/chengdu-day-trips-nearby-guide/cover.webp"
 ---
 
 Chengdu is one of China's most convenient base cities for day trip logistics. Within 2 hours by public transport or private car, a remarkable diversity of experiences is accessible: the world's largest pre-modern Buddha statue, one of China's four sacred Buddhist mountains, the ancient hydraulic engineering system that made Sichuan agriculture possible, and the world's largest Bronze Age artifact collection.
@@ -25,7 +25,7 @@ This guide covers all the major day trips from Chengdu with honest transport tim
 
 ## Leshan Giant Buddha (乐山大佛)
 
-![Trips & Nearby Destinations from Chengdu — Leshan Giant Buddha (乐山大佛)](https://images.pexels.com/photos/879359/pexels-photo-879359.png?auto=compress&cs=tinysrgb&h=650&w=940)
+![Tianfuguosheyinger, Sichuan, Chengdu](/img/destinations/chengdu-day-trips-nearby-guide/1.webp)
 
 **Distance from Chengdu:** 120km
 **Travel time:** 1.5 hours by long-distance bus or private car; 35–50 minutes by high-speed train to Leshan + bus/DiDi
@@ -69,8 +69,6 @@ The Golden Summit at 3,099m has a spectacular three-peak platform with the iconi
 
 ---
 
-![Trips & Nearby Destinations from Chengdu — Dujiangyan Irrigation System (都江堰)](https://images.pexels.com/photos/6872189/pexels-photo-6872189.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Dujiangyan Irrigation System (都江堰)
 
 **Distance from Chengdu:** 60km
@@ -95,6 +93,8 @@ The engineering can be enjoyed without deep technical knowledge — the site is 
 
 ## Qingcheng Mountain (青城山)
 
+![Lugu Lake Ligeban Island Scenery, Sichuan](/img/destinations/chengdu-day-trips-nearby-guide/2.webp)
+
 **Distance from Chengdu:** 65km (same HSR stop as Dujiangyan)
 **Travel time:** 40 minutes by subway Line 6
 **Best approach:** Half-day; can combine with Dujiangyan in a full day
@@ -109,9 +109,9 @@ Unlike the Buddhist sacred mountains (Emei, Wutai, Jiuhua, Putuo), Qingcheng has
 
 ---
 
-![Trips & Nearby Destinations from Chengdu — Sanxingdui Museum (三星堆博物馆)](https://images.pexels.com/photos/31907873/pexels-photo-31907873.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Sanxingdui Museum (三星堆博物馆)
+
+![Shunanzhuhai Landscape](/img/destinations/chengdu-day-trips-nearby-guide/3.webp)
 
 **Distance from Chengdu:** 40km (Guanghan city, Deyang prefecture)
 **Travel time:** 30–40 minutes by bus from Xinnanmen or private car

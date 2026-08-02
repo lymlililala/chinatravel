@@ -12,7 +12,7 @@ tags:
   - UNESCO heritage
   - culture
 description: "How to visit Beijing's Temple of Heaven — ticket info, the architectural history of the iconic Hall of Prayer, and why arriving at 6 AM transforms your experience."
-ogImage: "https://images.pexels.com/photos/35562616/pexels-photo-35562616.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/beijing-temple-of-heaven-guide/cover.webp"
 ---
 
 The Temple of Heaven is the most architecturally perfect site in Beijing. Unlike the overwhelming scale of the Forbidden City or the grandeur of the Great Wall, the Temple of Heaven achieves its power through geometric precision: a series of perfectly circular and square structures arranged along a 1.2-kilometre axis, designed to embody the cosmological relationship between Heaven (圆, circular) and Earth (方, square).
@@ -23,7 +23,7 @@ But the Temple of Heaven has a second identity that most tourists miss: as a vas
 
 ## Essential Information
 
-![Temple Heaven Beijing — Essential Information](https://images.pexels.com/photos/37333073/pexels-photo-37333073.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Temple of Heaven, Beijing](/img/destinations/beijing-temple-of-heaven-guide/1.webp)
 
 | Detail | Info |
 |--------|------|
@@ -42,9 +42,9 @@ The Emperor of China was considered the "Son of Heaven" — the mediator between
 
 The site was used for its original ceremonial purpose from 1420 until 1914, when Yuan Shikai — having just declared himself Emperor of the Republic of China in an abortive attempt to restore the imperial system — performed the last ever imperial Heaven sacrifice. He died shortly after.
 
-![Temple Heaven Beijing — The Main Structures](https://images.pexels.com/photos/28910647/pexels-photo-28910647.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Main Structures
+
+![Jietai Temple Scenery, Beijing](/img/destinations/beijing-temple-of-heaven-guide/2.webp)
 
 ### The Hall of Prayer for Good Harvests (祈年殿)
 
@@ -74,6 +74,8 @@ The elevated stone walkway connecting the Circular Mound Altar to the Hall of Pr
 
 ## The Park: Beijing's Living Ritual
 
+![Tantuo Temple Scenery, Beijing](/img/destinations/beijing-temple-of-heaven-guide/3.webp)
+
 Come before 8 AM on any weekday and you enter a different Beijing.
 
 The 267-hectare park surrounding the ceremonial structures is one of the oldest public green spaces in Beijing. The cypress forest — some trees 500 years old, contorted into extraordinary shapes by centuries of growth — provides a cathedral-like canopy under which the local morning activity unfolds.
@@ -87,8 +89,6 @@ The 267-hectare park surrounding the ceremonial structures is one of the oldest 
 - Morning calligraphy: practitioners dipping large brushes in water and writing characters on the paving stones — temporary poems that evaporate in the sun
 
 The best area for this is the **west side of the park**, along the path between the West Gate (Ximen) and the Hall of Prayer. This is the area most locals use and fewest tourists reach.
-
-![Temple Heaven Beijing — Recommended Itinerary](https://images.pexels.com/photos/33537491/pexels-photo-33537491.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Recommended Itinerary
 

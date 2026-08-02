@@ -11,16 +11,16 @@ tags:
   - nature
   - culture
 description: "Xishuangbanna — China's tropical zone in southern Yunnan, where wild Asian elephants roam, Dai minority culture thrives, and the jungle landscape feels entirely different from the rest of China. Elephant viewing, Manting Temple, the Water Splashing Festival, and practical logistics."
-ogImage: "https://images.pexels.com/photos/31416544/pexels-photo-31416544.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/xishuangbanna-jungle-elephants-guide/cover.webp"
 ---
 
 Xishuangbanna (西双版纳, "Sipsongpanna" in Tai/Dai language — "Twelve Thousand Fields") is China's only tropical zone — the southernmost prefecture of Yunnan, on the border with Myanmar and Laos. The landscape, climate, culture, and wildlife are completely different from anything else in China: tropical rainforest, Buddhist temples in Southeast Asian style, Dai-language script on street signs, and the country's only wild Asian elephant population.
 
 For travellers moving through Southeast Asia, Xishuangbanna provides a bridge: the Dai Buddhist culture here is the same tradition as northern Thailand and Laos, and the border towns connect to both countries.
 
-![Xishuangbanna — Wild Asian Elephants](https://images.pexels.com/photos/11857232/pexels-photo-11857232.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Wild Asian Elephants
+
+![Yuanmoulangbapu Earth Forest Scenery, Yunnan](/img/destinations/xishuangbanna-jungle-elephants-guide/1.webp)
 
 China has approximately 300 wild Asian elephants, almost entirely concentrated in the Xishuangbanna-Pu'er corridor of southern Yunnan. A migrating herd made international news in 2021 when they walked 500km north before returning — the event demonstrated both the expansion of elephant territory and the Chinese public's warming attachment to conservation.
 
@@ -30,9 +30,9 @@ China has approximately 300 wild Asian elephants, almost entirely concentrated i
 
 **Reality check**: Wild elephant sightings are not guaranteed. The breeding centre provides more reliable encounters; the wild areas provide potential.
 
-![Xishuangbanna — Dai Culture and Buddhism](https://images.pexels.com/photos/5186422/pexels-photo-5186422.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Dai Culture and Buddhism
+
+![Wumao Earth Forest Scenery, Kunming](/img/destinations/xishuangbanna-jungle-elephants-guide/2.webp)
 
 The Dai people (傣族) are the primary minority nationality of Xishuangbanna — ethnically and culturally related to the Thai, Lao, and Shan peoples. Their Buddhist tradition is Theravada, as in Thailand and Southeast Asia, in contrast to the Mahayana tradition of most Chinese Buddhism.
 
@@ -42,9 +42,9 @@ The Dai people (傣族) are the primary minority nationality of Xishuangbanna �
 
 **Dai women's traditional dress**: The cylindrical sarong (筒裙) in silk with traditional Dai patterns is daily wear for older Dai women — not costume. The weaving tradition (on traditional wooden looms) is maintained in specialist villages.
 
-![Xishuangbanna — Water Splashing Festival (泼水节, Thai New Year)](https://images.pexels.com/photos/35177004/pexels-photo-35177004.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Water Splashing Festival (泼水节, Thai New Year)
+
+![Dashanshenchu Red Soil Gengdi, Yunnan](/img/destinations/xishuangbanna-jungle-elephants-guide/3.webp)
 
 The Dai Water Splashing Festival (清水节) occurs in mid-April — the Dai New Year, the same festival as Songkran in Thailand. The main celebration in Jinghong involves three days of water-throwing, traditional boat racing on the Mekong/Lancang River, and evening fire lantern releases.
 

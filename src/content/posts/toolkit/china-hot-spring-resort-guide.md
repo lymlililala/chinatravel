@@ -1,6 +1,7 @@
 ---
 title: "China Hot Spring Guide: The Best Onsen-Style Resorts and Natural Springs"
 description: "Discover China's hot spring culture — from Yunnan's roadside sulfur pools to luxury resort complexes in Guangdong, the geothermal springs of the Tibetan Plateau, natural outdoor hot springs in Sichuan, and the Japanese-influenced hot spring resort industry that has transformed Chinese spa culture. Includes the best destinations by region and what to expect."
+ogImage: "/img/toolkit/china-hot-spring-resort-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "hot-springs", "onsen", "resort", "yunnan", "guangdong", "sichuan", "spa", "geothermal"]
@@ -13,6 +14,8 @@ China has one of the world's most extensive geothermal resources — over 2,700 
 ---
 
 ## The Best Hot Spring Destinations
+
+![West Lake Landscape, Hangzhou](/img/toolkit/china-hot-spring-resort-guide/1.webp)
 
 ### Yunnan: Natural Springs in Dramatic Settings
 
@@ -56,6 +59,8 @@ The Tibetan Plateau has the most concentrated geothermal activity in China outsi
 ---
 
 ## What to Expect at a Chinese Hot Spring Resort
+
+![Huangdi Ancient Village Luo Landscape, Shanxi, Anhui](/img/toolkit/china-hot-spring-resort-guide/2.webp)
 
 ### Pool Circuit
 

@@ -1,7 +1,7 @@
 ---
 title: "Zhangye Danxia Rainbow Mountains Photography Guide: Best Viewpoints and Golden Hour"
 description: "Complete photography guide to Zhangye Danxia National Geopark in Gansu. Best viewpoints for sunset, timing for perfect light, getting there, nearby attractions and tips for landscape photographers."
-ogImage: "https://images.pexels.com/photos/8622512/pexels-photo-8622512.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/gansu-zhangye-danxia-photography-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Zhangye Danxia", "rainbow mountains China", "Gansu", "China photography", "landscape photography", "Silk Road", "丹霞地貌"]
@@ -11,9 +11,9 @@ The Zhangye Danxia National Geopark in Gansu Province contains the most vibrantl
 
 For photographers, Zhangye Danxia offers some of the most rewarding landscape photography in Asia — particularly in the 30 minutes before and after sunset, when low-angle light intensifies the warm tones and throws the ridgelines into sharp relief.
 
-![Zhangye Danxia Rainbow Mountains Photography — The Viewpoints](https://images.pexels.com/photos/18481796/pexels-photo-18481796.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Viewpoints
+
+![Danxia Landform Dimaodizhi Park, Zhangye](/img/destinations/gansu-zhangye-danxia-photography-guide/1.webp)
 
 The geopark has four main scenic areas (景区), each with multiple viewing platforms:
 
@@ -43,9 +43,9 @@ A different section with larger, more angular formations. The name refers to the
 
 **Cloud**: Partial cloud cover often enhances the shot — shafts of light creating patterns across the ridges, and clouds with flat bottoms at ridge height reflecting color downward.
 
-![Zhangye Danxia Rainbow Mountains Photography — Camera Settings Recommendations](https://images.pexels.com/photos/33937879/pexels-photo-33937879.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Camera Settings Recommendations
+
+![Mogao Caves, Gansu, Dunhuang](/img/destinations/gansu-zhangye-danxia-photography-guide/2.webp)
 
 **Aperture**: f/8–f/11 for maximum depth of field (you want sharpness from foreground to horizon)
 
@@ -61,6 +61,8 @@ A different section with larger, more angular formations. The name refers to the
 
 ## Getting There
 
+![Singing Sand Dunes, Gansu, Dunhuang](/img/destinations/gansu-zhangye-danxia-photography-guide/3.webp)
+
 **Nearest city**: Zhangye (张掖市)
 
 **By high-speed train**: 
@@ -75,8 +77,6 @@ A different section with larger, more angular formations. The name refers to the
 **Entry fee**: ¥75; geopark shuttle bus ¥20
 
 **Hours**: 08:00–18:30 (with many visitors staying later for sunset; enforcement varies)
-
-![Zhangye Danxia Rainbow Mountains Photography — When to Visit](https://images.pexels.com/photos/38070278/pexels-photo-38070278.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## When to Visit
 

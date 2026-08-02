@@ -12,7 +12,7 @@ tags:
   - UNESCO heritage
   - turquoise lakes
 description: "A focused guide to Jiuzhaigou's most spectacular highlights — Five Flower Lake, Nuorilang Waterfall, the autumn colours, and how to plan your visit after the 2017 earthquake reopening."
-ogImage: "https://images.pexels.com/photos/34619137/pexels-photo-34619137.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/jiuzhaigou-five-flower-lake-guide/cover.webp"
 ---
 
 Jiuzhaigou Valley (九寨沟) contains the most extraordinarily coloured lakes in the world. The turquoise, emerald, azure, and cobalt blues of the chain of calcite-rich lakes are not enhanced in photographs — they really look like that. The underwater detail — fallen trees, white calcite formations, aquatic plants — is visible 20–30 metres down through water of crystalline clarity.
@@ -23,7 +23,7 @@ Five Flower Lake (五花海) is the most celebrated individual lake in the valle
 
 ## Essential Information
 
-![Jiuzhaigou Five Flower Lake & Nuorilang Falls — Essential Information](https://images.pexels.com/photos/34617678/pexels-photo-34617678.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Ruoergaihua Lake Scenery, Sichuan](/img/destinations/jiuzhaigou-five-flower-lake-guide/1.webp)
 
 | Detail | Info |
 |--------|------|
@@ -44,8 +44,6 @@ The reopening has been phased and managed. As of 2026, the main scenic areas —
 
 **Book tickets:** Via the official Jiuzhaigou website (jiuzhai.com) or WeChat mini-program. Tickets often sell out 2–3 weeks ahead for autumn peak season.
 
-![Jiuzhaigou Five Flower Lake & Nuorilang Falls — Five Flower Lake (五花海)](https://images.pexels.com/photos/36087044/pexels-photo-36087044.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Five Flower Lake (五花海)
 
 The valley's most famous and most beautiful lake. Approximately 5 hectares in area, with a maximum depth of 5 metres in the deepest section. The bottom is covered in calcium carbonate formations — white travertine deposits — and partially submerged Quaternary-era pine and spruce trees (some over 200 years old) preserved by the mineral-rich water.
@@ -61,6 +59,8 @@ The classic photograph — taken from the elevated boardwalk above the northern 
 
 ## The Valley Structure
 
+![Tianfuguosheyingyi, Sichuan, Chengdu](/img/destinations/jiuzhaigou-five-flower-lake-guide/2.webp)
+
 Jiuzhaigou comprises three valleys — **Shuzheng Valley (树正沟)**, **Rize Valley (日则沟)**, and **Zechawa Valley (则查哇沟)** — connected by an environmental bus system. The lakes and waterfalls are distributed throughout all three.
 
 **Most efficient route for a single day:**
@@ -72,9 +72,9 @@ Jiuzhaigou comprises three valleys — **Shuzheng Valley (树正沟)**, **Rize V
 
 Total walking: approximately 8–10 km downhill on boardwalks; 4–6 hours.
 
-![Jiuzhaigou Five Flower Lake & Nuorilang Falls — Key Sites Beyond Five Flower Lake](https://images.pexels.com/photos/8370819/pexels-photo-8370819.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Key Sites Beyond Five Flower Lake
+
+![Tianfuguosheyinger, Sichuan, Chengdu](/img/destinations/jiuzhaigou-five-flower-lake-guide/3.webp)
 
 ### Nuorilang Waterfall (诺日朗瀑布)
 

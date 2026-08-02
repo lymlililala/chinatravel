@@ -1,7 +1,7 @@
 ---
 title: "Tiantai Mountain Guide: Birthplace of Tiantai Buddhism in Zhejiang"
 description: "Complete guide to visiting Tiantai Mountain (天台山) in Zhejiang Province. Guoqing Temple, Stone Beam Falls, Cold Mountain Temple connection, hiking trails and how to get there."
-ogImage: "https://images.pexels.com/photos/2815210/pexels-photo-2815210.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/zhejiang-tiantai-mountain-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Tiantai Mountain", "Zhejiang", "Buddhist pilgrimage", "Guoqing Temple", "China temples", "mountain hiking China"]
@@ -11,9 +11,9 @@ Tiantai Mountain (天台山, Tiāntái Shān) in central Zhejiang Province occup
 
 Today the mountain remains a destination for Buddhist pilgrims from China, Japan and Korea, many of whom trace the lineage of their tradition back to Zhiyi's work here. For the general traveler, it offers magnificent mountain scenery, ancient temple architecture, waterfall hiking and an almost complete absence of Western tourists.
 
-![Tiantai Mountain — Guoqing Temple (国清寺)](https://images.pexels.com/photos/29606775/pexels-photo-29606775.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Guoqing Temple (国清寺)
+
+![Yandang Mountain Scenery, Zhejiang, Wenzhou](/img/destinations/zhejiang-tiantai-mountain-guide/1.webp)
 
 The anchor attraction of Tiantai is Guoqing Temple, founded in 598 AD during the Sui Dynasty on Zhiyi's deathbed instruction (the name means "when the nation is pure"). The current compound dates primarily from Tang, Song and Qing dynasty reconstructions, organized around four primary halls.
 
@@ -35,8 +35,6 @@ The combination of the geological feature, the waterfall sound and the ancient a
 
 **Fee**: ¥40
 
-![Tiantai Mountain — Huading Peak (华顶峰)](https://images.pexels.com/photos/12354667/pexels-photo-12354667.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Huading Peak (华顶峰)
 
 The highest peak of the mountain range (1,098m). A stone path ascends through forest to the summit, where a small temple (华顶寺) sits in isolation. Cloud cover frequently obscures the peak from below, but from the summit on a clear day you see across the entire Zhejiang lowland.
@@ -45,11 +43,15 @@ The highest peak of the mountain range (1,098m). A stone path ascends through fo
 
 ## The Cold Mountain Hermit Connection
 
+![West Lake Scenery, Hangzhou](/img/destinations/zhejiang-tiantai-mountain-guide/2.webp)
+
 One of the most beloved poets in classical Chinese literature — Han Shan (寒山, "Cold Mountain," 7th–9th century) — lived as a hermit on the cliffs of Tiantai Mountain for decades. His poems, surviving in a collection of over 300, are informal, self-deprecating and often humorous — quite unlike the elaborate formal verse of the Tang court poets. They were embraced by the Beat Generation in America in the 1950s (Gary Snyder's translations of Cold Mountain poems became foundational texts of the counterculture), creating an unusual link between an isolated Chinese mountain hermit and 20th-century Western literature.
 
 Cold Mountain Temple (寒山寺, now the informal name for the cave shrine where he reportedly lived) is accessible via a walking trail from Guoqing Temple.
 
 ## Getting There
+
+![Putuoshan Scenery](/img/destinations/zhejiang-tiantai-mountain-guide/3.webp)
 
 **From Hangzhou**: Bus from Hangzhou East Bus Terminal to Tiantai County (2 hours, ¥50). From Tiantai County, local bus or Didi to Guoqing Temple (15 minutes, ¥10–20).
 

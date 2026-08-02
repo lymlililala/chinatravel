@@ -13,7 +13,7 @@ tags:
   - high speed rail
   - planning
 description: "Wondering if a China Rail Pass is worth buying in 2026? This honest guide breaks down the costs, compares pass options to buying individual tickets, explains how to book China train tickets as a foreigner, and helps you decide whether a rail pass makes sense for your specific itinerary and travel style."
-ogImage: "https://images.unsplash.com/photo-1780450369883-6d7bce6093fb?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwzfHxyYWlsJTIwcGFzc3xlbnwwfDB8fHwxNzgxOTQyNDgwfDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
+ogImage: "/img/toolkit/china-rail-pass-worth-it-guide/cover.webp"
 ---
 
 China's high-speed rail network is one of the wonders of the modern world. With over 45,000 kilometers of track connecting virtually every major city, the trains are fast, comfortable, punctual, and remarkably affordable by international standards. For foreign visitors planning a multi-city trip, the question inevitably arises: should I buy a rail pass?
@@ -23,6 +23,8 @@ The short answer: for most travelers in 2026, individual ticket booking will sav
 ## Table of contents
 
 ## The Current State of China Rail Passes
+
+![Terracotta Army](/img/toolkit/china-rail-pass-worth-it-guide/1.webp)
 
 China Rail Passes for foreign visitors are sold primarily by travel agencies and some booking platforms outside China. The main products are issued through China Railway (中国铁路) in cooperation with international travel companies. In 2026, the primary pass options available to foreign visitors include:
 
@@ -129,6 +131,8 @@ China's train system has multiple train types and classes:
 For day journeys under 5 hours, second class is perfectly fine. For overnight routes, soft sleeper is absolutely worth the price difference over sitting up all night.
 
 ## When a Rail Pass DOES Make Sense
+
+![Great Wall Lao City Wall](/img/toolkit/china-rail-pass-worth-it-guide/2.webp)
 
 There are genuine scenarios where a pass offers value:
 

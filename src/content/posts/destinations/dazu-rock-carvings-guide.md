@@ -11,7 +11,7 @@ tags:
   - history
   - art
 description: "The Dazu Rock Carvings (大足石刻) 90km from Chongqing — the UNESCO World Heritage Site with 50,000 Buddhist, Taoist, and Confucian stone sculptures from the 7th-13th centuries. The most important site (Baoding Shan) with the sleeping Buddha and the Wheel of Reincarnation, plus the Beishan and Nanshan cliff carvings. Day trip logistics from Chongqing."
-ogImage: "https://images.pexels.com/photos/31244379/pexels-photo-31244379.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/dazu-rock-carvings-guide/cover.webp"
 ---
 
 The Dazu Rock Carvings (大足石刻) are the most undervisited major UNESCO World Heritage Site in China. While the Yungang Caves in Shanxi and the Longmen Grottoes in Luoyang attract hundreds of thousands of visitors a year, Dazu — a comparable collection that many art historians consider their equal in quality and their superior in narrative complexity — sits 90km from one of China's busiest tourist cities and is passed over by the vast majority of visitors.
@@ -22,15 +22,15 @@ This is partly because the Dazu carvings require a day trip, partly because the 
 
 ## The Scale of the Work
 
-![Dazu Rock Carvings — The Scale of the Work](https://images.pexels.com/photos/34295742/pexels-photo-34295742.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Baodingshan Stone Carving, Chongqing](/img/destinations/dazu-rock-carvings-guide/1.webp)
 
 The Dazu Rock Carvings encompass over 50,000 individual sculptures distributed across 75 sites in Dazu County. They were created during the Tang, Five Dynasties, and Song Dynasty periods — roughly 7th to 13th centuries AD — by a remarkable concentration of artistic and religious effort that seems disproportionate to the region's size and relative obscurity.
 
 The subjects are unusually broad for a Buddhist rock carving site. While Yungang and Longmen are predominantly Buddhist, Dazu integrates Buddhist, Taoist, and Confucian imagery in ways that reflect Song Dynasty China's religious eclecticism. The carvings also depict scenes from everyday life with unusual directness — farming, cooking, childbirth, punishment — using these scenes to illustrate moral teachings in ways that would have been legible to the largely illiterate population who came to these sites as pilgrims.
 
-![Dazu Rock Carvings — Baoding Shan: The Main Site](https://images.pexels.com/photos/11827028/pexels-photo-11827028.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Baoding Shan: The Main Site
+
+![Jinyun Mountain Scenery, Chongqing](/img/destinations/dazu-rock-carvings-guide/2.webp)
 
 Baoding Shan (宝顶山) is where most visitors spend their time, and rightly so. Created between 1174 and 1252 AD under the direction of a single monk named Zhao Zhifeng, it is essentially a complete Buddhist teaching curriculum carved into a horseshoe-shaped cliff face over 500 metres long.
 
@@ -44,8 +44,6 @@ Baoding Shan (宝顶山) is where most visitors spend their time, and rightly so
 
 **Admission:** ¥115 for Baoding Shan.
 
-![Dazu Rock Carvings — Beishan & Nanshan](https://images.pexels.com/photos/32599840/pexels-photo-32599840.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Beishan & Nanshan
 
 If your time allows, two other sites within Dazu County deserve a visit.
@@ -55,6 +53,8 @@ If your time allows, two other sites within Dazu County deserve a visit.
 **Nanshan (南山):** A smaller site primarily featuring Taoist iconography — rare in a region dominated by Buddhist carving. The Three Pure Ones (三清祖师) group here is one of the most important surviving examples of medieval Chinese Taoist sculpture.
 
 ## Day Trip Logistics from Chongqing
+
+![Changjiangsanxia Scenery](/img/destinations/dazu-rock-carvings-guide/3.webp)
 
 **By public transport:** High-speed train from Chongqing North Station to Dazu North Station (重庆北-大足北, 40 minutes, ¥50-80). From Dazu North Station, take the scenic area shuttle bus or a taxi (¥20-30) to Baoding Shan. Total journey about 1.5 hours from central Chongqing.
 

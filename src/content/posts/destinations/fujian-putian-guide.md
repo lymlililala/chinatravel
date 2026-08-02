@@ -12,7 +12,7 @@ tags:
   - coastal-china
   - wetlands
 description: "Putian in Fujian is the birthplace of Mazu, the sea goddess worshipped by hundreds of millions across coastal China, Taiwan, and Southeast Asia. The Meizhou Island pilgrimage site draws millions of devotees annually, while the Putian wetlands are one of the most important shorebird habitats in coastal China. This guide covers the Mazu temple, the wetland nature reserve, local food, and practical travel details."
-ogImage: "https://images.pexels.com/photos/2178926/pexels-photo-2178926.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/fujian-putian-guide/cover.webp"
 ---
 
 Putian (莆田) occupies a stretch of the Fujian coast south of Fuzhou, on a coastal plain that was once largely wetland and tidal flat before centuries of land reclamation. It's known across the Chinese-speaking world primarily for one thing: Meizhou Island, the birthplace of Mazu (妈祖), the sea goddess whose worship has spread to Taiwan, Hong Kong, Southeast Asia, and wherever people of Fujianese and Cantonese origin have settled around the world.
@@ -24,6 +24,8 @@ Beyond Mazu, Putian has a remarkable coastal ecology — the Xinghua Bay (兴化
 ## Table of contents
 
 ## Getting to Putian
+
+![Kejia Earthen Tulou, Fujian](/img/destinations/fujian-putian-guide/1.webp)
 
 **By high-speed train:**
 - **From Fuzhou:** About 30–40 minutes; ¥35–60; very frequent departures
@@ -60,8 +62,6 @@ Several guesthouses and hotels on the island allow overnight stays:
 - Better options: ¥300–600/night
 - Staying overnight allows access to evening temple ceremonies and early morning seaside light
 
-![Putian Fujian — Mazu Festival (妈祖文化旅游节)](https://images.pexels.com/photos/16822905/pexels-photo-16822905.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Mazu Festival (妈祖文化旅游节)
 
 The annual Mazu Festival is held twice yearly:
@@ -80,6 +80,8 @@ During the Birthday festival in particular, over 100,000 visitors arrive on Meiz
 
 ## Xinghua Bay Wetlands (兴化湾湿地)
 
+![Tailao Mountain Scenery, Fujian](/img/destinations/fujian-putian-guide/2.webp)
+
 One of coastal China's most important birding destinations sits largely unknown to international visitors within easy reach of Putian city. Xinghua Bay's tidal flats — partly protected under the Fujian Wetlands Nature Reserve system — serve as a critical staging ground for migratory shorebirds on the East Asian-Australasian Flyway.
 
 **Key bird species:**
@@ -94,9 +96,9 @@ One of coastal China's most important birding destinations sits largely unknown 
 
 **Note on development:** The Xinghua Bay tidal flats have faced pressure from land reclamation for industrial development. Some areas have been lost; advocacy by conservation organizations continues to protect the remaining habitat.
 
-![Putian Fujian — Putian Old City & Jiulishan](https://images.pexels.com/photos/2178920/pexels-photo-2178920.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Putian Old City & Jiulishan
+
+![Wuyi Mountain Scenery, Fujian](/img/destinations/fujian-putian-guide/3.webp)
 
 Putian's older city area and surrounding countryside have historical sites that complement the pilgrimage and nature draws:
 

@@ -12,7 +12,7 @@ tags:
   - uyghur
   - bazaar
 description: "Kashgar stands at the ancient crossroads of the Silk Road where China, Central Asia, and South Asia meet. The Old City's mud-brick lanes, the Sunday Livestock Market, and the Id Kah Mosque together create one of the most distinctive urban experiences in China. This 2026 complete guide covers navigating the Old City, the Sunday market, when to visit, and respectful travel in this culturally rich destination."
-ogImage: "https://images.pexels.com/photos/7713434/pexels-photo-7713434.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/xinjiang-kashi-old-city-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -25,7 +25,7 @@ Traveling here requires careful preparation and respect for a complex cultural a
 
 ## What Makes Kashgar Different
 
-![Kashgar Old City Xinjiang — What Makes Kashgar Different](https://images.pexels.com/photos/5273033/pexels-photo-5273033.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Wuerhemoguicheng Feng City, Xinjiang](/img/destinations/xinjiang-kashi-old-city-guide/1.webp)
 
 Kashgar's distinctiveness comes from several overlapping factors:
 
@@ -59,8 +59,6 @@ Entry: Free for respectful visitors in appropriate dress (women must cover hair;
 
 The most important experience is being in the square during Friday afternoon prayers (Juma Namaz, approximately 1–2pm) — when several thousand worshippers overflow from the mosque into the square. This is public, communal, and openly visible, but observe with respect and ask before photographing.
 
-![Kashgar Old City Xinjiang — The Sunday Market (周日集市 / 大巴扎)](https://images.pexels.com/photos/35298258/pexels-photo-35298258.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Sunday Market (周日集市 / 大巴扎)
 
 The most famous market in Xinjiang. Kashgar's Sunday Market has operated for centuries and remains the weekly gathering point for farmers, herders, and traders from across the Kashgar oasis and surrounding mountains. It's called "Sunday Market" but it actually runs most days with Sunday being the largest.
@@ -78,6 +76,8 @@ The market spans a large area outside the old city. It's divided into sections:
 **Photography at the market**: The livestock market is particularly photogenic — dramatic faces, working animals, intense negotiations. However, always ask permission before photographing people closely. Many vendors and farmers welcome the attention; others prefer privacy. A small phrase goes a long way: "Rāzimisiz sūrät élishqa?" (May I take a photo?) in Uyghur.
 
 ## Food in Kashgar
+
+![Tashenkuer City Scenery, Xinjiang](/img/destinations/xinjiang-kashi-old-city-guide/2.webp)
 
 Uyghur cuisine is genuinely one of China's great regional food traditions, and Kashgar is where you find the most authentic versions.
 
@@ -99,9 +99,9 @@ Uyghur cuisine is genuinely one of China's great regional food traditions, and K
 
 The old city lanes and the area around Id Kah Square have the highest concentration of good Uyghur restaurants. The morning markets near the mosque (7–10am) are particularly good for polo and nan.
 
-![Kashgar Old City Xinjiang — Surroundings and Day Trips](https://images.pexels.com/photos/36943572/pexels-photo-36943572.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Surroundings and Day Trips
+
+![Daban City, Xinjiang](/img/destinations/xinjiang-kashi-old-city-guide/3.webp)
 
 ### Karakul Lake (卡拉库里湖)
 200km south of Kashgar on the Karakoram Highway, at 3,600m elevation. A high-altitude lake with the dramatic backdrop of the Muztagh Ata Peak (7,546m). The landscape is one of the most dramatic in the region — blue lake, white peak, and Kyrgyz yurt camps along the shore.

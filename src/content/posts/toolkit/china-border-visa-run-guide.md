@@ -1,6 +1,7 @@
 ---
 title: "China Visa Run & Border Crossing Guide 2026: Hong Kong, Macau & Land Borders"
 description: "Navigate visa runs and border crossings from China — leaving and re-entering via Hong Kong, Macau, Vietnam, Myanmar, and Kazakhstan for visa renewal or tourism extension, the 144-hour and 72-hour transit visa programs, how the border procedures actually work, and what has changed post-2023 for frequent China travellers."
+ogImage: "/img/toolkit/china-border-visa-run-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "visa-run", "border-crossing", "hong-kong", "macau", "vietnam-border", "transit-visa", "visa-extension"]
@@ -13,6 +14,8 @@ A **visa run** — leaving China and re-entering on a new visa, or to reset a mu
 ---
 
 ## The Classic Routes
+
+![Jiangnan Water Town Scenery, Suzhou](/img/toolkit/china-border-visa-run-guide/1.webp)
 
 ### Hong Kong (Port of Entry: Lo Wu / Lok Ma Chau / Shenzhen Bay)
 
@@ -70,6 +73,8 @@ China offers **visa-free transit** for nationals of many countries passing throu
 ---
 
 ## Current Visa Policy (2025–2026)
+
+![Tongli Old Town Scenery, Jiangsu, Suzhou](/img/toolkit/china-border-visa-run-guide/2.webp)
 
 China has expanded **unilateral visa-free access** for multiple countries since late 2023:
 

@@ -10,7 +10,7 @@ tags:
   - food
   - destinations
 description: "Wuhan's food culture is one of China's most distinctive — hot dry noodles for breakfast, spiced duck neck for snacking, and egg dumplings for dinner. A guide to where and how to eat like a Wuhanese local."
-ogImage: "https://images.pexels.com/photos/27238146/pexels-photo-27238146.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/wuhan-food-hot-dry-noodles-guide/cover.webp"
 ---
 
 Wuhan (武汉) sits at the confluence of the Yangtze and Han Rivers in central China, and its food reflects the city's position as a crossroads: the intensity of Hunan flavours to the south, the complexity of northern Chinese cooking, and a strong local tradition that has produced some of China's most distinctive dishes. Chief among them is the hot dry noodle — the dish that defines Wuhan breakfast culture.
@@ -19,7 +19,7 @@ Wuhan (武汉) sits at the confluence of the Yangtze and Han Rivers in central C
 
 ## Hot Dry Noodles (热干面): Wuhan's Identity Dish
 
-![Wuhan Food — Hot Dry Noodles (热干面): Wuhan's Identity Dish](https://images.pexels.com/photos/37488682/pexels-photo-37488682.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Huanghelou Scenery, Hubei, Wuhan](/img/destinations/wuhan-food-hot-dry-noodles-guide/1.webp)
 
 Hot dry noodles (热干面, rè gān miàn) are Wuhan's most important cultural dish — as central to the city's identity as xiaolongbao is to Shanghai or Peking duck to Beijing. They're eaten for breakfast, primarily; consuming them later in the day marks you as a tourist.
 
@@ -71,9 +71,9 @@ Beyond duck neck (鸭脖), Wuhan's duck nose stalls sell:
 
 ---
 
-![Wuhan Food — Wuhan Breakfast Culture (过早)](https://images.pexels.com/photos/36644363/pexels-photo-36644363.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Wuhan Breakfast Culture (过早)
+
+![Dong Lake Scenery, Hubei, Wuhan](/img/destinations/wuhan-food-hot-dry-noodles-guide/2.webp)
 
 "过早" (guò zǎo, literally "passing through the morning") is Wuhan's specific term for eating breakfast — unique in China for having its own culturally significant word. Wuhan people take breakfast very seriously; skipping it is considered strange.
 
@@ -93,6 +93,8 @@ Beyond duck neck (鸭脖), Wuhan's duck nose stalls sell:
 
 ## Egg Dumplings (蛋饺)
 
+![Mingxianling Scenery, Hubei](/img/destinations/wuhan-food-hot-dry-noodles-guide/3.webp)
+
 Egg dumplings (蛋饺, dàn jiǎo) are a Wuhan speciality less known outside the city: thin egg crepes formed into dumpling shapes and filled with seasoned pork mince. They're golden-yellow, delicate, and typically served in a clear broth or hot pot.
 
 Made to order: a small amount of beaten egg is poured into a curved ladle over a flame, swirled to form a thin crepe, then filled and folded before it sets. The skill is in timing the fold — too early, the crepe tears; too late, it's too stiff to form.
@@ -100,8 +102,6 @@ Made to order: a small amount of beaten egg is poured into a curved ladle over a
 **Where to find them**: home cooking primarily; also at traditional Wuhan cuisine restaurants and some hot pot restaurants as a premium ingredient.
 
 ---
-
-![Wuhan Food — Sautéed Crayfish (小龙虾)](https://images.pexels.com/photos/18704360/pexels-photo-18704360.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Sautéed Crayfish (小龙虾)
 

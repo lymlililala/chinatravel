@@ -12,12 +12,14 @@ tags:
   - budget
   - payment
 description: "Everything you need to know about money in China in 2026 — from setting up Alipay and WeChat Pay with foreign cards, finding ATMs that accept international cards, understanding China's cashless revolution, managing currency exchange, estimating daily budgets for different travel styles, and avoiding the common money mistakes that trip up foreign visitors in the world's most advanced mobile payment economy."
-ogImage: "https://images.pexels.com/photos/6132753/pexels-photo-6132753.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-money-atm-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## China's Cashless Revolution — Why Money Works Differently Here
+
+![Guojiadizhi Park Scenery, Huangshan](/img/toolkit/china-money-atm-guide/1.webp)
 
 If you haven't been to China recently, you need to understand something fundamental: China has essentially gone cashless. Not "moving toward cashless" — actually, functionally cashless. Street vendors selling ¥5 noodles have QR codes. Homeless people accepting alms have QR codes. Public toilets that charge ¥1 have QR codes. The last time I tried to pay with a ¥100 note at a convenience store, the cashier looked at it like it was a museum piece.
 
@@ -122,6 +124,8 @@ You can bring up to USD 5,000 (or equivalent) in cash into China without declara
 - **Exchange rate (as of early 2026):** Approximately 1 USD = 7.2 CNY, 1 EUR = 7.8 CNY
 
 ## Budget Planning
+
+![Guojiasenlin Park, Zhangjiajie](/img/toolkit/china-money-atm-guide/2.webp)
 
 ### Daily Budget Estimates
 

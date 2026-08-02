@@ -11,7 +11,7 @@ tags:
   - beginners
   - planning
 description: "The definitive packing list for travelling China — from electronics and documents to clothing, medicine, and the things you genuinely can't buy locally."
-ogImage: "https://images.unsplash.com/photo-1491555103944-7c647fd857e6?w=900&q=80"
+ogImage: "/img/toolkit/china-packing-list-guide/cover.webp"
 ---
 
 Packing for China requires a different mindset than most destinations. Some Western staples are impossible to find; many things you'd pack for other trips you can buy for next to nothing on arrival. Here's what actually matters.
@@ -19,6 +19,8 @@ Packing for China requires a different mindset than most destinations. Some West
 ## Table of contents
 
 ## The Non-Negotiables (Don't Leave Without These)
+
+![Tianzi Mountain Scenery, Zhangjiajie, Hunan](/img/toolkit/china-packing-list-guide/1.webp)
 
 ### Documents
 - ✅ **Passport** (valid for at least 6 months beyond your departure date)
@@ -168,6 +170,8 @@ Every sightseeing day, your small daypack should contain:
 ---
 
 ## What to Buy in China (Save the Packing Space)
+
+![The Bund Scenery](/img/toolkit/china-packing-list-guide/2.webp)
 
 These are cheaper and better quality in China than anywhere:
 

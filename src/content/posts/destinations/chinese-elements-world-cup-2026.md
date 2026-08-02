@@ -10,7 +10,7 @@ tags:
   - "shanghai"
   - "guangdong"
 description: "Explore China's growing influence at the 2026 FIFA World Cup, from referees and VAR officials to tech, manufacturing, and cultural exports like intangible"
-ogImage: "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=1200&q=85"
+ogImage: "/img/destinations/chinese-elements-world-cup-2026/cover.webp"
 faq:
   - question: "Which Chinese referees are officiating at the 2026 World Cup?"
     answer: "Three Chinese referees are officiating: Ma Ning (main referee), Zhou Fei (assistant referee), and Fu Ming (video assistant referee). They worked together in the Ecuador vs. Curaçao match on June 21, 2026. Ma Ning is the first Chinese referee to officiate a World Cup match since 2002."
@@ -30,9 +30,9 @@ The 2026 FIFA World Cup in the United States, Canada, and Mexico is a tournament
 
 ## The Chinese Referees: A Historic Full Squad
 
-For the first time, three Chinese match officials will work the same World Cup fixture – a landmark moment for Chinese football. Referee **Ma Ning** (马宁), assistant referee **Zhou Fei** (周飞), and video assistant referee **Fu Ming** (傅明) were assigned to the Group E match between Ecuador and Curaçao on June 21, 2026. Ma Ning becomes the first Chinese referee to officiate a World Cup match since Lu Jun in 2002, and the only Chinese referee to be selected for two consecutive World Cups (he served as fourth official at six matches in Qatar 2022).
+![Ancient Town Aerial View, Lijiang](/img/destinations/chinese-elements-world-cup-2026/1.webp)
 
-![Ma Ning, Chinese referee in his black kit, holding a yellow card on the pitch](https://images.pexels.com/photos/29608292/pexels-photo-29608292.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+For the first time, three Chinese match officials will work the same World Cup fixture – a landmark moment for Chinese football. Referee **Ma Ning** (马宁), assistant referee **Zhou Fei** (周飞), and video assistant referee **Fu Ming** (傅明) were assigned to the Group E match between Ecuador and Curaçao on June 21, 2026. Ma Ning becomes the first Chinese referee to officiate a World Cup match since Lu Jun in 2002, and the only Chinese referee to be selected for two consecutive World Cups (he served as fourth official at six matches in Qatar 2022).
 
 Ma Ning, born in 1979 in Fuxin, Liaoning Province, earned his FIFA referee badge in 2011 and officiated the 2024 AFC Asian Cup final. Known for his strict, no-nonsense style – he once brandished 9 yellow cards and 3 red cards in a single Chinese Super League match – he has been jokingly called the 'Card Master' by fans. 'A good referee must have courage,' Ma told CCTV. 'You don't need to be liked by everyone on the pitch.'
 
@@ -54,8 +54,6 @@ The official match ball, named **'Triple Wave'** (三重浪), is a marvel of Chi
 
 **Lenovo** (联想), the first Chinese company to become a FIFA Partner (the highest sponsorship tier), has deployed over 17,000 servers and workstations across all 16 stadiums. Its 'Football AI Pro' system provides real-time tactical analysis to all 48 teams, effectively democratising data that was once the preserve of wealthy clubs. Lenovo's 3D scanning booths create digital avatars of every player, making offside calls more precise than ever.
 
-![A Hisense large LED screen inside the VAR video operation room showing a match replay](https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=1200&q=85)
-
 ### Green Transport
 
 On the streets of Mexico City, Guadalajara, and Monterrey, Chinese-made vehicles are the unsung heroes of fan mobility. **CRRC** (中国中车) has supplied 115 light-rail trains that will carry an estimated 1.25 million passengers daily during the tournament. Meanwhile, **Yutong** (宇通) provides over 800 new-energy buses – 95% of the official World Cup shuttle fleet – including 26-metre-long bi-articulated electric buses that can carry 270 passengers each.
@@ -74,9 +72,9 @@ Beyond hardware, Chinese cultural products are making a splash. **Pop Mart**'s L
 
 Even more remarkable is the debut of Chinese intangible cultural heritage in official FIFA merchandise. For the first time, FIFA has licensed products featuring **Zhuang brocade** (壮锦) from Guangxi, **Yi embroidery** (彝绣) from Yunnan, and **Yangzhou mother-of-pearl inlay** (扬州螺钿). These handcrafted items – from football jerseys with brocade panels to lacquerware trophy replicas – are sold in official World Cup stores, marking a shift from mass-produced 'Made in China' goods to culturally distinctive 'Created in China' artefacts.
 
-![A Labubu doll wearing a football jersey, standing on a football pitch](https://images.unsplash.com/photo-1637203727318-fb31b63e2377?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxsYWJ1YnUlMjB3b3JsZCUyMGN1cCUyMG9wZW5pbmclMjBjZXJlbW9ueXxlbnwwfDB8fHwxNzgyMDU3MTUzfDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
-
 ## Yiwu: The World's Football Souvenir Capital
+
+![Lvyou Scenery, Lijiang](/img/destinations/chinese-elements-world-cup-2026/2.webp)
 
 No discussion of Chinese elements at the World Cup is complete without mentioning **Yiwu** (义乌), the small city in Zhejiang Province that produces an estimated 70% of the world's fan merchandise. For the 2026 tournament, Yiwu factories have been running at full capacity for months, churning out flags, scarves, hats, face stickers, and replica trophies. But the city is evolving: many workshops now hold official licences from top clubs and national teams, and they use AI design tools to create original products rather than simply copying designs.
 
@@ -116,6 +114,8 @@ The tournament runs from June 11 to July 19, 2026. The best time for most matche
 
 ## What to Eat
 
+![Glacier Park Spectacular Scenery, Yunnan, Lijiang](/img/destinations/chinese-elements-world-cup-2026/3.webp)
+
 - **In Mexico**: Tacos al pastor, tamales, and elote (street corn). Chinese-Mexican fusion is a thing – try 'Chifa' restaurants in Mexico City.
 - **In the US**: Stadium food is pricey; eat before you go. Look for food trucks near fan zones.
 - **In Canada**: Poutine (fries with cheese curds and gravy) is a must-try. Toronto's Chinatown offers excellent dim sum.
@@ -127,5 +127,3 @@ If the World Cup inspires you to visit China itself, the country offers endless 
 ## Conclusion
 
 The 2026 World Cup is a mirror reflecting China's dual reality: a manufacturing and technological powerhouse that has yet to translate that strength into footballing success on the pitch. Yet the Chinese elements at this tournament – from the referees' whistles to the AI-powered analysis, from the Labubu dolls to the Yi embroidery – tell a story of a nation that participates in global culture on its own terms. For international travellers, this is a unique opportunity to see China not as a distant land, but as an integral part of the world's biggest sporting event.
-
-![A Yiwu factory worker packing World Cup souvenir flags into boxes](https://images.pexels.com/photos/11835349/pexels-photo-11835349.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)

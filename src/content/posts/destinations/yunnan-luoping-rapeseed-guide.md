@@ -12,7 +12,7 @@ tags:
   - photography
   - nature
 description: "Luoping in eastern Yunnan transforms each spring into one of the most spectacular floral landscapes on Earth — millions of acres of rapeseed flowers (canola) carpeting the karst valley in blazing yellow. Add the Jiulong Waterfalls (Nine Dragon Falls) and the Duoyi River, and Luoping becomes one of China's finest spring photography destinations. This guide covers when the flowers bloom, the best viewpoints, and how to plan your visit."
-ogImage: "https://images.pexels.com/photos/29134354/pexels-photo-29134354.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/yunnan-luoping-rapeseed-guide/cover.webp"
 ---
 
 Luoping (罗平) in eastern Yunnan, where the province borders Guizhou and Guangxi, is for most of the year an unremarkable agricultural county. Then February arrives, and the rapeseed (油菜, canola) flowers bloom across the valley floor and lower hillsides — and Luoping becomes one of the most visually overwhelming landscapes in China.
@@ -22,6 +22,8 @@ The scale is difficult to convey. Over 600,000 mu (about 100,000 acres) of rapes
 ## Table of contents
 
 ## Getting to Luoping
+
+![Dashanshenchu Red Soil Gengdi, Yunnan](/img/destinations/yunnan-luoping-rapeseed-guide/1.webp)
 
 **By train:**
 - **From Kunming:** About 3–4 hours by standard train; ¥50–80; several departures daily
@@ -63,8 +65,6 @@ A terraced field area about 10km north of town where the rapeseed fields form sp
 **Ten-Thousand Peak Lake (万峰湖):**
 A reservoir area where the flower fields extend to the water's edge, with karst peaks reflected in the still water. About 20km from town; requires hired transport.
 
-![Luoping Yunnan — Jiulong Waterfalls (九龙瀑布群)](https://images.pexels.com/photos/6870655/pexels-photo-6870655.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Jiulong Waterfalls (九龙瀑布群)
 
 The Jiulong (Nine Dragon) Waterfalls are a series of 10 waterfalls on the Jiulong River, about 20km northeast of Luoping town. The tallest single drop is 56 meters, and the total cascade length is about 2km. During the spring rapeseed bloom, the waterfalls are framed by yellow flowers, creating one of the most photogenic waterfall settings in China.
@@ -83,6 +83,8 @@ The Jiulong (Nine Dragon) Waterfalls are a series of 10 waterfalls on the Jiulon
 
 ## Duoyi River (多依河)
 
+![Erhai Lake Scenery, Yunnan, Dali](/img/destinations/yunnan-luoping-rapeseed-guide/2.webp)
+
 The Duoyi River flows through a scenic valley about 30km southeast of Luoping, near the Guizhou border. It's a quieter, more intimate landscape than the flower fields — a clear river winding through bamboo groves and small Buyi minority villages, with small waterfalls and natural swimming holes.
 
 **What to see:**
@@ -93,8 +95,6 @@ The Duoyi River flows through a scenic valley about 30km southeast of Luoping, n
 
 **Entry fee:** ¥60 per person  
 **Getting there:** About 45 minutes by car from Luoping town
-
-![Luoping Yunnan — Luoping Town](https://images.pexels.com/photos/15969586/pexels-photo-15969586.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Luoping Town
 
@@ -109,6 +109,8 @@ From about 6:30am, local farmers bring in fresh produce, wild mushrooms (in seas
 - **Wild vegetable dishes:** Spring brings edible wild greens to the markets; restaurants will prepare them simply — stir-fried or in soup
 
 ## Photography Tips for Luoping
+
+![Dongchuan Red Soil Scenery](/img/destinations/yunnan-luoping-rapeseed-guide/3.webp)
 
 **Essential timing:**
 - **Sunrise at Jinji Peaks:** Arrive by 6:30am; the mist between the peaks dissipates quickly once the sun rises

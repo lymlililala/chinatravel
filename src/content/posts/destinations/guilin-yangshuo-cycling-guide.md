@@ -1,7 +1,7 @@
 ---
 title: "Cycling Around Yangshuo: Complete Route Guide for Karst Mountains"
 description: "The ultimate cycling guide for Yangshuo — best cycling routes through karst peaks, Yulong River paths, Moon Hill, and the countryside villages. Bike rentals, road conditions, distances, and what to bring."
-ogImage: "https://images.pexels.com/photos/24887032/pexels-photo-24887032.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guilin-yangshuo-cycling-guide/cover.webp"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/yangshuo-cycling.jpg"
 category: "destinations"
@@ -15,9 +15,9 @@ Yangshuo (阳朔) in Guangxi province is consistently ranked among the world's b
 
 Most visitors see this landscape from the tourist boat on the Li River. Cycling gives you something the boats can't: the ability to stop whenever you want, turn down any lane, and be present in the landscape rather than just passing through it.
 
-![Cycling Around Yangshuo — The Bicycle Options](https://images.pexels.com/photos/6195411/pexels-photo-6195411.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Bicycle Options
+
+![Xingping, Guangxi, Yangshuo](/img/destinations/guilin-yangshuo-cycling-guide/1.webp)
 
 **Where to rent bikes in Yangshuo**: Along West Street (西街) and the streets nearby, dozens of rental shops offer bicycles. Quality ranges widely.
 
@@ -49,8 +49,6 @@ The Yulong River cycling path is the most popular and beautiful ride in the Yang
 
 **The return**: Cycling back the same way is pleasant (the scenery works in both directions); alternatively, you can arrange a taxi back from further points.
 
-![Cycling Around Yangshuo — Route 2: Moon Hill and Back Country Villages](https://images.pexels.com/photos/210112/pexels-photo-210112.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Route 2: Moon Hill and Back Country Villages
 
 **Distance**: 25-40 km round trip
@@ -67,6 +65,8 @@ Moon Hill (月亮山, Yuèliàng Shān) is a distinctive karst peak with a natur
 
 ## Route 3: Xingping to Guilin Via Countryside
 
+![Detianda Waterfall Scenery, Guangxi](/img/destinations/guilin-yangshuo-cycling-guide/2.webp)
+
 **Distance**: 65 km point-to-point (Xingping to Guilin)
 **Difficulty**: Moderate to difficult
 **Time**: Full day (7-9 hours)
@@ -79,9 +79,9 @@ For more serious cyclists, the road from Xingping (兴坪) along the Li River ba
 
 **The cycling route from Xingping**: The road north of Xingping follows the river through several traditional villages — Liugong Village (刘公村), Yangtian Village (仰天村) — before eventually reaching Guilin. Most cyclists take a bus or taxi for the final section.
 
-![Cycling Around Yangshuo — Practical Cycling Tips](https://images.pexels.com/photos/27850543/pexels-photo-27850543.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Practical Cycling Tips
+
+![Gupo Mountain Scenery, Guangxi](/img/destinations/guilin-yangshuo-cycling-guide/3.webp)
 
 ### Road Conditions
 

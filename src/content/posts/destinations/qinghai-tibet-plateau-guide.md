@@ -11,7 +11,7 @@ tags:
   - nature
   - plateau
 description: "Qinghai Province offers some of China's most spectacular high-altitude landscapes — the vast shimmering expanse of Qinghai Lake, the rainbow-coloured Zhangye Danxia nearby, and the lonely prayer-flag-lined roads toward Tibet."
-ogImage: "https://images.unsplash.com/photo-1474992592323-229f1837e44f?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw3fHxxaW5naGFpJTIwZ3VpZGV8ZW58MHwwfHx8MTc4MTg2ODg1Nnww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
+ogImage: "/img/destinations/qinghai-tibet-plateau-guide/cover.webp"
 ---
 
 Qinghai Province sits on the eastern edge of the Tibetan Plateau — a vast, thin-aired landscape of salt lakes, nomadic grasslands, and mountain passes. It's one of China's least-visited provinces for foreign tourists, which makes it exceptional for those who make the journey.
@@ -20,7 +20,7 @@ Qinghai Province sits on the eastern edge of the Tibetan Plateau — a vast, thi
 
 ## Qinghai Lake (青海湖)
 
-![Qinghai — Qinghai Lake (青海湖)](https://images.pexels.com/photos/30295895/pexels-photo-30295895.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Chakayan Lake Scenery, Qinghai](/img/destinations/qinghai-tibet-plateau-guide/1.webp)
 
 China's largest lake — 4,317 km² of sapphire blue water at 3,196m elevation, ringed by snowcapped mountains and yellow rapeseed fields in summer. Sacred in Tibetan Buddhism; home to vast colonies of breeding birds on Bird Island.
 
@@ -41,9 +41,9 @@ Home to the world's largest breeding colony of bar-headed geese (斑头雁) — 
 
 ---
 
-![Qinghai — Qilian Mountain (祁连山)](https://images.pexels.com/photos/15949877/pexels-photo-15949877.png?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Qilian Mountain (祁连山)
+
+![Ranwu Lake Landscape, Tibet](/img/destinations/qinghai-tibet-plateau-guide/2.webp)
 
 The Qilian Mountain range forms the natural border between Qinghai and Gansu — snow peaks, summer wildflower meadows, and Tibetan and Yugur minority nomads.
 
@@ -70,6 +70,8 @@ One of the largest mosques in Northwest China — Xining's significant Hui Musli
 ---
 
 ## Sanjiangyuan National Park (三江源国家公园)
+
+![Laangcuo Lake, Tibet](/img/destinations/qinghai-tibet-plateau-guide/3.webp)
 
 The "Source of Three Rivers" — the Yellow River, Yangtze River, and Mekong River all originate in this high-altitude wetland wilderness in southern Qinghai. China's largest national park and one of the world's most important watershed ecosystems.
 

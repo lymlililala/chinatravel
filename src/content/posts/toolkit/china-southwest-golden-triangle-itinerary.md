@@ -14,7 +14,7 @@ tags:
   - planning
   - transport
 description: "The classic 10-day southwest China loop — giant pandas in Chengdu, karst peaks along the Li River in Guilin, and the ancient towns of Lijiang and Dali in Yunnan."
-ogImage: "https://images.pexels.com/photos/6967905/pexels-photo-6967905.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-southwest-golden-triangle-itinerary/cover.webp"
 ---
 
 Southwest China is where the country's most spectacular natural scenery meets its most diverse ethnic cultures. This 10-day route covers three of China's greatest destinations and works year-round, with spring and autumn offering the ideal conditions.
@@ -22,6 +22,8 @@ Southwest China is where the country's most spectacular natural scenery meets it
 ## Table of contents
 
 ## Route Overview
+
+![Jinshanling Great Wall Landscape, Hebei](/img/toolkit/china-southwest-golden-triangle-itinerary/1.webp)
 
 **Chengdu (3 nights) → Guilin/Yangshuo (3 nights) → Lijiang (2 nights) → Dali (2 nights)**
 
@@ -107,6 +109,8 @@ Flight Guilin → Lijiang (1.5 hours) or Kunming transit.
 ---
 
 ## Day 9–10: Dali
+
+![Forbidden City, Shenyang](/img/toolkit/china-southwest-golden-triangle-itinerary/2.webp)
 
 Bus Lijiang → Dali (3.5 hours, ¥70) — stunning highway through mountain passes.
 

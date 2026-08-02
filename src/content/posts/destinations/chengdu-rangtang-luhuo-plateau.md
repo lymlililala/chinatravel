@@ -1,7 +1,7 @@
 ---
 title: "Chengdu to Seda & Rangtang: Tibetan Plateau Villages Off the Tourist Trail"
 description: "Explore western Sichuan's remote Tibetan plateau communities — Seda (色达) monastery, Rangtang (壤塘) frescoes, and the high-altitude grasslands few Western travelers reach. Route planning, logistics, and cultural insights."
-ogImage: "https://images.pexels.com/photos/35557996/pexels-photo-35557996.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/chengdu-rangtang-luhuo-plateau/cover.webp"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/seda-tibetan-plateau.jpg"
 category: "destinations"
@@ -17,9 +17,9 @@ Venture further north and west into the areas of Seda (色达), Rangtang (壤塘
 
 This guide covers two specific destinations that reward the effort of reaching them: Seda and Larung Gar (the world's largest Buddhist institute), and the Rangtang area with its rare Bon Buddhist frescoes.
 
-![Chengdu Seda & Rangtang — Seda and Larung Gar (色达/喇荣五明佛学院)](https://images.pexels.com/photos/12304382/pexels-photo-12304382.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Seda and Larung Gar (色达/喇荣五明佛学院)
+
+![Tianfuguosheyinger, Sichuan, Chengdu](/img/destinations/chengdu-rangtang-luhuo-plateau/1.webp)
 
 Larung Gar (喇荣五明佛学院, officially the Larung Five Sciences Buddhist Academy) is located in a remote narrow valley at 4,000 meters elevation in Seda County. At its peak, it housed approximately 40,000 monks, nuns, and lay practitioners — making it almost certainly the largest Buddhist educational institute in the world.
 
@@ -42,9 +42,9 @@ The visual impact of Larung Gar is extraordinary: tens of thousands of small red
 - Altitude medicine: Bring diamox (acetazolamide) and consult a doctor about proper usage. Altitude sickness at 4,000m is a genuine risk.
 - Permits: Check current permit requirements for foreign visitors; western Sichuan permit requirements have changed periodically.
 
-![Chengdu Seda & Rangtang — Rangtang: The Bon Buddhist Frescoes](https://images.pexels.com/photos/14450066/pexels-photo-14450066.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Rangtang: The Bon Buddhist Frescoes
+
+![Lugu Lake Ligeban Island Scenery, Sichuan](/img/destinations/chengdu-rangtang-luhuo-plateau/2.webp)
 
 Rangtang County (壤塘县) in northwestern Sichuan's Aba prefecture is one of China's most culturally significant and least-visited destinations. The county contains a remarkable concentration of Bon Buddhist (藏族苯教) temples with medieval frescoes that have survived the 20th century largely intact.
 
@@ -69,9 +69,9 @@ The road conditions vary by season — summer (June-September) is the most relia
 
 **Independent vs. organized**: Independent travel to Rangtang is possible with a high-clearance vehicle and Chinese navigation skills. Organized tours from Chengdu are more efficient for time-limited travelers. Several Chengdu-based adventure tour operators offer Rangtang itineraries.
 
-![Chengdu Seda & Rangtang — General Western Sichuan Travel Tips](https://images.pexels.com/photos/37129453/pexels-photo-37129453.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## General Western Sichuan Travel Tips
+
+![Shunanzhuhai Landscape](/img/destinations/chengdu-rangtang-luhuo-plateau/3.webp)
 
 ### Altitude Acclimatization Strategy
 

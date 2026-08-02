@@ -20,7 +20,7 @@ tags:
   - culture
   - history
 description: "Everything you need to plan a trip to Beijing — the Great Wall, Forbidden City, hutong neighbourhoods, food, day trips, and how to get around China's capital."
-ogImage: "https://images.pexels.com/photos/11144232/pexels-photo-11144232.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/beijing-travel-guide/cover.webp"
 ---
 
 Beijing is one of those cities that immediately earns its reputation. From the moment you stand in the vast, wind-swept expanse of Tiananmen Square and look north through the Gate of Heavenly Peace, you feel the weight of 3,000 years of history. Yet turn around and you will find contemporary China in full swing: Michelin-starred restaurants, cutting-edge contemporary art galleries, and a nightlife scene that runs until 4am.
@@ -31,7 +31,7 @@ Most first-time visitors discover that three days barely scratches the surface. 
 
 ## Top Things to See and Do
 
-![Beijing — Top Things to See and Do](https://images.pexels.com/photos/1750268/pexels-photo-1750268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Qinghua University Yuan Qing Dynasty Imperial](/img/destinations/beijing-travel-guide/1.webp)
 
 ### The Forbidden City (故宫)
 
@@ -83,9 +83,9 @@ The grey-tiled alley networks that once covered the whole city are now concentra
 
 ---
 
-![Beijing — Where to Eat](https://images.pexels.com/photos/9054062/pexels-photo-9054062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Where to Eat
+
+![Forbidden City Panorama Interior, Beijing](/img/destinations/beijing-travel-guide/2.webp)
 
 Beijing's food scene goes far beyond Peking Duck (though you must eat it at least once).
 
@@ -108,9 +108,9 @@ Beijing's distinctive hotpot style uses a distinctive copper charcoal pot. Thin 
 
 ---
 
-![Beijing — Getting Around Beijing](https://images.pexels.com/photos/32885186/pexels-photo-32885186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting Around Beijing
+
+![Courtyard House, Beijing](/img/destinations/beijing-travel-guide/3.webp)
 
 Beijing's **metro** (地铁) is fast, cheap, and covers virtually every tourist site. Fares start at ¥3. Download the **Amap** app for real-time metro directions.
 

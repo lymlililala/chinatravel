@@ -1,7 +1,7 @@
 ---
 title: "Luoyang White Horse Temple Guide: China's First Buddhist Temple (2026)"
 description: "Complete guide to visiting Baima Si (White Horse Temple) in Luoyang — the first official Buddhist temple in China, founded 68 AD. History, architecture, international temple gardens, practical visit info and peony festival timing."
-ogImage: "https://images.pexels.com/photos/33493905/pexels-photo-33493905.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/luoyang-white-horse-temple-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Luoyang", "White Horse Temple", "Baima Si", "Buddhist temple China", "Henan tourism", "ancient China", "peony festival"]
@@ -9,9 +9,9 @@ tags: ["Luoyang", "White Horse Temple", "Baima Si", "Buddhist temple China", "He
 
 Fourteen kilometers east of central Luoyang stands the White Horse Temple (白马寺, Báimǎ Sì), traditionally recognized as the first official Buddhist temple established in China. The temple's founding legend tells of Emperor Ming of Han (ruled 57–75 AD) who dreamed of a golden figure floating westward. His envoys traveled to Central Asia, encountered Buddhism, and returned to Luoyang in 68 AD with Buddhist scriptures loaded on the backs of two white horses — giving the temple its name. The Buddhism they brought would become the defining philosophical force of Chinese civilization.
 
-![Luoyang White Horse Temple — Historical Significance](https://images.pexels.com/photos/12111355/pexels-photo-12111355.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Historical Significance
+
+![Chongfa Temple Scenery, Henan](/img/destinations/luoyang-white-horse-temple-guide/1.webp)
 
 At the time of its founding, Luoyang was the capital of the Eastern Han Dynasty and one of the most powerful cities in the ancient world. The White Horse Temple was established as an imperial project, directly under the patronage of the Han court, and represented the formal reception of Indian Buddhism into Chinese culture.
 
@@ -31,9 +31,9 @@ The current structures date primarily from the Ming and Qing dynasties, with som
 
 **齐云塔 (Qiyun Pagoda)**: A 12-tiered brick pagoda behind the main compound, dating to the Jin Dynasty (12th century). One of the oldest intact wooden-format brick pagodas in Henan. Climb to the second level (accessible) for views of the surrounding farmland.
 
-![Luoyang White Horse Temple — The International Temple Gardens](https://images.pexels.com/photos/32939178/pexels-photo-32939178.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The International Temple Gardens
+
+![Shaolin Temple, Henan, Kaifeng](/img/destinations/luoyang-white-horse-temple-guide/2.webp)
 
 One of Baima Si's most distinctive features is its collection of Buddhist temples built in the architectural styles of different Asian countries:
 
@@ -47,11 +47,11 @@ These three "international" pavilions plus the traditional Chinese compound crea
 
 ## The Peony Connection
 
+![Song Mountain Scenery, Henan](/img/destinations/luoyang-white-horse-temple-guide/3.webp)
+
 Luoyang is China's "Peony Capital" (牡丹之都) — the city has cultivated tree peonies since the Tang Dynasty when they were the most prized flowers in China. White Horse Temple's extensive garden grounds contain hundreds of peony plants. During the **Luoyang Peony Festival (洛阳牡丹文化节)**, held annually in April (usually April 10–May 10), the grounds come alive with blooming flowers.
 
 The combination of visiting the ancient temple during peony season — when the spring light is soft, the weather pleasant and the temple grounds carpeted in color — is one of the most special combinations in Henan tourism.
-
-![Luoyang White Horse Temple — Visiting Longmen Grottoes the Same Day](https://images.pexels.com/photos/34932052/pexels-photo-34932052.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Visiting Longmen Grottoes the Same Day
 

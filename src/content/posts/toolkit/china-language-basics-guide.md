@@ -11,7 +11,7 @@ tags:
   - beginners
   - practical
 description: "The 30 most useful Chinese phrases for tourists — not a language course, but the specific phrases that genuinely help (ordering food, asking prices, saying thanks, getting a taxi, saying you don't understand). Pronunciation guide in pinyin, the four tones explained simply, and why even attempting a few words makes a significant difference to how people treat you."
-ogImage: "https://images.pexels.com/photos/18101014/pexels-photo-18101014.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-language-basics-guide/cover.webp"
 ---
 
 You do not need to speak Mandarin to travel China — plenty of people manage fine without it. But the experience of trying even five or six words in Chinese is transformative. Faces that were neutral or guarded light up. Someone who was about to shrug and walk away tries twice as hard to help you. The effort, however imperfect the pronunciation, signals respect, and Chinese people respond to that with genuine warmth.
@@ -21,6 +21,8 @@ This isn't a language course. These are the specific phrases that actually come 
 ## Table of contents
 
 ## Understanding the Tones (Without Getting Lost in Theory)
+
+![Huanghuachengshui Great Wall Scenery, Beijing](/img/toolkit/china-language-basics-guide/1.webp)
 
 Mandarin has four tones — the pitch contour of a syllable changes its meaning. The classic example: "mā" (妈, mother) vs "mǎ" (马, horse). Getting tones wrong means people may not understand you, but context usually bridges the gap when you're pointing at things or in an obvious situation.
 
@@ -137,6 +139,8 @@ These are worth memorising — prices, train times, and room numbers all use the
 (Liǎng is used for "two of something" in speech; èr is for counting/numbers.)
 
 ## Useful Apps for Language Help
+
+![Qiannian Great Wall Lao City Wall](/img/toolkit/china-language-basics-guide/2.webp)
 
 - **Pleco:** Offline Chinese dictionary with character recognition — photograph a Chinese character and get the meaning. Free and invaluable.
 - **Google Translate or Baidu Translate:** Camera translation works well for menus and signs. Google Translate works but requires a VPN; Baidu Translate works without one.

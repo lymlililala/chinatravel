@@ -11,14 +11,14 @@ tags:
   - nature
   - culture
 description: "Complete guide to the Kunming Stone Forest (Shilin) — the different park zones, how to avoid the crowds, the Sani minority (Yi sub-group) heritage, Torch Festival timing, and how to combine with other Kunming area sights."
-ogImage: "https://images.pexels.com/photos/5505096/pexels-photo-5505096.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/kunming-stone-forest-guide/cover.webp"
 ---
 
 The Stone Forest (石林, Shilin) — 90km east of Kunming — is a 2.7 million-year-old karst limestone formation covering 400 square kilometres, with the densest cluster of pillars in the main scenic area rising 10–30 metres above the forest floor. The formations are the Sani people's (撒尼人, a branch of the Yi nationality) ancestral homeland — their cultural mythology is embedded in the stone formations, many of which have names from Sani legends.
 
-![Kunming Stone Forest (Shilin) — The Main Scenic Area](https://images.pexels.com/photos/35410604/pexels-photo-35410604.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Main Scenic Area
+
+![Yuanmoulangbapu Earth Forest Scenery, Yunnan](/img/destinations/kunming-stone-forest-guide/1.webp)
 
 The core scenic area (大石林) covers 80 hectares of densest pillar formations. Paths wind between formations that close overhead in some sections, creating cathedral-like spaces. The most photographed formation is Ashima (阿诗玛) — a natural stone resembling a young Sani woman in profile, named for the folk heroine of the Sani love story sung throughout Yunnan.
 
@@ -26,17 +26,17 @@ The core scenic area (大石林) covers 80 hectares of densest pillar formations
 
 **Small Stone Forest (小石林)**: The adjacent smaller formation area is less crowded and has better Sani cultural presentation — traditional performance spaces, Sani embroidery workshops, and more direct contact with Sani community members who still work in the area.
 
-![Kunming Stone Forest (Shilin) — Ticket System](https://images.pexels.com/photos/19769031/pexels-photo-19769031.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Ticket System
+
+![Wumao Earth Forest Scenery, Kunming](/img/destinations/kunming-stone-forest-guide/2.webp)
 
 Entry: ¥175 for main scenic area. Combination tickets including secondary sites available. Book online in advance to avoid queues.
 
 **The park is large**: Allow 3–4 hours minimum for the main scenic area circuit.
 
-![Kunming Stone Forest (Shilin) — Sani Culture at the Stone Forest](https://images.pexels.com/photos/36907620/pexels-photo-36907620.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Sani Culture at the Stone Forest
+
+![Dashanshenchu Red Soil Gengdi, Yunnan](/img/destinations/kunming-stone-forest-guide/3.webp)
 
 The Sani people have inhabited this landscape for centuries and maintain a distinctive cultural tradition — embroidery, music, and the Yi Torch Festival (彝族火把节) are most visible to visitors.
 

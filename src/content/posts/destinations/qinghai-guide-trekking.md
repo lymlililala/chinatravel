@@ -13,7 +13,7 @@ tags:
   - nature
   - plateau
 description: "Qinghai is one of the world's great wilderness trekking destinations — the Tibetan Plateau's highest and most remote terrain, containing the sources of the Yangtze, Yellow and Mekong rivers, the protected Kekexili no-man's-land of the Changtang, and some of the most challenging high-altitude hiking available to non-technical trekkers. This 2026 guide covers permit requirements, key trekking areas, altitude acclimatisation, logistics and essential safety information."
-ogImage: "https://images.pexels.com/photos/1486911/pexels-photo-1486911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/qinghai-guide-trekking/cover.webp"
 ---
 
 ## Table of contents
@@ -26,7 +26,7 @@ This guide is for serious trekkers. If you're looking for a comfortable Qinghai 
 
 ## Understanding Altitude in Qinghai
 
-![Qinghai Trekking — Understanding Altitude in Qinghai](https://images.pexels.com/photos/31404934/pexels-photo-31404934.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Singing Sand Dunes Scenery, Dunhuang](/img/destinations/qinghai-guide-trekking/1.webp)
 
 ### The Acclimatisation Imperative
 
@@ -104,9 +104,9 @@ The grasslands around Zhiduo County (治多县) — one of the highest inhabited
 
 **Accommodation:** Basic Tibetan-run guesthouses in Zhiduo town; ¥80–¥120/night ($11–$17). Meals available at very limited options.
 
-![Qinghai Trekking — Essential Logistics](https://images.pexels.com/photos/6170142/pexels-photo-6170142.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Essential Logistics
+
+![Geermuwuzi Lake Scenery, Qinghai](/img/destinations/qinghai-guide-trekking/2.webp)
 
 ### Getting to the Trekking Areas
 
@@ -127,6 +127,8 @@ Standard travel insurance does not cover high-altitude trekking in most cases. S
 
 ## What to Pack
 
+![Hu Natural Scenery, Qinghai](/img/destinations/qinghai-guide-trekking/3.webp)
+
 **Clothing:**
 - Down jacket (rated to at least -10°C) even in summer
 - Waterproof shell jacket and trousers
@@ -145,8 +147,6 @@ Standard travel insurance does not cover high-altitude trekking in most cases. S
 - Ibuprofen and paracetamol for altitude headache
 - Oral rehydration salts
 - First aid kit
-
-![Qinghai Trekking — Best Trekking Season](https://images.pexels.com/photos/877263/pexels-photo-877263.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Best Trekking Season
 

@@ -11,7 +11,7 @@ tags:
   - nature
   - south-china
 description: "The complete Guilin guide — why the city itself is just a transit hub and the scenery is along the Li River, the cruise from Guilin to Yangshuo (a genuine must-do, not just for tourists), the Longji Rice Terraces 2 hours north, the Reed Flute Cave, the Two Rivers and Four Lakes light show, and the question of whether to base yourself in Guilin or Yangshuo."
-ogImage: "https://images.pexels.com/photos/24415073/pexels-photo-24415073.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guilin-complete-guide/cover.webp"
 ---
 
 The landscape around Guilin is one of the most recognized natural images in the world — those steep limestone karst peaks rising abruptly from flat river plains, reflected in the Li River. It appears on the back of the Chinese 20-yuan note. It has featured in countless Chinese paintings, films, and tourism advertisements for decades. It also exists exactly as advertised, which is unusual.
@@ -22,7 +22,7 @@ The important thing to understand before visiting is that Guilin city itself is 
 
 ## The Li River Cruise (漓江游船)
 
-![Guilin — The Li River Cruise (漓江游船)](https://images.pexels.com/photos/37996852/pexels-photo-37996852.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Ludiyan Karst Cave, Guilin](/img/destinations/guilin-complete-guide/1.webp)
 
 The Li River cruise from Guilin to Yangshuo is one of the genuinely non-overrated "classic" experiences in Chinese tourism. The 4-hour journey passes through 83km of karst scenery that escalates in drama as you move downstream — the peaks become taller and more isolated, the reflections in the river clearer, the light increasingly theatrical.
 
@@ -74,8 +74,6 @@ The cave is about 500 metres long and has been decorated with multicoloured ligh
 
 **Alternative:** The less-visited **Seven Star Cave (七星岩)** in Seven Star Park (七星公园) is larger and slightly less illuminated; entry ¥75 for the park, ¥50 more for the cave.
 
-![Guilin — Two Rivers and Four Lakes Night Show (两江四湖)](https://images.pexels.com/photos/16792621/pexels-photo-16792621.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Two Rivers and Four Lakes Night Show (两江四湖)
 
 Guilin's city centre has been developed around a scenic water circuit — the Li River, Peach Blossom River, and four interconnected lakes — with evening illuminations and boat rides.
@@ -85,6 +83,8 @@ Guilin's city centre has been developed around a scenic water circuit — the Li
 **The show:** The illuminations are professional — lit bridges, pagodas, and occasional light-and-music performances at key points. A pleasant evening activity.
 
 ## Elephant Trunk Hill (象鼻山)
+
+![Yulong River Scenery, Guangxi, Guilin](/img/destinations/guilin-complete-guide/2.webp)
 
 The most-photographed karst peak within Guilin city itself: a rock formation that has eroded into the shape of an elephant drinking from the river. It's modest by the standards of the surrounding countryside scenery, but its position in the city and its recognizability as a symbol make it an obligatory photo stop.
 
@@ -107,8 +107,6 @@ This is the key strategic question for most visitors.
 
 **The honest answer:** Most visitors benefit from spending 1–2 nights in Guilin and 2–3 nights in Yangshuo, with the Li River cruise connecting them (arriving in Yangshuo by boat, returning to Guilin by bus or taxi for departure).
 
-![Guilin — Getting to Guilin](https://images.pexels.com/photos/7394077/pexels-photo-7394077.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting to Guilin
 
 **By air:** Guilin Liangjiang International Airport (KWL) has direct flights from most major Chinese cities (Shanghai 2 hours, Beijing 2.5 hours, Shenzhen 1 hour). Excellent connections.
@@ -121,6 +119,8 @@ This is the key strategic question for most visitors.
 **From Guilin North Station to city centre:** Taxi (¥30–45, 30 minutes) or Bus 100.
 
 ## Getting Around Guilin
+
+![Liu River Scenery](/img/destinations/guilin-complete-guide/3.webp)
 
 Guilin's main attractions are spread out — a combination of city buses, taxis, and day tour vehicles is the practical approach. Didi operates throughout the city.
 

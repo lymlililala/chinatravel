@@ -1,7 +1,7 @@
 ---
 title: "Ganden Monastery Sunrise Trek: Tibet's Most Dramatic Pilgrim Circuit"
 description: "Complete guide to trekking the Ganden Kora pilgrim circuit near Lhasa — one of Tibet's most sacred walks with sunrise views over the Kyichu Valley, semi-ruined monastery buildings, meeting Tibetan pilgrims, and experiencing early morning Tibetan Buddhist ritual at high altitude."
-ogImage: "https://images.pexels.com/photos/34644902/pexels-photo-34644902.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/tibet-ganden-monastery-sunrise-trek/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Tibet"
 tags: ["tibet", "ganden-monastery", "ganden-kora", "trekking", "pilgrimage", "sunrise", "lhasa", "tibetan-buddhism", "altitude"]
@@ -15,9 +15,9 @@ For Tibetan Buddhists, Ganden is one of the holiest sites in the world — the f
 
 ---
 
-![Ganden Monastery Sunrise Trek — The Route from Lhasa](https://images.pexels.com/photos/165169/pexels-photo-165169.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Route from Lhasa
+
+![Spectacular Ali Scenery, Tibet](/img/destinations/tibet-ganden-monastery-sunrise-trek/1.webp)
 
 ### Getting There
 
@@ -33,9 +33,9 @@ All visitors to Tibet (including Chinese citizens from outside Tibet) require a 
 
 ---
 
-![Ganden Monastery Sunrise Trek — The Ganden Kora (Circuit)](https://images.pexels.com/photos/5186422/pexels-photo-5186422.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Ganden Kora (Circuit)
+
+![Renwen Natural Landscape, Tibet](/img/destinations/tibet-ganden-monastery-sunrise-trek/2.webp)
 
 The **kora** — a clockwise circumambulation of a sacred site — is the primary form of Buddhist merit practice at Tibetan sites. The Ganden Kora begins and ends at the monastery's main gate, circuits the entire ridge on a path worn into the rock over 600 years of pilgrims' footsteps, and takes approximately **2 hours at a comfortable walking pace**.
 
@@ -59,8 +59,6 @@ The **kora** — a clockwise circumambulation of a sacred site — is the primar
 
 ---
 
-![Ganden Monastery Sunrise Trek — The Monastery Complex](https://images.pexels.com/photos/17987158/pexels-photo-17987158.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Monastery Complex
 
 ### Tsongkhapa's Tomb
@@ -82,6 +80,8 @@ A small chapel dedicated to the deity Namgyelma (Usnisa Vijaya), known for exten
 ---
 
 ## Sunrise on the Kora
+
+![Mount Everest Peak Scenery, Tibet](/img/destinations/tibet-ganden-monastery-sunrise-trek/3.webp)
 
 For the most profound experience of Ganden, arrive in time to begin the kora at **sunrise (approximately 7:00–7:30 AM in summer; 8:00–8:30 AM in winter)**. At this hour:
 

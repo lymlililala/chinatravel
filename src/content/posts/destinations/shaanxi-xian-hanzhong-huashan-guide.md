@@ -12,7 +12,7 @@ tags:
   - history
   - nature
 description: "Shaanxi Province was the heart of Chinese civilisation for 1,100 years — Xi'an's terracotta warriors and imperial palaces, the vertigo-inducing cliffside trails of Huashan, and the cradle of Silk Road history."
-ogImage: "https://images.unsplash.com/photo-1508804052814-cd3ba865a116?w=1200&q=85"
+ogImage: "/img/destinations/shaanxi-xian-hanzhong-huashan-guide/cover.webp"
 ---
 
 Shaanxi (陕西) served as the imperial capital of China for 13 dynasties — from the Zhou Dynasty through the Tang, a period of 1,100 years. Xi'an (formerly Chang'an, "Eternal Peace") was the eastern terminus of the Silk Road and the world's most populous city during the Tang Dynasty. Today, the province offers one of the world's densest concentrations of historical sites.
@@ -21,7 +21,7 @@ Shaanxi (陕西) served as the imperial capital of China for 13 dynasties — fr
 
 ## Xi'an — Imperial Capital
 
-![Shaanxi — Xi'an — Imperial Capital](https://images.pexels.com/photos/5601601/pexels-photo-5601601.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Qinlingguangtou Mountain Scenery, Xi'an](/img/destinations/shaanxi-xian-hanzhong-huashan-guide/1.webp)
 
 ### Terracotta Warriors (兵马俑) — UNESCO World Heritage
 
@@ -65,9 +65,9 @@ Xi'an's Muslim Quarter reflects 1,300 years of Islam in China — brought along 
 
 ---
 
-![Shaanxi — Huashan Mountain (华山) — China's Most Dangerous Hike](https://images.pexels.com/photos/30109795/pexels-photo-30109795.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Huashan Mountain (华山) — China's Most Dangerous Hike
+
+![Guangren Temple Scenery, Shaanxi, Xi'an](/img/destinations/shaanxi-xian-hanzhong-huashan-guide/2.webp)
 
 Huashan (华山) is one of China's five sacred Taoist mountains — five distinct peaks connected by some of the most vertiginous mountain paths in the world. The **Plank Walk (长空栈道)** is the most famous: a 1-metre-wide plank walkway on iron stakes bolted to a sheer cliff face, with a 2,000-metre drop below.
 
@@ -89,9 +89,9 @@ High-speed train from Xi'an to Huashan North Station (30 minutes, ¥30). Then ca
 
 ---
 
-![Shaanxi — Hanzhong (汉中) — Han Dynasty Origins](https://images.pexels.com/photos/17943576/pexels-photo-17943576.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Hanzhong (汉中) — Han Dynasty Origins
+
+![Datangfurong Garden, Xi'an](/img/destinations/shaanxi-xian-hanzhong-huashan-guide/3.webp)
 
 Hanzhong, in southern Shaanxi, is where Liu Bang raised his army and launched the campaign that established the Han Dynasty (206 BC) — China's most celebrated imperial period that gave the Han Chinese people their name.
 

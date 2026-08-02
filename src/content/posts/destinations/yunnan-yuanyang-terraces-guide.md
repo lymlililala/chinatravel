@@ -1,7 +1,7 @@
 ---
 title: "Yuanyang Rice Terraces: Complete Photography & Travel Guide"
 description: "Everything about visiting Yuanyang's famous Hani rice terraces in Yunnan — best viewpoints, sunrise and sunset photography spots, when the terraces flood (October-April), Hani village life, and practical logistics."
-ogImage: "https://images.pexels.com/photos/37134853/pexels-photo-37134853.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/yunnan-yuanyang-terraces-guide/cover.webp"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/yuanyang-terraces.jpg"
 category: "destinations"
@@ -17,9 +17,9 @@ What makes Yuanyang uniquely photogenic is the seasonal flooding of the terraces
 
 This guide covers how to experience this landscape at its best, with attention to photography conditions, village culture, and practical logistics.
 
-![Yuanyang Rice Terraces — Understanding the Landscape](https://images.pexels.com/photos/37169885/pexels-photo-37169885.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Understanding the Landscape
+
+![Qingkou Rice Terraces Scenery, Yunnan, Yuanyang](/img/destinations/yunnan-yuanyang-terraces-guide/1.webp)
 
 The Hani people began building these terraces over 1,300 years ago, working with the natural topography of the Ailao Mountains to create agricultural land in steep terrain. The engineering is remarkable: a gravity-fed water system draws from forest springs at the mountain summit, distributing water through carved channels to terraces at every elevation. The system works without pumps, based entirely on careful topographic management and communal maintenance.
 
@@ -52,8 +52,6 @@ Less visited than the main cluster; excellent for afternoon and sunset light hit
 
 Arguably the most dramatic of all viewpoints — looking down at a deep valley of terraces from a high ridge. The scale here is extreme; you're looking down hundreds of meters at terraces extending to the valley floor. Less foggy than Duoyishu; better for clear-weather panoramic shots.
 
-![Yuanyang Rice Terraces — The Hani Villages](https://images.pexels.com/photos/37169881/pexels-photo-37169881.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Hani Villages
 
 Three main villages are integrated into the scenic area and offer cultural context for the terrace landscape:
@@ -66,6 +64,8 @@ Three main villages are integrated into the scenic area and offer cultural conte
 
 ## The Hani People and Culture
 
+![Dashanshenchu Red Soil Gengdi, Yunnan](/img/destinations/yunnan-yuanyang-terraces-guide/2.webp)
+
 The Hani (also called Akha in Myanmar and Southeast Asia) are one of Yunnan's 26 recognized ethnic minorities, with a population of approximately 1.7 million in Yunnan. Their language (Hani, part of the Tibeto-Burman family) has no traditional written form; cultural knowledge was transmitted entirely orally and practically until romanization in the 20th century.
 
 **Traditional clothing**: Hani women's traditional dress is distinctive — dark indigo-dyed garments with bright embroidered bands, silver ornaments at the collar and cuffs, and a specific headpiece style that varies by subgroup. In the villages during festivals, women wearing full traditional dress are spectacular.
@@ -74,9 +74,9 @@ The Hani (also called Akha in Myanmar and Southeast Asia) are one of Yunnan's 26
 
 **Daily life**: The agricultural calendar dominates Hani daily life. The terrace-related work schedule is: October-November (flooding terraces for the winter), December-March (most photogenic flooded period), April-May (planting), June-September (growing season, green terraces).
 
-![Yuanyang Rice Terraces — Photography Practical Guide](https://images.pexels.com/photos/11962355/pexels-photo-11962355.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Photography Practical Guide
+
+![Erhai Lake Scenery, Yunnan, Dali](/img/destinations/yunnan-yuanyang-terraces-guide/3.webp)
 
 ### Equipment Recommendations
 

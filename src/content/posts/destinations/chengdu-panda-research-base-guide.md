@@ -22,7 +22,7 @@ faq:
     answer: "Between opening time and about 10 AM. Adult pandas eat their morning bamboo in the early hours and are mostly asleep by late morning; cubs stay playful slightly longer. On hot days over 30°C, many pandas retreat to indoor areas."
   - question: "How do I get to the Chengdu Research Base of Giant Panda Breeding?"
     answer: "Take Metro Line 3 to Panda Base station — about 40 minutes from the city centre, then a 15-minute walk to the entrance. A taxi or DiDi from central Chengdu costs ¥30–50 and takes 25–35 minutes. The base is about 10 km north of Tianfu Square."
-ogImage: "https://images.pexels.com/photos/31639676/pexels-photo-31639676.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/chengdu-panda-research-base-guide/cover.webp"
 ---
 
 The Chengdu Research Base of Giant Panda Breeding (成都大熊猫繁育研究基地) holds more giant pandas than anywhere else on earth. In 2026, the base has over 230 giant pandas plus the smaller and more comedic red pandas. It's a conservation facility first and a tourist attraction second — the science behind the breeding programme is world-class, and the captive population has been instrumental in keeping the species alive.
@@ -33,7 +33,7 @@ For most visitors, it's also the highlight of their Chengdu trip. Giant pandas a
 
 ## When to Visit
 
-![Chengdu Giant Panda Research Base — When to Visit](https://images.pexels.com/photos/6967900/pexels-photo-6967900.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Tianfuguosheyingyi, Sichuan, Chengdu](/img/destinations/chengdu-panda-research-base-guide/1.webp)
 
 **Morning arrival is essential.** Giant pandas are most active in the early hours. By 10am, most adults have eaten their morning bamboo allocation and are sleeping. Cubs remain more active slightly longer, but by 11am the energy level drops significantly.
 
@@ -80,9 +80,9 @@ The base covers about 116 hectares. Walking the full circuit takes 2–3 hours. 
 
 **Panda kitchen:** Some days there are viewing opportunities near the food preparation areas where you can watch bamboo being prepared and distributed.
 
-![Chengdu Giant Panda Research Base — What You'll Actually See](https://images.pexels.com/photos/15855218/pexels-photo-15855218.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## What You'll Actually See
+
+![Tianfuguosheyinger, Sichuan, Chengdu](/img/destinations/chengdu-panda-research-base-guide/2.webp)
 
 **Eating bamboo:** Adults eat 12–14 hours per day. You will see this. A lot of this. It's oddly fascinating — they hold the bamboo with a specialised pseudo-thumb, strip it methodically, and consume it at a pace that seems both deliberate and entirely relaxed.
 
@@ -104,9 +104,9 @@ The base covers about 116 hectares. Walking the full circuit takes 2–3 hours. 
 
 The base offers a Panda Keeper experience where you can spend a morning helping with feeding and habitat maintenance (not animal handling). This is significantly more expensive (¥2,000–4,000) and requires booking many weeks in advance, but it's an extraordinary experience for serious wildlife enthusiasts. Check the official website for current availability and requirements.
 
-![Chengdu Giant Panda Research Base — Getting There](https://images.pexels.com/photos/31639669/pexels-photo-31639669.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting There
+
+![Lugu Lake Ligeban Island Scenery, Sichuan](/img/destinations/chengdu-panda-research-base-guide/3.webp)
 
 **From central Chengdu:**
 - **Metro:** Line 3 to Panda Base (熊猫基地) station — direct, 40 minutes from the city centre, 15-minute walk from station to base entrance

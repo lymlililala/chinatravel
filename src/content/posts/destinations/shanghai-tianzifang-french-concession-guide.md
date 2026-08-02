@@ -12,7 +12,7 @@ tags:
   - neighbourhoods
   - food
 description: "How to explore Shanghai's French Concession — Tianzifang laneways, shikumen architecture, the best café streets, and where to eat, drink, and shop without tourist traps."
-ogImage: "https://images.pexels.com/photos/37238905/pexels-photo-37238905.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/shanghai-tianzifang-french-concession-guide/cover.webp"
 ---
 
 The French Concession is where Shanghai's international personality is most visible and most layered. Between the plane-tree-lined avenues, the art deco apartments, the 1930s jazz-age mansions, and the converted alleyways, this neighbourhood holds more architectural and cultural density per square kilometre than almost anywhere else in Asia.
@@ -23,7 +23,7 @@ Most visitors come for Tianzifang — a warren of converted shikumen alleyways t
 
 ## What Is the French Concession?
 
-![Tianzifang & French Concession Shanghai — What Is the French Concession?](https://images.pexels.com/photos/5858047/pexels-photo-5858047.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Shiji Park, Shanghai](/img/destinations/shanghai-tianzifang-french-concession-guide/1.webp)
 
 The French Concession (法租界, *Fǎ Zūjiè*) was the area of Shanghai under French municipal administration from 1849 to 1943. During its peak in the 1920s–30s, it was a sovereign urban territory within China: French law, French police, French schools, and a mixed population of wealthy Chinese, European and Russian émigrés, and a cosmopolitan business class.
 
@@ -31,9 +31,9 @@ The architectural legacy is extraordinary: French baroque apartment buildings, a
 
 After 1949, the architecture remained largely intact; the social fabric changed completely. Since the 1990s, it has transformed again into Shanghai's most desirable residential and hospitality district.
 
-![Tianzifang & French Concession Shanghai — Tianzifang (田子坊)](https://images.unsplash.com/photo-1595414440701-da000c40df9c?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw1fHx0aWFuemlmYW5nfGVufDB8MHx8fDE3ODE4NzI4Mzd8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
-
 ## Tianzifang (田子坊)
+
+![Yuyuanchenghuang Temple, Shanghai](/img/destinations/shanghai-tianzifang-french-concession-guide/2.webp)
 
 The starting point for most French Concession visitors. Three interconnected shikumen alleyways — Taikang Road lanes 210, 248, and 274 — converted gradually from the late 1990s onward from residential and small manufacturing uses into independent shops, studios, cafés, and restaurants.
 
@@ -52,8 +52,6 @@ Unlike Shanghai's many top-down development projects, Tianzifang grew organicall
 **Food:** The food in Tianzifang itself is adequate but overpriced. A better strategy: have coffee or a snack inside, then eat at one of the restaurants just outside on Taikang Road or nearby Jiaozhou Road.
 
 **Avoid peak hours:** 11 AM–4 PM on weekends in summer is extremely crowded. Either arrive before 10 AM or after 5 PM.
-
-![Tianzifang & French Concession Shanghai — The Broader French Concession: Walking Routes](https://images.pexels.com/photos/8350083/pexels-photo-8350083.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Broader French Concession: Walking Routes
 
@@ -87,6 +85,8 @@ Walking south from Wukang Mansion along Wukang Road: Spanish baroque, Norman Got
 **Ferguson Lane (Wuyuan Road area):** A small cluster of international restaurants and upscale Chinese cuisine in a courtyard setting. Good for a more formal lunch or dinner.
 
 ## What the French Concession Does Best
+
+![Dishini Architecture Scenery, Shanghai](/img/destinations/shanghai-tianzifang-french-concession-guide/3.webp)
 
 **Coffee culture:** Shanghai, led by the French Concession, has one of the most sophisticated specialty coffee scenes in the world. The concentration of independent roasters within the neighbourhood is remarkable — **Manner Coffee** (now a Shanghai chain) was founded here; **Seesaw**, **Confucius Coffee**, and dozens of smaller operations continue to push quality.
 

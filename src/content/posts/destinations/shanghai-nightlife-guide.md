@@ -11,7 +11,7 @@ tags:
   - food
   - urban
 description: "Shanghai's world-class nightlife — the hidden speakeasy bars tucked behind bookshops and dry-cleaners in the French Concession, rooftop bars along the Bund (Bar Rouge is the classic, Flair is newer), craft beer in Jing'an, Yuyintang for indie and metal bands, and where to eat after midnight. Shanghai after dark explained properly."
-ogImage: "https://images.pexels.com/photos/35919936/pexels-photo-35919936.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/shanghai-nightlife-guide/cover.webp"
 ---
 
 Shanghai has a legitimate claim to being Asia's best nightlife city. The combination of a large international population, a local bar and restaurant culture that takes hospitality seriously, a music scene that attracts global touring acts, and a physical urban environment made for walking at night — the French Concession's tree-lined lanes look extraordinarily good after dark — makes the city genuinely compelling after sunset. This guide cuts through the obvious tourist options to what actually makes Shanghai nights worth staying up for.
@@ -20,7 +20,7 @@ Shanghai has a legitimate claim to being Asia's best nightlife city. The combina
 
 ## The French Concession Speakeasy Scene
 
-![Shanghai Nightlife — The French Concession Speakeasy Scene](https://images.pexels.com/photos/22601529/pexels-photo-22601529.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Shibohui, Shanghai](/img/destinations/shanghai-nightlife-guide/1.webp)
 
 The most distinctively Shanghai bar phenomenon is the speakeasy — bars concealed behind a façade of something else. This isn't merely aesthetic gimmickry. The French Concession architecture, full of converted lane houses and former shopfronts, lends itself naturally to hidden entrances, and Shanghai's bar owners have been creative about what they do with them.
 
@@ -44,8 +44,6 @@ The **Bund** (外滩) waterfront, facing the Lujiazui skyline across the Huangpu
 
 **Budget approach:** Buy a drink at a rooftop bar for the view, spend the rest of the night in the French Concession where the same quality cocktail costs ¥60-90 instead of ¥180.
 
-![Shanghai Nightlife — Craft Beer and Casual Bars in Jing'an](https://images.pexels.com/photos/17299781/pexels-photo-17299781.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Craft Beer and Casual Bars in Jing'an
 
 **Jing'an District** has become Shanghai's most accessible neighbourhood for the kind of mid-range bar scene where you just want a good beer in good surroundings without paying Bund prices or navigating speakeasy theatrics.
@@ -60,6 +58,8 @@ The **Bund** (外滩) waterfront, facing the Lujiazui skyline across the Huangpu
 
 ## Live Music: Yuyintang and the Underground Scene
 
+![Shiji Park, Shanghai](/img/destinations/shanghai-nightlife-guide/2.webp)
+
 **Yuyintang** (育音堂) in the former French Concession is Shanghai's answer to Beijing's Yugong Yishan — a mid-sized venue (capacity ~500) that books indie, metal, electronic, and experimental acts. Shows most nights. Tickets ¥60-200. This is where you find international touring acts at the smaller end of the scale and the best Chinese indie bands.
 
 **MAO Livehouse Shanghai** — sister venue to the Beijing one, slightly larger. Books bigger domestic acts and some mid-tier international bands.
@@ -68,9 +68,9 @@ The **Bund** (外滩) waterfront, facing the Lujiazui skyline across the Huangpu
 
 **LiveHouse on Hengshan Road area** — there are several small venues in the bars and lanes around Hengshan Road that host informal performances — jazz nights, acoustic sets, folk music. Entry is often free or minimal.
 
-![Shanghai Nightlife — The French Concession After Dark: A Walking Route](https://images.pexels.com/photos/32445253/pexels-photo-32445253.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The French Concession After Dark: A Walking Route
+
+![Yuyuanchenghuang Temple, Shanghai](/img/destinations/shanghai-nightlife-guide/3.webp)
 
 The most satisfying Shanghai evening starts with dinner in the French Concession (see the food guide), then walks.
 

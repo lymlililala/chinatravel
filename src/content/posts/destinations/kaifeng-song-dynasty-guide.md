@@ -12,7 +12,7 @@ tags:
   - culture
   - central-china
 description: "Kaifeng — the Song Dynasty capital (960-1127 AD), one of the world's most prosperous cities of the medieval era. The Iron Pagoda (铁塔), Judge Bao's Qingming Garden (a reconstruction of the famous Song Dynasty painting), the Dragon Pavilion Park, and the extraordinarily lively night market that has made Kaifeng famous in China for street food."
-ogImage: "https://images.pexels.com/photos/37519014/pexels-photo-37519014.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/kaifeng-song-dynasty-guide/cover.webp"
 ---
 
 In 1000 AD, Kaifeng was probably the largest city in the world. As capital of the Northern Song Dynasty, it had a population estimated at over one million, sophisticated commercial streets, licensed entertainment districts, and the kind of urban density that wouldn't appear in Europe for another 700 years. The famous scroll painting "Along the River During the Qingming Festival" (清明上河图) — showing Kaifeng's harbour district during a spring festival — is one of the great documentary records of medieval urban life anywhere.
@@ -25,7 +25,7 @@ That buried history — and the extraordinary surviving street food culture — 
 
 ## The Iron Pagoda (铁塔)
 
-![Kaifeng — The Iron Pagoda (铁塔)](https://images.pexels.com/photos/10738311/pexels-photo-10738311.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Erqishuang Pagoda, Zhengzhou](/img/destinations/kaifeng-song-dynasty-guide/1.webp)
 
 The Iron Pagoda is Kaifeng's most recognizable landmark — an 11th-century octagonal tower of 13 storeys, 55 metres tall, built from glazed bricks that have turned the dark reddish-brown colour of iron (hence the name; it's not actually iron). The glazed tile panels covering the exterior are carved with Buddhist figures, flowers, animals, and patterns in over 50 different designs.
 
@@ -56,8 +56,6 @@ The park is pleasant for walking and relatively uncrowded. The Song Dynasty City
 **Entry fee:** ¥40 per person  
 **Opening hours:** 8:00am–6:00pm
 
-![Kaifeng — Judge Bao's Inkstone Lake (包公湖)](https://images.pexels.com/photos/37510230/pexels-photo-37510230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Judge Bao's Inkstone Lake (包公湖)
 
 Bao Zheng (包拯, known to generations of Chinese TV viewers as "Judge Bao") was a famously incorruptible Song Dynasty official who served in Kaifeng. The lake area contains his memorial hall, garden, and the reconstructed official residence where he held court.
@@ -68,6 +66,8 @@ The story of Judge Bao is deeply embedded in Chinese popular culture — he repr
 **Opening hours:** 8:30am–5:30pm
 
 ## Kaifeng's Night Market (夜市)
+
+![Longmen Grottoes, Henan, Luoyang](/img/destinations/kaifeng-song-dynasty-guide/2.webp)
 
 Kaifeng has become genuinely famous across China for its night market food culture. The main area is **Gulou Night Market (鼓楼夜市)** in the centre of town and the adjacent alley system, which comes alive from around 6pm and runs until midnight.
 
@@ -88,8 +88,6 @@ Kaifeng had a Jewish community from approximately the 10th century — almost ce
 
 The site of the original synagogue (now a well) is marked near the city centre. A small exhibition in the Cultural Museum documents this extraordinary community, and there are efforts by some descendants to re-establish a Jewish cultural identity in Kaifeng.
 
-![Kaifeng — Getting to Kaifeng](https://images.pexels.com/photos/6733646/pexels-photo-6733646.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting to Kaifeng
 
 **From Zhengzhou:** High-speed train, about 25–30 minutes, ¥30–45. This is the primary connection.  
@@ -99,6 +97,8 @@ The site of the original synagogue (now a well) is marked near the city centre. 
 Kaifeng's high-speed station is **Kaifeng North Station (开封北站)**, about 5km from the city centre — take Metro Line 1 or a taxi (¥15–20) from the station.
 
 ## How Long to Spend
+
+![Bali Valley Scenery, Henan](/img/destinations/kaifeng-song-dynasty-guide/3.webp)
 
 **Day trip from Zhengzhou or Luoyang:** Entirely feasible — Iron Pagoda, Dragon Pavilion, and Gulou Night Market cover a full day.
 

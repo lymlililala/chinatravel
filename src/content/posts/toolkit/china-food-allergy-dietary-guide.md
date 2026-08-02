@@ -13,7 +13,7 @@ tags:
   - practical
   - health
 description: "Managing food allergies and dietary restrictions in China requires specific preparation — the cuisine uses many hidden allergens, language barriers are real, and cross-contamination is common. This 2026 guide covers how to communicate food allergies in Chinese, specific risks in Chinese cooking, halal dining, vegetarian options, resources for allergy cards and which cuisines are safest for each restriction type."
-ogImage: "https://images.pexels.com/photos/28699434/pexels-photo-28699434.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-food-allergy-dietary-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -21,6 +21,8 @@ ogImage: "https://images.pexels.com/photos/28699434/pexels-photo-28699434.jpeg?a
 Navigating food restrictions in China requires more preparation than in many other destinations. Chinese cooking uses a complex variety of ingredients including many common allergens (peanuts, shellfish, wheat, sesame, soy), often in ways that aren't immediately visible in a dish. However, with preparation and the right communication tools, people with serious food allergies or dietary restrictions can eat safely and well throughout China.
 
 ## Common Allergens in Chinese Cooking: The Key Risks
+
+![Canglangting, Suzhou](/img/toolkit/china-food-allergy-dietary-guide/1.webp)
 
 ### Peanuts (花生 / huāshēng)
 
@@ -149,6 +151,8 @@ Lactose intolerance is extremely common among Chinese people and standard Chines
 **Risk:** Western-style bakeries and international chain restaurants in major cities do use dairy. Check labels at supermarkets.
 
 ## Creating Allergy Cards
+
+![River Scenery, Suzhou](/img/toolkit/china-food-allergy-dietary-guide/2.webp)
 
 **Allergy Cards China** is a service (allergycard.com) that produces professionally translated laminated allergy cards in Chinese for common allergies. These are small laminated cards you hand to servers or kitchen staff. They communicate your allergy in clear, unambiguous Chinese.
 

@@ -12,14 +12,14 @@ tags:
   - horse-festival
   - tibetan-buddhism
 description: "Venture to Yushu in southern Qinghai, a Tibetan cultural heartland at 3,700 metres where the annual Jyekundo Horse Festival transforms the plateau into a thundering spectacle of horsemanship, where ancient monasteries cling to dramatic mountainsides, and where the 2010 earthquake has given way to remarkable rebuilding. This 2026 guide covers the horse festival, key monasteries, the source of three great rivers, local cuisine, altitude advice, and practical transport information for reaching one of the most culturally authentic Tibetan areas accessible without special permits."
-ogImage: "https://images.pexels.com/photos/6893267/pexels-photo-6893267.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/qinghai-yushu-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## Yushu — Tibet Without the Permits
 
-![Yushu Qinghai — Yushu — Tibet Without the Permits](https://images.pexels.com/photos/9868521/pexels-photo-9868521.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Singing Sand Dunes Scenery, Dunhuang](/img/destinations/qinghai-yushu-guide/1.webp)
 
 Yushu (玉树, Jyekundo in Tibetan) sits at 3,700 metres on the Qinghai-Tibet Plateau, in a river valley where three of Asia's great rivers — the Yangtze, Mekong, and Salween — begin their long journeys to the sea. It's one of the most culturally Tibetan places in China, with a population that is over 95% Tibetan, yet it doesn't require the special permits needed for the Tibet Autonomous Region. For travellers seeking authentic Tibetan culture without bureaucratic complications, Yushu is unmatched.
 
@@ -52,8 +52,6 @@ The festival has been held for centuries, rooted in the Tibetan tradition of cel
 - **Photography:** The festival is extraordinarily photogenic. Always ask permission before photographing individuals — a smile and gesture toward your camera usually works. Some people may request a small payment.
 - **Altitude:** At 3,700 metres, take it easy. Don't rush around, stay hydrated, and be prepared for altitude headaches.
 
-![Yushu Qinghai — Key Monasteries and Religious Sites](https://images.pexels.com/photos/34765189/pexels-photo-34765189.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Key Monasteries and Religious Sites
 
 ### Jiana Mani Stone Pile (嘉那嘛呢石经城)
@@ -80,6 +78,8 @@ About 20 km from Yushu, this temple honours the Tang Dynasty princess who marrie
 
 ## The Source of Three Rivers
 
+![Geermuwuzi Lake Scenery, Qinghai](/img/destinations/qinghai-yushu-guide/2.webp)
+
 ### Sanjiangyuan National Park
 
 Yushu sits within the Sanjiangyuan (三江源, "Source of Three Rivers") region — the headwaters of the Yangtze, Mekong (Lancang), and Salween (Nu) rivers. This is one of the most ecologically important areas on earth, and in 2021 it was designated as one of China's first batch of national parks.
@@ -87,8 +87,6 @@ Yushu sits within the Sanjiangyuan (三江源, "Source of Three Rivers") region 
 **Tuotuo River — Source of the Yangtze:** About 400 km from Yushu, accessible via a long and challenging road journey. The "source" is actually a series of glacial streams on the Tibetan plateau. This is serious expedition territory — not a casual day trip.
 
 **More accessible option:** The Lancang (Mekong) River valley near Yushu is stunning and easily visited. A day trip from Yushu along the river valley takes you through dramatic gorges and nomad pastures. Hire a car for ¥400-600 ($55-83 USD) for the day.
-
-![Yushu Qinghai — Yushu Cuisine](https://images.pexels.com/photos/27588106/pexels-photo-27588106.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Yushu Cuisine
 
@@ -113,6 +111,8 @@ The food in Yushu is unapologetically Tibetan — hearty, calorie-dense, and des
 **Jyekundo Kitchen:** A popular restaurant serving both Tibetan and Sichuan dishes. The yak hotpot is excellent. Meals ¥30-60 ($4.20-8.30 USD) per person.
 
 ## Practical Information
+
+![Hu Natural Scenery, Qinghai](/img/destinations/qinghai-yushu-guide/3.webp)
 
 ### Getting to Yushu
 

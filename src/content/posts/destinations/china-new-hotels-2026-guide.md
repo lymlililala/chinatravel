@@ -12,7 +12,7 @@ tags:
   - "shanghai"
   - "new hotels"
 description: "The best new hotels in China 2026 — from the Dali EDITION on Erhai Lake to Shanghai's new forest Kimpton, plus Beihai, Xiamen and Qiandao Lake openings."
-ogImage: "https://images.pexels.com/photos/297985/pexels-photo-297985.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/china-new-hotels-2026-guide/cover.webp"
 faq:
   - question: "What are the best new hotels in Shanghai in 2026?"
     answer: "The standout new Shanghai opening of 2026 is the Kimpton Shanghai Jiukeshu, which opened on June 30 in the Fengxian district. It's integrated with the Jiukeshu Future Arts Center and surrounded by forest, with a spa, meditation sessions, and rooms built from natural materials like linen and wood."
@@ -36,8 +36,9 @@ China's hotel scene is evolving at a breathtaking pace. The new hotels in China 
 
 ## Top New Openings: A Curated Selection
 
+![Simatai Great Wall, Beijing](/img/destinations/china-new-hotels-2026-guide/1.webp)
+
 ### Dali EDITION: A Contemporary Courtyard on the Shore of Erhai
-![Dali EDITION hotel with view of Cangshan mountain and Erhai lake](https://images.pexels.com/photos/36552433/pexels-photo-36552433.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Perched on the slopes of Cangshan Mountain (苍山, Cāng Shān) with sweeping views of Erhai Lake (洱海, ěr Hǎi), the **Dali EDITION** (大理艾迪逊酒店) opened on June 18, 2026, as Marriott International's 80th luxury property in Greater China. This is only the second EDITION resort in China, following the iconic Sanya property. The design philosophy, "contemporary courtyard," weaves local stone and timber into a minimalist aesthetic that feels both rooted and global. Beyond the 234 rooms, the hotel curates experiences around nature exploration, outdoor sports, and wellness — think guided hikes through Cangshan's azalea forests and sunrise yoga by the lake.
 
@@ -45,7 +46,6 @@ Perched on the slopes of Cangshan Mountain (苍山, Cāng Shān) with sweeping v
 - **Best for:** Design lovers, couples, and anyone seeking a serene escape that still offers cultural depth.
 
 ### SOWN Hotel Beihai: An Artistic Sanctuary by the Silver Beach
-![SOWN Hotel Beihai red-brick building with pool and sea view](https://images.pexels.com/photos/297985/pexels-photo-297985.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 In Beihai (北海, Běi Hǎi), Guangxi, the **SOWN Hotel** (北海颂酒店) is a breath of fresh air. Opened in mid-2026, this 80-key property is part of a larger art district that includes a 3,000-square-meter gallery space and a curated market (SOWN Market) featuring local designers, coffee roasters, and Guangxi intangible heritage workshops. The hotel's red-brick architecture evokes a Mediterranean village, but the soul is pure Guangxi: slow, warm, and art-inflected. Rooms start at around ¥1,600 per night, with sea-view suites featuring private soaking tubs.
 
@@ -53,7 +53,6 @@ In Beihai (北海, Běi Hǎi), Guangxi, the **SOWN Hotel** (北海颂酒店) is 
 - **Don't miss:** The hotel's "Wujiao Theater" (无礁剧场) hosts live music and film screenings right on the beach.
 
 ### Voco SM City Xiamen: Urban Comfort with a Local Twist
-![Voco hotel Xiamen SM City exterior](https://images.pexels.com/photos/1578336/pexels-photo-1578336.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 IHG's **Voco SM City Xiamen** (厦门SM城市广场voco酒店) opened on June 1, 2026, in the heart of Xiamen's commercial district. Connected directly to SM City Mall, it's a perfect base for shoppers and business travelers. The hotel introduces Voco's own coffee brand, Birdie Bean, and features a rooftop bar with views of the city skyline. Rooms are cozy and pet-friendly, with rates starting around ¥800.
 
@@ -61,7 +60,6 @@ IHG's **Voco SM City Xiamen** (厦门SM城市广场voco酒店) opened on June 1,
 - **Best for:** First-time visitors to Xiamen who want convenience and local flavor.
 
 ### InterContinental Resort Qiandao Lake Yanshan: A Family Paradise with a Private Lagoon
-![InterContinental Qiandao Lake Yanshan resort aerial view](https://images.pexels.com/photos/17754422/pexels-photo-17754422.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Nestled on the shores of **Qiandao Lake** (千岛湖, Qiān Dǎo Hú) in Zhejiang, the **InterContinental Resort Qiandao Lake Yanshan** (洲至奢选千岛湖燕山度假酒店) opened in mid-2026. This sprawling resort boasts a 4,000-square-meter water乐园 (water park) with a C919-themed splash zone, a 23-meter-long simulated aircraft, and a wave pool for kids. There's also a pickleball court, an infinity pool overlooking the lake, and a futuristic indoor playground. The design draws on Song dynasty aesthetics, with courtyards, pavilions, and a private swan lake.
 
@@ -69,7 +67,6 @@ Nestled on the shores of **Qiandao Lake** (千岛湖, Qiān Dǎo Hú) in Zhejian
 - **Family tip:** The resort offers a kids' club and babysitting services, and the water park is included in the room rate.
 
 ### Kimpton Shanghai Jiukeshu: A Forest Retreat in the City
-![Kimpton Shanghai Jiukeshu hotel lobby with forest view](https://images.pexels.com/photos/36064155/pexels-photo-36064155.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Shanghai's second Kimpton property, the **Kimpton Shanghai Jiukeshu** (上海九棵树艺术中心金普顿酒店), opened on June 30, 2026, in the Fengxian district. The hotel is integrated with the Jiukeshu Future Arts Center, a cultural complex surrounded by forest. Rooms are designed with natural materials like linen and wood, evoking a rural idyll. The "Jiuheng" spa offers eight treatment rooms, meditation sessions, and forest bathing experiences.
 
@@ -88,12 +85,16 @@ Shanghai's second Kimpton property, the **Kimpton Shanghai Jiukeshu** (上海九
 
 ## Getting Around: Practical Tips for Foreign Travelers
 
+![Shanhaiguan Great Wall, Beijing](/img/destinations/china-new-hotels-2026-guide/2.webp)
+
 - **High-speed rail:** China's HSR network connects most major cities. For example, Beijing to Shanghai takes 4.5 hours; Shanghai to Hangzhou, 1 hour. Book tickets via the **12306 app** (available in English) or through travel agents. For foreigners, a passport is required for purchase.
 - **Metro:** In Shanghai, Beijing, and other major cities, metro systems are efficient and English-friendly. Buy a single-journey token or use Alipay's transport card.
 - **Ride-hailing:** **DiDi** is China's Uber. Download the app and link it to Alipay or WeChat Pay. Some cars may have English-speaking drivers, but it's not guaranteed.
 - **Mobile payment:** Alipay and WeChat Pay are ubiquitous. Link your international credit card (Visa, Mastercard) to Alipay before your trip. Cash is still accepted but less common.
 
 ## Best Time to Visit
+
+![Mutianyu Great Wall Scenery, Beijing](/img/destinations/china-new-hotels-2026-guide/3.webp)
 
 - **Dali & Yunnan:** March-May and September-November for mild weather and clear skies. Summer (June-August) is rainy but still pleasant.
 - **Beihai & Guangxi:** October-April for comfortable temperatures. Summer is hot and humid but great for beach lovers.

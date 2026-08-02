@@ -11,16 +11,16 @@ tags:
   - nature
   - photography
 description: "How to photograph Huangshan at its best — the dawn sea of clouds, the specific viewpoints for sunrise, which season gives the most dramatic conditions, how to do the overnight summit stay, and the practical logistics of getting the famous shots."
-ogImage: "https://images.pexels.com/photos/31582901/pexels-photo-31582901.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/huangshan-sunrise-photography-guide/cover.webp"
 ---
 
 Huangshan (黄山, Yellow Mountain) is to Chinese landscape painting what the Eiffel Tower is to French postcards — the definitive image of a cultural tradition. The twisted granite peaks emerging from a sea of cloud, the ancient pine trees clinging to cliff edges, the mist-filtered light: this is the landscape that 3,000 years of Chinese painting has been working from.
 
 For photographers, Huangshan is extraordinary. For travellers visiting without photography focus, it's still one of China's most beautiful physical experiences. This guide covers both.
 
-![Huangshan (Yellow Mountain) Photography — The Overnight Stay for Sunrise](https://images.pexels.com/photos/6294703/pexels-photo-6294703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Overnight Stay for Sunrise
+
+![Wan Sea of Clouds Scenery, Anhui, Foshan](/img/destinations/huangshan-sunrise-photography-guide/1.webp)
 
 The single most important Huangshan decision is whether to do a day trip or stay overnight at the summit.
 
@@ -30,9 +30,9 @@ The single most important Huangshan decision is whether to do a day trip or stay
 
 **The sea of clouds (云海)**: Only visible when the right weather pattern creates cloud at the valley level while the peaks remain above — most common in autumn and spring (October–November and March–May). Summer has significant cloud but also rain; winter has cloud but very cold conditions. The probability of seeing the cloud sea on any given day is roughly 30–40%.
 
-![Huangshan (Yellow Mountain) Photography — The Best Viewpoints](https://images.pexels.com/photos/6294828/pexels-photo-6294828.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Best Viewpoints
+
+![Chuzhoulangya Mountain Scenery](/img/destinations/huangshan-sunrise-photography-guide/2.webp)
 
 ### Lion Peak (狮子峰)
 
@@ -48,9 +48,9 @@ A massive balanced granite boulder balanced on a ridge — the most dramatic iso
 
 The canyon section provides the most vertigo-inducing walking on the mountain — a path cut into the cliff face with cable railings, looking straight down into the canyon where pine trees grow from vertical rock faces. The cable car in the canyon (¥80) descends into the canyon floor for a view from below looking up at the cliff-face pines.
 
-![Huangshan (Yellow Mountain) Photography — Seasonal Photography Conditions](https://images.pexels.com/photos/6294702/pexels-photo-6294702.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Seasonal Photography Conditions
+
+![Tianzhu Mountain Scenery, Anhui](/img/destinations/huangshan-sunrise-photography-guide/3.webp)
 
 **October–November**: The most photographed season. Autumn colour on the lower slopes, frequent sea of clouds, clear air. Busy but not as intense as Golden Week.
 

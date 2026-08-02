@@ -10,6 +10,7 @@ tags:
   - culture
   - destinations
 description: "A guide to Guizhou's extraordinary Miao and Dong ethnic minority cultures — the Silver Festival at Xijiang, the drum towers of Zhaoxing, and the path between villages that brings these living traditions to life without the bus tour experience."
+ogImage: "/img/destinations/guizhou-miao-dong-culture-guide/cover.webp"
 ---
 
 Guizhou Province (贵州) has the highest concentration of ethnic minority cultures of any Chinese province after Yunnan. In the southeast of the province (黔东南), Miao (苗族) and Dong (侗族) peoples maintain living cultural traditions — terraced rice farming, extraordinary silver-work, polyphonic singing, and wooden architecture — in villages that have remained largely outside the mainstream Han-Chinese cultural orbit.
@@ -18,7 +19,7 @@ Guizhou Province (贵州) has the highest concentration of ethnic minority cultu
 
 ## The Miao People and Xijiang (西江千户苗寨)
 
-![Guizhou Miao Dong Villages — The Miao People and Xijiang (西江千户苗寨)](https://images.unsplash.com/photo-1735499131753-2e27cf13aa2d?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw3fHxtaWFvJTIwcGVvcGxlfGVufDB8MHx8fDE3ODE4NDcwODB8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
+![Dong Village Gulou](/img/destinations/guizhou-miao-dong-culture-guide/1.webp)
 
 ### Xijiang: The Thousand-Family Miao Village
 
@@ -37,9 +38,9 @@ The Miao New Year (苗年, Miáo Nián) is celebrated in November (lunar calenda
 
 ---
 
-![Guizhou Miao Dong Villages — The Dong People: Zhaoxing and Chengyang](https://images.pexels.com/photos/37669158/pexels-photo-37669158.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Dong People: Zhaoxing and Chengyang
+
+![Qiandongnanli Dong Village Scenery, Guizhou](/img/destinations/guizhou-miao-dong-culture-guide/2.webp)
 
 ### Zhaoxing (肇兴侗寨)
 
@@ -72,6 +73,8 @@ Guizhou's largest karst cave system (织金洞) is 20km from Zhijin County. The 
 ---
 
 ## Getting Around Qiandongnan
+
+![Zhaoxing Dong Village Scenery, Guizhou](/img/destinations/guizhou-miao-dong-culture-guide/3.webp)
 
 The southeastern Guizhou minority villages require planning — public transport is limited and connections between villages aren't always obvious.
 

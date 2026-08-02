@@ -1,7 +1,7 @@
 ---
 title: "Yuanyang Rice Terraces at Dawn: Photography, Hani Villages & Practical Guide"
 description: "Master a visit to Yuanyang's spectacular Hani rice terraces in Yunnan — the best sunrise viewpoints, how to reach the most photogenic spots, which Hani villages to explore, what to eat, when the terraces flood for maximum reflection, and accommodation near the fields."
-ogImage: "https://images.pexels.com/photos/26068722/pexels-photo-26068722.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/yunnan-yuanyang-rice-terraces-dawn-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Yunnan"
 tags: ["yunnan", "yuanyang", "rice-terraces", "hani-minority", "sunrise", "photography", "UNESCO", "honghe", "dawn-photography"]
@@ -17,9 +17,9 @@ The best experience requires arriving before dawn and staying through the first 
 
 ---
 
-![Yuanyang Rice Terraces at Dawn — Understanding the Hani Terraces](https://images.pexels.com/photos/2173176/pexels-photo-2173176.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Understanding the Hani Terraces
+
+![Qingkou Rice Terraces Scenery, Yunnan, Yuanyang](/img/destinations/yunnan-yuanyang-rice-terraces-dawn-guide/1.webp)
 
 ### 1,300 Years of Civilisation
 
@@ -68,9 +68,9 @@ Named for its resemblance to a tiger's open mouth when viewed from across the va
 
 ---
 
-![Yuanyang Rice Terraces at Dawn — The Hani Villages](https://images.pexels.com/photos/25241731/pexels-photo-25241731.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Hani Villages
+
+![Dashanshenchu Red Soil Gengdi, Yunnan](/img/destinations/yunnan-yuanyang-rice-terraces-dawn-guide/2.webp)
 
 ### Aichun Village (爱春村)
 
@@ -88,6 +88,8 @@ A village elder (部落长) can sometimes be arranged through the tourism office
 
 ## Getting There
 
+![Erhai Lake Scenery, Yunnan, Dali](/img/destinations/yunnan-yuanyang-rice-terraces-dawn-guide/3.webp)
+
 ### From Kunming
 
 **By high-speed train to Jianshui (建水):** The new high-speed rail connects Kunming to Jianshui in 1 hour (¥75). From Jianshui, take a local bus (2.5 hours, ¥40) or hire a car (¥400–¥500 one-way) to Yuanyang New Town.
@@ -101,8 +103,6 @@ A village elder (部落长) can sometimes be arranged through the tourism office
 The viewpoints are spread across 25–35 km of mountain road. **Renting a motorcycle or hiring a driver** from Yuanyang New Town (¥200–¥350/day for a driver-guide who knows all viewpoints) is the most practical approach. The mountain roads are narrow and winding; driving yourself requires strong confidence on single-lane mountain curves.
 
 ---
-
-![Yuanyang Rice Terraces at Dawn — Photography Tips](https://images.pexels.com/photos/37134938/pexels-photo-37134938.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Photography Tips
 

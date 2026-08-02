@@ -12,7 +12,7 @@ tags:
   - waterfall
   - nature
 description: "Chishui in northern Guizhou is one of China's most underrated natural destinations — UNESCO-recognized Danxia red rock formations, vast bamboo sea valleys, and spectacular waterfalls including the four-tier Sidonggou cascade. This 2026 guide covers all major scenic areas, how to get here from Guiyang or Chongqing, best seasons, and practical tips for exploring this extraordinary landscape."
-ogImage: "https://images.pexels.com/photos/8776826/pexels-photo-8776826.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guizhou-chishui-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -23,7 +23,7 @@ Add to this an enormous bamboo sea that covers the surrounding valleys, multiple
 
 ## The Danxia Landscape
 
-![Chishui Guizhou — The Danxia Landscape](https://images.pexels.com/photos/37193108/pexels-photo-37193108.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Chishuida Waterfall Scenery, Guizhou](/img/destinations/guizhou-chishui-guide/1.webp)
 
 Danxia is a type of landscape formed from reddish sandstone that has been eroded into cliffs, towers, ravines, and cave systems over millions of years. Chishui's Danxia is particularly impressive because the formations are still active — the river continues to erode them, creating new cliff faces and exposing fresh red rock. The color is extraordinary: crimson, rust, orange, occasionally purple depending on mineral content and light.
 
@@ -77,8 +77,6 @@ The most dramatic pure Danxia scenery — a massive overhanging red cliff, rough
 
 Less famous than the other areas but with excellent walkable canyon scenery. Trails through narrow red-rock slots with small waterfalls at the base. About 5km of marked trail. ¥60/person.
 
-![Chishui Guizhou — Getting to Chishui](https://images.pexels.com/photos/8776825/pexels-photo-8776825.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting to Chishui
 
 ### From Guiyang (贵阳)
@@ -100,6 +98,8 @@ The drive from Chongqing via the expressway (G76 and then G93) takes about 2.5 h
 
 ## Getting Around Chishui
 
+![Chishuihongshiyegu Danxia Landform Mural Scenery, Guizhou](/img/destinations/guizhou-chishui-guide/2.webp)
+
 The scenic areas are spread across a 30–40km zone around Chishui city. Getting between them requires transport.
 
 **Organized tours**: Most visitors join package tours from Chishui city that cover multiple scenic areas per day. Full-day tours: ¥150–250/person including transport between areas.
@@ -119,6 +119,8 @@ Most visitors base themselves in Chishui City.
 **Bamboo-themed guesthouses**: Several guesthouses inside or near the Bamboo Sea Scenic Area offer accommodation surrounded by bamboo — atmospheric and reasonably priced at ¥150–250/night. Best for photographers who want early morning access.
 
 ## Food in Chishui
+
+![Chishui Landscape, Guizhou](/img/destinations/guizhou-chishui-guide/3.webp)
 
 The local cuisine is influenced by both Guizhou's chilies-and-sour tradition and Sichuan's mala flavors, creating a distinctive Chishui style.
 

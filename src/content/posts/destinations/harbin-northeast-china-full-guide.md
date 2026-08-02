@@ -12,7 +12,7 @@ tags:
   - nature
   - history
 description: "China's northernmost major city comes to life in two spectacular seasons — the world-famous Ice and Snow Festival in January-February and lush summer hiking in pristine wilderness parks."
-ogImage: "https://images.pexels.com/photos/33632413/pexels-photo-33632413.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/harbin-northeast-china-full-guide/cover.webp"
 ---
 
 Harbin (哈尔滨) occupies a special place in China's geography and imagination. This northeastern city sits further north than Moscow and gets cold enough to freeze rivers solid — facts the city has turned into a spectacular annual winter festival that draws visitors from around the world.
@@ -21,7 +21,7 @@ Harbin (哈尔滨) occupies a special place in China's geography and imagination
 
 ## Why Visit Harbin
 
-![Harbin & Northeast China — Why Visit Harbin](https://images.pexels.com/photos/9212612/pexels-photo-9212612.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Fuerjiazhuang Garden, Harbin](/img/destinations/harbin-northeast-china-full-guide/1.webp)
 
 Harbin has two distinct personalities:
 
@@ -29,9 +29,9 @@ Harbin has two distinct personalities:
 
 **Summer (June–August):** Warm, green, and surprisingly lush. The surrounding Manchurian wilderness offers world-class hiking, wildflower meadows, and one of China's most pristine natural environments.
 
-![Harbin & Northeast China — Top Attractions](https://images.pexels.com/photos/36286027/pexels-photo-36286027.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Top Attractions
+
+![Dongtian Scenery, Harbin](/img/destinations/harbin-northeast-china-full-guide/2.webp)
 
 ### Ice and Snow World (冰雪大世界) — Winter Only
 China's most spectacular seasonal event. Enormous illuminated ice castles, towers, and architectural replicas are built from blocks carved from the frozen Songhua River. The centrepiece structures reach 20+ metres in height.
@@ -57,9 +57,9 @@ A Russian Orthodox cathedral completed in 1932 — the largest in the Far East a
 ### Siberian Tiger Park (东北虎林园)
 The world's largest Siberian tiger conservation centre — approximately 100 tigers in large enclosures. Bus tours through the main enclosure (¥100 for bus entry, tigers can approach quite close). Controversial but educational for understanding Siberian tiger conservation challenges.
 
-![Harbin & Northeast China — Summer Northeast China](https://images.pexels.com/photos/36213065/pexels-photo-36213065.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Summer Northeast China
+
+![Suofeiyadajiaotang, Harbin](/img/destinations/harbin-northeast-china-full-guide/3.webp)
 
 ### Mudanjiang and Mirror Lake (镜泊湖)
 A vast caldera lake formed 10,000 years ago by volcanic eruption. The **Underground Forest (地下森林)** — a 100-metre-deep volcanic crater that filled with old-growth forest over millennia — is extraordinary. Mirror Lake's summer camping and hiking is spectacular. Best July–September.

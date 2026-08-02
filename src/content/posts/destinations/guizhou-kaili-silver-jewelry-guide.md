@@ -1,6 +1,7 @@
 ---
 title: "Kaili Guizhou: Miao Silver Jewelry, Traditional Costumes & Market Day Culture"
 description: "Explore Kaili and the Miao villages of Qiandongnan — China's most vibrant ethnic minority craft culture, where intricate silver headdresses can weigh 5kg, weekly village markets are genuinely local, and ancient textile traditions include batik and embroidery passed mother to daughter for generations."
+ogImage: "/img/destinations/guizhou-kaili-silver-jewelry-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Guizhou"
 tags: ["guizhou", "kaili", "miao-culture", "silver-jewelry", "batik", "embroidery", "ethnic-minority", "village-market", "qiandongnan"]
@@ -14,9 +15,9 @@ In the mountain valleys of southeast Guizhou, the **Miao people (苗族)** have 
 
 ---
 
-![Kaili Guizhou — Understanding Miao Silver](https://images.pexels.com/photos/8898774/pexels-photo-8898774.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Understanding Miao Silver
+
+![Dong Village Gulou](/img/destinations/guizhou-kaili-silver-jewelry-guide/1.webp)
 
 ### What It Means
 
@@ -42,9 +43,9 @@ The Kaili area offers genuine purchasing opportunities:
 
 ---
 
-![Kaili Guizhou — Weekly Village Markets (赶集, Gǎnjí)](https://images.pexels.com/photos/19126505/pexels-photo-19126505.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Weekly Village Markets (赶集, Gǎnjí)
+
+![Diaojiaolou Scenery](/img/destinations/guizhou-kaili-silver-jewelry-guide/2.webp)
 
 The most authentic way to experience Miao culture in Qiandongnan is through the **weekly rotating market** system — each village in the region holds a market on a specific day of the 12-day traditional Miao calendar. On market day, women from the surrounding mountains walk hours to trade, sell craft work, buy necessities, and socialise.
 
@@ -62,8 +63,6 @@ The most authentic way to experience Miao culture in Qiandongnan is through the 
 The market atmosphere is completely authentic — traders are local farmers and artisans rather than tourist vendors. The best purchase strategy is to **walk the entire market first** before buying anything; prices are more negotiable at the end of market day (typically 14:00–15:00).
 
 ---
-
-![Kaili Guizhou — Miao Batik and Embroidery](https://images.pexels.com/photos/11111348/pexels-photo-11111348.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Miao Batik and Embroidery
 
@@ -84,6 +83,8 @@ In the villages around Leishan and Taijiang, elderly women sometimes sell incomp
 ---
 
 ## Xijiang: The Miao Kingdom's Living Museum
+
+![Qianlinghongfu Temple Scenery, Guizhou](/img/destinations/guizhou-kaili-silver-jewelry-guide/3.webp)
 
 **Xijiang Thousand-Family Miao Village (西江千户苗寨)** — approximately 35 km from Kaili — is the largest Miao village cluster in China, with approximately 1,300 households arranged across hillsides in the distinctive Miao stilted-house style.
 

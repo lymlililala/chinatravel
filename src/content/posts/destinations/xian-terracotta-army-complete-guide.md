@@ -12,7 +12,7 @@ tags:
   - terracotta-army
   - china
 description: "The Terracotta Army is one of the greatest archaeological discoveries in history — 8,000+ individually crafted warrior figures buried with Qin Shi Huang in 210 BC. This guide covers the three pits, the best strategies for visiting, how to get there from Xi'an, and how to get meaningful time at the site without the crowds overwhelming your experience."
-ogImage: "https://images.pexels.com/photos/30584842/pexels-photo-30584842.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/xian-terracotta-army-complete-guide/cover.webp"
 ---
 
 The Terracotta Army (秦始皇兵马俑, Qín Shǐhuáng Bīngmǎyǒng) was discovered in 1974 by farmers digging a well near the village of Lintong, 35km east of Xi'an. What they found — after centuries of being hidden in clay — was one of the most extraordinary archaeological finds in human history: an underground army of thousands of life-sized terracotta warriors, horses, and chariots, created to protect Qin Shi Huang in the afterlife.
@@ -23,7 +23,7 @@ In 2026, the site continues to be one of China's most-visited destinations. On b
 
 ## The Three Pits
 
-![Terracotta Army Xi' — The Three Pits](https://images.pexels.com/photos/5342720/pexels-photo-5342720.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Guangren Temple Scenery, Shaanxi, Xi'an](/img/destinations/xian-terracotta-army-complete-guide/1.webp)
 
 **Pit 1 (一号坑):** The main pit and the one that stops conversation. 230 metres long, 62 metres wide — a vast, hangar-like excavation hall built over the original dig site. You're looking at approximately 6,000 warriors (many still being excavated or restored) arranged in eleven corridors of battle formation. Infantry at the front, chariots and cavalry at the rear.
 
@@ -42,8 +42,6 @@ Adjacent to the pits, several exhibition halls display:
 
 The bronze chariots (铜车马) in the adjacent exhibition are arguably the most technically remarkable objects in the entire complex — full-size, functional models in bronze with intricate mechanisms. In terms of craftsmanship, they surpass even the warriors.
 
-![Terracotta Army Xi' — Getting There from Xi'an](https://images.unsplash.com/photo-1654887735165-366e3933ea63?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwzfHxmcm9tJTIweGlhbnxlbnwwfDB8fHwxNzgxOTI2MjMxfDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
-
 ## Getting There from Xi'an
 
 **Bus 306 (now Route 5 or 306 depending on source — verify locally):** From Xi'an Railway Station east square, takes about 1 hour. Tickets around ¥8. Buses run frequently 7am–6pm.
@@ -56,13 +54,13 @@ The bronze chariots (铜车马) in the adjacent exhibition are arguably the most
 
 ## Tickets & Booking
 
+![Datangfurong Garden, Xi'an](/img/destinations/xian-terracotta-army-complete-guide/2.webp)
+
 **Entry fee:** ¥150 (peak season April–October), ¥120 (low season November–March). Includes all three pits and the exhibition halls. The bronze chariot hall is included.
 
 **Booking:** Online booking through the official website or major ticketing platforms is available and recommended, particularly for peak season. On-site ticket sales happen but lines can be long.
 
 **Combination with Qin Shi Huang Mausoleum:** The actual burial mound (the emperor's tomb, never excavated) is a few km away. A combined ticket is available. The burial mound is a large earthen hill visible from the road — not visually spectacular — but the surrounding park has some context about the scale of the entire complex.
-
-![Terracotta Army Xi' — When to Visit](https://images.pexels.com/photos/34004807/pexels-photo-34004807.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## When to Visit
 
@@ -73,6 +71,8 @@ The bronze chariots (铜车马) in the adjacent exhibition are arguably the most
 **Low season (November–March):** Dramatically fewer visitors. The unheated pits are cold in winter but you can actually see what you've come to see without fighting through tour groups.
 
 ## Photography Tips
+
+![Yunju Temple Scenery, Shaanxi, Xi'an](/img/destinations/xian-terracotta-army-complete-guide/3.webp)
 
 **Pit 1 is the main event photographically.** The best positions are at the east end (where you enter), looking west along the battle formation, and from the north and south sides looking across the ranks.
 

@@ -10,7 +10,7 @@ tags:
   - food
   - destinations
 description: "The definitive food guide to Beijing — from the perfect Peking duck restaurant to hutong snack alleys, lamb hotpot, zhajiangmian noodles, and the night markets that locals love and tourists miss."
-ogImage: "https://images.pexels.com/photos/3603453/pexels-photo-3603453.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/beijing-food-guide-peking-duck-snacks/cover.webp"
 ---
 
 Beijing's food scene is one of China's most distinctive — shaped by imperial court cuisine, northern Chinese staples, Muslim halal cooking, and the collision of 22 million people from every province. This is the guide to eating well in the capital, from celebrated roast duck houses to narrow hutong snack lanes.
@@ -19,7 +19,7 @@ Beijing's food scene is one of China's most distinctive — shaped by imperial c
 
 ## The Crown Jewel: Peking Duck (北京烤鸭)
 
-![Beijing Food — The Crown Jewel: Peking Duck (北京烤鸭)](https://images.pexels.com/photos/31135839/pexels-photo-31135839.png?auto=compress&cs=tinysrgb&h=650&w=940)
+![Courtyard House, Beijing](/img/destinations/beijing-food-guide-peking-duck-snacks/1.webp)
 
 ### What makes it different
 
@@ -58,8 +58,6 @@ Mongolian-influenced lamb hotpot is Beijing's quintessential cold-weather meal. 
 
 ---
 
-![Beijing Food — Zhajiangmian (炸酱面): The Soul of Beijing Noodles](https://images.pexels.com/photos/3603456/pexels-photo-3603456.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Zhajiangmian (炸酱面): The Soul of Beijing Noodles
 
 Zhajiangmian — thick wheat noodles topped with a rich pork-and-fermented bean paste sauce (炸酱), shredded cucumber, radish, edamame, and bean sprouts — is Beijing's most beloved everyday dish.
@@ -73,6 +71,8 @@ Zhajiangmian — thick wheat noodles topped with a rich pork-and-fermented bean 
 ---
 
 ## Hutong Street Food: A Walking Tour
+
+![Tiananmen, Beijing](/img/destinations/beijing-food-guide-peking-duck-snacks/2.webp)
 
 The hutong areas around Drum Tower, Nanluoguxiang, and Guozijian Street have Beijing's best concentration of street food:
 
@@ -90,8 +90,6 @@ The hutong areas around Drum Tower, Nanluoguxiang, and Guozijian Street have Bei
 
 ---
 
-![Beijing Food — Guijie (簋街): Beijing's 24-Hour Food Street](https://images.pexels.com/photos/36647057/pexels-photo-36647057.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Guijie (簋街): Beijing's 24-Hour Food Street
 
 Guijie (Ghost Street), near Beixinqiao on Line 5, is a 1.4km stretch of restaurants open until 3–4am. Specialising in spicy crayfish (麻辣小龙虾) and Sichuan-influenced dishes, it's where Beijingers go for late-night eating after bars close.
@@ -101,6 +99,8 @@ Best time to visit: **9pm–midnight** for full atmosphere. Most restaurants sea
 ---
 
 ## Niujie (牛街): Beijing's Halal Food District
+
+![Qingxiling, Beijing](/img/destinations/beijing-food-guide-peking-duck-snacks/3.webp)
 
 Niujie in Xuanwu District is Beijing's Muslim neighbourhood, centred around the historic Niujie Mosque (1000+ years old). The surrounding streets have:
 - Lamb skewers (羊肉串)

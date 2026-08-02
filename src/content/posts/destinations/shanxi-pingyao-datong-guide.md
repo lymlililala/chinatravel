@@ -12,9 +12,10 @@ tags:
   - wutai mountain
   - UNESCO heritage
 description: "A complete guide to Shanxi Province — the best-preserved ancient city in China at Pingyao, the extraordinary Buddhist cave art at Yungang, and the sacred peaks of Mount Wutai."
+ogImage: "/img/destinations/shanxi-pingyao-datong-guide/cover.webp"
 ---
 
-![Pingyao Ancient City walls at dusk — the Ming Dynasty city wall circuit with watchtowers lit against the evening sky](https://images.unsplash.com/photo-1547245324-d777f6f3956b?w=1200&q=85)
+
 *Pingyao's 6.4 km Ming Dynasty city wall, the best-preserved ancient city wall in China*
 
 Shanxi Province sits at the heart of China's ancient history — the region that was the cradle of Chinese civilisation for over 3,000 years. Three UNESCO World Heritage Sites, the largest concentration of ancient wooden architecture in China, and the best-preserved walled city in Asia make Shanxi one of the most rewarding provinces for those interested in Chinese history and culture.
@@ -22,6 +23,8 @@ Shanxi Province sits at the heart of China's ancient history — the region that
 ## Table of contents
 
 ## Pingyao Ancient City (平遥古城)
+
+![Heng Mountain Scenery, Shanxi](/img/destinations/shanxi-pingyao-datong-guide/1.webp)
 
 The most completely preserved walled city in China — a Ming and Qing Dynasty commercial city that has remained essentially unchanged since the 17th century. Unlike most Chinese "ancient cities" that are reconstructions, Pingyao's walls, streets, courtyard houses, temples, and commercial buildings are largely original.
 
@@ -41,10 +44,11 @@ The **Rishengchang Museum** preserves the original exchange house with period fu
 
 Staying inside the city walls is essential. Many of the original merchant courtyard houses have been converted into guesthouses — typically ¥200–600/night for a room in a genuine Qing Dynasty courtyard. The experience of waking up inside a 300-year-old courtyard, with the early morning sounds of the city coming over the grey walls, justifies the journey.
 
-![Inside Pingyao's ancient commercial district — traditional merchant courtyard houses with carved wooden screens and lantern-lit courtyards](https://images.unsplash.com/photo-1587474260584-136574528ed5?w=1200&q=85)
 *Pingyao's original Ming and Qing Dynasty merchant architecture — unchanged for 400 years*
 
 ## Yungang Grottoes (云冈石窟)
+
+![Taixing Mountain Scenery, Shanxi](/img/destinations/shanxi-pingyao-datong-guide/2.webp)
 
 16 km west of Datong — one of the four great Buddhist cave complexes of China (alongside Dunhuang, Longmen, and Maiji Mountain), carved between 460 and 524 AD.
 
@@ -54,10 +58,11 @@ The scale is extraordinary: 252 caves containing 51,000 Buddhist statues ranging
 
 **Getting there:** From Datong city, 50 minutes by bus (line 60) or 30 minutes by taxi.
 
-![Yungang Cave 20 — the massive seated Buddha carved 1,500 years ago, weathered and serene in the sandstone cliff face](https://images.unsplash.com/photo-1584992236310-6ededdc08aa2?w=1200&q=85)
 *The 13.7-metre Yungang Cave 20 Buddha — one of the great works of Buddhist cave art in the world*
 
 ## Mount Wutai (五台山)
+
+![Huanghehukou Waterfall](/img/destinations/shanxi-pingyao-datong-guide/3.webp)
 
 One of China's four sacred Buddhist mountains — home to 53 active monasteries and over 20,000 monks, nuns, and practitioners. The mountain has been a continuous pilgrimage destination since the 4th century.
 
@@ -70,7 +75,6 @@ One of China's four sacred Buddhist mountains — home to 53 active monasteries 
 
 **Ticket:** ¥168 (mountain area); separate fees for individual temples.
 
-![Mount Wutai in mist — the white dagoba of Tawang Temple rising above the valley with monastery rooftops and prayer flags](https://images.unsplash.com/photo-1599832054737-f7e1b2ff5a59?w=1200&q=85)
 *The sacred White Dagoba at Mount Wutai, a pilgrimage destination since the 4th century*
 
 ## Practical Tips

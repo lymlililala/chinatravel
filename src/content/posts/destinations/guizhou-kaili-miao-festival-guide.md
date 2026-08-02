@@ -1,7 +1,7 @@
 ---
 title: "Kaili & Miao Festivals in Guizhou: Traditional Culture Immersion Guide"
 description: "Complete guide to experiencing Miao (Hmong) festivals in Kaili, Guizhou — the Miao New Year, Lusheng Festival, drumming competitions, traditional clothing, authentic village visits vs. staged performances."
-ogImage: "https://images.pexels.com/photos/8898782/pexels-photo-8898782.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guizhou-kaili-miao-festival-guide/cover.webp"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/kaili-miao-festival.jpg"
 category: "destinations"
@@ -15,9 +15,9 @@ Kaili (凯里) in southeastern Guizhou province is the gateway to one of China's
 
 The challenge for travelers: distinguishing authentic cultural engagement from staged performances designed for tourism. Both exist in the Kaili area, often side by side. This guide focuses on finding genuine festival experiences while acknowledging the inevitable complexities of cultural tourism.
 
-![Kaili & Miao Festivals Guizhou — Understanding Miao Culture](https://images.pexels.com/photos/30693227/pexels-photo-30693227.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Understanding Miao Culture
+
+![Dong Village Gulou](/img/destinations/guizhou-kaili-miao-festival-guide/1.webp)
 
 The Miao are not a monolithic group — dozens of distinct subgroups with different languages, clothing styles, and ceremonial traditions are collectively described as "Miao" in Chinese administrative categories. The most visible differences are in women's traditional dress (different embroidery patterns, different headdress styles, different silver ornament designs identify specific village communities).
 
@@ -27,9 +27,9 @@ The Miao are not a monolithic group — dozens of distinct subgroups with differ
 
 **Music**: The lusheng (芦笙) — a bamboo pipe instrument — is central to Miao cultural identity. Lusheng playing accompanies virtually all ceremonial events; skilled players are highly respected in their communities. The tones of the lusheng have specific ceremonial meanings that inform the social context of each performance.
 
-![Kaili & Miao Festivals Guizhou — The Major Festival Calendar](https://images.pexels.com/photos/6487204/pexels-photo-6487204.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Major Festival Calendar
+
+![Diaojiaolou Scenery](/img/destinations/guizhou-kaili-miao-festival-guide/2.webp)
 
 Miao festivals follow a lunar calendar; exact Gregorian calendar dates vary annually. The major festivals that attract significant attendance:
 
@@ -58,8 +58,6 @@ Held in the 3rd lunar month (typically April), the Sisters' Meal Festival celebr
 
 This festival is held at multiple locations; the Shidong (施洞) Sisters' Meal Festival near Taijiang County is the most famous.
 
-![Kaili & Miao Festivals Guizhou — Xijiang Miao Village (西江苗寨)](https://images.pexels.com/photos/11682263/pexels-photo-11682263.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Xijiang Miao Village (西江苗寨)
 
 Xijiang is the most visited and most organized Miao tourism destination. Its scale is unique — 1,200+ households on a terraced hillside form China's (and possibly the world's) largest single Miao village.
@@ -73,6 +71,8 @@ Xijiang is the most visited and most organized Miao tourism destination. Its sca
 **The authentic version**: Walking the upper residential terraces, particularly in the morning before the tour groups arrive, allows direct interaction with village residents going about daily life. The contrast between the tourist zone below and the residential terraces above is stark.
 
 ## Langde Upper Miao Village (郎德上寨)
+
+![Qianlinghongfu Temple Scenery, Guizhou](/img/destinations/guizhou-kaili-miao-festival-guide/3.webp)
 
 A smaller (80 household), less commercialized alternative to Xijiang. Langde was designated as a national-level protected cultural heritage village in 1997 and has maintained its traditional architecture (the village has a specific requirement that new buildings match the traditional style) and cultural practices more completely than larger villages.
 

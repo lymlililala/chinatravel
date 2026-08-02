@@ -11,7 +11,7 @@ tags:
   - hiking
   - beijing
 description: "The Great Wall sections beyond Beijing — Jinshanling (the most photogenic restored section, especially at sunrise), Simatai (the dramatic unrestored eastern section, partially lit for night walks), the Zhangjiakou area where 2022 Winter Olympics were held. Getting from Beijing, joint tickets and photography spots."
-ogImage: "https://images.pexels.com/photos/6004053/pexels-photo-6004053.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/zhangjiajie-great-wall-hike/cover.webp"
 ---
 
 The sections of the Great Wall closest to Beijing — Badaling and Mutianyu — draw millions of visitors for good reason, but serious hikers and photographers have long known that the best Great Wall experience lies further east and north, in sections that combine dramatic restoration with wild unrestored stretches, empty ridgelines, and watchtowers that haven't been touched since the Ming Dynasty built them 600 years ago.
@@ -20,7 +20,7 @@ The sections of the Great Wall closest to Beijing — Badaling and Mutianyu — 
 
 ## Jinshanling: The Photographer's Wall
 
-![Zhangjiakou & Wild Great Wall Hiking — Jinshanling: The Photographer's Wall](https://images.pexels.com/photos/15948117/pexels-photo-15948117.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Jinshanling Great Wall, Beijing](/img/destinations/zhangjiajie-great-wall-hike/1.webp)
 
 Jinshanling (金山岭) sits 130km northeast of Beijing in Hebei province and is consistently rated as the most photogenic section of the entire Great Wall. The 10.5km section combines restored towers with partially collapsed stretches, creating a visual rhythm of ruined and intact that captures the Wall's long history far better than any fully restored section can.
 
@@ -30,9 +30,9 @@ The wall here follows a dramatically ridged mountain range. From any of the rest
 
 Admission to Jinshanling is ¥65. The hike from east to west across the full section takes 3-4 hours at a moderate pace. The Simatai section (see below) begins at the eastern end of Jinshanling, and a combined hike linking both is the classic Great Wall day.
 
-![Zhangjiakou & Wild Great Wall Hiking — Simatai: The Wild Wall](https://images.pexels.com/photos/6004054/pexels-photo-6004054.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Simatai: The Wild Wall
+
+![Jinshanling Great Wall Landscape, Hebei](/img/destinations/zhangjiajie-great-wall-hike/2.webp)
 
 Simatai (司马台) is the most dramatic of all accessible Great Wall sections. Unlike Jinshanling's balanced restoration, Simatai's eastern portion — beyond the Wangqinglou (望京楼) tower at the top of the steepest section — has never been restored. The wall crumbles on the ridgeline above a near-vertical cliff face, the brickwork deteriorating into rough stone, the towers roofless and open to the sky.
 
@@ -41,8 +41,6 @@ The western Simatai section (accessible separately with its own ticketing) conne
 **Simatai Night Wall:** The western section has been developed with lighting for evening visits. The walk along illuminated wall above the Miyun Reservoir is genuinely atmospheric, and the Gubei Water Town resort below (a recreation of a Northern China water town, somewhat artificial but comfortable) has made Simatai into a reasonable overnight option. The night walk costs ¥100 and runs on weekends and holidays.
 
 Combined Jinshanling-Simatai hike: Allow 6-7 hours for the full traverse. Water and snacks are essential — vendors exist at the Jinshanling entrance and at Simatai, but nowhere in between.
-
-![Zhangjiakou & Wild Great Wall Hiking — Panlongshan: The Empty Wall](https://images.pexels.com/photos/33899286/pexels-photo-33899286.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Panlongshan: The Empty Wall
 
@@ -53,6 +51,8 @@ The section near Gubeikou village has been known among Wall aficionados for deca
 Hiking Panlongshan is free but requires good footwear and a willingness to scramble. The wall crests are often broken and the towers are roofless but largely intact structurally. You may hike for an hour and see no other visitors.
 
 ## Zhangjiakou & the 2022 Winter Olympics Legacy
+
+![Wanli Great Wall Scenery](/img/destinations/zhangjiajie-great-wall-hike/3.webp)
 
 Zhangjiakou (张家口), 175km northwest of Beijing in Hebei, hosted the alpine skiing and biathlon events of the 2022 Winter Olympics. The Zhangjiakou Chongli ski area is now one of China's best ski resorts, with runs designed for Olympic-level competition but open to recreational skiers from November through March (lift passes ¥300-500 per day, ski rental packages ¥200-400). The Olympic venues are also open for tours in the off-season.
 

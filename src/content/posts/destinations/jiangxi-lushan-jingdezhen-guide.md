@@ -12,7 +12,7 @@ tags:
   - porcelain
   - poyang lake
 description: "Your complete guide to Jiangxi Province — the cloud-wrapped peaks of Lushan that inspired centuries of Chinese poetry, Jingdezhen the 1,000-year porcelain capital of the world, and the vast Poyang Lake with its winter crane migration."
-ogImage: "https://images.pexels.com/photos/22764534/pexels-photo-22764534.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/jiangxi-lushan-jingdezhen-guide/cover.webp"
 ---
 
 Jiangxi (江西) is a province that rewarded the intellectuals and artists who were exiled from power in China's history. Su Dongpo, Wang Anshi, Ouyang Xiu — some of the greatest literary figures of the Song Dynasty were sent here when court politics turned against them. The mountains and rivers they wrote about from exile created a body of landscape poetry that defined how educated Chinese thought about nature for 1,000 years.
@@ -21,7 +21,7 @@ Jiangxi (江西) is a province that rewarded the intellectuals and artists who w
 
 ## Lushan (庐山)
 
-![Jiangxi — Lushan (庐山)](https://images.pexels.com/photos/34376752/pexels-photo-34376752.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![— Mingcidou Old Town Scenery, Jingdezhen](/img/destinations/jiangxi-lushan-jingdezhen-guide/1.webp)
 
 The mountain that Chinese civilization decided was the paradigm of beautiful mountains — painted more times than any other peak in Chinese art, the subject of famous poems since the 4th century. Located north of Nanchang, rising from the southern shore of China's largest freshwater lake (Poyang Lake).
 
@@ -35,9 +35,9 @@ The mountain that Chinese civilization decided was the paradigm of beautiful mou
 
 ---
 
-![Jiangxi — Jingdezhen (景德镇)](https://images.unsplash.com/photo-1732776623883-9ddb22867d24?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw4fHxKaW5nZGV6aGVufGVufDB8MHx8fDE3ODE4NTQ4NzB8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
-
 ## Jingdezhen (景德镇)
+
+![Jinggangshan Scenery, Jiangxi](/img/destinations/jiangxi-lushan-jingdezhen-guide/2.webp)
 
 The porcelain capital of the world — the city that supplied the Chinese imperial court with ceramics for 1,000 years, and whose output shaped global ceramic culture through trade with the Islamic world, Japan, Southeast Asia, and Europe.
 
@@ -49,9 +49,9 @@ The porcelain capital of the world — the city that supplied the Chinese imperi
 
 **Taking a class:** Multiple studios offer hands-on porcelain making — from basic throwing to the specialised techniques of Jingdezhen (painting on bisque-fired porcelain, the distinctive blue-and-white brushwork). Even a half-day class produces tangible understanding of the craft.
 
-![Jiangxi — Poyang Lake (鄱阳湖) and Crane Migration](https://images.pexels.com/photos/32972816/pexels-photo-32972816.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Poyang Lake (鄱阳湖) and Crane Migration
+
+![Longhu Mountain Scenery, Jiangxi](/img/destinations/jiangxi-lushan-jingdezhen-guide/3.webp)
 
 China's largest freshwater lake — 3,210 km² in summer, contracting to 1,000 km² in the dry season when the wetland margins are exposed. The winter crane migration makes this one of the most significant wetland bird sites in Asia.
 

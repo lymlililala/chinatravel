@@ -12,7 +12,7 @@ tags:
   - buddhism
   - northeast-china
 description: "Chaoyang in western Liaoning is one of China's most historically layered cities — home to world-famous Cretaceous dinosaur fossil beds, the twin Buddhist pagodas that have dominated its skyline for 1,400 years, and the remnants of several ancient capitals. This guide covers the Fossil Museum, the North and South Pagodas, the Yanshandongling site, and practical travel details most guidebooks skip."
-ogImage: "https://images.pexels.com/photos/5302327/pexels-photo-5302327.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/liaoning-chaoyang-guide/cover.webp"
 ---
 
 Chaoyang (朝阳) sits in a river valley in western Liaoning province, at the point where the Northeast China Plain meets the beginning of the Inner Mongolian steppe. It's not a tourist destination that appears on most China itineraries, which is puzzling given what's here: fossil beds that produced some of the most important dinosaur and early bird discoveries of the 20th century, Buddhist pagodas that rank among the finest examples of Liao Dynasty architecture in China, and layers of historical settlement stretching back 5,000 years.
@@ -23,7 +23,7 @@ The city itself is mid-sized and industrial — not beautiful in the way that vi
 
 ## Getting to Chaoyang
 
-![Chaoyang Liaoning — Getting to Chaoyang](https://images.pexels.com/photos/24186299/pexels-photo-24186299.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Bei Town Scenery, Liaoning](/img/destinations/liaoning-chaoyang-guide/1.webp)
 
 **By train:**
 - **From Beijing:** About 3.5–4 hours by express train; multiple daily departures from Beijing North or Beijing Chaoyang Station; tickets ¥150–220 second class
@@ -62,8 +62,6 @@ The density of finds in this area has led paleontologists to describe the Chaoya
 **The fossil site itself:**
 A portion of the actual fossil-bearing strata can be walked through in the geopark — the layers of Yixian Formation mudstone and volcanic tuff where fossils continue to be found are visible in the hillside exposures. The park provides viewing platforms and interpretive signage.
 
-![Chaoyang Liaoning — The North and South Pagodas (北塔 & 南塔)](https://images.pexels.com/photos/24415073/pexels-photo-24415073.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The North and South Pagodas (北塔 & 南塔)
 
 Chaoyang's two large Buddhist pagodas are among the most important surviving examples of Liao Dynasty (907–1125 AD) architecture in China, and they define the city's skyline. The North Pagoda is the better-preserved and more significant.
@@ -82,6 +80,8 @@ Slightly smaller and less perfectly preserved than the North Pagoda, but archite
 
 ## Chaoyangdi Ruins and Ancient Capitals
 
+![Qian Mountain Scenery, Liaoning](/img/destinations/liaoning-chaoyang-guide/2.webp)
+
 Chaoyang has been a significant settlement since at least the Yan Kingdom period (300s BC), and the area contains remains from multiple historical eras that most visitors completely miss.
 
 **Three Yan Capitals:**
@@ -95,8 +95,6 @@ The city museum has a strong collection covering the prehistoric, Bronze Age, Ya
 **Entry:** Free  
 **Hours:** 9:00am–5:00pm (closed Mondays)
 
-![Chaoyang Liaoning — Hongshan Culture Sites (红山文化)](https://images.pexels.com/photos/28490351/pexels-photo-28490351.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Hongshan Culture Sites (红山文化)
 
 The Hongshan Culture (5000–3000 BC) was one of China's most sophisticated Neolithic civilizations, centered in the area now divided between western Liaoning and eastern Inner Mongolia. Its distinctive jade carving tradition (including the famous pig-dragon or 猪龙 jade pendants) and earthen ritual mounds represent some of the earliest evidence of complex religious practice in East Asia.
@@ -108,6 +106,8 @@ Several Hongshan sites are accessible from Chaoyang:
 **Reaching Niuheliang:** Taxi or hired car from Chaoyang (¥200–300 round trip); public buses run from Lingyuan city.
 
 ## Chaoyang's Local Food
+
+![Wugoujingguangsheli Pagoda Scenery, Liaoning, Shenyang](/img/destinations/liaoning-chaoyang-guide/3.webp)
 
 **Distinctive local dishes:**
 - **Donkey meat noodles (驴肉面):** A specialty of the Chaoyang area; hand-cut noodles in a rich dark broth with slow-braised donkey meat. The Chinese saying "天上龙肉，地下驴肉" (dragon meat in heaven, donkey meat on earth) speaks to the local pride in the ingredient.

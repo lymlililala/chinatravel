@@ -11,7 +11,7 @@ tags:
   - southwest-china
   - minority-cultures
 description: "A 7-day Guizhou itinerary for independent travelers — Guiyang as base (1 day), the Huangguoshu Waterfall (1 day), the Miao village circuit around Kaili (3 days: Xijiang, Langde, Basha), the Zhenyuan ancient town along the Wu River, and the Fanjingshan sacred mountain. Buses and timetables."
-ogImage: "https://images.pexels.com/photos/11111352/pexels-photo-11111352.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guizhou-7-days-itinerary-guide/cover.webp"
 ---
 
 Guizhou is China's best-kept tourism secret — largely because of an old saying: "no three days without rain, no three li of flat ground, no three fen in anyone's pocket." This wasn't an endorsement. But the difficult landscape and relative poverty that gave the province its reputation also preserved something extraordinary: a living network of Miao, Dong, Buyi, and dozens of other minority villages that have maintained their festivals, costumes, architecture, and agricultural traditions largely intact.
@@ -22,7 +22,7 @@ Guizhou tourism has improved dramatically in the last decade. High-speed rail no
 
 ## Getting There & Around
 
-![Guizhou — Getting There & Around](https://images.unsplash.com/photo-1646912951442-7a2bc5e8cd06?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw1fHwlMjYlMjBBcm91bmR8ZW58MHwwfHx8MTc4MTgzOTI0OXww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
+![Chishuida Waterfall Scenery, Guizhou](/img/destinations/guizhou-7-days-itinerary-guide/1.webp)
 
 **Entry:** Guiyang Longdongbao International Airport (KWE) has domestic connections and some international routes. HSR connections: Guiyang → Chengdu (2 hours, ¥180), Guiyang → Kunming (3 hours, ¥200), Guiyang → Guangzhou (5 hours, ¥370).
 
@@ -46,8 +46,6 @@ The **Qingyan Ancient Town** (青岩古镇, ¥30) is 30km south of Guiyang — a
 
 ---
 
-![Guizhou — Day 2: Huangguoshu Waterfall](https://images.pexels.com/photos/8776827/pexels-photo-8776827.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day 2: Huangguoshu Waterfall
 
 **Journey:** Direct buses from Guiyang Jinyang Bus Station (¥65, ~2.5 hours) to the Huangguoshu scenic area.
@@ -63,6 +61,8 @@ Return to Guiyang in the evening or continue directly to Kaili (buses from Huang
 ---
 
 ## Days 3-5: Kaili & the Miao Village Circuit
+
+![Waterfall Scenery, Huangguoshu, Guizhou](/img/destinations/guizhou-7-days-itinerary-guide/2.webp)
 
 **Journey:** HSR from Guiyang to Kaili South (凯里南), ~1 hour, ¥40-55.
 
@@ -97,9 +97,9 @@ The village comes alive at night when the terraced wooden houses light up with l
 
 ---
 
-![Guizhou — Day 6: Zhenyuan Ancient Town](https://images.pexels.com/photos/4839146/pexels-photo-4839146.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day 6: Zhenyuan Ancient Town
+
+![Tianhetan Waterfall Scenery, Guizhou](/img/destinations/guizhou-7-days-itinerary-guide/3.webp)
 
 **Journey:** HSR from Kaili to Zhenyuan (镇远), ~40 minutes, ¥30-45.
 

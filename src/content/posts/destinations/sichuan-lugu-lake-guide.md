@@ -13,7 +13,7 @@ tags:
   - ethnic minority
   - nature
 description: "Lugu Lake sits on the Sichuan-Yunnan border at 2,690m and is home to the matriarchal Mosuo people. This 2026 guide covers the lake circuit (100 yuan entry), Mosuo cultural villages, horseback riding and boat tours, how to get there from Lijiang and Xichang, accommodation options, and the best seasons for this pristine highland destination."
-ogImage: "https://images.pexels.com/photos/31212292/pexels-photo-31212292.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/sichuan-lugu-lake-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -24,7 +24,7 @@ The Mosuo of Lugu Lake have attracted both academic research and popular fascina
 
 ## The Lake and Its Setting
 
-![Lugu Lake Sichuan — The Lake and Its Setting](https://images.pexels.com/photos/12030812/pexels-photo-12030812.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Ruoergaihua Lake Scenery, Sichuan](/img/destinations/sichuan-lugu-lake-guide/1.webp)
 
 Lugu Lake (泸沽湖) covers about 50 square kilometres at an elevation of 2,690m, straddling the administrative boundary between Sichuan's Yanyuan County and Yunnan's Ninglang County. The water is extraordinarily clear — visibility to several metres depth is normal — and the surrounding mountains rise another 1,000m above the lake surface, draped in pine and oak forest.
 
@@ -38,8 +38,6 @@ The lake contains five islands and several promontories that create a dramatical
 
 **Horseback riding:** A very popular activity around the lake. Guided rides along the mountain tracks cost approximately 100-200 yuan per hour.
 
-![Lugu Lake Sichuan — Mosuo Culture and Villages](https://images.pexels.com/photos/6241974/pexels-photo-6241974.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Mosuo Culture and Villages
 
 **Luoshui Village (落水村):** The largest tourist-oriented Mosuo village on the Yunnan side, Luoshui has become quite commercially developed but retains genuine Mosuo residential architecture and cultural practice. The traditional Mosuo house (木楞房, mu leng fang) is built from stacked horizontal timber logs — a very different construction technique from the surrounding Han and Yi architecture.
@@ -51,6 +49,8 @@ The lake contains five islands and several promontories that create a dramatical
 **Cultural sensitivity:** The Mosuo walking marriage system and the details of their family structure attract enormous tourist curiosity, some of it prurient. When visiting Mosuo homes or interacting with community members, basic respect means not treating their culture as an exhibit. Ask before entering homes, ask before photographing individuals, and don't probe personal questions about marriage practices in a voyeuristic way. Many Mosuo are open to discussing their culture respectfully.
 
 ## Getting to Lugu Lake
+
+![Tianfuguosheyingyi, Sichuan, Chengdu](/img/destinations/sichuan-lugu-lake-guide/2.webp)
 
 This is genuinely remote country. Getting here requires commitment.
 
@@ -64,8 +64,6 @@ This is genuinely remote country. Getting here requires commitment.
 
 **Note:** The roads to Lugu Lake involve significant mountain driving with sharp bends and altitude gain. Motion sickness medication is advisable for susceptible travellers.
 
-![Lugu Lake Sichuan — Accommodation at Lugu Lake](https://images.pexels.com/photos/31212295/pexels-photo-31212295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Accommodation at Lugu Lake
 
 **Budget guesthouses (¥80-200 per night):** Basic rooms in Mosuo-style guesthouses around the lakeside villages. Many are family-run and offer a genuine if simple hospitality. The rooms face the lake or the mountains.
@@ -77,6 +75,8 @@ This is genuinely remote country. Getting here requires commitment.
 **Which side:** Yunnan side (Luoshui) is more developed with more tourist facilities. Sichuan side (Daluoshui) is quieter and slightly more authentic. Most visitors stay on the Yunnan side for convenience.
 
 ## The Lake Circuit
+
+![Tianfuguosheyinger, Sichuan, Chengdu](/img/destinations/sichuan-lugu-lake-guide/3.webp)
 
 A full circuit of Lugu Lake by bicycle or horse takes approximately 6-8 hours — about 70km. Bicycle rental is available in the villages (¥50-80 per day). The circuit route (mostly paved) passes through multiple small Mosuo villages, forest sections, and several viewpoints that are not visible from the main tourist area. This is strongly recommended over simply staying near the main villages.
 

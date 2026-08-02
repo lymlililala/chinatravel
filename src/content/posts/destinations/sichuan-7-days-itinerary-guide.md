@@ -11,7 +11,7 @@ tags:
   - southwest-china
   - nature
 description: "A 7-day Sichuan itinerary — two days in Chengdu (pandas, hotpot, Jinsha Museum), a day trip to Leshan Giant Buddha and Emeishan, two days at Jiuzhaigou's rainbow lakes, and how to connect everything efficiently by high-speed train and bus. Booking windows for the most popular attractions."
-ogImage: "https://images.unsplash.com/photo-1664669173220-9bc6fc994c05?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwyfHxTaWNodWFufGVufDB8MHx8fDE3ODE5MzcyOTh8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
+ogImage: "/img/destinations/sichuan-7-days-itinerary-guide/cover.webp"
 ---
 
 Sichuan packs an extraordinary amount of landscape variety into a single province. The Chengdu basin is urban and sophisticated; an hour south, the Leshan Giant Buddha sits in a river confluence; two hours north, Emeishan is a sacred Buddhist mountain reaching 3,099m; and nine hours north (by road) is Jiuzhaigou, with its vivid alpine lakes that don't look real. All of this plus the best food in China.
@@ -22,7 +22,7 @@ Seven days lets you experience the major attractions without rushing. The logist
 
 ## Booking Ahead: What You Need
 
-![Sichuan — Booking Ahead: What You Need](https://images.pexels.com/photos/35130736/pexels-photo-35130736.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Tianfuguosheyinger, Sichuan, Chengdu](/img/destinations/sichuan-7-days-itinerary-guide/1.webp)
 
 - **Jiuzhaigou:** Daily visitor numbers are strictly capped. Book at jiuzhai.com at least 2-4 weeks ahead for peak season (Golden Week, July-August, Chinese New Year). This is the most critical advance booking in this itinerary.
 - **Giant Panda Base:** Book online at cdpanda.com — tickets can sell out on popular days.
@@ -52,8 +52,6 @@ Already covered in depth in our Chengdu 3-day guide. Summary for this 7-day trip
 
 ---
 
-![Sichuan — Day 3: Leshan Giant Buddha & Emeishan Preview](https://images.pexels.com/photos/879359/pexels-photo-879359.png?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day 3: Leshan Giant Buddha & Emeishan Preview
 
 ### Leshan Giant Buddha
@@ -67,6 +65,8 @@ High-speed train from Chengdu East → Leshan (50-60 min, ¥29-45). Boats from t
 ---
 
 ## Day 4: Emeishan
+
+![Lugu Lake Ligeban Island Scenery, Sichuan](/img/destinations/sichuan-7-days-itinerary-guide/2.webp)
 
 **Emeishan** (峨眉山, ¥160 scenic area) is one of China's Four Sacred Buddhist Mountains — a UNESCO World Heritage site with 30 major Buddhist monasteries scattered along mountain trails from 550m to 3,099m.
 
@@ -86,9 +86,9 @@ Return to Chengdu in the evening, or continue north toward Jiuzhaigou.
 
 ---
 
-![Sichuan — Days 5-6: Jiuzhaigou](https://images.pexels.com/photos/822271/pexels-photo-822271.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Days 5-6: Jiuzhaigou
+
+![Shunanzhuhai Landscape](/img/destinations/sichuan-7-days-itinerary-guide/3.webp)
 
 **Journey to Jiuzhaigou (九寨沟):**
 

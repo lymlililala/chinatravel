@@ -12,7 +12,7 @@ tags:
   - nature
   - china
 description: "Qinghai Lake sits at 3,205 metres on the Tibetan Plateau — a vast inland sea of deep blue ringed by snow mountains and yellow rapeseed fields. This guide covers how to get there, the best cycling routes around the lake, the Bird Island nature reserve, seasonal timing, and everything else you need for a memorable visit."
-ogImage: "https://images.pexels.com/photos/32063208/pexels-photo-32063208.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/qinghai-lake-travel-complete-guide/cover.webp"
 ---
 
 Qinghai Lake (青海湖, Qīnghǎi Hú) is China's largest lake and the world's third-largest saline lake at 4,317 square kilometres. It sits at 3,205 metres above sea level on the northeastern edge of the Tibetan Plateau, held in a basin between the Qilian Mountains to the north and the Tibetan highlands to the south. The water is a deep, luminous blue that photographers spend entire careers trying to capture faithfully — and mostly failing, because no screen really conveys how electric the colour is under clear plateau sky.
@@ -23,7 +23,7 @@ The lake has become one of China's most popular cycling destinations. Every July
 
 ## Why Qinghai Lake is Worth the Effort
 
-![Qinghai Lake — Why Qinghai Lake is Worth the Effort](https://images.pexels.com/photos/12853271/pexels-photo-12853271.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Chakayan Lake Scenery, Qinghai](/img/destinations/qinghai-lake-travel-complete-guide/1.webp)
 
 Getting to Qinghai Lake requires either flying to Xining and taking a bus or train, or making the overland journey from further afield. It's not a casual side trip. But the combination of scale (you can see the far shore shimmering 50 kilometres away), altitude-enhanced colours, and the surrounding ecosystem makes it unlike any other lake destination in China.
 
@@ -49,8 +49,6 @@ Outside the summer cycling and birdwatching peak, Qinghai Lake in winter becomes
 
 **Private car or rental:** The most flexible option. Xining has car rental agencies. The lake circuit road (Route 227 and Route 315) is good quality and well-signed. Allow a full day for the circuit drive, or two days if you want to stop seriously at multiple points.
 
-![Qinghai Lake — The Cycling Circuit](https://images.pexels.com/photos/32917702/pexels-photo-32917702.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Cycling Circuit
 
 The 360-kilometre full circuit around the lake takes most cyclists 3–4 days, depending on fitness and how much time you spend at stops. The road is paved throughout and has dedicated cycling lanes on much of the southern section.
@@ -65,6 +63,8 @@ The 360-kilometre full circuit around the lake takes most cyclists 3–4 days, d
 - **Bird Island (鸟岛, Niǎo Dǎo):** Now connected to the shore by a land bridge due to water level rise, but still called an island. Nesting season April–June has the highest bird concentrations
 
 ## Bird Island & Wildlife
+
+![Kekexili Scenery, Qinghai](/img/destinations/qinghai-lake-travel-complete-guide/2.webp)
 
 Bird Island Scenic Area (¥80 entrance) is about 30km west of the main Erlangjian entrance. The island hosts China's largest freshwater bird breeding colony — up to 100,000 birds including bar-headed geese, brown-headed gulls, and cormorants. In peak season (May–June), the noise and visual density of nesting birds is genuinely overwhelming.
 
@@ -82,8 +82,6 @@ Options cluster at Erlangjian and Heimahe. Expect basic but clean guesthouses an
 
 **Camping:** Permitted in designated areas with a permit. Self-sufficient camping is possible in the grassland areas away from the core scenic zones, but facilities are obviously zero and nights get very cold even in summer.
 
-![Qinghai Lake — Entrance Fees & Scenic Areas](https://images.pexels.com/photos/20890860/pexels-photo-20890860.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Entrance Fees & Scenic Areas
 
 **Erlangjian Scenic Area:** ¥80 (includes access to the shore area and several viewing platforms)  
@@ -94,6 +92,8 @@ Options cluster at Erlangjian and Heimahe. Expect basic but clean guesthouses an
 Note: You don't need to buy entrance tickets to cycle the road around the lake — the fees are for the formal scenic areas with facilities. The public road around the lake is free to use.
 
 ## Altitude & Health
+
+![Singing Sand Dunes Scenery, Dunhuang](/img/destinations/qinghai-lake-travel-complete-guide/3.webp)
 
 At 3,200+ metres, Qinghai Lake will affect many visitors. The symptoms of altitude adjustment — mild headaches, slight fatigue, occasional breathlessness — are less severe than at Lhasa (3,650m) but still real. Most people feel normal within 24–48 hours.
 

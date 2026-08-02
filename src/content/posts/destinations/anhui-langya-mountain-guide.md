@@ -12,7 +12,7 @@ tags:
   - hiking
   - chinese-literature
 description: "Langya Mountain in Chuzhou, Anhui, is inseparable from the essays of Ouyang Xiu, the Song Dynasty polymath who wrote the famous 'Drunkard's Pavilion' here in 1046. The mountain is a forested park with walking trails, the beautifully preserved Zuiweng Pavilion complex, a cave waterfall system, and genuine seasonal beauty. This guide covers everything you need to plan a visit."
-ogImage: "https://images.pexels.com/photos/5916301/pexels-photo-5916301.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/anhui-langya-mountain-guide/cover.webp"
 ---
 
 Langya Mountain (琅琊山) in Chuzhou (滁州), northern Anhui, is one of those places that has literary significance embedded so deeply in its character that it's hard to separate the landscape from the writing about it. Ouyang Xiu (欧阳修, 1007–1072), the Song Dynasty statesman, poet, historian, and essayist, was posted to Chuzhou as regional governor from 1045 to 1048 after being demoted. During his time here, he wrote "The Record of the Old Drunkard's Pavilion" (醉翁亭记), one of the most celebrated prose essays in Chinese literature.
@@ -23,7 +23,7 @@ The essay's opening line — "Among all the mountains surrounding Chu Prefecture
 
 ## Getting to Chuzhou and Langya Mountain
 
-![Langya Mountain Anhui — Getting to Chuzhou and Langya Mountain](https://images.pexels.com/photos/16004928/pexels-photo-16004928.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Tianzhu Mountain Scenery, Anhui](/img/destinations/anhui-langya-mountain-guide/1.webp)
 
 Chuzhou's position near the Yangtze Delta rail network makes it very accessible:
 
@@ -61,8 +61,6 @@ The current structure is primarily Ming and Qing Dynasty rebuilding on original 
 **The calligraphy tablets:**
 Inside the pavilion complex, stone-carved tablets display the Zuiweng Ting Ji essay text in multiple calligraphic styles, including versions attributed to Su Shi (苏轼) and other Song calligraphers. These are among the finest examples of Song-style carved stone calligraphy in China.
 
-![Langya Mountain Anhui — Langya Temple (琅琊寺)](https://images.pexels.com/photos/29606775/pexels-photo-29606775.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Langya Temple (琅琊寺)
 
 Nestled in a valley about halfway up the mountain, Langya Temple (also called Kaiyuan Temple) was established in the Tang Dynasty and is one of the key religious sites in the region.
@@ -80,6 +78,8 @@ The temple operates a vegetarian restaurant (open to the public) serving simple 
 
 ## Langya Cave (琅琊洞)
 
+![Jiuhua Mountain Scenery, Anhui](/img/destinations/anhui-langya-mountain-guide/2.webp)
+
 A karst cave system on the mountain's lower slopes, with limestone formations including stalactites, stalagmites, and a small underground stream.
 
 **The cave:**
@@ -89,8 +89,6 @@ A karst cave system on the mountain's lower slopes, with limestone formations in
 
 **Entry:** ¥30 per person (separate from main scenic area ticket)  
 **Tip:** Visit mid-afternoon when the temperature contrast with the summer heat outside is most welcome.
-
-![Langya Mountain Anhui — Hiking Trails](https://images.pexels.com/photos/2076968/pexels-photo-2076968.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Hiking Trails
 
@@ -111,6 +109,8 @@ A 5km loop trail through the mountain's secondary forest areas, passing several 
 **Spring wildflowers (March-April):** Azaleas bloom across the mountain's mid-elevation slopes, creating the densest concentration of flowering color in the scenic area. The rhododendron sections near the cave entrance are particularly good.
 
 ## Seasonal Highlights
+
+![Huangdi Ancient Village Luo Landscape, Shanxi, Anhui](/img/destinations/anhui-langya-mountain-guide/3.webp)
 
 **Spring (March-May):** The most popular season; azaleas in bloom, fresh green bamboo, comfortable temperatures. The famous spring mist described in Ouyang Xiu's essay — visible in the morning before the sun burns it off — is particularly evocative.
 

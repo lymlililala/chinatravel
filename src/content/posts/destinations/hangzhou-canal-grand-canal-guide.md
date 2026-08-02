@@ -12,7 +12,7 @@ tags:
   - waterway
   - culture
 description: "The Grand Canal in Hangzhou is the southern terminus of the world's longest man-made waterway — 1,794 km of human engineering that connected Beijing to the Yangtze Delta for 1,400 years. This 2026 guide covers the UNESCO heritage canal sections in Hangzhou, the best boat tours, the Canal Museum, canal-side neighbourhoods, combining with West Lake, and practical transport information."
-ogImage: "https://images.pexels.com/photos/30143824/pexels-photo-30143824.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/hangzhou-canal-grand-canal-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -23,7 +23,7 @@ Hangzhou is the canal's southern terminus, and the sections here include some of
 
 ## Understanding the Grand Canal in Hangzhou
 
-![Hangzhou Grand Canal — Understanding the Grand Canal in Hangzhou](https://images.pexels.com/photos/37436597/pexels-photo-37436597.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![West Lake Scenery, Hangzhou](/img/destinations/hangzhou-canal-grand-canal-guide/1.webp)
 
 The canal sections within Hangzhou municipality include four key heritage sections:
 
@@ -68,8 +68,6 @@ The most memorable Grand Canal experience in Hangzhou is a boat tour — either 
 
 **Short trips to canal towns:** Regular passenger boats and tour boats connect to nearby canal towns from Gongchen Bridge Wharf; Tongxiang (铜香) and Wuzhen (乌镇) are accessible by water.
 
-![Hangzhou Grand Canal — The Canal Promenade Walk](https://images.pexels.com/photos/14013179/pexels-photo-14013179.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Canal Promenade Walk
 
 The restored canal bank promenade running south from Gongchen Bridge to Wulin Square is approximately 4 km and makes an excellent morning or evening walk. The path passes:
@@ -91,6 +89,8 @@ The town is famous for its **Wumeizi (琵琶)** plums — the Tangqi loquat is c
 
 ## Grand Canal Cultural Creative Park (运河文化创意园)
 
+![Putuoshan Scenery](/img/destinations/hangzhou-canal-grand-canal-guide/2.webp)
+
 A contemporary arts and design district in converted warehouse spaces along the northern canal in the LOFT49 and adjacent areas. Several design studios, independent cafes and small galleries occupy the old warehouse buildings. Active on weekday evenings and weekends.
 
 ## Combining Canal and West Lake in Hangzhou
@@ -103,8 +103,6 @@ The Grand Canal and West Lake (西湖) are the two centrepieces of Hangzhou's he
 
 **Day 2 (Grand Canal):** Morning Gongchen Bridge area walk → Canal Museum → lunch in canal district → afternoon boat cruise → evening night cruise
 
-![Hangzhou Grand Canal — Getting to Hangzhou](https://images.pexels.com/photos/7532194/pexels-photo-7532194.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting to Hangzhou
 
 **From Shanghai:** Shanghai Hongqiao to Hangzhou East by high-speed rail, approximately 45 minutes; tickets ¥55–¥90 ($8–$13). Among China's most convenient inter-city connections.
@@ -114,6 +112,8 @@ The Grand Canal and West Lake (西湖) are the two centrepieces of Hangzhou's he
 **From Ningbo:** 1 hour high-speed; ¥70–¥120 ($10–$17).
 
 ## Getting Around Hangzhou
+
+![Taiziwan Park Landscape, Hangzhou](/img/destinations/hangzhou-canal-grand-canal-guide/3.webp)
 
 **Metro:** Hangzhou's metro network now has 8+ lines, covering the canal area on Lines 3 and 5. The Gongchen Bridge area is served by metro.
 

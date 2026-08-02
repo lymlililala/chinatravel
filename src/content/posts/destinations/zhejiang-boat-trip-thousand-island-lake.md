@@ -10,16 +10,16 @@ tags:
   - nature
   - day-trip
 description: "Qiandao Lake (Thousand Island Lake) in Zhejiang — the crystal clear reservoir with 1,078 forested islands, how to do it as a day trip from Hangzhou or Shanghai, the sunken underwater city mystery, and why this underrated lake deserves more attention."
-ogImage: "https://images.pexels.com/photos/3650339/pexels-photo-3650339.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/zhejiang-boat-trip-thousand-island-lake/cover.webp"
 ---
 
 Qiandao Lake (千岛湖, Thousand Island Lake) is an artificial reservoir created by the Xin'an Jiang dam in 1959 — when the valley was flooded, 29 towns and 1,000+ villages were submerged, creating a 573 sq km lake with 1,078 forested islands rising from the clear water.
 
 The lake has extraordinary water clarity — Qiandao Lake water is used as bottled mineral water throughout China and is genuinely drinkable directly from the lake surface. The combination of pine-forested islands, clear aquamarine water, and the atmospheric morning mist creates one of Zhejiang's most photographed landscapes.
 
-![Thousand Island Lake (Qiandao Lake) & Zhejiang Trip — Getting There](https://images.pexels.com/photos/34934876/pexels-photo-34934876.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting There
+
+![West Lake Scenery, Hangzhou](/img/destinations/zhejiang-boat-trip-thousand-island-lake/1.webp)
 
 **From Hangzhou**: 1.5 hours by HSR or direct bus from Hangzhou to Chunan/Qiandao Lake city (淳安/千岛湖镇). The scenic area is 20 minutes from the town centre.
 
@@ -27,9 +27,9 @@ The lake has extraordinary water clarity — Qiandao Lake water is used as bottl
 
 **Day trip feasibility**: As a day trip from Hangzhou, comfortable. From Shanghai, very rushed — better as an overnight.
 
-![Thousand Island Lake (Qiandao Lake) & Zhejiang Trip — The Lake Experience](https://images.pexels.com/photos/5350604/pexels-photo-5350604.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Lake Experience
+
+![West Lake Landscape, Hangzhou](/img/destinations/zhejiang-boat-trip-thousand-island-lake/2.webp)
 
 The standard lake visit is by boat tour — ferries serve different circuits connecting the main islands.
 
@@ -39,9 +39,9 @@ The standard lake visit is by boat tour — ferries serve different circuits con
 
 **Photography conditions**: The lake is most beautiful in early morning when mist fills the valleys between islands and the still water reflects the pine forests. October–November for autumn colour on the island slopes.
 
-![Thousand Island Lake (Qiandao Lake) & Zhejiang Trip — The Underwater Mystery: Shi Cheng](https://images.pexels.com/photos/2408692/pexels-photo-2408692.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Underwater Mystery: Shi Cheng
+
+![West Lake Lingyin Temple, Hangzhou](/img/destinations/zhejiang-boat-trip-thousand-island-lake/3.webp)
 
 When the lake was created in 1959, the residents of two Tang dynasty walled cities — He Cheng and Shi Cheng (狮城, Lion City) — were evacuated and the cities submerged. Shi Cheng, built in 621 AD, lies at 26–40 metres depth.
 

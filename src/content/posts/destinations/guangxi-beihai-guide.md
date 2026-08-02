@@ -13,7 +13,7 @@ tags:
   - beach
   - old town
 description: "Beihai in Guangxi is one of China's best beach destinations with the famous Silver Beach (Yintan) and a well-preserved colonial-era old street. This 2026 guide covers Silver Beach (free entry), the old town, Weizhou Island, seafood dining (50-200 yuan per person), transport from Nanning and Guilin, and the best time to visit."
-ogImage: "https://images.pexels.com/photos/36204294/pexels-photo-36204294.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guangxi-beihai-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -24,7 +24,7 @@ Beihai sits on the southern coast of Guangxi, facing the Beibu Gulf (Gulf of Ton
 
 ## Silver Beach (银滩, Yintan)
 
-![Beihai Guangxi — Silver Beach (银滩, Yintan)](https://images.pexels.com/photos/31856122/pexels-photo-31856122.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Detianda Waterfall Scenery, Guangxi](/img/destinations/guangxi-beihai-guide/1.webp)
 
 Silver Beach is Beihai's headline attraction and justifies the name. The beach runs for approximately 24km along the western edge of Beihai city, with a finer and more accessible public section near the Silver Beach Park. The sand here is genuinely silver-white — composed largely of quartz fragments — and unusually fine-grained. Combined with the generally warm, clear water of the Beibu Gulf (swimming season roughly April-November), it produces a beach experience that easily matches or exceeds most of what you'll find in Hainan.
 
@@ -48,8 +48,6 @@ In the early 20th century, Beihai was designated a treaty port and became an act
 
 **Free to walk through.** The surrounding streets of the Old Town have more colonial-era buildings worth exploring if you wander off the main street.
 
-![Beihai Guangxi — Weizhou Island (涠洲岛)](https://images.pexels.com/photos/35650314/pexels-photo-35650314.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Weizhou Island (涠洲岛)
 
 About 50km offshore by ferry, Weizhou Island is one of China's youngest islands geologically (formed by volcanic activity relatively recently in geological terms) and one of its most visually striking. The island's volcanic origins are visible everywhere: black basalt rock formations on the coast, dramatic cliff faces, and soils that support a different vegetation than the mainland. The surrounding water is exceptionally clear by Chinese coastal standards, with coral reefs along parts of the coast.
@@ -62,6 +60,8 @@ About 50km offshore by ferry, Weizhou Island is one of China's youngest islands 
 
 ## Seafood in Beihai
 
+![Gupo Mountain Scenery, Guangxi](/img/destinations/guangxi-beihai-guide/2.webp)
+
 Beihai's seafood is the main culinary draw, and with good reason. The Beibu Gulf fishery produces excellent prawns, crab, clams, squid, and fish, and the seafood restaurants here are more affordable than coastal destinations in Guangdong or Zhejiang.
 
 **Night seafood market:** The cluster of restaurants on Haijiao Road (海角路) near Silver Beach operates primarily in the evening. The standard approach is to choose your seafood from tanks or fresh displays, then negotiate the price and cooking method. Expect to pay ¥50-150 per person for a good spread including beer. Watch for common tourist-area overcharging — agree on price before sitting down.
@@ -73,8 +73,6 @@ Beihai's seafood is the main culinary draw, and with good reason. The Beibu Gulf
 - Conch soup (海螺汤): Slow-cooked with vegetables, a local breakfast staple
 
 **Fish porridge (海鲜粥):** The Cantonese-style rice congee with fresh seafood is a Beihai breakfast institution. Stalls serving it open from 6am near the market areas; ¥15-25 per bowl.
-
-![Beihai Guangxi — Getting to Beihai](https://images.pexels.com/photos/37836126/pexels-photo-37836126.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting to Beihai
 
@@ -90,6 +88,8 @@ Beihai has two train stations: Beihai Station (central, older services) and Beih
 **Getting around:** The city is spread out and taxis/Didi are the most practical transport. Electric scooter rental is popular with longer-stay visitors (¥50-80 per day). The main attractions (Old Street, Silver Beach) are about 10km apart.
 
 ## Where to Stay
+
+![Ludiyan Karst Cave, Guilin](/img/destinations/guangxi-beihai-guide/3.webp)
 
 **Near Silver Beach (recommended):** Hotels and guesthouses along or near the beach road, ranging from budget (¥120-200) to mid-range resorts (¥300-600). The Sheraton Beihai and comparable properties offer the best beach access at ¥500-1,200 per night.
 

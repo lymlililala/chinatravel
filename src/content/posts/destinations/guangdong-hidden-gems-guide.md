@@ -10,7 +10,7 @@ tags:
   - "guangdong"
   - "south-china"
 description: "Explore Guangdong's lesser-known corners: a ceramic village in the north, the culinary capital of Jiangmen, and more off-the-beaten-path treasures."
-ogImage: "https://images.pexels.com/photos/31875677/pexels-photo-31875677.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guangdong-hidden-gems-guide/cover.webp"
 faq:
   - question: "Do I need a visa to visit Guangdong's rural areas?"
     answer: "Most foreign visitors need a tourist visa (L visa) for mainland China. However, if you're transiting through Guangzhou Baiyun International Airport, you may be eligible for the 144-hour visa-free policy, which allows you to stay in Guangzhou and surrounding areas (including Qingyuan and Jiangmen) for up to 6 days. Check eligibility before travel."
@@ -32,9 +32,9 @@ Guangdong is often associated with Guangzhou's dim sum and Shenzhen's skyscraper
 
 ## Shikan: Guangdong's Ceramic Village
 
-Nestled in the mountains of Qingyuan (清远, Qīngyuǎn), about an hour's drive north of Guangzhou, lies the forgotten ceramic village of Shikan (石坎, Shíkǎn). Once known as 'Little Hong Kong' during its heyday in the 1980s, this sleepy town was a thriving hub of porcelain production, with nearly 300 dragon kilns lining the riverbanks. Today, thanks to the efforts of local artisans like Mai Zi, the village is experiencing a revival.
+![Baomo Garden, Guangdong, Guangzhou](/img/destinations/guangdong-hidden-gems-guide/1.webp)
 
-![A traditional dragon kiln nestled in green hills, with smoke rising from its chimney](https://images.pexels.com/photos/37932130/pexels-photo-37932130.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+Nestled in the mountains of Qingyuan (清远, Qīngyuǎn), about an hour's drive north of Guangzhou, lies the forgotten ceramic village of Shikan (石坎, Shíkǎn). Once known as 'Little Hong Kong' during its heyday in the 1980s, this sleepy town was a thriving hub of porcelain production, with nearly 300 dragon kilns lining the riverbanks. Today, thanks to the efforts of local artisans like Mai Zi, the village is experiencing a revival.
 
 ### A History of Fire and Clay
 
@@ -43,8 +43,6 @@ Shikan's pottery history spans over 300 years. During the Qing dynasty, its ston
 ### The Revival
 
 Mai Zi, a third-generation pottery descendant, returned from Shenzhen in 2023 to revive her hometown's heritage. She and her mother documented elderly craftsmen, applied for provincial heritage status, and transformed abandoned kilns into a cultural hub. Today, visitors can explore the 'Tongxin Kiln' (同心窑) and other restored dragon kilns, now part of the Guangdong Industrial Heritage list. The site offers hands-on pottery workshops where you can try your hand at throwing clay on a wheel.
-
-![A visitor shaping clay on a pottery wheel, with finished ceramic bowls in the background](https://images.pexels.com/photos/31875677/pexels-photo-31875677.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### Getting There & Around
 
@@ -66,8 +64,6 @@ Two hours southwest of Guangzhou, Jiangmen (江门, Jiāngmén) is a sprawling c
 Taishan (台山, Táishān), a coastal county-level city under Jiangmen, is known as the 'Land of Fish and Rice.' Its signature dish is **Taishan eel rice** (台山黄鳝饭, Táishān huángshàn fàn). Fresh local eels are steamed, deboned, and stir-fried with shredded meat, then cooked with premium rice in a claypot. The result is a fragrant, oily rice with crispy burnt bottom (guoba).
 
 Another must-try is **Taishan eel rice's younger cousin**, **eel rice** (鳗鱼饭, mányú fàn). Taishan produces over 50,000 tons of eel annually, much of it exported to Japan. The fresh eel is grilled with a sweet soy glaze, yielding tender, flavorful meat.
-
-![A claypot of Taishan eel rice, with eel pieces and green onions on top](https://images.pexels.com/photos/19981737/pexels-photo-19981737.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### Xinhui: The Kingdom of Chenpi
 
@@ -112,10 +108,14 @@ Jiangmen is easily reached by high-speed rail from Guangzhou South Station (50 m
 
 ## Where to Stay
 
+![Nanyueyuan Scenery, Guangdong, Guangzhou](/img/destinations/guangdong-hidden-gems-guide/2.webp)
+
 - **Qingyuan**: Stay at a hot spring resort in Qingxin District for a relaxing soak after pottery.
 - **Jiangmen**: Choose a hotel in the city center for easy access to food streets. For a unique experience, stay in a restored Diaolou in Kaiping.
 
 ## Best Time to Visit
+
+![Chenjiaci, Guangdong, Guangzhou](/img/destinations/guangdong-hidden-gems-guide/3.webp)
 
 Guangdong has a subtropical climate. The best months are October to April, avoiding the hot, rainy summer (May-September). Spring (March-April) is pleasant but can be humid.
 
@@ -133,10 +133,6 @@ Guangdong has a subtropical climate. The best months are October to April, avoid
 - **Safety**: Rural Guangdong is safe, but watch for motorbikes on narrow roads.
 
 For more travel inspiration, check out our [Guangdong travel guides](/tags/guangdong) and [food-focused itineraries](/tags/food).
-
-![A bowl of Gujing roast goose, glazed and sliced, with plum sauce on the side](https://images.pexels.com/photos/37014727/pexels-photo-37014727.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
-![A scenic view of Kaiping Diaolou towers surrounded by rice fields](https://images.pexels.com/photos/35706953/pexels-photo-35706953.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## FAQ
 

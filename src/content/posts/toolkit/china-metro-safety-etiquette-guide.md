@@ -11,7 +11,7 @@ tags:
   - toolkit
   - safety
 description: "Essential metro safety rules, unspoken etiquette norms, and practical survival tips for navigating China's subway systems as a foreign visitor — from security checks to rush hour survival."
-ogImage: "https://images.unsplash.com/photo-1501554728187-ce583db33af7?w=900&q=80"
+ogImage: "/img/toolkit/china-metro-safety-etiquette-guide/cover.webp"
 ---
 
 Understanding how to behave on a Chinese metro — and what to watch out for — makes the difference between a stressful, confusing experience and a smooth, efficient one. This guide covers the practical and cultural rules that guidebooks often overlook.
@@ -19,6 +19,8 @@ Understanding how to behave on a Chinese metro — and what to watch out for —
 ## Table of contents
 
 ## Security Checks: What to Expect
+
+![Wanli Great Wall Scenery](/img/toolkit/china-metro-safety-etiquette-guide/1.webp)
 
 Every Chinese metro station requires passengers to pass their bags through an **X-ray scanner**, similar to airport security. This applies to all stations on every line.
 
@@ -115,6 +117,8 @@ Lost property is typically held for 30–90 days depending on the city.
 ---
 
 ## Accessibility
+
+![Badaling Great Wall, Beijing](/img/toolkit/china-metro-safety-etiquette-guide/2.webp)
 
 Chinese metro stations are designed with accessibility in mind:
 

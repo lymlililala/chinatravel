@@ -1,7 +1,7 @@
 ---
 title: "Dalian Beach & Seafood Guide: China's Most Liveable Northern Coast City"
 description: "Discover Dalian in Liaoning — northeast China's most beautiful coastal city, with European-style squares inherited from Russian and Japanese colonial periods, excellent beaches along the peninsula, world-class seafood, and a laid-back urban energy unlike any other northern Chinese city."
-ogImage: "https://images.pexels.com/photos/17583739/pexels-photo-17583739.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/liaoning-dalian-beach-seafood-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Liaoning"
 tags: ["liaoning", "dalian", "beach", "seafood", "northeast-china", "colonial-architecture", "coastal-city", "yellow-sea", "bohai"]
@@ -15,9 +15,9 @@ The city sits on a peninsula at the meeting of the **Yellow Sea and Bohai Sea**,
 
 ---
 
-![Dalian Beach & Seafood — Understanding Dalian's History](https://images.pexels.com/photos/17557990/pexels-photo-17557990.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Understanding Dalian's History
+
+![Panjinhong Beach Scenery, Liaoning](/img/destinations/liaoning-dalian-beach-seafood-guide/1.webp)
 
 Dalian's current form was largely created by **Russian and Japanese colonial planners** following the logic of European city design rather than Chinese traditional urbanism.
 
@@ -29,9 +29,9 @@ Both colonial layers sit beneath a Chinese administrative structure added after 
 
 ---
 
-![Dalian Beach & Seafood — The Beaches](https://images.pexels.com/photos/35763745/pexels-photo-35763745.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Beaches
+
+![Beiling, Shenyang](/img/destinations/liaoning-dalian-beach-seafood-guide/2.webp)
 
 Dalian has approximately 28 beaches along its peninsula coastline, ranging from urban public beaches to remote natural stretches.
 
@@ -52,8 +52,6 @@ A small island connected to the mainland by causeway, Bangchui Island has severa
 A **Jurassic Land theme park** and resort complex have been added to the area (controversial in terms of their visual impact but popular with families).
 
 ---
-
-![Dalian Beach & Seafood — Seafood in Dalian](https://images.pexels.com/photos/24973370/pexels-photo-24973370.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Seafood in Dalian
 
@@ -82,6 +80,8 @@ Dalian sits at the meeting of two seas, at the same latitude as the North Sea or
 ---
 
 ## The Russian Quarter and City Squares
+
+![Bei Town Scenery, Liaoning](/img/destinations/liaoning-dalian-beach-seafood-guide/3.webp)
 
 The **Zhongshan Square area** and the streets radiating from it constitute Dalian's most architecturally distinctive district. Walking the radial boulevards in the early morning, when the neoclassical façades catch low-angle light, is one of the more unexpectedly beautiful urban walks in northeast China.
 

@@ -12,7 +12,7 @@ tags:
   - tibet
   - mountains
 description: "Daocheng Yading in southwest Sichuan is one of China's most spiritually charged landscapes — three sacred snow peaks surrounding turquoise lakes at altitudes above 4,000m. This 2026 complete guide covers altitude acclimatization, trekking routes, the inner kora circuit, best photography spots, transport logistics, and what to realistically expect from this remote Tibetan highland destination."
-ogImage: "https://images.pexels.com/photos/12034253/pexels-photo-12034253.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/sichuan-daocheng-yading-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -25,7 +25,7 @@ But for travelers willing to do the work, Daocheng Yading offers something incre
 
 ## Understanding the Sacred Peaks
 
-![Daocheng Yading Sichuan — Understanding the Sacred Peaks](https://images.pexels.com/photos/33264450/pexels-photo-33264450.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Gonggashan Snow Mountain, Sichuan](/img/destinations/sichuan-daocheng-yading-guide/1.webp)
 
 In Tibetan Buddhist tradition, the three peaks are emanations of the Bodhisattvas Chenrezig (Avalokiteshvara, compassion), Jampayang (Mañjuśrī, wisdom), and Chanadorje (Vajrapani, power) — together representing the three most important protective deities of Tibet. The mountains have been sacred since at least the 17th century when the 5th Dalai Lama is believed to have performed consecration rituals here.
 
@@ -52,8 +52,6 @@ A private driver from Chengdu costs approximately ¥2,000–2,800 for the round 
 ### From Yunnan (Southern Route)
 Coming from Yunnan via Shangri-La and Xiangcheng is increasingly popular and takes about 8–10 hours by road. This approach also helps with acclimatization — you're already at altitude in Shangri-La (3,300m) before arriving in Daocheng (3,700m).
 
-![Daocheng Yading Sichuan — Altitude Acclimatization — Critical Information](https://images.pexels.com/photos/9369626/pexels-photo-9369626.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Altitude Acclimatization — Critical Information
 
 This cannot be stressed enough. The Yading core scenic area sits at 4,200–4,800 meters. Altitude sickness (acute mountain sickness/AMS) is a real and potentially serious risk for anyone ascending rapidly from sea level.
@@ -71,6 +69,8 @@ This cannot be stressed enough. The Yading core scenic area sits at 4,200–4,80
 Diamox (Acetazolamide) is commonly used as a prophylactic. Consult a doctor before travel — typical dosage is 125–250mg twice daily, starting 24 hours before ascent. It has side effects (tingling extremities, increased urination) but is generally well-tolerated.
 
 ## The Yading Scenic Area
+
+![Tianfuguosheyingyi, Sichuan, Chengdu](/img/destinations/sichuan-daocheng-yading-guide/2.webp)
 
 ### Entry Tickets and Logistics
 - **Scenic area entrance fee**: ¥150/person (valid for 2 days)
@@ -94,8 +94,6 @@ A further 1.5km from Milk Lake, uphill. Smaller but even more intense in color �
 **Pearl Lake (珍珠海)** — 4,070m
 Below Luorong meadow, this elongated lake surrounded by forest is actually the most photographed spot in Yading. The boardwalk path around its shore and the mountain reflections in the water are iconic. Don't skip it in favor of rushing to higher areas.
 
-![Daocheng Yading Sichuan — Trekking Routes](https://images.pexels.com/photos/37769787/pexels-photo-37769787.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Trekking Routes
 
 ### The Inner Kora (小转山) — 2–3 Days
@@ -114,6 +112,8 @@ This requires excellent physical fitness, full camping/cold weather equipment, a
 - **Five-Color Lake extension**: Add 3km to the above, challenging at altitude
 
 ## Photography at Yading
+
+![Tianfuguosheyinger, Sichuan, Chengdu](/img/destinations/sichuan-daocheng-yading-guide/3.webp)
 
 Yading is one of China's great photography destinations, but getting the shots you've seen requires timing and positioning.
 

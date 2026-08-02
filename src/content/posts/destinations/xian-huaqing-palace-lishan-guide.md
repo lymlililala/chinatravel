@@ -10,7 +10,7 @@ tags:
   - history
   - destinations
 description: "Guide to Huaqing Palace (华清宫) near Xi'an — the imperial hot spring resort of Tang Dynasty Emperor Xuanzong and his concubine Yang Guifei, plus the dramatic December 9th 1936 Site where Chiang Kai-shek was captured. Includes hiking Lishan Mountain and the famous evening show."
-ogImage: "https://images.pexels.com/photos/10428759/pexels-photo-10428759.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/xian-huaqing-palace-lishan-guide/cover.webp"
 ---
 
 Thirty kilometres east of Xi'an, at the foot of Lishan Mountain (骊山), sits one of China's most layered historical sites: Huaqing Palace. This is where Tang Dynasty Emperor Xuanzong fell obsessively in love with Yang Guifei — the most celebrated beauty in Chinese history — where they bathed in natural hot springs, and where the Emperor's distraction from governance helped trigger the An Lushan Rebellion that nearly ended the dynasty. It's also where Chiang Kai-shek was captured in 1936, in the event that shaped modern Chinese history. Few sites in China carry so much concentrated drama.
@@ -19,7 +19,7 @@ Thirty kilometres east of Xi'an, at the foot of Lishan Mountain (骊山), sits o
 
 ## The History of Huaqing Palace
 
-![Huaqing Palace & Lishan Mountain — The History of Huaqing Palace](https://images.pexels.com/photos/13997553/pexels-photo-13997553.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Li Mountain Scenery](/img/destinations/xian-huaqing-palace-lishan-guide/1.webp)
 
 ### The Tang Dynasty imperial resort (618–907 AD)
 
@@ -37,9 +37,9 @@ The Xi'an Incident is one of the pivotal moments of 20th-century Chinese history
 
 ---
 
-![Huaqing Palace & Lishan Mountain — What to See at Huaqing Palace](https://images.pexels.com/photos/32646536/pexels-photo-32646536.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## What to See at Huaqing Palace
+
+![Qinlingguangtou Mountain Scenery, Xi'an](/img/destinations/xian-huaqing-palace-lishan-guide/2.webp)
 
 ### The Hot Spring Pools
 
@@ -69,8 +69,6 @@ The landscaped gardens in the palace complex contain:
 
 ---
 
-![Huaqing Palace & Lishan Mountain — Lishan Mountain (骊山)](https://images.pexels.com/photos/8193742/pexels-photo-8193742.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Lishan Mountain (骊山)
 
 The hill directly behind Huaqing Palace offers good views of the Xi'an plain and the Terracotta Warriors site (visible on clear days).
@@ -92,6 +90,8 @@ Two routes from the palace complex:
 ---
 
 ## The Evening Show: "Song of Everlasting Regret"
+
+![Jiangjieshixibei Summer Retreat Changning Palace Scenery, Shaanxi, Xi'an](/img/destinations/xian-huaqing-palace-lishan-guide/3.webp)
 
 **Lishan Shengshi Yeyan (骊山盛世夜宴)** — the evening performance using Huaqing Palace as backdrop. The show dramatises the love story of Xuanzong and Yang Guifei with:
 - Light and water projections on the palace and Lishan hillside

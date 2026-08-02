@@ -10,6 +10,7 @@ faq:
   - question: "Where can I buy authentic Jingdezhen porcelain?"
     answer: "Buy directly from artists and studios in the Taoxichuan and Sculpture Factory creative zones, or from established kilns and the markets around them, where you can see the work being made. Prices range from inexpensive market pieces to collectible studio ceramics."
 description: "Explore Jingdezhen in Jiangxi — China's ceramic capital for over 1,700 years, where imperial kilns produced porcelain for the Song, Ming, and Qing courts, and where today a vibrant community of ceramic artists from around the world continues the tradition. Includes kiln tours, workshops, the Imperial Kiln Museum, and where to buy genuine Jingdezhen ceramics."
+ogImage: "/img/destinations/jiangxi-jingdezhen-porcelain-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Jiangxi"
 tags: ["jiangxi", "jingdezhen", "porcelain", "ceramics", "imperial-kiln", "blue-and-white", "ceramic-art", "workshop"]
@@ -25,6 +26,8 @@ The **blue-and-white porcelain (青花瓷)** that became China's most influentia
 
 ## Understanding Jingdezhen Ceramics
 
+![Jinggangshan Scenery, Jiangxi](/img/destinations/jiangxi-jingdezhen-porcelain-guide/1.webp)
+
 ### Why Jingdezhen
 
 The city's dominance in ceramics rests on a specific geography: the surrounding mountains contain the world's finest **kaolin (高岭土, Gāolǐng tǔ)** — a pure white clay named for the Gaoling mountain near Jingdezhen where it was first identified (and from which the international word "kaolin" derives). Combined with the local **petuntse (瓷石, porcelain stone)**, Jingdezhen's clay body fires to the translucent white that is the defining characteristic of Chinese porcelain.
@@ -39,9 +42,9 @@ The city's dominance in ceramics rests on a specific geography: the surrounding 
 
 ---
 
-![Jingdezhen Jiangxi — What to See and Do](https://images.pexels.com/photos/9220444/pexels-photo-9220444.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## What to See and Do
+
+![Longhu Mountain Scenery, Jiangxi](/img/destinations/jiangxi-jingdezhen-porcelain-guide/2.webp)
 
 ### Imperial Kiln Museum (御窑博物馆)
 
@@ -83,6 +86,8 @@ A living-history museum where traditional ceramics production processes are demo
 ---
 
 ## Practical Information
+
+![Old Town, Wuyuan](/img/destinations/jiangxi-jingdezhen-porcelain-guide/3.webp)
 
 **Getting there:** High-speed train from Nanchang (1 hour), Shanghai (3 hours), or Hangzhou (2.5 hours).
 **Duration:** 2–3 days for a thorough visit including workshops.

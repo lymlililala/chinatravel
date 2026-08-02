@@ -14,7 +14,7 @@ tags:
   - chengdu
   - beginners
 description: "The essential China food guide for travellers: 30 must-try dishes organised by region, how to find the best versions, how to order without Chinese, food safety tips, and a guide to the regional cuisines that make Chinese food endlessly varied."
-ogImage: "https://images.pexels.com/photos/3603450/pexels-photo-3603450.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-food-guide-street-food/cover.webp"
 ---
 
 Chinese cuisine is not one cuisine. It is dozens of distinct regional cooking traditions that share ingredients and techniques but produce flavours, textures, and experiences as different from each other as Italian food is from Norwegian. The traveller who eats only hotel breakfasts and westernised Chinese restaurant menus is missing the central point of any China trip.
@@ -24,6 +24,8 @@ This guide is organised by region, so you can use it wherever you are.
 ## Table of contents
 
 ## How Chinese Cuisine Actually Works: The Eight Great Traditions
+
+![Tongli Old Town Scenery, Jiangsu, Suzhou](/img/toolkit/china-food-guide-street-food/1.webp)
 
 Chinese food scholars traditionally recognise **eight regional cuisines** (八大菜系, bā dà càixì), each with its own characteristic flavour profile:
 
@@ -200,6 +202,8 @@ Dim sum is not a dish but a tradition: dozens of small dishes, served in bamboo 
 ---
 
 ## Northwest China: Xinjiang and the Silk Road
+
+![Shi Lake Scenery, Jiangsu, Suzhou](/img/toolkit/china-food-guide-street-food/2.webp)
 
 ### Lamb Skewers (羊肉串, Yángròu Chuàn)
 

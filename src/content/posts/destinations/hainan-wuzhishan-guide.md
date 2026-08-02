@@ -12,7 +12,7 @@ tags:
   - tropical rainforest
   - off the beaten path
 description: "Beyond Sanya's beach resorts — discover Hainan Island's tropical interior, the Li and Miao minority villages of Wuzhishan, China's largest tropical rainforest at Jianfengling, and the traditional boat-shaped houses and ethnic textile culture of the Li people."
-ogImage: "https://images.pexels.com/photos/35746571/pexels-photo-35746571.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/hainan-wuzhishan-guide/cover.webp"
 ---
 
 Most visitors to Hainan spend their time on the coast — Sanya's resorts, Wuzhishan stays as a brief morning trip. But Hainan's mountainous interior is an entirely different island: tropical rainforest, Li minority villages where women still practice traditional facial tattooing, and a culture distinct from the Han coastal settlements.
@@ -21,7 +21,7 @@ Most visitors to Hainan spend their time on the coast — Sanya's resorts, Wuzhi
 
 ## Wuzhishan (五指山)
 
-![Hainan Interior — Wuzhishan (五指山)](https://images.pexels.com/photos/12387869/pexels-photo-12387869.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Boao Landscape, Hainan](/img/destinations/hainan-wuzhishan-guide/1.webp)
 
 The highest peak in Hainan (1,867 m) gives its name to both the mountain and the city at its base. The mountain itself rises abruptly from the surrounding rainforest plateau — the five peaks resemble a hand reaching upward.
 
@@ -29,9 +29,9 @@ The highest peak in Hainan (1,867 m) gives its name to both the mountain and the
 
 **River tubing and rafting:** The Wanquan River (万泉河) and its tributaries provide clear-water rafting through rainforest — particularly good in the dry season (November–April).
 
-![Hainan Interior — Li Minority Culture (黎族)](https://images.pexels.com/photos/34972517/pexels-photo-34972517.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Li Minority Culture (黎族)
+
+![Yalongwan Beach Sha Shoal, Sanya](/img/destinations/hainan-wuzhishan-guide/2.webp)
 
 The Li (黎族) are Hainan's indigenous people — present on the island for at least 3,000 years before Han settlement. Their culture, now most visible in the villages of the central highlands, includes:
 
@@ -41,9 +41,9 @@ The Li (黎族) are Hainan's indigenous people — present on the island for at 
 
 **Facial tattooing (面刺):** Elderly Li women of certain subtribes traditionally bore facial tattoos applied at adolescence — a complete system of marks encoding clan, marital status, and spiritual protection. The last generation of tattooed women are now elderly; their granddaughters don't continue the tradition. These women, when they can be met, are the living end of a practice extending back 3,000 years.
 
-![Hainan Interior — Jianfengling National Forest Park (尖峰岭国家森林公园)](https://images.pexels.com/photos/5118569/pexels-photo-5118569.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Jianfengling National Forest Park (尖峰岭国家森林公园)
+
+![Landscape Scenery, Hainan, Sanya](/img/destinations/hainan-wuzhishan-guide/3.webp)
 
 The largest and most diverse tropical rainforest in China — covering 46,500 hectares in southwest Hainan. The forest is a genuine tropical ecosystem: fig trees with buttress roots, strangler figs, tree ferns, orchids, pitcher plants (some endemic to Hainan), and birdlife including several Hainan endemic species.
 

@@ -11,7 +11,7 @@ tags:
   - itinerary
   - southwest-china
 description: "A practical 3-day Lijiang guide — navigating the old town UNESCO alleyways at golden hour, the day trip to Jade Dragon Snow Mountain (altitude acclimatization advice), the Shuhe Ancient Town day trip, and Naxi bar culture at night."
-ogImage: "https://images.unsplash.com/photo-1677922069769-0164b29e2c1a?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxMaWppYW5nJTJDJTIwWXVubmFufGVufDB8MHx8fDE3ODE5MzczMDh8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
+ogImage: "/img/destinations/yunnan-lijiang-3-days-guide/cover.webp"
 ---
 
 Lijiang's Old Town (Dayan Ancient Town) is genuinely one of the most beautiful places in China — a UNESCO World Heritage Site with a canal network and cobblestone alleys that have survived intact for 800 years. The Naxi minority people who built it created an architecture that blends Tibetan, Han, and local traditions in a way you don't see elsewhere.
@@ -22,7 +22,7 @@ Here's the tension with Lijiang: it's extremely popular. The old town has been h
 
 ## Before You Arrive
 
-![Lijiang, Yunnan — Before You Arrive](https://images.pexels.com/photos/6437449/pexels-photo-6437449.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Jade Dragon Snow Mountain Lanyuegu Scenery, Yunnan](/img/destinations/yunnan-lijiang-3-days-guide/1.webp)
 
 **Getting there:** Lijiang Sanyi Airport (LJG) receives domestic flights from Kunming (45 min), Chengdu, Chongqing, and most major Chinese cities. No international connections — you'll transit through another Chinese city.
 
@@ -36,9 +36,9 @@ Trains: Lijiang has a high-speed rail connection to Kunming (3.5 hours, ¥160) a
 
 ---
 
-![Lijiang, Yunnan — Day 1: Lijiang Old Town — Canals, Alleyways & Naxi Culture](https://images.pexels.com/photos/14553045/pexels-photo-14553045.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day 1: Lijiang Old Town — Canals, Alleyways & Naxi Culture
+
+![Shuhe Old Town Scenery, Yunnan, Lijiang](/img/destinations/yunnan-lijiang-3-days-guide/2.webp)
 
 ### Morning: Sifang Street & Canal Walk
 
@@ -66,8 +66,6 @@ Better for food: the smaller restaurants in the back alleys of the old town serv
 
 ---
 
-![Lijiang, Yunnan — Day 2: Jade Dragon Snow Mountain](https://images.pexels.com/photos/15466619/pexels-photo-15466619.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day 2: Jade Dragon Snow Mountain
 
 ### Full Day: Jade Dragon Snow Mountain
@@ -93,6 +91,8 @@ Spend the afternoon at the **Blue Moon Valley** (蓝月谷, included in park ent
 ---
 
 ## Day 3: Shuhe Ancient Town & Tiger Leaping Gorge (Option)
+
+![Shun Old Town Scenery, Yunnan](/img/destinations/yunnan-lijiang-3-days-guide/3.webp)
 
 ### Morning: Shuhe Ancient Town
 

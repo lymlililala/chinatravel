@@ -11,7 +11,7 @@ tags:
   - korean-travellers
   - east-asia
 description: "Korea to China travel guide — visa status for Korean passport holders, direct flights from Seoul Incheon and Busan, mobile payment setup with Korean cards, Korean enclaves in Chinese cities (Wangjing in Beijing, Hongqiao in Shanghai), and cultural overlaps and differences to know."
-ogImage: "https://images.pexels.com/photos/35254789/pexels-photo-35254789.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-travel-guide-korean/cover.webp"
 ---
 
 South Korea and China share one of the world's busiest air corridors. Seoul to Shanghai takes 2 hours on a plane, less time than Seoul to Busan by KTX. Millions of Koreans visit China every year — for business, for tourism, to visit Korean communities living in cities across the country, and increasingly to explore Chinese destinations that went off-trend and are now coming back.
@@ -23,6 +23,8 @@ This guide covers what Korean passport holders need to know: the current visa si
 ---
 
 ## Visa Status for Korean Passport Holders
+
+![Forbidden City Panorama Interior, Beijing](/img/toolkit/china-travel-guide-korean/1.webp)
 
 ### Current Visa-Free Entry
 
@@ -85,6 +87,8 @@ ATMs at Bank of China, ICBC, and China Construction Bank reliably accept Korean 
 ---
 
 ## Korean Communities in Chinese Cities
+
+![Jinshanling Great Wall, Beijing](/img/toolkit/china-travel-guide-korean/2.webp)
 
 ### Wangjing (望京), Beijing
 

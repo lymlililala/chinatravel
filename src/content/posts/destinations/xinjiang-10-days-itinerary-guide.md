@@ -11,7 +11,7 @@ tags:
   - silk-road
   - northwest-china
 description: "A practical 10-day Xinjiang itinerary — Urumqi as the gateway, the ancient Jiaohe ruins at Turpan, the bazaars and Id Kah Mosque in Kashgar, the autumn colors at Kanas Lake, and the logistics of getting between each destination by domestic flight and train. Registration requirements and latest travel advice."
-ogImage: "https://images.pexels.com/photos/19489123/pexels-photo-19489123.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/xinjiang-10-days-itinerary-guide/cover.webp"
 ---
 
 Xinjiang is vast — larger than Western Europe — and the most culturally distinct region in China. The landscape shifts between desert (the Taklamakan is the world's second-largest sand desert), grassland, and dramatic mountain ranges (Tianshan, Karakoram, Kunlun). The population is primarily Uyghur, Kazakh, Kyrgyz, and dozens of other Central Asian ethnicities, with Han Chinese concentrated in the newer urban areas.
@@ -22,7 +22,7 @@ Visiting Xinjiang as a foreign tourist requires understanding some practical and
 
 ## Important Practical Notes Before Planning
 
-![Xinjiang — Important Practical Notes Before Planning](https://images.pexels.com/photos/3832033/pexels-photo-3832033.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Renwenjingguan, Xinjiang](/img/destinations/xinjiang-10-days-itinerary-guide/1.webp)
 
 **Registration requirements:** Foreign visitors to Xinjiang must register with the local police within 24 hours of arriving anywhere. Hotels registered with the government handle this automatically. Private accommodation and unlicensed guesthouses cannot register you — use registered hotels throughout.
 
@@ -52,9 +52,9 @@ Visiting Xinjiang as a foreign tourist requires understanding some practical and
 
 ---
 
-![Xinjiang — Days 3-4: Turpan](https://images.pexels.com/photos/28700663/pexels-photo-28700663.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Days 3-4: Turpan
+
+![Winter Beijiang Snow Scenery](/img/destinations/xinjiang-10-days-itinerary-guide/2.webp)
 
 **Journey:** Train from Urumqi to Turpan North (吐鲁番北) takes 60 minutes (¥40-55 by HSR). Runs multiple times daily.
 
@@ -79,6 +79,8 @@ Turpan's **Grape Valley** (葡萄沟, ¥55) is a lush oasis village where Uyghur
 ---
 
 ## Days 5-7: Kashgar
+
+![Scenery, Xinjiang, Yili](/img/destinations/xinjiang-10-days-itinerary-guide/3.webp)
 
 **Journey:** Fly Turpan or Urumqi → Kashgar (喀什, KHG). Flights ~1.5-2 hours, ¥400-800. Or the stunning overnight train from Urumqi to Kashgar (24 hours, hard sleeper ¥300-400) — the Taklamakan crossing by train is an experience.
 
@@ -105,8 +107,6 @@ The **livestock market** (¥20) held on Sunday mornings in the outskirts of Kash
 The **Karakoram Highway** (KKH, 中巴公路) begins at Kashgar and climbs toward the Khunjerab Pass at the Pakistan border. A day trip to **Karakul Lake** (喀拉库勒湖, ¥75) — 3,600m altitude with Muztagh Ata (7,546m) reflected in the water — is one of the most dramatic day trips in China. Minibuses run from Kashgar to Karakul (3 hours each way, ¥60-80). The lake shore has Kyrgyz yurt accommodation for overnights.
 
 ---
-
-![Xinjiang — Days 8-10: Kanas Lake & Altay](https://images.pexels.com/photos/20791127/pexels-photo-20791127.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Days 8-10: Kanas Lake & Altay
 

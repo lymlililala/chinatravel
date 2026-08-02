@@ -10,16 +10,16 @@ tags:
   - nature
   - silk-road
 description: "The Zhangye Danxia Landform (Rainbow Mountains) in Gansu province — how to get there, the four viewpoints within the park, best lighting conditions for photography, combining with the Silk Road route, and practical logistics."
-ogImage: "https://images.pexels.com/photos/9383499/pexels-photo-9383499.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/zhangye-danxia-rainbow-mountains-guide/cover.webp"
 ---
 
 The Zhangye Danxia (张掖丹霞地貌) — known internationally as the "Rainbow Mountains" — is one of China's most visually extraordinary landscapes: multi-coloured rock formations created by 24 million years of mineral-rich sediment deposition, erosion, and tectonic uplift. The colours range from deep crimson and orange to purple, blue-grey, and cream, sometimes striated in layers mere centimetres thick.
 
 The landscape became internationally known after appearing in a National Geographic feature — and has since become one of the most photographed natural sites in China.
 
-![Zhangye Danxia Rainbow Mountains — Getting to Zhangye](https://images.pexels.com/photos/27170287/pexels-photo-27170287.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting to Zhangye
+
+![Danxia Landform Dimaodizhi Park, Zhangye](/img/destinations/zhangye-danxia-rainbow-mountains-guide/1.webp)
 
 **From Xi'an**: HSR to Zhangye Xibai station (7 hours). Xi'an → Lanzhou (2.5 hours) → Zhangye (2.5 hours more). Or Xi'an → Zhangye direct on some trains.
 
@@ -29,9 +29,9 @@ The landscape became internationally known after appearing in a National Geograp
 
 **Staying in Zhangye**: Stay in Zhangye city (1 hour drive from the park). The park itself has no accommodation.
 
-![Zhangye Danxia Rainbow Mountains — Inside the Park](https://images.pexels.com/photos/19334369/pexels-photo-19334369.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Inside the Park
+
+![Mogao Caves, Gansu, Dunhuang](/img/destinations/zhangye-danxia-rainbow-mountains-guide/2.webp)
 
 The Danxia National Geological Park (国家地质公园) covers three main areas: Danxia Colourful Landform (彩色丹霞), Binggou Danxia, and Linze Danxia. The Colourful Danxia area is the primary destination for most visitors.
 
@@ -47,8 +47,6 @@ The park has a shuttle bus system connecting the viewpoints (mandatory for visit
 
 **Viewpoint 4 (四号观景台)**: The "Qicai Waterfall" (七彩瀑布) area — small seasonal waterfalls running over the coloured rock face. Only active after significant rainfall.
 
-![Zhangye Danxia Rainbow Mountains — Light and Photography](https://images.pexels.com/photos/38070278/pexels-photo-38070278.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Light and Photography
 
 The colour intensity changes dramatically with light angle:
@@ -62,6 +60,8 @@ The colour intensity changes dramatically with light angle:
 **After rain**: Wet rock enhances colour saturation significantly. The hour after a shower passes is often the most vivid colour experience.
 
 ## Best Season
+
+![Singing Sand Dunes, Gansu, Dunhuang](/img/destinations/zhangye-danxia-rainbow-mountains-guide/3.webp)
 
 **Year-round**: The park is open all year. The formations are present regardless of season.
 

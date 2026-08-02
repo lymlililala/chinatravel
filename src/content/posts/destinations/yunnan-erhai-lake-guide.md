@@ -13,9 +13,10 @@ tags:
   - Bai minority
   - highland lake
 description: "Your complete guide to cycling around Erhai Lake near Dali — the 117 km circuit through Bai minority fishing villages, ancient temples on lake islands, the famous photography spot at Haidong sunrise, and where to find the real slow-travel experience in Yunnan."
+ogImage: "/img/destinations/yunnan-erhai-lake-guide/cover.webp"
 ---
 
-![Erhai Lake Dali sunrise — the vast blue lake reflecting the Cangshan mountain snowline at dawn, a traditional wooden fishing boat in the foreground with white egrets](https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86?w=1200&q=85)
+
 *Erhai Lake at sunrise — the 250 km² lake at 1,972 metres, backed by the Cangshan mountains, at the heart of China's most celebrated slow-travel destination*
 
 Erhai Lake (洱海) is the defining landscape of the Dali region in Yunnan — a 250 km² freshwater lake at 1,972 metres, surrounded by the Cangshan mountains (苍山) to the west and the lower hills to the east. The combination of the lake, the mountains, the Bai minority villages, and the mild climate (Dali averages 15°C year-round) has created China's most famous slow-travel destination.
@@ -23,6 +24,8 @@ Erhai Lake (洱海) is the defining landscape of the Dali region in Yunnan — a
 ## Table of contents
 
 ## Cycling the Erhai Circuit
+
+![Erhai Lake Sunrise Scenery, Dali](/img/destinations/yunnan-erhai-lake-guide/1.webp)
 
 The 117 km circuit around the lake is the essential Erhai experience — at a relaxed pace covering 40–60 km per day, it takes 2–3 days and reveals every aspect of the lake and the communities living around it.
 
@@ -42,6 +45,8 @@ The 117 km circuit around the lake is the essential Erhai experience — at a re
 
 ## Bai Minority Culture (白族)
 
+![Lugu Lake Natural Landscape](/img/destinations/yunnan-erhai-lake-guide/2.webp)
+
 The Bai people are the indigenous people of the Dali area — around 2 million people, concentrated in the Erhai basin. Their culture combines indigenous traditions with Tang Dynasty Chinese influences absorbed through the Nanzhao and Dali Kingdoms (7th–13th centuries).
 
 **Bai architecture:** White-rendered walls with painted decorative panels (blue-grey geometric patterns at the base, ink-wash landscape paintings above), upturned roofline corners, elaborate carved wooden doorways. Every Bai village has the same structural vocabulary but individual expression.
@@ -51,6 +56,8 @@ The Bai people are the indigenous people of the Dali area — around 2 million p
 **Bai Sanyue Je (三月街):** The annual Bai festival held on the 15th–20th of the lunar third month (April/May) — originally a Buddhist gathering, now the largest market and festival in Yunnan. Horse racing, traditional music, and trading.
 
 ## Practical Tips
+
+![Lugu Lake Zouhunqiao Natural Renwenjingguan, Yunnan](/img/destinations/yunnan-erhai-lake-guide/3.webp)
 
 **Getting to Dali:** Dali Airport (DLU) — flights from Kunming (40 min), Chengdu (2 hrs), Beijing (3 hrs). Or high-speed rail from Kunming to Dali (2 hrs).
 

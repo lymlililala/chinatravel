@@ -12,7 +12,7 @@ tags:
   - culture
   - nature
 description: "Fujian Province combines three extraordinary world-class experiences — the piano island of Gulangyu in Xiamen, the extraordinary circular earthen fortress villages of the Hakka people, and the most celebrated oolong tea mountains in the world."
-ogImage: "https://images.pexels.com/photos/17737860/pexels-photo-17737860.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/fujian-xiamen-tulou-tea-guide/cover.webp"
 ---
 
 Fujian Province faces Taiwan across the Taiwan Strait — a seafaring culture that sent emigrants across Southeast Asia and the world, creating the large overseas Chinese communities of Singapore, Malaysia, Philippines, and beyond. The province combines maritime heritage, extraordinary ethnic Hakka architecture, and the most prestigious tea terroir on Earth.
@@ -21,7 +21,7 @@ Fujian Province faces Taiwan across the Taiwan Strait — a seafaring culture th
 
 ## Xiamen (厦门) and Gulangyu Island
 
-![Fujian — Xiamen (厦门) and Gulangyu Island](https://images.pexels.com/photos/27093154/pexels-photo-27093154.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Yongding Earthen Tulou Scenery, Fujian](/img/destinations/fujian-xiamen-tulou-tea-guide/1.webp)
 
 Xiamen is one of China's most liveable and visually appealing cities — a subtropical coastal city with excellent seafood, walkable waterfront districts, and the extraordinary pedestrian island of Gulangyu.
 
@@ -49,9 +49,9 @@ A gentrified fishing village that became Xiamen's most vibrant and eclectic neig
 
 ---
 
-![Fujian — Hakka Tulou (福建土楼)](https://images.pexels.com/photos/35268816/pexels-photo-35268816.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Hakka Tulou (福建土楼)
+
+![Wuyi Mountain Scenery, Fujian](/img/destinations/fujian-xiamen-tulou-tea-guide/2.webp)
 
 The extraordinary circular and square earthen fortress villages of the Hakka people (客家人) — a Han Chinese ethnic group that migrated from Central China southward over 1,000 years and built these remarkable communal fortresses for defence and community living.
 
@@ -73,9 +73,9 @@ The main tourist hub for tulou visits — 2 hours by bus from Xiamen. Guided tou
 
 ---
 
-![Fujian — Wuyi Mountain (武夷山) — Tea and UNESCO Scenery](https://images.pexels.com/photos/36204285/pexels-photo-36204285.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Wuyi Mountain (武夷山) — Tea and UNESCO Scenery
+
+![Tailao Mountain Scenery, Fujian](/img/destinations/fujian-xiamen-tulou-tea-guide/3.webp)
 
 ### UNESCO World Heritage (Nature and Culture)
 Wuyi Mountain is double-listed — as a natural heritage site for its biodiversity (3,100+ plant species; rare animals including Wuyi mountain skins), and as a cultural site for its Neolithic remains and ancient Han Dynasty sites.

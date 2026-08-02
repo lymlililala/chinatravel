@@ -1,7 +1,7 @@
 ---
 title: "Dim Sum in Guangzhou: A Complete Guide to Eating Yum Cha Like a Local"
 description: "Where to eat the best dim sum in Guangzhou — top traditional teahouses, what to order, how the ordering system works, tea culture, and local etiquette."
-ogImage: "https://images.pexels.com/photos/7563033/pexels-photo-7563033.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guangzhou-dim-sum-complete-guide/cover.webp"
 pubDatetime: 2026-05-15T08:00:00Z
 modDatetime: 2026-07-22T10:00:00Z
 heroImage: "/destinations/guangzhou-dimsum.jpg"
@@ -25,11 +25,11 @@ Dim sum (点心, diǎn xīn) and yum cha (饮茶, yǐn chá — "drink tea") are
 
 The experience in Guangzhou differs significantly from dim sum outside China: the variety is greater, the quality ceiling is higher, the social atmosphere is more intense, and the ritual of the tea service has greater depth. Understanding the differences — and the etiquette around them — transforms the meal from a confusing round of small plates into one of Asia's most culturally rich dining experiences.
 
-![Guangzhou Dim Sum — What is Yum Cha?](https://images.unsplash.com/photo-1653558148655-af4633794c4d?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxXaGF0JTIwaXMlMjBZdW0lMjBDaGElM0Z8ZW58MHwwfHx8MTc4MTg0MzE5N3ww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
-
 ## Table of contents
 
 ## What is Yum Cha?
+
+![Baomo Garden, Guangdong, Guangzhou](/img/destinations/guangzhou-dim-sum-complete-guide/1.webp)
 
 Yum cha (literally "drink tea") is the Cantonese tradition of having a morning or midday meal at a teahouse, centered on tea but accompanied by a wide variety of small dishes (dim sum). The meal is explicitly social — it's where families gather on Sunday mornings, where business deals are discussed over har gow, and where elderly couples have been eating the same dishes at the same table for 40 years.
 
@@ -56,8 +56,6 @@ Tea is charged as a cover fee (茶位费, chá wèi fèi) of roughly ¥8-20 per 
 - At traditional teahouses, rinse your chopsticks, spoon, and bowl with a small pour of hot tea before eating — an old hygiene custom still widely observed.
 - When you want the teapot refilled with hot water, open the lid slightly to signal the server.
 - The youngest person at the table traditionally pours for the elders first, and never lets a guest's cup go empty.
-
-![Guangzhou Dim Sum — What to Order: Essential Dim Sum](https://images.pexels.com/photos/6529688/pexels-photo-6529688.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## What to Order: Essential Dim Sum
 
@@ -93,6 +91,8 @@ The classic core dishes that any serious yum cha should include:
 
 ## The Best Teahouses in Guangzhou
 
+![Nanyueyuan Scenery, Guangdong, Guangzhou](/img/destinations/guangzhou-dim-sum-complete-guide/2.webp)
+
 ### Guangzhou Restaurant (广州酒家)
 
 One of the most historically significant names in Cantonese cuisine — the Guangzhou Restaurant has operated in various forms since 1935. The flagship location on Wenchangnandajie still offers the full traditional yum cha service.
@@ -125,9 +125,9 @@ A reliable everyday choice popular with Guangzhou's business community. More acc
 
 The White Swan Hotel and the Garden Hotel both run excellent dim sum restaurants popular with business travelers — English menus, English-speaking staff, and consistently high quality. More expensive than the traditional houses, but the most stress-free option for a first yum cha.
 
-![Guangzhou Dim Sum — How to Navigate the Ordering System](https://images.pexels.com/photos/12935100/pexels-photo-12935100.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## How to Navigate the Ordering System
+
+![Chenjiaci, Guangdong, Guangzhou](/img/destinations/guangzhou-dim-sum-complete-guide/3.webp)
 
 **Traditional push-cart service (推车服务)**: Servers push carts loaded with specific dim sum throughout the dining room. When a cart passes with something you want, wave to the server. They'll stamp your paper order card (kept at your table, totaling the bill).
 

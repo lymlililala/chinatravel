@@ -11,7 +11,7 @@ tags:
   - day-trip
   - jiangsu
 description: "Nanjing as a day trip from Shanghai — 1 hour on the HSR, the Sun Yat-sen Mausoleum and Ming Xiaoling Tomb on Purple Mountain, the city wall (longest ancient city wall in the world), the Nanjing Massacre Memorial Hall, and the Fuzi Temple night market. Which sites to prioritise if you only have 8 hours."
-ogImage: "https://images.pexels.com/photos/18709779/pexels-photo-18709779.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/nanjing-day-trip-shanghai-guide/cover.webp"
 ---
 
 Nanjing is one of China's great historical cities — former capital of multiple dynasties, site of a terrible 20th-century atrocity, and home to architectural monuments that put it in a different category from most day-trip destinations. The G trains from Shanghai Hongqiao to Nanjing take **around 1 hour** and cost **¥84–¥137** second class. That's a low-friction access to one of China's most historically significant cities, and it should be on every China itinerary that includes a Shanghai base.
@@ -19,6 +19,8 @@ Nanjing is one of China's great historical cities — former capital of multiple
 ## Table of contents
 
 ## Getting There and Back
+
+![Gudianmingyuanliu Garden Scenery, Suzhou](/img/toolkit/nanjing-day-trip-shanghai-guide/1.webp)
 
 **From Shanghai Hongqiao Station**: G trains leave every 15–30 minutes throughout the day. Journey time approximately **60–65 minutes** to Nanjing South Station (南京南站). Fare: **¥84** second class, **¥137** first class.
 
@@ -59,6 +61,8 @@ This is not easy viewing, but it's important history. The memorial hall document
 **Note**: This is a sobering and distressing place. It's important history to understand, particularly in the context of 20th-century China, but visit with appropriate emotional preparation.
 
 ## Fuzi Temple (夫子庙) — Evening Option
+
+![Shibohui, Shanghai](/img/toolkit/nanjing-day-trip-shanghai-guide/2.webp)
 
 The Confucius Temple area (Fuzi Temple, 夫子庙) is Nanjing's traditional commercial heart — a revitalized historical district along the Qinhuai River with traditional-style architecture, restaurants, and street food vendors. It's at its most atmospheric in the evening when the lanterns along the river are lit.
 

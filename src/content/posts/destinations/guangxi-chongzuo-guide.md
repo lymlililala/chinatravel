@@ -13,7 +13,7 @@ tags:
   - border
   - waterfall
 description: "Chongzuo in southwestern Guangxi occupies one of China's most biodiverse borderland regions — home to the endangered white-headed langur, the spectacular Detian cross-border waterfall, and several ancient Zhuang minority towns along the Zuo River. This 2026 guide covers the Baise Longtan Nature Reserve, Detian Falls, the Vietnam border crossing at Pingxiang, transport and practical tips."
-ogImage: "https://images.pexels.com/photos/6502898/pexels-photo-6502898.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guangxi-chongzuo-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -26,7 +26,7 @@ This is one of China's most undervisited regions among international travellers 
 
 ## White-Headed Langur Reserve (白头叶猴保护区)
 
-![Chongzuo Guangxi — White-Headed Langur Reserve (白头叶猴保护区)](https://images.pexels.com/photos/8356906/pexels-photo-8356906.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Xingping, Guangxi, Yangshuo](/img/destinations/guangxi-chongzuo-guide/1.webp)
 
 ### About the White-Headed Langur
 
@@ -77,8 +77,6 @@ Even without crossing, the pass itself and its museum (¥30, $4) are worth visit
 
 **Practical note for the crossing:** Check current Sino-Vietnamese border regulations before planning. E-visa arrangements have changed multiple times; verify current entry requirements for your nationality at the Vietnamese embassy.
 
-![Chongzuo Guangxi — Zuo River Rock Art (左江花山岩画)](https://images.pexels.com/photos/55692/pexels-photo-55692.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Zuo River Rock Art (左江花山岩画)
 
 Inscribed on the UNESCO World Heritage List in 2016, the Zuojiang Huashan Rock Art Cultural Landscape consists of over 100 rock art sites along the Zuo River gorge. The artwork — painted directly onto sheer limestone cliffs in red iron oxide pigment — dates from roughly 500 BCE to 200 CE and was made by the ancient Luo-Yue people, ancestors of today's Zhuang.
@@ -88,6 +86,8 @@ The most accessible site is at **Huashan Scenic Area** (花山风景区), access
 **Tickets:** ¥90 ($13) including boat and scenic area access. Open 08:00–17:00.
 
 ## Getting to Chongzuo
+
+![Gupo Mountain Scenery, Guangxi](/img/destinations/guangxi-chongzuo-guide/2.webp)
 
 ### From Nanning
 
@@ -113,8 +113,6 @@ The most accessible site is at **Huashan Scenic Area** (花山风景区), access
 
 **At Mingshi Pastoral:** Several authentic Zhuang village homestays (民宿) available from ¥120–¥250/night ($17–$35) including meals.
 
-![Chongzuo Guangxi — Best Time to Visit](https://images.pexels.com/photos/8573370/pexels-photo-8573370.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Best Time to Visit
 
 **September–October:** Detian Falls are at their most spectacular following the summer rains, temperatures have moderated and the landscape is lushly green.
@@ -126,6 +124,8 @@ The most accessible site is at **Huashan Scenic Area** (花山风景区), access
 **Avoid:** Chinese national holidays at Detian — the falls become extremely crowded.
 
 ## Practical Tips
+
+![Ludiyan Karst Cave, Guilin](/img/destinations/guangxi-chongzuo-guide/3.webp)
 
 - **Mosquitoes and insects:** Subtropical borderland has significant mosquito population. Bring DEET repellent, especially for the nature reserve and Mingshi valley.
 - **Heat:** July–August temperatures reach 35–38°C. Bring cooling towels and stay well-hydrated.

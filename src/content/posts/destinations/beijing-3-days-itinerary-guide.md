@@ -11,7 +11,7 @@ tags:
   - beginners
   - north-china
 description: "A practical 3-day Beijing itinerary for first-time visitors — Day 1 covering the Forbidden City and Tiananmen, Day 2 for the Great Wall and 798, Day 3 for hutongs and local food. Includes metro directions, ticket booking tips, and realistic timing."
-ogImage: "https://images.pexels.com/photos/9431177/pexels-photo-9431177.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/beijing-3-days-itinerary-guide/cover.webp"
 ---
 
 Three days isn't enough to see everything Beijing has to offer — that's just a fact. But it's absolutely enough to hit the major sights, eat well, and get a real feel for this city's remarkable depth. Beijing has been a capital for over 700 years, and that history shows up everywhere: in the grand imperial architecture, the labyrinth of hutong alleyways, and the sheer scale of things.
@@ -22,7 +22,7 @@ This itinerary focuses on the essentials without overloading your schedule. Beij
 
 ## Before You Arrive
 
-![Beijing — Before You Arrive](https://images.pexels.com/photos/33716157/pexels-photo-33716157.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Courtyard House, Beijing](/img/destinations/beijing-3-days-itinerary-guide/1.webp)
 
 **Getting there:** Most international visitors arrive at Beijing Capital International Airport (PEK) or the newer Beijing Daxing Airport (PKX). From Capital Airport, take the Airport Express to Dongzhimen station (¥25, ~25 min), then transfer to the metro. From Daxing, take Line Daxing Express to the city (¥35, ~35 min to Caoqiao).
 
@@ -34,9 +34,9 @@ This itinerary focuses on the essentials without overloading your schedule. Beij
 
 ---
 
-![Beijing — Day 1: Tiananmen Square, Forbidden City & Wangfujing](https://images.pexels.com/photos/30346248/pexels-photo-30346248.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day 1: Tiananmen Square, Forbidden City & Wangfujing
+
+![Tiananmen, Beijing](/img/destinations/beijing-3-days-itinerary-guide/2.webp)
 
 ### Morning: Tiananmen & Forbidden City
 
@@ -61,8 +61,6 @@ Head to **Nanluoguxiang** (南锣鼓巷) in the evening — this 800-meter huton
 **Metro:** Nanluoguxiang Station (Line 8), or walk from Beixinqiao (Line 5).
 
 ---
-
-![Beijing — Day 2: Mutianyu Great Wall & 798 Art District](https://images.pexels.com/photos/33899285/pexels-photo-33899285.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day 2: Mutianyu Great Wall & 798 Art District
 
@@ -91,6 +89,8 @@ Finish the day at **Sanlitun** for dinner and drinks — this is Beijing's most 
 ---
 
 ## Day 3: Temple of Heaven, Hutong Tour & Peking Duck Send-Off
+
+![Qingxiling, Beijing](/img/destinations/beijing-3-days-itinerary-guide/3.webp)
 
 ### Morning: Temple of Heaven
 

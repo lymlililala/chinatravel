@@ -1,6 +1,7 @@
 ---
 title: "China with Kids: School Holiday Itinerary & Family-Friendly Destinations"
 description: "Plan a successful family trip to China during school holidays — the destinations that genuinely engage children (pandas, terracotta warriors, acrobatics shows, Xi'an food), managing queues and heat with young children, Chinese child hospitality culture, the surprising places where kids love China most, and the practical logistics of travelling with under-12s in China."
+ogImage: "/img/toolkit/china-kids-school-holiday-itinerary/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "family-travel", "kids", "school-holiday", "pandas", "terracotta-warriors", "chengdu", "acrobatics", "children"]
@@ -15,6 +16,8 @@ The challenges are different: heat, queues, food unfamiliarity, and the difficul
 ---
 
 ## Best Destinations for Families with Children
+
+![Shuhe Old Town Scenery, Yunnan, Lijiang](/img/toolkit/china-kids-school-holiday-itinerary/1.webp)
 
 ### Chengdu: Giant Panda Base
 
@@ -63,6 +66,8 @@ The challenges are different: heat, queues, food unfamiliarity, and the difficul
 ---
 
 ## Practical Family Travel Tips
+
+![Terracotta Army](/img/toolkit/china-kids-school-holiday-itinerary/2.webp)
 
 ### Food
 

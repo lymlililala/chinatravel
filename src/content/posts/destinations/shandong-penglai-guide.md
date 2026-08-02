@@ -12,7 +12,7 @@ tags:
   - history
   - mythology
 description: "Penglai in northern Shandong is one of China's mythical 'three fairy islands' — a place where immortals supposedly dwell and where the boundary between the earthly and supernatural has long been thin. This 2026 guide covers the famous Penglai Pavilion fortress, the Fairy Island resort coast, nearby wine country, transport connections from Qingdao and Yantai, ticket prices and practical travel tips."
-ogImage: "https://images.pexels.com/photos/17538311/pexels-photo-17538311.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/shandong-penglai-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -22,6 +22,8 @@ There's a peculiar quality to arriving in Penglai on a morning when sea mist sti
 Penglai has been a pilgrimage destination for emperors and Taoist mystics for two thousand years. Qin Shi Huang sent envoys from here to find the elixir of immortality. Han Wudi came to pray on the shore. Today the city welcomes several million tourists a year, but it retains an atmosphere that many of China's heritage towns have lost: a genuine sense of place, perched between the sea and the legends.
 
 ## Understanding Penglai: Myth and History
+
+![Kong Temple, Qufu](/img/destinations/shandong-penglai-guide/1.webp)
 
 In Chinese mythology, Penglai (蓬莱) is one of three islands in the eastern sea where immortals live and the trees bear fruit that confers eternal life. Along with Fangzhang and Yingzhou, it represented the ultimate destination for Taoist seekers. The mirage phenomenon that sometimes occurs over the Bohai Sea — known as *haishi* (海市) — reinforced this reputation, as shimmering coastal mirages appeared to confirm that magical islands existed just beyond the horizon.
 
@@ -100,6 +102,8 @@ High-speed from Beijing South to Yantai North, then onward to Penglai — total 
 
 ## Getting Around Penglai
 
+![Konglin, Qufu](/img/destinations/shandong-penglai-guide/2.webp)
+
 The city is compact. The old town, pavilion complex and most hotels are within 3–5 km of each other. Options:
 - **Taxis:** Metered, starting at ¥8 ($1.1). For the short runs between pavilion, old town and hotels, taxis are cheap and quick.
 - **Bicycle/e-scooter hire:** Available near the beach resort zone; ¥20–¥40/half day.
@@ -123,9 +127,9 @@ The city is compact. The old town, pavilion complex and most hotels are within 3
 
 **Winter (November–March):** Quiet, cold and sometimes atmospheric. The pavilion in morning frost has its own beauty. Very few foreign tourists; prices are substantially lower.
 
-![Penglai Shandong — Day Trips from Penglai](https://images.pexels.com/photos/3250079/pexels-photo-3250079.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day Trips from Penglai
+
+![Yan Temple Scenery, Shandong, Qufu](/img/destinations/shandong-penglai-guide/3.webp)
 
 ### Changdao Archipelago (长岛)
 

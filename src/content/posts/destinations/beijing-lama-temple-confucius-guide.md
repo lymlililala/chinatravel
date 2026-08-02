@@ -12,7 +12,7 @@ tags:
   - buddhism
   - history
 description: "Two of Beijing's most important religious and cultural sites sit within walking distance of each other in the northeast of the city: the magnificent Yonghe Lama Temple — China's largest Tibetan Buddhist temple outside Tibet — and the tranquil Confucius Temple complex. This 2026 guide covers both sites comprehensively, with visiting tips, ticket information, transport, and what to eat in the surrounding neighbourhood."
-ogImage: "https://images.pexels.com/photos/32463464/pexels-photo-32463464.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/beijing-lama-temple-confucius-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -23,7 +23,7 @@ Combining the Yonghe Lama Temple and the Beijing Confucius Temple complex into a
 
 ## Yonghe Lama Temple (雍和宫)
 
-![Yonghe Lama Temple & Confucius Temple Beijing — Yonghe Lama Temple (雍和宫)](https://images.pexels.com/photos/32005102/pexels-photo-32005102.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Temple of Heaven Interior, Beijing](/img/destinations/beijing-lama-temple-confucius-guide/1.webp)
 
 ### History and Significance
 
@@ -93,8 +93,6 @@ The temple's courtyards contain 198 steles recording the names of examination gr
 
 **Photography:** Excellent throughout. The Biyong Pavilion is particularly beautiful for photography in late afternoon light.
 
-![Yonghe Lama Temple & Confucius Temple Beijing — Guozijian Street (国子监街)](https://images.pexels.com/photos/18439754/pexels-photo-18439754.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Guozijian Street (国子监街)
 
 The hutong alley between the two complexes — Guozijian Street — is one of Beijing's best-preserved 18th-century commercial streets. Lined with low buildings selling traditional calligraphy materials, antique books, scholarly curios and tea, the street is also home to several excellent small restaurants and snack shops.
@@ -102,6 +100,8 @@ The hutong alley between the two complexes — Guozijian Street — is one of Be
 **Chao doufu:** The local Beijing fried fermented tofu snack; available from street carts at ¥3–¥5 per piece.
 
 ## Food Near the Two Temples
+
+![Forbidden City Scenery, Beijing](/img/destinations/beijing-lama-temple-confucius-guide/2.webp)
 
 The neighbourhood around Yonghe Temple and Guozijian Street has a good concentration of traditional Beijing food.
 
@@ -111,9 +111,9 @@ The neighbourhood around Yonghe Temple and Guozijian Street has a good concentra
 
 **Vegetarian option:** Several vegetarian Buddhist restaurants serve the area around Yonghe Temple; look for signs with lotus imagery. A full lunch costs ¥40–¥80 ($6–$11).
 
-![Yonghe Lama Temple & Confucius Temple Beijing — Getting There](https://images.pexels.com/photos/6952101/pexels-photo-6952101.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting There
+
+![Temple of Heaven, Beijing](/img/destinations/beijing-lama-temple-confucius-guide/3.webp)
 
 **Metro:** Line 2, Yonghegong/Lama Temple Station, Exit D. The Confucius Temple is a 10-minute walk west through the hutong.
 

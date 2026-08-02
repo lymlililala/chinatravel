@@ -1,7 +1,7 @@
 ---
 title: "Qingdao Travel Guide: Beer, Beaches, and German Architecture"
 description: "Complete guide to Qingdao — home of Tsingtao Beer, beautiful beaches, German colonial architecture, and fresh seafood. Best beaches, beer city walking routes, practical tips for visiting Qingdao in 2026."
-ogImage: "https://images.pexels.com/photos/20167101/pexels-photo-20167101.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/qingdao-beer-beach-guide/cover.webp"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/qingdao-beach.jpg"
 category: "destinations"
@@ -15,9 +15,9 @@ Few Chinese cities have a more distinctive character than Qingdao (青岛, Qīng
 
 The combination creates something genuinely unusual in China: a coastal city that feels simultaneously deeply Chinese (in its food, its people, and its contemporary life) and visually unlike anything else in East Asia.
 
-![Qingdao — A Brief History](https://images.pexels.com/photos/30143919/pexels-photo-30143919.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## A Brief History
+
+![Tai Mountain Scenery, Shandong](/img/destinations/qingdao-beer-beach-guide/1.webp)
 
 Germany's colonial ambitions in China were realized at Qingdao in 1898, following the murder of two German missionaries in Shandong province. The Treaty of Jiaozhou Bay gave Germany a 99-year lease on the area, and the Germans immediately began transforming the small fishing village into a model colonial city.
 
@@ -49,8 +49,6 @@ The combination of seasonal flowers (each street famously blooms in a different 
 
 **Best season**: Spring (April-May) when cherry, magnolia, and other flowering trees are at peak; autumn for foliage.
 
-![Qingdao — Beaches](https://images.pexels.com/photos/36963222/pexels-photo-36963222.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Beaches
 
 Qingdao has a string of officially numbered beaches along its coastline, each with slightly different characteristics:
@@ -69,6 +67,8 @@ Qingdao has a string of officially numbered beaches along its coastline, each wi
 
 ## The Tsingtao Brewery
 
+![Kong Temple, Qufu](/img/destinations/qingdao-beer-beach-guide/2.webp)
+
 The Tsingtao Brewery (青岛啤酒博物馆, often called the Beer Museum) is both a working brewery and a tourist experience. Entry tickets (¥60-80) include a self-guided museum tour through the history of the brewery and German-influenced brewing technology, followed by a beer tasting in a 1900s-era brewing hall.
 
 The museum effectively tells the story of Qingdao itself through the history of the beer. The tasting room at the end serves fresh, unfiltered beer on draft — significantly different from the bottled Tsingtao exported internationally.
@@ -77,9 +77,9 @@ The museum effectively tells the story of Qingdao itself through the history of 
 
 **Tip**: The adjacent shops sell Tsingtao merchandise and special limited-edition beers not available in standard retail.
 
-![Qingdao — Seafood and Food Culture](https://images.pexels.com/photos/24973370/pexels-photo-24973370.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Seafood and Food Culture
+
+![Konglin, Qufu](/img/destinations/qingdao-beer-beach-guide/3.webp)
 
 Qingdao's food scene is dominated by seafood from the Yellow Sea. The combination of proximity to the fishing grounds and Shandong's (山东) cooking tradition — which tends toward bold, honest flavors rather than complex spicing — produces some of China's best straightforward seafood cooking.
 

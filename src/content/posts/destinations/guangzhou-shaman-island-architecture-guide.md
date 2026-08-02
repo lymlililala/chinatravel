@@ -1,7 +1,7 @@
 ---
 title: "Guangzhou Shamian Island: Colonial Architecture and Riverside Escape"
 description: "Guide to visiting Shamian Island (沙面岛) in Guangzhou — a former foreign concession island with beautifully preserved European colonial architecture, café culture and riverside walks."
-ogImage: "https://images.pexels.com/photos/1013433/pexels-photo-1013433.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guangzhou-shaman-island-architecture-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Guangzhou", "Shamian Island", "沙面", "colonial architecture", "Guangzhou attractions", "Canton history"]
@@ -9,9 +9,9 @@ tags: ["Guangzhou", "Shamian Island", "沙面", "colonial architecture", "Guangz
 
 Shamian Island (沙面岛, Shāmiàn Dǎo) is a 0.3 km² sandbank in the Pearl River in central Guangzhou that served as the British and French Foreign Concession from 1859 to 1945. The island contains over 150 European-style colonial buildings — churches, consulates, banks, hotels and residences in Italian Baroque, Gothic Revival, Art Deco and French Colonial styles — preserved with unusual completeness as a cultural heritage zone.
 
-![Guangzhou Shamian Island — Historical Background](https://images.pexels.com/photos/6769739/pexels-photo-6769739.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Historical Background
+
+![Shamianoulu Architecture Scenery, Guangdong, Guangzhou](/img/destinations/guangzhou-shaman-island-architecture-guide/1.webp)
 
 Following China's defeat in the Second Opium War (1856–1860), Britain and France established separate concession zones on the small island. The British occupied the larger western section; the French the eastern quarter. A wall and canal separated the foreign concession from the Chinese city.
 
@@ -19,9 +19,9 @@ The foreigners built their corner of Europe in the Pearl River: the Christ Churc
 
 The concession ended when the Japanese occupied Guangzhou in 1938; after 1945 the buildings passed to various Chinese state uses and much of the residential fabric has been conserved.
 
-![Guangzhou Shamian Island — The Architecture](https://images.pexels.com/photos/34661673/pexels-photo-34661673.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Architecture
+
+![Taishanshangchuan Island Scenery, Guangdong](/img/destinations/guangzhou-shaman-island-architecture-guide/2.webp)
 
 **British Section (western ¾ of the island)**: The most extensive colonial streetscape. The buildings along Shamian Dajie (沙面大街) are the most photographed — long horizontal facades with French windows, wrought iron balconies, shuttered jalousies and tropical garden settings. The scale is domestic rather than imperial: these were comfortable merchant residences, not grand administrative statements.
 
@@ -30,8 +30,6 @@ The concession ended when the Japanese occupied Guangzhou in 1938; after 1945 th
 **French Section (eastern quarter)**: The Immaculate Conception Cathedral (现在的天主教圣母无原罪堂) is the visual anchor — a yellow stucco French Colonial church with twin towers and a plaza.
 
 **Former Victoria Hotel**: The building that became the White Swan Hotel (1983) — China's first joint-venture luxury hotel — is on the western tip of the island. The building has been expanded and modernized but the original colonial structure is incorporated.
-
-![Guangzhou Shamian Island — Visiting Today](https://images.unsplash.com/photo-1638835952700-01f929655a40?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw2fHxWaXNpdGluZyUyMFRvZGF5fGVufDB8MHx8fDE3ODE4NDMyMjJ8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## Visiting Today
 
@@ -44,6 +42,8 @@ Shamian Island is a functioning residential area with cafes, restaurants, boutiq
 **Photography**: The island's scale and quality of preservation make it outstanding for architectural photography. The combination of tropical vegetation (huge banyans, ancient ficus) with European-style facades produces an aesthetic found nowhere else in China.
 
 ## Cafes and Food
+
+![Taishannaqinban Island Scenery, Guangdong](/img/destinations/guangzhou-shaman-island-architecture-guide/3.webp)
 
 Shamian has become one of Guangzhou's more interesting café scenes, partly because the colonial buildings provide excellent spatial settings:
 

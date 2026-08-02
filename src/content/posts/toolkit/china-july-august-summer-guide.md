@@ -1,6 +1,7 @@
 ---
 title: "China July & August Travel Guide: Where to Go When the Country Is on Holidays"
 description: "Plan a successful summer trip to China in July or August — the hottest, most crowded, most expensive season that is also unavoidable for many visitors. Covers altitude escapes from the heat, the best mountain destinations, managing the school holiday crowd surge, typhoon season impacts on east coast plans, and the summer destinations that are actually best in this season."
+ogImage: "/img/toolkit/china-july-august-summer-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "july", "august", "summer-travel", "crowds", "altitude", "typhoon", "school-holidays", "heat"]
@@ -15,6 +16,8 @@ The key to a successful summer trip to China is **understanding where heat and c
 ---
 
 ## The Heat Problem
+
+![Gudianmingyuanliu Garden Scenery, Suzhou](/img/toolkit/china-july-august-summer-guide/1.webp)
 
 **The "Three Furnaces" (三大火炉):** Chinese tradition designates Wuhan, Nanjing, and Chongqing as the three hottest cities in summer — all sit in river valleys with high humidity that traps heat. July temperatures regularly exceed 38°C; humidity makes it feel worse. Other cities with punishing summer heat:
 - Shanghai: 32–38°C, high humidity
@@ -57,6 +60,8 @@ Popular sites — Zhangjiajie, Jiuzhaigou, Huangshan, the Li River in Guilin, th
 ---
 
 ## Typhoon Season
+
+![Zhuozheng Garden, Suzhou](/img/toolkit/china-july-august-summer-guide/2.webp)
 
 The **typhoon season** runs from June through October, with peak activity in July–September. Typhoons form in the Western Pacific and make landfall primarily on the **Guangdong, Fujian, Zhejiang, and Hainan coasts.** Inland China is generally unaffected by typhoons (though the remnant rain systems can cause flooding in river valleys).
 

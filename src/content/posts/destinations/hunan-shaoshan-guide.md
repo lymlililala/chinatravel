@@ -12,7 +12,7 @@ tags:
   - history
   - culture
 description: "Shaoshan, the birthplace of Mao Zedong, is one of China's most visited 'red tourism' sites — drawing millions of Chinese visitors annually on political pilgrimages. This 2026 guide covers the key historical sites, what to expect as an international visitor, how to get there from Changsha, tickets, accommodation and the fascinating surrounding countryside of central Hunan province."
-ogImage: "https://images.pexels.com/photos/37283319/pexels-photo-37283319.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/hunan-shaoshan-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -23,7 +23,7 @@ As a foreign visitor, you'll find Shaoshan genuinely interesting — not as hagi
 
 ## The Main Sites in Shaoshan
 
-![Shaoshan Hunan — The Main Sites in Shaoshan](https://images.pexels.com/photos/38163825/pexels-photo-38163825.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Heng Mountain Scenery, Hunan](/img/destinations/hunan-shaoshan-guide/1.webp)
 
 ### Mao Zedong's Childhood Home (毛泽东故居)
 
@@ -85,6 +85,8 @@ The site has been developed as a scenic area with the residential compound prese
 
 ## Where to Stay
 
+![Ancient Town Landscape Scenery, Fenghuang](/img/destinations/hunan-shaoshan-guide/2.webp)
+
 Shaoshan is most commonly visited as a day trip from Changsha, but staying overnight gives you access to the early morning quieter atmosphere at the birthplace — before the day-trip crowds arrive.
 
 **Budget:** Multiple hostels and small hotels near the main square from ¥120–¥200/night ($17–$28). Basic but functional.
@@ -110,9 +112,9 @@ Shaoshan is most commonly visited as a day trip from Changsha, but staying overn
 - **Shopping:** Red memorabilia is everywhere — Mao badges, posters, busts, quotation books. Quality varies enormously. The museum shop has slightly more reliable items.
 - **Connectivity:** Good 4G/5G coverage throughout Shaoshan. WeChat Pay accepted at most restaurants and shops.
 
-![Shaoshan Hunan — The Broader Red Tourism Context](https://images.pexels.com/photos/33337403/pexels-photo-33337403.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Broader Red Tourism Context
+
+![Guojiasenlin Park, Zhangjiajie](/img/destinations/hunan-shaoshan-guide/3.webp)
 
 Shaoshan sits at the centre of China's "red tourism" (红色旅游) industry — a government-backed initiative that encourages visits to sites associated with Communist Party history, framed as patriotic education. The infrastructure investment has been substantial: the dedicated high-speed railway, numerous museums, statue plazas and visitor centres all serve a system designed to perpetuate collective memory and national identity.
 

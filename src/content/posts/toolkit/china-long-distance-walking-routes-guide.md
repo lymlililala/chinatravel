@@ -1,6 +1,7 @@
 ---
 title: "China Long-Distance Walking Routes: The Great Wall, Sichuan to Tibet & Beyond"
 description: "Plan a multi-day walk in China — the increasingly popular unrestored Great Wall sections in Hebei, the Sichuan-Tibet Highway's parallel trekking routes, the ancient Tea Horse Road footpaths through Yunnan, the Camino-style pilgrim circuit of Wutai Mountain, and the practical information for independent long-distance walking in China."
+ogImage: "/img/toolkit/china-long-distance-walking-routes-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "long-distance-walking", "great-wall-hike", "tea-horse-road", "trekking", "sichuan-tibet", "wutai-mountain", "pilgrimage"]
@@ -13,6 +14,8 @@ China's long-distance walking culture is less developed than its European or Nor
 ---
 
 ## The Great Wall Wild Sections: Hebei
+
+![Huanglongwucaichi Scenery](/img/toolkit/china-long-distance-walking-routes-guide/1.webp)
 
 The **unrestored sections** of the Great Wall in Hebei Province — outside the tourist circuit of Mutianyu and Badaling — offer the most dramatic walking in northern China: wall sections in various states of ruin, crumbling towers with vegetation growing through them, and ridge-top walking with extraordinary views.
 
@@ -49,6 +52,8 @@ The **Ancient Tea Horse Road (茶马古道)** was the trade route connecting Yun
 ---
 
 ## Wutai Mountain Pilgrimage Circuit (五台山)
+
+![Jilong Valley Scenery, Tibet](/img/toolkit/china-long-distance-walking-routes-guide/2.webp)
 
 **Wutai Mountain** — one of China's four sacred Buddhist mountains — has a traditional pilgrimage circuit connecting the mountain's five peaks (North, South, East, West, and Central Terraces) by foot.
 

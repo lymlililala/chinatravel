@@ -13,7 +13,7 @@ tags:
   - seafood
   - hakka culture
 description: "Zhangzhou in Fujian province is the perfect base for Fujian Tulou day trips and the spectacular Zhangpu flower fields (February-March). This 2026 guide covers Nanjing Tulou cluster access, the flower sea at Yunxiao (free entry), local seafood cuisine (30-100 yuan), transport from Xiamen (30 minutes), and the historic Zhangzhou Old City."
-ogImage: "https://images.pexels.com/photos/13442117/pexels-photo-13442117.png?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/fujian-zhangzhou-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -24,7 +24,7 @@ Most visitors use Xiamen as their Fujian base and take a day trip to the Tulou. 
 
 ## Fujian Tulou Day Trip from Zhangzhou
 
-![Zhangzhou Fujian — Fujian Tulou Day Trip from Zhangzhou](https://images.pexels.com/photos/34237338/pexels-photo-34237338.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Yongding Earthen Tulou Scenery, Fujian](/img/destinations/fujian-zhangzhou-guide/1.webp)
 
 The Fujian Tulou (福建土楼, earthen buildings) are the circular and square communal fortified buildings of the Hakka and Minnan peoples — multi-storey structures housing dozens or hundreds of families in a single self-contained defensive compound. The best clusters are in the mountains of Nanjing County (南靖县) and Yongding County (永定县), approximately 1-2 hours from Zhangzhou.
 
@@ -47,8 +47,6 @@ The most spectacular and least-known feature of the Zhangzhou area is the flower
 
 **Photography:** The flower fields with agricultural village buildings behind them, photographed in the morning light, produce images that are quite extraordinary. Rental bicycles are available near the main areas for cycling through the fields.
 
-![Zhangzhou Fujian — Zhangzhou Old Town](https://images.pexels.com/photos/30666222/pexels-photo-30666222.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Zhangzhou Old Town
 
 The historic core of Zhangzhou city has several features worth exploring:
@@ -60,6 +58,8 @@ The historic core of Zhangzhou city has several features worth exploring:
 **Dongshan Island (东山岛):** About 1.5 hours by bus south of Zhangzhou, Dongshan Island has one of Fujian's most beautiful beaches (Mapi Bay, 马銮湾) and the Wind-Carved Rock formation (风动石) — a precarious boulder balanced on a cliff edge. Entry to Wind-Carved Rock scenic area: ¥50. The island also has excellent seafood restaurants.
 
 ## Seafood and Local Food
+
+![Coast Xian Scenery, Fujian](/img/destinations/fujian-zhangzhou-guide/2.webp)
 
 Southern Fujian produces some of China's best seafood, and Zhangzhou sits in the middle of some of the richest coastal fishing grounds on the Taiwan Strait.
 
@@ -73,9 +73,9 @@ Southern Fujian produces some of China's best seafood, and Zhangzhou sits in the
 
 **Night seafood markets:** The coastal areas of Dongshan Island and Zhangpu have excellent night markets where fresh seafood is cooked to order. Budget ¥80-150 per person for a proper seafood spread.
 
-![Zhangzhou Fujian — Getting to Zhangzhou](https://images.pexels.com/photos/15150663/pexels-photo-15150663.png?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting to Zhangzhou
+
+![Tailao Mountain Scenery, Fujian](/img/destinations/fujian-zhangzhou-guide/3.webp)
 
 **From Xiamen:** This is the most common arrival point. Xiamen to Zhangzhou by high-speed train: approximately 30-35 minutes, tickets ¥20-35. Frequent services throughout the day. Alternatively, buses from various Xiamen terminals run frequently and take about 1 hour.
 

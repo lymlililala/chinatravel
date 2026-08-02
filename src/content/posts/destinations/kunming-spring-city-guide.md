@@ -1,7 +1,7 @@
 ---
 title: "Kunming Travel Guide: Spring City Gateway to Yunnan 2026"
 description: "Complete guide to Kunming, Yunnan's capital — the Stone Forest, Dianchi Lake, flower markets, and using Kunming as a base for Yunnan adventures. Climate, transport, food, and practical tips."
-ogImage: "https://images.pexels.com/photos/12671692/pexels-photo-12671692.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/kunming-spring-city-guide/cover.webp"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/kunming-spring.jpg"
 category: "destinations"
@@ -15,9 +15,9 @@ Kunming (昆明, Kūn Míng) is called the "Spring City" (春城) because it's o
 
 Most travelers use Kunming as a gateway to the rest of Yunnan — as a transit hub for Lijiang, Dali, Xishuangbanna, or the Tibetan areas of northwest Yunnan. This is perfectly reasonable. But treating Kunming as merely a stopover means missing a genuinely interesting city with its own character, history, and food culture.
 
-![Kunming — Understanding Kunming](https://images.pexels.com/photos/34419776/pexels-photo-34419776.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Understanding Kunming
+
+![Dashanshenchu Red Soil Gengdi, Yunnan](/img/destinations/kunming-spring-city-guide/1.webp)
 
 Yunnan province has been one of China's most ethnically diverse regions throughout history. Kunming sits at the center of this diversity — a hub city where the Yi, Bai, Naxi, Dai, Hani, and dozens of other ethnic groups intersect with Han Chinese and, increasingly, significant populations from Myanmar, Vietnam, and other Southeast Asian countries.
 
@@ -35,8 +35,6 @@ This diversity shows up in the food market (mushroom varieties from the highland
 
 **By Road**: Long-distance buses remain important for reaching towns not yet served by rail.
 
-![Kunming — Kunming as a Base](https://images.pexels.com/photos/34628212/pexels-photo-34628212.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Kunming as a Base
 
 Kunming's central position in Yunnan makes it the natural hub for a multi-destination Yunnan itinerary:
@@ -50,6 +48,8 @@ Kunming's central position in Yunnan makes it the natural hub for a multi-destin
 Most travelers spend 1-2 nights in Kunming at the start and/or end of a Yunnan trip, more if making day trips to the Stone Forest and Dianchi Lake.
 
 ## Stone Forest (石林)
+
+![Erhai Lake Scenery, Yunnan, Dali](/img/destinations/kunming-spring-city-guide/2.webp)
 
 The Stone Forest (石林, Shí Lín) is Kunming's most significant natural attraction and one of Yunnan's UNESCO World Heritage sites. Located about 80 km east of the city, the Stone Forest consists of towering limestone karst pillars — some reaching 30 meters — in formations that cover several hundred square kilometers.
 
@@ -66,8 +66,6 @@ The geological process that created the Stone Forest took approximately 270 mill
 
 **Yi Village**: Near the Stone Forest, the Sani (a Yi subgroup) village of Suogu Yi offers genuine cultural contact — small restaurants, craft shops, and the possibility of attending local festivals if timing is right.
 
-![Kunming — Dianchi Lake (滇池)](https://images.pexels.com/photos/36352348/pexels-photo-36352348.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Dianchi Lake (滇池)
 
 Dianchi Lake (滇池, Diān Chí) is one of the largest freshwater lakes in China's southwest, visible from Kunming's hills and historically central to the city's identity. The lake is surrounded by development on its northern and eastern shores (where it borders urban Kunming) but remains more natural in the south.
@@ -79,6 +77,8 @@ Dianchi Lake (滇池, Diān Chí) is one of the largest freshwater lakes in Chin
 **Lake Water Quality**: Dianchi has suffered significant pollution from urban runoff and agricultural chemicals over the decades. Cleanup efforts since the 2010s have improved conditions substantially, but swimming is not recommended.
 
 ## City Highlights
+
+![Dongchuan Red Soil Scenery](/img/destinations/kunming-spring-city-guide/3.webp)
 
 ### Yunnan Provincial Museum (云南省博物馆)
 

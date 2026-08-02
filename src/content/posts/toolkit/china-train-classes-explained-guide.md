@@ -11,7 +11,7 @@ tags:
   - practical
   - china
 description: "China's rail system offers a bewildering range of seat and sleeper classes across its high-speed (G/D trains) and conventional (Z/T/K trains) networks. This guide explains every class clearly — from the premium business seat to the hard sleeper — with honest assessments of comfort, value, and when to choose each."
-ogImage: "https://images.pexels.com/photos/30595797/pexels-photo-30595797.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-train-classes-explained-guide/cover.webp"
 ---
 
 China's train network is the world's most extensive high-speed rail system combined with a vast conventional network — over 155,000 kilometres of track in total. The classification system for seats and sleepers is logical once you understand it, but confusing when you first encounter the Chinese abbreviations.
@@ -21,6 +21,8 @@ This guide explains every class on every major train type, with honest advice on
 ## Table of contents
 
 ## Train Types
+
+![Xingping, Guangxi, Yangshuo](/img/toolkit/china-train-classes-explained-guide/1.webp)
 
 Before seats, you need to understand the train types, indicated by the letter prefix on the train number:
 
@@ -65,6 +67,8 @@ The standard option. A 3-2 configuration (three seats on one side, two on the ot
 **Note on the middle seat (C seat) in three-seat rows:** If you book the aisle seat in a two-seat row (A/B side), you get more elbow room. If you're with a partner, booking A and B gives you a pair without a stranger between you.
 
 ## Conventional Train Classes (Z/T/K Trains)
+
+![Wanli Great Wall Scenery](/img/toolkit/china-train-classes-explained-guide/2.webp)
 
 These trains don't have the same clean class hierarchy as high-speed trains. They're slower but often significantly cheaper for medium-distance routes.
 

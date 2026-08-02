@@ -13,9 +13,10 @@ tags:
   - Buddhist
   - coastal
 description: "A complete guide to Ningbo and the Zhoushan archipelago in Zhejiang — Putuoshan sacred island dedicated to Guanyin, the Tianyi Pavilion private library, Ningbo's Tang Dynasty Buddhist heritage, and island beaches."
+ogImage: "/img/destinations/ningbo-zhoushan-guide/cover.webp"
 ---
 
-![Putuoshan island at dawn — mist rising over the forested hills and white sand beach, with the golden Nanhai Guanyin statue visible on the southern promontory](https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=1200&q=85)
+
 *Putuoshan — China's only sacred Buddhist island, dedicated to Guanyin, with over 30 active monasteries among its forested hills*
 
 Ningbo (宁波) and the Zhoushan archipelago 30 km offshore form one of the most interesting coastal zones in eastern China. Ningbo is one of China's oldest port cities — the overseas Chinese diaspora in Southeast Asia and Japan is substantially descended from Ningbo merchants — and the Zhoushan islands contain China's holiest Buddhist island.
@@ -24,13 +25,14 @@ Ningbo (宁波) and the Zhoushan archipelago 30 km offshore form one of the most
 
 ## Putuoshan (普陀山): Sacred Island of Guanyin
 
+![Putuoshan Scenery](/img/destinations/ningbo-zhoushan-guide/1.webp)
+
 One of China's four sacred Buddhist mountains — unique in being an island (the only one of the four that isn't a mainland peak). Located in the Zhoushan archipelago, 130 km east of Shanghai, Putuoshan is dedicated to Guanyin (观音, the Bodhisattva of Compassion) and has been a pilgrimage destination since the 9th century.
 
 **The island:** 12.5 km² of forested hills, white sand beaches, and over 30 active monasteries and hermitages. Approximately 1,000 monks and nuns in permanent residence.
 
 **Getting there:** Ferry from Ningbo (2 hrs) or Shanghai Wusongkou (3 hrs); or ferry from Zhoushan island (Shenjiamen, 1 hr). The island entrance requires a conservation fee (¥160).
 
-![Putuoshan Puji Temple incense burning — enormous bronze incense burners with the main monastery hall rising behind, pilgrims in traditional costume on the stone steps](https://images.unsplash.com/photo-1584992236310-6ededdc08aa2?w=1200&q=85)
 *Puji Temple's main hall — the 10th century monastery with its famous large bronze incense burners where pilgrims gather at dawn*
 
 ### Key Sites
@@ -45,10 +47,11 @@ One of China's four sacred Buddhist mountains — unique in being an island (the
 
 **Beaches:** Qianbu Beach (千步沙) and Baibue Beach (百步沙) are accessible, clean, and popular. Swimming in summer; winter walks in near-solitude.
 
-![Tianyi Pavilion Ningbo — the Ming Dynasty private library garden with ancient pavilions, moon gates, and a peaceful reflecting pond surrounded by scholar's rocks](https://images.unsplash.com/photo-1527576539890-dfa815648363?w=1200&q=85)
 *Tianyi Pavilion — the oldest surviving private library in Asia, built 1561, with a garden that achieves perfect humidity control through natural design*
 
 ## Ningbo City
+
+![Yandang Mountain Scenery, Zhejiang, Wenzhou](/img/destinations/ningbo-zhoushan-guide/2.webp)
 
 ### Tianyi Pavilion (天一阁)
 
@@ -65,6 +68,8 @@ The building system is remarkable: ground floor is damp enough to discourage fir
 A 20-square-kilometre freshwater lake southeast of Ningbo — the largest natural lake in Zhejiang. Lakeside cycling, hiking trails, and the **Han and Song stone sculptures** that line an ancient burial road along the eastern shore — an extraordinary outdoor museum of 800-year-old stone figures, animals, and grave goods displayed in situ.
 
 ## Practical Tips
+
+![Tiantai Mountain Scenery, Zhejiang](/img/destinations/ningbo-zhoushan-guide/3.webp)
 
 **Getting to Ningbo:** Ningbo Lishe Airport (NGB) — direct flights from major Chinese cities and some international routes. High-speed rail from Shanghai (1.5 hrs), Hangzhou (1 hr).
 

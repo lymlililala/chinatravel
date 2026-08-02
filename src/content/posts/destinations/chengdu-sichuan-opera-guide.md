@@ -11,16 +11,16 @@ tags:
   - performance
   - destinations
 description: "Where to watch authentic Sichuan Opera in Chengdu — the face-changing (变脸) technique, shadow puppetry, fire breathing, and the teahouse theatre tradition. Which venues are genuinely good and which are tourist-only performances."
-ogImage: "https://images.pexels.com/photos/32276866/pexels-photo-32276866.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/chengdu-sichuan-opera-guide/cover.webp"
 ---
 
 Sichuan Opera (川剧, Chuānjù) is one of China's most visually spectacular performance traditions — and the face-changing (变脸, biǎn liǎn) technique, in which performers switch between elaborate painted masks in split seconds, is the most internationally recognised element.
 
 Understanding Sichuan Opera well means appreciating that face-changing is the flashiest but not the most sophisticated element of a 300-year-old performance tradition combining music, acrobatics, comedy, and theatrical convention.
 
-![Chengdu Sichuan Opera — What Is Sichuan Opera?](https://images.pexels.com/photos/34317793/pexels-photo-34317793.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## What Is Sichuan Opera?
+
+![Tianfuguosheyinger, Sichuan, Chengdu](/img/destinations/chengdu-sichuan-opera-guide/1.webp)
 
 Sichuan Opera is a regional variant of Chinese opera — distinct from Beijing Opera (京剧) or Cantonese Opera (粤剧) in its musical instruments, vocal techniques, story repertoire, and performance conventions.
 
@@ -31,9 +31,9 @@ Sichuan Opera is a regional variant of Chinese opera — distinct from Beijing O
 - **Puppet and shadow art** (皮影、木偶) sometimes integrated into performances
 - **Face-changing (变脸)**: The technique of swapping painted silk masks by a combination of hand motions, body turns, and eye blinks — the exact technique is a guild secret. Multiple masks are changed in sequence; some performances achieve 12+ masks in under a minute.
 
-![Chengdu Sichuan Opera — The Best Venues in Chengdu](https://images.pexels.com/photos/28452850/pexels-photo-28452850.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Best Venues in Chengdu
+
+![Lugu Lake Ligeban Island Scenery, Sichuan](/img/destinations/chengdu-sichuan-opera-guide/2.webp)
 
 ### Shufeng Yayun Teahouse (蜀风雅韵茶馆)
 
@@ -53,9 +53,9 @@ Multiple venues near the Jinli Street and Wide and Narrow Alleys offer nightly c
 
 **Recommend**: See the teahouse version first (more authentic) and the tourist version if you want more face-changing frequency.
 
-![Chengdu Sichuan Opera — The Teahouse Culture Context](https://images.pexels.com/photos/23224447/pexels-photo-23224447.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Teahouse Culture Context
+
+![Shunanzhuhai Landscape](/img/destinations/chengdu-sichuan-opera-guide/3.webp)
 
 Historically, Sichuan Opera was performed in teahouses rather than formal theatres. The audience sat with tea, snacks, and company; the performance was atmosphere as much as spectacle. This culture survives in the teahouse venues — the performance and the social context of shared tea tables are integrated.
 

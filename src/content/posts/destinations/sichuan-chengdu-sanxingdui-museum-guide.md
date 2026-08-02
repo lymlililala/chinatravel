@@ -1,7 +1,7 @@
 ---
 title: "Sanxingdui Museum Guide: China's Most Mysterious Ancient Civilization"
 description: "Visit Sanxingdui Museum near Chengdu — home to the most enigmatic artifacts in Chinese archaeology, including the extraordinary bronze tree of life, enormous goggle-eyed masks, and evidence of a sophisticated Bronze Age civilization that existed entirely outside the written history of China's Yellow River cultures."
-ogImage: "https://images.pexels.com/photos/31907873/pexels-photo-31907873.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/sichuan-chengdu-sanxingdui-museum-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Sichuan"
 tags: ["sichuan", "sanxingdui", "museum", "ancient-civilization", "bronze-age", "archaeology", "chengdu", "mystery", "bronze-masks"]
@@ -17,9 +17,9 @@ The **Sanxingdui Museum (三星堆博物馆)** houses these objects — and the 
 
 ---
 
-![Sanxingdui Museum — The Artifacts](https://images.pexels.com/photos/36766417/pexels-photo-36766417.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Artifacts
+
+![Tianfuguosheyinger, Sichuan, Chengdu](/img/destinations/sichuan-chengdu-sanxingdui-museum-guide/1.webp)
 
 ### Giant Bronze Masks
 
@@ -47,9 +47,9 @@ The **new museum wing**, opened in 2023, displays many of these new discoveries 
 
 ---
 
-![Sanxingdui Museum — The Museum Experience](https://images.pexels.com/photos/7403889/pexels-photo-7403889.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Museum Experience
+
+![Lugu Lake Ligeban Island Scenery, Sichuan](/img/destinations/sichuan-chengdu-sanxingdui-museum-guide/2.webp)
 
 ### Old Museum Wing
 
@@ -63,9 +63,9 @@ The upper floors of the new wing provide context through comparative displays of
 
 ---
 
-![Sanxingdui Museum — Key Questions the Museum Poses](https://images.pexels.com/photos/33906758/pexels-photo-33906758.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Key Questions the Museum Poses
+
+![Shunanzhuhai Landscape](/img/destinations/sichuan-chengdu-sanxingdui-museum-guide/3.webp)
 
 Walking through Sanxingdui, several mysteries become clear:
 

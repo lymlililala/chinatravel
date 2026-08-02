@@ -10,7 +10,7 @@ faq:
   - question: "How many days do you need in Hulunbuir?"
     answer: "Three to five days is ideal. The grassland is vast and the best scenery is spread out, so a multi-day loop by car lets you reach the river bends, lakes and nomadic areas without rushing. A short two-day trip only scratches the surface around Hailar."
 description: "Explore Hulunbuir Grassland in Inner Mongolia — often called the world's most beautiful grassland, covering 93,000 square kilometres with the Mörön River meandering through it, Mongolian and Evenki nomadic communities, Lake Hulun and Lake Buir, the Genghis Khan homeland, and the most accessible authentic nomadic experience in China."
-ogImage: "https://images.pexels.com/photos/35498076/pexels-photo-35498076.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/inner-mongolia-hulunbuir-grassland-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Inner Mongolia"
 tags: ["inner-mongolia", "hulunbuir", "grassland", "nomadic", "mongolian-culture", "mangen-grassland", "hailar", "evenki"]
@@ -24,9 +24,9 @@ This is the homeland of Genghis Khan, the origin point of the Mongol Empire, and
 
 ---
 
-![Hulunbuir Grassland Inner Mongolia — Why Summer (June–August)](https://images.pexels.com/photos/15080596/pexels-photo-15080596.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Why Summer (June–August)
+
+![Da Grassland, Hulunbuir, Inner Mongolia](/img/destinations/inner-mongolia-hulunbuir-grassland-guide/1.webp)
 
 Hulunbuir in summer is a superlative: **grass 60–80 cm tall**, wildflowers visible across the entire plain, temperatures pleasant at 18–25°C during the day, and the afternoon light — long at 49°N latitude — creating golden hours that last until 21:00.
 
@@ -34,9 +34,9 @@ Hulunbuir in summer is a superlative: **grass 60–80 cm tall**, wildflowers vis
 
 ---
 
-![Hulunbuir Grassland Inner Mongolia — Key Destinations](https://images.pexels.com/photos/68704/pexels-photo-68704.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Key Destinations
+
+![Manzhoulilao Architecture Scenery, Inner Mongolia](/img/destinations/inner-mongolia-hulunbuir-grassland-guide/2.webp)
 
 ### Mangen Grassland (满归草甸): Near-Pristine Landscape
 
@@ -60,9 +60,9 @@ The **Evenki (鄂温克)** are a Tungusic people who have lived in the forests a
 
 ---
 
-![Hulunbuir Grassland Inner Mongolia — Practical Information](https://images.pexels.com/photos/30109531/pexels-photo-30109531.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Practical Information
+
+![Chengjisihanling Scenery, Ordos, Inner Mongolia](/img/destinations/inner-mongolia-hulunbuir-grassland-guide/3.webp)
 
 **Gateway city: Hailar (海拉尔)** — domestic flights from Beijing (2 hours), Hohhot (1.5 hours), and Harbin (1.5 hours). The city of Hailar is on the northern edge of the grassland and serves as the base for all Hulunbuir exploration.
 

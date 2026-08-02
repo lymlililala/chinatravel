@@ -20,7 +20,7 @@ tags:
   - history
   - china
 description: "Tiananmen Square is the largest public square in the world and the symbolic heart of China. This guide covers the flag ceremony at sunrise, the mausoleum, what to see around the square, security procedures, and how to combine it with the Forbidden City visit next door."
-ogImage: "https://images.pexels.com/photos/31427555/pexels-photo-31427555.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/beijing-tiananmen-square-guide/cover.webp"
 ---
 
 Tiananmen Square (天安门广场) is the geographical and symbolic centre of China. At 440,000 square metres, it's the world's largest public square. It's flanked by the Gate of Heavenly Peace (天安门) to the north, the Great Hall of the People to the west, the National Museum to the east, and Chairman Mao's Mausoleum at the south end.
@@ -31,7 +31,7 @@ For foreign visitors, Tiananmen Square is often experienced as part of a Forbidd
 
 ## The Flag-Raising Ceremony at Sunrise
 
-![Tiananmen Square Beijing — The Flag-Raising Ceremony at Sunrise](https://images.pexels.com/photos/6476047/pexels-photo-6476047.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Tiananmen Huabiao, Beijing](/img/destinations/beijing-tiananmen-square-guide/1.webp)
 
 The People's Liberation Army raises the national flag at Tiananmen Square every day at exactly the moment of sunrise (adjusted daily by the calendar). The ceremony is precise, formal, and genuinely impressive as spectacle — the soldiers emerge from the Gate of Heavenly Peace, march across the Avenue of Eternal Peace (Chang'an Avenue), and raise the flag as the sun crests the horizon.
 
@@ -59,9 +59,9 @@ This is one of Beijing's most popular dawn activities and draws enormous crowds,
 
 **The Great Hall of the People (人民大会堂):** The legislative building. Open to visitors when the National People's Congress is not in session (typically most of the year). ¥30 entry.
 
-![Tiananmen Square Beijing — Security Procedures](https://images.pexels.com/photos/7785068/pexels-photo-7785068.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Security Procedures
+
+![Tiananmen Yingxiongjinianbei, Beijing](/img/destinations/beijing-tiananmen-square-guide/2.webp)
 
 Entering Tiananmen Square requires passing security checkpoints. You'll need to pass through a scanner and present ID (passport for foreigners). There are multiple entry points — the north and south ends of the square, and from Chang'an Avenue on the east and west sides.
 
@@ -70,6 +70,8 @@ Entering Tiananmen Square requires passing security checkpoints. You'll need to 
 **Rules in the square:** Large gatherings, protests, and demonstrations are not permitted. Photography is generally free. Flying drones in the square requires special permits (in practice, flying a drone over Tiananmen Square without permits is not a good idea).
 
 ## Combining With the Forbidden City
+
+![Forbidden City Panorama Interior, Beijing](/img/destinations/beijing-tiananmen-square-guide/3.webp)
 
 The Forbidden City (故宫) sits immediately north of Tiananmen Gate. The standard route for most visitors:
 
@@ -83,8 +85,6 @@ The Forbidden City (故宫) sits immediately north of Tiananmen Gate. The standa
 This gives a single north-south transect of several kilometres through the heart of imperial Beijing.
 
 **Ticket booking:** Forbidden City tickets must be booked online in advance (no walk-up sales). Book on the official Palace Museum website (booking.dpm.org.cn) at least 3 days ahead.
-
-![Tiananmen Square Beijing — The Surrounding Area](https://images.pexels.com/photos/8584022/pexels-photo-8584022.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Surrounding Area
 

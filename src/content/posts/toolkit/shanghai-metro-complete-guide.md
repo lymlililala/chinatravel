@@ -11,7 +11,7 @@ tags:
   - shanghai
   - toolkit
 description: "A complete guide to Shanghai's metro system — 20 lines, the Maglev, how to pay, which lines serve every major attraction, and practical tips for using the metro efficiently as a first-time visitor."
-ogImage: "https://images.pexels.com/photos/3960134/pexels-photo-3960134.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/shanghai-metro-complete-guide/cover.webp"
 ---
 
 Shanghai's metro is the world's longest subway system by total track length, yet it's remarkably intuitive to navigate. Clear English signage, multiple payment options, and a network that reaches virtually every tourist destination make it the backbone of getting around the city.
@@ -19,6 +19,8 @@ Shanghai's metro is the world's longest subway system by total track length, yet
 ## Table of contents
 
 ## Key Facts: Shanghai Metro in Numbers
+
+![Shiji Park, Shanghai](/img/toolkit/shanghai-metro-complete-guide/1.webp)
 
 - **Lines**: 20 (including several suburban and elevated lines)
 - **Stations**: 508
@@ -115,6 +117,8 @@ The **Shanghai Maglev** runs between Pudong Airport (PVG) and **Longyang Road** 
 ---
 
 ## Hongqiao Station: Arriving by High-Speed Train
+
+![Yuyuanchenghuang Temple, Shanghai](/img/toolkit/shanghai-metro-complete-guide/2.webp)
 
 Hongqiao Railway Station (虹桥站) is the major high-speed train hub at Shanghai's west end. From here:
 - **Metro Line 2** (direct to city centre, Bund area, Pudong Airport): ~45 minutes

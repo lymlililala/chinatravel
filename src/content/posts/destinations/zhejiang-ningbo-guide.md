@@ -12,7 +12,7 @@ tags:
   - history
   - seafood
 description: "Ningbo is Zhejiang's second city and one of China's great maritime heritage towns — home to the world's oldest private library, a handsome riverfront Bund, offshore island escapes and some of the country's finest seafood cuisine. This 2026 guide covers all major attractions, transport from Shanghai and Hangzhou, accommodation options across budgets, and practical tips for making the most of this underrated coastal city."
-ogImage: "https://images.pexels.com/photos/25237241/pexels-photo-25237241.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/zhejiang-ningbo-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -22,6 +22,8 @@ Ningbo doesn't get the credit it deserves. It sits in the shadow of Shanghai (tw
 Come here for the library that has preserved Chinese texts since 1561, for the best raw seafood you'll find anywhere in eastern China, for the Buddhist mountain an hour away, and for the offshore islands that give you a slice of the East China Sea without the crowds of more established coastal destinations.
 
 ## Top Attractions in Ningbo
+
+![Putuoshan Scenery](/img/destinations/zhejiang-ningbo-guide/1.webp)
 
 ### Tianyi Library (天一阁)
 
@@ -85,9 +87,9 @@ Ningbo is part of the East China Sea fishing basin, and its seafood culture is d
 
 **Where to eat:** The fishing village of Chunxiao (春晓) about 20 km south of the city has excellent seafood restaurants overlooking the water; dinner for two ¥150–¥250 ($21–$35). In the city, the area around Tianzifang Road has clustered good seafood restaurants.
 
-![Ningbo Zhejiang — Getting to Ningbo](https://images.pexels.com/photos/37560629/pexels-photo-37560629.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting to Ningbo
+
+![Taiziwan Park Landscape, Hangzhou](/img/destinations/zhejiang-ningbo-guide/2.webp)
 
 ### From Shanghai
 
@@ -125,9 +127,9 @@ Ningbo's city centre is compact and well-served by an expanding metro network.
 
 **Upscale (¥800–¥1,500+ / $112–$210+):** **InterContinental Ningbo**, **Marriott Ningbo**, and the boutique **Harbor View Hotel** on the waterfront are the top choices.
 
-![Ningbo Zhejiang — Best Time to Visit](https://images.pexels.com/photos/29903855/pexels-photo-29903855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Best Time to Visit
+
+![Song City Scenery, Hangzhou](/img/destinations/zhejiang-ningbo-guide/3.webp)
 
 **Spring (March–May):** The most pleasant season — warm without being hot, cherry blossoms and peach blossoms in the gardens, fresh crab season beginning.
 

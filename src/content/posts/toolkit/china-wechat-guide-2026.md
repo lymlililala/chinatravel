@@ -12,7 +12,7 @@ tags:
   - technology
   - practical
 description: "WeChat as a tourist tool — setting up an account with a foreign number, adding WeChat Pay with an international card (the process and its limits), using WeChat for maps and translation (less common but possible), Mini Programs for buying train and museum tickets, and why even travelers who prefer Alipay should have WeChat for communication and social proof."
-ogImage: "https://images.pexels.com/photos/1486577/pexels-photo-1486577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-wechat-guide-2026/cover.webp"
 ---
 
 WeChat is not optional for China travel in any meaningful sense. It's the communication layer through which an enormous portion of Chinese social and professional life flows. Even if you're committed to Alipay for payments and Amap for navigation, you'll encounter situations where someone wants to share their contact details, a business sends you a document, a restaurant wants to seat you via their WeChat booking system, or a local contact needs to reach you. Having WeChat set up and working is a foundational requirement.
@@ -20,6 +20,8 @@ WeChat is not optional for China travel in any meaningful sense. It's the commun
 ## Table of contents
 
 ## What WeChat Actually Is
+
+![Jinshanling Great Wall, Beijing](/img/toolkit/china-wechat-guide-2026/1.webp)
 
 Western visitors often think of WeChat as "China's WhatsApp." That undersells it significantly. WeChat is a comprehensive platform combining:
 
@@ -113,6 +115,8 @@ Mini Programs (小程序, Xiǎo chénxù) are apps that run inside WeChat withou
 **Accessing Mini Programs:** In WeChat, tap the search bar at the top and type the service name; filter results to show Mini Programs. Or long-press on any QR code you scan — if it's linked to a Mini Program, WeChat offers to open it directly.
 
 ## WeChat for Communication During Your Trip
+
+![Yiyuanjie Scenery, Beijing, Suzhou](/img/toolkit/china-wechat-guide-2026/2.webp)
 
 **Messaging local guides and drivers:** Most independent tour guides, car hire drivers, and guesthouse owners operate through WeChat. When you book a private tour or arrange a pickup, the driver will send their WeChat ID and expect you to add them.
 

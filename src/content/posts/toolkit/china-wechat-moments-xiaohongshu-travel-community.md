@@ -1,6 +1,7 @@
 ---
 title: "Using WeChat & Xiaohongshu to Discover Hidden China as a Tourist"
 description: "How foreign travelers can use WeChat, Xiaohongshu (Little Red Book) and Douyin to find authentic local experiences, hidden restaurants and travel tips that guidebooks miss."
+ogImage: "/img/toolkit/china-wechat-moments-xiaohongshu-travel-community/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["WeChat travel", "Xiaohongshu", "Little Red Book", "China social media", "travel tips China", "hidden restaurants China"]
@@ -9,6 +10,8 @@ tags: ["WeChat travel", "Xiaohongshu", "Little Red Book", "China social media", 
 The best restaurant recommendation I received in Chengdu didn't come from Lonely Planet, TripAdvisor or any travel blog — it came from a WeChat Moments post by a friend of a friend, showing a tiny Ma Po tofu shop on a back street with a 40-year family recipe. The best travel information in China increasingly lives on Chinese social platforms, not on Western review sites. This guide explains how to access it.
 
 ## Why Chinese Platforms Beat Western Travel Sites for China
+
+![Forbidden City Panorama Interior, Beijing](/img/toolkit/china-wechat-moments-xiaohongshu-travel-community/1.webp)
 
 **Google Maps** has limited restaurant reviews for China; the "Places" data is sparse outside tourist districts.
 
@@ -75,6 +78,8 @@ WeChat is not primarily a travel platform but its features are deeply useful for
 ---
 
 ## Douyin (Chinese TikTok) for Visual Discovery
+
+![Yiyuanjie Scenery, Beijing, Suzhou](/img/toolkit/china-wechat-moments-xiaohongshu-travel-community/2.webp)
 
 Douyin is the Chinese version of TikTok (different content, different algorithm than global TikTok). Short videos of food, travel and cultural discoveries populate the platform.
 

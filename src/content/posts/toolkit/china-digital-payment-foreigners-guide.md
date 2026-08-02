@@ -33,7 +33,7 @@ tags:
   - mobile payment
   - payment methods
 description: "Alipay & WeChat Pay in China: the latest 2026 guide to mobile payments for tourists visiting China — setup, supported cards, fees, limits, and troubleshooting."
-ogImage: "https://images.pexels.com/photos/12935093/pexels-photo-12935093.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-digital-payment-foreigners-guide/cover.webp"
 ---
 
 China has become one of the most cashless societies on Earth, and Alipay and WeChat Pay are the two apps behind it. In major cities like Shanghai, Shenzhen, and Beijing, you can travel for days without touching a banknote — paying for everything from a ¥3 bottle of water at a convenience store to a ¥500 restaurant dinner with a QR code scan through Alipay or WeChat Pay. For foreign visitors arriving for the first time, this can be simultaneously impressive and anxiety-inducing.
@@ -44,7 +44,7 @@ The good news: mobile payment in China is now straightforward for foreigners. Si
 
 ## Why Digital Payment Matters in China
 
-![Mobile Payment China — Why Digital Payment Matters in China](https://images.pexels.com/photos/4226272/pexels-photo-4226272.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Shilihualang Scenery, Zhangjiajie, Hunan](/img/toolkit/china-digital-payment-foreigners-guide/1.webp)
 
 Cash in China isn't dead, but it's increasingly awkward. Here's what you might encounter if you rely solely on cash:
 
@@ -141,8 +141,6 @@ Same as Alipay: smartphone, international phone number, passport, international 
 
 **Spending limits:** Foreign card-linked WeChat Pay accounts have spending limits — typically ¥6,000 per month for regular international card linking. This is sufficient for most trips but worth knowing for longer stays.
 
-![Mobile Payment China — Which Countries and Cards Are Supported in 2026?](https://images.pexels.com/photos/32641817/pexels-photo-32641817.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Which Countries and Cards Are Supported in 2026?
 
 As of 2026, both Alipay and WeChat Pay accept international cards issued in most countries, and neither platform maintains a restrictive country list for foreign visitors. In practice:
@@ -220,9 +218,9 @@ Despite China's digital-first payment culture, certain situations still require 
 
 **Recommended cash amount:** ¥500–¥1,500 in mixed denominations (¥100 bills plus some ¥20 and ¥10 notes) is sufficient as a backup for a 2-week trip with active digital payments.
 
-![Mobile Payment China — Getting Cash in China](https://images.pexels.com/photos/7654624/pexels-photo-7654624.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting Cash in China
+
+![Tianzi Mountain Scenery, Zhangjiajie, Hunan](/img/toolkit/china-digital-payment-foreigners-guide/2.webp)
 
 - **ATMs:** International cards (Visa, Mastercard, UnionPay) work at most bank ATMs in major cities. Look for ICBC, China Construction Bank, Bank of China, and Agricultural Bank of China. Daily withdrawal limits: typically ¥2,500–¥3,000 per transaction
 - **Bank counters:** Bring your passport for larger exchanges or if ATMs decline your card

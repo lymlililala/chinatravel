@@ -12,7 +12,7 @@ tags:
   - shaolin
   - longmen
 description: "Henan Province is the cradle of Chinese civilization — the Yellow River heartland where China's earliest dynasties rose, where Buddhism arrived and sent down roots, and where Shaolin martial arts were born. This 2026 two-day guide efficiently covers the Shaolin Temple, the Longmen Buddhist Grottoes, and Luoyang's legendary peony festival, connecting the dots between some of China's most historically significant sites."
-ogImage: "https://images.pexels.com/photos/11648438/pexels-photo-11648438.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/henan-zhengzhou-luoyang-2-days-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -23,7 +23,7 @@ Two days here — based in Luoyang with a day trip to Shaolin — covers the ess
 
 ## Getting to Henan
 
-![Zhengzhou & Luoyang — Getting to Henan](https://images.pexels.com/photos/5305571/pexels-photo-5305571.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Guanlin Temple Scenery, Henan, Luoyang](/img/destinations/henan-zhengzhou-luoyang-2-days-guide/1.webp)
 
 Zhengzhou (郑州) is the province's capital and transport hub:
 - From Beijing South: 2.5 hours HSR, ¥180–250
@@ -32,9 +32,9 @@ Zhengzhou (郑州) is the province's capital and transport hub:
 
 **Zhengzhou to Luoyang**: 45 minutes by HSR from Zhengzhou East Station (郑州东站), ¥35–65. Trains run every 30 minutes. Most visitors go straight through Zhengzhou to Luoyang — the capital itself is industrial and only worth a brief stop for Henan Museum.
 
-![Zhengzhou & Luoyang — Day 1: Shaolin Temple and Songshan Area (Full Day from Luoyang or Zhengzhou)](https://images.pexels.com/photos/13644256/pexels-photo-13644256.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day 1: Shaolin Temple and Songshan Area (Full Day from Luoyang or Zhengzhou)
+
+![Daxiangguo Temple, Kaifeng](/img/destinations/henan-zhengzhou-luoyang-2-days-guide/2.webp)
 
 ### Getting to Shaolin
 
@@ -72,8 +72,6 @@ The Songshan mountain range (嵩山) surrounding Shaolin has excellent hiking. T
 ### Accommodation Note
 
 Most visitors see Shaolin as a day trip from Zhengzhou or Luoyang and return in the evening. If you want to experience the monastery at dawn (before tourist buses arrive), overnight accommodation is available in Dengfeng Town (登封市区, 20 minutes from Shaolin), from ¥100–200/night.
-
-![Zhengzhou & Luoyang — Day 2: Longmen Grottoes and Luoyang City](https://images.pexels.com/photos/34932052/pexels-photo-34932052.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day 2: Longmen Grottoes and Luoyang City
 
@@ -122,6 +120,8 @@ A simplified version at a local restaurant: ¥40–80/person for a selection of 
 - **Luoyang Stewed Dishes (洛阳小炒)**: Various stewed meat and vegetable dishes in a Henan country style. ¥25–50/plate.
 
 ## The Peony Festival: When to Go
+
+![Chongfa Temple Scenery, Henan](/img/destinations/henan-zhengzhou-luoyang-2-days-guide/3.webp)
 
 If your China trip can accommodate April–May, timing a visit to coincide with the Luoyang Peony Festival is worthwhile. The festival transforms the city:
 - Over 1,000 cultivar varieties in bloom simultaneously

@@ -12,7 +12,7 @@ tags:
   - outdoor
   - adventure
 description: "Yangshuo — the town at the end of the Li River cruise and one of China's best outdoor activity destinations. Cycling the Yulong River valley (no motorboats, just cormorant fishermen and water buffalo), rock climbing the limestone karst towers (a genuine world-class sport climbing destination), bamboo raft drifting on the Yulong, and where to eat and drink on West Street after the day tours have left."
-ogImage: "https://images.pexels.com/photos/33899273/pexels-photo-33899273.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/yangshuo-complete-guide/cover.webp"
 ---
 
 Yangshuo is about 83km south of Guilin, at the end of the classic Li River cruise. Most people arrive here by boat, look around, and then take a bus back to Guilin — and miss what makes Yangshuo genuinely special. The town is the hub for some of the best outdoor activities in southern China: cycling through a landscape of karst peaks and rice fields on quiet rural roads, rock climbing routes on vertical limestone towers, kayaking on the slower Yulong River, and early morning views of cormorant fishermen on bamboo rafts as the mist clears from the water.
@@ -23,7 +23,7 @@ The town center (particularly West Street) is heavily commercialized — bars, s
 
 ## Cycling the Yulong River Valley (遇龙河)
 
-![Yangshuo — Cycling the Yulong River Valley (遇龙河)](https://images.pexels.com/photos/24246271/pexels-photo-24246271.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Yulong River Scenery, Guangxi, Guilin](/img/destinations/yangshuo-complete-guide/1.webp)
 
 The Yulong River runs parallel to the Li River in a quieter, more rural valley with no motorboat traffic. Cycling along the Yulong valley is the activity most visitors cite as the highlight of their Yangshuo trip.
 
@@ -80,8 +80,6 @@ Bamboo raft drifting on the Yulong River is the slower, more relaxing alternativ
 
 **Cormorant fishing:** A traditional fishing practice where trained cormorant birds dive for fish and bring them to their handler. It's now largely performed for tourists, but genuine practitioners do still use it as a supplementary fishing method. Early morning (6–8am) is when you're most likely to see it in the valleys.
 
-![Yangshuo — Kayaking and Paddleboarding](https://images.pexels.com/photos/7426192/pexels-photo-7426192.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Kayaking and Paddleboarding
 
 The Yulong River is also excellent for kayaking — the current is gentle, the scenery is constant, and the water is calm enough for inflatable boards.
@@ -90,6 +88,8 @@ The Yulong River is also excellent for kayaking — the current is gentle, the s
 **Guided half-day kayak trip:** ¥280–380 per person including transport to starting point.
 
 ## Li River Dawn: Xingping Village (兴坪古镇)
+
+![Liu River Scenery](/img/destinations/yangshuo-complete-guide/2.webp)
 
 About 30km upriver from Yangshuo, Xingping village is the location of the landscape shown on the Chinese 20-yuan note. The old town itself has well-preserved Qing Dynasty architecture.
 
@@ -107,8 +107,6 @@ Yangshuo has several established cooking schools offering half-day Guilin cuisin
 **Duration:** Half-day (4 hours)  
 **Recommended:** Yangshuo Cooking School (阳朔烹饪学校) has been operating for over 20 years with good English-language instruction.
 
-![Yangshuo — West Street and Eating in Yangshuo](https://images.pexels.com/photos/36522479/pexels-photo-36522479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## West Street and Eating in Yangshuo
 
 West Street (西街) is the backpacker hub of Yangshuo — bars, restaurants with English menus, and souvenir shops concentrated in a 500-metre pedestrian zone. It's heavily touristy but the energy in the evenings is good, and there are decent bars for an evening drink.
@@ -122,6 +120,8 @@ West Street (西街) is the backpacker hub of Yangshuo — bars, restaurants wit
 **Evening West Street drinks:** The Craft Beer Bar area off West Street has several small bars with local Guilin craft beers (¥15–30 per bottle). The atmosphere from about 8pm onwards is genuinely enjoyable — a mix of backpackers, Chinese travelers, and the remnants of day-tour groups.
 
 ## Getting to Yangshuo
+
+![Li River Lvyou Landscape, Guangxi, Guilin](/img/destinations/yangshuo-complete-guide/3.webp)
 
 **By Li River cruise:** The most scenic and traditional arrival — 4 hours from Guilin. Arrive at Yangshuo Pier (阳朔码头), 3km south of the town centre.
 

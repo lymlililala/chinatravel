@@ -11,7 +11,7 @@ tags:
   - "guangxi"
   - "guizhou"
 description: "Discover China's most stunning karst landscapes—from giant tiankeng sinkholes to underground rivers. A guide for adventurous travelers seeking hidden wonders."
-ogImage: "https://images.pexels.com/photos/6870966/pexels-photo-6870966.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/chinas-spectacular-caves-and-tiankeng-guide/cover.webp"
 faq:
   - question: "Do I need special equipment to visit caves?"
     answer: "For tourist caves like Zhijin or Furong, no special gear is needed—just comfortable shoes and a jacket. For adventure caving, you'll need a helmet, headlamp, harness, and ropes, plus a guide."
@@ -33,9 +33,9 @@ Beneath China's surface lies a hidden world of breathtaking beauty: colossal sin
 
 ## What is Karst and Why China?
 
-Karst topography forms when slightly acidic rainwater dissolves soluble rock like limestone, creating sinkholes, caves, and underground rivers. China is a global karst superpower, with over 900,000 square kilometers of karst terrain, concentrated in the southwest provinces of Guangxi (广西, Guǎngxī), Guizhou (贵州, Guìzhōu), Yunnan (云南, Yúnnán), and Chongqing (重庆, Chóngqìng). The region's warm, wet climate accelerates dissolution, producing some of the world's most spectacular surface and subterranean features.
+![Shi Lake Scenery, Jiangsu, Suzhou](/img/destinations/chinas-spectacular-caves-and-tiankeng-guide/1.webp)
 
-![A vast karst landscape with pointed limestone peaks rising from lush green plains](https://images.pexels.com/photos/36535031/pexels-photo-36535031.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+Karst topography forms when slightly acidic rainwater dissolves soluble rock like limestone, creating sinkholes, caves, and underground rivers. China is a global karst superpower, with over 900,000 square kilometers of karst terrain, concentrated in the southwest provinces of Guangxi (广西, Guǎngxī), Guizhou (贵州, Guìzhōu), Yunnan (云南, Yúnnán), and Chongqing (重庆, Chóngqìng). The region's warm, wet climate accelerates dissolution, producing some of the world's most spectacular surface and subterranean features.
 
 ## Top Caves and Tiankeng to Visit
 
@@ -51,8 +51,6 @@ Located in Bijie, Guizhou, Zhijin Cave is one of China's largest and most ornate
 ### 2. Dashiwei Tiankeng Group (大石围天坑群, Dàshíwéi Tiānkēng Qún) — Guangxi
 
 In Leye County, Guangxi, the Dashiwei Tiankeng Group contains over 20 giant sinkholes, including the world-famous Dashiwei Tiankeng itself—a 613-meter-deep, 600-meter-wide abyss. The site also features Maoxue Dong (冒气洞, Màoqì Dòng), the world's tallest cave hall at 450 meters high, where a beam of sunlight pierces through a natural skylight, creating a surreal "Hall of Sunlight."
-
-![Sunlight streaming into a massive underground cave hall through a natural skylight](https://images.pexels.com/photos/6870966/pexels-photo-6870966.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 - **Best time to visit:** October to April (dry season; avoid heavy rain which can make trails slippery).
 - **Getting there:** Fly to Baise Bama Airport (百色巴马机场), then take a bus to Leye (2 hours). Alternatively, take a high-speed train to Baise West Station, then bus to Leye.
@@ -71,8 +69,6 @@ A UNESCO World Heritage site, Wulong boasts three spectacular natural bridges (�
 ### 4. Pingshan Canyon (屏山峡谷, Píngshān Xiágǔ) — Hubei
 
 Known as "China's Semporna" for its crystal-clear emerald waters, Pingshan Canyon in Hefeng County, Enshi, offers a surreal boating experience. The 18-kilometer-long gorge features towering cliffs and water so clear that boats appear to float in mid-air. It's a karst canyon formed during the Triassic period.
-
-![A small wooden boat floating on incredibly clear turquoise water between sheer cliff walls](https://images.pexels.com/photos/13872553/pexels-photo-13872553.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 - **Best time to visit:** May to October (warm weather, best water clarity).
 - **Getting there:** Fly to Enshi Xujiaping Airport (恩施许家坪机场), then take a bus to Hefeng (2 hours). From Hefeng, local buses go to the canyon.
@@ -119,6 +115,8 @@ For more route ideas, see our [China itineraries](/tags/itinerary).
 
 ## Where to Stay
 
+![Zhongyuan Temple Scenery, Jiangsu, Suzhou](/img/destinations/chinas-spectacular-caves-and-tiankeng-guide/2.webp)
+
 - **Near Caves:** Many scenic areas have on-site hotels or guesthouses (e.g., Zhijin Cave Hotel, Wulong Fairy Mountain Resort). These offer convenience but may be basic.
 - **Near Cities:** Guiyang, Chongqing, and Guilin have international hotel chains (Hilton, Marriott) and budget options. Use booking apps like Ctrip or Trip.com.
 - **Homestays:** In rural areas, family-run guesthouses provide authentic experiences. Book through platforms like Airbnb (limited) or local travel agencies.
@@ -131,6 +129,8 @@ For more route ideas, see our [China itineraries](/tags/itinerary).
 - **Winter (December-February):** Cold in northern areas; southern karst regions remain mild. Fewer crowds.
 
 ## Costs
+
+![Gudianmingyuanliu Garden Scenery, Suzhou](/img/destinations/chinas-spectacular-caves-and-tiankeng-guide/3.webp)
 
 - **Entrance fees:** ¥80-150 per site (higher for combined tickets).
 - **Transport:** High-speed train Guiyang to Chongqing ~¥140 (second class). Local buses ¥20-50.

@@ -13,7 +13,7 @@ tags:
   - "guizhou"
   - "ningxia"
 description: "Plan a family trip combining fun, learning, and nature across China's diverse landscapes—from Gansu's Silk Road caves to Guangxi's karst wonders and Ningxia's"
-ogImage: "https://images.pexels.com/photos/12932216/pexels-photo-12932216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/family-adventures-china-educational-tours/cover.webp"
 faq:
   - question: "What is the minimum age for cave rappelling in Guangxi?"
     answer: "Most programmes accept children aged 9 and above. Professional guides and safety equipment are provided. Younger children can explore shallow caves on foot."
@@ -35,9 +35,9 @@ From the cave systems of Guizhou to the wildlife-rich forests of Guangxi, and fr
 
 ## Top Destinations for Family Educational Tours
 
-### Gansu: The Silk Road Classroom
+![Wangshi Garden Scenery, Suzhou](/img/destinations/family-adventures-china-educational-tours/1.webp)
 
-![A family viewing colorful rock layers at Zhangye Danxia](https://images.pexels.com/photos/27170287/pexels-photo-27170287.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+### Gansu: The Silk Road Classroom
 
 Gansu Province (甘肃, Gān Sù) is a living history book. The Hexi Corridor, a narrow passage flanked by the Qilian Mountains and deserts, was the lifeline of the ancient Silk Road. For families, it offers a perfect mix of natural wonders and cultural treasures.
 
@@ -52,8 +52,6 @@ Gansu Province (甘肃, Gān Sù) is a living history book. The Hexi Corridor, a
 
 ### Guangxi: Karst Caves and Rare Wildlife
 
-![Children in helmets descending into a limestone cave](https://images.pexels.com/photos/12932216/pexels-photo-12932216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 Guangxi (广西, Guǎng Xī) is a natural laboratory for geology and biology. Its dramatic karst landscape hides vast cave systems, while its forests and coast teem with unique species.
 
 **Highlights:**
@@ -67,8 +65,6 @@ Guangxi (广西, Guǎng Xī) is a natural laboratory for geology and biology. It
 
 ### Ningxia: Desert Stars and Silk Road Echoes
 
-![Family in swimwear at a pool surrounded by sand dunes](https://images.pexels.com/photos/36771812/pexels-photo-36771812.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 Ningxia (宁夏, Níng Xià) is often overlooked, but its blend of desert luxury and ancient history makes it a top choice for families. The **Desert Star Hotel** in the Tengger Desert is a destination in itself.
 
 **Highlights:**
@@ -80,8 +76,6 @@ Ningxia (宁夏, Níng Xià) is often overlooked, but its blend of desert luxury
 **Best for ages:** 5–12 (hotel activities cater to younger children)
 
 ### Guizhou: Ethnic Villages and Mountain Crafts
-
-![Woman teaching child batik dyeing](https://images.pexels.com/photos/34417965/pexels-photo-34417965.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Guizhou (贵州, Guì Zhōu) is a mosaic of minority cultures. The region's misty mountains hide villages where traditions like batik and embroidery are still alive.
 
@@ -139,6 +133,8 @@ Guizhou (贵州, Guì Zhōu) is a mosaic of minority cultures. The region's mist
 
 ## Where to Stay
 
+![Huqiu Scenery Mingshengqu Scenery, Suzhou](/img/destinations/family-adventures-china-educational-tours/2.webp)
+
 - **Gansu:** Zhangye, Jiayuguan, and Dunhuang have comfortable business hotels (¥300–600/night). For a unique experience, stay in a desert camp near Dunhuang (¥800–1,200).
 - **Guangxi:** Nanning offers international chains (¥400–800). In Leye, choose eco-lodges near the tiankeng (¥500–700).
 - **Ningxia:** The Desert Star Hotel is the highlight (¥2,000–4,000/night in peak season). Book well in advance. Yinchuan has mid-range hotels (¥300–500).
@@ -154,6 +150,8 @@ Guizhou (贵州, Guì Zhōu) is a mosaic of minority cultures. The region's mist
 **Tip:** Carry snacks from home, as rural areas have limited Western food. Bottled water is safe.
 
 ## Best Time to Visit
+
+![Zhongyuan Temple Scenery, Suzhou](/img/destinations/family-adventures-china-educational-tours/3.webp)
 
 - **Gansu:** May–October (summer is warm but dry; July–August peak).
 - **Guangxi:** April–October (summer is hot and humid; June–August has frequent rain but lush scenery).

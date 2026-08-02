@@ -1,7 +1,7 @@
 ---
 title: "Quanzhou: China's Maritime Silk Road Starting Point — Travel Guide 2026"
 description: "Discover Quanzhou, Fujian — a UNESCO World Heritage city and ancient hub of global maritime trade. Mosques, Hindu temples, Buddhist relics, and a multicultural history unlike anywhere else in China."
-ogImage: "https://images.pexels.com/photos/38109113/pexels-photo-38109113.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/fujian-quanzhou-maritime-silk-road/cover.webp"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/quanzhou-maritime.jpg"
 category: "destinations"
@@ -17,9 +17,9 @@ This extraordinary global commerce left a unique cultural legacy: Quanzhou retai
 
 The city received UNESCO World Heritage designation in 2021 for its role as "Quanzhou: Emporium of the World in Song-Yuan China," recognizing 22 heritage sites across the city.
 
-![Quanzhou — Historical Context](https://images.pexels.com/photos/33457680/pexels-photo-33457680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Historical Context
+
+![Tailao Mountain Scenery, Fujian](/img/destinations/fujian-quanzhou-maritime-silk-road/1.webp)
 
 The maritime Silk Road flourished when overland routes through Central Asia were disrupted. Arab, Persian, Indian, and Southeast Asian merchants settled in Quanzhou from approximately the 7th century CE onward. The Song dynasty court — pragmatic and commercially sophisticated — taxed this trade heavily rather than restricting it, generating enormous revenue.
 
@@ -27,9 +27,9 @@ By the Song and Yuan dynasties, Quanzhou had a substantial permanent foreign pop
 
 Marco Polo visited "Zaitun" (the Arabic name for Quanzhou) in 1292 and described a city of extraordinary commercial activity. Ibn Battuta visited in 1346 and commented on the quality of the Chinese porcelain (Quanzhou's hinterland produced the Dehua porcelain that was one of China's most important export commodities).
 
-![Quanzhou — The Heritage Sites](https://images.pexels.com/photos/29541057/pexels-photo-29541057.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Heritage Sites
+
+![Wuyi Mountain Scenery, Fujian](/img/destinations/fujian-quanzhou-maritime-silk-road/2.webp)
 
 ### Qingjing Mosque (清净寺)
 
@@ -75,9 +75,9 @@ Quanzhou is the ancestral home of a significant portion of the global Chinese di
 
 The museum documents this emigration history, with artifacts, photographs, and family records tracing Quanzhou's contribution to the global Chinese diaspora.
 
-![Quanzhou — Food Culture in Quanzhou](https://images.pexels.com/photos/32303589/pexels-photo-32303589.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Food Culture in Quanzhou
+
+![Moya Stone Carving Scenery, Fujian, Quanzhou](/img/destinations/fujian-quanzhou-maritime-silk-road/3.webp)
 
 Quanzhou's cuisine is part of the Hokkien (闽南) culinary tradition, with strong seafood emphasis and flavors that are milder and sweeter than Sichuan or Hunan cooking.
 

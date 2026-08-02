@@ -1,6 +1,7 @@
 ---
 title: "China Travel Insurance Guide 2026: What Cover You Actually Need"
 description: "Choose the right travel insurance for China — medical evacuation costs that can reach $100,000+, which policies cover Chinese hospitals, how the healthcare system works for foreigners, adventure activities coverage for hiking and high-altitude trekking, trip cancellation considerations for visa delays, and the specific policy features that matter most for a China trip."
+ogImage: "/img/toolkit/china-travel-insurance-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "travel-insurance", "medical-insurance", "evacuation", "healthcare", "visa", "trip-cancellation", "hiking-insurance"]
@@ -13,6 +14,8 @@ China requires more specific travel insurance planning than most destinations �
 ---
 
 ## Why Medical Coverage Matters in China
+
+![Xingping, Guangxi, Yangshuo](/img/toolkit/china-travel-insurance-guide/1.webp)
 
 ### The Hospital System
 
@@ -77,6 +80,8 @@ For travellers to remote areas (Tibet, western Xinjiang, Yunnan backcountry, Xin
 ---
 
 ## Trip Cancellation: Visa-Specific Considerations
+
+![Forbidden City Panorama Interior, Beijing](/img/toolkit/china-travel-insurance-guide/2.webp)
 
 **Visa refusals:** Standard trip cancellation policies cover cancellation due to illness, bereavement, and sometimes government travel advisories. **Visa refusal is often excluded** — read the fine print carefully. If your trip is dependent on a China visa being granted, confirm whether the policy covers non-refundable bookings if the visa is refused.
 

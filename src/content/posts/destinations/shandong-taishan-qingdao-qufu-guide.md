@@ -12,7 +12,7 @@ tags:
   - east-china
   - history
 description: "Shandong Province clusters three world-class experiences within easy reach — China's most sacred mountain, the birthplace of Confucius, and the German colonial beer city of Qingdao on the Yellow Sea."
-ogImage: "https://images.pexels.com/photos/19334674/pexels-photo-19334674.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/shandong-taishan-qingdao-qufu-guide/cover.webp"
 ---
 
 Shandong (山东) projects into the Yellow Sea like a fist — a large peninsula historically significant as the birthplace of Confucius and the location of Mount Tai (泰山), the most sacred mountain in Chinese culture. The province combines ancient philosophical heritage with German colonial coastal charm and some of China's best seafood.
@@ -21,7 +21,7 @@ Shandong (山东) projects into the Yellow Sea like a fist — a large peninsula
 
 ## Mount Tai (泰山) — China's Number One Sacred Mountain
 
-![Shandong — Mount Tai (泰山) — China's Number One Sacred Mountain](https://images.pexels.com/photos/6724259/pexels-photo-6724259.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Wucai Mountain Scenery, Shandong](/img/destinations/shandong-taishan-qingdao-qufu-guide/1.webp)
 
 Of China's five sacred Taoist mountains (五岳), Mount Tai (1,545m) is considered the paramount "First Mountain Under Heaven" (天下第一山). 72 emperors came here to perform Heaven-Earth thanksgiving ceremonies. Over 6,000 stone steps ascend the mountain; the trail is lined with inscribed tablets accumulated over 3,000 years of pilgrimage.
 
@@ -45,9 +45,9 @@ Of China's five sacred Taoist mountains (五岳), Mount Tai (1,545m) is consider
 
 ---
 
-![Shandong — Qufu (曲阜) — Confucius's Birthplace](https://images.pexels.com/photos/14508161/pexels-photo-14508161.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Qufu (曲阜) — Confucius's Birthplace
+
+![Yi Mountain Scenery, Shandong](/img/destinations/shandong-taishan-qingdao-qufu-guide/2.webp)
 
 The Confucius cultural complex in Qufu is UNESCO World Heritage — three distinct sites:
 
@@ -66,9 +66,9 @@ A sacred grove of 20,000+ trees in which every generation of the Kong family has
 
 ---
 
-![Shandong — Qingdao (青岛) — Germany's China Colony](https://images.pexels.com/photos/11875330/pexels-photo-11875330.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Qingdao (青岛) — Germany's China Colony
+
+![Lao Mountain Scenery, Shandong, Qingdao](/img/destinations/shandong-taishan-qingdao-qufu-guide/3.webp)
 
 Qingdao (Tsingtao) was a German colonial possession from 1898–1914 — a period during which the Germans built a planned town of red-roofed Bavarian houses, established the Tsingtao Brewery (1903), and created the peninsula's excellent harbour facilities.
 

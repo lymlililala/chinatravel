@@ -11,7 +11,7 @@ tags:
   - south-china
   - food
 description: "Guangzhou at night beyond the famous food — the Yijing Road bar and club area, the Yanjiang Road Pearl River craft beer scene, the night market at Shangxiajiu, late-night cha chaan teng culture, and why Guangzhou's nightlife is more neighbourhood-and-food-driven than club-focused compared to Shanghai."
-ogImage: "https://images.pexels.com/photos/1707213/pexels-photo-1707213.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guangzhou-nightlife-guide/cover.webp"
 ---
 
 Guangzhou's reputation is built on food, and rightly so — this city has arguably the most serious eating culture in China. But that food obsession doesn't switch off at sunset. If anything, it intensifies. The night in Guangzhou is long, convivial, and fueled by endless cups of tea, cold Zhujiang beer, and the smell of wok-fired food drifting out of restaurants that stay open until 3am.
@@ -22,7 +22,7 @@ Guangzhou's nightlife isn't loud or particularly glamorous. It's warm, sociable,
 
 ## The Pearl River Waterfront: Yanjiang Road & the Night Cruise
 
-![Guangzhou Nightlife — The Pearl River Waterfront: Yanjiang Road & the Night Cruise](https://images.pexels.com/photos/32492333/pexels-photo-32492333.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Shiwannanfengguzao Scenery, Guangdong, Foshan](/img/destinations/guangzhou-nightlife-guide/1.webp)
 
 The most atmospheric nighttime experience in Guangzhou is the Pearl River at night. The Yanjiang Road waterfront stretches from Haizhu Square to the Guangzhou Ferry Terminal, and on warm evenings the promenade fills with locals: families, couples, retirees doing slow evening walks, and groups of friends sitting on the stone steps sharing cans of beer bought from convenience stores.
 
@@ -40,8 +40,6 @@ The venues here skew younger and more locally-oriented than the expat bars of Ti
 
 The scene typically starts around 9pm and peaks between midnight and 2am. It's walkable — a 15-minute stretch — so bar-hopping is natural and common. Grab a cold craft beer at one of the outdoor terraces, then move on.
 
-![Guangzhou Nightlife — Shamian Island: Historic Atmosphere & Evening Bars](https://images.unsplash.com/photo-1649147856874-d3c4901eca94?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwyfHxTaGFtaWFuJTIwSXNsYW5kfGVufDB8MHx8fDE3ODE4NDMyMTJ8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
-
 ## Shamian Island: Historic Atmosphere & Evening Bars
 
 Shamian Island is a small sandbank in the Pearl River that was Guangzhou's foreign concession district in the 19th century. The European-style colonial buildings are beautifully preserved and completely surreal in a Chinese context — you walk past Baroque facades and find yourself wondering if you've temporarily left the country.
@@ -50,13 +48,13 @@ In the evenings, the island quietens down significantly from its daytime crowds.
 
 ## Shangxiajiu Pedestrian Street: Night Market Culture
 
+![Baomo Garden, Guangdong, Guangzhou](/img/destinations/guangzhou-nightlife-guide/2.webp)
+
 Shangxiajiu (上下九) is Guangzhou's oldest and most characterful shopping and eating street — a covered pedestrian area in Liwan District lined with traditional Cantonese shophouses, most of which are now restaurants and snack stalls.
 
 In the evenings, particularly weekends, the street fills with a proper night market energy. Street vendors selling Cantonese snacks (煎堆, 炒田螺 stir-fried river snails, sugar cane juice) compete with restaurant touts. The architectural backdrop — the late Qing shophouses with their characteristic arcade walkways — makes it more interesting than a generic food market.
 
 Come hungry. The standout nighttime snack here is the stir-fried river snail (螺蛳, luósī) — served with black bean sauce and chilli, eaten while standing at a plastic table outside with cold beer. It's the quintessential Guangzhou street food experience and costs around ¥25–¥40 per portion.
-
-![Guangzhou Nightlife — Late-Night Cha Chaan Teng Culture](https://images.pexels.com/photos/6005007/pexels-photo-6005007.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Late-Night Cha Chaan Teng Culture
 
@@ -67,6 +65,8 @@ Many Guangzhou cha chaan tengs are open until 2am or later, serving congee (粥)
 The Yongqingfang neighbourhood in Liwan District has a cluster of cha chaan tengs that stay open late and have been recently renovated into a more photogenic but still functioning local eating district.
 
 ## Canton Tower Area: Modern Nightlife
+
+![Nanyueyuan Scenery, Guangdong, Guangzhou](/img/destinations/guangzhou-nightlife-guide/3.webp)
 
 The Canton Tower district in Haizhu has developed into a more modern nightlife zone over the past decade. The tower itself (¥150 for the observation deck, ¥200 for the sky drop experience) is best visited at night when the LED light show is running — it changes color in a programmatic pattern visible from across the city.
 

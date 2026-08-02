@@ -12,7 +12,7 @@ tags:
   - day-trip
   - chengdu
 description: "The Leshan Giant Buddha is the world's largest stone-carved Buddha — 71 metres of Tang Dynasty artistry sitting at the confluence of three rivers in Sichuan. This 2026 guide covers how to visit by both land and boat routes, the ticket situation, combining with Mount Emei, transport from Chengdu, the best viewpoints and timing to avoid the worst queues."
-ogImage: "https://images.pexels.com/photos/14984301/pexels-photo-14984301.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/chengdu-leshan-giant-buddha-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -25,7 +25,7 @@ Today the Buddha sits as it has for 1,200 years, hands on knees, eyes half-close
 
 ## Understanding the Visit Options
 
-![Leshan Giant Buddha Chengdu Trip — Understanding the Visit Options](https://images.pexels.com/photos/17213280/pexels-photo-17213280.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Tianfuguosheyingyi, Sichuan, Chengdu](/img/destinations/chengdu-leshan-giant-buddha-guide/1.webp)
 
 There are two fundamentally different ways to experience the Leshan Giant Buddha, and combining them gives you the complete picture.
 
@@ -73,8 +73,6 @@ Mount Emei (3,099m, one of China's Four Sacred Buddhist Mountains) is 30 km from
 
 **Emei Mountain tickets:** ¥160 summer, ¥110 winter. Summit cable car: ¥65 down, ¥65 up ($9 each). The Golden Summit features a gilt-bronze Samantabhadra (Puxian Bodhisattva) statue on four elephants — spectacular above the clouds.
 
-![Leshan Giant Buddha Chengdu Trip — Getting to Leshan from Chengdu](https://images.pexels.com/photos/37333836/pexels-photo-37333836.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting to Leshan from Chengdu
 
 ### By High-Speed Rail (Recommended)
@@ -113,11 +111,11 @@ Highway from Chengdu to Leshan: approximately 1.5 hours.
 
 ## Ticket Booking
 
+![Tianfuguosheyinger, Sichuan, Chengdu](/img/destinations/chengdu-leshan-giant-buddha-guide/2.webp)
+
 Tickets for the Leshan Giant Buddha must be booked online in advance during peak periods. Book through the official WeChat Mini Program (search "乐山大佛景区") or through mainstream China travel apps (携程/Ctrip, Mafengwo).
 
 Time slots are allocated; your booking will specify an entry window. Arrive within that window; late arrivals may be denied entry.
-
-![Leshan Giant Buddha Chengdu Trip — Leshan City: Worth a Few Hours](https://images.pexels.com/photos/12321161/pexels-photo-12321161.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Leshan City: Worth a Few Hours
 
@@ -130,6 +128,8 @@ Leshan city itself is often overlooked but offers:
 **Mapo Tofu:** Several restaurants on the main Jiadingqiao area serve excellent Sichuan mapo tofu; the version in Leshan is slightly less numb-spicy than Chengdu.
 
 ## Where to Stay (If Overnighting)
+
+![Lugu Lake Ligeban Island Scenery, Sichuan](/img/destinations/chengdu-leshan-giant-buddha-guide/3.webp)
 
 Most visitors do Leshan as a day trip from Chengdu. If combining with Emei and overnighting:
 

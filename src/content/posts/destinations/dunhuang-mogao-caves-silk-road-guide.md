@@ -12,7 +12,7 @@ tags:
   - desert
   - UNESCO heritage
 description: "Complete guide to Dunhuang and the Mogao Caves — the world's greatest Buddhist art site on the ancient Silk Road, with Crescent Moon Lake, Singing Sand Dunes, and practical visiting tips."
-ogImage: "https://images.pexels.com/photos/33412586/pexels-photo-33412586.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/dunhuang-mogao-caves-silk-road-guide/cover.webp"
 ---
 
 For a thousand years, the oasis city of Dunhuang was one of the most important stopping points on the Silk Road. Merchants, diplomats, monks, and pilgrims from China, Central Asia, India, and the Mediterranean crossed paths here before and after the vast deserts to the west. They left behind an extraordinary legacy: 492 cave temples carved into a cliff face, containing 45,000 square metres of murals and more than 2,000 painted clay sculptures spanning 1,000 years of Buddhist art.
@@ -23,7 +23,7 @@ Today, Dunhuang is also surrounded by one of China's most dramatic desert landsc
 
 ## The Mogao Caves (莫高窟): The World's Greatest Buddhist Art Site
 
-![Dunhuang & Mogao Caves — The Mogao Caves (莫高窟): The World's Greatest Buddhist Art Site](https://images.pexels.com/photos/32142489/pexels-photo-32142489.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Singing Sand Dunes, Gansu, Dunhuang](/img/destinations/dunhuang-mogao-caves-silk-road-guide/1.webp)
 
 ### What You're Visiting
 
@@ -99,9 +99,9 @@ The lake's persistence through millennia of desert conditions is considered mira
 
 ---
 
-![Dunhuang & Mogao Caves — Other Dunhuang Attractions](https://images.unsplash.com/photo-1729581514945-ef3f32fe2e7e?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxPdGhlciUyMER1bmh1YW5nJTIwQXR0cmFjdGlvbnN8ZW58MHwwfHx8MTc4MTgzOTIzM3ww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
-
 ## Other Dunhuang Attractions
+
+![Maijishan Grottoes, Gansu](/img/destinations/dunhuang-mogao-caves-silk-road-guide/2.webp)
 
 ### Western Thousand Buddha Caves (西千佛洞)
 
@@ -126,6 +126,8 @@ The most vibrant evening option in Dunhuang city. Dozens of stalls serve:
 
 ## Getting to Dunhuang
 
+![Danxia Landform Dimao Natural Scenery, Gansu, Zhangye](/img/destinations/dunhuang-mogao-caves-silk-road-guide/3.webp)
+
 **By air:** Dunhuang Mogao International Airport (DNH):
 - From Lanzhou: 1.5 hours
 - From Xi'an: 2 hours
@@ -137,8 +139,6 @@ The most vibrant evening option in Dunhuang city. Dozens of stalls serve:
 - From Xi'an to Liuyuan: 5 hours
 
 **By overnight train:** Several overnight trains connect Dunhuang directly. The sleeper train from Lanzhou takes 8 hours and is comfortable.
-
-![Dunhuang & Mogao Caves — When to Visit](https://images.unsplash.com/photo-1729581514945-ef3f32fe2e7e?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHx2aXNpdCUyMGR1bmh1YW5nfGVufDB8MHx8fDE3ODE4MzkyMzZ8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## When to Visit
 

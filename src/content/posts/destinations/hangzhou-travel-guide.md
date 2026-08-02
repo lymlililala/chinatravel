@@ -12,7 +12,7 @@ tags:
   - tea
   - UNESCO heritage
 description: "A complete guide to Hangzhou — how to explore West Lake by boat and on foot, where to try Longjing dragon well tea at the source, and what makes this city one of China's most beautiful destinations."
-ogImage: "https://images.pexels.com/photos/23914729/pexels-photo-23914729.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/hangzhou-travel-guide/cover.webp"
 ---
 
 Marco Polo called Hangzhou the most beautiful city in the world. The Song Dynasty emperors made it their capital. Eight centuries of poets, painters, and pilgrims have tried to put into words what exactly makes West Lake different from other scenic lakes.
@@ -23,7 +23,7 @@ The honest answer: it's the combination. The lake itself is relatively modest �
 
 ## Essential Information
 
-![Hangzhou — Essential Information](https://images.pexels.com/photos/10857007/pexels-photo-10857007.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![West Lake Landscape, Hangzhou](/img/destinations/hangzhou-travel-guide/1.webp)
 
 | Detail | Info |
 |--------|------|
@@ -67,9 +67,9 @@ A canonical list of viewpoints established in the Song Dynasty and refreshed in 
 
 **Autumn Moon on Calm Lake (平湖秋月):** A viewing terrace on the northern shore where, in mid-autumn, the combination of the full moon and the still water creates the classical image of classical Chinese painting. Free; accessible at any hour.
 
-![Hangzhou — Longjing Tea (龙井茶)](https://images.pexels.com/photos/31756539/pexels-photo-31756539.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Longjing Tea (龙井茶)
+
+![West Lake Lingyin Temple, Hangzhou](/img/destinations/hangzhou-travel-guide/2.webp)
 
 **Longjing** (Dragon Well tea) is China's most famous green tea, grown in the hills immediately west and south of West Lake. The combination of specific soil conditions, microclimate, and processing technique — flat-pressed by hand in a heated iron wok — produces a tea with a distinctive chestnut-sweet flavour and flat needle leaves.
 
@@ -87,6 +87,8 @@ The peak of the Longjing season is the first two weeks of April — **Qingming t
 
 ## Beyond West Lake: What Else to See
 
+![West Lake Xuehuafenfei Scenery, Hangzhou](/img/destinations/hangzhou-travel-guide/3.webp)
+
 ### Lingyin Temple (灵隐寺)
 
 One of China's largest and most impressive Chan (Zen) Buddhist monasteries, set in a forested valley in the hills west of West Lake. Founded in 328 AD; the current structures are primarily from Tang, Song, and later dynasties.
@@ -102,8 +104,6 @@ The reconstructed Qing-style pedestrian street in the old city centre has excell
 ### National Tea Museum (中国茶叶博物馆)
 
 Actually two campuses: the Longjing branch (more garden-focused) and the Shuangfeng branch (more exhibition-focused). The best free attraction in Hangzhou outside of West Lake itself.
-
-![Hangzhou — Where to Eat](https://images.pexels.com/photos/37158467/pexels-photo-37158467.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Where to Eat
 

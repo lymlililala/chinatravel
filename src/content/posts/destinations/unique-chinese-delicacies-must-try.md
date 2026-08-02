@@ -10,7 +10,7 @@ tags:
   - "zhejiang"
   - "jiangsu"
 description: "Explore China's diverse food scene beyond the clichés: Wuhan's ugly-but-delicious softshell turtle, Xianju's prized bayberries, and Wuxi's melt-in-your-mouth"
-ogImage: "https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?w=1200&q=85"
+ogImage: "/img/destinations/unique-chinese-delicacies-must-try/cover.webp"
 faq:
   - question: "Is it safe to eat softshell turtle in China?"
     answer: "Yes, farmed softshell turtle is widely consumed and safe. Choose reputable restaurants with high turnover. Avoid raw or undercooked turtle."
@@ -29,9 +29,10 @@ China's culinary landscape is as vast and varied as its geography, but some of i
 ## Table of contents
 
 ## Why These Three Delicacies?
-Each of these foods tells a story of place, season, and community. Wuhan's softshell turtle (甲鱼, jiǎ yú) is a street-food icon that transforms a once-luxurious ingredient into an everyday indulgence. Xianju's Dongkui bayberries (东魁杨梅, dōng kuí yáng méi) are a fleeting summer treasure, prized for their size and sweetness. And Yangshan's honey peaches (阳山水蜜桃, yáng shān shuǐ mì táo) are so juicy they can be drunk through a straw. Together, they represent the diversity of Chinese food culture — from savoury to sweet, from rustic to refined.
 
-![A steaming clay pot of braised softshell turtle with thick sauce and glistening skirt](https://images.pexels.com/photos/20374868/pexels-photo-20374868.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Simatai Great Wall, Beijing](/img/destinations/unique-chinese-delicacies-must-try/1.webp)
+
+Each of these foods tells a story of place, season, and community. Wuhan's softshell turtle (甲鱼, jiǎ yú) is a street-food icon that transforms a once-luxurious ingredient into an everyday indulgence. Xianju's Dongkui bayberries (东魁杨梅, dōng kuí yáng méi) are a fleeting summer treasure, prized for their size and sweetness. And Yangshan's honey peaches (阳山水蜜桃, yáng shān shuǐ mì táo) are so juicy they can be drunk through a straw. Together, they represent the diversity of Chinese food culture — from savoury to sweet, from rustic to refined.
 
 ## Wuhan's Ugly Fish: The Softshell Turtle (甲鱼)
 
@@ -58,9 +59,9 @@ Xianju's unique terroir — mountainous terrain with volcanic soil, high altitud
 ### How to Enjoy Them
 Eat them fresh, chilled, or muddle a few into a sparkling water for an instant summer cooler. The flesh is firm yet juicy, with a tiny pit. Because of their short season (mid-June to early July), they're a rare treat. You can find them at high-end fruit shops or order online from specialty sellers. Expect to pay a premium — they're often sold by the piece.
 
-![A pile of large, dark red bayberries with a ping-pong ball for scale](https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?w=1200&q=85)
-
 ## Yangshan's Liquid Gold: Honey Peaches (阳山水蜜桃)
+
+![Shanhaiguan Great Wall, Beijing](/img/destinations/unique-chinese-delicacies-must-try/2.webp)
 
 Wuxi's Yangshan peaches are the stuff of legend. Grown on volcanic soil from an ancient eruption, these peaches are so soft and juicy that they can be "drunk" — just peel and squeeze, and the juice flows like nectar. They're known as **honey peaches** (水蜜桃, shuǐ mì táo), and they live up to the name.
 
@@ -73,8 +74,6 @@ Let them ripen at room temperature until they yield to gentle pressure (like a r
 ### Where to Buy
 Yangshan peaches are sold at roadside stalls near the mountain, but quality varies. For the best, order from reputable orchards that ship directly. Prices range from ¥50-100 for a box of 8-12 peaches, depending on size. They're fragile, so handle with care.
 
-![A hand peeling a large, pink peach, revealing juicy white flesh](https://images.pexels.com/photos/7592175/pexels-photo-7592175.png?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Practical Tips for International Travellers
 
 - **Best time to visit**: For all three delicacies, plan your trip between June and August. Bayberries peak in late June, peaches in July, and turtle is good year-round but best in cooler months.
@@ -84,6 +83,8 @@ Yangshan peaches are sold at roadside stalls near the mountain, but quality vari
 - **Language**: Learn a few key phrases: "This is delicious" (很好吃, hěn hǎo chī) and "How much?" (多少钱, duō shǎo qián). Many vendors won't speak English, so a translation app helps.
 
 ## Suggested Itinerary: A Food Lover's Summer Tour
+
+![Mutianyu Great Wall Scenery, Beijing](/img/destinations/unique-chinese-delicacies-must-try/3.webp)
 
 - **Day 1-3: Wuhan** — Explore the city's street food scene. Visit **Hubu Alley (户部巷)** for breakfast, then head to **Jiyuqiao (吉庆街)** for dinner. Try turtle at a specialist like **Dashengjia**.
 - **Day 4-5: Xianju** — Take a high-speed train from Wuhan to Hangzhou, then to Xianju. Visit a bayberry orchard for picking (seasonal). Stay in a local guesthouse.

@@ -12,7 +12,7 @@ tags:
   - zhejiang
   - east-china
 description: "The Hangzhou day trip from Shanghai — HSR times and tickets, an efficient West Lake circuit (by boat or on foot), the Longjing tea village 20 minutes from the lake, the Leifeng Pagoda at sunset, and how to make the most of a single day in China's most beautiful city."
-ogImage: "https://images.pexels.com/photos/34432214/pexels-photo-34432214.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/hangzhou-day-trip-shanghai-guide/cover.webp"
 ---
 
 Marco Polo called Hangzhou "the finest and most splendid city in the world." He may have been exaggerating, but Hangzhou's reputation in Chinese culture is equivalent: it appears in classical poetry, painting, and literature as the standard for beauty. The city centers on West Lake — a 6km-wide UNESCO World Heritage lake ringed by pagodas, gardens, forested hills, and causeways that cross it like calligraphy strokes. All of this is about 1 hour from Shanghai by high-speed train.
@@ -21,7 +21,7 @@ Marco Polo called Hangzhou "the finest and most splendid city in the world." He 
 
 ## Getting There from Shanghai
 
-![Hangzhou Trip from Shanghai — Getting There from Shanghai](https://images.pexels.com/photos/35473965/pexels-photo-35473965.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![West Lake Landscape, Hangzhou](/img/destinations/hangzhou-day-trip-shanghai-guide/1.webp)
 
 **High-speed train from Shanghai Hongqiao:** Departures roughly every 15–30 minutes from early morning. Journey time: **45–55 minutes**. Cost: **¥73–78** second class.
 
@@ -55,9 +55,9 @@ The southern portion of the lake is quieter and has the best views across open w
 
 **Practical tip:** Position yourself near Leifeng Pagoda about 30 minutes before sunset. The light on the lake in the last half-hour before dark is exceptional.
 
-![Hangzhou Trip from Shanghai — Longjing Tea Village](https://images.pexels.com/photos/16009094/pexels-photo-16009094.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Longjing Tea Village
+
+![West Lake Lingyin Temple, Hangzhou](/img/destinations/hangzhou-day-trip-shanghai-guide/2.webp)
 
 **Twenty minutes by bus or taxi from West Lake's western shore**, up into the hills along the lake, is Longjing village — the birthplace of Dragon Well tea (龙井茶), arguably China's most famous and most expensive green tea.
 
@@ -74,6 +74,8 @@ The village is an active tea-growing community where farmers tend steep terraced
 
 ## The Pagodas and Temples
 
+![West Lake Xuehuafenfei Scenery, Hangzhou](/img/destinations/hangzhou-day-trip-shanghai-guide/3.webp)
+
 Beyond Leifeng, Hangzhou has several other sites worth brief visits:
 
 **Lingyin Temple (灵隐寺):** One of China's most important Buddhist temples, set deep in a forested valley with a stream running past. The main hall houses one of China's largest indoor Buddha statues (24.8m gilded camphor wood). Access requires both a scenic area fee (¥45) and temple entry (¥30). Allow 1.5–2 hours.
@@ -81,8 +83,6 @@ Beyond Leifeng, Hangzhou has several other sites worth brief visits:
 **The Fei Lai Feng Stone Carvings:** The rockface adjacent to Lingyin Temple is carved with hundreds of Buddhist figures from the 10th–14th centuries. Covered under the general Lingyin scenic ticket.
 
 Note: Lingyin is a 30-minute bus ride from the lake's western shore. Including it in a single day requires sacrificing Longjing or an early start.
-
-![Hangzhou Trip from Shanghai — Where to Eat](https://images.pexels.com/photos/29126487/pexels-photo-29126487.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Where to Eat
 

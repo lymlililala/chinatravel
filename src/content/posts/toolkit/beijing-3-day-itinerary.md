@@ -12,7 +12,7 @@ tags:
   - culture
   - transport
 description: "The ideal 3-day Beijing itinerary for first-time visitors — Forbidden City, Great Wall, Temple of Heaven, hutongs, Peking duck, and the best of imperial Beijing in 72 hours, with daily schedules, transport directions, and what to skip."
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=900&q=80"
+ogImage: "/img/toolkit/beijing-3-day-itinerary/cover.webp"
 ---
 
 Three days in Beijing is enough to experience the greatest hits of China's capital without overwhelming yourself — the Forbidden City, the Great Wall, the Temple of Heaven, and the hutong alleyways that give the city its ground-level character. It is also enough to eat exceptionally well and understand why Beijing feels like a different country from Shanghai, let alone from Chengdu.
@@ -24,6 +24,8 @@ This itinerary is built around what actually works: realistic timing, specific r
 ---
 
 ## Before You Arrive in Beijing
+
+![Courtyard House, Beijing](/img/toolkit/beijing-3-day-itinerary/1.webp)
 
 **Book in advance:**
 - Forbidden City tickets: **dpm.org.cn** — tickets sell out, especially on weekends. The daily cap is 80,000 visitors. Book at least 3–5 days ahead, ideally a week.
@@ -143,6 +145,8 @@ A 2-hour walk through 798 shows a completely different Beijing from the imperial
 ---
 
 ## Transport Within Beijing
+
+![Tiananmen, Beijing](/img/toolkit/beijing-3-day-itinerary/2.webp)
 
 **Metro:** The most reliable option for Tiananmen/Forbidden City (Line 1), Temple of Heaven (Line 5), and city movement. Buy a Yikatong transit card on arrival.
 

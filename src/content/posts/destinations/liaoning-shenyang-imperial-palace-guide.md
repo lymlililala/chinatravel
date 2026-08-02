@@ -1,7 +1,7 @@
 ---
 title: "Shenyang Imperial Palace: The Manchu Forbidden City Before Beijing"
 description: "Visit the Shenyang Imperial Palace (Mukden Palace) in Liaoning — the original court of the Qing dynasty founders Nurhaci and Hong Taiji, built before the conquest of Beijing, a UNESCO World Heritage complex smaller but architecturally richer than its Beijing counterpart, and the best introduction to Manchu court culture in China."
-ogImage: "https://images.pexels.com/photos/32646536/pexels-photo-32646536.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/liaoning-shenyang-imperial-palace-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Liaoning"
 tags: ["liaoning", "shenyang", "imperial-palace", "mukden-palace", "qing-dynasty", "manchu", "UNESCO", "northeast-china"]
@@ -15,9 +15,9 @@ The result is the **Shenyang Imperial Palace (沈阳故宫, Shěnyáng Gùgōng)
 
 ---
 
-![Shenyang Imperial Palace — Architecture: Manchu Meets Chinese](https://images.pexels.com/photos/34661673/pexels-photo-34661673.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Architecture: Manchu Meets Chinese
+
+![Forbidden City Panorama Interior, Beijing](/img/destinations/liaoning-shenyang-imperial-palace-guide/1.webp)
 
 The Shenyang palace complex is divided into three sections built in different periods, reflecting the architectural evolution from Manchu to Sino-Manchu to fully sinicised court style.
 
@@ -39,9 +39,9 @@ Added during Qianlong's reign (18th century) when the emperor visited Shenyang a
 
 ---
 
-![Shenyang Imperial Palace — Key Highlights](https://images.pexels.com/photos/7579192/pexels-photo-7579192.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Key Highlights
+
+![Forbidden City Scenery, Beijing](/img/destinations/liaoning-shenyang-imperial-palace-guide/2.webp)
 
 **Dazheng Hall:** The essential Shenyang experience — an octagonal pavilion that makes clear how different the Manchu aesthetic was from the Han palace tradition.
 
@@ -51,9 +51,9 @@ Added during Qianlong's reign (18th century) when the emperor visited Shenyang a
 
 ---
 
-![Shenyang Imperial Palace — Practical Information](https://images.pexels.com/photos/37173337/pexels-photo-37173337.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Practical Information
+
+![Forbidden City Museum](/img/destinations/liaoning-shenyang-imperial-palace-guide/3.webp)
 
 **Location:** Central Shenyang; 10 minutes from Shenyang Station by metro (Line 1 to Shenyang Palace stop).
 **Admission:** ¥60.

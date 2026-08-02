@@ -10,7 +10,7 @@ tags:
   - nature
   - toolkit
 description: "How to explore Chinese cities and countryside by bike — from shared city bikes to multi-day cycle touring — with practical advice on renting, app setup, helmet rules, and the best cycling destinations in China."
-ogImage: "https://images.unsplash.com/photo-1476055439777-977cdf3a5699?w=900&q=80"
+ogImage: "/img/toolkit/china-cycling-biking-guide/cover.webp"
 ---
 
 China has more cyclists than any country on earth, and cycling infrastructure has improved dramatically over the past decade. Whether you want to explore a city neighbourhood, pedal around Hangzhou's West Lake, or take on a multi-day touring route through Yunnan, this guide gets you rolling.
@@ -18,6 +18,8 @@ China has more cyclists than any country on earth, and cycling infrastructure ha
 ## Table of contents
 
 ## City Cycling: Shared Bike Apps
+
+![Wangshi Garden Scenery, Suzhou](/img/toolkit/china-cycling-biking-guide/1.webp)
 
 China's dockless bike-share ecosystem is the world's most developed. Three apps dominate:
 
@@ -89,6 +91,8 @@ Yangshuo and the surrounding countryside are famous for cycling. Flat rice paddi
 ---
 
 ## Multi-Day Cycle Touring in China
+
+![Huqiu Scenery Mingshengqu Scenery, Suzhou](/img/toolkit/china-cycling-biking-guide/2.webp)
 
 China has some of the world's most rewarding long-distance cycling routes:
 

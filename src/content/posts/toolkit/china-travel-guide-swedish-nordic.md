@@ -11,7 +11,7 @@ tags:
   - european-travellers
   - beginners
 description: "China travel guide for Swedish, Norwegian, Danish, and Finnish visitors — Nordic countries' 15-day visa-free access, direct flights from Scandinavia, what surprises Northern European visitors most about China (heat, crowds, scale), and recommended itineraries for first-time Nordic visitors."
-ogImage: "https://images.pexels.com/photos/37506195/pexels-photo-37506195.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-travel-guide-swedish-nordic/cover.webp"
 ---
 
 Nordic visitors to China tend to go through a fairly specific set of adjustments: the heat surprises them, the crowds surprise them, the scale surprises them. Then, once those initial shocks settle, they often end up having one of the best trips of their lives — because China's commitment to efficiency and infrastructure (excellent trains, fantastic food, working public transport at midnight) aligns well with what Nordic travellers appreciate.
@@ -23,6 +23,8 @@ This guide covers the practical side of a China trip for Swedish, Norwegian, Dan
 ---
 
 ## Visa Rules for Nordic Passport Holders
+
+![Guojiadizhi Park Scenery, Huangshan](/img/toolkit/china-travel-guide-swedish-nordic/1.webp)
 
 ### 15-Day Visa-Free Entry
 
@@ -98,6 +100,8 @@ Transactions will bill in SEK/NOK/DKK/EUR at current exchange rates plus your ba
 ---
 
 ## What Surprises Nordic Visitors
+
+![Scenery, Jiuzhaigou, Sichuan](/img/toolkit/china-travel-guide-swedish-nordic/2.webp)
 
 ### The Heat
 

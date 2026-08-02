@@ -10,14 +10,14 @@ tags:
   - myanmar border china
   - yunnan frontier towns
 description: "Discover Wanding, Yunnan's southernmost frontier town pressed against the Myanmar border. This guide covers the historic Wanding Bridge, bustling jade and amber markets, Dai and Jingpo ethnic villages, tropical rainforest hikes, and the unique border-crossing experience that makes this one of China's most unusual travel destinations."
-ogImage: "https://images.unsplash.com/photo-1677922069742-914f7b73e28d?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwyfHxXYW5kaW5nJTIwWXVubmFufGVufDB8MHx8fDE3ODE5MzAxOTd8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
+ogImage: "/img/destinations/yunnan-wanding-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## Why Wanding Belongs on Your Yunnan Itinerary
 
-![Wanding Yunnan — Why Wanding Belongs on Your Yunnan Itinerary](https://images.unsplash.com/photo-1604661808622-639387f6f698?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHx3aHklMjB3YW5kaW5nfGVufDB8MHx8fDE3ODE5MzAxOTl8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
+![Shun Old Town Scenery, Yunnan](/img/destinations/yunnan-wanding-guide/1.webp)
 
 Most travellers racing through Yunnan stick to the Dali–Lijiang–Shangri-La corridor and never venture south of Xishuangbanna. That is a shame, because Wanding (畹町) offers something none of those places can: the electric, slightly surreal feeling of standing at China's edge, watching a different country unfold just across a narrow river. This tiny border city — population roughly 30,000 — sits in Dehong Dai and Jingpo Autonomous Prefecture, pressed so tightly against Myanmar that you can literally throw a stone from one country into the other.
 
@@ -59,8 +59,6 @@ Myanmar's Kachin State produces some of the world's finest amber, and Wanding is
 
 **A word of caution:** The amber trade has ethical dimensions, as mining conditions in Myanmar can be dangerous and unregulated. Buy from established shops with proper receipts, and be aware that exporting certain amber specimens may require permits.
 
-![Wanding Yunnan — Dai and Jingpo Culture](https://images.pexels.com/photos/8564586/pexels-photo-8564586.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Dai and Jingpo Culture
 
 ### Dai Villages
@@ -76,6 +74,8 @@ The Jingpo (also spelled Jinghpaw) people are one of China's smaller ethnic mino
 If you cannot time your visit for the festival, the Jingpo Mountain Villa (景颇山寨) near Mangshi offers cultural demonstrations including crossbow shooting, traditional singing, and a Jingpo-style feast of grilled meat with fermented soybean dipping sauce.
 
 ## Tropical Rainforest and Nature
+
+![Chuxiongyiren Old Town Landscape, Yunnan](/img/destinations/yunnan-wanding-guide/2.webp)
 
 ### Moli Tropical Rainforest
 
@@ -118,8 +118,6 @@ Wanding's food sits at the delicious intersection of Dai, Jingpo, and Burmese cu
 - **Night market along Renmin Road**: Dozens of stalls from 6:00 PM onwards. Great for snacking and people-watching.
 - **Jade Market snack stalls**: Quick, cheap, and authentic. Perfect for breakfast — try the rice noodle soup with pork offal for ¥12.
 
-![Wanding Yunnan — Where to Stay](https://images.unsplash.com/photo-1677922069742-914f7b73e28d?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwyfHx3YW5kaW5nJTIweXVubmFufGVufDB8MHx8fDE3ODE5MzAyMDF8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
-
 ## Where to Stay
 
 Wanding's accommodation options are limited but adequate:
@@ -129,6 +127,8 @@ Wanding's accommodation options are limited but adequate:
 - **Ruili alternative**: If Wanding's options are full (common during holidays), Ruili has a wider selection. The Ruili Jingcheng Hotel (¥250–400) is a solid mid-range choice, and it is only a 40-minute drive back to Wanding.
 
 ## Best Time to Visit
+
+![Ancient Town Aerial View, Lijiang](/img/destinations/yunnan-wanding-guide/3.webp)
 
 The optimal window is **October through March**, when temperatures range from 15–26°C and rainfall is minimal. April brings the Water Splashing Festival but also intense heat (often 35°C+). The rainy season from May to September turns roads muddy, increases leech activity in the forests, and makes the border crossing occasionally unreliable due to flooding.
 

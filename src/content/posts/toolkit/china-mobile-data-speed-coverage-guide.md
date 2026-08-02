@@ -10,7 +10,7 @@ tags:
   - sim
   - toolkit
 description: "A realistic guide to mobile data coverage across China — which carriers have the best rural and mountain coverage, where 5G is available, and what connectivity to expect in Tibet, Xinjiang, and remote hiking areas."
-ogImage: "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=900&q=80"
+ogImage: "/img/toolkit/china-mobile-data-speed-coverage-guide/cover.webp"
 ---
 
 China has one of the world's most extensive mobile networks, but coverage isn't uniform across a country this vast and mountainous. Understanding where you'll have signal — and where you won't — helps you plan offline maps, communicate backup plans, and avoid being stranded without connectivity.
@@ -18,6 +18,8 @@ China has one of the world's most extensive mobile networks, but coverage isn't 
 ## Table of contents
 
 ## China's Three Mobile Carriers
+
+![Great Wall Lao City Wall](/img/toolkit/china-mobile-data-speed-coverage-guide/1.webp)
 
 All mobile service in China is provided by three state-owned carriers:
 
@@ -91,6 +93,8 @@ Most tourist SIM cards use 4G infrastructure. 5G SIM cards are available from ca
 ---
 
 ## Choosing the Right Carrier for Your Trip
+
+![Potala Palace Scenery, Tibet](/img/toolkit/china-mobile-data-speed-coverage-guide/2.webp)
 
 | Travel style | Recommended carrier | Why |
 |-------------|--------------------|----|

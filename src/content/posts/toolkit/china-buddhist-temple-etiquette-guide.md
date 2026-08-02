@@ -1,6 +1,7 @@
 ---
 title: "China Buddhist Temple Etiquette Guide: How to Visit Respectfully and What to Expect"
 description: "Navigate Buddhist temples in China with confidence — the correct behaviour when entering temples, what the different hall types contain, the meaning of the rituals you'll observe, which temples are active religious sites versus tourist attractions, how to participate in incense burning if you choose to, and the etiquette for interacting with monks and nuns."
+ogImage: "/img/toolkit/china-buddhist-temple-etiquette-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "buddhist-temple", "etiquette", "religion", "visiting-temples", "monks", "incense", "religious-sites"]
@@ -15,6 +16,8 @@ Visiting well means understanding the religious context and following basic etiq
 ---
 
 ## Before Entering
+
+![Qinshi Imperial Tomb Terracotta Army](/img/toolkit/china-buddhist-temple-etiquette-guide/1.webp)
 
 **Clothing:** No specific dress code is required at most Chinese Buddhist temples, but very revealing clothing (shorts, exposed shoulders) is disrespectful and may draw comments from staff at stricter sites. A light scarf or outer layer to cover up costs nothing.
 
@@ -60,6 +63,8 @@ Chinese Buddhist temples follow a standard north-south axial layout:
 ---
 
 ## Interacting with Monks and Nuns
+
+![Great Wall Lao City Wall](/img/toolkit/china-buddhist-temple-etiquette-guide/2.webp)
 
 **Greetings:** Monks and nuns are appropriately greeted with **阿弥陀佛 (Āmítuófó, Amitabha)** — the name of Amitabha Buddha used as a general Buddhist greeting. A slight bow accompanies the greeting.
 

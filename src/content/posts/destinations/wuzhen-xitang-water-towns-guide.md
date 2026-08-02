@@ -1,7 +1,7 @@
 ---
 title: "Wuzhen and Xitang Water Towns: Which to Visit and When (Zhejiang Guide)"
 description: "Detailed comparison of Wuzhen vs Xitang water towns in Zhejiang. Which is more authentic, which is better for photography, how to avoid crowds, overnight vs day trip and transport from Shanghai and Hangzhou."
-ogImage: "https://images.pexels.com/photos/37015406/pexels-photo-37015406.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/wuzhen-xitang-water-towns-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Wuzhen", "Xitang", "Zhejiang water towns", "China water villages", "day trip from Shanghai", "Jiangnan canal towns"]
@@ -9,9 +9,9 @@ tags: ["Wuzhen", "Xitang", "Zhejiang water towns", "China water villages", "day 
 
 The water towns of Zhejiang Province — intersected by ancient canals, lined with whitewashed walls and curved black-tiled roofs — are among the most distinctive architectural landscapes in China. Wuzhen and Xitang are the two most visited, both within easy reach of Shanghai and Hangzhou, and both beloved by photographers for the play of mist and reflections in the canal water at dawn.
 
-![Wuzhen Xitang Water Towns — Overview: Wuzhen vs Xitang](https://images.pexels.com/photos/30836761/pexels-photo-30836761.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Overview: Wuzhen vs Xitang
+
+![Yanyuxitang Old Town](/img/destinations/wuzhen-xitang-water-towns-guide/1.webp)
 
 Before diving in, the essential comparison:
 
@@ -30,9 +30,9 @@ Before diving in, the essential comparison:
 
 ---
 
-![Wuzhen Xitang Water Towns — Wuzhen (乌镇)](https://images.pexels.com/photos/33626219/pexels-photo-33626219.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Wuzhen (乌镇)
+
+![West Lake Scenery, Hangzhou](/img/destinations/wuzhen-xitang-water-towns-guide/2.webp)
 
 ### Overview
 Wuzhen was transformed in the early 2000s by a major restoration and management project that turned it into one of China's most visited ancient water towns. Both sectors (Dongzha East Gate and Xizha West Gate) have been comprehensively preserved with functioning traditional crafts, museums, residences and food.
@@ -62,8 +62,6 @@ Best shots: Dongzha canal from the old stone bridge at dawn, or Xizha at dusk fr
 
 ---
 
-![Wuzhen Xitang Water Towns — Xitang (西塘)](https://images.unsplash.com/photo-1552632756-76fddd17d8dd?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxYaXRhbmd8ZW58MHwwfHx8MTc4MTkyNjE4NXww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
-
 ## Xitang (西塘)
 
 ### Overview
@@ -86,6 +84,8 @@ Xitang ("Western Pond") is slightly smaller than Wuzhen and has kept more of its
 ---
 
 ## Other Notable Water Towns Nearby
+
+![Putuoshan Scenery](/img/destinations/wuzhen-xitang-water-towns-guide/3.webp)
 
 **Tongli (同里, Jiangsu)**: 30 minutes from Suzhou. More elegant than bustling; the Tuisi Garden (Retreat and Reflection Garden) is a UNESCO-listed classical garden set on the canal. Less commercially developed than Wuzhen.
 

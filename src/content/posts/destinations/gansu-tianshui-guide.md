@@ -12,7 +12,7 @@ tags:
   - silk-road
   - buddhism
 description: "Tianshui in southeastern Gansu is home to the Maiji Mountain Grottoes, one of China's four great Buddhist cave art sites — 194 caves carved into a cliff face shaped like a haystack, containing 7,200 sculptures and 1,300 square meters of murals spanning 1,600 years. This guide covers the grottoes in detail, Tianshui's other historical sites, the Wei River valley landscape, and how to get there from Xi'an or Lanzhou."
-ogImage: "https://images.pexels.com/photos/6085086/pexels-photo-6085086.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/gansu-tianshui-guide/cover.webp"
 ---
 
 Tianshui (天水) occupies the Wei River valley at the boundary between the Loess Plateau and the Qinling-Daba Mountain complex, at the southeastern edge of Gansu Province. It's the wettest and greenest city in otherwise arid Gansu, and for centuries it was a key node on the Silk Road — a crossing point between the dry northwest and the agricultural heartland of the Wei River basin.
@@ -22,6 +22,8 @@ It contains the Maiji Mountain Grottoes (麦积山石窟), which belong in the s
 ## Table of contents
 
 ## Getting to Tianshui
+
+![Baita Mountain Scenery, Gansu, Lanzhou](/img/destinations/gansu-tianshui-guide/1.webp)
 
 **By high-speed train:**
 - **From Xi'an:** About 1.5–2 hours; ¥100–150 second class; multiple departures daily — this is the most convenient gateway
@@ -73,8 +75,6 @@ Several caves at Maiji are only accessible through a separately booked specialis
 **Photography:**
 External photography of the cliff face and walkways is unrestricted. Interior cave photography is permitted in most caves with a standard ticket; no flash. The premium caves typically allow no photography.
 
-![Tianshui Gansu — Tianshui Old City (天水古城)](https://images.pexels.com/photos/15255678/pexels-photo-15255678.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Tianshui Old City (天水古城)
 
 The old Qinzhou district of Tianshui has preserved a more complete historic fabric than many Chinese cities of comparable size. The main pedestrian heritage street (伏羲路 and surrounding lanes) retains Ming and Qing-era courtyard architecture.
@@ -94,12 +94,12 @@ A Buddhist temple on the southern outskirts of the old city, associated with the
 
 ## The Wei River Valley
 
+![Liqian Ancient Town Scenery, Gansu](/img/destinations/gansu-tianshui-guide/2.webp)
+
 The Wei River (渭河) originates in the mountains above Tianshui and flows east through Shaanxi to join the Yellow River near Huayin. The section of the valley around Tianshui is notably green and well-watered by Gansu standards — peach and cherry trees blossom across the hillsides in spring, and the terraced agriculture on the loess slopes has a visual rhythm that photographers find compelling.
 
 **Tianshui Peach Blossom Festival (天水桃花节):**
 Held in March or early April, the festival celebrates the peach blossom season that transforms the hillsides around the city. Several villages in the valley organize blossom walks and local food fairs. This is one of the more genuine spring blossom events in northwestern China — not artificially managed like some blossom tourism events, but a natural phenomenon of the local landscape.
-
-![Tianshui Gansu — Day Trips from Tianshui](https://images.pexels.com/photos/3250079/pexels-photo-3250079.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day Trips from Tianshui
 
@@ -110,6 +110,8 @@ About 80km northwest of Tianshui city, the Water Curtain Cave Buddhist site (水
 About 45km west of Tianshui, a cliff-face Buddhist site with a large seated Buddha carved during the Tang Dynasty. Less spectacular than Maiji but combined with the drive through the Wei River valley, makes a good half-day trip.
 
 ## Tianshui Food
+
+![Mogao Caves, Gansu, Dunhuang](/img/destinations/gansu-tianshui-guide/3.webp)
 
 Tianshui sits at the boundary of Gansu and Shaanxi food cultures, with elements of both:
 

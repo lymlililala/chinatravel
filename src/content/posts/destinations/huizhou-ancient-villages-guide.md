@@ -12,7 +12,7 @@ tags:
   - UNESCO heritage
   - architecture
 description: "A complete guide to the Huizhou ancient villages of southern Anhui — Hongcun and Xidi UNESCO villages, Huizhou architecture, how to photograph the famous white-walled landscapes, and the best guesthouses."
-ogImage: "https://images.pexels.com/photos/28968968/pexels-photo-28968968.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/huizhou-ancient-villages-guide/cover.webp"
 ---
 
 The villages of southern Anhui Province look like the ink-wash paintings that inspired them. White-washed walls, grey tile roofs with upturned eaves, and scattered mountain ridges: this is the Huizhou (徽州) aesthetic — a visual vocabulary developed over 800 years and now among the most distinctive architectural traditions in China.
@@ -23,7 +23,7 @@ Two villages — **Hongcun (宏村)** and **Xidi (西递)** — are jointly insc
 
 ## Essential Information
 
-![Huizhou Ancient Villages — Essential Information](https://images.pexels.com/photos/34673875/pexels-photo-34673875.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Hong Village Landscape, Anhui](/img/destinations/huizhou-ancient-villages-guide/1.webp)
 
 | Detail | Info |
 |--------|------|
@@ -45,8 +45,6 @@ The money was expressed architecturally at home. Huizhou merchants built village
 - **Whitewash (白粉墙):** Lime whitewash on all exterior walls — maintenance-intensive but brilliant white when fresh, creating the distinctive palette.
 - **Black tile roofs (青瓦):** Dark grey fired clay tiles, contrasting with the white walls.
 - **Carved decorations:** The interiors of Huizhou merchant houses feature remarkable carved wood (beams, screens, window lattices), carved stone (gate pillars, memorial archways), and carved brick (entrance facades) — all three media elaborately worked. The Three Carvings (*三雕*) are considered the highest expression of Huizhou craft.
-
-![Huizhou Ancient Villages — Hongcun (宏村)](https://images.pexels.com/photos/32454723/pexels-photo-32454723.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Hongcun (宏村)
 
@@ -74,6 +72,8 @@ The village produces genuine artistic energy beyond the tourist infrastructure.
 
 ## Xidi (西递)
 
+![Huizhou Ancient Town Winter, Anhui](/img/destinations/huizhou-ancient-villages-guide/2.webp)
+
 Slightly smaller than Hongcun (600 residents vs 1,000) and architecturally more focused. Xidi was established by the Hu clan (胡氏) in the Song Dynasty.
 
 **What's different from Hongcun:** Xidi has no central water feature — it's a pure streetscape of lanes and houses. The architecture is, if anything, more elaborate: the ratio of extraordinary carved interiors to total houses is higher.
@@ -81,8 +81,6 @@ Slightly smaller than Hongcun (600 residents vs 1,000) and architecturally more 
 **The Memorial Archway (胡文光牌坊):** The 3-metre-wide carved stone archway at the village entrance — built in 1578 to honour a senior government official of the Hu clan. The carved figures and calligraphy are extraordinary. This is the most photographed structure in Xidi.
 
 **Ruiyu Hall (瑞玉楼) and Daifu Hall (大夫第):** The two most elaborate residential halls, each with different specialist carving traditions — Ruiyu Hall for its stone carvings, Daifu Hall for its woodwork.
-
-![Huizhou Ancient Villages — Less Visited Villages](https://images.pexels.com/photos/34936536/pexels-photo-34936536.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Less Visited Villages
 
@@ -99,6 +97,8 @@ Known for its clan halls (宗祠) — seven large ancestral halls surviving in a
 A village organized according to the **Eight Trigrams (八卦)** cosmological diagram — the street layout encoded with Daoist spatial symbolism. Architecturally remarkable; the **Bao Lun Ge (宝纶阁)** clan hall has extraordinary carved stone screens.
 
 ## Where to Stay
+
+![Chaji Ancient Village, Anhui](/img/destinations/huizhou-ancient-villages-guide/3.webp)
 
 **Staying inside the UNESCO villages** is genuinely different from day-tripping. After the coaches leave in the afternoon, the villages regain something close to their original character — quieter, more domestic, more real.
 

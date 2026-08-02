@@ -10,7 +10,7 @@ tags:
   - "north-china"
   - "inner-mongolia"
 description: "A detailed guide to visiting 13 national-level protected heritage sites in Hohhot, perfect for history buffs and culture enthusiasts. Includes tips on"
-ogImage: "https://images.pexels.com/photos/12156048/pexels-photo-12156048.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/hohhot-heritage-walk-3-day-guide/cover.webp"
 faq:
   - question: "Do I need to book tickets in advance for these sites?"
     answer: "Most sites accept walk-in entry with payment via Alipay/WeChat Pay. For free sites, you may need to show your passport. No advance booking is required."
@@ -36,11 +36,11 @@ Hohhot (呼和浩特, Hūhéhàotè), the capital of Inner Mongolia, is a treasu
 
 ## Day 1: City Center Lamaseries and Towers
 
+![Chengjisihanling Scenery, Ordos, Inner Mongolia](/img/destinations/hohhot-heritage-walk-3-day-guide/1.webp)
+
 ### 1. Wusutu Zhao (乌素图召, Wūsùtú Zhào) and Zhao Dynasty Great Wall (赵长城, Zhào Chángchéng)
 
 Start your day by taking a taxi or ride-hailing (Didi) to Wusutu Zhao, about 20 minutes from the city center. This Tibetan Buddhist monastery complex is less crowded than others, with beautifully restored halls. Don't miss the ancient bodhi tree in the courtyard. At the back of the monastery, you'll find a new white stupa; behind it lies a section of the Zhao Dynasty Great Wall (built during the Warring States period, 4th–3rd century BC). It's a short walk and easy to overlook, so keep an eye out.
-
-![Wusutu Zhao monastery with white stupa and Zhao Dynasty Great Wall in background](https://images.pexels.com/photos/31446015/pexels-photo-31446015.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **Tip:** Wusutu Zhao is free to enter. Combined with the Great Wall, this stop takes about 1 hour.
 
@@ -92,8 +92,6 @@ Walk or taxi a short distance to the White Pagoda, a Liao dynasty (10th–12th c
 
 **Note:** Taxis are scarce here, so book a Didi in advance or arrange a driver for the day.
 
-![White Pagoda of Fengzhou, a Liao dynasty brick pagoda under blue sky](https://images.pexels.com/photos/12156048/pexels-photo-12156048.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 - **Admission:** Free (museum may require ID)
 - **Time needed:** 1.5–2 hours total
 
@@ -126,6 +124,8 @@ End your heritage tour at the Hohhot Museum (also called the White Horse Museum)
 
 ## Getting There & Around
 
+![Aershanguo Park Snow Scenery, Inner Mongolia](/img/destinations/hohhot-heritage-walk-3-day-guide/2.webp)
+
 - **By air:** Hohhot Baita International Airport (HET) has direct flights from Beijing (1.5 hours), Shanghai (2.5 hours), and other major cities. From the airport, take metro Line 1 to the city center (40 minutes).
 - **By train:** Hohhot has two main stations: Hohhot Station (呼和浩特站) and Hohhot East Station (呼和浩特东站). High-speed trains from Beijing take about 2.5 hours (¥150–200).
 - **Getting around:** The metro (Line 1 and Line 2) covers most central areas. For suburban sites, use Didi (ride-hailing) or taxis. Shared bikes are great for short hops.
@@ -135,6 +135,8 @@ End your heritage tour at the Hohhot Museum (also called the White Horse Museum)
 Spring (April–May) and autumn (September–October) offer mild weather and fewer crowds. Summer (June–August) is warm but can be rainy; winter (November–March) is cold but the sites are less crowded.
 
 ## Where to Stay
+
+![Ejinaheishui City Scenery, Inner Mongolia](/img/destinations/hohhot-heritage-walk-3-day-guide/3.webp)
 
 Stay in the city center near Dazhao or Xinhua Street for easy access to most sites. Budget options: youth hostels (¥80–150/night). Mid-range: chain hotels like Hanting or Home Inn (¥200–350). Luxury: Shangri-La Hotel (¥600+).
 
@@ -153,8 +155,6 @@ Don't miss Hohhot's signature dishes:
 - **Language:** English is not widely spoken. Download a translation app (e.g., Pleco) and have key phrases ready.
 
 For more itinerary ideas, check our [China itineraries](/tags/itinerary) and [northern China guides](/tags/north-china). If you're interested in Inner Mongolia's vast grasslands, see our [Inner Mongolia travel tips](/tags/north-china).
-
-![Hohhot city skyline with Dazhao Temple golden roof](https://images.pexels.com/photos/35892264/pexels-photo-35892264.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## FAQ
 

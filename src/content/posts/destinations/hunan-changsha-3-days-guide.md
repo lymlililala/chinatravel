@@ -12,7 +12,7 @@ tags:
   - food
   - culture
 description: "Changsha has emerged as one of China's most culturally dynamic cities — home to the famous Mawangdui archaeological mummies at the Hunan Museum, the spiciest street food in China, a thriving creative scene, and the Mao-era revolutionary heritage that still shapes its identity. This 2026 three-day guide covers the unmissable museums, the legendary night-food culture, and how to experience this genuinely exciting Chinese city."
-ogImage: "https://images.pexels.com/photos/35422090/pexels-photo-35422090.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/hunan-changsha-3-days-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -23,7 +23,7 @@ This guide is for travelers who want the real Changsha — the museums that woul
 
 ## Day 1: Cultural Anchors — Hunan Provincial Museum and Yuelu Mountain
 
-![Changsha — Day 1: Cultural Anchors — Hunan Provincial Museum and Yuelu Mountain](https://images.pexels.com/photos/33665245/pexels-photo-33665245.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Heng Mountain Scenery, Hunan](/img/destinations/hunan-changsha-3-days-guide/1.webp)
 
 ### Morning: Hunan Provincial Museum (9:00am–1:00pm)
 
@@ -59,9 +59,9 @@ Changsha's night food culture is famous throughout China — the city is said to
 - **Stinky tofu (臭豆腐)**: Changsha's signature street food — tofu fermented in a pungent brine, then deep-fried. The smell is alarming; the taste is addictive. ¥5–8 per portion. Recommended: Wen He You (文和友) food stall variants — several chains throughout the city.
 - **Spicy crayfish (香辣小龙虾)**: Changsha has become one of China's crayfish capitals. A pile of crayfish in a spicy-numbing sauce: ¥50–80/kg. Order with cold beer (Hunan craft beers are underrated).
 
-![Changsha — Day 2: Mao's Changsha and Orange Island](https://images.pexels.com/photos/32385687/pexels-photo-32385687.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day 2: Mao's Changsha and Orange Island
+
+![Ancient Town Landscape Scenery, Fenghuang](/img/destinations/hunan-changsha-3-days-guide/2.webp)
 
 ### Morning: Hunan First Normal University Museum (8:30–10:30am)
 
@@ -93,9 +93,9 @@ Jiefang West Road (解放西路) has been transformed into Changsha's most famou
 
 Inside: Authentic stinky tofu, crayfish, Changsha-style hotpot (¥50–80/person), and a wild visual experience.
 
-![Changsha — Day 3: Deeper Hunan — Revolutionary History or Day Trip to Shaoshan](https://images.pexels.com/photos/25000765/pexels-photo-25000765.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day 3: Deeper Hunan — Revolutionary History or Day Trip to Shaoshan
+
+![Guojiasenlin Park, Zhangjiajie](/img/destinations/hunan-changsha-3-days-guide/3.webp)
 
 ### Option A: Shaoshan Day Trip (Mao's Birthplace)
 

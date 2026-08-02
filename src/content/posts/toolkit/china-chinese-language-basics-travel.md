@@ -1,6 +1,7 @@
 ---
 title: "Essential Chinese for Travelers: 100 Phrases That Actually Work"
 description: "Practical Chinese language guide for travel — pronunciation basics, essential Mandarin phrases organized by situation, how to use tones, apps for translation, and why learning even 20 words changes your China travel experience dramatically."
+ogImage: "/img/toolkit/china-chinese-language-basics-travel/cover.webp"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/chinese-language.jpg"
 category: "toolkit"
@@ -23,6 +24,8 @@ Twenty well-chosen phrases, learned to a recognizable pronunciation standard, wi
 This isn't about being a linguist. It's about having the tools to navigate effectively.
 
 ## Pronunciation: The Basics
+
+![Gudianmingyuanliu Garden Scenery, Suzhou](/img/toolkit/china-chinese-language-basics-travel/1.webp)
 
 **Tones**: Mandarin Chinese uses four tones plus a neutral tone. The same syllable with different tones has completely different meanings. For travelers, perfect tones aren't necessary, but wrong tones cause confusion. The four tones:
 - **1st tone (ā)**: High and level, like singing one note
@@ -152,6 +155,8 @@ Combinations: 11 = shí yī; 12 = shí èr; 20 = èr shí; 35 = sān shí wǔ; 1
 "Sān kuài" = 3 yuan
 
 ## The Most Useful Phrases If You Only Learn Ten
+
+![Hanshan Temple, Suzhou](/img/toolkit/china-chinese-language-basics-travel/2.webp)
 
 If you only have time to learn ten phrases before your trip:
 

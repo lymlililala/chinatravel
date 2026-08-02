@@ -1,6 +1,7 @@
 ---
 title: "China January & February Travel Guide: Winter Highlights, Chinese New Year & Crowd Management"
 description: "Plan your China trip in January or February — the coldest months, the Chinese New Year travel surge, Harbin ice festival peak season, Yunnan's eternal spring, and the unique opportunity to see traditional festival culture that is invisible at any other time of year. Includes the complete Chinese New Year travel strategy."
+ogImage: "/img/toolkit/china-january-february-travel-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "january", "february", "chinese-new-year", "spring-festival", "winter", "harbin", "yunnan", "seasonal-travel"]
@@ -13,6 +14,8 @@ January and February are China's most challenging months for foreign independent
 ---
 
 ## The Chinese New Year Factor
+
+![Huangdi Ancient Village Luo Landscape, Shanxi, Anhui](/img/toolkit/china-january-february-travel-guide/1.webp)
 
 **Chinese New Year (春节, Chūnjié)** — the Lunar New Year — typically falls between January 21 and February 20 (the exact date changes annually with the lunar calendar). The 40 days surrounding the New Year holiday constitute **Chunyun (春运)** — the world's largest annual human migration, with approximately 3 billion passenger journeys made as the entire country travels home.
 
@@ -65,6 +68,8 @@ Temperatures: 4–10°C. Cold by Chinese standards; warm enough for walking with
 ---
 
 ## Packing for January/February
+
+![Scenery, Anhui, Huangshan](/img/toolkit/china-january-february-travel-guide/2.webp)
 
 **Northern China (Beijing, Harbin):**
 - Thermal base layers (wool or synthetic)

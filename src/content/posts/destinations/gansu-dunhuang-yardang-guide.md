@@ -1,7 +1,7 @@
 ---
 title: "Dunhuang Yardang National Geopark: Moon City & Desert Landscapes"
 description: "Explore the Yardang National Geopark near Dunhuang — China's most dramatic desert erosion landscape, where wind-carved rock formations create an alien cityscape nicknamed Moon City, the backdrop for countless photography expeditions and the ideal partner to the nearby Mogao Caves."
-ogImage: "https://images.pexels.com/photos/19334369/pexels-photo-19334369.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/gansu-dunhuang-yardang-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Gansu"
 tags: ["gansu", "dunhuang", "yardang", "moon-city", "geopark", "desert-landscape", "photography", "silk-road", "wind-erosion"]
@@ -15,9 +15,9 @@ This is one of the most photographed landscapes in China's northwest, and one of
 
 ---
 
-![Dunhuang Yardang National Geopark — What Is a Yardang?](https://images.pexels.com/photos/5802888/pexels-photo-5802888.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## What Is a Yardang?
+
+![Mogao Caves, Gansu, Dunhuang](/img/destinations/gansu-dunhuang-yardang-guide/1.webp)
 
 A **yardang** (a Uyghur word meaning "steep bank") is a formation produced when wind erodes unconsolidated sedimentary rock (typically lake-bed deposits or loess) that was laid down in a former wet period. The Dunhuang yardangs were originally **lake sediments deposited approximately 12,000 years ago** during the post-glacial humid period when the Lop Nur basin was a substantial inland sea.
 
@@ -27,9 +27,9 @@ As the climate dried and the lake retreated, the exposed sediments were eroded b
 
 ---
 
-![Dunhuang Yardang National Geopark — The Landscape](https://images.pexels.com/photos/19334366/pexels-photo-19334366.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Landscape
+
+![Singing Sand Dunes, Gansu, Dunhuang](/img/destinations/gansu-dunhuang-yardang-guide/2.webp)
 
 ### The Main Formation Areas
 
@@ -46,8 +46,6 @@ The accessible portion of the geopark is divided into three connected zones serv
 The **colour palette** is extraordinary: pale yellow in flat overhead light; deep amber to burnt orange in late afternoon; chalk-white to silver in early morning. The formations contain horizontal bands of slightly different sediment compositions — these bands show different colours, creating natural striped patterns across vertical surfaces.
 
 ---
-
-![Dunhuang Yardang National Geopark — Photography](https://images.pexels.com/photos/13415111/pexels-photo-13415111.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Photography
 
@@ -72,6 +70,8 @@ The Yardang geopark is one of China's great landscape photography destinations, 
 ---
 
 ## Combining Yardang with the Dunhuang Region
+
+![Maijishan Grottoes, Gansu](/img/destinations/gansu-dunhuang-yardang-guide/3.webp)
 
 The Yardang geopark is 180 km from Dunhuang city — approximately **2 hours by road** each way. Most visitors combine the trip with other sites along the same road:
 

@@ -12,7 +12,7 @@ tags:
   - planning
   - beginners
 description: "Stay healthy in China — what vaccinations you need, how to find English-speaking doctors, how to read a Chinese pharmacy, and what travel insurance actually covers."
-ogImage: "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=1200&q=85"
+ogImage: "/img/toolkit/china-health-medical-guide/cover.webp"
 ---
 
 China has excellent medical facilities in major cities — often comparable to or better than what you'd find at home. The challenge is navigating the system, the language barrier, and knowing which options are available to foreigners. This guide gives you everything you need to stay healthy and handle any medical situation confidently.
@@ -20,6 +20,8 @@ China has excellent medical facilities in major cities — often comparable to o
 ## Table of contents
 
 ## Before You Go: Vaccinations
+
+![Shilihualang Scenery, Zhangjiajie, Hunan](/img/toolkit/china-health-medical-guide/1.webp)
 
 The following vaccinations are recommended by most international travel health authorities for visits to China:
 
@@ -131,6 +133,8 @@ Many common prescription drugs (antibiotics, etc.) can be bought over the counte
 ---
 
 ## Altitude Sickness (High Altitude Travel)
+
+![Tianzi Mountain Scenery, Zhangjiajie, Hunan](/img/toolkit/china-health-medical-guide/2.webp)
 
 Particularly relevant for Tibet, Qinghai, and parts of Yunnan and Sichuan.
 

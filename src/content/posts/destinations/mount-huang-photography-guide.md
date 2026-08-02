@@ -11,7 +11,7 @@ tags:
   - anhui
   - nature
 description: "Photographing Yellow Mountain (黄山) — the sea of clouds (the main reason photographers visit), which peak to stay on for sunrise (North Sea Scenic Area for Refreshing Terrace viewpoint), the weather window strategy, the iconic pine tree viewpoints (Guest Greeting Pine, Welcoming Guest Pine), and the specific hotel rooms with direct sunrise views."
-ogImage: "https://images.pexels.com/photos/6294828/pexels-photo-6294828.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/mount-huang-photography-guide/cover.webp"
 ---
 
 Yellow Mountain (黄山) has inspired Chinese painters, poets, and photographers for over a thousand years. The Huangshan School of painting (黄山画派), which emerged in the 17th century, used the mountain's distinctive elements — granite peaks, twisted pines, sea of clouds — as the defining vocabulary of a new Chinese landscape aesthetic. Every photograph of Huangshan is in dialogue with that tradition, whether the photographer knows it or not.
@@ -22,7 +22,7 @@ This guide is for visitors who want to see and photograph Huangshan at its best,
 
 ## The Sea of Clouds
 
-![Huangshan Photography — The Sea of Clouds](https://images.pexels.com/photos/1536304/pexels-photo-1536304.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Huangdi Ancient Village Luo Landscape, Shanxi, Anhui](/img/destinations/mount-huang-photography-guide/1.webp)
 
 The sea of clouds (云海, yún hǎi) is the defining photographic subject at Huangshan and the primary reason serious photographers visit. When weather conditions align — warm humid air rising from the valleys meeting cooler mountain air — the clouds fill the valleys between the peaks to a level that leaves only the highest granite summits visible above the white surface. The effect is exactly what Chinese landscape paintings show: mountain peaks floating on white as if the solid world beneath has dissolved.
 
@@ -49,9 +49,9 @@ The second highest peak and the most accessible high viewpoint. In clear weather
 **West Sea Grand Canyon (西海大峡谷)**
 Less photographed than the North Sea area and for that reason more interesting compositionally. The canyon walking path descends into the valley between peaks and provides unusual perspectives looking up at the cliffs. The zigzag path and the cliff-face walkways offer compositions unavailable from the summit viewpoints.
 
-![Huangshan Photography — The Pine Trees](https://images.pexels.com/photos/9521866/pexels-photo-9521866.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Pine Trees
+
+![Guojiadizhi Park Scenery, Huangshan](/img/destinations/mount-huang-photography-guide/2.webp)
 
 The twisted, horizontal pines of Huangshan are as iconic as the peaks and clouds. Several individual trees have been famous for centuries:
 
@@ -63,6 +63,8 @@ The pines grow in conditions that would kill most trees — crevices in granite,
 
 ## Summit Hotels & Sunrise Rooms
 
+![Scenery, Anhui, Huangshan](/img/destinations/mount-huang-photography-guide/3.webp)
+
 Staying on the mountain overnight is essential for serious sunrise photography, and the specific room you book matters.
 
 **Beihai Hotel (北海宾馆):** The closest hotel to Refreshing Terrace sunrise viewpoint. Rooms in the east-facing wing (request specifically when booking) have direct views of the sunrise direction. Rates range from ¥800-2,500 per night depending on season. Book 2-4 weeks ahead for October visits.
@@ -72,8 +74,6 @@ Staying on the mountain overnight is essential for serious sunrise photography, 
 **Paiyun Lou (排云楼宾馆):** On the western side of the mountain near Jade Screen area. Closest to the Guest Greeting Pine. West-facing rooms catch spectacular sunset light on the peaks.
 
 All summit hotels have basic restaurant facilities. Prices for food on the mountain are significantly higher than at the base (¥50-100 for a simple meal vs ¥20-40 below), which is explained by the fact that everything is carried up by porters on the mountain paths.
-
-![Huangshan Photography — Equipment Considerations](https://images.pexels.com/photos/3989612/pexels-photo-3989612.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Equipment Considerations
 

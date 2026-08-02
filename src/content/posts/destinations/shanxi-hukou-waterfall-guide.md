@@ -1,7 +1,7 @@
 ---
 title: "Hukou Waterfall Guide: The Yellow River's Greatest Natural Spectacle"
 description: "Experience Hukou Waterfall on the Yellow River between Shanxi and Shaanxi — China's second largest waterfall and the largest yellow waterfall in the world, thundering through a narrow gorge in all four distinct seasonal moods, from spring flood to winter ice formations."
-ogImage: "https://images.pexels.com/photos/8780358/pexels-photo-8780358.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/shanxi-hukou-waterfall-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Shanxi"
 tags: ["shanxi", "hukou-waterfall", "yellow-river", "waterfall", "shaanxi", "natural-wonder", "photography", "seasonal"]
@@ -15,9 +15,9 @@ At peak summer flow, over 1,000 cubic metres per second of yellow-brown water dr
 
 ---
 
-![Hukou Waterfall — The Physical Setting](https://images.pexels.com/photos/8257831/pexels-photo-8257831.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Physical Setting
+
+![Shuozhoushahukou Scenery, Shanxi](/img/destinations/shanxi-hukou-waterfall-guide/1.webp)
 
 The Yellow River here marks the boundary between **Shaanxi Province** (to the west) and **Shanxi Province** (to the east). Both provinces have visitor infrastructure and entrance gates; the Shanxi (east) side is generally considered to provide the best views and is more commonly visited by tourists.
 
@@ -25,9 +25,9 @@ The site sits in a deeply eroded valley of red sandstone — **Loess Plateau ter
 
 ---
 
-![Hukou Waterfall — Four Seasonal Characters](https://images.pexels.com/photos/10636165/pexels-photo-10636165.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Four Seasonal Characters
+
+![Laoniuwan Natural Scenery, Shanxi](/img/destinations/shanxi-hukou-waterfall-guide/2.webp)
 
 Unlike most waterfalls, Hukou has a dramatically distinct character in each season:
 
@@ -53,8 +53,6 @@ This is arguably the most spectacular and least-visited season. Temperatures rea
 
 ---
 
-![Hukou Waterfall — Viewing the Falls](https://images.pexels.com/photos/14436937/pexels-photo-14436937.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Viewing the Falls
 
 ### The Shanxi Side Viewing Area
@@ -76,6 +74,8 @@ Crossing between the two sides is not possible at the falls themselves; you woul
 ---
 
 ## Cultural and Symbolic Significance
+
+![Yungang Grottoes, Shanxi, Datong](/img/destinations/shanxi-hukou-waterfall-guide/3.webp)
 
 The Yellow River and Hukou Falls appear in **Chinese national consciousness** in ways that are not fully translatable to outsiders. The river is called *China's Mother River* — it is the cradle of Chinese agriculture and, consequently, of Chinese civilisation itself. The Loess Plateau, where Hukou sits, is where the earliest Chinese states formed; the erosion of that same plateau feeds the silt that colours the river.
 

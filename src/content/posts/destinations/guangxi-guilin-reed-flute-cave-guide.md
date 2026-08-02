@@ -1,7 +1,7 @@
 ---
 title: "Reed Flute Cave Guilin: China's Most Spectacular Underground Karst World"
 description: "Explore Reed Flute Cave (Ludi Yan) in Guilin — a 180-million-year-old limestone cave system with extraordinary stalactite and stalagmite formations, coloured lighting that transforms the underground world, and the 'Crystal Palace' chamber that holds 1,000 visitors at once."
-ogImage: "https://images.pexels.com/photos/20998162/pexels-photo-20998162.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guangxi-guilin-reed-flute-cave-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Guangxi"
 tags: ["guangxi", "guilin", "reed-flute-cave", "karst-cave", "stalactites", "underground", "limestone", "crystal-palace"]
@@ -13,9 +13,9 @@ Five kilometres northwest of Guilin city, inside a limestone hill, a 500-metre p
 
 ---
 
-![Reed Flute Cave Guilin — The Geology](https://images.pexels.com/photos/14776265/pexels-photo-14776265.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Geology
+
+![Xingping, Guangxi, Yangshuo](/img/destinations/guangxi-guilin-reed-flute-cave-guide/1.webp)
 
 The cave was formed over approximately **180 million years** as slightly acidic groundwater dissolved the limestone bedrock. The formations inside are the result of mineral-rich water dripping and depositing calcium carbonate over millennia:
 
@@ -28,17 +28,15 @@ The cave contains exceptional examples of all these types, including a 7-metre-t
 
 ---
 
-![Reed Flute Cave Guilin — The Crystal Palace Chamber](https://images.pexels.com/photos/17575211/pexels-photo-17575211.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Crystal Palace Chamber
+
+![Detianda Waterfall Scenery, Guangxi](/img/destinations/guangxi-guilin-reed-flute-cave-guide/2.webp)
 
 The highlight of the cave is the **Crystal Palace (水晶宫)** — a chamber approximately 90 metres wide and 14 metres high, containing dense clusters of stalactites and stalagmites arranged in what appears, under coloured lighting, as an underwater palace. The chamber holds over 1,000 people simultaneously.
 
 The coloured LED lighting system (which replaced older fluorescent lights) cycles through sequences of blue, green, purple, and gold that transform the same formations into different visual experiences depending on the light colour. Photography here is either spectacular or garish depending on your aesthetic preferences — the formations are spectacular regardless of lighting.
 
 ---
-
-![Reed Flute Cave Guilin — The Circuit](https://images.pexels.com/photos/3520692/pexels-photo-3520692.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Circuit
 
@@ -49,6 +47,8 @@ The circuit is entirely paved and accessible; no crawling or low passages.
 ---
 
 ## Practical Information
+
+![Gupo Mountain Scenery, Guangxi](/img/destinations/guangxi-guilin-reed-flute-cave-guide/3.webp)
 
 **Getting there:** Bus 3 from central Guilin (20 min); taxi ¥15–20.
 **Admission:** ¥75.

@@ -9,7 +9,7 @@ tags:
   - "guangdong"
   - "south-china"
 description: "Explore Chaoshan's rich culinary traditions: hand-beaten beef balls, roast goose, shacha sauce, and traditional tea snacks. A food lover's journey through"
-ogImage: "https://images.pexels.com/photos/11355643/pexels-photo-11355643.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/chaoshan-food-guide/cover.webp"
 faq:
   - question: "What is the best time to visit Chaoshan for food?"
     answer: "Spring (March-May) and autumn (September-November) offer pleasant weather for exploring food stalls. Avoid summer due to heat and humidity."
@@ -31,9 +31,9 @@ Welcome to Chaoshan (潮汕, Cháo Shàn), a region in eastern Guangdong that is
 
 ## The Essence of Chaoshan Cuisine
 
-Chaoshan cuisine is all about freshness, texture, and balance. The region's coastal location provides an abundance of seafood, while its agricultural hinterland supplies quality meats and vegetables. Two pillars of the cuisine are **beef balls** (牛肉丸, niú ròu wán) and **roast goose** (烧鹅, shāo é), each prepared with meticulous techniques passed down through generations.
+![Baomo Garden, Guangdong, Guangzhou](/img/destinations/chaoshan-food-guide/1.webp)
 
-![A plate of hand-beaten beef balls with shacha sauce](https://images.pexels.com/photos/20943983/pexels-photo-20943983.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+Chaoshan cuisine is all about freshness, texture, and balance. The region's coastal location provides an abundance of seafood, while its agricultural hinterland supplies quality meats and vegetables. Two pillars of the cuisine are **beef balls** (牛肉丸, niú ròu wán) and **roast goose** (烧鹅, shāo é), each prepared with meticulous techniques passed down through generations.
 
 ### Hand-Beaten Beef Balls: A Labor of Love
 
@@ -48,8 +48,6 @@ No Chaoshan beef ball experience is complete without **shacha sauce**. This savo
 ## Roast Goose: The Pride of Dongguan and Beyond
 
 While Chaoshan is famous for its beef, the neighboring city of Dongguan (东莞, Dōng Guǎn) is the undisputed king of roast goose. The dish, known as **烧鹅濑粉** (shāo é lài fěn), combines crispy roast goose with silky rice noodles in a flavorful broth. The goose is traditionally roasted over lychee wood, which imparts a subtle smoky aroma.
-
-![A whole roast goose hanging in a shop window](https://images.pexels.com/photos/11355643/pexels-photo-11355643.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### Where to Find the Best Roast Goose
 
@@ -67,9 +65,9 @@ Most shops serve roast goose with **濑粉** (lài fěn), a type of thick rice n
 
 ## Tea Snacks: The Art of Accompaniment
 
-Chaoshan people take their tea seriously, and no tea session is complete without traditional pastries. The most beloved is the **Chaoshan mung bean cake** (绿豆饼, lǜ dòu bǐng).
+![Nanyueyuan Scenery, Guangdong, Guangzhou](/img/destinations/chaoshan-food-guide/2.webp)
 
-![A stack of mung bean cakes wrapped in red paper](https://images.pexels.com/photos/36211530/pexels-photo-36211530.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+Chaoshan people take their tea seriously, and no tea session is complete without traditional pastries. The most beloved is the **Chaoshan mung bean cake** (绿豆饼, lǜ dòu bǐng).
 
 ### Mung Bean Cake: A Century-Old Tradition
 
@@ -84,6 +82,8 @@ Where to buy: Look for shops that sell "潮饼记" (Chao Bing Ji) brand, which h
 - **糖葱薄饼** (táng cōng báo bǐng): A thin pancake wrapped around a crunchy maltose candy and coconut.
 
 ## Suggested Food Tour in Shantou
+
+![Chenjiaci, Guangdong, Guangzhou](/img/destinations/chaoshan-food-guide/3.webp)
 
 If you have only one day in Shantou, here's a sample itinerary inspired by local food tours:
 
@@ -136,5 +136,3 @@ If you have only one day in Shantou, here's a sample itinerary inspired by local
 ## Conclusion
 
 Chaoshan's food culture is a treasure trove of flavors and traditions. Whether you're savoring a bowl of beef ball soup, cracking into a crispy roast goose, or nibbling on a mung bean cake with tea, every bite tells a story. For more food adventures, check out our [Guangdong food guide](/tags/guangdong) and [south China travel tips](/tags/south-china). Happy eating!
-
-![A bustling night market in Shantou with food stalls](https://images.pexels.com/photos/32223212/pexels-photo-32223212.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)

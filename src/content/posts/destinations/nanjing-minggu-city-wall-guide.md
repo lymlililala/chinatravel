@@ -1,7 +1,7 @@
 ---
 title: "Nanjing City Wall Guide: Walking the World's Longest Ancient City Wall"
 description: "Complete guide to walking Nanjing's Ming Dynasty city wall — the longest ancient city wall in the world. Best sections to walk, Zhonghua Gate fortress, history, practical info and where to access."
-ogImage: "https://images.pexels.com/photos/36732812/pexels-photo-36732812.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/nanjing-minggu-city-wall-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Nanjing", "city wall", "Ming Dynasty", "Zhonghua Gate", "Jiangsu tourism", "China history", "ancient fortification"]
@@ -9,9 +9,9 @@ tags: ["Nanjing", "city wall", "Ming Dynasty", "Zhonghua Gate", "Jiangsu tourism
 
 Nanjing's city wall, built during the early Ming Dynasty (1366–1386 AD) under the founding emperor Zhu Yuanzhang (洪武帝), is the longest surviving ancient city wall in the world — a fact that still surprises most visitors. The original perimeter stretched 35.27 km; approximately 25 km survives today, and 15 km of the surviving sections can be walked on top of the wall via pedestrian paths.
 
-![Nanjing City Wall — Historical Context](https://images.pexels.com/photos/17323743/pexels-photo-17323743.png?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Historical Context
+
+![Shi Lake Scenery, Jiangsu, Suzhou](/img/destinations/nanjing-minggu-city-wall-guide/1.webp)
 
 Zhu Yuanzhang chose Nanjing as his imperial capital and spent 20 years building its walls. Unlike the neat geometric walls of most Chinese cities, Nanjing's wall follows the natural contours of the terrain — hugging hills, incorporating lakes and bending around natural ridges. The resulting irregular pentagon shape was strategically astute but architecturally unusual.
 
@@ -19,9 +19,9 @@ The wall required approximately 350 million specially fired bricks. Each brick w
 
 At its completion, the wall was between 14–21 meters high and 7–10 meters wide at the top. The scale is more apparent standing on it than from below — the top is a broad promenade rather than a narrow walkway.
 
-![Nanjing City Wall — Key Sections to Walk](https://images.pexels.com/photos/27920235/pexels-photo-27920235.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Key Sections to Walk
+
+![Zhuozheng Garden, Suzhou](/img/destinations/nanjing-minggu-city-wall-guide/2.webp)
 
 ### Zhonghua Gate (中华门) — Most Complete and Most Important
 Zhonghua Gate is not just a gate — it's a 128-room fortress built within the wall at the southern entrance, designed to trap invaders in a series of courtyards that could be sealed off and attacked from above. It is the most complex surviving defensive gate structure in the world.
@@ -42,8 +42,6 @@ The section of wall adjacent to Xuanwu Lake in the northeast of the old city is 
 ### Zhongshan Gate to Stone City (中山门至石城)
 The longest accessible stretch of the wall, incorporating several gate towers and offering panoramic views over both old and new Nanjing. More physically demanding than Taicheng — some sections include significant uphill climbs.
 
-![Nanjing City Wall — The Wall's Construction Materials](https://images.pexels.com/photos/17940311/pexels-photo-17940311.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Wall's Construction Materials
 
 The bricks are the wall's defining visual feature. The rich, deep red-brown color comes from the specific clay composition and kiln temperature. Embedded across the entire wall are thousands of bricks with carved inscriptions — the production stamps mentioned earlier. Archaeological teams have catalogued over 12 million brick inscriptions identifying production sites from across the Yangtze River Basin.
@@ -51,6 +49,8 @@ The bricks are the wall's defining visual feature. The rich, deep red-brown colo
 Modern conservation has replaced damaged sections with identical-specification bricks made in traditional kilns using the original technique. The difference between 600-year-old original bricks and 20-year-old restoration bricks is visible up close — the original bricks have a slightly different patina and the edges are more rounded by time.
 
 ## Connecting the Wall Walk to Other Attractions
+
+![Fuzimiao Night View, Nanjing](/img/destinations/nanjing-minggu-city-wall-guide/3.webp)
 
 **Xuanwu Lake (玄武湖)**: The large lake park inside the city wall's northeastern section is free to enter (weekdays) or ¥15 on weekends. It's one of the most pleasant city parks in eastern China — five islands connected by causeways, with the wall visible from multiple angles.
 

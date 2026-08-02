@@ -12,7 +12,7 @@ tags:
   - three-kingdoms
   - china
 description: "Wuhou Shrine (Wuhou Ci) is China's most important Three Kingdoms-era memorial — commemorating Zhuge Liang (Prime Minister to Liu Bei) and Liu Bei's kingdom of Shu Han. The complex includes Liu Bei's burial mound, temples, historic statues, and connects directly to Jinli Ancient Street, the most atmospheric commercial street in Chengdu."
-ogImage: "https://images.pexels.com/photos/15545815/pexels-photo-15545815.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/chengdu-wuhou-shrine-guide/cover.webp"
 ---
 
 Wuhou Shrine (武侯祠, Wǔhóu Cí) is not just one of Chengdu's main attractions — it's the most significant Three Kingdoms memorial in China, and for anyone who's read the Romance of the Three Kingdoms or played any of the Dynasty Warriors games, a place of genuine emotional resonance. The shrine commemorates Zhuge Liang (诸葛亮), the brilliant strategist and prime minister who served Liu Bei's Kingdom of Shu Han in the third century AD.
@@ -23,7 +23,7 @@ The complex also contains Liu Bei's actual burial mound (the Huiling Tomb), maki
 
 ## The Historical Context
 
-![Wuhou Shrine Chengdu — The Historical Context](https://images.pexels.com/photos/33457680/pexels-photo-33457680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Tianfuguosheyinger, Sichuan, Chengdu](/img/destinations/chengdu-wuhou-shrine-guide/1.webp)
 
 The Three Kingdoms period (220–280 AD) is one of the most romanticised eras in Chinese history. Three kingdoms — Wei in the north, Wu in the east, and Shu Han based in Chengdu — competed for control after the collapse of the Han Dynasty. The period produced Cao Cao (ruthless northern chancellor), Liu Bei (righteous claimant to the Han throne), and Zhuge Liang (the feather-fan-wielding strategist who is still invoked as the archetype of wisdom and loyalty in Chinese culture).
 
@@ -39,15 +39,17 @@ The original shrine was built in the third century and has been rebuilt multiple
 
 **The Red Wall Corridor:** A long corridor lined with red walls and cypress trees connecting the shrine to Jinli Street. This is one of the most-photographed spots in Chengdu — the path is covered with lanterns and the dappled light through the trees is excellent at any time of day.
 
-![Wuhou Shrine Chengdu — Zhuge Liang's Legacy](https://images.pexels.com/photos/35067827/pexels-photo-35067827.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Zhuge Liang's Legacy
+
+![Lugu Lake Ligeban Island Scenery, Sichuan](/img/destinations/chengdu-wuhou-shrine-guide/2.webp)
 
 Zhuge Liang (181–234 AD) has been elevated to near-mythic status in Chinese culture. His image — feather fan in hand, white robes, contemplative expression — is immediately recognisable. He invented several things attributed to him in legend (the steamed bun, the crossbow repeater), wrote important texts on military strategy (still studied), and is credited with administrative and engineering achievements that may or may not be historically accurate.
 
 The shrine is the site of his annual commemoration festival, and for Chinese visitors with any connection to the Three Kingdoms stories (which is essentially all of them), the visit carries emotional weight that Western tourists without that background might not fully access.
 
 ## Jinli Ancient Street (锦里古街)
+
+![Shunanzhuhai Landscape](/img/destinations/chengdu-wuhou-shrine-guide/3.webp)
 
 Directly connected to the Wuhou Shrine compound, Jinli is Chengdu's most atmospheric commercial street — a reconstruction of a Qing Dynasty street market that has been executed with more care than most of these projects. The architecture is convincing, the food vendors are legitimate, and the evening atmosphere with lanterns lit is genuinely appealing.
 
@@ -60,8 +62,6 @@ Directly connected to the Wuhou Shrine compound, Jinli is Chengdu's most atmosph
 The street has both vendors and sit-down restaurants. The snack stalls are the better option — eat as you walk rather than committing to a table.
 
 **Evening Jinli:** The atmosphere after 7pm with the lanterns is significantly better than afternoon. The tourist density is similar but the light and energy are different.
-
-![Wuhou Shrine Chengdu — Entry & Practical Details](https://images.unsplash.com/photo-1556757758-bcaf8510b51d?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxFbnRyeSUyMCUyNiUyMFByYWN0aWNhbCUyMERldGFpbHN8ZW58MHwwfHx8MTc4MTgzNDgxM3ww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## Entry & Practical Details
 

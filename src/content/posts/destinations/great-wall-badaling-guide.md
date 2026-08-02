@@ -12,7 +12,7 @@ tags:
   - day trip
   - UNESCO heritage
 description: "The ultimate guide to visiting the Great Wall of China — best sections for first-timers, how to avoid the crowds, transportation from Beijing, tickets, and insider tips from thousands of local travelers."
-ogImage: "https://images.pexels.com/photos/4445241/pexels-photo-4445241.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/great-wall-badaling-guide/cover.webp"
 ---
 
 Standing on the Great Wall as the morning light creeps over the ridgeline and mist fills the valleys below, it becomes immediately clear why this is one of the world's defining travel experiences. This is not merely a tourist attraction — it is an encounter with 2,000 years of human ambition, engineering, and history.
@@ -23,7 +23,7 @@ The wall stretches over 21,000 kilometres across northern China. For visitors ba
 
 ## Which Section Should You Visit?
 
-![Great Wall China — Which Section Should You Visit?](https://images.pexels.com/photos/7883792/pexels-photo-7883792.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Badalingshuiguan Great Wall Scenery, Beijing](/img/destinations/great-wall-badaling-guide/1.webp)
 
 This is the single most important decision for your Great Wall day trip. Each section has a completely different character.
 
@@ -83,8 +83,6 @@ The advantage is door-to-door convenience. The disadvantage is fixed schedules a
 
 A private hire car from central Beijing to Badaling costs approximately ¥200–¥300 one way and takes 60–90 minutes depending on traffic. Useful for early morning departures when public transport is limited.
 
-![Great Wall China — Tickets & Booking](https://images.pexels.com/photos/4568193/pexels-photo-4568193.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Tickets & Booking
 
 ### Badaling Tickets
@@ -106,6 +104,8 @@ Book via:
 - **Cable car + toboggan combo:** ¥140 (highly recommended)
 
 ## What to Expect: Practical Tips
+
+![Wanli Great Wall Scenery](/img/destinations/great-wall-badaling-guide/2.webp)
 
 ### What to Wear
 
@@ -129,8 +129,6 @@ Sun protection is essential: sunscreen, a hat, and sunglasses. There is minimal 
 
 **Avoid:** The Golden Week holiday periods — early October (National Day) and late April/early May (Labour Day). Crowds reach extraordinary levels.
 
-![Great Wall China — The "Good Han" Certificate](https://images.pexels.com/photos/8524942/pexels-photo-8524942.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The "Good Han" Certificate
 
 At Badaling, reaching **Tower 8 on the northern section** earns you the right to obtain a certificate declaring you a "好汉" (Good Han) — a Chinese expression meaning a strong, capable person. The tradition comes from the famous saying "不到长城非好汉" (He who has not climbed the Great Wall is not a true man), attributed to Mao Zedong.
@@ -138,6 +136,8 @@ At Badaling, reaching **Tower 8 on the northern section** earns you the right to
 The certificate is available at the tower and makes an excellent and culturally meaningful souvenir. Most Chinese visitors make it a point of pride to reach this tower.
 
 ## Photography Tips
+
+![Simatai Great Wall, Beijing](/img/destinations/great-wall-badaling-guide/3.webp)
 
 ### Golden Hour
 

@@ -1,7 +1,7 @@
 ---
 title: "Qufu Confucius Temple, Cemetery & Mansion: Complete Guide 2026"
 description: "Complete guide to Qufu, birthplace of Confucius — the Kong Family Mansion, Confucius Temple, and Confucius Cemetery (the three Kongs). UNESCO World Heritage site in Shandong. Tickets, routes, and practical tips."
-ogImage: "https://images.pexels.com/photos/6952102/pexels-photo-6952102.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/shandong-qufu-confucius-guide/cover.webp"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/qufu-confucius.jpg"
 category: "destinations"
@@ -15,9 +15,9 @@ Qufu (曲阜, Qūfù) in Shandong province is one of the most significant cultur
 
 The "Three Kongs" (三孔) — the Confucius Temple (孔庙), Kong Family Mansion (孔府), and Confucius Cemetery (孔林) — form a UNESCO World Heritage Site of extraordinary historical and cultural significance. Together they constitute one of China's largest surviving complexes of pre-modern architecture outside Beijing's Forbidden City.
 
-![Qufu Confucius Temple, Cemetery & Mansion — Historical Context](https://images.pexels.com/photos/33457680/pexels-photo-33457680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Historical Context
+
+![Yan Temple Scenery, Shandong, Qufu](/img/destinations/shandong-qufu-confucius-guide/1.webp)
 
 Confucius (孔子, Kǒng Zǐ), born Kong Qiu (孔丘), lived during the Spring and Autumn period — an era of political fragmentation and social upheaval as the Zhou dynasty's authority collapsed. His teachings emphasized ethical behavior, proper social relationships, ritual propriety, and moral governance as the foundations of stable, humane civilization.
 
@@ -45,8 +45,6 @@ The Confucius Temple is one of China's three great palace complexes (alongside t
 - Time needed: 2-3 hours
 - Audio guide: Available for rent at the gate (¥30)
 
-![Qufu Confucius Temple, Cemetery & Mansion — Kong Family Mansion (孔府)](https://images.pexels.com/photos/15847208/pexels-photo-15847208.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Kong Family Mansion (孔府)
 
 The Kong Family Mansion is the official residence and administrative headquarters of successive generations of the Kong family, who held the honorary title of "Duke Yansheng" (衍圣公). The complex functioned simultaneously as a noble residence, a government office (the family had semi-independent administrative authority over Qufu), and a center of ritual and scholarship.
@@ -63,6 +61,8 @@ The mansion covers 24,000 square meters with over 460 rooms arranged across 9 co
 
 ## Confucius Cemetery (孔林)
 
+![Taiandai Temple](/img/destinations/shandong-qufu-confucius-guide/2.webp)
+
 The Confucius Cemetery is the world's largest family cemetery — a walled forest of 200,000 graves spanning 2 km², where Confucius himself is buried alongside 80+ generations of his direct descendants. The forest has been continuously maintained for over 2,500 years.
 
 **Walking Through the Forest**: The 800-year-old trees (ancient cypress, ginkgo, elm) shade a forest of stone-stelae marking graves from every period of Chinese history. Early morning walks through the cemetery, with mist filtering through the ancient trees and the sounds of birds, is an experience of profound stillness.
@@ -74,9 +74,9 @@ The Confucius Cemetery is the world's largest family cemetery — a walled fores
 **Entry**: Included in combined ticket.
 **Travel**: The cemetery is 1 km north of the Kong Family Mansion; most visitors take a horse-drawn cart (¥10-15) or walk.
 
-![Qufu Confucius Temple, Cemetery & Mansion — Confucius Ceremony](https://images.pexels.com/photos/9867888/pexels-photo-9867888.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Confucius Ceremony
+
+![Taianningyangwen Temple Scenery, Shandong](/img/destinations/shandong-qufu-confucius-guide/3.webp)
 
 Twice annually — on Confucius's birthday (September 28th) and on New Year — elaborate traditional ceremonies are held at the Confucius Temple. The September 28th ceremony (Confucius Culture Festival) is the most significant: participants in Tang dynasty-style robes perform ritual dances, music, and offerings that have been unchanged for centuries.
 

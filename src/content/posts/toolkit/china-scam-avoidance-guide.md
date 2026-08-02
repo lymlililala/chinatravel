@@ -1,6 +1,7 @@
 ---
 title: "China Travel Scams Guide 2026: The 12 Most Common Tourist Scams and How to Avoid Them"
 description: "Protect yourself from the 12 most common scams targeting tourists in China in 2026 — the 'art student' scam, the tea ceremony trap, the fake monk, overpriced taxis, the nightclub bill shock, counterfeit goods, and how to recognise them before they cost you money. Includes the specific scripts used in each scam."
+ogImage: "/img/toolkit/china-scam-avoidance-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "scams", "safety", "tourist-traps", "art-student-scam", "tea-ceremony-scam", "travel-safety", "consumer-protection"]
@@ -15,6 +16,8 @@ Understanding the scripts used in common scams is the single most effective prot
 ---
 
 ## The 12 Most Common China Tourist Scams
+
+![Forbidden City Bowuyuan, Taiwan, Taipei](/img/toolkit/china-scam-avoidance-guide/1.webp)
 
 ### 1. The Art Student Scam (美术学生骗局)
 
@@ -101,6 +104,8 @@ Less common but occurs: unofficial "attractions" near real sites that charge adm
 ---
 
 ## What To Do If Scammed
+
+![Wanli Great Wall Scenery](/img/toolkit/china-scam-avoidance-guide/2.webp)
 
 **For minor amounts (under ¥500):** Usually not worth the time to pursue; report to tourism complaint hotline (12301) and move on.
 

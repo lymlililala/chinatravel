@@ -11,7 +11,7 @@ tags:
   - "sichuan"
   - "guangdong"
 description: "From mountain-top Banyan Tree resorts to museum sleepovers, discover extraordinary places to stay across China. Your guide to unique accommodations."
-ogImage: "https://images.pexels.com/photos/38402869/pexels-photo-38402869.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/unique-accommodations-china-guide/cover.webp"
 faq:
   - question: "Can foreign tourists book these unique accommodations directly?"
     answer: "Yes, most hotels accept bookings via Ctrip or Fliggy, which have English interfaces. You may need to provide a passport number and a Chinese mobile number for contact. Some hotels also accept direct reservations via email or phone."
@@ -33,10 +33,10 @@ From sleeping beside dinosaur skeletons in a Shanghai museum to soaking in a pri
 
 ## Top Unique Stays
 
+![Mufu Scenery, Yunnan, Lijiang](/img/destinations/unique-accommodations-china-guide/1.webp)
+
 ### 1. Sleep with the Dinosaurs: Museum Overnight at Shanghai Natural History Museum
 Imagine exploring a museum after dark, then unrolling your sleeping bag under the towering skeleton of a Mamenchisaurus. This is exactly what the "Museum Camp Night" (博物馆躺营夜) offers — a collaboration between Marriott Bonvoy and the Shanghai Natural History Museum (上海自然博物馆).
-
-![Family camping in a museum hall with dinosaur skeleton backdrop](https://images.pexels.com/photos/20627399/pexels-photo-20627399.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 - **What it includes**: A 2-day-1-night or 3-day-2-night package featuring a night in the museum (tent provided), plus hotel accommodation at one of 20+ Shanghai Marriott properties. Kids get to watch a 4D film, attend a science show, meet costumed dinosaur characters, and complete a stamp challenge.
 - **Best for**: Families with children aged 3–12. The experience runs from 7 PM to the next morning.
@@ -46,8 +46,6 @@ Imagine exploring a museum after dark, then unrolling your sleeping bag under th
 
 ### 2. Mountain Serenity: Banyan Tree Mount Emei
 Nestled at the foot of sacred Mount Emei (峨眉山), one of China's four great Buddhist mountains, the newly opened Banyan Tree Mount Emei (峨眉山悦榕庄) is a haven of tranquility. The hotel draws inspiration from traditional Western Sichuan courtyard houses, with ink-black sloping roofs blending into the emerald hills.
-
-![Banyan Tree Mount Emei private villa with hot spring pool and mountain view](https://images.pexels.com/photos/38402869/pexels-photo-38402869.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 - **What makes it unique**: Every room comes with its own private hot spring (私汤) — imagine soaking in mineral-rich waters while gazing at the misty peaks. The hotel also offers a signature spa, a children's club called "Earth Kids' House" with climbing walls and a music corner, and cultural activities like tea picking at the nearby Emei Xueya organic tea plantation.
 - **Location**: A 5-minute drive from Baoguo Temple (报国寺) and the Mount Emei scenic area entrance. The hotel provides free pickup from Emeishan High-Speed Rail Station (峨眉山站), which is about 1 hour from Chengdu by train.
@@ -59,8 +57,6 @@ Nestled at the foot of sacred Mount Emei (峨眉山), one of China's four great 
 ### 3. Desert Stargazing: Zhongwei Beidouxingye Bubble Domes
 For a truly otherworldly stay, head to the Tengger Desert (腾格里沙漠) in Ningxia, where the Zhongwei Beidouxingye (中卫北斗星野) hotel offers transparent "bubble" domes. Opened in 2025, this property is designed around the Big Dipper constellation, and its stargazing program is run by professional astronomers from the Haba Lake Observatory.
 
-![Transparent bubble dome in the desert under a starry sky](https://images.pexels.com/photos/18717286/pexels-photo-18717286.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 - **What makes it unique**: Sleep under the stars in a 33 sqm bubble room with air conditioning, Wi-Fi, and an en-suite bathroom. The package includes guided stargazing, a bonfire party, desert hiking, and treasure hunts.
 - **Location**: In the Tengger Desert, about 40 minutes by car from downtown Zhongwei and 8 minutes from Zhongwei Station.
 - **Price**: From ¥1,288 for two nights (including breakfast and activities). The 62 sqm sand-view rooms with 180-degree views start at ¥1,988 for two nights.
@@ -69,8 +65,6 @@ For a truly otherworldly stay, head to the Tengger Desert (腾格里沙漠) in N
 
 ### 4. Bamboo Forest Retreat: Langxi Hongshan Hantian Diejie
 In the tea country of Xuancheng (宣城), Anhui province, the first Hantian (涵田) property in the province — Langxi Hongshan Hantian Diejie (郎溪红山涵田·叠界酒店) — opened recently. The name "Diejie" (叠界) means "layered realm," reflecting the way its 17 ink-black villas cascade down a hillside amid bamboo groves and terraced fields.
-
-![Bamboo forest villa with outdoor hot spring pool](https://images.pexels.com/photos/5916301/pexels-photo-5916301.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 - **What makes it unique**: All villas are standalone, offering total privacy. Each has a private hot spring or access to communal outdoor springs set among the bamboo. The hotel also offers sound healing (singing bowl sessions), a tea ceremony, and a traditional Huizhou fish lantern ritual at dusk.
 - **Location**: 10 minutes from Langxi Guantianxia Scenic Area (郎溪观天下风景区). The nearest high-speed rail station is Langxi South (郎溪南站), about 1 hour from Hangzhou or Suzhou, and 2 hours from Shanghai.
@@ -93,11 +87,15 @@ Most of these unique stays are available through Chinese travel platforms like *
 
 ## Getting Around
 
+![Shuhe Old Town Scenery, Yunnan, Lijiang](/img/destinations/unique-accommodations-china-guide/2.webp)
+
 - **High-speed rail**: China's extensive HSR network connects most destinations. For example, Chengdu to Emeishan (1 hour), Shanghai to Langxi South (2 hours). Book tickets via **12306** (official app, supports foreign passports) or through travel agents.
 - **Metro**: In cities like Shanghai, Hangzhou, and Chongqing, metro systems are efficient and cheap. Buy a single-journey token at the station or use Alipay's transport QR code.
 - **Taxis and ride-hailing**: **DiDi** (the Chinese Uber) is available in most cities. Download the app and link Alipay for payment. Taxis are also plentiful; ensure the driver uses the meter.
 
 ## Practical Tips for Foreign Travelers
+
+![Heilongtan Park Scenery, Yunnan, Lijiang](/img/destinations/unique-accommodations-china-guide/3.webp)
 
 - **Visa**: Most travelers need a tourist visa (L-visa) to enter China. However, the **144-hour transit without a visa** policy applies at major hubs like Shanghai, Beijing, and Guangzhou for passport holders from 54 countries. Check eligibility before you go.
 - **Mobile payment**: Set up **Alipay** before your trip. You can link an international credit card for payments. WeChat Pay also works but requires a Chinese bank account for full functionality. Carry some cash (RMB) as backup for small vendors.
@@ -121,8 +119,6 @@ Most of these unique stays are available through Chinese travel platforms like *
 - **Package deals**: Often 30–50% off standard rates, especially for new openings.
 
 For more travel inspiration, check out our [China itineraries](/tags/itinerary) or [cultural experiences](/tags/culture). If you're planning a trip to Sichuan or Anhui, our [Sichuan](/tags/sichuan) and [east China](/tags/east-china) guides have detailed advice.
-
-![Mount Emei golden summit with clouds and temple](https://images.pexels.com/photos/29767807/pexels-photo-29767807.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## FAQ
 

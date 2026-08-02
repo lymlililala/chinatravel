@@ -12,7 +12,7 @@ tags:
   - dai-culture
   - border-region
 description: "Dehong Prefecture in western Yunnan is China's primary jade trading hub and home to vibrant Dai culture. Ruili on the Myanmar border has enormous jade markets, golden pagodas, and a unique frontier atmosphere where two cultures blend seamlessly. This guide covers Ruili's jade market, Dai temples, border crossing points, Wanding, and the practical details of visiting this remote corner of Yunnan."
-ogImage: "https://images.pexels.com/photos/31756539/pexels-photo-31756539.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/yunnan-dehong-guide/cover.webp"
 ---
 
 Dehong Dai and Jingpo Autonomous Prefecture (德宏傣族景颇族自治州) occupies the westernmost tip of Yunnan, pressing against the Myanmar border for more than 500km. It belongs geographically and culturally to the Greater Mekong subregion more than to interior China — the tropical climate, the Dai people's Buddhist traditions, the jade-and-gems trading economy, and the linguistic mix all feel closer to Southeast Asia than to the Chinese heartland.
@@ -23,7 +23,7 @@ Ruili (瑞丽) is the main city and the center of China's jade trading industry.
 
 ## Getting to Dehong
 
-![Dehong Yunnan — Getting to Dehong](https://images.pexels.com/photos/7814062/pexels-photo-7814062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Dehongmenghuandajin Pagoda Scenery, Yunnan](/img/destinations/yunnan-dehong-guide/1.webp)
 
 **By air:**
 - **Mangshi Airport (芒市机场):** Direct flights from Kunming (1 hour, ¥250–450), Chengdu, Guangzhou
@@ -56,8 +56,6 @@ Ruili is China's dominant jade (翡翠, jadeite) trading center. The city has hu
 
 **Market hours:** Generally 9:00am–6:00pm; the stone auctions typically happen in the late morning
 
-![Dehong Yunnan — Dai Buddhist Temples & Pagodas](https://images.pexels.com/photos/34239928/pexels-photo-34239928.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Dai Buddhist Temples & Pagodas
 
 Dehong's Dai people practice Theravada Buddhism (上座部佛教) — the same tradition found in Thailand, Myanmar, Laos, and Cambodia — rather than the Mahayana Buddhism dominant in the rest of China. The architecture and ritual practice reflect this difference strongly.
@@ -76,6 +74,8 @@ Remove shoes before entering temple buildings; dress modestly (shoulders and kne
 
 ## Border Area Exploration
 
+![Jade Dragon Snow Mountain Scenery, Yunnan](/img/destinations/yunnan-dehong-guide/2.webp)
+
 The border between China and Myanmar around Ruili is complex and in places porous — villages straddle the line, markets serve both sides, and the cultural boundary is fluid.
 
 **Jiegao Border Economic Zone (姐告边境经济合作区):**
@@ -86,8 +86,6 @@ About 30km south of Ruili, Wanding is a smaller and more atmospheric border cros
 
 **One Village Two Countries (一寨两国):**
 A tourist attraction near Ruili where the border literally runs through a single village — one family's house may be in China while their neighbor's is in Myanmar. The border is marked by a low stone line through the village lanes. Entry ¥30; this is tourism-organized but the underlying reality (families divided by a border that was drawn through their land) gives it a poignancy beyond the kitsch.
-
-![Dehong Yunnan — Dai Culture & Festivals](https://images.pexels.com/photos/29410958/pexels-photo-29410958.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Dai Culture & Festivals
 
@@ -101,6 +99,8 @@ Held in mid-April (the Dai New Year, following the Theravada Buddhist calendar).
 - **Munao Zongge Festival (目瑙纵歌):** The major festival of the Jingpo people (景颇族), held in February; massive communal dancing in traditional costume; held in Mangshi and surrounding Jingpo villages
 
 ## Dehong Food
+
+![Jade Dragon Snow Mountain Lanyuegu Scenery, Yunnan](/img/destinations/yunnan-dehong-guide/3.webp)
 
 Dehong food is essentially Southeast Asian cuisine with Chinese elements:
 

@@ -11,7 +11,7 @@ tags:
   - airport
   - first-time
 description: "Arriving in China involves specific immigration procedures that differ from other countries. This 2026 guide walks through the complete process from landing to exiting customs — arrival card requirements, the biometric scanning process, what to declare, luggage limits, prohibited items, and how to navigate the major arrival airports smoothly. Includes current information on visa-free policies."
-ogImage: "https://images.pexels.com/photos/16737432/pexels-photo-16737432.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-airport-immigration-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -19,6 +19,8 @@ ogImage: "https://images.pexels.com/photos/16737432/pexels-photo-16737432.jpeg?a
 China's airport immigration process has been modernized significantly in recent years, and the 2024–2026 period has seen further streamlining including expanded visa-free policies. The process is efficient at major airports, but knowing what to expect prevents unnecessary stress or mistakes.
 
 ## Before You Land: What You Need
+
+![Jinshanling Great Wall, Beijing](/img/toolkit/china-airport-immigration-guide/1.webp)
 
 ### Visa Situation in 2026
 
@@ -116,6 +118,8 @@ Since the COVID period, China has updated health declaration requirements. As of
 Always check the current health requirements via the Chinese Embassy in your country before departure — these can change with short notice.
 
 ## Major Arrival Airports
+
+![Yiyuanjie Scenery, Beijing, Suzhou](/img/toolkit/china-airport-immigration-guide/2.webp)
 
 ### Beijing Capital International Airport (PEK) — Terminal 2 and 3
 

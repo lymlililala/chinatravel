@@ -12,7 +12,7 @@ tags:
   - culture
   - jiangnan
 description: "The best 5-day itinerary covering Shanghai, Suzhou and Hangzhou — how to combine the Bund, classical gardens, West Lake, and Jiangnan water towns in a single trip, with day-by-day schedules, train times, and where to eat."
-ogImage: "https://images.pexels.com/photos/37520285/pexels-photo-37520285.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/shanghai-suzhou-hangzhou-5-day-itinerary/cover.webp"
 ---
 
 The Shanghai–Suzhou–Hangzhou triangle is the most elegant compact circuit in China. Within a 150km radius, you get the hypermodern skyline of Shanghai, the refined classical gardens of Suzhou, and the scroll-painting scenery of Hangzhou's West Lake — three completely different experiences connected by 25–45 minute high-speed trains.
@@ -24,6 +24,8 @@ This 5-day itinerary works perfectly for a standalone trip or as part of a longe
 ---
 
 ## Itinerary Overview
+
+![Gudianmingyuanliu Garden Scenery, Suzhou](/img/toolkit/shanghai-suzhou-hangzhou-5-day-itinerary/1.webp)
 
 | Day | Location | Highlights |
 |---|---|---|
@@ -102,6 +104,8 @@ Allow 2–2.5 hours. Return to Shanghai by DiDi.
 ---
 
 ## Day 4: Hangzhou — West Lake
+
+![Shibohui, Shanghai](/img/toolkit/shanghai-suzhou-hangzhou-5-day-itinerary/2.webp)
 
 ### Morning – Travel to Hangzhou
 

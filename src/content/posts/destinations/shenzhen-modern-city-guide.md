@@ -1,7 +1,7 @@
 ---
 title: "Shenzhen Travel Guide 2026: China's Innovation City for Visitors"
 description: "Explore Shenzhen — China's tech hub, design capital, and one of the world's fastest-growing cities. OCT-Loft creative zone, Dafen Oil Painting Village, food scene, and day trips from Hong Kong. Complete 2026 guide."
-ogImage: "https://images.pexels.com/photos/14230196/pexels-photo-14230196.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/shenzhen-modern-city-guide/cover.webp"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/shenzhen-skyline.jpg"
 category: "destinations"
@@ -15,9 +15,9 @@ Shenzhen (深圳, Shēnzhèn) didn't exist as a city 45 years ago. In 1979, when
 
 This transformation — from nothing to global tech hub in a single generation — makes Shenzhen a genuinely interesting place to visit for anyone curious about China's economic development and contemporary ambitions. But beyond the narrative, Shenzhen has also developed a sophisticated food scene, creative culture, and urban design that rewards travelers interested in contemporary China.
 
-![Shenzhen — Understanding Shenzhen's Story](https://images.pexels.com/photos/25381284/pexels-photo-25381284.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Understanding Shenzhen's Story
+
+![Baomo Garden, Guangdong, Guangzhou](/img/destinations/shenzhen-modern-city-guide/1.webp)
 
 The Special Economic Zone model was Deng Xiaoping's crucial innovation: create a geographic space where market economics, foreign investment, and private enterprise could operate under different rules than the rest of China. If the experiment succeeded, the reforms could be extended. If it failed, the damage was contained.
 
@@ -45,9 +45,9 @@ OCT-Loft (华创园) is Shenzhen's best creative district — a converted 1980s 
 
 **Best time**: Weekends bring the most energy; the evening food and bar scene in OCT-Loft is one of Shenzhen's best.
 
-![Shenzhen — Dafen Oil Painting Village (大芬油画村)](https://images.pexels.com/photos/36713830/pexels-photo-36713830.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Dafen Oil Painting Village (大芬油画村)
+
+![Nanyueyuan Scenery, Guangdong, Guangzhou](/img/destinations/shenzhen-modern-city-guide/2.webp)
 
 One of the world's great curiosities — a village (now an urban neighborhood) in Longgang district where over 500 galleries and workshops employ thousands of painters to reproduce Western and Chinese masterworks at commercial scale. Everything from Van Gogh's Sunflowers to Mao-era Chinese paintings is produced here, then exported worldwide to restaurants, hotels, and middle-market art consumers.
 
@@ -81,9 +81,9 @@ Shenzhen's food scene reflects its migrant city DNA — restaurants from every C
 
 **Night Markets**: Shenzhen has several active night markets — particularly around Dongmen Pedestrian Street (东门步行街) and the OCT-Loft area.
 
-![Shenzhen — Day Trips from Hong Kong](https://images.pexels.com/photos/4968457/pexels-photo-4968457.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day Trips from Hong Kong
+
+![Chenjiaci, Guangdong, Guangzhou](/img/destinations/shenzhen-modern-city-guide/3.webp)
 
 Shenzhen is the most accessible day trip destination from Hong Kong — the border crossing at Lo Wu/Luohu or Lok Ma Chau/Huanggang is straightforward for most nationalities.
 

@@ -1,7 +1,7 @@
 ---
 title: "Zhenyuan Ancient Town Guizhou: China's Most Beautiful Riverside Town"
 description: "Explore Zhenyuan in Guizhou — a 2,200-year-old town built into cliffs above the Wuyang River, with Ming and Qing architecture, ancient defensive walls, Dong and Miao minority villages, and stunning river gorge scenery that rivals any in China."
-ogImage: "https://images.pexels.com/photos/29712653/pexels-photo-29712653.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guizhou-zhenyuan-ancient-town-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Guizhou"
 tags: ["guizhou", "zhenyuan", "ancient-town", "wuyang-river", "ming-dynasty", "dong-minority", "riverside", "heritage"]
@@ -15,9 +15,9 @@ The town's history stretches **2,200 years**, making it one of the oldest inhabi
 
 ---
 
-![Zhenyuan Ancient Town Guizhou — The Town's Character](https://images.pexels.com/photos/15234843/pexels-photo-15234843.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Town's Character
+
+![Qingyan Old Town Scenery, Guizhou](/img/destinations/guizhou-zhenyuan-ancient-town-guide/1.webp)
 
 What makes Zhenyuan exceptional is not any single monument but the **intact relationship between the town and its river**. The Wuyang River makes a sharp S-curve through a gorge here; the town occupies both inner banks. Looking from the clifftop across the river, you see an unbroken row of dark-roofed buildings — Wuyanghe on one bank, a wall of pines and cliff on the other, with a chain of ancient bridges crossing between them.
 
@@ -25,9 +25,9 @@ The colour palette is restrained: grey stone, dark timber, white plaster. It fee
 
 ---
 
-![Zhenyuan Ancient Town Guizhou — Key Sights](https://images.pexels.com/photos/10221250/pexels-photo-10221250.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Key Sights
+
+![Xijiang Miao Village Landscape, Guizhou](/img/destinations/guizhou-zhenyuan-ancient-town-guide/2.webp)
 
 ### Qinglong Cave Complex (青龙洞古建筑群)
 
@@ -57,8 +57,6 @@ A **30-km river gorge** begins at the downstream end of Zhenyuan, accessible by 
 
 ---
 
-![Zhenyuan Ancient Town Guizhou — Minority Villages Near Zhenyuan](https://images.pexels.com/photos/35315268/pexels-photo-35315268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Minority Villages Near Zhenyuan
 
 The surrounding hills shelter dozens of **Dong and Miao villages** within 20–30 km of town.
@@ -76,6 +74,8 @@ A Miao village upstream from Zhenyuan where **handmade bark paper** is still pro
 ---
 
 ## Food in Zhenyuan
+
+![Dong Village Gulou](/img/destinations/guizhou-zhenyuan-ancient-town-guide/3.webp)
 
 ### Wuyang River Fish
 

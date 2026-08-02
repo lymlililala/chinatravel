@@ -1,6 +1,7 @@
 ---
 title: "China Silk Road Cities Guide: Xi'an to Kashgar in 12 Days"
 description: "Plan the complete Chinese Silk Road journey from Xi'an through Gansu and Xinjiang to Kashgar — the major stops (Dunhuang, Turpan, Urumqi), the logistics of a route that covers 4,000 km, high-speed rail sections alongside remaining slow train stretches, the best timing for the desert and oasis towns, and what makes this journey unlike any other in China."
+ogImage: "/img/toolkit/china-ancient-silk-road-cities-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "silk-road", "xian", "dunhuang", "turpan", "kashgar", "xinjiang", "gansu", "itinerary", "ancient-route"]
@@ -16,6 +17,8 @@ This guide covers the complete journey: **Xi'an → Lanzhou → Dunhuang → Tur
 
 ## The Route Overview
 
+![Shou West Lake Scenery, Jiangsu](/img/toolkit/china-ancient-silk-road-cities-guide/1.webp)
+
 | Segment | Distance | Transport | Days |
 |---------|----------|-----------|------|
 | Xi'an → Lanzhou | 700 km | High-speed train (2.5 hrs) | Day 1 |
@@ -29,6 +32,8 @@ This guide covers the complete journey: **Xi'an → Lanzhou → Dunhuang → Tur
 ---
 
 ## Key Stops
+
+![Tongli Old Town Scenery, Jiangsu, Suzhou](/img/toolkit/china-ancient-silk-road-cities-guide/2.webp)
 
 ### Xi'an: The Starting Point
 

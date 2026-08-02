@@ -12,7 +12,7 @@ tags:
   - payment
   - transport
 description: "The complete China travel guide for UK citizens in 2026 — how the 15-day visa-free policy works for British passports, Alipay with UK cards, flights from London, Manchester and other UK cities, and practical tips for British independent travellers."
-ogImage: "https://images.pexels.com/photos/7235804/pexels-photo-7235804.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-travel-guide-uk-british/cover.webp"
 ---
 
 China opened its doors wider to British travellers in 2024 with the introduction of visa-free access for UK passport holders. As of 2026, British citizens can visit China for up to **15 days** without any prior visa — a significant simplification compared to the previous requirement for a full visa application.
@@ -24,6 +24,8 @@ This guide covers everything specific to UK travellers: exactly how the visa-fre
 ---
 
 ## Visa-Free Entry for British Citizens
+
+![Xingping, Guangxi, Yangshuo](/img/toolkit/china-travel-guide-uk-british/1.webp)
 
 ### What British Passport Holders Get
 
@@ -106,6 +108,8 @@ UK Visa and Mastercard debit and credit cards (Barclays, HSBC, Lloyds, NatWest, 
 ---
 
 ## Practical UK-Specific Notes
+
+![Forbidden City Panorama Interior, Beijing](/img/toolkit/china-travel-guide-uk-british/2.webp)
 
 **Time difference:** China Standard Time (CST) is UTC+8. UK time in winter (GMT) is UTC+0 — making China 8 hours ahead. In British Summer Time (BST), UTC+1, China is 7 hours ahead. Most UK-China flights depart in the evening and arrive the following morning, local time.
 

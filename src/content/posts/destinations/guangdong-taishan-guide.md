@@ -12,7 +12,7 @@ tags:
   - hot-springs
   - pearl-river-delta
 description: "Taishan in western Guangdong is the ancestral home of more overseas Chinese than any other county in China — particularly in North America, where a disproportionate share of early Chinese immigrants came from the Four Counties (Siyi) region centered on Taishan. This guide covers the Overseas Chinese Museum, the distinctive Taishan dialect villages, natural hot springs, and the exceptional local hot pot culture."
-ogImage: "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=85"
+ogImage: "/img/destinations/guangdong-taishan-guide/cover.webp"
 ---
 
 Taishan (台山) occupies a peculiar position in the history of the Chinese diaspora. When the transcontinental railway was being built in North America in the 1860s, when the gold rushes drew migrants to California and British Columbia, when the sweatshops and laundries of early Chinatowns were being established — the vast majority of those migrants came from a small cluster of counties in western Guangdong, with Taishan (then called Hoisaan or Toisaan) supplying the largest share.
@@ -25,7 +25,7 @@ Today, Taishan is a mid-sized city with excellent hot springs, a fascinating Ove
 
 ## Getting to Taishan
 
-![Taishan Guangdong — Getting to Taishan](https://images.unsplash.com/photo-1586223754361-710ed15b3570?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxUYWlzaGFufGVufDB8MHx8fDE3ODE4NDMxMzl8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
+![Taishanshangchuan Island Scenery, Guangdong](/img/destinations/guangdong-taishan-guide/1.webp)
 
 **From Guangzhou:**
 - **By bus:** Express buses from Guangzhou Tianhe Bus Terminal or Fangcun Bus Terminal; 2–2.5 hours; departures every 30 minutes; tickets ¥60–80
@@ -62,8 +62,6 @@ The best starting point for understanding what makes Taishan distinctive is this
 **Entry:** Free  
 **Hours:** 9:00am–5:00pm (closed Mondays)
 
-![Taishan Guangdong — The Overseas Chinese Architecture (华侨建筑)](https://images.pexels.com/photos/17774908/pexels-photo-17774908.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Overseas Chinese Architecture (华侨建筑)
 
 The remittance money that flowed back to Taishan from North America and Southeast Asia from the 1880s onward funded an extraordinary building boom in the villages surrounding the city. The result is a distinctive architectural style — stone and brick buildings combining Cantonese vernacular construction with Western architectural elements (classical columns, arched windows, Art Deco ornament) that the emigrants had encountered abroad.
@@ -79,6 +77,8 @@ About 20km from Taishan city, Chikan is the best-preserved example of this overs
 Scattered throughout the Taishan countryside are hundreds of multi-story fortified towers — dioulu — built by returned overseas Chinese to protect their wealth and families from bandits and warlords. These towers combine defensive functionality with architectural ambition, incorporating gun ports, reinforced floors, and elaborate exterior ornament. The best-preserved cluster is at Kaiping (开平), about 30km north, which has UNESCO World Heritage status; but Taishan itself has dozens of excellent examples accessible from secondary roads.
 
 ## Taishan Hot Springs (台山温泉)
+
+![Taishannaqinban Island Scenery, Guangdong](/img/destinations/guangdong-taishan-guide/2.webp)
 
 Taishan has one of the highest concentrations of geothermal activity in Guangdong, with multiple distinct hot spring resorts operating in the surrounding hills.
 
@@ -97,9 +97,9 @@ Less developed and more natural-feeling; good option for those who find the larg
 
 **Best time for hot springs:** Any time of year, but autumn and winter (October–March) are especially popular — soaking in warm mineral water while cool air provides a temperature contrast is the ideal experience.
 
-![Taishan Guangdong — Taishan Food Culture](https://images.pexels.com/photos/32176505/pexels-photo-32176505.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Taishan Food Culture
+
+![Taishanheisha Bay Scenery, Guangdong](/img/destinations/guangdong-taishan-guide/3.webp)
 
 Taishanese cuisine is a subset of Cantonese but with distinctive characteristics — particularly the influence of ingredients and techniques brought back by overseas Chinese, and the unique hot pot traditions.
 

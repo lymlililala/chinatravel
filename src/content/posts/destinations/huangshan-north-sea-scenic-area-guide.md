@@ -12,7 +12,7 @@ tags:
   - hiking
   - UNESCO heritage
 description: "A focused guide to the North Sea area of Huangshan (Yellow Mountain) — the best viewpoints for cloud sea, the famous Welcoming Guest Pine, overnight stays on the mountain, and how to see the sunrise that inspired a thousand paintings."
-ogImage: "https://images.pexels.com/photos/28957341/pexels-photo-28957341.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/huangshan-north-sea-scenic-area-guide/cover.webp"
 ---
 
 The Huangshan photographs you've seen — granite peaks rising from a sea of white cloud, impossibly gnarled pine trees clinging to bare rock ledges, ink-wash reality made physical — are primarily taken from the **North Sea Scenic Area (北海景区)** of Huangshan (Yellow Mountain).
@@ -23,7 +23,7 @@ Understanding this distinction helps plan a better visit. Huangshan is large (15
 
 ## Essential Information
 
-![Huangshan North Sea Scenic Area — Essential Information](https://images.pexels.com/photos/6294701/pexels-photo-6294701.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Tianzhu Mountain Scenery, Anhui](/img/destinations/huangshan-north-sea-scenic-area-guide/1.webp)
 
 | Detail | Info |
 |--------|------|
@@ -41,8 +41,6 @@ The North Sea area occupies the northern plateau of Huangshan, at approximately 
 **The cloud sea (云海):** When temperature inversions occur — warm humid air rises from the valley floor and cools at the mountain top — the valleys fill with cloud while the peaks remain clear. From the North Sea viewpoints, this creates the impression of standing above a white ocean, with isolated granite peaks rising through the surface like islands.
 
 Cloud sea conditions occur most frequently from November to March (autumn and winter inversions are most stable), but are possible year-round after weather changes. They are never guaranteed — which is why serious photographers stay 2–3 nights.
-
-![Huangshan North Sea Scenic Area — Key Viewpoints in the North Sea Area](https://images.pexels.com/photos/34534208/pexels-photo-34534208.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Key Viewpoints in the North Sea Area
 
@@ -66,6 +64,8 @@ A massive balanced boulder on the edge of a cliff — estimated to weigh over 60
 
 ## The Famous Pines
 
+![Sea of Clouds Scenery, Huangshan](/img/destinations/huangshan-north-sea-scenic-area-guide/2.webp)
+
 Huangshan pines (黄山松) are a distinct ecological phenomenon — Pinus hwangshanensis, adapted specifically to the extreme conditions of Huangshan: rocky substrates, high winds, sparse soil, bright sunlight, and heavy snow load. The result: trees of extraordinary form, growing horizontally or even downward from cliff faces, gnarled and windswept into shapes that look like deliberate sculpture.
 
 **The Welcoming Guest Pine (迎客松):** The most famous tree in China — a single pine on a ledge at the Jade Screen area (accessible from the western cable car), depicted on stamps, in paintings, and as the symbol of Anhui Province. It has been officially "guarded" by a designated caretaker for decades.
@@ -74,9 +74,9 @@ Huangshan pines (黄山松) are a distinct ecological phenomenon — Pinus hwang
 
 **The North Sea pines:** The plateau around the Beihai Hotel has dense concentrations of Huangshan pines growing from every available rock surface — photographing individual trees in mist, with granite peaks behind, produces the classic ink-wash aesthetic naturally.
 
-![Huangshan North Sea Scenic Area — Overnight on the Mountain](https://images.pexels.com/photos/27396910/pexels-photo-27396910.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Overnight on the Mountain
+
+![Wan Sea of Clouds Scenery, Anhui, Foshan](/img/destinations/huangshan-north-sea-scenic-area-guide/3.webp)
 
 Staying overnight on the Huangshan plateau is strongly recommended. The reasons:
 

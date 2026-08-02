@@ -21,7 +21,7 @@ tags:
   - Cantonese
   - Pearl River Delta
 description: "A practical guide to Guangzhou — China's food capital, the old Canton colonial district, Shamian Island, the Pearl River night cruise, and how to eat like a local at a dim sum house."
-ogImage: "https://images.unsplash.com/photo-1630831241310-3984f1b3d711?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwzfHxHdWFuZ3pob3V8ZW58MHwwfHx8MTc4MTg0MzIzMHww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
+ogImage: "/img/destinations/guangzhou-travel-guide/cover.webp"
 ---
 
 Guangzhou has a reputation problem in the travel world: most articles about China skip straight from Beijing and Shanghai to the scenic landscapes further afield, barely pausing at this city of 15 million. That's a serious mistake. Guangzhou is arguably the best city in China for eating — the birthplace and living heartland of Cantonese cuisine — and one of the most historically layered, with two millennia of maritime trade history compressed into a navigable old city.
@@ -32,7 +32,7 @@ Visitors who come find a city that combines tropical warmth (palm trees, year-ro
 
 ## Essential Information
 
-![Guangzhou — Essential Information](https://images.unsplash.com/photo-1588267863680-ba244f1bf0d4?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw3fHxHdWFuZ3pob3V8ZW58MHwwfHx8MTc4MTg0MzIzMHww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
+![Shiwannanfengguzao Scenery, Guangdong, Foshan](/img/destinations/guangzhou-travel-guide/1.webp)
 
 | Detail | Info |
 |--------|------|
@@ -43,9 +43,9 @@ Visitors who come find a city that combines tropical warmth (palm trees, year-ro
 | Language | Cantonese is the local language; Mandarin widely understood; some English in tourist areas |
 | Currency | RMB; Alipay and WeChat Pay universal |
 
-![Guangzhou — The Food: Why Guangzhou Is Different](https://images.pexels.com/photos/12761351/pexels-photo-12761351.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Food: Why Guangzhou Is Different
+
+![Baomo Garden, Guangdong, Guangzhou](/img/destinations/guangzhou-travel-guide/2.webp)
 
 Cantonese cuisine is the most influential regional cooking in the world — it's what "Chinese food" means to most people in North America, Europe, and Southeast Asia, because the waves of Cantonese emigration from the 19th century onward took their cooking with them.
 
@@ -77,6 +77,8 @@ The most humble and perhaps most satisfying Guangzhou food: smooth rice porridge
 **Artful Congee (生记粥品)** near Shamian Island: Open 24 hours, serving primarily locals.
 
 ## What to See
+
+![Nanyueyuan Scenery, Guangdong, Guangzhou](/img/destinations/guangzhou-travel-guide/3.webp)
 
 ### Shamian Island (沙面)
 

@@ -11,7 +11,7 @@ tags:
   - beginners
   - solo
 description: "Complete budget breakdown for travelling China in 2025 — daily costs, cheapest transport, free attractions, budget hotels, and money-saving tips that actually work."
-ogImage: "https://images.unsplash.com/photo-1565372195458-9de0b320ef04?w=900&q=80"
+ogImage: "/img/toolkit/china-budget-travel-guide/cover.webp"
 ---
 
 China is one of the most affordable long-haul travel destinations in the world — if you know where to spend and where to save. This guide gives you real numbers, not guesswork.
@@ -19,6 +19,8 @@ China is one of the most affordable long-haul travel destinations in the world �
 ## Table of contents
 
 ## What Does China Actually Cost?
+
+![Glacier Park Spectacular Scenery, Yunnan, Lijiang](/img/toolkit/china-budget-travel-guide/1.webp)
 
 Here's an honest daily budget breakdown (in USD) for different travel styles:
 
@@ -142,6 +144,8 @@ Many of China's most iconic experiences cost nothing:
 ---
 
 ## SIM Cards and Internet
+
+![Mufu Scenery, Yunnan, Lijiang](/img/toolkit/china-budget-travel-guide/2.webp)
 
 - **Local SIM with 30GB data:** ¥100–150/month — buy at any China Mobile/Unicom/Telecom store at the airport or in the city
 - **China Unicom tourist SIM (47-day):** ¥99, widely available at airports, includes calls and data

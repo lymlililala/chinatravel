@@ -1,7 +1,7 @@
 ---
 title: "Fenghuang Ancient Town Hunan: Stilt Houses on the Tuojiang River"
 description: "Explore Fenghuang Ancient Town in western Hunan — the Miao and Tujia cultural capital perched above the Tuojiang River on traditional wooden stilt houses (diaojiaolou), with Ming-dynasty walls, red lantern reflections in the water, and authentic minority village culture in the surrounding hills."
-ogImage: "https://images.pexels.com/photos/33672249/pexels-photo-33672249.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/hunan-fenghuang-old-town-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Hunan"
 tags: ["hunan", "fenghuang", "ancient-town", "tuojiang-river", "stilt-houses", "miao-culture", "tujia", "minority-culture", "xiangxi"]
@@ -15,9 +15,9 @@ Alley wrote those words in the 1940s. Fenghuang is now a major tourist destinati
 
 ---
 
-![Fenghuang Ancient Town Hunan — The Town](https://images.pexels.com/photos/32543704/pexels-photo-32543704.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Town
+
+![Wumanxiaodong River Scenery](/img/destinations/hunan-fenghuang-old-town-guide/1.webp)
 
 ### The Old Town Layout
 
@@ -39,9 +39,9 @@ The **Ming dynasty city wall** is one of the most intact short sections of Ming 
 
 ---
 
-![Fenghuang Ancient Town Hunan — Miao Silver Culture](https://images.pexels.com/photos/30693227/pexels-photo-30693227.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Miao Silver Culture
+
+![Xiangtanchangjiang Town Scenery, Hunan](/img/destinations/hunan-fenghuang-old-town-guide/2.webp)
 
 Fenghuang and the surrounding Xiangxi region have a strong **Miao silver jewelry tradition** — similar to but distinct from the Qiandongnan Miao silver described in the Kaili guide.
 
@@ -50,8 +50,6 @@ The Xiangxi Miao style tends toward **more geometric patterns** and **smaller or
 The **Fenghuang County Museum** (in the old town) has an excellent display of regional Miao silver, providing context for purchases.
 
 ---
-
-![Fenghuang Ancient Town Hunan — The Surrounding Area](https://images.pexels.com/photos/8584022/pexels-photo-8584022.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Surrounding Area
 
@@ -68,6 +66,8 @@ Wild forested hills 60 km south of Fenghuang with good birdwatching (particularl
 ---
 
 ## Food in Fenghuang
+
+![Chenzhouzixingxiaodong River Scenery, Hunan](/img/destinations/hunan-fenghuang-old-town-guide/3.webp)
 
 ### Local Specialities
 

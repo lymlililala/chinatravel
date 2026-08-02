@@ -12,7 +12,7 @@ tags:
   - adventure
   - karst
 description: "Yangshuo's karst limestone towers are a global climbing destination — single-pitch and multi-pitch routes on perfect rock with rice paddies below and the Li River in the background. This 2026 guide covers the best climbing areas, reputable schools for beginners and advanced climbers, seasonal conditions, and how to combine climbing with the wider Yangshuo experience."
-ogImage: "https://images.pexels.com/photos/24246260/pexels-photo-24246260.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guangxi-yangshuo-rock-climbing-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -23,7 +23,7 @@ The local climbing scene has developed steadily since the 1990s, with a now-esta
 
 ## The Rock: Why Yangshuo's Climbing Is Special
 
-![Yangshuo Rock Climbing — The Rock: Why Yangshuo's Climbing Is Special](https://images.pexels.com/photos/36535022/pexels-photo-36535022.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Xingping, Guangxi, Yangshuo](/img/destinations/guangxi-yangshuo-rock-climbing-guide/1.webp)
 
 Yangshuo's karst towers are composed of Devonian and Carboniferous limestone — some of the oldest and most compact limestone in China. The features that make karst visually dramatic (the sharp erosion patterns, the pocketed surfaces, the hanging caves) translate directly into interesting climbing terrain.
 
@@ -93,9 +93,9 @@ A locally-run operation with Chinese-speaking instructors and lower prices. Bett
 ### Nihao Climbing
 A newer operation (est. 2021) with good English instruction and a focus on outdoor trad climbing development.
 
-![Yangshuo Rock Climbing — Gear and Equipment](https://images.pexels.com/photos/36929730/pexels-photo-36929730.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Gear and Equipment
+
+![Detianda Waterfall Scenery, Guangxi](/img/destinations/guangxi-yangshuo-rock-climbing-guide/2.webp)
 
 **What climbing schools provide:** Harness, shoes, helmet, belay device, rope — all included in most lesson prices.
 
@@ -143,9 +143,9 @@ Yangshuo's West Street tourist area is full of restaurants and bars, but the bet
 ### Visiting Minority Villages
 Several Zhuang and Yao minority villages are accessible from Yangshuo by bicycle or motorbike. Xingping (兴坪) in particular is a traditional village with old architecture and views that are in the background of the 20 RMB banknote.
 
-![Yangshuo Rock Climbing — Getting to Yangshuo](https://images.pexels.com/photos/36535023/pexels-photo-36535023.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting to Yangshuo
+
+![Gupo Mountain Scenery, Guangxi](/img/destinations/guangxi-yangshuo-rock-climbing-guide/3.webp)
 
 Yangshuo Town is 65km southwest of Guilin.
 

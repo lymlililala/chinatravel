@@ -12,7 +12,7 @@ tags:
   - hiking
   - history
 description: "Mount Tai (泰山) is China's most sacred mountain — emperors came here to perform the ultimate feng shan ceremonies, and Confucius himself climbed these steps. The overnight summit hike for sunrise remains one of China's most powerful experiences. This 2026 complete guide covers both the classic hike route and cable car option, booking accommodation at the summit, and the mountain's extraordinary cultural history."
-ogImage: "https://images.pexels.com/photos/5765823/pexels-photo-5765823.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/shandong-mount-tai-complete-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -23,7 +23,7 @@ The experience of hiking Mount Tai at night with a headlamp, joining a stream of
 
 ## The Mountain's Significance
 
-![Mount Tai Shandong — The Mountain's Significance](https://images.pexels.com/photos/26926327/pexels-photo-26926327.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Taishan Sunrise Scenery, Shandong](/img/destinations/shandong-mount-tai-complete-guide/1.webp)
 
 Mount Tai was the focus of imperial religious activity for reasons rooted in cosmology: it was the easternmost of the Five Sacred Mountains (五岳, Wǔ Yuè) and east was the direction of sunrise, of spring, of life beginning. To perform the feng shan ceremony here was to align the Emperor's rule with cosmic order.
 
@@ -67,8 +67,6 @@ Two cable car options avoid most of the stairs:
 
 Using the cable car up and hiking down (or vice versa) is a reasonable combination for less active travelers. **Note**: The cable car does not go all the way to the summit — there are still 800+ steps from the cable car terminus to the top.
 
-![Mount Tai Shandong — The Sunrise Hike: How to Do It](https://images.pexels.com/photos/31506012/pexels-photo-31506012.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Sunrise Hike: How to Do It
 
 This is the quintessential Mount Tai experience. Here's the practical protocol:
@@ -106,6 +104,8 @@ The morning light at sunrise on the summit is extraordinary — particularly in 
 
 ## Historical and Cultural Sites
 
+![Kong Temple, Qufu](/img/destinations/shandong-mount-tai-complete-guide/2.webp)
+
 ### Dai Temple (岱庙)
 The imperial temple complex at the base of the mountain, built and rebuilt over 2,000 years. The main hall (Tiankuang Hall, 天贶殿) is one of the three great palace halls of ancient China alongside the Forbidden City and Confucius Temple in Qufu. Dimensions nearly match the Forbidden City's Hall of Supreme Harmony. Entry: ¥30.
 
@@ -117,9 +117,9 @@ The first major temple on the climbing route, dedicated to the Goddess of the Az
 ### Stone Inscriptions Everywhere
 One of the most distinctive features of Mount Tai is the density of inscriptions. Almost every large flat rock surface has been carved — imperial edicts, poetry, Buddhist texts, personal vows. The most significant cluster is the **Jingshi Valley (经石峪)** off the main route, where the Diamond Sutra inscription covers a 66-square-meter rock face in 6th century calligraphy.
 
-![Mount Tai Shandong — Getting to Tai'an](https://images.pexels.com/photos/8461249/pexels-photo-8461249.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting to Tai'an
+
+![Konglin, Qufu](/img/destinations/shandong-mount-tai-complete-guide/3.webp)
 
 **By train**: 
 - From Beijing South: 1.5 hours by high-speed train, ¥130–200. Very frequent service.

@@ -15,7 +15,7 @@ tags:
   - "north-china"
   - "southwest-china"
 description: "Escape the summer heat with this guide to China's coolest destinations: from misty mountains and canyon hikes to seaside retreats."
-ogImage: "https://images.pexels.com/photos/16038809/pexels-photo-16038809.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/china-best-summer-cool-escapes/cover.webp"
 faq:
   - question: "Do I need to book tickets in advance for these destinations?"
     answer: "For popular attractions like Enshi Grand Canyon and Yangshuo's Li River cruise, it's advisable to book online via WeChat or travel platforms like Trip.com to avoid long queues."
@@ -35,6 +35,8 @@ When summer temperatures in China's major cities soar past 35°C, it's time to h
 
 ## Top Summer Destinations at a Glance
 
+![Jiankou Great Wall Scenery, Beijing](/img/destinations/china-best-summer-cool-escapes/1.webp)
+
 | Destination | Best For | Average Summer Temp | Travel Time from Major City |
 |---|---|---|---|
 | **Chongli, Hebei** | Mountain resort, hiking, cable car | 20°C | 1.5h high-speed rail from Beijing |
@@ -42,8 +44,6 @@ When summer temperatures in China's major cities soar past 35°C, it's time to h
 | **Guiyang, Guizhou** | City break, food, art | 23°C | 2h flight from Shanghai |
 | **Wenzhou Dongtou, Zhejiang** | Coastal views, seafood, islands | 27°C | 3h high-speed rail from Shanghai |
 | **Yangshuo, Guangxi** | River scenery, cycling, hiking | 28°C | 2h high-speed rail from Guangzhou |
-
-![Misty mountains in Chongli, Hebei with cable car](https://images.pexels.com/photos/33927123/pexels-photo-33927123.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## 1. Chongli (崇礼) – Beijing's Backyard Mountain Escape
 
@@ -84,9 +84,9 @@ Enshi Grand Canyon in Hubei Province is a 35-km-long karst landscape featuring s
 - Bring water and snacks; facilities are limited inside the canyon.
 - Tickets can be purchased online via WeChat or at the entrance. Expect to pay around ¥200 for the main attractions.
 
-![Enshi Grand Canyon with sheer cliffs and greenery](https://images.pexels.com/photos/16038809/pexels-photo-16038809.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## 3. Guiyang (贵阳) – The Cool Capital of Guizhou
+
+![Jinshanling Great Wall, Beijing](/img/destinations/china-best-summer-cool-escapes/2.webp)
 
 Guiyang, the capital of Guizhou Province, is known for its mild summer climate (average 23°C) and vibrant food scene. The city is also home to the **A Yunduo Cang** (阿云朵仓) arts district, a trendy neighborhood with cafes, galleries, and a skate park, all part of the **Guiyang Zhenpo Hotel** (贵阳珍珀酒店) complex.
 
@@ -106,8 +106,6 @@ Guiyang, the capital of Guizhou Province, is known for its mild summer climate (
 ### Practical Tips
 - Guiyang is a great base for exploring nearby attractions like Huangguoshu Waterfall and the Miao villages.
 - For food lovers, check out our [food guide](/tags/food).
-
-![Guiyang cityscape with green hills](https://images.pexels.com/photos/19417435/pexels-photo-19417435.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## 4. Wenzhou Dongtou (温州洞头) – Zhejiang's Island Escape
 
@@ -149,9 +147,9 @@ Yangshuo in Guangxi Province is famous for its karst peaks, Li River scenery, an
 - Bring insect repellent for evening activities.
 - For hiking routes, see our [hiking guide](/tags/hiking).
 
-![Li River karst landscape in Yangshuo](https://images.pexels.com/photos/36535023/pexels-photo-36535023.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Best Time to Visit
+
+![Yiyuanjie Scenery, Beijing, Suzhou](/img/destinations/china-best-summer-cool-escapes/3.webp)
 
 All these destinations are best visited from June to September, when the weather is warm but not scorching. July and August are peak season, so expect larger crowds and higher prices. Early June and late September offer a good balance of pleasant weather and fewer tourists.
 

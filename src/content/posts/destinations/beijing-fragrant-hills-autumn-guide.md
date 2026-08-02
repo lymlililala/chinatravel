@@ -1,7 +1,7 @@
 ---
 title: "Beijing Fragrant Hills Autumn Foliage Guide: Red Leaves & Imperial Forest"
 description: "Visit Fragrant Hills (Xiangshan) in western Beijing for the famous autumn red-leaf season — when Chinese smoke trees turn crimson in mid-October, the imperial hunting park fills with colour, and visitors from across Beijing make the pilgrimage for what locals call 'the most beautiful season in the capital.'"
-ogImage: "https://images.pexels.com/photos/5714052/pexels-photo-5714052.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/beijing-fragrant-hills-autumn-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Beijing"
 tags: ["beijing", "fragrant-hills", "xiangshan", "autumn-foliage", "red-leaves", "imperial-park", "western-hills", "photography"]
@@ -15,9 +15,9 @@ The autumn foliage display here — centred on the **Chinese smoke tree (黄栌,
 
 ---
 
-![Beijing Fragrant Hills Autumn Foliage — The Autumn Colour Display](https://images.pexels.com/photos/21914736/pexels-photo-21914736.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Autumn Colour Display
+
+![Xiangshanjingyi Autumn Leaves Scenery, Beijing](/img/destinations/beijing-fragrant-hills-autumn-guide/1.webp)
 
 ### Chinese Smoke Tree (黄栌)
 
@@ -33,9 +33,9 @@ Beyond the smoke trees, ginkgo, maple, and various oak species in the park contr
 
 ---
 
-![Beijing Fragrant Hills Autumn Foliage — The Park](https://images.pexels.com/photos/5800214/pexels-photo-5800214.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Park
+
+![Beigongshan Autumn Leaves Scenery](/img/destinations/beijing-fragrant-hills-autumn-guide/2.webp)
 
 ### Main Peak (香炉峰, Incense Burner Peak)
 
@@ -53,9 +53,9 @@ A Tibetan-style Buddhist temple complex built by the Qianlong Emperor as a gestu
 
 ---
 
-![Beijing Fragrant Hills Autumn Foliage — Practical Information](https://images.pexels.com/photos/14554767/pexels-photo-14554767.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Practical Information
+
+![Shangfengshengdixiangshan Autumn Leaves Scenery](/img/destinations/beijing-fragrant-hills-autumn-guide/3.webp)
 
 ### Getting There
 

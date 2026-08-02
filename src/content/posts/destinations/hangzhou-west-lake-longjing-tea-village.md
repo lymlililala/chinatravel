@@ -12,7 +12,7 @@ tags:
   - cycling
   - day trips
 description: "A focused guide to Longjing Village and the West Lake cycling circuit in Hangzhou — how to visit the tea farms in spring, rent a bike for the lakeside route, and combine it with a full West Lake exploration."
-ogImage: "https://images.pexels.com/photos/16325662/pexels-photo-16325662.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/hangzhou-west-lake-longjing-tea-village/cover.webp"
 ---
 
 This guide focuses on two of Hangzhou's most rewarding half-day activities: cycling the West Lake circuit, and visiting the Longjing tea farms in the hills above the lake. Both complement each other well and can be combined into a single full day.
@@ -21,7 +21,7 @@ This guide focuses on two of Hangzhou's most rewarding half-day activities: cycl
 
 ## West Lake Cycling Circuit
 
-![Longjing Tea Village Hangzhou — West Lake Cycling Circuit](https://images.pexels.com/photos/33498247/pexels-photo-33498247.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![West Lake Landscape, Hangzhou](/img/destinations/hangzhou-west-lake-longjing-tea-village/1.webp)
 
 ### Renting Bikes
 
@@ -41,9 +41,9 @@ The full West Lake cycling circuit is approximately 15 km — 2–3 hours at a l
 
 **South shore and Leifeng Pagoda (雷峰塔):** The reconstructed five-storey pagoda on the southern hill. The exterior of the original Tang Dynasty pagoda collapsed in 1924 — the current structure (2002) stands over the excavated remains of the original. Ticket ¥40; the underground exhibition of the original structure is excellent.
 
-![Longjing Tea Village Hangzhou — Longjing Tea Village](https://images.pexels.com/photos/26771311/pexels-photo-26771311.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Longjing Tea Village
+
+![West Lake Lingyin Temple, Hangzhou](/img/destinations/hangzhou-west-lake-longjing-tea-village/2.webp)
 
 ### Getting There
 
@@ -75,9 +75,9 @@ Several farmhouses offer sitting tea sessions — a proper gongfu-style tasting 
 
 **Longjing shrimp (龙井虾仁):** The specific Hangzhou dish — local river shrimp stir-fried with fresh first-flush Longjing tea leaves. Available in season (April) from the restaurants along the valley. The tea leaves add a grassy freshness that complements the shrimp.
 
-![Longjing Tea Village Hangzhou — Practical Tips](https://images.pexels.com/photos/21760959/pexels-photo-21760959.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Practical Tips
+
+![West Lake Xuehuafenfei Scenery, Hangzhou](/img/destinations/hangzhou-west-lake-longjing-tea-village/3.webp)
 
 **Combine in a day:** Morning — West Lake cycling circuit (3 hours). Lunch near the lake. Afternoon — bus to Longjing Village (half-day, return by 5 PM).
 

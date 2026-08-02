@@ -1,6 +1,7 @@
 ---
 title: "China Spring & Qingming Festival Travel Guide: Cherry Blossoms & Tomb Sweeping"
 description: "Plan your China trip around the spring bloom season — the cherry blossom peaks in Wuhan, Beijing, and Shanghai, the Qingming Tomb Sweeping Festival that coincides with spring travel peaks, rapeseed flower fields across Jiangxi and Anhui, peach blossom valleys in Sichuan, and how to manage the spring holiday crowd surge."
+ogImage: "/img/toolkit/china-spring-qingming-festival-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "spring", "cherry-blossom", "qingming", "rapeseed-flowers", "wuhan", "seasonal-travel", "hanami"]
@@ -15,6 +16,8 @@ The complication: the **Qingming Festival (清明节, Tomb Sweeping Day)** falls
 ---
 
 ## Spring Bloom Calendar
+
+![Wanli Great Wall Scenery](/img/toolkit/china-spring-qingming-festival-guide/1.webp)
 
 | Bloom | Peak Timing | Location |
 |-------|------------|---------|
@@ -72,6 +75,8 @@ Over 1,200 varieties across multiple exhibition gardens; the **National Peony Ga
 ---
 
 ## The Qingming Festival
+
+![Forbidden City Scenery, Beijing](/img/toolkit/china-spring-qingming-festival-guide/2.webp)
 
 **Qingming (清明节, "Clear Brightness")** falls approximately April 4–6 each year — a public holiday with deep cultural significance as the day families visit and clean ancestral graves (扫墓, sǎomù).
 

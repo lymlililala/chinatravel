@@ -11,7 +11,7 @@ tags:
   - toolkit
   - budget
 description: "China's long-distance bus network for visitors — when buses make more sense than trains (rural areas, mountainous destinations not served by rail), how to buy tickets at bus stations, the difference between sleeper buses (卧铺) and regular coaches, the quality range, and specific routes where buses are the only option (to Huangshan, many Guizhou villages, Tibetan areas)."
-ogImage: "https://images.pexels.com/photos/28571678/pexels-photo-28571678.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-bus-transport-guide/cover.webp"
 ---
 
 China's high-speed rail network is extraordinary, but it doesn't go everywhere. Huge sections of rural China — mountains, karst limestone areas, ethnic minority villages, many nature reserves — are only accessible by road. In these areas, long-distance buses fill the gap. They're the mode of transport that gets you from the last train station to the place you actually want to be. Knowing how to use them unlocks parts of China that most short-stay visitors never reach.
@@ -19,6 +19,8 @@ China's high-speed rail network is extraordinary, but it doesn't go everywhere. 
 ## Table of contents
 
 ## When Buses Beat Trains
+
+![Terracotta Army](/img/toolkit/china-bus-transport-guide/1.webp)
 
 The high-speed network focuses on connecting major cities. For these specific situations, a bus is often the only practical option or genuinely the best one:
 
@@ -49,6 +51,8 @@ The high-speed network focuses on connecting major cities. For these specific si
 **On the bus**: For some minibuses and informal routes, you pay the driver directly. Have exact change or small bills.
 
 ## What to Expect
+
+![Qinshi Imperial Tomb Terracotta Army](/img/toolkit/china-bus-transport-guide/2.webp)
 
 **Security**: Buses in China require real-name registration too — at modern stations, you'll show your passport to buy and potentially to board. Station X-ray for luggage is standard at larger stations.
 

@@ -12,7 +12,7 @@ tags:
   - practical
   - china
 description: "Didi is China's dominant ride-hailing app — the equivalent of Uber, with over 550 million registered users. For foreign visitors, it solves the taxi language barrier problem and offers reliable, metered rides in every Chinese city. This guide walks through the setup process and practical use."
-ogImage: "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=1200&q=85"
+ogImage: "/img/toolkit/china-didi-ridehailing-guide-2026/cover.webp"
 ---
 
 Didi (滴滴, DiDi Chuxing) is China's dominant ride-hailing platform, comparable to Uber but significantly larger in its home market. In 2026, Didi operates in over 400 Chinese cities and handles hundreds of millions of trips per month.
@@ -22,6 +22,8 @@ For foreign visitors, Didi solves several practical problems simultaneously: the
 ## Table of contents
 
 ## Downloading & Setup
+
+![Wulingyuan Scenery, Zhangjiajie](/img/toolkit/china-didi-ridehailing-guide-2026/1.webp)
 
 **Download:** The DiDi Global app (also called DiDi International) is available in international App Store and Google Play. This is the international version designed for foreign visitors — download this rather than the Chinese-language domestic app.
 
@@ -73,6 +75,8 @@ Didi fares are typically 20–30% cheaper than hailing a taxi on the street, and
 **Base metering:** Standard fare is based on time + distance. There's a base fare of ¥9–12 in most cities.
 
 ## Communication with Drivers
+
+![Landscape Scenery, Zhangjiajie](/img/toolkit/china-didi-ridehailing-guide-2026/2.webp)
 
 The DiDi Global app has a **built-in translation function** for messaging your driver. If you need to communicate something (e.g., "I'm at the back entrance"), you can type in English and it sends in Chinese.
 

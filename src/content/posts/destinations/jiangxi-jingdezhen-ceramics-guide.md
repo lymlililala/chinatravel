@@ -12,7 +12,7 @@ tags:
   - culture
   - nature
 description: "Jiangxi Province holds three extraordinary attractions rarely visited by international tourists — the world porcelain capital of Jingdezhen, the picture-perfect Huizhou villages of Wuyuan, and the mist-shrouded peaks of Mount Lu."
-ogImage: "https://images.pexels.com/photos/21823046/pexels-photo-21823046.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/jiangxi-jingdezhen-ceramics-guide/cover.webp"
 ---
 
 Jiangxi Province is one of China's least-visited regions for international tourists — which makes it one of the most rewarding. The landscapes are magnificent, the culture deep, and the crowds manageable even during peak season.
@@ -21,7 +21,7 @@ Jiangxi Province is one of China's least-visited regions for international touri
 
 ## Jingdezhen (景德镇) — Porcelain Capital of the World
 
-![Jiangxi — Jingdezhen (景德镇) — Porcelain Capital of the World](https://images.pexels.com/photos/27642248/pexels-photo-27642248.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![— Mingcidou Old Town Scenery, Jingdezhen](/img/destinations/jiangxi-jingdezhen-ceramics-guide/1.webp)
 
 Jingdezhen has produced porcelain for Chinese imperial courts and world trade for 1,700 years. The city's white kaolin clay and pine-wood kilns created the distinctive blue-and-white porcelain that defined world trade from the 14th century onward.
 
@@ -43,9 +43,9 @@ Since around 2015, Jingdezhen has developed an extraordinary contemporary cerami
 
 ---
 
-![Jiangxi — Wuyuan (婺源) — China's Most Beautiful Rural Landscape](https://images.pexels.com/photos/29612001/pexels-photo-29612001.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Wuyuan (婺源) — China's Most Beautiful Rural Landscape
+
+![Jinggangshan Scenery, Jiangxi](/img/destinations/jiangxi-jingdezhen-ceramics-guide/2.webp)
 
 Wuyuan is a county of traditional Huizhou-style villages — whitewashed walls, black-tiled roofs, carved wooden interiors — set in a landscape of terraced fields, misty mountains, and flower-lined streams.
 
@@ -67,9 +67,9 @@ From Nanchang (1.5 hours by high-speed + bus) or Shanghai (4 hours total). The m
 
 ---
 
-![Jiangxi — Mount Lu (庐山)](https://images.pexels.com/photos/5765823/pexels-photo-5765823.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Mount Lu (庐山)
+
+![Longhu Mountain Scenery, Jiangxi](/img/destinations/jiangxi-jingdezhen-ceramics-guide/3.webp)
 
 Mount Lu (庐山) has been a retreat for poets, politicians, and scholars for 2,000 years. The mountain's cloud-draped peaks, waterfalls, and valleys inspired countless classical poems — most famously Su Dongpo's "I cannot see the true face of Lu Mountain because I am inside it."
 

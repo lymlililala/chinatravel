@@ -1,7 +1,7 @@
 ---
 title: "Dongting Lake and Yueyang Tower Guide: China's Second Largest Freshwater Lake"
 description: "Guide to visiting Dongting Lake and the historic Yueyang Tower in Hunan Province. The famous classical essay, migratory birds,君山Island, local cuisine and how to visit from Changsha."
-ogImage: "https://images.pexels.com/photos/37444868/pexels-photo-37444868.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/dongting-lake-hunan-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Dongting Lake", "Yueyang", "Hunan", "China travel", "classical Chinese culture", "birdwatching", "洞庭湖"]
@@ -9,9 +9,9 @@ tags: ["Dongting Lake", "Yueyang", "Hunan", "China travel", "classical Chinese c
 
 Dongting Lake (洞庭湖) in northern Hunan Province is the second-largest freshwater lake in China and one of the country's most culturally resonant landscapes. Every Chinese student reads the essay about Yueyang Tower (岳阳楼) overlooking the lake, and every Chinese person associates the words "Be the first to worry about the world's sorrows, the last to enjoy its joys" (先天下之忧而忧，后天下之乐而乐) with this location. For foreign travelers, Dongting offers a combination of classical Chinese cultural heritage, extraordinary seasonal birdwatching and one of China's most undervisited major lakes.
 
-![Dongting Lake Yueyang Tower — Yueyang Tower (岳阳楼)](https://images.pexels.com/photos/17097367/pexels-photo-17097367.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Yueyang Tower (岳阳楼)
+
+![Ancient Town Landscape Scenery, Fenghuang](/img/destinations/dongting-lake-hunan-guide/1.webp)
 
 The tower that stands at the northwest corner of the lake today is the fifth major reconstruction (1984) on a site that has hosted a watchtower or pavilion since at least the 7th century AD. But the tower's fame comes from a prose-poem written in 1046 by the Northern Song official and writer Fan Zhongyan (范仲淹) — "On Yueyang Tower" (岳阳楼记). This piece, memorized by every Chinese schoolchild, describes the view of the lake in different seasons and weathers and culminates in the famous statement about bearing public responsibility before personal pleasure.
 
@@ -35,9 +35,9 @@ A 0.96 km² island in Dongting Lake, accessible by ferry from Yueyang (30 minute
 
 **Entry to island**: ¥75
 
-![Dongting Lake Yueyang Tower — Migratory Bird Season](https://images.pexels.com/photos/35778791/pexels-photo-35778791.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Migratory Bird Season
+
+![Guojiasenlin Park, Zhangjiajie](/img/destinations/dongting-lake-hunan-guide/2.webp)
 
 Dongting Lake is one of the most important overwintering sites in East Asia for migratory waterbirds. The lake basin (which floods seasonally, creating shallow wetlands that attract birds) hosts in winter:
 
@@ -54,9 +54,9 @@ Dongting Lake is one of the most important overwintering sites in East Asia for 
 
 ## Dragon Boat Connection
 
-Dongting Lake is the traditional location of the Dragon Boat Festival (端午节) origin story. The patriot poet Qu Yuan (屈原, 340–278 BC) drowned himself in the Miluo River (汨罗江), a tributary of Dongting, in protest of political corruption. Local fishermen raced in boats to his location to prevent fish from eating his body — the mythological origin of dragon boat racing. The Miluo area 40 km east of Yueyang hosts commemorative events during the festival each year.
+![Landscape Scenery, Zhangjiajie](/img/destinations/dongting-lake-hunan-guide/3.webp)
 
-![Dongting Lake Yueyang Tower — Hunan Food at Dongting Lake](https://images.pexels.com/photos/35422091/pexels-photo-35422091.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+Dongting Lake is the traditional location of the Dragon Boat Festival (端午节) origin story. The patriot poet Qu Yuan (屈原, 340–278 BC) drowned himself in the Miluo River (汨罗江), a tributary of Dongting, in protest of political corruption. Local fishermen raced in boats to his location to prevent fish from eating his body — the mythological origin of dragon boat racing. The Miluo area 40 km east of Yueyang hosts commemorative events during the festival each year.
 
 ## Hunan Food at Dongting Lake
 

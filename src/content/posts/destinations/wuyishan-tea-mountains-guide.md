@@ -12,7 +12,7 @@ tags:
   - UNESCO heritage
   - landscapes
 description: "A complete guide to Wuyi Mountains in Fujian — bamboo rafting on Nine Bend Stream, hiking the famous rock scenery, and experiencing the source of some of the world's finest oolong teas."
-ogImage: "https://images.pexels.com/photos/36621306/pexels-photo-36621306.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/wuyishan-tea-mountains-guide/cover.webp"
 ---
 
 The Wuyi Mountains (武夷山) occupy a special position in Chinese culture that goes far beyond tourism. These red sandstone peaks rising from the dense forests of northern Fujian are the birthplace of rock oolong tea (岩茶) — the most complex and sought-after category of Chinese tea, produced nowhere else on earth with the same quality. They are also a Neo-Confucian philosophical centre: Zhu Xi, the 12th-century scholar who systematised Confucian thought into the form that governed Chinese society for 800 years, taught and wrote here.
@@ -23,7 +23,7 @@ UNESCO recognised all of this in 1999, inscribing the Wuyi Mountains as a combin
 
 ## Essential Information
 
-![Wuyi Mountains — Essential Information](https://images.pexels.com/photos/30311309/pexels-photo-30311309.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Chengshi Landscape, Xiamen](/img/destinations/wuyishan-tea-mountains-guide/1.webp)
 
 | Detail | Info |
 |--------|------|
@@ -46,9 +46,9 @@ The rafts are long flat bamboo craft with six seats, poled by a team of two boat
 
 **Practical:** Rafting is included in the ¥140 combined ticket. Separate raft tickets available for ¥80. Morning departures (before 9 AM) are less crowded. The boatmen provide rain ponchos; the raft can be wet in heavy flow conditions.
 
-![Wuyi Mountains — Hiking the Peaks](https://images.pexels.com/photos/12889088/pexels-photo-12889088.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Hiking the Peaks
+
+![Xiapubeiqi Beach Landscape, Fujian](/img/destinations/wuyishan-tea-mountains-guide/2.webp)
 
 The Wuyi Mountains scenic area has a well-developed trail network connecting the main peaks and natural features.
 
@@ -67,6 +67,8 @@ The two iconic paired peaks that appear in every Wuyi photograph — one massive
 A wide cave ledge where spring water cascades over the cliff face in a curtain — the "Water Curtain Cave" of the classic Chinese novel *Journey to the West* was inspired by similar formations. Several Neo-Confucian stone inscriptions and a small temple are embedded in the cliff face here.
 
 ## The Tea: Wuyi Rock Oolong (武夷岩茶)
+
+![Xiaputantujuemei Landscape](/img/destinations/wuyishan-tea-mountains-guide/3.webp)
 
 Wuyi Mountain rock oolong is produced in the defined geographic area of the scenic peaks. The specific microclimate — mountain air, high humidity, mineral-rich volcanic soil — creates conditions that cannot be replicated elsewhere.
 
@@ -87,8 +89,6 @@ The town outside the scenic area has dozens of tea shops. The range of quality a
 **Price reality check:** Genuine high-quality Wuyi rock oolong is expensive. If someone is selling you Da Hong Pao for ¥50/50g, it is not genuine. Quality rock oolongs from good gardens start at ¥200–500/50g; exceptional single-bush teas are thousands per gram.
 
 **Learning to tell:** The "rock rhyme" (岩韵, *yán yùn*) is the quality characteristic of Wuyi tea — a specific mineral depth and lingering aftertaste that distinguishes it from all other oolongs. The best way to learn it is to drink multiple teas in sequence with a knowledgeable seller. Several shops in the Wuyi area offer complimentary tasting sessions (they want to sell you tea, but the tasting education is genuine).
-
-![Wuyi Mountains — Zhu Xi's Academy: The Philosophical Heritage](https://images.pexels.com/photos/18137554/pexels-photo-18137554.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Zhu Xi's Academy: The Philosophical Heritage
 

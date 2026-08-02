@@ -12,7 +12,7 @@ tags:
   - food
   - transport
 description: "The complete Macau travel guide for 2026 — how to get from Hong Kong and mainland China, what to see beyond the casinos (UNESCO World Heritage Sites, Taipa Village, Portuguese food), and why Macau is one of Asia's most underrated destinations."
-ogImage: "https://images.pexels.com/photos/28807189/pexels-photo-28807189.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/macau-complete-travel-guide/cover.webp"
 ---
 
 Macau has a reputation problem. Internationally, it's known as "Asia's Las Vegas" — a gambling city, full of outsized casinos and little else. That's accurate for the Cotai Strip, but it's completely wrong about Macau as a whole.
@@ -25,7 +25,7 @@ The historic peninsula is a genuinely extraordinary place: the only location on 
 
 ## Getting to Macau
 
-![Macau — Getting to Macau](https://images.pexels.com/photos/34840536/pexels-photo-34840536.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Dangzaitianhou Palace, Macau](/img/destinations/macau-complete-travel-guide/1.webp)
 
 ### From Hong Kong — The Most Common Route
 
@@ -99,9 +99,9 @@ On the highest hill in Macau, the Guia Fortress was built by the Portuguese in 1
 
 ---
 
-![Macau — Taipa Village — The Most Charming Area](https://images.pexels.com/photos/20711805/pexels-photo-20711805.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Taipa Village — The Most Charming Area
+
+![Dasanba Memorial Arch, Macau](/img/destinations/macau-complete-travel-guide/2.webp)
 
 Taipa (氹仔) is the island immediately south of the Macau Peninsula, connected by bridge. While the Cotai Strip (the reclaimed land between Taipa and Coloane) hosts the mega-casinos, **Taipa Village itself** (near the southern coast of the island) has been preserved as a heritage area.
 
@@ -139,9 +139,9 @@ Macanese cuisine — the food developed by Macau's Portuguese and mixed-heritage
 
 ---
 
-![Macau — The Casinos: What Foreign Visitors Should Know](https://images.pexels.com/photos/12260050/pexels-photo-12260050.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Casinos: What Foreign Visitors Should Know
+
+![Weinisirenjiudian, Macau](/img/destinations/macau-complete-travel-guide/3.webp)
 
 Macau surpassed Las Vegas as the world's largest gambling revenue market in 2006. The Venetian Macao (on the Cotai Strip) is one of the world's largest buildings by floor space.
 

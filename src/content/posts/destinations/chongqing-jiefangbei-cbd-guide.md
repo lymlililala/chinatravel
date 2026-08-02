@@ -1,7 +1,7 @@
 ---
 title: "Chongqing Jiefangbei CBD Guide: The Heart of the Mountain City"
 description: "Explore Jiefangbei, Chongqing's bustling central business district built on mountain ridges — the Liberation Monument, underground shopping city, Hongya Cave, and the famous 3D city experience."
-ogImage: "https://images.pexels.com/photos/34169024/pexels-photo-34169024.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/chongqing-jiefangbei-cbd-guide/cover.webp"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/chongqing-jiefangbei.jpg"
 category: "destinations"
@@ -15,9 +15,9 @@ Jiefangbei (解放碑, meaning "Liberation Monument") is Chongqing's traditional
 
 The Jiefangbei district exemplifies this vertically complex city at its most extreme — and its most fascinating.
 
-![Chongqing Jiefangbei CBD — The Liberation Monument](https://images.pexels.com/photos/6041970/pexels-photo-6041970.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Liberation Monument
+
+![Fengdougui City, Chongqing](/img/destinations/chongqing-jiefangbei-cbd-guide/1.webp)
 
 The Shengli Bei (Victory Monument) was built in 1945 to celebrate Japan's defeat and China's victory in World War II. In 1950, it was renamed and redesignated as the "Liberation Monument" to mark the Communist Party's "liberation" of Chongqing. The 27-meter neoclassical column stands at the center of a pedestrian plaza that is one of China's most bustling public spaces.
 
@@ -32,8 +32,6 @@ Beneath Jiefangbei's streets lies one of China's most extensive underground comm
 Navigating this underground city is genuinely confusing — even for locals. The lack of street-level reference points, combined with the multiple building connections and the varying floor levels, creates a spatial puzzle. Most visitors simply flow with the crowd and emerge somewhere they didn't intend to be.
 
 The underground retail focuses on fast fashion, food courts, cosmetics, and phone accessories. Quality is mid-range at best, but the atmosphere and scale are worth experiencing.
-
-![Chongqing Jiefangbei CBD — Hongya Cave (洪崖洞)](https://images.pexels.com/photos/14165092/pexels-photo-14165092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Hongya Cave (洪崖洞)
 
@@ -51,6 +49,8 @@ The building complex was inspired by the traditional Diaojiao Lou (吊脚楼) st
 
 ## The 3D City Experience
 
+![Yongchuancha Mountain Scenery, Chongqing](/img/destinations/chongqing-jiefangbei-cbd-guide/2.webp)
+
 Chongqing's topography creates urban experiences that feel literally impossible. A few Jiefangbei-area examples:
 
 **Liziba Light Rail Station (鹤皋岭轻轨站)**: On Chongqing's Light Rail Line 2, the station is built directly through a 19-story residential building. The train passes through the building between the 6th and 8th floors. Residents are essentially sharing their building with public transit infrastructure. This is not a tourist attraction per se, but many travelers make a specific detour to ride through this station or watch from street level. It exemplifies Chongqing's approach to urban infrastructure.
@@ -59,9 +59,9 @@ Chongqing's topography creates urban experiences that feel literally impossible.
 
 The most extreme concentration of this effect is in the Yuzhong peninsula's narrowest parts, near the Jiefangbei metro station. Spend time wandering without purpose and the city will reveal its spatial complexity.
 
-![Chongqing Jiefangbei CBD — Food and Dining](https://images.pexels.com/photos/33144658/pexels-photo-33144658.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Food and Dining
+
+![Baidi City, Chongqing](/img/destinations/chongqing-jiefangbei-cbd-guide/3.webp)
 
 ### Hotpot
 

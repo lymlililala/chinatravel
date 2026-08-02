@@ -11,7 +11,7 @@ tags:
   - apps
   - toolkit
 description: "How to shop on Chinese e-commerce platforms as an international visitor — from setting up Taobao to paying at hotel checkouts online — with tips on delivery to hotels and navigating Chinese-language checkout pages."
-ogImage: "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=900&q=80"
+ogImage: "/img/toolkit/china-online-shopping-payment-guide/cover.webp"
 ---
 
 China's e-commerce ecosystem is the world's largest, and as a visitor you can tap into it for everything from last-minute camping gear to silk souvenirs at prices far below tourist-area shops. Here's how to navigate it as a foreigner with a non-Chinese payment method.
@@ -21,6 +21,8 @@ China's e-commerce ecosystem is the world's largest, and as a visitor you can ta
 ## Table of contents
 
 ## The Main Platforms
+
+![Gudianmingyuanliu Garden Scenery, Suzhou](/img/toolkit/china-online-shopping-payment-guide/1.webp)
 
 ### Taobao (淘宝) — Consumer Marketplace
 China's eBay-meets-Amazon. Hundreds of millions of listings from independent sellers. Best for: unique finds, clothing, electronics, crafts, gifts. Prices are negotiable through chat.
@@ -96,6 +98,8 @@ For hotels and transport, **Ctrip/Trip.com is the recommended platform for most 
 ---
 
 ## Buying from Physical Stores with Digital Payment
+
+![Zhuozheng Garden, Suzhou](/img/toolkit/china-online-shopping-payment-guide/2.webp)
 
 ### In shopping malls
 

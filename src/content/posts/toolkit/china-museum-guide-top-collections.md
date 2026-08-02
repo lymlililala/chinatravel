@@ -1,6 +1,7 @@
 ---
 title: "China Museum Guide: The 15 Best Collections Every Serious Visitor Should Know"
 description: "Navigate China's extraordinary museum landscape — from the National Museum of China's 1.4 million artefacts to provincial collections that outshine national ones, the Shaanxi History Museum's Silk Road gold, Shanghai Museum's bronze collection, and the lesser-known institutions that hold objects of international significance without the crowds."
+ogImage: "/img/toolkit/china-museum-guide-top-collections/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "museums", "national-museum", "shaanxi-history-museum", "shanghai-museum", "palace-museum", "cultural-heritage", "archaeology"]
@@ -15,6 +16,8 @@ This guide covers the 15 museums worth building itineraries around.
 ---
 
 ## National/Capital Museums
+
+![Scenery, Jiuzhaigou, Sichuan](/img/toolkit/china-museum-guide-top-collections/1.webp)
 
 ### National Museum of China (中国国家博物馆), Beijing
 The world's largest museum by floor area (192,000 m²); holds 1.4 million objects. **The permanent collection** is strongest on archaeological material from the Neolithic through Han dynasty; the Bronze Age collection and the ancient China overview galleries are excellent.
@@ -67,6 +70,8 @@ The definitive collection for **Silk Road cultural material** — Gansu was the 
 ---
 
 ## Specialist Collections
+
+![Lvyou Scenery, Lijiang](/img/toolkit/china-museum-guide-top-collections/2.webp)
 
 ### China Silk Museum (中国丝绸博物馆), Hangzhou
 The world's largest textile museum; traces silk production from the Neolithic to the present. **The conservation workshop** is occasionally visible to visitors; the collections include the earliest surviving silk textiles (1,500+ years old).

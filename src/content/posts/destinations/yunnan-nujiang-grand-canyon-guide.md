@@ -1,7 +1,7 @@
 ---
 title: "Yunnan Nujiang Grand Canyon: China's Last Frontier River Valley"
 description: "Journey through the Nujiang (Salween) Grand Canyon in northwest Yunnan — China's deepest and most remote river valley, home to Tibetan, Lisu, Nu, and Dulong ethnic communities, Catholic churches built by French missionaries, and stunning mountain scenery."
-ogImage: "https://images.pexels.com/photos/26746835/pexels-photo-26746835.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/yunnan-nujiang-grand-canyon-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Yunnan"
 tags: ["yunnan", "nujiang", "salween", "grand-canyon", "ethnic-minorities", "lisu", "tibetan", "remote-travel", "trekking"]
@@ -15,9 +15,9 @@ The **Nujiang Grand Canyon** — stretching roughly 320 km from Liuku in the sou
 
 ---
 
-![Yunnan Nujiang Grand Canyon — Geography: Understanding the Three Parallel Rivers](https://images.pexels.com/photos/11826227/pexels-photo-11826227.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Geography: Understanding the Three Parallel Rivers
+
+![Erhai Lake Scenery, Yunnan, Dali](/img/destinations/yunnan-nujiang-grand-canyon-guide/1.webp)
 
 The entire region is a **UNESCO World Heritage Site** — the Three Parallel Rivers of Yunnan Protected Areas — and the scale of the geology is difficult to comprehend. Where the Rocky Mountains are perhaps 200 km across at their widest, these ranges are 100 km across but contain six distinct climate zones and the most concentrated plant biodiversity in the northern hemisphere.
 
@@ -51,8 +51,6 @@ The upper valley around **Bingzhongluo (丙中洛)** and further north has a Tib
 
 ---
 
-![Yunnan Nujiang Grand Canyon — Key Sites and Destinations](https://images.pexels.com/photos/842528/pexels-photo-842528.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Key Sites and Destinations
 
 ### Bingzhongluo (丙中洛)
@@ -79,6 +77,8 @@ A spectacular mountain path hacked into a vertical cliff above the river, the Ma
 
 ## Trekking in the Nujiang Valley
 
+![Dongchuan Red Soil Scenery](/img/destinations/yunnan-nujiang-grand-canyon-guide/2.webp)
+
 ### The Laomudeng to Bingzhongluo Trail
 
 A moderate **2-day hike** along mountain paths above the river, passing through Lisu and Nu villages. The trail is largely unflagged; a local guide (hired through guesthouses in Laomudeng, ¥200–¥300/day) is strongly recommended.
@@ -93,9 +93,9 @@ Entering the Dulong Valley requires passing through Gongshan County's Dulong Tow
 
 ---
 
-![Yunnan Nujiang Grand Canyon — Practical Information](https://images.pexels.com/photos/26380607/pexels-photo-26380607.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Practical Information
+
+![Cai Landscape, Yunnan](/img/destinations/yunnan-nujiang-grand-canyon-guide/3.webp)
 
 ### Getting to Nujiang
 

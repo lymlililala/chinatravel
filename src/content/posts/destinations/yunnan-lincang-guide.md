@@ -12,7 +12,7 @@ tags:
   - border-region
   - minority-culture
 description: "Lincang in southwestern Yunnan is home to the world's oldest cultivated tea trees, a remarkable ethnic diversity of Wa, De'ang, Lahu, and Dai peoples, and a border region with Myanmar that most travelers never reach. This guide covers the ancient tea forests of Zhenyuan and Mengku, the Wa tribal areas, practical transport, and why Lincang deserves more attention than it gets."
-ogImage: "https://images.pexels.com/photos/34486996/pexels-photo-34486996.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/yunnan-lincang-guide/cover.webp"
 ---
 
 Lincang Prefecture (临沧) sits in southwestern Yunnan, wedged between the Salween River to the west and the mountains of central Yunnan to the east, with a long border with Myanmar in the southwest. It produces more tea than any other prefecture in China, contains some of the oldest tea trees in the world (including a single tree in Xiaowan township estimated to be over 3,200 years old), and is home to eight officially recognized ethnic minority groups — among them the Wa, whose traditional culture includes some of the most visually striking festivals in China.
@@ -22,6 +22,8 @@ Despite all this, Lincang receives a fraction of the visitors that go to Xishuan
 ## Table of contents
 
 ## Getting to Lincang
+
+![Dashanshenchu Red Soil Gengdi, Yunnan](/img/destinations/yunnan-lincang-guide/1.webp)
 
 **By air:**
 - **Lincang Jiangtou Airport (临沧姜头机场):** Direct flights from Kunming (50 minutes, ¥250–450); occasional direct flights from Chengdu and Guangzhou
@@ -61,8 +63,6 @@ Mengku (勐库镇), about 2 hours from Lincang city, contains one of the most ac
 **The World's Oldest Tea Tree:**
 Near Xiaowan Township (小湾镇), a single tree widely identified as the world's oldest known cultivated tea specimen stands in a fenced enclosure on a private farm. Estimated at over 3,200 years old by ring analysis, it's still productive — its annual spring harvest yields a few kilograms of extraordinarily valuable leaves. A visit here is less visually dramatic than Mengku's forest but has a different kind of significance.
 
-![Lincang Yunnan — Zhenyuan and Limen Tea Mountains](https://images.pexels.com/photos/6130781/pexels-photo-6130781.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Zhenyuan and Limen Tea Mountains
 
 **Zhenyuan County (镇沅彝族哈尼族拉祜族自治县):**
@@ -73,6 +73,8 @@ About 3 hours from Lincang city, Zhenyuan is the center of Lincang's tea cultura
 - Hire a local guide from Zhenyuan (¥150–200/day); several guesthouses in town can arrange this
 
 ## The Wa Minority (佤族)
+
+![Erhai Lake Scenery, Yunnan, Dali](/img/destinations/yunnan-lincang-guide/2.webp)
 
 The Wa people of Ximeng County (西盟佤族自治县) in western Lincang represent one of the most culturally distinct ethnic groups in Yunnan. Historically known as "Wild Wa" (野佤) by Chinese sources due to their fierce independence and headhunting practices (officially ended in the mid-20th century), the contemporary Wa have maintained their distinctive culture, music, and festivals.
 
@@ -86,8 +88,6 @@ The Wa people of Ximeng County (西盟佤族自治县) in western Lincang repres
 **Wa villages:**
 The villages around Ximeng still have traditional longhouse architecture and many women wear distinctive costumes with colorful beaded jewelry. Photography is welcomed with permission; a small gift or purchase from village craft sellers is appropriate.
 
-![Lincang Yunnan — De'ang Minority Villages](https://images.pexels.com/photos/31226849/pexels-photo-31226849.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## De'ang Minority Villages
 
 The De'ang (德昂族) are one of China's smallest officially recognized ethnic minorities, with most of their population concentrated around Mangshi (Dehong) and the eastern areas of Lincang. Their traditional dress features a distinctive rattan waist ring, and their tea culture is inseparable from their identity — De'ang people are known as "古老的茶民" (the ancient tea people).
@@ -96,6 +96,8 @@ The De'ang (德昂族) are one of China's smallest officially recognized ethnic 
 A De'ang settlement with preserved traditional architecture and active traditional tea cultivation. The village hosts occasional cultural performance events; contact the Shuangjiang Tourism Bureau for scheduling.
 
 ## Shuangjiang County (双江拉祜族佤族布朗族傣族自治县)
+
+![Dongchuan Red Soil Scenery](/img/destinations/yunnan-lincang-guide/3.webp)
 
 Shuangjiang ("Two Rivers," referring to the Lanchang and Nangun Rivers) is one of the longest county names in China, and the name reflects its ethnic complexity — Lahu, Wa, Bulang, and Dai all co-exist here alongside Han residents.
 

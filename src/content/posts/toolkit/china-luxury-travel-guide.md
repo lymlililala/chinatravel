@@ -10,7 +10,7 @@ tags:
   - planning
   - toolkit
 description: "High-end China travel — the private train carriages that can be booked for the Shanghai-Beijing route, the best China luxury hotel brands (Aman Resorts has properties in Beijing and Lijiang, the Capella has extraordinary properties), private guide + driver packages, skip-the-line solutions for Forbidden City and Terracotta Warriors, and the money-can't-buy experiences in China."
-ogImage: "https://images.pexels.com/photos/18068231/pexels-photo-18068231.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-luxury-travel-guide/cover.webp"
 ---
 
 China's luxury travel scene has matured dramatically in the past decade. The country now has some of the world's finest hotels, and the combination of extraordinary landscapes, ancient heritage sites, and a domestic luxury market that's been demanding the highest standards means visitors with serious budgets will find China delivers on every expectation — provided you plan properly.
@@ -20,6 +20,8 @@ The key difference between luxury travel in China and elsewhere is that many pre
 ## Table of contents
 
 ## The Best Luxury Hotels in China
+
+![Huangdi Ancient Village Luo Landscape, Shanxi, Anhui](/img/toolkit/china-luxury-travel-guide/1.webp)
 
 **Beijing:**
 - **Aman at Summer Palace** — arguably the most extraordinary hotel address in China. Built within the grounds of the Old Summer Palace, with private access to the gardens before they open to the public. Rooms from ¥5,000/night, suites from ¥12,000. Book at least 3 months ahead for peak season.
@@ -72,6 +74,8 @@ For total privacy, several operators offer **chartered train carriages** on scen
 The more practical luxury train option is the **overnight sleeper in a soft sleeper (软卧) compartment** — a 4-berth private-ish compartment on overnight routes between cities. For genuinely private train travel, book all four berths in a soft sleeper compartment (¥600-900 total, often worth it for couples wanting privacy).
 
 ## Exclusive Experiences Worth Paying For
+
+![Scenery, Anhui, Huangshan](/img/toolkit/china-luxury-travel-guide/2.webp)
 
 **Private cooking class with a Michelin-starred chef:** Available in Shanghai and Beijing, typically ¥2,000-5,000 per session for a small group. Fu1088 in Shanghai offers private experiences.
 

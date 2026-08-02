@@ -12,7 +12,7 @@ tags:
   - yuntai-mountain
   - hiking
 description: "The Taihang Mountain region around Jiyuan in northern Henan is home to Yuntai Mountain, one of China's most spectacular geological parks — with the Red Stone Gorge, China's highest waterfall, and forested valleys that rank among the best hiking destinations in central China. This guide covers the full Yuntai Mountain scenic area, the Guoliang cliff road, and how to combine them into an unforgettable trip."
-ogImage: "https://images.pexels.com/photos/37519012/pexels-photo-37519012.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/henan-jiyuan-taihang-mountain-guide/cover.webp"
 ---
 
 The Taihang Mountains (太行山) form the dramatic natural boundary between the North China Plain and the Loess Plateau, running roughly north-south for 400km along the borders of Hebei, Henan, and Shanxi. In the Jiyuan (济源) and Jiaozuo (焦作) area of northern Henan, the mountains produce some of the most striking geological scenery in central China — red sandstone canyons, sheer cliff faces, waterfalls, and dense forest that transforms with the seasons.
@@ -23,7 +23,7 @@ Yuntai Mountain (云台山) is the centerpiece — a UNESCO Global Geopark that 
 
 ## Getting to the Taihang Region
 
-![Jiyuan Taihang Mountain — Getting to the Taihang Region](https://images.pexels.com/photos/31231428/pexels-photo-31231428.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Xinyangjigong Mountain Scenery, Henan](/img/destinations/henan-jiyuan-taihang-mountain-guide/1.webp)
 
 **By train:**
 - **To Jiaozuo (焦作):** High-speed trains from Zhengzhou (30 minutes, ¥35–50), Beijing (2.5 hours, ¥180–260), and Xi'an (2 hours, ¥100–160)
@@ -39,9 +39,9 @@ Yuntai Mountain (云台山) is the centerpiece — a UNESCO Global Geopark that 
 **Getting to Guoliang Village from Jiaozuo:**
 - About 80km; taxi or hired car ¥200–300; or bus to Huixian (辉县) then local transport
 
-![Jiyuan Taihang Mountain — Yuntai Mountain (云台山)](https://images.pexels.com/photos/37518984/pexels-photo-37518984.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Yuntai Mountain (云台山)
+
+![Luanchuanlaojun Mountain, Henan, Luoyang](/img/destinations/henan-jiyuan-taihang-mountain-guide/2.webp)
 
 Yuntai Mountain is the largest and most developed scenic area in the Taihang Mountains, covering about 280 square kilometers. It contains multiple distinct scenic zones, each requiring a half-day to visit properly.
 
@@ -85,8 +85,6 @@ A reservoir at the head of one of the valleys, popular for boat trips and for it
 
 A Buddhist temple complex on a hillside within the scenic area, with origins in the Tang Dynasty. Less spectacular than the natural features but provides a cultural counterpoint and a good viewpoint over the valleys.
 
-![Jiyuan Taihang Mountain — Guoliang Cliff Road (郭亮挂壁公路)](https://images.pexels.com/photos/33968409/pexels-photo-33968409.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Guoliang Cliff Road (郭亮挂壁公路)
 
 About 80km west of Yuntai Mountain, in the Xinxiang (新乡) area, Guoliang Village (郭亮村) perches on a plateau 1,700 meters above sea level, accessible only by a road carved through the cliff face — a feat of engineering accomplished by 13 villagers using hand tools between 1972 and 1977.
@@ -109,6 +107,8 @@ The village itself is a small stone settlement on the plateau top, now heavily t
 Several guesthouses in the village (¥120–250/night); staying overnight allows early morning and evening exploration when the day-trippers are absent.
 
 ## Jiyuan and Surrounding Area
+
+![Jiaozuoyuntai Mountain, Henan](/img/destinations/henan-jiyuan-taihang-mountain-guide/3.webp)
 
 Jiyuan (济源), about 50km west of Jiaozuo, is an alternative base for exploring the western Taihang area:
 

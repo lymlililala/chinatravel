@@ -13,7 +13,7 @@ tags:
   - central china
   - nature
 description: "Pingdingshan in Henan province is home to the spectacular Yingtan karst cave system and Shimantan reservoir scenery — genuinely off the beaten path for international visitors. This 2026 guide covers Yingtan Cave (75 yuan), Baiyun Mountain, local coal city culture, transport from Zhengzhou, and combining with Luoyang and Dengfeng Shaolin."
-ogImage: "https://images.pexels.com/photos/12508152/pexels-photo-12508152.png?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/henan-pingdingshan-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -24,7 +24,7 @@ The city sits in a region where the Central Plains give way to the mountains of 
 
 ## Yingtan Cave (鹰潭石窟/石人山景区)
 
-![Pingdingshan Henan — Yingtan Cave (鹰潭石窟/石人山景区)](https://images.pexels.com/photos/12504100/pexels-photo-12504100.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Longmen Grottoes, Henan, Luoyang](/img/destinations/henan-pingdingshan-guide/1.webp)
 
 Within the Shirenshan Scenic Area south of Pingdingshan, the karst cave system is the headline natural attraction. The cave complex extends for several kilometres underground through formations of stalactites, stalagmites, and cave pools that rank among the more impressive in central China.
 
@@ -48,9 +48,9 @@ The main attractions include: the Yunu Peak (云玉峰) summit area, the Baiyun 
 
 A large reservoir set in rolling hills about 20km south of Pingdingshan city, Shimantan is primarily used for weekend recreation by local residents. Boat tours of the reservoir (¥30-50 per person), fishing, and lakeside hiking are the main activities. The surrounding hills are forested and pleasant for walking.
 
-![Pingdingshan Henan — Henan Fang City and Dabie Mountain Area](https://images.pexels.com/photos/29264379/pexels-photo-29264379.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Henan Fang City and Dabie Mountain Area
+
+![Bali Valley Scenery, Henan](/img/destinations/henan-pingdingshan-guide/2.webp)
 
 Fangcheng County to the south of Pingdingshan contains some of the most rugged mountain scenery in Henan, as part of the Dabie Mountain range. This area is genuinely off the tourist map for international visitors — which means it's also entirely unoptimised for tourism. Local guesthouses are basic (¥80-150 per night) but the hiking in the Funiu mountain foothills here is excellent.
 
@@ -71,9 +71,9 @@ Pingdingshan East (平顶山东) station is on the Zhengzhou-Wuhan high-speed li
 
 **Near scenic areas:** Guesthouses near Shirenshan and Baiyun Mountain, ¥120-300. Staying near the scenic areas makes morning entry easy.
 
-![Pingdingshan Henan — Local Cuisine](https://images.unsplash.com/photo-1646922833008-ea6ee3f79855?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwzfHxMb2NhbCUyMEN1aXNpbmV8ZW58MHwwfHx8MTc4MTg1MDk3MHww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
-
 ## Local Cuisine
+
+![Luyitaiqing Palace Scenery, Henan](/img/destinations/henan-pingdingshan-guide/3.webp)
 
 Pingdingshan is coal country — the city grew up around the coalfields and the food culture reflects the working-class heritage.
 

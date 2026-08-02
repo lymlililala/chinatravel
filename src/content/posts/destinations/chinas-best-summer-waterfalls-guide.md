@@ -10,7 +10,7 @@ tags:
   - "itinerary"
   - "summer"
 description: "Discover China's most breathtaking waterfalls at peak summer flow, from Huangguoshu to Detian, with tips on best times, nearby attractions, and travel"
-ogImage: "https://images.pexels.com/photos/14776287/pexels-photo-14776287.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/chinas-best-summer-waterfalls-guide/cover.webp"
 faq:
   - question: "Are the waterfalls safe to visit in summer?"
     answer: "Yes, but paths can be slippery. Stay on designated walkways, obey warning signs, and avoid climbing rocks near water. Some areas may close during heavy rain."
@@ -30,9 +30,9 @@ Summer in China brings monsoon rains that transform rivers into roaring cascades
 
 ## Top Waterfalls to Visit in Summer
 
-### 1. Huangguoshu Waterfall (黄果树瀑布, Huáng Guǒ Shù Pù Bù) – Guizhou Province
+![Pan Gate, Suzhou](/img/destinations/chinas-best-summer-waterfalls-guide/1.webp)
 
-![Huangguoshu Waterfall wide view with mist and rainbow](https://images.pexels.com/photos/8776827/pexels-photo-8776827.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+### 1. Huangguoshu Waterfall (黄果树瀑布, Huáng Guǒ Shù Pù Bù) – Guizhou Province
 
 **Asia's largest waterfall** and China's most famous cascade, Huangguoshu is a must-see. It stands 77.8 m high and 101 m wide, with a powerful curtain of water that creates rainbows on sunny afternoons. The waterfall is part of a larger scenic area that includes **Doupotang** and **Tianxingqiao** sections, where you can walk behind the waterfall (Water Curtain Cave) for a unique perspective.
 
@@ -42,8 +42,6 @@ Summer in China brings monsoon rains that transform rivers into roaring cascades
 - **Nearby:** Visit **Tianlong Tunpu** (Ming dynasty fortress village) or **Longgong Cave** (dragon palace karst cave).
 
 ### 2. Detian Waterfall (德天瀑布, Dé Tiān Pù Bù) – Guangxi Province
-
-![Detian Waterfall multi-tiered cascade on border](https://images.pexels.com/photos/14776287/pexels-photo-14776287.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **Asia's largest transnational waterfall**, shared with Vietnam's Ban Gioc Waterfall. The combined width exceeds 250 m, and the water drops over three main tiers amidst lush karst peaks. You can take a bamboo raft to the base for a close-up view.
 
@@ -55,8 +53,6 @@ Summer in China brings monsoon rains that transform rivers into roaring cascades
 
 ### 3. Hukou Waterfall (壶口瀑布, Hú Kǒu Pù Bù) – Shaanxi/Shanxi Border
 
-![Hukou Waterfall Yellow River golden churning water](https://images.pexels.com/photos/6723863/pexels-photo-6723863.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 **The world's largest yellow (golden) waterfall** on the Yellow River. In summer, the river swells to over 1,000 m wide, creating a thundering, mud-colored cascade that seems to boil. The name "Hukou" means "kettle mouth" — the river narrows into a gorge like water pouring from a spout.
 
 - **Best time:** June–August (also spectacular in late May and September).
@@ -66,8 +62,6 @@ Summer in China brings monsoon rains that transform rivers into roaring cascades
 - **Nearby:** Combine with a visit to **Yan'an** (Red tourism) or **Pingyao Ancient Town**.
 
 ### 4. Nuorilang Waterfall (诺日朗瀑布, Nuò Rì Lǎng Pù Bù) – Sichuan Province
-
-![Nuorilang Waterfall wide calcium tufa forest](https://images.pexels.com/photos/32198897/pexels-photo-32198897.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **China's widest waterfall** (270 m) and the largest **calcium tufa waterfall** in the country. Located in **Jiuzhaigou Valley**, a UNESCO World Heritage site, the water flows over a broad, moss-covered travertine ledge, surrounded by pristine forest. In summer, the turquoise pools upstream contrast with the white curtain of the falls.
 
@@ -79,8 +73,6 @@ Summer in China brings monsoon rains that transform rivers into roaring cascades
 
 ### 5. Chishui Waterfall (赤水大瀑布, Chì Shuǐ Dà Pù Bù) – Guizhou Province
 
-![Chishui Waterfall red sandstone cliff cascade](https://images.pexels.com/photos/8776826/pexels-photo-8776826.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 **China's largest danxia (red sandstone) waterfall**, 76 m high and 80 m wide. It lies in the **Chishui Danxia** UNESCO World Heritage area, where thousands of waterfalls cascade over red cliffs. The surrounding forest and bamboo groves add to the scenery.
 
 - **Best time:** June–August.
@@ -90,8 +82,6 @@ Summer in China brings monsoon rains that transform rivers into roaring cascades
 
 ### 6. Malingshan Gorge Waterfall Cluster (马岭河峡谷瀑布群) – Guizhou Province
 
-![Malingshan Gorge waterfalls multiple cascades](https://images.pexels.com/photos/8776830/pexels-photo-8776830.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 **China's densest canyon waterfall cluster** with over 100 waterfalls in the wet season, some dropping 200 m. The gorge is a deep fissure with lush vegetation and calcium carbonate deposits on the walls. A boardwalk along the canyon floor gives you a front-row seat.
 
 - **Best time:** June–August (peak flow; May–September good).
@@ -100,8 +90,6 @@ Summer in China brings monsoon rains that transform rivers into roaring cascades
 - **Nearby:** **Wanfenglin** (thousands of karst peaks) is a short drive away.
 
 ### 7. Xiaolangdi Reservoir (小浪底水库) – Henan Province
-
-![Xiaolangdi Dam water release yellow sediment](https://images.pexels.com/photos/35516917/pexels-photo-35516917.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 While not a natural waterfall, Xiaolangdi's **annual water-sediment regulation** (June–July) creates a man-made spectacle: the dam releases vast amounts of water and sediment, turning the Yellow River into a churning golden torrent. The contrast between clear upstream water and muddy downstream flow is dramatic.
 
@@ -126,6 +114,8 @@ While not a natural waterfall, Xiaolangdi's **annual water-sediment regulation**
 
 ## Getting Around & Practical Tips
 
+![Wangshi Garden Scenery, Suzhou](/img/destinations/chinas-best-summer-waterfalls-guide/2.webp)
+
 - **High-speed rail:** Connects most major cities; book via **12306** app (English version available).
 - **Mobile payment:** Alipay and WeChat Pay are widely accepted; link your international credit card.
 - **Visa:** Most travelers need a tourist visa (L). The 144-hour transit visa is available in select cities (e.g., Shanghai, Beijing, Guangzhou) — check eligibility.
@@ -133,6 +123,8 @@ While not a natural waterfall, Xiaolangdi's **annual water-sediment regulation**
 - **Etiquette:** Don't litter; respect barriers; avoid climbing on wet rocks.
 
 ## Where to Stay
+
+![Huqiu Scenery Mingshengqu Scenery, Suzhou](/img/destinations/chinas-best-summer-waterfalls-guide/3.webp)
 
 - **Near Huangguoshu:** Stay in **Anshun** city (hotels from ¥200) or at the scenic area (guesthouses from ¥150).
 - **Near Detian:** **Daxin County** has mid-range hotels (¥150–300); consider a homestay in **Mingshi** for rural charm.

@@ -11,7 +11,7 @@ tags:
   - beginners
   - north-china
 description: "A 3-day Xi'an itinerary — the Terracotta Warriors in the morning before crowds, the ancient city wall by bicycle, the Muslim Quarter for street food, and a day trip to either Huashan or the Huaqing Palace hot springs. Detailed transport and booking advice."
-ogImage: "https://images.pexels.com/photos/31001384/pexels-photo-31001384.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/xian-3-days-itinerary-guide/cover.webp"
 ---
 
 Xi'an was China's capital for over a thousand years across thirteen dynasties, including the Han and Tang — which is why it has more UNESCO-worthy historical sites per square kilometer than almost anywhere else in the country. The Terracotta Warriors are the headline act, and they deserve to be: it's one of the genuinely jaw-dropping archaeological discoveries of the 20th century. But Xi'an's beating heart is its **Muslim Quarter**, where the Hui Muslim community has maintained a distinct food and cultural tradition for over 1,000 years.
@@ -21,6 +21,8 @@ Three days is enough to do the major sights properly without rushing. This itine
 ## Table of contents
 
 ## Before You Arrive
+
+![Guangren Temple Scenery, Shaanxi, Xi'an](/img/destinations/xian-3-days-itinerary-guide/1.webp)
 
 **Getting there:** Xi'an Xianyang International Airport (XIY) is 40km from the city center. The Airport Bus to the city center takes about 60 minutes (¥30). The metro Line 14 now connects the airport to Xi'an North Station — useful if you arrive by high-speed train from Beijing (4.5 hours, ¥515) or Shanghai (5.5 hours, ¥560).
 
@@ -32,9 +34,9 @@ Three days is enough to do the major sights properly without rushing. This itine
 
 ---
 
-![Xi' — Day 1: Terracotta Warriors & Big Wild Goose Pagoda](https://images.pexels.com/photos/28890193/pexels-photo-28890193.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day 1: Terracotta Warriors & Big Wild Goose Pagoda
+
+![Datangfurong Garden, Xi'an](/img/destinations/xian-3-days-itinerary-guide/2.webp)
 
 ### Morning: Terracotta Warriors (Mausoleum of the First Qin Emperor)
 
@@ -59,8 +61,6 @@ On the way back, the shuttle bus stops at **Huaqing Palace** (华清宫, ¥120) 
 **Metro:** Line 3 to Big Wild Goose Pagoda Station.
 
 ---
-
-![Xi' — Day 2: City Wall, Bell Tower & Muslim Quarter](https://images.pexels.com/photos/33480873/pexels-photo-33480873.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Day 2: City Wall, Bell Tower & Muslim Quarter
 
@@ -95,6 +95,8 @@ Allow 3-4 hours for the Muslim Quarter in the evening. It gets lively after dark
 ---
 
 ## Day 3: Huashan Day Trip (or Shaanxi History Museum)
+
+![Yunju Temple Scenery, Shaanxi, Xi'an](/img/destinations/xian-3-days-itinerary-guide/3.webp)
 
 ### Option A: Huashan Day Trip (recommended)
 

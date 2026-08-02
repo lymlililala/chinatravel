@@ -11,7 +11,7 @@ tags:
   - "itinerary"
   - "adventure"
 description: "Discover the best of Northwest China on this curated road trip itinerary covering Silk Road sites, stunning national parks, and practical tips for"
-ogImage: "https://images.pexels.com/photos/13998391/pexels-photo-13998391.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/northwest-china-road-trip-itinerary/cover.webp"
 faq:
   - question: "Is it safe to drive in Northwest China?"
     answer: "Yes, roads are generally well-maintained, but some remote areas have rough sections. Always carry a spare tire, water, and snacks. Use GPS or offline maps."
@@ -33,9 +33,9 @@ Embark on an unforgettable journey through Northwest China, where the ancient Si
 
 ## Why Northwest China?
 
-Northwest China is a land of extremes: vast deserts, lush grasslands, towering雪山, and serene salt lakes. It's home to the legendary Silk Road, where caravans once carried goods and ideas between East and West. Today, it offers some of China's most iconic landscapes and historical sites, from the Terracotta Warriors in Xi'an to the Mogao Caves in Dunhuang. The region is surprisingly accessible, with well-connected airports, high-speed rail, and good roads, making it ideal for a self-drive or guided tour.
+![Simatai Great Wall, Beijing](/img/destinations/northwest-china-road-trip-itinerary/1.webp)
 
-![Panoramic view of colorful Zhangye Danxia landforms at sunset](https://images.pexels.com/photos/27170287/pexels-photo-27170287.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+Northwest China is a land of extremes: vast deserts, lush grasslands, towering雪山, and serene salt lakes. It's home to the legendary Silk Road, where caravans once carried goods and ideas between East and West. Today, it offers some of China's most iconic landscapes and historical sites, from the Terracotta Warriors in Xi'an to the Mogao Caves in Dunhuang. The region is surprisingly accessible, with well-connected airports, high-speed rail, and good roads, making it ideal for a self-drive or guided tour.
 
 ## Best Time to Visit
 
@@ -58,8 +58,6 @@ Start your journey in Xi'an, the ancient capital of 13 dynasties. Spend two days
 - Use Alipay or WeChat Pay for most transactions; cash is accepted but less common.
 - The metro is efficient for getting around; download a map app like Amap or Baidu Maps.
 
-![The Great Wild Goose Pagoda in Xi'an at dusk](https://images.pexels.com/photos/13998391/pexels-photo-13998391.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ### Day 3: Xi'an to Lanzhou (兰州)
 
 Drive west along the Wei River valley, passing through Baoji and Tianshui. Highlights:
@@ -79,8 +77,6 @@ Head northwest into the Hexi Corridor. Stop at:
 - **Zhangye Danxia National Geological Park**: Famous for its rainbow-colored rock formations. Visit in late afternoon for the best light.
 
 **Accommodation**: Stay in Zhangye city, which has a range of hotels from budget to luxury.
-
-![Close-up of the colorful rock layers at Zhangye Danxia](https://images.pexels.com/photos/8622512/pexels-photo-8622512.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### Day 5: Zhangye to Jiayuguan (嘉峪关)
 
@@ -125,6 +121,8 @@ Conclude your trip in Xining, the capital of Qinghai. Visit the **Dongguan Mosqu
 
 ## Getting There & Around
 
+![Shanhaiguan Great Wall, Beijing](/img/destinations/northwest-china-road-trip-itinerary/2.webp)
+
 ### By Air
 Major airports include Xi'an Xianyang (XIY), Lanzhou Zhongchuan (LHW), Dunhuang (DNH), and Xining Caojiabao (XNN). Direct flights from Beijing, Shanghai, Guangzhou, and Chengdu take 1.5-3.5 hours.
 
@@ -142,6 +140,8 @@ Renting a car offers flexibility. Use international rental companies like Hertz 
 - **Xining**: Near the city center. Budget: Xining Qinghai Lake Hotel; Mid-range: Xining Marriott; Luxury: Xining Shangri-La.
 
 ## Food to Try
+
+![Mutianyu Great Wall Scenery, Beijing](/img/destinations/northwest-china-road-trip-itinerary/3.webp)
 
 - **Lanzhou Beef Noodle Soup (兰州牛肉面)**: A hearty breakfast staple.
 - **Hand-Grabbed Lamb (手抓羊肉)**: Tender, flavorful lamb served with cumin and chili.

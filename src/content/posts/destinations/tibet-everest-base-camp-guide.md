@@ -12,7 +12,7 @@ tags:
   - himalaya
   - trekking
 description: "Visiting Everest Base Camp from the Tibetan side is a bucket-list experience that requires careful planning, multiple permits, and serious altitude preparation. This 2026 guide covers the permit process, the route from Lhasa via Shigatse and Tingri, what you'll actually see at 5,200m, the famous sunrise views, and realistic expectations for this extraordinary journey."
-ogImage: "https://images.pexels.com/photos/18651260/pexels-photo-18651260.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/tibet-everest-base-camp-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -23,7 +23,7 @@ I want to be clear from the start: visiting Everest Base Camp on the Tibetan sid
 
 ## Understanding the Tibet Permit System
 
-![Everest Base Camp Tibet — Understanding the Tibet Permit System](https://images.pexels.com/photos/16146932/pexels-photo-16146932.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Spectacular Ali Scenery, Tibet](/img/destinations/tibet-everest-base-camp-guide/1.webp)
 
 Visiting Tibet requires permits beyond a regular Chinese visa — this is non-negotiable. For Everest Base Camp specifically, you need three separate permits:
 
@@ -66,8 +66,6 @@ The Tibetan Base Camp has two main visiting windows:
 
 In 2026, the Everest Base Camp area has implemented a daily visitor cap of approximately 300 people and requires advance reservations through your travel agency. Don't show up without confirmed permits and bookings.
 
-![Everest Base Camp Tibet — The Route: Lhasa to Everest Base Camp](https://images.pexels.com/photos/210112/pexels-photo-210112.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Route: Lhasa to Everest Base Camp
 
 Most visitors approach EBC via Lhasa, which allows for essential acclimatization time.
@@ -104,6 +102,8 @@ The road ends at Rongbuk Monastery (绒布寺, 4,980m), the world's highest mona
 
 ## At Everest Base Camp (5,200m)
 
+![Renwen Natural Landscape, Tibet](/img/destinations/tibet-everest-base-camp-guide/2.webp)
+
 ### What You'll Find
 The Tibetan Base Camp has a small permanent settlement of guesthouses (石屋和帐篷旅馆) and the famous tent camp for expeditions (used April–June). The "tourist" area has a viewpoint, souvenir stalls, and the eco-shuttle terminus.
 
@@ -122,8 +122,6 @@ A small number of guesthouses and tent camps operate at the Base Camp area. Acco
 
 Book in advance through your travel agency — capacity is limited.
 
-![Everest Base Camp Tibet — Photography Guide for Everest](https://images.pexels.com/photos/31410274/pexels-photo-31410274.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Photography Guide for Everest
 
 ### Technical Challenges
@@ -137,6 +135,8 @@ Book in advance through your travel agency — capacity is limited.
 - **Yaks at Base Camp**: If expedition season, yaks are used to carry loads. The combination of these ancient beasts and the modern mountain backdrop is powerful.
 
 ## Physical Fitness and Health
+
+![Mount Everest Peak Scenery, Tibet](/img/destinations/tibet-everest-base-camp-guide/3.webp)
 
 You don't need to be a climber or even a serious hiker to reach the Tibetan EBC. The "hike" at Base Camp itself is just walking on flat ground. What you need:
 

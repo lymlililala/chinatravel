@@ -21,7 +21,7 @@ tags:
   - practical
   - beginners
 description: "Tipping culture in China — the short answer (China doesn't have a tipping culture and tipping can sometimes be refused or cause embarrassment), where it's expected or appreciated (Western-style restaurants, tour guides, massage therapists, hotel porters), and how service culture in China works differently to the West (service is included, not contingent on tips)."
-ogImage: "https://images.pexels.com/photos/37594384/pexels-photo-37594384.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-tipping-etiquette-guide/cover.webp"
 ---
 
 China does not have a tipping culture. This is the most useful single sentence for visitors to know, and for most situations, it's the complete answer. But the reality is slightly more nuanced than "never tip," so here's the full picture.
@@ -29,6 +29,8 @@ China does not have a tipping culture. This is the most useful single sentence f
 ## Table of contents
 
 ## The Short Answer
+
+![Gudianmingyuanliu Garden Scenery, Suzhou](/img/toolkit/china-tipping-etiquette-guide/1.webp)
 
 In the vast majority of situations — restaurants, taxis, convenience stores, street food vendors, local shops — you should not tip. In many cases a tip will be politely refused. In some situations it will cause genuine confusion or mild embarrassment. Chinese service workers are paid a wage that accounts for their work; gratuity is not part of the social contract.
 
@@ -89,6 +91,8 @@ Understanding why tipping isn't standard requires understanding how service is s
 **The social awkwardness of declining money.** In Chinese social norms, receiving money from someone in an unexpected context can feel like a payment for a favor — which can imply that the relationship was transactional rather than professional. Refusing money given as a tip can be an expression of dignity and professional pride.
 
 ## International Restaurants: The Hybrid Zone
+
+![Zhuozheng Garden, Suzhou](/img/toolkit/china-tipping-etiquette-guide/2.webp)
 
 Restaurants in Shanghai, Beijing, and Shenzhen that are explicitly Western-owned or designed for international clientele often operate with more Western service norms, including tipping. If you're at a restaurant where the staff are clearly expecting it (a service charge line on the bill, staff who understand English, an explicit "gratuity" note), 10-15% is appropriate.
 

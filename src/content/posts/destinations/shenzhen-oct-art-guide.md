@@ -11,7 +11,7 @@ tags:
   - urban
   - south-china
 description: "Shenzhen's creative side — OCT-LOFT (华侨城创意文化园) as the most interesting arts district in south China, the He Xiangning Art Museum, the design community around Buji and Longhua, the Shenzhen Museum of Contemporary Art, and how Shenzhen's complete lack of historical heritage has paradoxically made it a blank canvas for China's most forward-looking design culture."
-ogImage: "https://images.pexels.com/photos/23467513/pexels-photo-23467513.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/shenzhen-oct-art-guide/cover.webp"
 ---
 
 Shenzhen is China's great paradox city. It is only 40 years old — the entire place was rice paddies and fishing villages when Deng Xiaoping designated it China's first Special Economic Zone in 1980. It has no imperial palaces, no ancient walls, no Buddhist temples of significance, and essentially no history at all in the traditional sense. It is a city built entirely by economic ambition and migrant labour.
@@ -22,7 +22,7 @@ That absence of history, which should be a creative handicap, has turned out to 
 
 ## OCT-LOFT: The Creative Heart of Shenzhen
 
-![Shenzhen OCT — OCT-LOFT: The Creative Heart of Shenzhen](https://images.pexels.com/photos/36818919/pexels-photo-36818919.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Baomo Garden, Guangdong, Guangzhou](/img/destinations/shenzhen-oct-art-guide/1.webp)
 
 OCT-LOFT (华侨城创意文化园, Huáqiáochéng Chuàngyì Wénhuà Yuán) is a former industrial complex in the Nanshan District that was converted into an arts and creative district in the early 2000s. It remains the most compelling single destination for design, contemporary art, and creative culture in south China.
 
@@ -38,8 +38,6 @@ Adjacent to OCT-LOFT, the He Xiangning Art Museum (何香凝美术馆) is one of
 
 The museum rotates exhibitions frequently and has earned a reputation for well-curated shows that engage with broader Asian art discourse. Entry is ¥20, reduced to ¥10 for students. Tuesday to Sunday, 9am to 5pm.
 
-![Shenzhen OCT — OCAT Shenzhen: Contemporary Art Institution](https://images.pexels.com/photos/30770664/pexels-photo-30770664.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## OCAT Shenzhen: Contemporary Art Institution
 
 The OCT Contemporary Art Terminal (OCAT Shenzhen) is a dedicated contemporary art institution within the OCT complex. This is where Shenzhen's most ambitious exhibition programming happens — large-scale installations, video art, conceptual work, and international touring shows.
@@ -48,13 +46,15 @@ OCAT operates across multiple venues in the OCT area and has a rigorous curatori
 
 ## Shenzhen's Design Identity: The Bi-City and Beyond
 
+![Nanyueyuan Scenery, Guangdong, Guangzhou](/img/destinations/shenzhen-oct-art-guide/2.webp)
+
 Shenzhen is a UNESCO Creative City of Design (since 2008) — a designation that reflects the genuine centrality of design to the city's identity. Shenzhen produces a substantial percentage of China's industrial design output, largely concentrated in electronics manufacturing ecosystems in Longhua, Buji, and Bao'an districts.
 
 The Shenzhen Industrial Design Association (深圳工业设计行业协会) runs design studios and events throughout the year, and the Design Society (设计互联) at Sea World Culture and Arts Center in Shekou has become the city's premium design venue since its 2017 opening, including a permanent V&A partnership exhibition. Entry varies by exhibition; the building itself (designed by Italian firm Maki and Associates) is striking and worth a visit regardless.
 
-![Shenzhen OCT — Sea World: Culture, Design & Waterfront](https://images.unsplash.com/photo-1621629236305-c75403f02a52?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHw0fHxTZWElMjBXb3JsZHxlbnwwfDB8fHwxNzgxODcyOTM1fDA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
-
 ## Sea World: Culture, Design & Waterfront
+
+![Chenjiaci, Guangdong, Guangzhou](/img/destinations/shenzhen-oct-art-guide/3.webp)
 
 Sea World (海上世界) in Shekou used to be Shenzhen's expat enclave — a waterfront area with restaurants, bars, and a repurposed ocean liner (the MS Minhua) that served as a floating hotel and entertainment venue. The neighbourhood has been heavily redeveloped over the past decade into a design-forward waterfront district.
 

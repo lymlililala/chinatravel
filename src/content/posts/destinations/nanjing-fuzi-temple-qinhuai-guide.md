@@ -1,15 +1,16 @@
 ---
 title: "Nanjing Fuzi Temple & Qinhuai River: Night Cruise, Street Food & History"
 description: "Discover Nanjing's Fuzi Temple (Confucius Temple) and Qinhuai River district — lantern-lit night cruises, Ming-era architecture, legendary local snacks like salted duck and tangbao, and the living history of China's ancient southern capital."
-ogImage: "https://images.pexels.com/photos/35143797/pexels-photo-35143797.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/nanjing-fuzi-temple-qinhuai-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Nanjing"
 tags: ["nanjing", "fuzi-temple", "qinhuai-river", "jiangsu", "night-cruise", "street-food", "history", "confucius-temple"]
 ---
 
-![Nanjing Fuzi Temple & Qinhuai River — Nanjing Fuzi Temple & Qinhuai River: A Complete Guide](https://images.pexels.com/photos/14544939/pexels-photo-14544939.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Nanjing Fuzi Temple & Qinhuai River: A Complete Guide
+
+![Qinhuai River Scenery, Nanjing](/img/destinations/nanjing-fuzi-temple-qinhuai-guide/1.webp)
 
 Few places in China stir the senses like the **Confucius Temple (Fuzi Temple)** quarter on the banks of the Qinhuai River. For more than a millennium this stretch of southern Nanjing has been simultaneously a seat of Confucian scholarship, an imperial pleasure garden, and the most atmospheric street-food corridor in the Yangtze Delta. Today the district draws millions of visitors who come to admire the lantern-lit reflection on the water, sample legendary snacks, and feel the weight of six dynasties pressing down on every cobblestone.
 
@@ -32,8 +33,6 @@ Adjacent to the temple, this painstakingly restored complex contains hundreds of
 
 ---
 
-![Nanjing Fuzi Temple & Qinhuai River — The Qinhuai River District](https://images.pexels.com/photos/20673034/pexels-photo-20673034.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Qinhuai River District
 
 ### Architecture and Atmosphere
@@ -53,6 +52,8 @@ An evening boat ride is the signature Fuzi Temple experience. Lantern-decorated 
 ---
 
 ## Fuzi Temple Street Food: The "Qinhuai Eight Delicacies"
+
+![Fuzimiao Night View, Nanjing](/img/destinations/nanjing-fuzi-temple-qinhuai-guide/2.webp)
 
 No visit is complete without working through the legendary **Qinhuai Bā Jué** (秦淮八绝) — eight snack dishes that have been prepared in this district for centuries. Most can be found clustered along the main pedestrian street and inside the Yonghe Residential Quarter food hall.
 
@@ -75,9 +76,9 @@ For duck specifically, the cluster of **braised-duck shops** on Gongyuan West St
 
 ---
 
-![Nanjing Fuzi Temple & Qinhuai River — Beyond the Fuzi Temple: Nearby Sights](https://images.pexels.com/photos/29606775/pexels-photo-29606775.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Beyond the Fuzi Temple: Nearby Sights
+
+![River Scenery, Suzhou](/img/destinations/nanjing-fuzi-temple-qinhuai-guide/3.webp)
 
 ### Zhonghua Gate (中华门)
 A 10-minute walk south, **Zhonghua Gate** is the most complex surviving Ming-dynasty city gate in the world. Its three separate gate towers, 27 hidden soldier caves, and multiple drawbridge channels were designed to trap and destroy any army that breached the first gate. The view from the top looks out over the entire southern Nanjing basin.

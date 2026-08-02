@@ -11,7 +11,7 @@ tags:
   - iconic
   - views
 description: "Victoria Peak in Hong Kong — the Peak Tram (the most fun way up, 7-8 minutes at 45 degrees), the Peak Tower observation deck vs the less crowded Lion's Pavilion viewpoint, the best time of day for harbour views (sunset is spectacular, blue hour is extraordinary), and the 5km hike from the Peak down to Kennedy Town or Central as one of Hong Kong's most enjoyable routes."
-ogImage: "https://images.pexels.com/photos/599459/pexels-photo-599459.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/hong-kong-victoria-peak-guide/cover.webp"
 ---
 
 Victoria Peak is 552 metres above sea level, and on a clear day from the summit you can see everything that makes Hong Kong spectacular — the vertical mass of Central and Wan Chai rising from the harbour, Kowloon's dense grid on the far shore, the outlying islands scattering into the South China Sea, and container ships threading through the Lamma Channel below. It is one of the great city views on earth.
@@ -22,7 +22,7 @@ Getting there, when to go, which viewpoint to use, and how to get down are all w
 
 ## The Peak Tram: Best Way Up
 
-![Victoria Peak — The Peak Tram: Best Way Up](https://images.pexels.com/photos/26970226/pexels-photo-26970226.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Weimei Natural Scenery, Guangxi, Yangshuo](/img/destinations/hong-kong-victoria-peak-guide/1.webp)
 
 The Peak Tram (山頂纜車) has been hauling people up the slope of Hong Kong Island since 1888 and is one of the oldest funicular railways in Asia still in continuous operation. It was rebuilt and modernized in 2021 and now carries more passengers per trip, but the experience is the same: 7–8 minutes of ascending a slope that reaches 45 degrees, the buildings of Mid-Levels appearing to tilt dramatically as you lean back in your seat.
 
@@ -38,9 +38,9 @@ The Lion's Pavilion (獅子亭) viewpoint, a 5-minute walk along the Peak Circle
 
 For most visitors, Lion's Pavilion is the better choice. Arrive at dawn or in the hour before sunset, and you may have it largely to yourself on weekdays.
 
-![Victoria Peak — Timing: When to Go for the Best Views](https://images.pexels.com/photos/36128509/pexels-photo-36128509.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Timing: When to Go for the Best Views
+
+![Jiejing, Guangxi, Yangshuo](/img/destinations/hong-kong-victoria-peak-guide/2.webp)
 
 **Dawn**: The most dramatic and least crowded time. Clear skies at dawn are common in autumn and winter (October–February). The city lights are still on at 6am, and sunrise over the harbour is spectacular.
 
@@ -52,11 +52,11 @@ For most visitors, Lion's Pavilion is the better choice. Arrive at dawn or in th
 
 ## The Peak Circle Walk
 
+![Huangyaguan Great Wall Scenery, Tianjin](/img/destinations/hong-kong-victoria-peak-guide/3.webp)
+
 The Peak Circle Walk (盧吉道及夏力道) is a flat, paved 3.5km loop around the Peak that is one of the most enjoyable easy walks in Hong Kong. The full circuit takes about an hour and reveals different views of the harbour, the southern side of Hong Kong Island (residential houses tumbling toward Aberdeen and Repulse Bay), and Kowloon to the north.
 
 The western section of the circuit (Lugard Road) has the best views. The eastern section (Harlech Road) passes through dense forest. Morning walkers, joggers, and elderly residents doing their constitutional make this a genuinely local experience despite the tourist location.
-
-![Victoria Peak — Hiking Down: Peak to Kennedy Town or Central](https://images.pexels.com/photos/4968457/pexels-photo-4968457.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Hiking Down: Peak to Kennedy Town or Central
 

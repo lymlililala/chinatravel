@@ -12,7 +12,7 @@ tags:
   - nature
   - temples
 description: "Hubei Province offers two unmissable destinations — Wuhan's Yellow Crane Tower and spectacular spring cherry blossoms, plus the dramatic Wudang Mountains where Taoist martial arts were born."
-ogImage: "https://images.pexels.com/photos/5918241/pexels-photo-5918241.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/wuhan-wudang-mountain-guide/cover.webp"
 ---
 
 Hubei Province sits at the heart of China — geographically, historically, and culturally. Wuhan is one of the country's most vivacious cities, while Wudang Mountain is a UNESCO Heritage Site of Taoist temples dramatically perched on granite peaks.
@@ -21,7 +21,7 @@ Hubei Province sits at the heart of China — geographically, historically, and 
 
 ## Wuhan (武汉)
 
-![Wuhan & Wudang Mountain — Wuhan (武汉)](https://images.pexels.com/photos/7494229/pexels-photo-7494229.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Dahong Mountain, Hubei](/img/destinations/wuhan-wudang-mountain-guide/1.webp)
 
 Wuhan (actually three merged cities: Wuchang, Hankou, and Hanyang) sits at the confluence of the Yangtze and Han Rivers — China's greatest waterway junction, a fact that made it the commercial and transportation hub of central China for centuries.
 
@@ -50,9 +50,9 @@ Other Wuhan specialties:
 
 ---
 
-![Wuhan & Wudang Mountain — Wudang Mountain (武当山)](https://images.pexels.com/photos/16004928/pexels-photo-16004928.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Wudang Mountain (武当山)
+
+![She Mountain Scenery, Hubei, Wuhan](/img/destinations/wuhan-wudang-mountain-guide/2.webp)
 
 Wudang Mountain (武当山) is to Chinese Taoism what Shaolin Temple is to Buddhism — the spiritual home and birthplace of internal martial arts (internal kung fu, including tai chi and wudang sword style).
 
@@ -75,9 +75,9 @@ Wudang mountain is an active martial arts training centre — visitors can watch
 
 ---
 
-![Wuhan & Wudang Mountain — Shennongjia (神农架)](https://images.pexels.com/photos/16850864/pexels-photo-16850864.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Shennongjia (神农架)
+
+![Daojiaoshengdiwudang Mountain Scenery](/img/destinations/wuhan-wudang-mountain-guide/3.webp)
 
 3 hours from Wuhan by bus — Shennongjia is one of China's most extraordinary wilderness areas: a primeval forest covering a high plateau, home to rare golden snub-nosed monkeys, cloud leopards, and what many locals believe is the home of the Chinese Yeti (野人, yěrén).
 

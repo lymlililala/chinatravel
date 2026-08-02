@@ -9,7 +9,7 @@ tags:
   - "south-china"
   - "minority-cultures"
 description: "Discover Guangxi's bold fermented cuisine, from sour fish to rice wine. Learn what to eat, where to try it, and tips for adventurous eaters visiting southern"
-ogImage: "https://images.pexels.com/photos/34443019/pexels-photo-34443019.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guangxi-food-culture-guide/cover.webp"
 faq:
   - question: "Is it safe to eat raw fermented fish in Guangxi?"
     answer: "Yes, if prepared properly. The fermentation process uses salt and rice to create an acidic environment that inhibits harmful bacteria. However, always eat at reputable stalls or restaurants with high turnover. If you have a compromised immune system, consult a doctor first."
@@ -29,9 +29,9 @@ Guangxi (广西, Guǎngxī) is a land of dramatic karst peaks, winding rivers, a
 
 ## What Makes Guangxi's Fermented Food Special?
 
-Fermentation in Guangxi is not just a preservation method – it's an art form shaped by the province's hot, humid climate and the traditions of its many ethnic groups, including the Zhuang, Yao, Miao, and Dong. Unlike the soy-based ferments of northern China or the rice wine of the east, Guangxi's ferments often rely on locally available ingredients like river fish, glutinous rice, and wild herbs. The result is a spectrum of flavours: funky, sour, savoury, and sometimes even slightly sweet.
+![Detianda Waterfall Scenery, Guangxi](/img/destinations/guangxi-food-culture-guide/1.webp)
 
-![A bowl of sour fish (suan yu) with chili and herbs on a rustic wooden table](https://images.pexels.com/photos/6711644/pexels-photo-6711644.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+Fermentation in Guangxi is not just a preservation method – it's an art form shaped by the province's hot, humid climate and the traditions of its many ethnic groups, including the Zhuang, Yao, Miao, and Dong. Unlike the soy-based ferments of northern China or the rice wine of the east, Guangxi's ferments often rely on locally available ingredients like river fish, glutinous rice, and wild herbs. The result is a spectrum of flavours: funky, sour, savoury, and sometimes even slightly sweet.
 
 ## Must-Try Fermented Dishes
 
@@ -71,8 +71,6 @@ A popular street snack, suan ye is a medley of fruits and vegetables – mango, 
 
 **Where to try it:** Street stalls in Nanning (especially Zhongshan Road night market) and Guilin.
 
-![A street vendor in Nanning selling colorful pickled fruits and vegetables in jars](https://images.pexels.com/photos/34443019/pexels-photo-34443019.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## How to Eat Like a Local
 
 - **Start mild:** If you're new to fermented foods, begin with pickled vegetables or a bowl of Guilin rice noodles with pickled beans. Gradually work up to sour fish and luosifen.
@@ -81,6 +79,8 @@ A popular street snack, suan ye is a medley of fruits and vegetables – mango, 
 - **Ask for guidance:** In minority villages, locals are proud of their cuisine and happy to explain how dishes are made. Use a translation app if needed.
 
 ## Best Time to Visit for Food Lovers
+
+![Gupo Mountain Scenery, Guangxi](/img/destinations/guangxi-food-culture-guide/2.webp)
 
 Guangxi is a year-round destination, but for the best food experiences:
 
@@ -102,6 +102,8 @@ Guangxi is a year-round destination, but for the best food experiences:
 - **Minority villages:** Homestays in Longsheng or Sanjiang offer authentic experiences – book ahead.
 
 ## Practical Tips for International Travelers
+
+![Ludiyan Karst Cave, Guilin](/img/destinations/guangxi-food-culture-guide/3.webp)
 
 - **Mobile payment:** Alipay and WeChat Pay are widely accepted. Link your international credit card to Alipay before you go.
 - **Cash:** Carry some small bills (¥20, ¥10, ¥5) for street vendors and markets.
@@ -136,9 +138,3 @@ Always compliment the food. It's polite to try everything offered. If you can't 
 ## Final Thoughts
 
 Guangxi's fermented cuisine is a gateway to understanding the region's culture and history. It's bold, unapologetic, and deeply rooted in the land. Whether you're slurping luosifen in Liuzhou or nibbling sour fish in a Dong village, you're tasting centuries of tradition. For more culinary adventures, check out our [China food guides](/tags/food) and [south China travel tips](/tags/south-china).
-
-![A Dong minority woman preparing sour fish in a clay jar in a traditional kitchen](https://images.pexels.com/photos/10549830/pexels-photo-10549830.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
-![Steaming bowls of Liuzhou luosifen with bamboo shoots and peanuts at a night market](https://images.pexels.com/photos/14363854/pexels-photo-14363854.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
-![A glass of cloudy homemade rice wine served in a ceramic cup](https://images.pexels.com/photos/35643789/pexels-photo-35643789.png?auto=compress&cs=tinysrgb&h=650&w=940)

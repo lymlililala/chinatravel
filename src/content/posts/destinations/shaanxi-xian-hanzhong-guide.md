@@ -12,6 +12,7 @@ tags:
   - rapeseed
   - Han Dynasty
 description: "Explore Shaanxi Province beyond the Terracotta Warriors — the terrifying cliff plank walks of Huashan (China's most dangerous hike), the spring rapeseed fields of Hanzhong that rival Provence, and the lesser-known Han Dynasty imperial ruins of Maoling."
+ogImage: "/img/destinations/shaanxi-xian-hanzhong-guide/cover.webp"
 ---
 
 Shaanxi (陕西) is most famous for Xi'an and the Terracotta Warriors — but the province extends from the Qinling-Daba mountains in the south to the Loess Plateau in the north, containing landscapes and heritage sites that most visitors in Xi'an never reach.
@@ -20,7 +21,7 @@ Shaanxi (陕西) is most famous for Xi'an and the Terracotta Warriors — but th
 
 ## Huashan (华山): China's Most Dangerous Hike
 
-![Shaanxi Beyond Xi' — Huashan (华山): China's Most Dangerous Hike](https://images.pexels.com/photos/36702207/pexels-photo-36702207.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Datangfurong Garden, Xi'an](/img/destinations/shaanxi-xian-hanzhong-guide/1.webp)
 
 100 km east of Xi'an — one of China's five sacred Daoist mountains, and unquestionably the most physically frightening mountain trail in China.
 
@@ -38,9 +39,9 @@ Shaanxi (陕西) is most famous for Xi'an and the Terracotta Warriors — but th
 
 ---
 
-![Shaanxi Beyond Xi' — Hanzhong (汉中): The Spring Rapeseed Valley](https://images.pexels.com/photos/17943573/pexels-photo-17943573.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Hanzhong (汉中): The Spring Rapeseed Valley
+
+![Yunju Temple Scenery, Shaanxi, Xi'an](/img/destinations/shaanxi-xian-hanzhong-guide/2.webp)
 
 400 km south of Xi'an via the Qinling Mountains — a subtropical valley with distinctly southern climate that grows the most spectacular spring rapeseed landscape in northern China.
 
@@ -52,9 +53,9 @@ Shaanxi (陕西) is most famous for Xi'an and the Terracotta Warriors — but th
 
 ---
 
-![Shaanxi Beyond Xi' — Maoling Mausoleum (茂陵)](https://images.pexels.com/photos/20485675/pexels-photo-20485675.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Maoling Mausoleum (茂陵)
+
+![Banpoyizhi, Shaanxi, Xi'an](/img/destinations/shaanxi-xian-hanzhong-guide/3.webp)
 
 50 km west of Xi'an — the largest of the Han Dynasty imperial tombs, burial site of Emperor Wu (汉武帝, 156–87 BC) — the emperor who expanded the Han Empire to Central Asia and established the Silk Road as a military and commercial route.
 

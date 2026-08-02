@@ -23,16 +23,16 @@ tags:
   - beach
   - diving
 description: "The best beaches in Sanya, Hainan — Yalong Bay, Dadonghai, Haitang Bay — plus diving, snorkelling, Nanshan temple, seafood and when to visit."
-ogImage: "https://images.pexels.com/photos/3934097/pexels-photo-3934097.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/sanya-beach-guide/cover.webp"
 ---
 
 Sanya (三亚) is China's primary beach resort destination — the southern tip of Hainan Island (海南岛), China's only tropical province. It sits at 18°N latitude, giving it a genuinely tropical climate: warm year-round (27–33°C in summer, 21–26°C in winter), with a dry season that makes it China's premier winter-escape destination.
 
 Compared to Southeast Asian alternatives (Phuket, Bali, Boracay), Sanya offers a different experience: Chinese resort infrastructure at Chinese prices, beautiful beaches with some world-class resorts, and the specific dynamic of being China's domestic beach holiday capital.
 
-![Sanya Beach 2026 — The Main Beach Areas](https://images.pexels.com/photos/13318779/pexels-photo-13318779.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Main Beach Areas
+
+![Dadonghai Scenery, Hainan, Sanya](/img/destinations/sanya-beach-guide/1.webp)
 
 ### Yalong Bay (亚龙湾)
 
@@ -68,8 +68,6 @@ Compared to Southeast Asian alternatives (Phuket, Bali, Boracay), Sanya offers a
 
 The exceptions: **Dadonghai** wins for budget travellers and anyone prioritising seafood restaurants and city life over pristine sand, and **Haitang Bay** wins for newer luxury hotels, duty-free shopping and thinner crowds. But if the question is simply which beach is best, the answer is Yalong Bay.
 
-![Sanya Beach 2026 — Water Activities](https://images.pexels.com/photos/12736037/pexels-photo-12736037.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Water Activities
 
 **Diving**: Sanya has multiple dive sites with warm clear water. The most popular:
@@ -82,6 +80,8 @@ The exceptions: **Dadonghai** wins for budget travellers and anyone prioritising
 **Surfing**: North Hainan (Wanning, Riyue Bay 日月湾) has China's best surf — not Sanya itself. Riyue Bay works when northeast swells run from October through March.
 
 ## Nanshan Cultural Tourism Zone (南山文化旅游区)
+
+![Boao Landscape, Hainan](/img/destinations/sanya-beach-guide/2.webp)
 
 A Buddhist cultural complex containing the **108-metre Guanyin Statue** — a three-faced bronze statue of Guanyin (海上观音) standing on a lotus platform in the sea, the tallest Guanyin statue in the world. The site is a functioning Buddhist pilgrimage destination as well as a tourist attraction.
 
@@ -100,9 +100,9 @@ The seafood is, without serious competition, one of the best reasons to visit Sa
 
 **Where to eat**: The **First Market (第一市场)** near Dadonghai is the established approach — buy fresh seafood from ground-floor vendors (price negotiation expected), then take it upstairs to restaurants that cook it for a service fee. More authentic and better value than restaurant-procured seafood.
 
-![Sanya Beach 2026 — Best Season](https://images.pexels.com/photos/4242876/pexels-photo-4242876.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Best Season
+
+![Landscape Scenery, Hainan, Sanya](/img/destinations/sanya-beach-guide/3.webp)
 
 **November–April**: The optimal window. Dry season; water temperature 24–27°C; minimal rain; pleasant land temperatures (22–28°C). This is the peak season for Chinese domestic tourism.
 

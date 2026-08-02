@@ -12,7 +12,7 @@ tags:
   - east-china
   - islands
 description: "Beyond Hangzhou, Zhejiang's coast offers dramatic island archipelagos, the Buddhist pilgrimage island of Putuoshan, and Ningbo's ancient port city heritage."
-ogImage: "https://images.pexels.com/photos/8776879/pexels-photo-8776879.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/wenzhou-ningbo-zhejiang-coast-guide/cover.webp"
 ---
 
 Zhejiang Province's coastline stretches 6,500 kilometres — China's longest provincial coastline — encompassing hundreds of islands, ancient fishing villages, and the holiest Buddhist pilgrimage site in East Asia.
@@ -21,7 +21,7 @@ Zhejiang Province's coastline stretches 6,500 kilometres — China's longest pro
 
 ## Putuoshan Island (普陀山)
 
-![Zhejiang Coast — Putuoshan Island (普陀山)](https://images.pexels.com/photos/17754422/pexels-photo-17754422.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Shengsilie Island Scenery, Zhejiang, Zhoushan](/img/destinations/wenzhou-ningbo-zhejiang-coast-guide/1.webp)
 
 Putuoshan is one of China's four sacred Buddhist mountains (四大佛教名山), dedicated to Guanyin, the Goddess of Mercy. An island of extraordinary natural beauty — granite peaks, ancient forests, and secluded beaches — studded with temples and monasteries.
 
@@ -40,9 +40,9 @@ From Shanghai Nanpu Bridge Area: fast boat to Zhoushan, then bus + ferry (3.5 ho
 
 ---
 
-![Zhejiang Coast — Ningbo (宁波)](https://images.pexels.com/photos/37560629/pexels-photo-37560629.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Ningbo (宁波)
+
+![West Lake Scenery, Hangzhou](/img/destinations/wenzhou-ningbo-zhejiang-coast-guide/2.webp)
 
 Ningbo was one of China's five Treaty Ports opened to foreign trade in 1842. It has a long maritime history and remains one of the world's busiest cargo ports.
 
@@ -57,9 +57,9 @@ A large freshwater lake 20km from central Ningbo, with Song Dynasty stone sculpt
 
 ---
 
-![Zhejiang Coast — Wenzhou (温州)](https://images.pexels.com/photos/27136016/pexels-photo-27136016.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Wenzhou (温州)
+
+![Taiziwan Park Landscape, Hangzhou](/img/destinations/wenzhou-ningbo-zhejiang-coast-guide/3.webp)
 
 Wenzhou is famous in China as a cradle of entrepreneurship — "the Wenzhou model" of private enterprise developed here before economic reform spread nationally. The city has a coastal setting between mountains and the East China Sea, with some surprisingly dramatic scenery.
 

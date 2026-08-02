@@ -1,7 +1,7 @@
 ---
 title: "Detian Transnational Waterfall Guide: China-Vietnam Border's Hidden Wonder"
 description: "Discover Detian Waterfall (Ban Gioc Falls) on the China-Vietnam border in Guangxi — the world's fourth largest transnational waterfall, limestone karst scenery, bamboo raft rides through the spray, and the unique experience of standing between two countries."
-ogImage: "https://images.pexels.com/photos/6872855/pexels-photo-6872855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guangxi-detian-waterfall-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Guangxi"
 tags: ["guangxi", "detian-waterfall", "ban-gioc", "china-vietnam-border", "waterfall", "karst", "bamboo-raft", "daxin-county"]
@@ -15,9 +15,9 @@ What makes Detian unique is not just its scale but its **geographical and politi
 
 ---
 
-![Detian Transnational Waterfall — Geography: How a River Became a Border](https://images.pexels.com/photos/14776287/pexels-photo-14776287.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Geography: How a River Became a Border
+
+![Xingping, Guangxi, Yangshuo](/img/destinations/guangxi-detian-waterfall-guide/1.webp)
 
 The Guichun River was designated as the boundary between China and Vietnam (then French Indochina) by the **Sino-French Border Treaty of 1895**. The treaty placed the borderline down the middle of the river — which, at Detian, crosses the lip of the falls.
 
@@ -44,8 +44,6 @@ Separated by rocky outcrops and vegetation; the second cascade spreads wider and
 
 ---
 
-![Detian Transnational Waterfall — Bamboo Raft Tours](https://images.pexels.com/photos/18198024/pexels-photo-18198024.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Bamboo Raft Tours
 
 The signature experience at Detian is the **bamboo raft ride** into the mist spray zone at the base of the falls. Traditional wooden-pole rafts, each holding 3–4 passengers and a helmsman, launch from below the first cascade and work their way upstream along the Chinese bank until the spray is heavy enough to require rain ponchos.
@@ -59,6 +57,8 @@ At the closest point — roughly 30 metres from the main curtain — the sound i
 
 ## The Surrounding Landscape
 
+![Gupo Mountain Scenery, Guangxi](/img/destinations/guangxi-detian-waterfall-guide/2.webp)
+
 ### Karst Formations
 
 The valley surrounding Detian is **classic Guangxi karst** — the same needle-limestone formations that make Guilin and Yangshuo famous, here draped in denser subtropical vegetation and largely unvisited by the crowds that fill those more accessible parks.
@@ -71,9 +71,9 @@ At the base of the falls, visible on a rock outcrop above the waterline, is a **
 
 ---
 
-![Detian Transnational Waterfall — Practical Information](https://images.pexels.com/photos/30174295/pexels-photo-30174295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Practical Information
+
+![Ludiyan Karst Cave, Guilin](/img/destinations/guangxi-detian-waterfall-guide/3.webp)
 
 ### Getting There
 

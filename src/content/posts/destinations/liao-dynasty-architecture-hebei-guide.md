@@ -10,7 +10,7 @@ tags:
   - "north-china"
   - "unesco-heritage"
 description: "Explore Hebei's hidden Liao dynasty temples and pagodas, from the majestic Daxiong Hall to the intricate window grilles of Geyuan Temple, with tips for"
-ogImage: "https://images.pexels.com/photos/36163423/pexels-photo-36163423.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/liao-dynasty-architecture-hebei-guide/cover.webp"
 faq:
   - question: "How do I get to Geyuan Temple from Beijing?"
     answer: "Geyuan Temple is about 3 hours' drive from Beijing. The best option is to hire a private car or join a guided tour. Public buses are infrequent and require transfers."
@@ -32,9 +32,9 @@ Hebei Province (河北省, Héběi Shěng) is a treasure trove for lovers of anc
 
 ## Why Hebei's Liao Architecture Matters
 
-The Liao dynasty, founded by the Khitan people, ruled a vast territory stretching from present-day Mongolia to northern China. Their architecture fused Tang dynasty grandeur with Central Asian influences, resulting in buildings that are both monumental and delicate. Hebei, as a frontier zone between Liao and Song, became a laboratory for this architectural synthesis. Today, the province preserves several of the "Eight Great Liao Structures" — a canon of surviving Liao wooden buildings that every architecture enthusiast should see.
+![Qing Dynasty Imperial Lieyuan — Mulanweichang](/img/destinations/liao-dynasty-architecture-hebei-guide/1.webp)
 
-![The majestic Daxiong Hall of Kaisi Temple with its sweeping eaves and massive dougong brackets](https://images.pexels.com/photos/6374748/pexels-photo-6374748.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+The Liao dynasty, founded by the Khitan people, ruled a vast territory stretching from present-day Mongolia to northern China. Their architecture fused Tang dynasty grandeur with Central Asian influences, resulting in buildings that are both monumental and delicate. Hebei, as a frontier zone between Liao and Song, became a laboratory for this architectural synthesis. Today, the province preserves several of the "Eight Great Liao Structures" — a canon of surviving Liao wooden buildings that every architecture enthusiast should see.
 
 ## Top Architectural Sites in Hebei
 
@@ -48,8 +48,6 @@ Located in Gaobeidian City (高碑店市), Kaisi Temple is one of the "Eight Gre
 
 Geyuan Temple in Laiyuan County (涞源县) is home to the Wenshu Hall (文殊殿), another Liao structure and the oldest surviving three-bay square hall with reduced columns. The hall is famous for its original Liao dynasty window grilles (菱花格子窗棂), which are among the oldest wooden windows still in use in China. The intricate carvings include Buddhist symbols and geometric patterns, earning the hall the nickname "Museum of Ancient Chinese Window Grilles."
 
-![The intricate Liao dynasty window grilles of Wenshu Hall at Geyuan Temple](https://images.pexels.com/photos/36163423/pexels-photo-36163423.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 **Practical tips:** Geyuan Temple is about 3 hours from Beijing by car. Public transport is limited; consider hiring a driver or joining a tour. The temple is less visited, so you may have it to yourself. Entry is around ¥20.
 
 ### 3. Zhuozhou Twin Pagodas (涿州双塔, Zhuōzhōu Shuāng Tǎ) – Zhuozhou
@@ -61,8 +59,6 @@ The twin pagodas of Zhuozhou are iconic Liao brick pagodas located in the old ci
 ### 4. Dingzhou Museum & Dingzhou Pagoda (定州博物馆 & 开元寺塔) – Dingzhou
 
 Dingzhou Museum (定州市博物馆) houses three national treasures: the Eastern Han dynasty jade screen with immortals, the jade bi disc with dragons, and a white porcelain vase. The museum's collection of Buddhist sculptures is also outstanding. Nearby, the Kaiyuan Temple Pagoda (开元寺塔), also known as Liaodi Pagoda (料敌塔), is an 84.2-meter-tall brick pagoda built in the Song dynasty. It was used for military observation, hence its name "Enemy-Spying Pagoda."
-
-![The towering Kaiyuan Temple Pagoda in Dingzhou, also known as Liaodi Pagoda](https://images.pexels.com/photos/20187646/pexels-photo-20187646.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 **Practical tips:** Dingzhou is about 1 hour by high-speed train from Shijiazhuang or Beijing. The museum is free with ID; the pagoda costs around ¥10. Allow 2-3 hours.
 
@@ -90,6 +86,8 @@ Beiyue Temple is a grand sacrificial complex dedicated to the Northern Sacred Mo
 
 ## Getting There & Around
 
+![Yufosi Architecture Scenery, Hebei](/img/destinations/liao-dynasty-architecture-hebei-guide/2.webp)
+
 - **By High-Speed Rail:** Hebei is well connected by China's high-speed network. From Beijing, you can reach Zhuozhou (30 min), Gaobeidian (1 hr), Shijiazhuang (1 hr), and Dingzhou (1.5 hr). Use the app **China Train** or **Trip.com** to book tickets.
 - **By Car:** For remote sites like Geyuan Temple, renting a car with a driver (via your hotel or platforms like **DiDi Chuxing**) is recommended. Expect to pay around ¥500–800 per day.
 - **Local Transport:** Within cities, taxis and ride-hailing apps (DiDi) are convenient. Buses are cheap but less frequent.
@@ -105,6 +103,8 @@ Spring (April–May) and autumn (September–October) are ideal, with mild tempe
 - **Laiyuan:** Limited options; book a guesthouse in the county town if visiting Geyuan Temple.
 
 ## Food Recommendations
+
+![Bishu Mountain Resort, Chengde](/img/destinations/liao-dynasty-architecture-hebei-guide/3.webp)
 
 - **Zhuozhou:** Try "Zhuozhou donkey burger" (驴肉火烧) — a local specialty of shredded donkey meat in a crispy bun.
 - **Dingzhou:** Sample "Dingzhou stewed chicken" (定州焖子) and sesame cakes.

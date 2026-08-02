@@ -1,7 +1,7 @@
 ---
 title: "Kangding Love Song Town: Gateway to Tibetan Sichuan"
 description: "Discover Kangding (Dartsedo) — the historic trading town between Han and Tibetan worlds, famous for the beloved folk song Kangding Love Song, the Muya Snow Mountain backdrop, Tibetan temples, and its role as gateway to the spectacular Garze Tibetan Autonomous Prefecture."
-ogImage: "https://images.pexels.com/photos/36535031/pexels-photo-36535031.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/sichuan-kangding-love-song-town-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Sichuan"
 tags: ["sichuan", "kangding", "tibetan", "garze", "folk-song", "muya-snow-mountain", "gatekeep", "sichuan-tibet-highway"]
@@ -15,9 +15,9 @@ It was here, at the edge of the Han agricultural world and the Tibetan pastoral 
 
 ---
 
-![Kangding Love Song Town — The Song That Made a Town Famous](https://images.pexels.com/photos/29756511/pexels-photo-29756511.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Song That Made a Town Famous
+
+![Longtan Water Town Scenery, Sichuan](/img/destinations/sichuan-kangding-love-song-town-guide/1.webp)
 
 **康定情歌 (Kangding Qínggē) — the Kangding Love Song** — is one of the most recognisable pieces of Chinese folk music in existence. Its melody has been performed by hundreds of artists from operatic sopranos to rock bands:
 
@@ -46,9 +46,9 @@ Thirty kilometres before Kangding, the famous **Luding Bridge (泸定桥)** cros
 
 ---
 
-![Kangding Love Song Town — What to See in Kangding](https://images.pexels.com/photos/31210026/pexels-photo-31210026.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## What to See in Kangding
+
+![Pingle Old Town Scenery](/img/destinations/sichuan-kangding-love-song-town-guide/2.webp)
 
 ### Muya Snow Mountain (木雅雪山 / 跑马山)
 
@@ -71,6 +71,8 @@ In the evening the square transforms as Khampa Tibetan women in traditional *pan
 ---
 
 ## Eating in Kangding
+
+![Tianfuguosheyingyi, Sichuan, Chengdu](/img/destinations/sichuan-kangding-love-song-town-guide/3.webp)
 
 ### Tibetan Food
 

@@ -11,7 +11,7 @@ tags:
   - minority-cultures
   - nature
 description: "Yuanyang (元阳) rice terraces in Yunnan — the Hani minority's 1,300-year-old terraced landscape at its most spectacular from November to March when the flooded terraces reflect the dawn sky. The three main viewpoints (Duoyishu, Bada, and Laohuzui), staying overnight for dawn, and the Hani villages where the culture is still very much alive."
-ogImage: "https://images.pexels.com/photos/27200218/pexels-photo-27200218.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/yuanyang-rice-terraces-guide/cover.webp"
 ---
 
 The Yuanyang rice terraces in the Honghe Hani and Yi Autonomous Prefecture of southern Yunnan are among the most extraordinary agricultural landscapes on earth. The Hani minority people have been carving terraces into the Ailao Mountains here for approximately 1,300 years, creating a staircase of flooded fields that descends from forests at 2,000 metres down to the Red River valley at 144 metres.
@@ -22,7 +22,7 @@ The UNESCO World Heritage Site designation in 2013 was long overdue. What makes 
 
 ## The Best Season: November to March
 
-![Yuanyang Rice Terraces — The Best Season: November to March](https://images.pexels.com/photos/36535773/pexels-photo-36535773.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Qingkou Rice Terraces Scenery, Yunnan, Yuanyang](/img/destinations/yuanyang-rice-terraces-guide/1.webp)
 
 Yuanyang terraces are beautiful year-round, but the most spectacular conditions occur from November to March, when the terraces are flooded for the new planting cycle.
 
@@ -32,9 +32,9 @@ In summer (April–September), the terraces are planted with green rice — a di
 
 The busiest period is Chinese New Year (usually late January/early February) and the first weeks of November when the flooding begins — if possible, arrive in mid-December through January for fewer crowds and reliable flooded conditions.
 
-![Yuanyang Rice Terraces — The Three Main Viewpoints](https://images.pexels.com/photos/15583903/pexels-photo-15583903.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Three Main Viewpoints
+
+![Glacier Park Spectacular Scenery, Yunnan, Lijiang](/img/destinations/yuanyang-rice-terraces-guide/2.webp)
 
 **Duoyishu (多依树)**: The most famous viewpoint and the most photographed location. A hillside platform above a valley of terraces that opens to the east — optimal for sunrise photography. In high season (November–March), photographers arrive before 5am to secure positions on the viewing platform. A second-tier viewpoint above the main platform gives a higher angle. Dawn conditions with mist in the valley produce the terrace photographs that have made Yuanyang famous globally. Entry: ¥100 (included in the Yuanyang scenic area combined ticket).
 
@@ -43,8 +43,6 @@ The busiest period is Chinese New Year (usually late January/early February) and
 **Laohuzui (老虎嘴, "Tiger's Mouth")**: The most dramatic single-viewpoint shot — a cliff edge that looks straight down 300 metres into a deep valley of terraces falling away in steps. Best at sunset when the western light catches the water surfaces. The engineering feat of the terraces is most viscerally apparent here: steep, near-vertical slopes somehow made into cultivable land through sheer accumulated human effort. Entry included in combined ticket.
 
 The combined scenic area ticket is ¥100 and covers all three main viewpoints. It is valid for multiple days — staying 2–3 nights allows you to hit each viewpoint at its optimal time.
-
-![Yuanyang Rice Terraces — Staying Overnight: The Essential Strategy](https://images.pexels.com/photos/7814062/pexels-photo-7814062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Staying Overnight: The Essential Strategy
 
@@ -55,6 +53,8 @@ Accommodation is available in New Yuanyang Town (新街镇), which is the main h
 **Practical dawn routine**: Guesthouses near Duoyishu organize small group van transfers to the viewpoint at 5am for ¥10–¥20 per person. Alternatively, the walk is about 15 minutes. Dress warmly — temperatures at dawn in December–February regularly drop to 5–10°C, and the wind chill on the open platform adds to that.
 
 ## Hani Culture: The Villages Still Living
+
+![Dashanshenchu Red Soil Gengdi, Yunnan](/img/destinations/yuanyang-rice-terraces-guide/3.webp)
 
 The Hani (哈尼族) are the people who built and maintain these terraces, and visiting their villages is as significant as viewing the terraces themselves. The Hani have their own language (Hani-Lolo group), architecture (the mushroom houses — traditional adobe buildings with thatched roofs that resemble mushrooms), and animist-influenced spiritual practices that coexist with aspects of Buddhism.
 

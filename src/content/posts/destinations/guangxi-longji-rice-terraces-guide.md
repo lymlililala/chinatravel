@@ -13,9 +13,10 @@ tags:
   - Yao minority
   - seasonal
 description: "Your guide to the Longji Rice Terraces (Dragon's Backbone) near Guilin — ancient Zhuang and Yao minority terraced fields carved into mountain ridges, with seasonal photography across spring flooding, summer green, autumn gold, and winter snow."
+ogImage: "/img/destinations/guangxi-longji-rice-terraces-guide/cover.webp"
 ---
 
-![Longji Rice Terraces Dragon's Backbone — the concentric terrace bands curving around the mountain ridges at sunset, with the flooded spring terraces reflecting the golden sky](https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=1200&q=85)
+
 *Longji Rice Terraces "Dragon's Backbone" — 650-year-old terrace bands carved into the Guangxi mountains by the Zhuang and Red Yao peoples, best photographed in spring flooding season*
 
 The Longji Rice Terraces (龙脊梯田, "Dragon's Backbone") in Guangxi's Longsheng County are among the most photographed agricultural landscapes in China — steep mountain ridges carved into parallel terrace bands over 650 years by the Zhuang and Red Yao minority peoples, creating a landscape that looks architectural at a distance and reveals extraordinary agricultural engineering close up.
@@ -24,11 +25,15 @@ The Longji Rice Terraces (龙脊梯田, "Dragon's Backbone") in Guangxi's Longsh
 
 ## The Terraces
 
+![Longji Rice Terraces Pinganzhai](/img/destinations/guangxi-longji-rice-terraces-guide/1.webp)
+
 The Longji terrace system covers 66 km² at altitudes of 380–1,180 metres — built from the Yuan Dynasty (1271–1368) through the Qing, with the first terraces laid on accessible lower slopes and the system gradually extended up the steeper ridges over centuries.
 
 **The scale:** Individual terraces are typically 1–5 metres wide; the entire mountain from valley floor to cloud-scraping ridge top is terraced. Looking at the ridgeline from a distance, the horizontal lines of the terraces create a pattern resembling the scales of a dragon — hence the name.
 
 ## Four Seasons, Four Different Landscapes
+
+![Sanliyangdu Scenic Area, Guangxi](/img/destinations/guangxi-longji-rice-terraces-guide/2.webp)
 
 The reason serious photographers return multiple times:
 
@@ -47,6 +52,8 @@ The reason serious photographers return multiple times:
 **Dazhai (大寨) Red Yao Village:** 10 km further on a winding mountain road — the more spectacular terrace formations (Jinfo Terrace, 金佛顶) and the Red Yao women with their extraordinarily long hair (which can exceed 2 metres) are the distinguishing characteristics. The highest viewpoint here gives the most sweeping panorama.
 
 ## Minority Culture
+
+![Yao Mountain Scenery, Guangxi, Guilin](/img/destinations/guangxi-longji-rice-terraces-guide/3.webp)
 
 **Red Yao women (红瑶妇女):** The Red Yao women of Dazhai maintain a tradition of growing hair extremely long — never cutting it after adolescence. The hair is washed, oiled, and styled differently for different occasions; the most elaborate styling indicates marital and social status. Photographs of this tradition require permission and sometimes payment.
 

@@ -11,7 +11,7 @@ tags:
   - practical
   - china
 description: "China's entry requirements changed significantly in 2023-2025, with major expansions of visa-free access for dozens of nationalities. This guide covers who can enter visa-free, how long you can stay, what documents you need at the border, and the visa application process for those who still need one."
-ogImage: "https://images.unsplash.com/photo-1513407030348-c983a97b98d8?w=1200&q=85"
+ogImage: "/img/toolkit/china-entry-requirements-2026/cover.webp"
 ---
 
 China's entry requirements went through the most significant changes in decades between 2023 and 2025. Visa-free access was extended to dozens of new nationalities, the 144-hour transit visa-free program was expanded to new cities, and the overall process for visiting has become meaningfully easier for travellers from many countries.
@@ -21,6 +21,8 @@ This guide reflects the situation as of early 2026. Entry requirements change â€
 ## Table of contents
 
 ## Who Can Enter China Visa-Free in 2026
+
+![Weimei Natural Scenery, Guangxi, Yangshuo](/img/toolkit/china-entry-requirements-2026/1.webp)
 
 As of 2026, citizens of the following categories of countries can enter China without a visa for tourism, business, or transit:
 
@@ -94,6 +96,8 @@ Whether entering visa-free or with a visa, have these ready:
 All foreign visitors must register their accommodation with local police. Hotels and licensed guesthouses do this automatically. If staying with friends or in an unregistered rental, you (or your host) need to register at the local police station within 24 hours of arrival. The penalty for non-registration is a fine. This rule is consistently enforced.
 
 ## Port of Entry vs Land Border
+
+![Huangyaguan Great Wall Scenery, Tianjin](/img/toolkit/china-entry-requirements-2026/2.webp)
 
 **Major airports (Beijing, Shanghai Pudong, Guangzhou, Chengdu, etc.):** Most straightforward entry. English language support at immigration. Queue times vary â€” PVG Shanghai can have long queues on international arrival evenings.
 

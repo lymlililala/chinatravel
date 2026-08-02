@@ -12,7 +12,7 @@ tags:
   - culture
   - east-china
 description: "Quanzhou (泉州) in Fujian — named by Marco Polo as 'the greatest port in the world' in the 13th century, and a UNESCO World Heritage Site since 2021. The mix of Muslim mosques, Hindu temples, Buddhist monasteries, and Taoist temples that reflects the city's extraordinary cosmopolitan medieval history. The Kaiyuan Temple, the Quanzhou Maritime Museum, and the Huian stone sculpture tradition."
-ogImage: "https://images.pexels.com/photos/38109196/pexels-photo-38109196.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/quanzhou-silk-road-guide/cover.webp"
 ---
 
 In 1271 AD, when Marco Polo called Zayton (his name for Quanzhou) "the greatest port in the world," he was exaggerating, but not by much. Quanzhou at its height in the Song and Yuan dynasties was among the most commercially active ports on earth — the eastern terminus of the Maritime Silk Road, where Arab, Persian, Indian, and Southeast Asian merchants unloaded spices, ivory, and incense, and loaded Chinese porcelain, silk, and tea.
@@ -23,7 +23,7 @@ The result of centuries of cosmopolitan trade was a city where practically every
 
 ## Kaiyuan Temple (开元寺)
 
-![Quanzhou — Kaiyuan Temple (开元寺)](https://images.pexels.com/photos/20187646/pexels-photo-20187646.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Tailao Mountain Scenery, Fujian](/img/destinations/quanzhou-silk-road-guide/1.webp)
 
 Kaiyuan Temple is the largest and most famous Buddhist temple in Fujian, founded in 686 AD during the Tang Dynasty. The complex covers 7.8 hectares and is anchored by a Great Hall of stunning scale, flanked by two stone pagodas — the East Tower (Zhenguo Ta) and the West Tower (Renshou Ta) — that are the most recognizable landmark in Quanzhou.
 
@@ -56,8 +56,6 @@ About 3km east of the city centre, the tomb of two of the Prophet Muhammad's com
 **Entry:** Free  
 **Worth the short trip** for anyone interested in the history of Islam in China
 
-![Quanzhou — Tamil Hindu Carvings (番佛寺遗址)](https://images.pexels.com/photos/18696204/pexels-photo-18696204.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Tamil Hindu Carvings (番佛寺遗址)
 
 Scattered throughout the city and incorporated into various buildings are stone carvings in South Indian (Tamil Dravidian) style — Shiva lingas, lion figures, and temple column pieces from a Hindu temple that stood in Quanzhou's medieval Indian merchant quarter. Many are now in the Quanzhou Maritime Museum.
@@ -80,6 +78,8 @@ This is one of the best specialist history museums in Fujian and essential conte
 
 ## Chongwu Ancient Walled Town (崇武古城)
 
+![Wuyi Mountain Scenery, Fujian](/img/destinations/quanzhou-silk-road-guide/2.webp)
+
 About 40km east of Quanzhou, Chongwu is a fully intact Ming Dynasty coastal defense town with a 2.4km wall enclosing granite-built streets. It was built in 1384 specifically to defend against Japanese pirate raids.
 
 **Unique feature:** This is still a living town inside the walls — local people fish, cook, and live in the historic buildings. It's one of the least touristy walled towns in China.
@@ -88,8 +88,6 @@ About 40km east of Quanzhou, Chongwu is a fully intact Ming Dynasty coastal defe
 
 The Huian Women (惠安女) from this area have a distinctive traditional costume — bright yellow headscarf, silver-embroidered blouse, and wide trousers — that photographers have documented for decades. The costume is still worn daily by older women.
 
-![Quanzhou — Huian Stone Sculpture (惠安石雕)](https://images.pexels.com/photos/18672899/pexels-photo-18672899.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Huian Stone Sculpture (惠安石雕)
 
 Huian County, adjacent to Quanzhou, has a 1,600-year tradition of stone carving. The granite-carving craftspeople here are responsible for much of the stonework in temples across Southeast Asia. Walking through the Chongwu area, you'll pass stone-carving workshops where enormous granite figures are being worked.
@@ -97,6 +95,8 @@ Huian County, adjacent to Quanzhou, has a 1,600-year tradition of stone carving.
 **For buyers:** Huian stone carving products — from decorative architectural pieces to memorial figures — are available at markets throughout the area. Pieces range from a few hundred yuan for small items to tens of thousands for large commissioned work.
 
 ## Getting to Quanzhou
+
+![Moya Stone Carving Scenery, Fujian, Quanzhou](/img/destinations/quanzhou-silk-road-guide/3.webp)
 
 **From Xiamen:** High-speed train, about 30–40 minutes, ¥35–55. The most practical connection.
 

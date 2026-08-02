@@ -11,7 +11,7 @@ tags:
   - russian-travellers
   - beginners
 description: "China travel guide for Russian passport holders — the Russia-China 15-day mutual visa-free policy, direct flights from Moscow and St Petersburg, UnionPay card usage (Russian cards still work on China's UnionPay network), the large Russian presence in Harbin and Hainan, and practical travel tips."
-ogImage: "https://images.pexels.com/photos/12900773/pexels-photo-12900773.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-travel-guide-russian/cover.webp"
 ---
 
 Russia and China share one of the world's longest land borders and a bilateral relationship that has grown significantly closer in recent years. For Russian travellers, China is a natural destination — visa-free for short visits, quick to reach from eastern Russia, and home to some significant Russian historical presence, particularly in Harbin, where the old Russian quarter survives remarkably intact.
@@ -23,6 +23,8 @@ The payment situation is also more favourable for Russian visitors than for many
 ---
 
 ## Visa Rules for Russian Passport Holders
+
+![Zhuozheng Garden, Suzhou](/img/toolkit/china-travel-guide-russian/1.webp)
 
 ### 15-Day Mutual Visa-Free Entry
 
@@ -75,6 +77,8 @@ For those interested in rail travel: the **Trans-Siberian** Moscow–Beijing by 
 ---
 
 ## Payments: UnionPay and Alipay for Russian Visitors
+
+![Canglangting, Suzhou](/img/toolkit/china-travel-guide-russian/2.webp)
 
 ### The UnionPay Advantage
 

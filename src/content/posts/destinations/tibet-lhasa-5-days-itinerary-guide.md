@@ -11,7 +11,7 @@ tags:
   - itinerary
   - altitude
 description: "A 5-day Lhasa itinerary structured around altitude acclimatization — Day 1 for rest and Barkhor Street, Day 2 for the Jokhang Temple, Day 3 for Potala Palace, Day 4 for Drepung and Sera monasteries, Day 5 for Namtso Lake or Ganden. Permit requirements and booking details."
-ogImage: "https://images.pexels.com/photos/31013239/pexels-photo-31013239.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/tibet-lhasa-5-days-itinerary-guide/cover.webp"
 ---
 
 Lhasa sits at 3,650 meters above sea level. That single fact shapes every day of your visit — what you do on day one, how fast you walk, whether you sleep well, and how much energy you have for stairs. Get the altitude strategy right and Lhasa is extraordinary. Get it wrong and you spend your trip with a splitting headache wishing you were somewhere lower.
@@ -22,7 +22,7 @@ This itinerary is deliberately structured around acclimatization. The big physic
 
 ## Permits & Logistics Before You Arrive
 
-![Lhasa, Tibet — Permits & Logistics Before You Arrive](https://images.pexels.com/photos/34168857/pexels-photo-34168857.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Dazhao Temple Scenery, Tibet](/img/destinations/tibet-lhasa-5-days-itinerary-guide/1.webp)
 
 Tibet has restricted access for foreign visitors. You need:
 
@@ -58,8 +58,6 @@ Walk it once, slowly. Watch the pilgrims. Sit at one of the teahouse windows fac
 
 ---
 
-![Lhasa, Tibet — Day 2: Jokhang Temple & Barkhor Bazaar](https://images.pexels.com/photos/16154562/pexels-photo-16154562.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day 2: Jokhang Temple & Barkhor Bazaar
 
 By Day 2, most visitors feel noticeably better. Keep the morning gentle.
@@ -82,6 +80,8 @@ The market surrounding Jokhang sells Tibetan goods: prayer wheels, singing bowls
 
 ## Day 3: Potala Palace
 
+![Spectacular Ali Scenery, Tibet](/img/destinations/tibet-lhasa-5-days-itinerary-guide/2.webp)
+
 **Potala Palace** (布达拉宫, ¥200) is the former winter residence of the Dalai Lamas — a 13-story, 1,000-room palace rising 117 meters above the valley floor. The red and white exterior is unmistakable. This is the icon of Tibet.
 
 **Booking:** Potala Palace tickets must be booked in advance online (potalapalace.cn) or through your guide. Daily visitor numbers are strictly capped. Tickets often sell out a week or more ahead, especially April-October. Your travel agency will usually handle this.
@@ -96,9 +96,9 @@ After the Potala, the afternoon can be spent exploring the **Norbulingka Palace*
 
 ---
 
-![Lhasa, Tibet — Day 4: Drepung & Sera Monasteries](https://images.pexels.com/photos/38146261/pexels-photo-38146261.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day 4: Drepung & Sera Monasteries
+
+![Renwen Natural Landscape, Tibet](/img/destinations/tibet-lhasa-5-days-itinerary-guide/3.webp)
 
 By now you should be well acclimatized and can handle more physical activity.
 

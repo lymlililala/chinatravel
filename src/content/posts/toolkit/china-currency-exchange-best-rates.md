@@ -1,6 +1,7 @@
 ---
 title: "Currency Exchange in China 2026: Best Rates, ATMs and Avoiding Scams"
 description: "Where to exchange currency in China and get the best RMB rate. Covers airport exchanges, bank ATMs, hotel rates, black market risks, and using foreign cards in China."
+ogImage: "/img/toolkit/china-currency-exchange-best-rates/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["China currency", "RMB exchange", "Chinese yuan", "money China", "ATM China", "travel money"]
@@ -9,6 +10,8 @@ tags: ["China currency", "RMB exchange", "Chinese yuan", "money China", "ATM Chi
 The Chinese yuan (RMB, renminbi) is the only legal currency for transactions in mainland China, though Hong Kong dollars are sometimes accepted in border towns. Getting the best exchange rate and accessing cash reliably are practical skills every visitor needs. This guide covers all your options.
 
 ## Understanding the Exchange Rate
+
+![Wanli Great Wall Scenery](/img/toolkit/china-currency-exchange-best-rates/1.webp)
 
 The RMB (元 yuán, symbol ¥ or CN¥) trades at roughly 7.1–7.3 per US dollar, 8.5–9 per Euro and 8.8–9.0 per British pound in 2026 (subject to market fluctuation). The official mid-market rate is what you see on Google or XE.com.
 
@@ -72,6 +75,8 @@ Pre-trip exchange at your home country's banks or exchange bureaus varies widely
 ---
 
 ## How Much Cash to Carry
+
+![Badaling Great Wall, Beijing](/img/toolkit/china-currency-exchange-best-rates/2.webp)
 
 Despite China's extremely cashless society (Alipay and WeChat Pay dominate), cash is still essential for:
 - Small street food stalls that don't accept apps

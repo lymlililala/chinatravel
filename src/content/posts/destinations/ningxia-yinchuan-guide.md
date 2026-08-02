@@ -12,7 +12,7 @@ tags:
   - desert
   - hui-culture
 description: "Yinchuan, capital of the Ningxia Hui Autonomous Region, sits at the intersection of the Loess Plateau, the Yellow River and the Tengger Desert — a city shaped by Hui Muslim culture, ancient Western Xia imperial history and some of China's most dramatic desert lake scenery. This 2026 guide covers the Western Xia Mausoleum, desert lakes, wine country, Hui food and transport from Xi'an and Lanzhou."
-ogImage: "https://images.pexels.com/photos/5054447/pexels-photo-5054447.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/ningxia-yinchuan-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -22,6 +22,8 @@ The Western Xia kingdom is one of Chinese history's great forgotten empires. For
 Yinchuan was the Western Xia capital, and their mausoleum complex outside the city is China's most important reminder of this vanished civilisation. Paired with the extraordinary desert lake scenery of the Sha Po Tou area and the deep Hui Muslim culture that now characterises Ningxia, Yinchuan offers a compact but genuinely distinctive China experience.
 
 ## Top Attractions
+
+![Zhenbeibaoyingshi City Scenery, Ningxia](/img/destinations/ningxia-yinchuan-guide/1.webp)
 
 ### Western Xia Imperial Mausoleum (西夏王陵)
 
@@ -74,8 +76,6 @@ The east slope of the Helan Mountains has emerged in the past 20 years as one of
 
 **Wine tasting tours:** Multiple travel agencies in Yinchuan offer half-day and full-day Helan Mountain winery routes for ¥300–¥500 per person ($42–$70) including transport.
 
-![Yinchuan Ningxia — Hui Muslim Food in Yinchuan](https://images.pexels.com/photos/36360379/pexels-photo-36360379.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Hui Muslim Food in Yinchuan
 
 Yinchuan's food is entirely halal and deeply flavourful, drawing on central Asian and Arabic spice traditions adapted to Chinese cooking techniques.
@@ -90,6 +90,8 @@ Yinchuan's food is entirely halal and deeply flavourful, drawing on central Asia
 **Restaurant streets:** The Gulou Pedestrian Street area in central Yinchuan has the best range.
 
 ## Getting to Yinchuan
+
+![Lvyougaoqing Scenery, Yinchuan](/img/destinations/ningxia-yinchuan-guide/2.webp)
 
 ### From Xi'an
 
@@ -125,6 +127,8 @@ Yinchuan is moderately sized; most sites within the city are accessible by DiDi 
 **Winery boutique hotels:** Two or three of the Helan Mountain wineries operate small guesthouses or boutique hotels within their vineyard properties — an atmospheric choice for wine enthusiasts. From ¥500–¥900/night ($70–$126).
 
 ## Best Time to Visit
+
+![Sha Lake, Yinchuan](/img/destinations/ningxia-yinchuan-guide/3.webp)
 
 **September–October:** Grape harvest season at the wineries is the absolute best time — the landscape is beautiful, temperatures perfect (20–28°C) and tasting events are in full swing.
 

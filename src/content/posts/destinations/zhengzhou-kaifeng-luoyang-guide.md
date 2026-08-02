@@ -12,7 +12,7 @@ tags:
   - central-china
   - history
 description: "Henan Province is where Chinese civilisation began — the Shaolin Temple, Longmen Grottoes, Song Dynasty capital Kaifeng, and the Yellow River's ancient sites are all within easy reach."
-ogImage: "https://images.pexels.com/photos/37519011/pexels-photo-37519011.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/zhengzhou-kaifeng-luoyang-guide/cover.webp"
 ---
 
 Henan (河南, "south of the Yellow River") is China's most historically layered province — more ancient dynasties had their capital here than anywhere else in the country. The Yellow River (黄河) cradle of Chinese civilisation runs through the province; the Shaolin Temple defines an entire global martial arts tradition; and the Buddha carvings at Longmen are among the world's greatest artworks.
@@ -21,7 +21,7 @@ Henan (河南, "south of the Yellow River") is China's most historically layered
 
 ## Shaolin Temple (少林寺)
 
-![Henan — Shaolin Temple (少林寺)](https://images.pexels.com/photos/37639472/pexels-photo-37639472.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Longmen Grottoes, Henan, Luoyang](/img/destinations/zhengzhou-kaifeng-luoyang-guide/1.webp)
 
 The birthplace of Chan (Zen) Buddhism and Chinese martial arts — Shaolin Temple (少林寺) in the Songshan Mountains is one of the world's most famous religious and cultural sites.
 
@@ -36,9 +36,9 @@ The birthplace of Chan (Zen) Buddhism and Chinese martial arts — Shaolin Templ
 
 ---
 
-![Henan — Longmen Grottoes (龙门石窟)](https://images.pexels.com/photos/11105693/pexels-photo-11105693.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Longmen Grottoes (龙门石窟)
+
+![Bali Valley Scenery, Henan](/img/destinations/zhengzhou-kaifeng-luoyang-guide/2.webp)
 
 13km south of Luoyang — over 2,300 cave niches carved into limestone cliffs along the Yi River, containing 110,000 Buddhist images created from the late Northern Wei Dynasty (494 AD) through the Tang Dynasty.
 
@@ -53,8 +53,6 @@ The birthplace of Chan (Zen) Buddhism and Chinese martial arts — Shaolin Templ
 
 ---
 
-![Henan — Luoyang (洛阳) — Peony Capital](https://images.pexels.com/photos/5305565/pexels-photo-5305565.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Luoyang (洛阳) — Peony Capital
 
 Luoyang served as imperial capital for 13 dynasties. Today it's most famous for **Chinese tree peonies (洛阳牡丹)** — the city hosts the Peony Festival every April when thousands of rare peony varieties bloom simultaneously.
@@ -68,6 +66,8 @@ The restored old town around the East Gate area has a lively food street (洛阳
 ---
 
 ## Kaifeng (开封) — Northern Song Capital
+
+![Luyitaiqing Palace Scenery, Henan](/img/destinations/zhengzhou-kaifeng-luoyang-guide/3.webp)
 
 Kaifeng was the capital of the Northern Song Dynasty (960–1127) — the most sophisticated and culturally rich period in Chinese history, the era of the famous scroll painting *Along the River During Qingming Festival*.
 

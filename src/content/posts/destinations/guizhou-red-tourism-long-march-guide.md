@@ -9,7 +9,7 @@ tags:
   - "guizhou"
   - "southwest-china"
 description: "Explore Guizhou's revolutionary history along the Long March route, from Zunyi to Chishui, with practical travel tips for international visitors."
-ogImage: "https://images.pexels.com/photos/18658526/pexels-photo-18658526.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guizhou-red-tourism-long-march-guide/cover.webp"
 faq:
   - question: "Is it necessary to speak Chinese to visit these sites?"
     answer: "While helpful, it's not essential. Major sites have English signage, and translation apps work well. Consider hiring a local English-speaking guide for deeper historical context."
@@ -25,11 +25,11 @@ faq:
 
 Guizhou (贵州, Guìzhōu) is a land of dramatic karst mountains, winding rivers, and profound revolutionary history. It was here that the Chinese Red Army, during the Long March of 1934–1935, staged a remarkable turnaround that changed the course of modern China. Today, visitors can walk the same paths, cross the same rivers, and stand in the same meeting rooms where history was made. This guide takes you along the Red Army's route through Guizhou, blending historical insight with practical travel advice for international tourists.
 
-![Red Army crossing Chishui River, historical reenactment](https://images.pexels.com/photos/4669481/pexels-photo-4669481.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Table of contents
 
 ## Why Guizhou for Red Tourism?
+
+![Xijiang Miao Village Landscape, Guizhou](/img/destinations/guizhou-red-tourism-long-march-guide/1.webp)
 
 Guizhou is often called the "great turning point" of the Long March. While Jiangxi was the starting point and Shaanxi the final destination, Guizhou is where the Communist Party of China held the pivotal Zunyi Conference, which established Mao Zedong's leadership. The province's rugged terrain—mountains, gorges, and the swift Chishui River—shaped the military strategies that became legendary. For history enthusiasts, Guizhou offers an immersive experience: many battlefields, meeting sites, and villages remain remarkably preserved.
 
@@ -42,8 +42,6 @@ The best time for a red tourism trip in Guizhou is **spring (March–May)** or *
 ### 1. Zunyi Conference Site (遵义会议会址, Zūnyì Huìyì Huìzhǐ)
 
 The most iconic red tourism site in Guizhou. This two-story brick-and-wood building, once the residence of a local warlord, hosted the historic Zunyi Conference in January 1935. Here, Mao Zedong was elected to the leadership, changing the course of the revolution. The site now functions as a museum with exhibits on the Long March and the conference.
-
-![Zunyi Conference site, historic building exterior](https://images.pexels.com/photos/18658526/pexels-photo-18658526.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 - **Location:** Zunyi city center, at 96 Ziyin Road (子尹路96号).
 - **Opening hours:** 8:30–17:00 (closed Mondays).
@@ -58,8 +56,6 @@ The Chishui (Red Water) River is the stage for Mao's legendary "Four Crossings" 
 - **Qinggangpo Battlefield (青杠坡战斗遗址, Qīnggāngpō Zhàndòu Yízhǐ):** A hillside where a fierce battle preceded the first crossing. A memorial park with a monument and cemetery.
 - **Erlang Beach (二郎滩, Èrláng Tān):** Where the Red Army distributed salt to the poor, a key moment in winning local support.
 
-![Chishui River winding through green valley](https://images.pexels.com/photos/17880310/pexels-photo-17880310.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 - **Getting there:** Chishui city is about 3 hours by bus from Zunyi. Tucheng is 30 minutes by bus from Chishui city.
 - **Tickets:** The memorial hall is free; some sites may charge a small fee (¥10–30).
 
@@ -73,8 +69,6 @@ The Liping Conference (December 1934) was the first to challenge the错误的 le
 
 ### 4. Loushan Pass (娄山关, Lóushān Guān)
 A narrow mountain pass that was the site of a crucial Red Army victory in February 1935. Mao's poem "Remembering the Beauty of Qin'e · Loushan Pass" immortalized the battle. Today, visitors can hike the pass, see the battlefield trenches, and watch the live outdoor performance **"Loushan Pass Victory"** (娄山关大捷).
-
-![Loushan Pass mountain path and monument](https://images.pexels.com/photos/4269191/pexels-photo-4269191.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 - **Location:** About 50 km north of Zunyi.
 - **Getting there:** Take bus from Zunyi茅草铺 station to Banqiao (板桥), then transfer to local bus.
@@ -118,6 +112,8 @@ This route follows the Red Army's path chronologically, starting from the southe
 
 ## Getting Around
 
+![Dong Village Gulou](/img/destinations/guizhou-red-tourism-long-march-guide/2.webp)
+
 - **High-speed rail:** Guiyang, Zunyi, and Liping are connected by HSR. Book tickets via **12306 app** (English version available) or at stations.
 - **Long-distance buses:** For towns like Tucheng and Chishui, buses are the main option. Buy tickets at the bus station or via the **Bus365** app.
 - **Taxis & ride-hailing:** **DiDi** (滴滴) works in cities. Taxis are affordable; always ask for the meter.
@@ -140,6 +136,8 @@ This route follows the Red Army's path chronologically, starting from the southe
 For more food recommendations, see our [Guizhou food guide](/tags/food).
 
 ## Practical Tips for International Visitors
+
+![Diaojiaolou Scenery](/img/destinations/guizhou-red-tourism-long-march-guide/3.webp)
 
 - **Visa:** Most travelers need a tourist visa (L). If you're transiting through a city like Guiyang, check if you qualify for the **144-hour visa-free transit** (conditions apply).
 - **Mobile payment:** **Alipay** and **WeChat Pay** are widely accepted. Link your international credit card before your trip. Carry some cash (¥100–500) for small vendors.

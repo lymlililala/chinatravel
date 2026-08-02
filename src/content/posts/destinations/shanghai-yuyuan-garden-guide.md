@@ -12,7 +12,7 @@ tags:
   - food
   - history
 description: "How to visit Yuyuan Garden in Shanghai's Old City — the garden itself, the surrounding bazaar, where to eat the best xiaolongbao, and how to avoid the worst of the crowds."
-ogImage: "https://images.pexels.com/photos/20847326/pexels-photo-20847326.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/shanghai-yuyuan-garden-guide/cover.webp"
 ---
 
 Tucked inside the sprawling commercial maze of the Old City Bazaar, Yuyuan Garden (豫园) is a 450-year-old classical garden that feels like it has been transported from Suzhou — perfect ponds, whitewashed walls capped with dragon-spine ridges, and pavilions connected by zigzag bridges over lotus-filled water. Then you look up and see the neon signs of the shopping complex surrounding it.
@@ -23,7 +23,7 @@ This contrast — ancient garden dropped inside a 21st-century tourist bazaar �
 
 ## Essential Information
 
-![Yuyuan Garden Shanghai — Essential Information](https://images.pexels.com/photos/8776494/pexels-photo-8776494.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Fengjing Old Town Scenery](/img/destinations/shanghai-yuyuan-garden-guide/1.webp)
 
 | Detail | Info |
 |--------|------|
@@ -36,9 +36,9 @@ This contrast — ancient garden dropped inside a 21st-century tourist bazaar �
 
 Book tickets online via the **Yuyuan Garden WeChat mini-program** or Damai to guarantee entry during peak season. Tickets can sell out on national holidays and weekends.
 
-![Yuyuan Garden Shanghai — The Garden: History and Layout](https://images.pexels.com/photos/8180453/pexels-photo-8180453.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Garden: History and Layout
+
+![Hanxiangshuibo Garden Scenery, Shanghai](/img/destinations/shanghai-yuyuan-garden-guide/2.webp)
 
 Yuyuan Garden was built between 1559 and 1577 by Pan Yunduan, a government official of the Ming Dynasty, as a private garden for his elderly parents to "enjoy peace and comfort" — hence the name (*yu* = peace and comfort for the elderly). After falling into disrepair multiple times over the centuries, it was restored repeatedly, most recently and comprehensively in the 1950s–1960s.
 
@@ -55,8 +55,6 @@ The garden covers only 2 hectares — small by Imperial garden standards — but
 **Inner Garden (内园):** A separate, smaller garden within the garden — enclosed behind its own wall and entered through a separate gate. Built in 1709, slightly later than the main garden, and with a distinctly different character: denser planting, more intimate scale, and ornate theatrical rockeries. Many visitors miss this section. Take the path east from the main garden courtyard to find it.
 
 **The Zigzag Bridge (九曲桥):** Nine-turn stone bridge over the central lotus pond, leading to the Huxinting Teahouse — a genuinely beautiful example of a pavilion sitting over water. The bridge is narrow and very crowded; cross it early morning.
-
-![Yuyuan Garden Shanghai — The Bazaar: Managing the Commercial Surround](https://images.pexels.com/photos/31124083/pexels-photo-31124083.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Bazaar: Managing the Commercial Surround
 
@@ -86,6 +84,8 @@ The bazaar contains too many shops to evaluate individually. The most useful are
 - **Avoid:** The mass-market "silk" and "jade" shops along the main tourist axis — almost all goods are low-quality or fake at high prices.
 
 ## Combining with the Old City
+
+![Guyi Garden Scenery](/img/destinations/shanghai-yuyuan-garden-guide/3.webp)
 
 Yuyuan sits within Shanghai's historic **Old City (老城厢)**, the area that was the independent Chinese municipality before the foreign concessions absorbed the surrounding areas. Outside the tourist zone, the neighbourhood retains something of pre-modern Shanghai — narrow streets, traditional medicine shops, steamed bun stalls, and small temples.
 

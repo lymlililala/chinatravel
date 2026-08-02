@@ -1,7 +1,7 @@
 ---
 title: "Turpan & Flaming Mountains: China's Ancient Desert Oasis Guide"
 description: "Complete guide to Turpan (Turfan) — China's lowest point, hottest temperatures, ancient Silk Road ruins, the Flaming Mountains, Jiaohe ancient city, and Turpan's extraordinary grape culture. Best time to visit and practical tips."
-ogImage: "https://images.pexels.com/photos/2689651/pexels-photo-2689651.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/xinjiang-turpan-flaming-mountains-guide/cover.webp"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/turpan-flaming-mountains.jpg"
 category: "destinations"
@@ -15,9 +15,9 @@ Turpan (吐鲁番, Tǔlǔfān) is an extraordinary place on multiple dimensions.
 
 This combination of extremes creates a destination unlike anywhere else in China — or anywhere else in the world.
 
-![Turpan & Flaming Mountains — Understanding Turpan](https://images.pexels.com/photos/9331577/pexels-photo-9331577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Understanding Turpan
+
+![Takelamagan Desert, Xinjiang](/img/destinations/xinjiang-turpan-flaming-mountains-guide/1.webp)
 
 The Turpan Depression (吐鲁番盆地) sits in the center of Xinjiang, surrounded by mountains that trap heat and exclude moisture. The depression's geology, combined with its latitude, creates climate conditions comparable to Death Valley in the American Southwest — except that Turpan has been continuously inhabited for at least 4,000 years, making it one of history's most persistent human adaptations to extreme environment.
 
@@ -35,8 +35,6 @@ For Chinese readers, the Flaming Mountains are legendary territory: in the class
 
 **Best time**: The Flaming Mountains are most impressive in summer when the heat shimmer effect is maximum. This requires tolerating extreme heat (47-50°C is possible). Autumn and spring visits are more comfortable but less visually dramatic.
 
-![Turpan & Flaming Mountains — Jiaohe Ancient City (交河故城)](https://images.pexels.com/photos/16681649/pexels-photo-16681649.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Jiaohe Ancient City (交河故城)
 
 Jiaohe is one of the best-preserved ancient cities in Central Asia — an administrative and military center occupied from approximately 200 BCE to the 14th century CE, when it was abandoned after Mongol invasion. The city was built on a natural mesa between two rivers (hence "jiaohe" — "river intersection"), providing natural defense.
@@ -51,6 +49,8 @@ The combination of the desert light (harsh and shadowless in summer; gentler in 
 
 ## Gaochang Ancient City (高昌故城)
 
+![Kumutage Desert, Xinjiang](/img/destinations/xinjiang-turpan-flaming-mountains-guide/2.webp)
+
 Gaochang (高昌) was the capital of the Gaochang Kingdom (460-640 CE), later a major Tang dynasty administrative center on the northern Silk Road route. It was the largest city in the Turpan area and served as a critical node for the exchange of goods, religions, and ideas between China and the Western regions.
 
 The ruins cover 200+ hectares and preserve significant walls, temple foundations, and the basic urban structure. The site is larger than Jiaohe but less dramatically positioned (flat desert rather than mesa formation).
@@ -59,9 +59,9 @@ The ruins cover 200+ hectares and preserve significant walls, temple foundations
 
 **Entry**: ¥45. Camel carts operate within the site for visitors not wanting to walk the full area.
 
-![Turpan & Flaming Mountains — Bezeklik Thousand Buddha Caves (柏孜克里克千佛洞)](https://images.pexels.com/photos/17476602/pexels-photo-17476602.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Bezeklik Thousand Buddha Caves (柏孜克里克千佛洞)
+
+![Beautiful Landscape, Xinjiang](/img/destinations/xinjiang-turpan-flaming-mountains-guide/3.webp)
 
 Cut into the cliff face above the Mutou River canyon east of the Flaming Mountains, Bezeklik (贝孜克里克) contains some 77 cave temples dating from the 6th-14th centuries CE. The caves were used continuously through Buddhist, Manichaean, and Islamic periods, reflecting the religious diversity of ancient Turpan.
 

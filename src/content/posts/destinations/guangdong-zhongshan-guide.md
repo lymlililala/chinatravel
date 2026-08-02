@@ -13,7 +13,7 @@ tags:
   - day trip
   - history
 description: "Zhongshan in Guangdong is the birthplace of Sun Yat-sen and one of the Pearl River Delta's most underrated cities. This 2026 guide covers the memorial hall, the Lantern Festival, Cuiheng village, local food (¥15–80 per meal), and easy day trip logistics from Guangzhou and Hong Kong."
-ogImage: "https://images.unsplash.com/photo-1598458507479-53336aaea090?w=1200&q=85"
+ogImage: "/img/destinations/guangdong-zhongshan-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -24,7 +24,7 @@ Beyond its historical significance, Zhongshan is a thoroughly pleasant, manageab
 
 ## Why Visit Zhongshan
 
-![Zhongshan Guangdong — Why Visit Zhongshan](https://images.pexels.com/photos/35216087/pexels-photo-35216087.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Shiwannanfengguzao Scenery, Guangdong, Foshan](/img/destinations/guangdong-zhongshan-guide/1.webp)
 
 The honest pitch: Zhongshan works best as a contrast to the larger Pearl River Delta cities. After Guangzhou's sensory overload or Hong Kong's frantic pace, this city of around 3 million feels almost relaxed. The old Cuiheng village where Sun Yat-sen was born has been preserved with genuine care, the food scene rewards adventurous eaters with dishes you won't find elsewhere, and the city's Lantern Festival (Lantern Carnival, held each year in November–December) has become one of the most photographed seasonal events in southern Guangdong.
 
@@ -51,6 +51,8 @@ Zhongshan has hosted this festival since the 1990s and it has grown into one of 
 Festival dates vary annually; the 2026 dates hadn't been confirmed at time of writing but typically run late November through early January. Ticket prices: ¥60–100 depending on which parks you visit. Arrive after dark — 6:30pm onwards — for the full effect.
 
 ## Getting to Zhongshan
+
+![Baomo Garden, Guangdong, Guangzhou](/img/destinations/guangdong-zhongshan-guide/2.webp)
 
 **From Guangzhou:**
 - High-speed train: Guangzhou South (广州南) to Zhongshan station, approximately 25 minutes, tickets ¥35–55. Trains run frequently throughout the day. This is the easiest option.
@@ -89,9 +91,9 @@ Zhongshan has a good range of accommodation options if you want to stay longer t
 - **Mid-range:** Chain hotels (Holiday Inn Express, Novotel, local brands like 7 Days) in the city centre, ¥250–500 per night. The Holiday Inn Zhongshan City Centre tends to get good reviews for location and standard.
 - **Upmarket:** Several boutique properties and the Jinling Hotel offer rooms from ¥600–1,200, with better proximity to attractions and more character.
 
-![Zhongshan Guangdong — Other Attractions Worth Your Time](https://images.pexels.com/photos/4610741/pexels-photo-4610741.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Other Attractions Worth Your Time
+
+![Nanyueyuan Scenery, Guangdong, Guangzhou](/img/destinations/guangdong-zhongshan-guide/3.webp)
 
 **Zhongshan Hot Springs Resort Area (中山温泉):** The city has developed a significant hot spring tourism industry around naturally occurring mineral springs, primarily in the Sanxiang and Sanshui areas. Several large resort-style hotels offer day-use of their hot spring pools for ¥60–150 per person. These are popular with Guangzhou weekend visitors.
 

@@ -11,7 +11,7 @@ tags:
   - practical
   - technology
 description: "Working remotely from China — the VPN reality in 2026, which cities have the best co-working spaces (Shanghai, Shenzhen, Chengdu, Hangzhou), internet speeds and reliability, long-stay visa options, tax implications, and honest advice for digital nomads considering China."
-ogImage: "https://images.pexels.com/photos/4137614/pexels-photo-4137614.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-digital-nomad-guide/cover.webp"
 ---
 
 China is a fascinating and genuinely underrated destination for remote workers — great food, world-class infrastructure, low cost of living by global standards, and interesting cities with active creative communities. It's also the most complicated major country in the world for remote workers from a technical and legal standpoint. This guide addresses both sides honestly.
@@ -19,6 +19,8 @@ China is a fascinating and genuinely underrated destination for remote workers �
 ## Table of contents
 
 ## The Internet Reality: VPN Situation in 2026
+
+![Zhongyuan Temple Scenery, Suzhou](/img/toolkit/china-digital-nomad-guide/1.webp)
 
 Let's be direct about this, because it affects everything.
 
@@ -100,6 +102,8 @@ Emerging option with aggressive policies to attract remote workers and foreign b
 **Budget option:** Many cafes in Chinese cities allow all-day laptop working with minimal purchase requirement. A ¥35 coffee often buys 4–5 hours of comfortable workspace, and the cafe culture in Chengdu and Hangzhou particularly supports this.
 
 ## Visa Options for Long Stays
+
+![West Lake Lingyin Temple, Hangzhou](/img/toolkit/china-digital-nomad-guide/2.webp)
 
 ### Tourist Visa (L Visa)
 30, 60, or 90 days depending on nationality and arrangement. Can be extended at the local PSB (Public Security Bureau) for one additional period. Multiple-entry tourist visas allow you to leave and re-enter.

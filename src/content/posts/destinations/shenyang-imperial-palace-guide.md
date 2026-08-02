@@ -11,7 +11,7 @@ tags:
   - history
   - northeast-china
 description: "Shenyang — the Manchu capital before Beijing. The Mukden (Shenyang) Imperial Palace (盛京皇宫), smaller than Beijing's Forbidden City but in some ways more intimate and authentic, the Fuling Tomb and Zhaoling Tomb UNESCO sites, and what visiting the Qing Dynasty's origin city adds to an understanding of China's last imperial dynasty."
-ogImage: "https://images.pexels.com/photos/37173349/pexels-photo-37173349.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/shenyang-imperial-palace-guide/cover.webp"
 ---
 
 Most visitors to China who care about imperial history make a beeline for Beijing's Forbidden City and stop there. But the Qing Dynasty — the rulers of China's last imperial era, from 1644 to 1912 — didn't begin in Beijing. They began here, in Shenyang, which they called Shengjing (盛京, "Prosperous Capital"). The Manchu people who founded the Qing established their first imperial capital in what is now Liaoning province, and the buildings they left are a different kind of imperial architecture: earlier, rawer, and distinctly non-Chinese in some of their design.
@@ -22,7 +22,7 @@ Understanding Shenyang means understanding something about where the Qing Dynast
 
 ## Mukden Palace (Shenyang Imperial Palace, 沈阳故宫)
 
-![Shenyang — Mukden Palace (Shenyang Imperial Palace, 沈阳故宫)](https://images.pexels.com/photos/28490351/pexels-photo-28490351.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Bei Town Scenery, Liaoning](/img/destinations/shenyang-imperial-palace-guide/1.webp)
 
 The Shenyang Imperial Palace — also known by its Manchu name, Mukden — was built between 1625 and 1636 under Nurhaci and his son Hong Taiji, the founders of the Manchu Qing state. It is a UNESCO World Heritage Site (jointly listed with the Forbidden City in Beijing as "Imperial Palaces of the Ming and Qing Dynasties").
 
@@ -55,8 +55,6 @@ The complex follows a classic Chinese imperial tomb layout — a spirit way line
 
 The autumn foliage here (October–November) is excellent — the old trees lining the spirit way turn gold and red.
 
-![Shenyang — Zhaoling Tomb (昭陵, North Tomb)](https://images.pexels.com/photos/24186299/pexels-photo-24186299.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Zhaoling Tomb (昭陵, North Tomb)
 
 Zhaoling is the tomb of Hong Taiji, who proclaimed the Qing Dynasty in 1636. It's within the city, incorporated into Beiling Park (北陵公园) — a large public park with cherry blossoms in spring.
@@ -71,13 +69,13 @@ Zhaoling is larger than Fuling and better preserved. The **Square City (方城)*
 
 ## The Manchu Heritage Context
 
+![Qian Mountain Scenery, Liaoning](/img/destinations/shenyang-imperial-palace-guide/2.webp)
+
 Why does it matter to visit Shenyang? Partly because the Qing Dynasty ruled China for 268 years and shaped everything from the borders of modern China (Tibet, Xinjiang, Mongolia were all incorporated under Qing expansion) to the cultural practices of the imperial court.
 
 But also because the early Manchu buildings here show something different from the fully Sinicized Qing culture that most China visitors encounter in Beijing. The Manchu language (now nearly extinct), the distinctive armour and weapons in the palace museums, and the military-organization layout of the palace complex show a conqueror people who had their own identity before absorbing and transforming Chinese culture.
 
 For anyone interested in how Chinese civilization has been shaped by non-Chinese peoples, Shenyang is a rewarding stop.
-
-![Shenyang — The 18th September History Museum (九一八历史博物馆)](https://images.pexels.com/photos/29608796/pexels-photo-29608796.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The 18th September History Museum (九一八历史博物馆)
 
@@ -90,6 +88,8 @@ The museum is emotionally heavy, with extensive documentation of the occupation 
 **Location:** Wanghua Road, near the site of the original explosion
 
 ## Shenyang Food
+
+![Wugoujingguangsheli Pagoda Scenery, Liaoning, Shenyang](/img/destinations/shenyang-imperial-palace-guide/3.webp)
 
 Shenyang is the heart of northeastern Chinese (dongbei) cuisine — hearty, salty, and built for cold weather.
 

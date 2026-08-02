@@ -11,7 +11,7 @@ tags:
   - minority-cultures
   - nature
 description: "The Huangguoshu Waterfall (黄果树瀑布) area and the surrounding Buyi (布依族) minority villages in Guizhou — the Huangguoshu Falls (the largest waterfall in China at 77m wide), the water curtain cave behind the falls, Buyi stone-built villages like Shitou Village, and the Silong Gorge walking route through the Huangguoshu scenic area."
-ogImage: "https://images.pexels.com/photos/25309274/pexels-photo-25309274.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/liupanshui-guizhou-guide/cover.webp"
 ---
 
 Guizhou province in southwest China is still underappreciated as a travel destination, though this is changing rapidly. The province is defined by its karst topography — a vast landscape of limestone plateaux, river gorges, waterfalls, and cave systems — and by its extraordinary diversity of ethnic minority cultures: Miao, Buyi, Dong, and dozens of smaller groups who have maintained distinct languages, dress, and customs.
@@ -22,7 +22,7 @@ The Huangguoshu Waterfall area in the southwest of the province is the most acce
 
 ## Huangguoshu Falls (黄果树大瀑布)
 
-![Southwest Guizhou — Huangguoshu Falls (黄果树大瀑布)](https://images.pexels.com/photos/32563113/pexels-photo-32563113.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Waterfall Scenery, Huangguoshu, Guizhou](/img/destinations/liupanshui-guizhou-guide/1.webp)
 
 Huangguoshu is China's most famous waterfall and one of Asia's largest. At peak flow (July–September, monsoon season), the falls are 77.8 metres wide and 77.8 metres high — a coincidence of measurements that the Chinese tourism industry emphasizes heavily. At peak flow, the roar is audible from kilometres away and the spray soaks everything within 200 metres.
 
@@ -84,9 +84,9 @@ The Buyi batik tradition uses hot beeswax applied with a small tool to create ge
 
 Expect ¥50–200 for a genuine piece of hand-made Buyi cloth.
 
-![Southwest Guizhou — Silong Gorge (石龙沟)](https://images.pexels.com/photos/31211666/pexels-photo-31211666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Silong Gorge (石龙沟)
+
+![Tianhetan Waterfall Scenery, Guizhou](/img/destinations/liupanshui-guizhou-guide/2.webp)
 
 The Silong Gorge, accessible from within the Huangguoshu scenic area, is a karst gorge walk that many visitors skip but shouldn't. The gorge path follows a narrow limestone canyon carved by a tributary of the Baishui River, with natural pools, small waterfalls, and vertical cliff faces on both sides.
 
@@ -112,9 +112,9 @@ The nearest city to Huangguoshu is Anshun (45 minutes away by bus), a mid-sized 
 
 **From Lijiang/Yunnan:** Bus or train via Guiyang.
 
-![Southwest Guizhou — Combining with the Rest of Guizhou](https://images.pexels.com/photos/36907667/pexels-photo-36907667.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Combining with the Rest of Guizhou
+
+![Xijiang Miao Village Landscape, Guizhou](/img/destinations/liupanshui-guizhou-guide/3.webp)
 
 Huangguoshu fits naturally into a broader Guizhou itinerary:
 

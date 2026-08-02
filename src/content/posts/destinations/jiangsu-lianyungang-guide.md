@@ -12,7 +12,7 @@ tags:
   - monkey-king
   - coast
 description: "Lianyungang at the eastern terminus of the New Eurasian Land Bridge is home to Flower Fruit Mountain — the mythical home of Sun Wukong (the Monkey King) from Journey to the West — plus dramatic coastal scenery, the longest sea-crossing bridge in China, and a surprising food culture. This guide covers the mountain, the coast, and practical travel details for one of Jiangsu's most distinctive cities."
-ogImage: "https://images.unsplash.com/photo-1499652848871-1527a310b13a?w=1200&q=85"
+ogImage: "/img/destinations/jiangsu-lianyungang-guide/cover.webp"
 ---
 
 Lianyungang (连云港) sits at the northeastern corner of Jiangsu Province, where the Yellow Sea coast meets the last ridges of the Shandong hills. It's the eastern terminus of the New Eurasian Land Bridge — the rail route that runs 10,900km across Central Asia to Rotterdam, making Lianyungang the symbolic starting point of a modern Silk Road.
@@ -25,7 +25,7 @@ The coast is also notable — rocky headlands, offshore islands, and a 6.7km sea
 
 ## Getting to Lianyungang
 
-![Lianyungang Jiangsu — Getting to Lianyungang](https://images.pexels.com/photos/37549586/pexels-photo-37549586.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Gudianmingyuanliu Garden Scenery, Suzhou](/img/destinations/jiangsu-lianyungang-guide/1.webp)
 
 **By high-speed train:**
 - **From Nanjing:** About 2 hours; ¥120–180
@@ -57,8 +57,6 @@ Wu Cheng'en's novel describes the Mountain of Flowers and Fruit as the birthplac
 **Opening hours:** 7:00am–5:30pm  
 **Time required:** 4–5 hours for a full visit including the summit
 
-![Lianyungang Jiangsu — Liandao Island & Coast (连岛)](https://images.pexels.com/photos/8096639/pexels-photo-8096639.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Liandao Island & Coast (连岛)
 
 Liandao is the largest island in Jiangsu Province, connected to the mainland by the 6.7km Liandao Bridge.
@@ -74,11 +72,11 @@ The island's restaurants are supplied directly by the fishing harbor on the nort
 
 ## The New Eurasian Land Bridge Terminal
 
+![Shi Lake Scenery, Jiangsu, Suzhou](/img/destinations/jiangsu-lianyungang-guide/2.webp)
+
 Lianyungang's role as the eastern terminus of the New Eurasian Land Bridge is commemorated at the port area. A monument marking the zero-kilometer point stands near the container terminal — symbolically important for understanding China's Belt and Road Initiative and the modern Silk Road logistics.
 
 The scale of the container port — one of China's top 10 by throughput — is impressive. Zhongyuan Square at the port entrance provides a viewpoint over the container yards.
-
-![Lianyungang Jiangsu — Lianyungang Old City & Food](https://images.pexels.com/photos/28998213/pexels-photo-28998213.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Lianyungang Old City & Food
 
@@ -93,6 +91,8 @@ About 10km from the modern city center, the old town of Haizhou has preserved a 
 **Restaurant strip:** The area around Yanhe Road (沿河路) near the old town has the best concentration of authentic local restaurants.
 
 ## Other Sights
+
+![Yuantouzhu Scenery, Jiangsu, Wuxi](/img/destinations/jiangsu-lianyungang-guide/3.webp)
 
 **Kongwang Mountain (孔望山):**
 A small hill about 5km from the city center with an extraordinary secret — a cliff face carved with Buddhist images dating to the Eastern Han Dynasty (1st–2nd century AD), making these some of the earliest Buddhist stone carvings in China, predating the better-known cave sites by centuries. Entry ¥30.

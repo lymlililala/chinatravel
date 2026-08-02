@@ -10,6 +10,7 @@ faq:
   - question: "How old is Chinese architecture?"
     answer: "Chinese architectural traditions stretch back over 3,000 years, with consistent principles of wooden frames, courtyards and axial planning visible from the Bronze Age through the imperial dynasties. Surviving timber buildings date mainly from the Tang dynasty onward, while later Ming and Qing structures like the Forbidden City are the best preserved."
 description: "Understand Chinese architecture as a traveller — the logic of the courtyard house, the hierarchy of the imperial city, why all traditional buildings have upturned roof corners, the difference between Tang/Song and Ming/Qing architectural aesthetics, the regional variations from Fujian to Shanxi to Yunnan, and which buildings are the most important to seek out."
+ogImage: "/img/toolkit/china-architecture-history-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "architecture", "traditional-architecture", "forbidden-city", "courtyard", "pagoda", "hui-style", "tang-dynasty"]
@@ -24,6 +25,8 @@ Understanding these principles transforms a visit to any Chinese historic buildi
 ---
 
 ## The Fundamental Principles
+
+![Panlongshan Great Wall Scenery, Shandong](/img/toolkit/china-architecture-history-guide/1.webp)
 
 ### The Post-and-Beam Frame (梁架结构)
 
@@ -85,6 +88,8 @@ The **Naxi of Lijiang** developed a hybrid style combining Tibetan (heavy timber
 ---
 
 ## Key Buildings Not to Miss
+
+![Guojiasenlin Park, Zhangjiajie](/img/toolkit/china-architecture-history-guide/2.webp)
 
 **Tang Dynasty (618–907 CE):** Foguang Temple (佛光寺) on Wutai Mountain — the oldest surviving wooden structure in China (857 CE); its soaring roof proportion is noticeably different from later dynasty buildings.
 

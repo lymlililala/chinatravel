@@ -12,7 +12,7 @@ tags:
   - planning
   - beginners
 description: "A complete 10-day China budget itinerary — the route (Beijing 3 nights, Xi'an 2 nights, Chengdu 3 nights, Chongqing 2 nights), actual day-by-day budgets showing ¥300/day is genuinely achievable without missing the major highlights, budget accommodation options at each stop, cheapest ways to eat, and the specific trains and prices to book."
-ogImage: "https://images.unsplash.com/photo-1437846972679-9e6e537be46e?w=1200&q=85"
+ogImage: "/img/toolkit/china-budget-itinerary-10-days/cover.webp"
 ---
 
 This is a real budget itinerary for China — one that covers four of the country's best cities, hits the major highlights, and keeps daily spending at or under ¥300 per person per day. That's a target, not a guarantee, and some days will be higher (the Terracotta Warriors and the Great Wall are worth their entry fees). The point is that this itinerary is genuinely achievable without either missing the best of China or suffering unnecessarily.
@@ -22,6 +22,8 @@ The route: Beijing (3 nights) → Xi'an (2 nights) → Chengdu (3 nights) → Ch
 ## Table of contents
 
 ## Before You Go: Booking the Trains
+
+![Scenery, Jiuzhaigou, Sichuan](/img/toolkit/china-budget-itinerary-10-days/1.webp)
 
 **Book these trains as early as possible — at least 2-3 weeks ahead for travel in peak season (May, October):**
 
@@ -36,6 +38,8 @@ The route: Beijing (3 nights) → Xi'an (2 nights) → Chengdu (3 nights) → Ch
 **Book via:** Trip.com (formerly Ctrip) — the English-language interface works for foreigners booking trains in China. Or use the 12306.cn official system with a Chinese bank card.
 
 ## Day-by-Day Itinerary
+
+![Lvyou Scenery, Lijiang](/img/toolkit/china-budget-itinerary-10-days/2.webp)
 
 ### Days 1-3: Beijing
 

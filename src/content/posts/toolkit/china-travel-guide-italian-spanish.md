@@ -11,7 +11,7 @@ tags:
   - european-travellers
   - beginners
 description: "China travel guide for Italian and Spanish passport holders — 15-day visa-free entry, direct flights from Rome, Milan, and Madrid, key cultural differences from Southern Europe, setting up mobile payments, and why Italy-Spain travellers often find China's food culture surprisingly approachable."
-ogImage: "https://images.unsplash.com/photo-1536098561742-ca998e48cbcc?w=1200&q=85"
+ogImage: "/img/toolkit/china-travel-guide-italian-spanish/cover.webp"
 ---
 
 Italians and Spanish visitors often have an easier time adjusting to China than other Europeans — not because the countries are similar (they're not), but because certain underlying values around food, family, and the enjoyment of being alive translate remarkably well. Eating is a serious activity in both cultures. The idea that a humble noodle dish from a specific city is worth travelling for makes complete sense to someone from Bologna or San Sebastián.
@@ -23,6 +23,8 @@ With visa-free access now in place for both EU passport holders, the administrat
 ---
 
 ## Visa Rules for Italian and Spanish Passport Holders
+
+![Huanghuachengshui Great Wall Scenery, Beijing](/img/toolkit/china-travel-guide-italian-spanish/1.webp)
 
 ### 15-Day Visa-Free Entry
 
@@ -85,6 +87,8 @@ Revolut and Wise cards (very popular among young Italian and Spanish travellers)
 ---
 
 ## Cultural Connections: Why Southern Europeans Often Find China Approachable
+
+![Gudianmingyuanliu Garden Scenery, Suzhou](/img/toolkit/china-travel-guide-italian-spanish/2.webp)
 
 ### Food as Identity
 

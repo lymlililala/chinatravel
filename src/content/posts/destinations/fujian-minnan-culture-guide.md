@@ -12,7 +12,7 @@ tags:
   - minnan
   - heritage
 description: "Southern Fujian's Minnan culture is one of China's richest — a coastal civilization that launched the great maritime trade routes of Asia. Quanzhou's UNESCO-listed Maritime Silk Road heritage and Zhangzhou's flower fair traditions tell a story of openness, resilience, and distinct cultural identity. This 2026 guide covers the full Minnan heritage trail from Quanzhou to Zhangzhou."
-ogImage: "https://images.pexels.com/photos/36194895/pexels-photo-36194895.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/fujian-minnan-culture-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -23,7 +23,7 @@ The cultural heartland is the triangle of Quanzhou, Zhangzhou, and Xiamen — th
 
 ## Quanzhou: The Maritime Silk Road City
 
-![Minnan Culture Fujian — Quanzhou: The Maritime Silk Road City](https://images.pexels.com/photos/20818504/pexels-photo-20818504.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Tailao Mountain Scenery, Fujian](/img/destinations/fujian-minnan-culture-guide/1.webp)
 
 ### Historical Context
 
@@ -82,8 +82,6 @@ South of Zhangzhou, the famous Hakka earthen roundhouses (土楼, tulou) cluster
 
 Getting there: Bus from Zhangzhou to Nanjing takes about 1 hour (¥15). Tours from Zhangzhou city start from ¥100/person.
 
-![Minnan Culture Fujian — The Quanzhou-Zhangzhou Connection](https://images.pexels.com/photos/38109110/pexels-photo-38109110.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Quanzhou-Zhangzhou Connection
 
 The two cities are not just historically related — their languages are mutually comprehensible dialects of Southern Min (though some vocabulary differs). This shared linguistic identity means they share temple circuits, deity veneration traditions, and folk music forms.
@@ -93,6 +91,8 @@ The most important shared cultural element is **Nanguan music (南管)**: an anc
 Nanguan performances happen in Quanzhou at the Quanzhou Nanguan Museum (南管博物馆, free entry) and at occasional community performances. Ask your guesthouse for current performance schedules.
 
 ## Practical: Combining Quanzhou and Zhangzhou
+
+![Wuyi Mountain Scenery, Fujian](/img/destinations/fujian-minnan-culture-guide/2.webp)
 
 The Minnan cultural trail works well as a 4–5 day circuit:
 
@@ -104,9 +104,9 @@ The Minnan cultural trail works well as a 4–5 day circuit:
 
 Combined tickets for Quanzhou's UNESCO sites: approximately ¥80 for access to multiple locations.
 
-![Minnan Culture Fujian — Getting to Quanzhou and Zhangzhou](https://images.pexels.com/photos/38109196/pexels-photo-38109196.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting to Quanzhou and Zhangzhou
+
+![Moya Stone Carving Scenery, Fujian, Quanzhou](/img/destinations/fujian-minnan-culture-guide/3.webp)
 
 **Quanzhou**:
 - From Xiamen North (厦门北): HSR 30 minutes, ¥30–45. Very frequent service.

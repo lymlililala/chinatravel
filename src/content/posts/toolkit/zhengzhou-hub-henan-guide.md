@@ -11,7 +11,7 @@ tags:
   - itinerary
   - central-china
 description: "Zhengzhou is the transport hub for exploring Henan province — why most visitors pass through without staying but should consider one night, the direct HSR connections to Luoyang (45 mins), Shaolin Temple and Kaifeng (1 hour), arriving on the Zhengzhou-Wuhan and Beijing-Guangzhou main lines, and the Yellow River Scenic Area just outside the city."
-ogImage: "https://images.pexels.com/photos/1586205/pexels-photo-1586205.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/zhengzhou-hub-henan-guide/cover.webp"
 ---
 
 Most visitors to Henan pass through Zhengzhou without stopping — which is understandable, because the city itself is not a major tourist destination. But dismissing it entirely is a mistake. Zhengzhou is one of China's great railway hubs, positioned at the intersection of the Beijing-Guangzhou and the Xuzhou-Lanzhou high-speed lines. This means it's genuinely central in the Chinese rail network, and everything in Henan province is within 1 hour by train. If you're doing a central China itinerary — Shaolin Temple, Luoyang, Kaifeng, the Yellow River — spending one night in Zhengzhou as a base makes the logistics significantly simpler.
@@ -19,6 +19,8 @@ Most visitors to Henan pass through Zhengzhou without stopping — which is unde
 ## Table of contents
 
 ## Zhengzhou's Rail Position
+
+![Longmen Grottoes, Henan, Luoyang](/img/toolkit/zhengzhou-hub-henan-guide/1.webp)
 
 Zhengzhou is where two of China's busiest HSR corridors cross:
 - **Beijing-Guangzhou High-Speed Railway** (north-south, the main national spine)
@@ -44,6 +46,8 @@ The city itself has improved considerably as a tourist destination over the past
 **Shang Dynasty City Ruins (商城遗址)**: Zhengzhou was literally the capital of the Shang dynasty — one of China's first historical dynasties (1600–1046 BCE). Sections of the ancient earthen walls from this period survive in the old city. They're not flashily presented, but walking past 3,600-year-old walls in the middle of a modern Chinese city is genuinely unusual.
 
 ## Day Trips from Zhengzhou
+
+![Bali Valley Scenery, Henan](/img/toolkit/zhengzhou-hub-henan-guide/2.webp)
 
 This is where Zhengzhou earns its keep. Every major Henan attraction is accessible as a day trip:
 

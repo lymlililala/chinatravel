@@ -13,7 +13,7 @@ tags:
   - dai-culture
   - nature
 description: "Xishuangbanna in southern Yunnan is China's only tropical rainforest region — a place of wild elephants, Buddhist temples in golden spires, Dai minority food culture and a river border with Myanmar and Laos. This 2026 guide covers the Wild Elephant Valley, Jinghong city, border town Mengla, transport from Kunming, the Dai Water Splashing Festival and practical tips for this unique corner of southwest China."
-ogImage: "https://images.unsplash.com/photo-1772100124638-4cc57969ef26?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwxfHxYaXNodWFuZ2Jhbm5hJTIwWXVubmFufGVufDB8MHx8fDE3ODE5MzczMDh8MA&ixlib=rb-4.1.0&w=1200&q=85&fit=crop"
+ogImage: "/img/destinations/yunnan-xishuangbanna-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -26,7 +26,7 @@ This is one of the most surprising regions in the country. The combination of ge
 
 ## Jinghong City: The Gateway
 
-![Xishuangbanna Yunnan — Jinghong City: The Gateway](https://images.pexels.com/photos/12793459/pexels-photo-12793459.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Erhai Lake Scenery, Yunnan, Dali](/img/destinations/yunnan-xishuangbanna-guide/1.webp)
 
 Xishuangbanna's capital, Jinghong (景洪), sits on the Mekong River — called the Lancang River (澜沧江) in China — and has a relaxed, slightly tropical atmosphere unlike any other Chinese prefecture capital. The streets are lined with palm trees, the food is dominated by Dai flavors, and Buddhist temple complexes rise above the riverside parks.
 
@@ -62,8 +62,6 @@ The "Treetop Walkway" (树冠走廊) is a suspended bridge system through the fo
 
 **Tickets:** ¥80 ($11). Open daily 07:30–18:00. Budget a full day.
 
-![Xishuangbanna Yunnan — Dai Minority Culture and Villages](https://images.pexels.com/photos/34439498/pexels-photo-34439498.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Dai Minority Culture and Villages
 
 ### Manting Village (曼听傣族村)
@@ -93,6 +91,8 @@ The festival draws hundreds of thousands of visitors from across China; accommod
 
 ## Xishuangbanna Food
 
+![Dongchuan Red Soil Scenery](/img/destinations/yunnan-xishuangbanna-guide/2.webp)
+
 Dai cuisine is distinctive in the Chinese context: herb-heavy, fish-sauce-flavoured, featuring lemongrass, galangal and pandan leaves. It's the closest thing to Thai food you'll find in China, and it's excellent.
 
 **Must-eat:**
@@ -103,8 +103,6 @@ Dai cuisine is distinctive in the Chinese context: herb-heavy, fish-sauce-flavou
 - **Pu-erh tea:** Drink it throughout the day as locals do
 
 **Where to eat:** Manting Road in Jinghong has the highest concentration of Dai restaurants. A full dinner for two costs ¥80–¥150 ($11–$21).
-
-![Xishuangbanna Yunnan — Getting to Xishuangbanna](https://images.pexels.com/photos/16030624/pexels-photo-16030624.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting to Xishuangbanna
 
@@ -121,6 +119,8 @@ Dai cuisine is distinctive in the Chinese context: herb-heavy, fish-sauce-flavou
 No direct bus or rail. Fly via Kunming.
 
 ## Getting Around
+
+![Cai Landscape, Yunnan](/img/destinations/yunnan-xishuangbanna-guide/3.webp)
 
 **Tuk-tuks (摩托三轮):** The standard short-distance transport in Jinghong; ¥5–¥15 per ride, negotiated upfront.
 

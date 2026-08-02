@@ -21,7 +21,7 @@ tags:
   - practical
   - beginners
 description: "How much does China cost in 2026 — realistic daily budgets for budget travel (¥200-350/day), mid-range (¥500-800/day), and comfortable travel (¥1200+/day). The mobile payment reality (cash is almost obsolete in cities), finding ATMs that accept foreign cards, currency exchange rates and best places to exchange, and which cities are most and least expensive."
-ogImage: "https://images.pexels.com/photos/4386366/pexels-photo-4386366.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-currency-budget-guide/cover.webp"
 ---
 
 China is a remarkably affordable destination by Western standards, but the degree of affordability depends entirely on how you travel. You can eat very well for ¥50/day and sleep decently for ¥80/night, or you can pay ¥800/night for a boutique hotel and ¥300 for dinner. The range is enormous. Here's how to calibrate your budget and navigate the payment landscape.
@@ -29,6 +29,8 @@ China is a remarkably affordable destination by Western standards, but the degre
 ## Table of contents
 
 ## How Much China Costs in 2026
+
+![Forbidden City Scenery, Beijing](/img/toolkit/china-currency-budget-guide/1.webp)
 
 ### Budget Travel: ¥200-350/day
 
@@ -115,6 +117,8 @@ China ATMs are not universally compatible with foreign bank cards — many domes
 **Foreign transaction fees:** Your home bank charges foreign transaction fees (typically 1-3%) plus a fixed ATM fee (¥30-50 equivalent). A Wise card, Revolut, or Charles Schwab account avoids most of these fees.
 
 ## Currency Exchange
+
+![Forbidden City Panorama Interior, Beijing](/img/toolkit/china-currency-budget-guide/2.webp)
 
 **Best exchange rates:**
 1. **Bank of China counters** at international airports — better rates than currency exchange desks

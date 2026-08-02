@@ -14,7 +14,7 @@ tags:
   - "gansu"
   - "northwest-china"
 description: "Discover surreal Mars-like terrain in Mangya, the summer pastures of Nalati, and the Silk Road grottoes of Dunhuang—a guide to northwest China's wildest"
-ogImage: "https://images.pexels.com/photos/35027149/pexels-photo-35027149.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/beyond-the-gobi-northwest-china-landscapes/cover.webp"
 faq:
   - question: "Do I need a special permit to visit Mangya or Nalati?"
     answer: "No special permit is required for Mangya or Nalati. However, if you plan to travel to certain border areas in Xinjiang (e.g., near Kashgar), you may need a Frontier Pass (边防证). Always check current regulations before your trip."
@@ -34,11 +34,11 @@ China's northwest is a land of extremes—where scorching deserts meet snow-capp
 
 ## Mangya: China's Martian Landscape
 
+![Canglangting, Suzhou](/img/destinations/beyond-the-gobi-northwest-china-landscapes/1.webp)
+
 Deep in the Qaidam Basin of Qinghai Province, the town of Mangya (茫崖, Máng Yá) feels like a portal to another planet. Here, wind and time have sculpted a series of surreal desert landforms that rival the American Southwest or even Mars.
 
 ### The Saturn Rings
-
-![Aerial view of concentric ring-shaped ridges in the desert, resembling Saturn's rings](https://images.pexels.com/photos/20337593/pexels-photo-20337593.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 The most famous feature is the "Saturn Ring" (土星环, Tǔxīng Huán)—a series of concentric, elliptical ridges stretching for kilometers. Formed over millions of years, alternating soft and hard sedimentary layers were tilted by tectonic uplift, then eroded by relentless winds. The harder rock became raised rings, while softer rock eroded into grooves. You can see these rings on both sides of National Highway G315 near Old Mangya.
 
@@ -63,8 +63,6 @@ Mangya is also home to some of China's most spectacular yardangs—wind-carved r
 
 From the stark deserts of Qinghai, fly north to Xinjiang's Ili Valley, where the **Nalati Grassland** (那拉提草原, Nàlātí Cǎoyuán) offers a complete contrast. At an elevation of around 1,800 meters, this alpine meadow is known as the "Sky Grassland"—a sea of green surrounded by snow-capped Tianshan peaks.
 
-![Vast green meadow dotted with white sheep, with snowy mountains in the background](https://images.pexels.com/photos/35027149/pexels-photo-35027149.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ### What to See and Do
 
 - **Summer flowers**: From June to August, the meadows explode with wildflowers—yellow potentilla, blue gentians, and purple irises. The air is thick with the scent of grass and blossoms.
@@ -84,8 +82,6 @@ From the stark deserts of Qinghai, fly north to Xinjiang's Ili Valley, where the
 ## Dunhuang: Where Desert Meets Devotion
 
 No trip to northwest China is complete without Dunhuang (敦煌, Dūnhuáng), the ancient oasis that guarded the Silk Road. Surrounded by the Gobi Desert and the Kumtag Sand Sea, Dunhuang is both a natural wonder and a cultural treasure.
-
-![The crescent-shaped lake of Yueyaquan nestled in the sand dunes of Mingsha Mountain at sunset](https://images.pexels.com/photos/33412586/pexels-photo-33412586.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ### The Mogao Caves
 
@@ -117,6 +113,8 @@ Dunhuang was the westernmost outpost of the Han Dynasty. Visit **Yumen Pass** (�
 
 ## Suggested Itinerary: 10-Day Northwest Loop
 
+![River Scenery, Suzhou](/img/destinations/beyond-the-gobi-northwest-china-landscapes/2.webp)
+
 This loop combines the best of Gansu and Qinghai, hitting Mangya, Dunhuang, and Nalati in a logical route.
 
 | Day | Destination | Highlights |
@@ -142,6 +140,8 @@ For more route ideas, browse our [China itineraries](/tags/itinerary).
 - **November–March**: Cold and dry. Some mountain roads may close. Not recommended for first-time visitors.
 
 ## Practical Information for International Travelers
+
+![Shizilin, Suzhou](/img/destinations/beyond-the-gobi-northwest-china-landscapes/3.webp)
 
 ### Visas
 
@@ -183,8 +183,6 @@ For more culinary adventures, see our [food guide](/tags/food).
 - **Learn a few Chinese phrases**: "Hello" (你好, nǐ hǎo), "thank you" (谢谢, xièxiè), "how much?" (多少钱, duōshao qián).
 - **Respect local customs**: In Xinjiang, avoid photographing people without permission. In Buddhist sites, dress modestly.
 - **Book ahead**: Mogao Caves tickets and popular hotels sell out weeks in advance.
-
-![A camel caravan crossing the desert dunes near Dunhuang at golden hour](https://images.pexels.com/photos/33566027/pexels-photo-33566027.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 China's northwest is a land of superlatives—the driest, the most colorful, the most surreal. Whether you're standing on a Saturn ring in Mangya, breathing the crisp air of Nalati, or tracing a thousand-year-old mural in Dunhuang, you'll understand why this region has captivated travelers for centuries. Start planning your journey today, and let the landscapes of the Silk Road rewrite your definition of beauty.
 

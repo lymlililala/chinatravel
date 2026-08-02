@@ -13,9 +13,10 @@ tags:
   - silk road
   - hexi corridor
 description: "Complete guide to Gansu Province — the essential Silk Road corridor connecting China to Central Asia. Lanzhou's Yellow River noodles, Maiji Mountain's extraordinary cliff-face Buddhist sculptures, and the Hexi Corridor route to Dunhuang."
+ogImage: "/img/destinations/lanzhou-gansu-guide/cover.webp"
 ---
 
-![Dunhuang Crescent Moon Lake — the oasis spring surrounded by singing sand dunes, with the Buddhist pagodas reflected in the perfectly clear water](https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=1200&q=85)
+
 *Dunhuang Crescent Moon Lake — a spring surrounded by 1,700-metre sand dunes for 2,000 years without being engulfed, a natural miracle at the Silk Road's western gateway*
 
 Gansu Province (甘肃) is the neck of the bottle — the geographic corridor through which all Silk Road trade between China and Central Asia passed for 2,000 years. The Hexi Corridor (河西走廊), a 1,000 km river valley between the Tibetan Plateau and the Gobi Desert, contains the most concentrated sequence of historic sites in China outside Xi'an: Buddhist cave temples, beacon towers, Han Dynasty fortifications, and the landscape of the ancient routes.
@@ -23,6 +24,8 @@ Gansu Province (甘肃) is the neck of the bottle — the geographic corridor th
 ## Table of contents
 
 ## Lanzhou (兰州)
+
+![Baita Mountain Scenery, Gansu, Lanzhou](/img/destinations/lanzhou-gansu-guide/1.webp)
 
 The Yellow River capital — the only major city in China through which the Yellow River runs. The riverside is developed as a continuous park; the water is brown with loess sediment from the plateau above.
 
@@ -40,10 +43,11 @@ Home of the **Bronze Galloping Horse of Gansu (马踏飞燕)** — a Han Dynasty
 
 ---
 
-![Maiji Mountain Grottoes — the sheer cliff face of the sandstone haystack mountain covered with 221 cave openings and enormous Buddha sculptures, walkways visible on the rock face](https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=1200&q=85)
 *Maiji Mountain Grottoes — 221 caves carved into a sheer 142-metre cliff face, with clay and stucco sculptures up to 15 metres tall visible from across the valley*
 
 ## Maiji Mountain Grottoes (麦积山石窟)
+
+![Mogao Caves, Gansu, Dunhuang](/img/destinations/lanzhou-gansu-guide/2.webp)
 
 50 km southeast of Tianshui (天水) — one of the four great Buddhist cave complexes of China. The name means "haystack mountain" — the shape of the enormous sandstone butte is exactly that of a haystack, and the 221 caves are carved horizontally into its sheer face across multiple levels, connected by external walkways bolted into the rock face.
 
@@ -56,6 +60,8 @@ Home of the **Bronze Galloping Horse of Gansu (马踏飞燕)** — a Han Dynasty
 ---
 
 ## The Hexi Corridor Route
+
+![Singing Sand Dunes, Gansu, Dunhuang](/img/destinations/lanzhou-gansu-guide/3.webp)
 
 The 1,000 km route from Lanzhou northwest to Dunhuang passes through:
 

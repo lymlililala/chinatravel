@@ -18,7 +18,7 @@ tags:
   - jade-market
   - kowloon
 description: "The best night markets in Hong Kong: Temple Street, the Ladies' Market in Mong Kok, Fa Yuen Street and Jade Market — hours, haggling tips and MTR directions."
-ogImage: "https://images.pexels.com/photos/25662349/pexels-photo-25662349.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/hong-kong-night-markets-guide/cover.webp"
 faq:
   - question: "What is the best night market in Hong Kong?"
     answer: "Temple Street Night Market in Jordan–Yau Ma Tei is the most atmospheric and the best all-rounder: stalls, fortune tellers, dai pai dong food and Cantonese opera in one 600-metre stretch. For clothing and souvenirs at lower prices, the Ladies' Market in Mong Kok is the better choice."
@@ -42,7 +42,7 @@ This guide covers each market — what to buy, when to go, and how to get there 
 
 ## Temple Street Night Market
 
-![Hong Kong Night Markets — Temple Street Night Market](https://images.pexels.com/photos/946630/pexels-photo-946630.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Shilihualang Scenery, Zhangjiajie, Hunan](/img/destinations/hong-kong-night-markets-guide/1.webp)
 
 Temple Street is the night market most visitors mean when they say "the Hong Kong night market", and it earns the status. Between roughly 16:00 and midnight, a 600-metre stretch of Temple Street in Jordan–Yau Ma Tei fills with awning-covered stalls selling electronics accessories, watches, lighters, clothing and leather goods. Around the stalls, the market's stranger elements operate: fortune tellers reading palms and birth charts at folding tables, elderly enthusiasts singing Cantonese opera under portable lamps at the northern end, and open-air seafood restaurants spilling tables onto the side streets.
 
@@ -66,9 +66,9 @@ This is the highest-volume, most tourist-oriented of Hong Kong's night markets. 
 
 **Hours:** Unusually for a night market, stalls trade from late morning (around 11:00) until 23:30. The evening atmosphere is better, but the midday version is less crowded.
 
-![Hong Kong Night Markets — Fa Yuen Street](https://images.pexels.com/photos/927493/pexels-photo-927493.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Fa Yuen Street
+
+![Tianzi Mountain Scenery, Zhangjiajie, Hunan](/img/destinations/hong-kong-night-markets-guide/2.webp)
 
 Two blocks east of the Ladies' Market, Fa Yuen Street is the local counterweight — a street market that serves Mong Kok residents more than visitors. The southern section (between Dundas Street and Argyle Street) is a wet-and-dry street market: fruit and vegetable stalls, butchers, dried goods, and inexpensive clothing on rails. The northern section, around Mong Kok Road, has become known as **Sneakers Street** — a dense row of sportswear shops selling current and last-season trainers, often at prices below mall retail.
 
@@ -80,6 +80,8 @@ Fa Yuen Street has less spectacle than Temple Street and less tourist stock than
 
 ## The Jade Market
 
+![The Bund Scenery](/img/destinations/hong-kong-night-markets-guide/3.webp)
+
 The Jade Market on Kansu Street in Yau Ma Tei — at the northern end of Temple Street — is a covered hall of around 400 stalls selling jade in every form: pendants, bangles, beads, carvings, and loose stones, alongside pearls, amber and other gemstones. It operates during the day rather than at night (roughly 10:00–16:00), but it pairs naturally with a Temple Street evening: arrive mid-afternoon for the jade, walk south into the night market as the stalls open.
 
 Jade holds a particular place in Cantonese culture — worn for protection, given to mark births and birthdays — and the market is worth visiting even with no intention to buy. The stalls at the entrance carry the cheaper, more tourist-oriented stock; the dealers further in trade more serious pieces.
@@ -87,8 +89,6 @@ Jade holds a particular place in Cantonese culture — worn for protection, give
 **A caution on buying:** Jade grading is genuinely difficult, treated and dyed stones are common, and certificates are easily fabricated. Unless jade quality can be assessed with confidence, keep purchases to inexpensive pieces — small carved pendants and bead bracelets in the ¥100–¥500 range — where the risk-reward calculation is acceptable.
 
 **Getting there:** MTR Yau Ma Tei Station, Exit C — a five-minute walk.
-
-![Hong Kong Night Markets — Eating at the Night Markets](https://images.pexels.com/photos/5847870/pexels-photo-5847870.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Eating at the Night Markets
 

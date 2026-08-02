@@ -1,7 +1,7 @@
 ---
 title: "Beijing Hutong and Siheyuan Guide: Living Inside the Ancient Capital's Alleyways"
 description: "Complete guide to exploring Beijing's hutong alleyways and siheyuan courtyard houses. The best hutong areas, what to look for architecturally, eating in the alleys, staying in a courtyard hotel, and what's disappearing."
-ogImage: "https://images.pexels.com/photos/5443953/pexels-photo-5443953.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/beijing-hutong-courtyard-house-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Beijing hutong", "siheyuan", "Beijing history", "hutong tour", "courtyard hotel Beijing", "traditional Beijing"]
@@ -9,9 +9,9 @@ tags: ["Beijing hutong", "siheyuan", "Beijing history", "hutong tour", "courtyar
 
 The hutong (胡同) alleyways of Beijing's inner city represent an urban form that has been home to the capital's residents for over 700 years — a street-level democratic counterpart to the imperial scale of the Forbidden City just blocks away. Walking the hutong is walking through a different Beijing: human-scaled, neighborhood-structured, full of small commerce, bicycle traffic, wisteria hanging over old walls, and the sound of mahjong tiles from behind a half-open door.
 
-![Beijing Hutong Siheyuan — What Hutong Are](https://images.pexels.com/photos/2884576/pexels-photo-2884576.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## What Hutong Are
+
+![Courtyard House, Beijing](/img/destinations/beijing-hutong-courtyard-house-guide/1.webp)
 
 Hutong are the narrow lanes that connect the residential compounds of old Beijing. The character 胡同 (hú tòng) originated from the Mongolian word for "water well" — the Yuan dynasty (Mongol) city that preceded Ming Beijing organized residential districts around shared wells. The lanes between compounds were functional, not decorative.
 
@@ -36,9 +36,9 @@ The western part of the old city (Xicheng) has arguably the finest surviving hut
 ### The area near the Drum Tower (鼓楼 and 钟楼)
 A cluster of hutong between the Drum Tower and the southern shore of Houhai Lake has become Beijing's most interesting neighborhood for food and drink within a traditional setting — not the tourist commercialism of Nanluoguxiang, but independently run cafes and restaurants within hutong compounds.
 
-![Beijing Hutong Siheyuan — Courtyard Hotel Stays](https://images.pexels.com/photos/6836370/pexels-photo-6836370.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Courtyard Hotel Stays
+
+![Forbidden City Panorama Interior, Beijing](/img/destinations/beijing-hutong-courtyard-house-guide/2.webp)
 
 Staying in a converted siheyuan courtyard hotel is one of the most distinctive accommodation experiences in Beijing. The category ranges from simple guesthouses (¥200–400/night for a courtyard room) to luxury properties (¥1,500–5,000/night for a full private courtyard):
 
@@ -50,6 +50,8 @@ Staying in a converted siheyuan courtyard hotel is one of the most distinctive a
 
 ## Food in the Hutong
 
+![Tiananmen, Beijing](/img/destinations/beijing-hutong-courtyard-house-guide/3.webp)
+
 The best eating in old Beijing is in the hutong:
 
 **Douzhi and Jiaoquan (豆汁 and 焦圈)**: Fermented mung bean juice with crispy ring pastry — the classic Beijing breakfast of the hutong generation. Acquired taste (the douzhi is quite sour). Look for the old state-run snack shops in Xicheng district.
@@ -59,8 +61,6 @@ The best eating in old Beijing is in the hutong:
 **Huguosi Xiaochi (护国寺小吃)**: A row of small restaurants near Huguosi Street (Line 4, Ping'anli station) specializing in traditional Beijing snacks — pea jelly (豌豆黄), tang hulu (糖葫芦, candied hawthorn), salty soy milk soup.
 
 **Xiuhua (修化) area restaurants**: The lanes around Shichahai have excellent Sichuan and Yunnan restaurants that have moved into hutong settings — often better quality and better value than tourist-facing equivalents.
-
-![Beijing Hutong Siheyuan — What to Notice Architecturally](https://images.pexels.com/photos/4664810/pexels-photo-4664810.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## What to Notice Architecturally
 

@@ -1,7 +1,7 @@
 ---
 title: "Longmen Grottoes Guide: Luoyang's Buddhist Masterpiece & Giant Vairocana Buddha"
 description: "Explore the Longmen Grottoes near Luoyang — one of China's greatest Buddhist cave complexes, featuring the magnificent 17-metre Vairocana Buddha, over 100,000 carved figures spanning 400 years of Tang dynasty Buddhist art, and the Yi River canyon setting that makes it unique among China's Four Great Grottoes."
-ogImage: "https://images.pexels.com/photos/34509182/pexels-photo-34509182.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/henan-longmen-grottoes-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Henan"
 tags: ["henan", "luoyang", "longmen-grottoes", "buddhist-art", "tang-dynasty", "vairocana-buddha", "UNESCO", "cave-temples", "sculpture"]
@@ -15,9 +15,9 @@ The highlight is the **Fengxian Si Temple** and its colossal **Vairocana Buddha*
 
 ---
 
-![Longmen Grottoes — The Historical Context](https://images.pexels.com/photos/33457680/pexels-photo-33457680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Historical Context
+
+![Song Mountain Scenery, Henan](/img/destinations/henan-longmen-grottoes-guide/1.webp)
 
 **Longmen (龙门)** means Dragon Gate — named for the gap in the limestone cliffs that the Yi River passes through, which resembles the gateway of a legendary dragon's residence.
 
@@ -27,9 +27,9 @@ The carving continued sporadically under subsequent dynasties but reached its gr
 
 ---
 
-![Longmen Grottoes — The Key Caves and Sculptures](https://images.pexels.com/photos/32325843/pexels-photo-32325843.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Key Caves and Sculptures
+
+![Bali Valley Scenery, Henan](/img/destinations/henan-longmen-grottoes-guide/2.webp)
 
 ### Fengxian Si (奉先寺): The Supreme Masterwork
 
@@ -61,9 +61,9 @@ Several reliefs originally in these caves depicting imperial processions were **
 
 ---
 
-![Longmen Grottoes — Walking the Site](https://images.pexels.com/photos/20422002/pexels-photo-20422002.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Walking the Site
+
+![Guanlin Temple Scenery, Henan, Luoyang](/img/destinations/henan-longmen-grottoes-guide/3.webp)
 
 The main tourist route follows the west bank of the Yi River from south to north — a 1.5 km path past the caves at cliff level, with the river to the right and the cave entrances and staircases to the left. The route then crosses the river on a bridge and returns along the east bank path, which offers the best panoramic views of the entire west cliff face.
 

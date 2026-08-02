@@ -1,7 +1,7 @@
 ---
 title: "Yangzhou Gardens & Grand Canal: Salt Merchants' Legacy & Huaiyang Cuisine"
 description: "Explore Yangzhou in Jiangsu — the ancient salt-trading capital on the Grand Canal, with exquisite Qing-dynasty private gardens, the Slender West Lake, world-class Huaiyang cuisine, and the most literary urban atmosphere in the Yangtze Delta."
-ogImage: "https://images.pexels.com/photos/7394083/pexels-photo-7394083.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/jiangsu-yangzhou-gardens-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Jiangsu"
 tags: ["jiangsu", "yangzhou", "grand-canal", "gardens", "huaiyang-cuisine", "slender-west-lake", "salt-merchants", "qing-dynasty"]
@@ -13,9 +13,9 @@ For a brief, extravagant period in the 18th century, **Yangzhou** was arguably t
 
 ---
 
-![Yangzhou Gardens & Grand Canal — Slender West Lake (瘦西湖)](https://images.pexels.com/photos/7494607/pexels-photo-7494607.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Slender West Lake (瘦西湖)
+
+![Gudianmingyuanliu Garden Scenery, Suzhou](/img/destinations/jiangsu-yangzhou-gardens-guide/1.webp)
 
 **Slender West Lake** is an artificial lake created in the imperial garden style, with its 4-km length beautified by competing salt merchants.
 
@@ -29,9 +29,9 @@ For a brief, extravagant period in the 18th century, **Yangzhou** was arguably t
 
 ---
 
-![Yangzhou Gardens & Grand Canal — Classical Gardens](https://images.pexels.com/photos/16912476/pexels-photo-16912476.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Classical Gardens
+
+![Shi Lake Scenery, Jiangsu, Suzhou](/img/destinations/jiangsu-yangzhou-gardens-guide/2.webp)
 
 ### He Garden (何园)
 The largest private garden in Yangzhou, built in 1883. Its **double-deck corridor** connects all parts of the garden at second-floor level, blending Western architectural elements with traditional Chinese garden aesthetics.
@@ -42,8 +42,6 @@ Famous for **four seasonal rockery compositions** — spring bamboo and limeston
 **Admission:** ¥45.
 
 ---
-
-![Yangzhou Gardens & Grand Canal — Huaiyang Cuisine](https://images.unsplash.com/photo-1742201497494-1029d2a954ea?ixid=M3w5Nzk4NTN8MHwxfHNlYXJjaHwyfHxIdWFpeWFuZyUyMEN1aXNpbmV8ZW58MHwwfHx8MTc4MTg1NDg1Nnww&ixlib=rb-4.1.0&w=1200&q=85&fit=crop)
 
 ## Huaiyang Cuisine
 
@@ -60,6 +58,8 @@ Famous for **four seasonal rockery compositions** — spring bamboo and limeston
 ---
 
 ## The Grand Canal
+
+![Zhuozheng Garden, Suzhou](/img/destinations/jiangsu-yangzhou-gardens-guide/3.webp)
 
 Yangzhou sits at the historic junction of the **Grand Canal and Yangtze River**. Evening canal boat tours (¥60–80/person, 60–90 min) pass historic warehouses and stone bridges illuminated at night.
 

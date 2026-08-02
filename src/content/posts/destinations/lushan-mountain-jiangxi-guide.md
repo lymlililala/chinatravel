@@ -11,7 +11,7 @@ tags:
   - history
   - east-china
 description: "Lushan (庐山) in Jiangxi — the mountain that inspired more Chinese poetry than any other, with dramatic waterfalls (the Sandie Waterfall), colonial-era villas from the Republican period, the Guling town at the summit, and Mao Zedong's political conferences that still define some of the buildings. Getting from Nanchang or Jiujiang."
-ogImage: "https://images.pexels.com/photos/34376752/pexels-photo-34376752.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/lushan-mountain-jiangxi-guide/cover.webp"
 ---
 
 Lushan (庐山) occupies a peculiar and fascinating place in Chinese culture. The mountain rising above Poyang Lake in northern Jiangxi inspired more classical poetry than any other peak in China — Li Bai wrote perhaps his most famous lines here about the Sandie Waterfall, Su Dongpo wrote the verse about not being able to see the mountain's true form from within it. But Lushan is also where the Kuomintang government built its summer capital, where Mao Zedong held two fateful political conferences that shaped modern Chinese history, and where hundreds of colonial-era villas built by foreign missionaries and diplomats still stand in improbable grandeur above the clouds.
@@ -20,7 +20,7 @@ Lushan (庐山) occupies a peculiar and fascinating place in Chinese culture. Th
 
 ## Getting There
 
-![Lushan Mountain — Getting There](https://images.pexels.com/photos/23886078/pexels-photo-23886078.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Lu Mountain Scenery, Jiangxi](/img/destinations/lushan-mountain-jiangxi-guide/1.webp)
 
 Lushan is most easily accessed from Jiujiang (九江), a city on the southern bank of the Yangtze River in northern Jiangxi. Jiujiang is served by high-speed trains from Nanchang (40 minutes, ¥60-100) and from Wuhan (1.5 hours, ¥100-180). From Jiujiang station, buses run regularly to the Lushan scenic area gate (40 minutes, ¥20).
 
@@ -36,9 +36,9 @@ The town's stone buildings, European-style churches, and tree-lined main street 
 
 The Lushan Museum in Guling covers both the natural history and the remarkably dense political and cultural history of the mountain. It's well worth an hour. The Republican architecture scattered through the surrounding streets — over 600 villas from the 1920s-1940s — is best explored on foot with no particular agenda.
 
-![Lushan Mountain — The Sandie Waterfall](https://images.pexels.com/photos/22717407/pexels-photo-22717407.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Sandie Waterfall
+
+![Tianliang Mountain Scenery, Jiangxi](/img/destinations/lushan-mountain-jiangxi-guide/2.webp)
 
 Li Bai's poem — "flying water dropping three thousand feet, surely the Milky Way falling from the Ninth Heaven" — describes the Sandie Waterfall (三叠泉, Three-Step Falls). The waterfall plunges in three distinct steps over a total drop of 155 metres, making it one of the most dramatic cascades in eastern China.
 
@@ -48,13 +48,13 @@ The walk to the falls passes through forest and alongside streams. Morning visit
 
 ## The Flower Path & Other Scenic Areas
 
+![Wugong Mountain Scenery, Jiangxi](/img/destinations/lushan-mountain-jiangxi-guide/3.webp)
+
 The Flower Path (花径) area near Guling contains Brocade Valley (锦绣谷) — a ravine with extraordinary geological formations where erosion has exposed the underlying rock in layers of red, orange, and grey. The valley's viewing platform provides dramatic views down into the gorge and, in clear weather, out over the blue sheet of Poyang Lake visible in the distance.
 
 The Immortals Cave (仙人洞) nearby is a natural cave in the cliff face associated with Taoist hermits and featuring a stone spring that local believers consider to have healing properties. The combination of the cave, the cliff-edge pavilion above it, and the views from here is one of Lushan's most photographed compositions.
 
 The Lulin Lake and Lulin Villa area (庐林湖, 庐林别墅) is where Mao Zedong stayed during the 1959 and 1961 Lushan Conferences — sessions that had enormous consequences for Chinese political history. The villa is preserved as a museum. The furniture, meeting rooms, and gardens feel frozen in the 1950s. For visitors interested in 20th-century Chinese political history, this is essential.
-
-![Lushan Mountain — The Famous View Problem](https://images.pexels.com/photos/21823046/pexels-photo-21823046.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Famous View Problem
 

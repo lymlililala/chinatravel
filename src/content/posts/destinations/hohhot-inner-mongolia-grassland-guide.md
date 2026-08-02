@@ -11,24 +11,24 @@ tags:
   - culture
   - adventure
 description: "Hohhot and the Inner Mongolia grasslands — where to ride horses, sleep in traditional gers (yurts), attend the Nadam Festival, and experience genuine Mongolian nomadic culture within 4 hours of Beijing."
-ogImage: "https://images.pexels.com/photos/4995724/pexels-photo-4995724.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/hohhot-inner-mongolia-grassland-guide/cover.webp"
 ---
 
 Inner Mongolia Autonomous Region (内蒙古自治区) is China's second largest administrative division and one of its most dramatically different landscapes — the Mongolian steppe extending from the Gobi Desert in the south to the forested highlands of the north, home to a Mongolian population that maintains a distinctive nomadic cultural tradition.
 
 Hohhot (呼和浩特, "Blue City" in Mongolian) is the regional capital and the most convenient gateway. The grasslands begin within 1–2 hours of the city.
 
-![Hohhot & Inner Mongolia Grassland — Getting to Hohhot](https://images.pexels.com/photos/35905576/pexels-photo-35905576.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting to Hohhot
+
+![Da Grassland, Hulunbuir, Inner Mongolia](/img/destinations/hohhot-inner-mongolia-grassland-guide/1.webp)
 
 High-speed train from Beijing: **3.5–4 hours** (Beijing to Hohhot East). This makes Inner Mongolia a viable extended weekend trip from Beijing.
 
 Hohhot Baita International Airport has connections to major Chinese cities.
 
-![Hohhot & Inner Mongolia Grassland — Xilamuren Grassland (希拉穆仁草原)](https://images.pexels.com/photos/35498076/pexels-photo-35498076.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Xilamuren Grassland (希拉穆仁草原)
+
+![Manzhoulilao Architecture Scenery, Inner Mongolia](/img/destinations/hohhot-inner-mongolia-grassland-guide/2.webp)
 
 The closest grassland to Hohhot — 100km north, accessible in 1.5 hours by car. The primary entry point for most tourists from Hohhot.
 
@@ -38,8 +38,6 @@ The closest grassland to Hohhot — 100km north, accessible in 1.5 hours by car.
 - Mongolian cuisine: Whole roasted lamb (整只烤羊), milk tea (奶茶), fresh yoghurt, airag (fermented mare's milk, seasonal), and hand-held mutton (手把肉).
 
 **Authenticity note**: Xilamuren is heavily tourist-oriented — neon lights in some camps, costume photo opportunities, karaoke. For more authentic grassland experience, the further camps in the **Hulunbuir region** or **Xilingol League** are better, but require more time.
-
-![Hohhot & Inner Mongolia Grassland — Hulunbuir Grasslands (呼伦贝尔草原)](https://images.pexels.com/photos/30109532/pexels-photo-30109532.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Hulunbuir Grasslands (呼伦贝尔草原)
 
@@ -52,6 +50,8 @@ The **Ewenki (鄂温克族)** and **Buryat Mongol** minority communities in this
 [Full Hulunbuir guide](/posts/destinations/inner-mongolia-hulunbuir-grassland-guide/).
 
 ## Nadam Festival (那达慕)
+
+![Chengjisihanling Scenery, Ordos, Inner Mongolia](/img/destinations/hohhot-inner-mongolia-grassland-guide/3.webp)
 
 The annual Nadam Festival — held each summer (usually July–August, exact dates vary by location) — is the traditional Mongolian celebration of the "three manly games": horse racing, archery, and wrestling.
 

@@ -12,7 +12,7 @@ tags:
   - food
   - itinerary
 description: "Chengdu is one of China's most enjoyable cities — a relaxed, food-obsessed metropolis that happens to be the world center for giant panda conservation. This 2026 three-day guide covers morning panda cuddles at the Breeding Research Base, the Leshan Giant Buddha day trip, Chengdu's legendary street food circuit, and how to experience teahouse culture in China's most unhasty city."
-ogImage: "https://images.pexels.com/photos/6967900/pexels-photo-6967900.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/sichuan-chengdu-pandas-3-days-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -23,7 +23,7 @@ Within this pleasant atmosphere, Chengdu is also the global headquarters for gia
 
 ## Day 1: Giant Pandas and Jinli Street
 
-![Chengdu Pandas & Sichuan Food — Day 1: Giant Pandas and Jinli Street](https://images.pexels.com/photos/14764285/pexels-photo-14764285.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Tianfuguosheyingyi, Sichuan, Chengdu](/img/destinations/sichuan-chengdu-pandas-3-days-guide/1.webp)
 
 ### Morning: Chengdu Panda Base (7:00–11:00am)
 
@@ -73,9 +73,9 @@ Chengdu hotpot is not the same as Chongqing hotpot — it's generally considered
 
 **The dipping sauce (蘸料)**: Assemble your dipping sauce at the self-service station — sesame oil base, minced garlic, minced ginger, fermented tofu, and various other aromatics. This sauce is what separates Chengdu hotpot from other regional versions.
 
-![Chengdu Pandas & Sichuan Food — Day 2: Leshan Giant Buddha (Full Day Trip)](https://images.pexels.com/photos/15857439/pexels-photo-15857439.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day 2: Leshan Giant Buddha (Full Day Trip)
+
+![Tianfuguosheyinger, Sichuan, Chengdu](/img/destinations/sichuan-chengdu-pandas-3-days-guide/2.webp)
 
 ### The Leshan Giant Buddha (乐山大佛)
 
@@ -102,9 +102,9 @@ Leshan has its own food tradition distinct from Chengdu:
 
 Return by HSR or car. Evening in Chengdu.
 
-![Chengdu Pandas & Sichuan Food — Day 3: Chengdu Culture — Teahouse, Kuanzhai Alley, and Farewell Hot Pot](https://images.pexels.com/photos/33692911/pexels-photo-33692911.png?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day 3: Chengdu Culture — Teahouse, Kuanzhai Alley, and Farewell Hot Pot
+
+![Lugu Lake Ligeban Island Scenery, Sichuan](/img/destinations/sichuan-chengdu-pandas-3-days-guide/3.webp)
 
 ### Morning: Renmin Park Teahouse (人民公园茶馆) (8:00–10:30am)
 

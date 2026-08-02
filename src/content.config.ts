@@ -16,7 +16,12 @@ const posts = defineCollection({
       featured: z.boolean().optional(),
       draft: z.boolean().optional(),
       tags: z.array(z.string()).default(["others"]),
-      ogImage: image().or(z.string()).optional(),
+      // Strings win over image() so site-absolute paths ("/img/<post>/cover.webp"
+      // in public/) and remote URLs pass through untouched. With image() first,
+      // Astro tries to resolve every string as a bundled asset and the build
+      // fails with ImageNotFound. Relative paths meant for src/assets should be
+      // added as `image()` entries explicitly if that is ever needed.
+      ogImage: z.string().or(image()).optional(),
       description: z.string(),
       canonicalURL: z.string().optional(),
       hideEditPost: z.boolean().optional(),

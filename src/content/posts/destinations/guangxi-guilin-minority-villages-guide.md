@@ -13,14 +13,14 @@ tags:
   - miao
   - cultural-immersion
 description: "Go beyond Guilin's famous karst scenery and discover the vibrant minority cultures that make this region of Guangxi truly extraordinary. From Zhuang villages where ancient brocade weaving continues unchanged to Yao communities with their iconic red-turbaned women and ceremonial drum dances, this 2026 guide provides insider access to authentic cultural experiences, homestay options, festival calendars, and practical transport advice for visiting these remarkable communities."
-ogImage: "https://images.pexels.com/photos/33488561/pexels-photo-33488561.png?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guangxi-guilin-minority-villages-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## Beyond the Karst — Why Minority Culture Matters in Guilin
 
-![Guilin Minority Village Experiences — Beyond the Karst — Why Minority Culture Matters in Guilin](https://images.pexels.com/photos/36907620/pexels-photo-36907620.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Yao Mountain Scenery, Guangxi, Guilin](/img/destinations/guangxi-guilin-minority-villages-guide/1.webp)
 
 Most visitors to Guilin come for the limestone peaks and the Li River cruise, and fair enough — the scenery is extraordinary. But what many travellers miss is that this region of Guangxi is one of the most ethnically diverse corners of China. The Guangxi Zhuang Autonomous Region is home to over a dozen ethnic minority groups, and the area around Guilin provides access to some of the most vibrant and accessible minority communities in the country.
 
@@ -74,9 +74,9 @@ The Yao are renowned throughout China for their traditional herbal medicine, par
 
 Many Yao guesthouses offer herbal baths for guests. Expect to pay ¥50-80 ($7-11 USD) for a private bath session.
 
-![Guilin Minority Village Experiences — The Miao — Silver Jewellery and Festival Splendour](https://images.pexels.com/photos/30693227/pexels-photo-30693227.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Miao — Silver Jewellery and Festival Splendour
+
+![Xingping, Guangxi, Yangshuo](/img/destinations/guangxi-guilin-minority-villages-guide/2.webp)
 
 ### Who Are the Miao?
 
@@ -134,9 +134,9 @@ Visiting minority villages raises important questions about cultural tourism. He
 4. **Respect sacred spaces.** Drum towers, ancestral halls, and shrines are active religious spaces, not photo studios.
 5. **Don't bargain too hard.** The prices for handicrafts in these villages are already very low by Western standards. Haggling over ¥10 isn't worth the impact on someone's livelihood.
 
-![Guilin Minority Village Experiences — Food in Minority Villages](https://images.pexels.com/photos/6875294/pexels-photo-6875294.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Food in Minority Villages
+
+![Detianda Waterfall Scenery, Guangxi](/img/destinations/guangxi-guilin-minority-villages-guide/3.webp)
 
 Each ethnic group has distinctive culinary traditions:
 

@@ -8,7 +8,7 @@ tags:
   - "xinjiang"
   - "northwest-china"
 description: "Discover Xinjiang's honey-sweet apricots and world-class Riesling wines. A perfect pairing for any traveler exploring China's far west."
-ogImage: "https://images.pexels.com/photos/18166801/pexels-photo-18166801.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/xinjiang-summer-fruits-wines-guide/cover.webp"
 faq:
   - question: "Can I bring Xinjiang wine back home?"
     answer: "Yes, but check your country's alcohol import limits. Typically, 1–2 liters are allowed duty-free. Pack bottles in checked luggage wrapped in clothing."
@@ -28,9 +28,9 @@ Xinjiang (新疆, Xīn Jiāng), China's largest province, is a land of extremes�
 
 ## The Magic of Xinjiang's Summer Apricots
 
-Xinjiang has been cultivating apricots for over 2,000 years, but one variety stands out: the **honey small apricot (小红杏, xiǎo hóng xìng)**. Grown primarily in the Korla (库尔勒, Kù'ěr Lè) region, these small, golden-orange fruits are a revelation. With a sugar content that can reach 29–30° Brix (far sweeter than most fruits), they offer a burst of honeyed flavor that's both intense and delicate.
+![Beautiful Landscape, Xinjiang](/img/destinations/xinjiang-summer-fruits-wines-guide/1.webp)
 
-![A close-up of golden-orange honey apricots on a wooden table, with a few cut open to show the juicy flesh](https://images.pexels.com/photos/10111994/pexels-photo-10111994.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+Xinjiang has been cultivating apricots for over 2,000 years, but one variety stands out: the **honey small apricot (小红杏, xiǎo hóng xìng)**. Grown primarily in the Korla (库尔勒, Kù'ěr Lè) region, these small, golden-orange fruits are a revelation. With a sugar content that can reach 29–30° Brix (far sweeter than most fruits), they offer a burst of honeyed flavor that's both intense and delicate.
 
 ### Why They're So Sweet
 
@@ -56,8 +56,6 @@ A 2kg box of medium-sized honey apricots typically costs around ¥66–76, while
 
 Xinjiang is not just about fruit—it's also a world-class wine region. The **Tian Shan North Slope (天山北麓, Tiān Shān Běi Lù)** is located at the same latitude (44°N) as Bordeaux and California, and is recognized as one of the world's three golden wine belts. Here, the **Sandy Land (沙地酒庄, Shā Dì Jiǔ Zhuāng)** winery produces a stunning Riesling sweet white that has broken Guinness World Records for sales.
 
-![A bottle of Sandy Land Riesling sweet white wine with a trophy-shaped bottle, set against a backdrop of Tian Shan mountains](https://images.pexels.com/photos/18166801/pexels-photo-18166801.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ### What Makes It Special
 
 - **Grape varieties**: A blend of Riesling (the "queen of white grapes") and Chardonnay, offering a balance of fruitiness and acidity.
@@ -78,6 +76,8 @@ For the ultimate culinary experience, plan your trip between **late June and ear
 
 ## Getting There and Around
 
+![Renwenjingguan, Xinjiang](/img/destinations/xinjiang-summer-fruits-wines-guide/2.webp)
+
 ### By Air
 
 Xinjiang is vast. The main gateway is **Urumqi Diwopu International Airport (URC)**, with direct flights from Beijing (3.5 hours), Shanghai (5 hours), and many international hubs (with a connection). From Urumqi, you can take domestic flights to Korla, Kashgar, or Turpan.
@@ -97,6 +97,8 @@ Renting a car with a driver is the most flexible option for visiting vineyards a
 - **Turpan**: Famous for grapes and vineyards, with many wine-themed hotels.
 
 ## Practical Tips for International Travelers
+
+![Winter Beijiang Snow Scenery](/img/destinations/xinjiang-summer-fruits-wines-guide/3.webp)
 
 - **Visa**: Most travelers need a tourist visa (L visa) to enter China. Check with your local Chinese embassy. The 144-hour transit visa may be available for certain nationalities if you're passing through Beijing, Shanghai, or Guangzhou.
 - **Mobile Payment**: Alipay and WeChat Pay are widely accepted, but international credit cards are not. Set up Alipay before your trip and link it to your foreign card.
@@ -150,9 +152,3 @@ A: Yes, for tourists. The region is heavily policed. Avoid discussing sensitive 
 A: In summer, look for **Hami melons (哈密瓜)**, **Turpan raisins (吐鲁番葡萄干)**, and **figs**. In autumn, **pomegranates** and **walnuts** are abundant.
 
 For more on Xinjiang travel, see our [Xinjiang travel guide](/tags/xinjiang) and [northwest China itineraries](/tags/north-china).
-
-![A vineyard in Turpan with rows of grapevines under a blue sky, and the Flaming Mountains in the distance](https://images.pexels.com/photos/33916574/pexels-photo-33916574.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
-![A plate of mixed Xinjiang dried fruits including apricots, raisins, and walnuts](https://images.pexels.com/photos/10323347/pexels-photo-10323347.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
-![A glass of chilled Riesling wine next to a bowl of fresh honey apricots](https://images.pexels.com/photos/8820851/pexels-photo-8820851.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)

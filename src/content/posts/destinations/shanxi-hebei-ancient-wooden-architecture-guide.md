@@ -12,7 +12,7 @@ tags:
   - "buddhism"
   - "architecture"
 description: "Explore the world's best-preserved Tang and Liao dynasty wooden temples and pagodas, from Yingxian Pagoda to Nanchan Temple, in this in-depth guide for"
-ogImage: "https://images.pexels.com/photos/37705849/pexels-photo-37705849.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/shanxi-hebei-ancient-wooden-architecture-guide/cover.webp"
 faq:
   - question: "What is the best way to get from Beijing to the Tang temples in Wutai Mountain?"
     answer: "Take a high-speed train from Beijing West Station to Shijiazhuang Station (about 1.5 hours), then transfer to a bus from Shijiazhuang to Wutai County (about 3 hours). From Wutai County, take a local bus or taxi to Nanchan and Foguang temples. Alternatively, hire a private driver for the entire journey from Beijing (around ¥800–1,200)."
@@ -32,9 +32,9 @@ For travelers who think they've seen all of China's ancient wonders, the Tang an
 
 ## Why Shanxi and Hebei?
 
-Shanxi (山西, Shānxī) and Hebei (河北, Héběi) are the heartland of China's ancient wooden architecture. The region's dry climate and relative isolation preserved structures that elsewhere succumbed to war, fire, and decay. Here you'll find the only surviving Tang dynasty (618–907) wooden buildings—Nanchan Temple and Foguang Temple—as well as the finest examples of Liao dynasty (907–1125) architecture, including the towering Yingxian Wooden Pagoda.
+![Yufosi Architecture Scenery, Hebei](/img/destinations/shanxi-hebei-ancient-wooden-architecture-guide/1.webp)
 
-![The grand wooden hall of Foguang Temple with sweeping eaves and massive brackets](https://images.pexels.com/photos/2915957/pexels-photo-2915957.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+Shanxi (山西, Shānxī) and Hebei (河北, Héběi) are the heartland of China's ancient wooden architecture. The region's dry climate and relative isolation preserved structures that elsewhere succumbed to war, fire, and decay. Here you'll find the only surviving Tang dynasty (618–907) wooden buildings—Nanchan Temple and Foguang Temple—as well as the finest examples of Liao dynasty (907–1125) architecture, including the towering Yingxian Wooden Pagoda.
 
 ## Top Sights
 
@@ -58,8 +58,6 @@ This temple complex features the largest surviving Yuan dynasty wooden hall, the
 - **Kaishan Temple** (开善寺, Kāishàn Sì): One of the 'Eight Liao Structures', with a grand hall using the column-reduction technique.
 - **Geyuan Temple** (阁院寺, Géyuàn Sì): Home to the oldest surviving wooden window lattices in China, dating to the Liao dynasty.
 
-![The towering Yingxian Wooden Pagoda with multiple eaves and dougong brackets](https://images.pexels.com/photos/37705849/pexels-photo-37705849.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Suggested Itinerary
 
 ### Day 1: Dingzhou & Quyang
@@ -76,6 +74,8 @@ For architecture enthusiasts, add two days to visit **Kaishan Temple** in Gaobei
 
 ## Getting There & Around
 
+![Yungang Grottoes, Shanxi, Datong](/img/destinations/shanxi-hebei-ancient-wooden-architecture-guide/2.webp)
+
 ### Getting to the Region
 - **By Air**: Fly into **Beijing Capital International Airport** (PEK) or **Beijing Daxing** (PKX). From there, take the high-speed train to Dingzhou (1 hour) or Shijiazhuang (1.5 hours).
 - **By Train**: High-speed trains connect Beijing with **Dingzhou East Station** (定州东站, Dìngzhōu Dōngzhàn) and **Shijiazhuang Station** (石家庄站, Shíjiāzhuāng Zhàn). From Shijiazhuang, you can reach Wutai County by bus (3 hours).
@@ -91,11 +91,12 @@ For architecture enthusiasts, add two days to visit **Kaishan Temple** in Gaobei
 - **Yingxian**: The **Yingxian Hotel** (应县宾馆) is basic but clean. Book in advance during holidays.
 
 ## Food
+
+![Heng Mountain Scenery, Shanxi](/img/destinations/shanxi-hebei-ancient-wooden-architecture-guide/3.webp)
+
 - **Dingzhou**: Try **Dingzhou donkey meat** (定州驴肉, Dìngzhōu lǘròu)—a local specialty served in pancakes or stew.
 - **Wutai County**: Vegetarian dishes are common due to Buddhist traditions. Sample **Wutai shan vegetarian** (五台山素斋, Wǔtái Shān sùzhāi).
 - **Yingxian**: **Shanxi noodles** (山西面食, Shānxī miànshí) are a must. Look for **dao xiao mian** (刀削面, knife-cut noodles).
-
-![A close-up of intricate dougong brackets under a temple eaves](https://images.pexels.com/photos/34449578/pexels-photo-34449578.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Best Time to Visit
 

@@ -1,7 +1,7 @@
 ---
 title: "Chengdu Hotpot Culture Guide: Mala Broth, Ordering Tips & Best Restaurants"
 description: "Master Chengdu's legendary hotpot culture — from understanding the numbing-spicy mala broth and ordering raw ingredients to choosing the best neighbourhood restaurants, managing heat levels, and pairing your meal with local baijiu or craft beer."
-ogImage: "https://images.pexels.com/photos/6339176/pexels-photo-6339176.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/chengdu-hotpot-culture-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "Chengdu"
 tags: ["chengdu", "hotpot", "sichuan-food", "mala", "sichuan-cuisine", "food-guide", "restaurants", "spicy-food"]
@@ -15,9 +15,9 @@ Understanding hotpot culture properly means understanding the sensory philosophy
 
 ---
 
-![Chengdu Hotpot Culture — The Mala Broth: What's Actually in It](https://images.pexels.com/photos/30882960/pexels-photo-30882960.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Mala Broth: What's Actually in It
+
+![Tianfuguosheyinger, Sichuan, Chengdu](/img/destinations/chengdu-hotpot-culture-guide/1.webp)
 
 ### The Base Stock
 
@@ -70,8 +70,6 @@ Unlike Chongqing's plainer oil-based dip, Chengdu hotpot is traditionally served
 
 ---
 
-![Chengdu Hotpot Culture — Top Chengdu Hotpot Restaurants](https://images.pexels.com/photos/34870559/pexels-photo-34870559.png?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Top Chengdu Hotpot Restaurants
 
 ### For the Classic Experience
@@ -94,6 +92,8 @@ Unlike Chongqing's plainer oil-based dip, Chengdu hotpot is traditionally served
 
 ## Hotpot Etiquette: Dos and Don'ts
 
+![Lugu Lake Ligeban Island Scenery, Sichuan](/img/destinations/chengdu-hotpot-culture-guide/2.webp)
+
 **Do:**
 - Use the **small strainer ladle** to fish ingredients from the broth rather than hunting with chopsticks.
 - **Add ingredients gradually** — dump everything at once and the broth cools and becomes muddy.
@@ -107,9 +107,9 @@ Unlike Chongqing's plainer oil-based dip, Chengdu hotpot is traditionally served
 
 ---
 
-![Chengdu Hotpot Culture — Managing the Heat: Practical Tips](https://images.pexels.com/photos/38067300/pexels-photo-38067300.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Managing the Heat: Practical Tips
+
+![Shunanzhuhai Landscape](/img/destinations/chengdu-hotpot-culture-guide/3.webp)
 
 1. **Dairy fat helps more than water.** A glass of whole milk or unsweetened yoghurt dramatically reduces the burning sensation.
 2. **Plain white rice** absorbs some of the capsaicin.

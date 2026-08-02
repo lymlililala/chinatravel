@@ -12,7 +12,7 @@ tags:
   - hiking
   - sacred-mountain
 description: "Emei Mountain (峨眉山) is one of China's Four Sacred Buddhist Mountains, rising to 3,099m in Sichuan Province. The journey from tropical forest at the base to alpine temples at the golden summit involves extraordinary diversity of ecosystems, legendary golden monkeys, and one of China's most dramatic mountain temples perched at the clouds. This 2026 complete guide covers routes, cable cars, the famous sea of clouds, and practical planning."
-ogImage: "https://images.pexels.com/photos/29295634/pexels-photo-29295634.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/sichuan-emei-mountain-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -23,7 +23,7 @@ The combination of extraordinary mountain scenery, ancient Buddhist temples, sub
 
 ## The Mountain's Scale and Structure
 
-![Emei Mountain Sichuan — The Mountain's Scale and Structure](https://images.pexels.com/photos/20308720/pexels-photo-20308720.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Siguniang Mountain Scenery, Sichuan](/img/destinations/sichuan-emei-mountain-guide/1.webp)
 
 Emei Mountain can be conceptually divided into three sections:
 
@@ -85,9 +85,9 @@ Weather at the summit is changeable and often colder than expected. Even in July
 
 **Staying overnight at the summit** is the best strategy for catching both sunset and sunrise cloud phenomena. The Jinding Hotel (金顶宾馆) and several guesthouses operate at the summit. Rooms are basic but functional; expect to pay ¥200–400/night for a double. Book in advance for October–November and during national holidays.
 
-![Emei Mountain Sichuan — The Monkeys](https://images.pexels.com/photos/10403911/pexels-photo-10403911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Monkeys
+
+![Mountain Scenery, Sichuan, Emei](/img/destinations/sichuan-emei-mountain-guide/2.webp)
 
 The Tibetan macaques (Macaca thibetana) of Emei Mountain are famous — large, confident primates that have lived on the mountain long enough to lose their fear of humans and develop a sophisticated understanding of how to extract food from tourists.
 
@@ -131,9 +131,9 @@ A mid-mountain temple that makes the best overnight stop for multi-day trekkers.
 
 **Opening hours**: Scenic area open 24 hours (for pilgrims and trekkers). Cable cars: 6:30am–7pm (last cable car up; last down follows closing of summit).
 
-![Emei Mountain Sichuan — Getting to Emei Mountain](https://images.pexels.com/photos/29767807/pexels-photo-29767807.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting to Emei Mountain
+
+![Xianuoduojishen Mountain Scenery, Sichuan](/img/destinations/sichuan-emei-mountain-guide/3.webp)
 
 **From Chengdu:**
 - **High-speed train**: Chengdu South Station (成都南站) to Emei Station (峨眉站), about 1 hour, ¥35–50. Trains run frequently.

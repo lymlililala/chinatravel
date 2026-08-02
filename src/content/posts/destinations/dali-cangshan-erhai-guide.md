@@ -20,16 +20,16 @@ tags:
   - nature
   - culture
 description: "Dali's Cangshan Mountain and Erhai Lake beyond the tourist old town — hiking routes up the 4,122m mountain range, cycling Erhai Lake's 130km perimeter, Bai minority villages on the lake shore, and how to experience Dali the way long-term travellers do."
-ogImage: "https://images.pexels.com/photos/36535797/pexels-photo-36535797.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/dali-cangshan-erhai-guide/cover.webp"
 ---
 
 Dali (大理) has two identities. There's the commercially optimised old town (大理古城) — the preserved Bai minority city that serves as the comfortable base for most visitors — and there's the landscape that surrounds it: the 4,122m Cangshan Mountain range rising directly behind the city, and the 250 sq km Erhai Lake stretching for 40km in front.
 
 For visitors staying more than 2–3 days, the mountain and lake provide the most rewarding experiences — and they require leaving the old town to access.
 
-![Dali Cangshan Mountain & Erhai Lake — Cangshan Mountain (苍山)](https://images.pexels.com/photos/33970874/pexels-photo-33970874.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Cangshan Mountain (苍山)
+
+![Erhai Lake Sunrise Scenery, Dali](/img/destinations/dali-cangshan-erhai-guide/1.webp)
 
 Cangshan has 19 peaks above 3,500m; the highest, Malong Peak (马龙峰), reaches 4,122m. The range creates a dramatic backdrop visible from everywhere in the Dali basin and is the source of the 18 mountain streams that flow through the old town and into Erhai Lake.
 
@@ -54,9 +54,9 @@ Three cable car systems access different sections of Cangshan:
 - **Weather**: Mountain weather changes rapidly. Start hikes before 10am; afternoon storms common June–September.
 - **Altitude**: Even the traverse trail at 2,500m can cause mild altitude effects for visitors arriving directly from sea level. Acclimatise one day in Dali before hiking.
 
-![Dali Cangshan Mountain & Erhai Lake — Erhai Lake (洱海)](https://images.pexels.com/photos/35410604/pexels-photo-35410604.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Erhai Lake (洱海)
+
+![Xiulicangshan Aerial View Scenery](/img/destinations/dali-cangshan-erhai-guide/2.webp)
 
 Erhai Lake — "Ear-Shaped Sea" (the lake shape resembles an ear) — is one of Yunnan's most beautiful highland lakes. The Bai minority (白族) have lived on its shores for 3,000+ years, and dozens of traditional Bai villages still function as fishing and farming communities around the lake perimeter.
 
@@ -73,9 +73,9 @@ A 130km cycling route circles the entire lake, typically completed in 2 days. Bi
 
 Traditional wooden tourist boats depart from Cai Village (才村码头) near the old town. The 2–3 hour circuit visits the Small Putuo Island (小普陀岛, a tiny temple on a rock in the lake) and the Nanzhao Island (南诏风情岛). More scenic than historically significant; the boat itself is the point — the flat lake with mountains on both sides.
 
-![Dali Cangshan Mountain & Erhai Lake — Bai Minority Culture](https://images.pexels.com/photos/36552431/pexels-photo-36552431.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Bai Minority Culture
+
+![Shuhe Old Town Scenery, Yunnan, Lijiang](/img/destinations/dali-cangshan-erhai-guide/3.webp)
 
 The Bai people are the ethnic majority in the Dali area — their language, architecture (白族民居), food, and festivals are distinct from Han Chinese culture.
 

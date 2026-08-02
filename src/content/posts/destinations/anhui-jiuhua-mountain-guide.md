@@ -12,14 +12,14 @@ tags:
   - monastery-stay
   - pilgrimage
 description: "Journey to Jiuhua Mountain, one of China's four sacred Buddhist mountains and the bodhimanda of Ksitigarbha, the Bodhisattva of the Great Vow. This 2026 guide covers the ancient temples where monks have chanted for over a millennium, the pilgrimage trails connecting sacred peaks, monastery guesthouse stays, the famous flesh-body relics, vegetarian Buddhist cuisine, and practical advice for experiencing this profoundly spiritual mountain in southern Anhui."
-ogImage: "https://images.pexels.com/photos/31582900/pexels-photo-31582900.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/anhui-jiuhua-mountain-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## Jiuhua — The Mountain of the Great Vow
 
-![Jiuhua Mountain Anhui — Jiuhua — The Mountain of the Great Vow](https://images.pexels.com/photos/15766744/pexels-photo-15766744.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Chuzhoulangya Mountain Scenery](/img/destinations/anhui-jiuhua-mountain-guide/1.webp)
 
 Of China's four sacred Buddhist mountains, Jiuhua (九华山, "Nine Glorious Mountains") is perhaps the most intimate. Wutai is vast, Emei is dramatic, Putuo is coastal — but Jiuhua, tucked into the hills of southern Anhui, wraps around you like a meditation shawl. It's the bodhimanda of Dizang (Ksitigarbha in Sanskrit), the Bodhisattva who vowed not to achieve Buddhahood until all hells are emptied. That vow — compassionate, stubborn, and slightly impossible — seems to permeate the mountain itself.
 
@@ -59,9 +59,9 @@ One of the four great temples of Jiuhua, Zhiyuan is known for its beautiful arch
 
 The largest temple complex on Jiuhua, built in the Ming Dynasty and extensively renovated. The complex includes three major halls dedicated to different Buddhist figures, and the main Ksitigarbha statue is 12 metres tall. The monastery is active, with about 50 resident monks, and you can observe — or participate in — daily chanting sessions.
 
-![Jiuhua Mountain Anhui — Pilgrimage Trails and Peaks](https://images.pexels.com/photos/10887389/pexels-photo-10887389.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Pilgrimage Trails and Peaks
+
+![Tianzhu Mountain Scenery, Anhui](/img/destinations/anhui-jiuhua-mountain-guide/2.webp)
 
 ### The Main Peak Circuit
 
@@ -113,9 +113,9 @@ Jiuhua's vegetarian tradition is one of the oldest and most refined in China, wi
 
 **Jiuhua Street Restaurants:** The commercial street near Huacheng Temple has several vegetarian restaurants. Meals ¥30-50 ($4.20-7 USD) per person.
 
-![Jiuhua Mountain Anhui — Practical Information](https://images.pexels.com/photos/31835392/pexels-photo-31835392.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Practical Information
+
+![Huangdi Ancient Village Luo Landscape, Shanxi, Anhui](/img/destinations/anhui-jiuhua-mountain-guide/3.webp)
 
 ### Getting to Jiuhua Mountain
 

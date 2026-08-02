@@ -11,7 +11,7 @@ tags:
   - culture
   - east-china
 description: "Nanchang in Jiangxi — the city of the 1927 Nanchang Uprising that started the People's Liberation Army, the Tengwang Pavilion (one of China's three famous ancient towers), and Nanchang's role as the gateway to Jiujiang, Lushan, Jingdezhen, and Wuyuan. Practical logistics for a Jiangxi circuit."
-ogImage: "https://images.pexels.com/photos/17539441/pexels-photo-17539441.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/nanchang-jiangxi-guide/cover.webp"
 ---
 
 Nanchang (南昌) is not on most international visitors' China itineraries, which makes it both underrated and genuinely surprising. The capital of Jiangxi province sits on the Gan River south of Poyang Lake and carries a weight of historical significance that is hard to ignore: this is the city where the Chinese Communist Party launched the military uprising on August 1, 1927 that is considered the founding moment of the People's Liberation Army. Every year on August 1st, the date is celebrated across China as Army Day. In Nanchang, the date is woven into the urban fabric — the city's main thoroughfare is called August 1st Avenue.
@@ -20,7 +20,7 @@ Nanchang (南昌) is not on most international visitors' China itineraries, whic
 
 ## The Nanchang Uprising & Revolutionary Sites
 
-![Nanchang — The Nanchang Uprising & Revolutionary Sites](https://images.pexels.com/photos/36347980/pexels-photo-36347980.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Jinggangshan Scenery, Jiangxi](/img/destinations/nanchang-jiangxi-guide/1.webp)
 
 The Nanchang Uprising Museum (八一起义纪念馆) is built around the former Jiangxi Hotel where Zhou Enlai, Zhu De, He Long, and other Communist leaders planned and launched the uprising against the Nationalist forces. The museum is well-designed, with good English labelling, and covers both the specific events of August 1927 and the broader context of the Northern Expedition and the collapse of the First United Front between the Communists and Nationalists.
 
@@ -30,9 +30,9 @@ Adjacent to the museum, the former General Front Committee site (总前委旧址
 
 The Bayi Square (八一广场) in the city centre is a vast public space anchored by the August 1st Uprising Memorial Tower. In the evenings, it fills with families, kite flyers, and the ordinary life of a mid-sized Chinese city. The contrast between the revolutionary symbolism of the monuments and the cheerful normalcy of evening recreation is quintessentially Chinese.
 
-![Nanchang — Tengwang Pavilion](https://images.pexels.com/photos/5690249/pexels-photo-5690249.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Tengwang Pavilion
+
+![Longhu Mountain Scenery, Jiangxi](/img/destinations/nanchang-jiangxi-guide/2.webp)
 
 Tengwang Pavilion (滕王阁) is one of China's Three Great Towers, alongside the Yellow Crane Tower in Wuhan and the Yueyang Tower on Dongting Lake. The current structure is a reconstruction (the original was built in 653 AD and burned down dozens of times over the centuries — the current version dates from 1989) but the site and the views it provides over the Gan River make it essential.
 
@@ -41,8 +41,6 @@ The pavilion became famous primarily because of a single piece of writing: Wang 
 The six-storey structure (plus two basement floors) contains galleries covering the cultural history of Jiangxi and the literary legacy of the pavilion, with reproductions of Wang Bo's preface in various calligraphic styles. The roof terrace on the highest floor provides the river and city views. Admission is ¥90.
 
 Evening visits (the pavilion is lit until 10pm) are particularly atmospheric, with the river traffic below and the city lights spreading toward the horizon.
-
-![Nanchang — Food in Nanchang](https://images.pexels.com/photos/21631766/pexels-photo-21631766.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Food in Nanchang
 
@@ -57,6 +55,8 @@ Jiangxi cuisine (赣菜) is less famous than neighbouring Hunan or Sichuan cooki
 The old food street near Shengjiing Pavilion in the old city has concentrated traditional eateries. A proper multi-dish dinner in a local restaurant costs ¥60-120 per person.
 
 ## Nanchang as a Circuit Hub
+
+![Old Town, Wuyuan](/img/destinations/nanchang-jiangxi-guide/3.webp)
 
 Nanchang's real value for visitors lies in its position as the hub for exploring Jiangxi's remarkable heritage circuit. Within manageable day-trip or overnight-trip distance:
 

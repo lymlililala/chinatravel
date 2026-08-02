@@ -12,7 +12,7 @@ tags:
   - monastery
   - nature
 description: "Shangri-La (formerly Zhongdian) in northwestern Yunnan is China's most accessible Tibetan cultural destination — a high-altitude town at 3,300m where Tibetan monasteries, yak butter tea houses, and genuine highland culture coexist with comfortable tourism infrastructure. This 2026 complete guide covers Songzanlin Monastery, Napa Lake, the old town, and realistic tips for planning your visit."
-ogImage: "https://images.pexels.com/photos/1060267/pexels-photo-1060267.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/yunnan-shangri-la-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -25,7 +25,7 @@ This guide is intended to help you find the best version of Shangri-La: the earl
 
 ## Getting to Shangri-La
 
-![Shangri — Getting to Shangri-La](https://images.pexels.com/photos/5186422/pexels-photo-5186422.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Songzanlin Temple Scenery, Yunnan](/img/destinations/yunnan-shangri-la-guide/1.webp)
 
 ### By Air
 Shangri-La Diqing Airport (香格里拉迪庆机场, IATA: DIG) is served by direct flights from:
@@ -84,8 +84,6 @@ Walk the circumambulation path (clockwise) around the monastery. About 45 minute
 ### Photography
 The monastery rewards early arrival. Come at opening (8am) before tour groups. The light from the east hits the golden rooftops from about 9am. The reflection in the lake below is best in late afternoon.
 
-![Shangri — Napa Lake (纳帕海)](https://images.pexels.com/photos/33970873/pexels-photo-33970873.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Napa Lake (纳帕海)
 
 Napa Lake is a seasonal lake at 3,260m that transforms with the seasons. In summer it's a large shallow lake; in winter and early spring the water level drops and the surrounding flatlands turn into wetland meadows.
@@ -101,6 +99,8 @@ Napa Lake is a seasonal lake at 3,260m that transforms with the seasons. In summ
 **Horses**: Local families offer horse riding around the lake area for ¥60–100/hour. This is a genuine experience rather than a tourist gimmick — the horses are used by local herders.
 
 ## Shangri-La Old Town (独克宗古城)
+
+![Scenery, Shangri-La, Yunnan](/img/destinations/yunnan-shangri-la-guide/2.webp)
 
 The old town burned in January 2014 in a fire that destroyed much of the historic core. It was rebuilt over subsequent years and reopened. The rebuilt old town is visually appealing but essentially new, which bothers some visitors more than others.
 
@@ -129,8 +129,6 @@ A half-day trip (15km from the Old Town). Cable car available (¥160 round trip)
 ### Tiger Leaping Gorge Entry Point
 Hike or bus to Qiaotou (桥头) about 60km away — this is where most Tiger Leaping Gorge hikes begin. The combination of Shangri-La and Tiger Leaping Gorge in one trip is very popular. Budget an extra day.
 
-![Shangri — Day Trip: Deqin and Meili Snow Mountains](https://images.pexels.com/photos/36879434/pexels-photo-36879434.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Day Trip: Deqin and Meili Snow Mountains
 
 The most dramatic day trip from Shangri-La goes north to Deqin (3.5 hours each way by bus or car) for views of the Meili Snow Mountain range. The sacred peak of Kawakarpo at 6,740m is one of Tibetan Buddhism's most holy mountains — it has never been successfully summited, and Tibetan groups successfully lobbied the Chinese government to permanently ban summit attempts.
@@ -140,6 +138,8 @@ The Feilai Temple viewpoint (飞来寺) above the river valley gives the most fa
 A full Shangri-La + Meili trip: 4–5 days minimum.
 
 ## Where to Stay
+
+![Erhai Lake Sunrise Scenery, Dali](/img/destinations/yunnan-shangri-la-guide/3.webp)
 
 ### Budget (¥100–200/night)
 The old town has numerous guesthouses in Tibetan-style buildings. Rooms range from atmospheric to basic. Songzanlin Guesthouse and similar options from ¥120/night.

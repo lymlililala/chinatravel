@@ -12,7 +12,7 @@ tags:
   - xinjiang
   - practical-guide
 description: "China has over 20 million Muslim citizens, primarily the Hui ethnic group, and halal food (清真食品) is deeply embedded in certain regional cuisines. Muslim travellers in 2026 will find excellent halal dining across many Chinese cities — especially in the northwest — along with active mosques and welcoming Islamic communities. This guide explains where to find halal food, which regions are most Muslim-friendly, and how to navigate China as a Muslim traveller."
-ogImage: "https://images.unsplash.com/photo-1567521464027-f127ff144326?w=1200&q=85"
+ogImage: "/img/toolkit/china-halal-food-muslim-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -24,6 +24,8 @@ This long history means that halal food culture (清真, qīngzhēn, literally "
 ---
 
 ## China's Muslim Geography
+
+![Badaling Great Wall, Beijing](/img/toolkit/china-halal-food-muslim-guide/1.webp)
 
 ### The Northwest: Halal Heartland
 
@@ -127,6 +129,8 @@ Most international 5-star hotel chains in China can provide halal meals with 24-
 ---
 
 ## Mosques in China: What Visitors Should Know
+
+![Simatai Great Wall, Beijing](/img/toolkit/china-halal-food-muslim-guide/2.webp)
 
 China has approximately 35,000–40,000 mosques. Most are accessible to non-Muslim visitors outside prayer times; during Jumu'ah (Friday prayer) and the five daily prayers, non-Muslim access may be restricted.
 

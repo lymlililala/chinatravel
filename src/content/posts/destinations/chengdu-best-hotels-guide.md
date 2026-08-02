@@ -11,7 +11,7 @@ tags:
   - planning
   - sichuan
 description: "Chengdu accommodation guide — Jinjiang District for traditional atmosphere near Jinli and Wuhou Shrine, Tianfu Square for central convenience, the Chunxi Road/Taikoo Li area for design hotels. Specific hotel and hostel recommendations for budget (¥150-350/night), mid-range (¥400-900/night), and luxury (¥1200+/night). Chengdu offers great value vs Beijing."
-ogImage: "https://images.pexels.com/photos/14450068/pexels-photo-14450068.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/chengdu-best-hotels-guide/cover.webp"
 ---
 
 Chengdu is one of China's best cities for accommodation value. You can stay in a good mid-range hotel near the old town for ¥400-600/night, or find a hostel with genuine atmosphere for ¥80-120. The city is compact enough that the neighbourhood you choose affects atmosphere more than convenience — the metro system gets you anywhere in 20-30 minutes. The main trade-off is between the traditional Jinjiang District atmosphere (with its proximity to Jinli Street, Wuhou Shrine, and the panda base day trips) and the more commercial central areas around Tianfu Square and Chunxi Road.
@@ -20,7 +20,7 @@ Chengdu is one of China's best cities for accommodation value. You can stay in a
 
 ## Neighbourhood Guide
 
-![Stay Chengdu — Neighbourhood Guide](https://images.pexels.com/photos/3945233/pexels-photo-3945233.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Tianfuguosheyinger, Sichuan, Chengdu](/img/destinations/chengdu-best-hotels-guide/1.webp)
 
 ### Jinjiang District: Traditional Atmosphere and Best Food Access
 
@@ -46,9 +46,9 @@ The **Taikoo Li** complex specifically includes several of Chengdu's most intere
 
 **Wuhou District** (武侯区), south of the historic core, is primarily residential with a mix of local restaurants and some budget accommodation. Less tourist infrastructure, better prices, and a more authentic view of how Chengdu residents actually live. Good for travellers who want to explore beyond the obvious tourist circuit.
 
-![Stay Chengdu — Budget Hotels and Hostels (¥150-350/night)](https://images.pexels.com/photos/7969105/pexels-photo-7969105.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Budget Hotels and Hostels (¥150-350/night)
+
+![Lugu Lake Ligeban Island Scenery, Sichuan](/img/destinations/chengdu-best-hotels-guide/2.webp)
 
 Chengdu is genuinely affordable at the budget level.
 
@@ -62,8 +62,6 @@ Dorm beds: ¥70-110/night. Private hostel rooms: ¥180-320/night.
 
 **Budget domestic hotels:** Chengdu has an abundance of **Home Inn** (如家), **Hanting** (汉庭), and **Ibis** properties at ¥200-350/night. These are clean, functional, and foreign-passport ready. The ones near Tianfu Square metro station are most useful for transport.
 
-![Stay Chengdu — Mid-Range Hotels (¥400-900/night)](https://images.pexels.com/photos/12232871/pexels-photo-12232871.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Mid-Range Hotels (¥400-900/night)
 
 **Niwan Art Hotel** (泥湾艺术酒店) near the Wuhou Shrine area — a genuinely interesting independent design hotel with an emphasis on Sichuan cultural art. Room design reflects local crafts and aesthetics rather than generic hotel decoration. ¥450-750/night.
@@ -75,6 +73,8 @@ Dorm beds: ¥70-110/night. Private hostel rooms: ¥180-320/night.
 **Jia Boutique Hotel** (嘉好精品酒店) properties — a Chengdu boutique chain that's raised the bar on independently operated mid-range hotels. Multiple locations including one in the Taikoo Li adjacent area. ¥500-800/night.
 
 ## Luxury Hotels (¥1,200+/night)
+
+![Shunanzhuhai Landscape](/img/destinations/chengdu-best-hotels-guide/3.webp)
 
 **Chengdu has better luxury value than Beijing or Shanghai:**
 

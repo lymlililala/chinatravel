@@ -1,7 +1,7 @@
 ---
 title: "Dali Erhai Lake Cycling Guide: The Ultimate Lake Loop in Yunnan"
 description: "Complete guide to cycling around Erhai Lake in Dali, Yunnan. The full 130km circuit, daily section routes, bike rental, lakeside villages, white sail boats, fishing cormorants and where to stay."
-ogImage: "https://images.pexels.com/photos/33970874/pexels-photo-33970874.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/sichuan-dali-erhai-cycling-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Dali", "Erhai Lake", "cycling Yunnan", "Yunnan travel", "Dali cycling", "China lakes", "洱海"]
@@ -9,9 +9,9 @@ tags: ["Dali", "Erhai Lake", "cycling Yunnan", "Yunnan travel", "Dali cycling", 
 
 Cycling around Erhai Lake (洱海) in Dali, Yunnan, is one of the most popular and beloved cycling routes in China. The full 130 km circuit takes 2–3 days at a relaxed pace (or one very long day for fit cyclists), passing through ancient Bai minority villages, past fishing harbors with traditional cormorant-fishing boats, through fields of rape-seed flowers in spring, along lakeside cafes with views to the Cangshan Mountains, and occasionally across causeway sections where you're cycling with open water on both sides.
 
-![Dali Erhai Lake Cycling — The Route Overview](https://images.pexels.com/photos/35410604/pexels-photo-35410604.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Route Overview
+
+![Erhai Lake Sunrise Scenery, Dali](/img/destinations/sichuan-dali-erhai-cycling-guide/1.webp)
 
 Erhai Lake ("Ear-Shaped Sea" — the lake's outline resembles a human ear) covers 250 km² at 1,972m altitude. The cycling circuit follows the lake road that circumnavigates the shore, with occasional detours into lakeside villages.
 
@@ -35,8 +35,6 @@ The stretch from Old Dali north along the eastern shore to Shuanglang (双廊) i
 
 **Shuanglang village (双廊)**: The most photogenic village on the lake. Stone streets, wooden fishing boats, small temples on rocky outcrops extending into the lake, views of the Jade Belt Bridge and beyond to the Cangshan mountains. This has become something of a creative community (artists, designers, boutique guesthouses) but retains its fishing village character.
 
-![Dali Erhai Lake Cycling — The Southern Half](https://images.pexels.com/photos/36722934/pexels-photo-36722934.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Southern Half
 
 From Old Dali south along the western shore:
@@ -49,6 +47,8 @@ From Old Dali south along the western shore:
 
 ## Bike Rental
 
+![Lugu Lake Ligeban Island Scenery, Sichuan](/img/destinations/sichuan-dali-erhai-cycling-guide/2.webp)
+
 Multiple bike rental points in Old Dali town center (near the South Gate):
 - Standard mountain bikes: ¥20–30/day
 - Electric bikes (e-bikes): ¥50–80/day
@@ -58,9 +58,9 @@ Multiple bike rental points in Old Dali town center (near the South Gate):
 
 **App-based bikes**: Hello Bike (哈罗单车) and Meituan Bike have stations throughout Dali town; these work for short sections but batteries may be insufficient for the full lake circuit.
 
-![Dali Erhai Lake Cycling — Where to Stay Along the Route](https://images.pexels.com/photos/16135530/pexels-photo-16135530.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Where to Stay Along the Route
+
+![Ruoergaihua Lake Scenery, Sichuan](/img/destinations/sichuan-dali-erhai-cycling-guide/3.webp)
 
 **Shuanglang**: The most popular overnight stop for lake cyclists. Dozens of guesthouses in the ¥150–500/night range; boutique lakeside hotels ¥500–1,500/night. Book ahead for weekends and holidays.
 

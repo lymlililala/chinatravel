@@ -21,7 +21,7 @@ tags:
   - nature
   - east-china
 description: "The complete Yellow Mountain (黄山) hiking guide — the East Steps vs West Steps comparison, the cable cars (Yungu, Yuping, Taiping), the three-peak circuit for a full day, staying overnight on the mountain for sunrise above the sea of clouds, the best photography positions, and the current entry prices and booking requirements."
-ogImage: "https://images.pexels.com/photos/28957337/pexels-photo-28957337.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/huangshan-hiking-complete-guide/cover.webp"
 ---
 
 Huangshan (黄山, Yellow Mountain) is the mountain that has defined Chinese landscape painting for 1,500 years. The pine trees growing impossibly from vertical granite faces, the sea of clouds filling the valleys at dawn, the bizarre rock formations with names like "Flying-Over Rock" and "Immortal Pointing the Way" — it's all real, and it's more dramatic in person than in any photograph.
@@ -31,6 +31,8 @@ Most visitors treat it as a day trip. That's a mistake. The mountain rewards tho
 ## Table of contents
 
 ## The Mountain Layout
+
+![Tianzhu Mountain Scenery, Anhui](/img/toolkit/huangshan-hiking-complete-guide/1.webp)
 
 Huangshan's main area covers about 160 square kilometres, with three cable car access points and two main trail networks. Understanding the layout before you arrive saves significant confusion on the mountain.
 
@@ -80,6 +82,8 @@ Staying on the mountain is the single most important thing you can do to improve
 **What to bring for overnight:** A warm layer for the 4:30-5:30am sunrise watch (even in summer, summit temperatures at dawn are cool — 10-15°C on a summer morning). A tripod if you're photographing. Instant noodles or snacks to supplement what the hotels offer at that hour.
 
 ## Cloud Sea: When Does It Happen?
+
+![Jiuhua Mountain Scenery, Anhui](/img/toolkit/huangshan-hiking-complete-guide/2.webp)
 
 The famous sea of clouds (云海) occurs when warm moist air meets cooler mountain temperatures, creating a temperature inversion. It's most reliable:
 - **March-May (spring):** Most frequent cloud sea appearances, coinciding with spring wildflowers

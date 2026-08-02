@@ -12,7 +12,7 @@ tags:
   - harbin
   - north-china
 description: "The complete guide to the Harbin International Ice and Snow Festival — exact dates for the 2026-27 season, tickets and entrance fees to Ice and Snow World and Sun Island, the best night for illuminations, how cold it actually gets (and how to dress), the ice sculpture competition, and practical logistics for visiting China's most extreme winter event."
-ogImage: "https://images.pexels.com/photos/35352648/pexels-photo-35352648.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-harbin-ice-festival-guide-2026/cover.webp"
 ---
 
 Harbin's International Ice and Snow Festival is one of the most extraordinary spectacles in Asia. A city of vast ice buildings lit from within by coloured lights, at temperatures that regularly reach -25°C to -30°C, the festival turns Harbin into something that doesn't quite exist anywhere else in the world. It's simultaneously a children's playground, a fine arts venue, a sporting event venue, and a test of your winter gear.
@@ -24,6 +24,8 @@ The festival runs annually from late December through late February, and the que
 ---
 
 ## Dates for the 2026-27 Harbin Ice Festival Season
+
+![Winter Jingpo Lake, Heilongjiang](/img/toolkit/china-harbin-ice-festival-guide-2026/1.webp)
 
 The **Harbin International Ice and Snow Festival (哈尔滨国际冰雪节)** officially opens on **January 5** each year (the festival's traditional start date). The 2026-27 season runs approximately **late December 2026 through late February 2027**.
 
@@ -120,6 +122,8 @@ The judging criteria include technical skill, creative concept, ice quality expl
 ---
 
 ## Getting to Harbin
+
+![Bingxuedashijie Night View Scenery, Harbin, Heilongjiang](/img/toolkit/china-harbin-ice-festival-guide-2026/2.webp)
 
 ### Flights
 

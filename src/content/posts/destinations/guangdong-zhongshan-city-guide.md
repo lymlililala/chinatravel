@@ -12,14 +12,14 @@ tags:
   - lantern-festival
   - pearl-river-delta
 description: "Explore Zhongshan, the hometown of modern China's founding father Sun Yat-sen and one of the Pearl River Delta's most pleasant small cities. This 2026 guide covers the Sun Yat-sen Residence Memorial, the spectacular Zhongshan Lantern Festival, the charming Guifeng area, local Cantonese cuisine including the famous Shiqi pigeon, and practical advice for visiting this historically significant yet relaxed corner of the Greater Bay Area."
-ogImage: "https://images.pexels.com/photos/31931620/pexels-photo-31931620.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guangdong-zhongshan-city-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## Zhongshan — The Father of the Nation's Hometown
 
-![Zhongshan Guangdong City — Zhongshan — The Father of the Nation's Hometown](https://images.pexels.com/photos/37388293/pexels-photo-37388293.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Huaqiao City Scenery, Guangdong, Shenzhen](/img/destinations/guangdong-zhongshan-city-guide/1.webp)
 
 Zhongshan (中山) occupies a unique position in the Chinese consciousness. It's the birthplace of Sun Yat-sen (孙逸仙/孙中山), the revolutionary who overthrew the Qing Dynasty and founded the Republic of China in 1912. Both mainland China and Taiwan revere him as the "Father of the Nation," making Zhongshan one of the few places in China that carries genuinely cross-strait significance.
 
@@ -45,8 +45,6 @@ The Sun Yat-sen Residence Memorial is the city's most important attraction and a
 
 What struck me most about the memorial was the genuine emotional response it evokes from Chinese visitors. Regardless of political affiliation, Sun Yat-sen is revered as the man who ended 2,000 years of imperial rule. Watching elderly visitors pay their respects at his statue, I was reminded that history isn't abstract — it's personal, and Zhongshan is where it started.
 
-![Zhongshan Guangdong City — The Zhongshan Lantern Festival (中山元宵灯会)](https://images.pexels.com/photos/30617273/pexels-photo-30617273.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Zhongshan Lantern Festival (中山元宵灯会)
 
 ### One of Guangdong's Greatest Spectacles
@@ -60,6 +58,8 @@ The lanterns are not the small, delicate affairs you might imagine. These are en
 **Practical tip:** Go on a weekday evening if possible — weekend crowds can be overwhelming. The lanterns are best viewed after dark, obviously, but arrive before sunset to secure a good viewing position for the most popular installations.
 
 ## Exploring the City
+
+![Shiwannanfengguzao Scenery, Guangdong, Foshan](/img/destinations/guangdong-zhongshan-city-guide/2.webp)
 
 ### Sun Wen West Road (孙文西路)
 
@@ -76,8 +76,6 @@ The city's largest park, covering about 90 hectares of rolling hills, lakes, and
 ### Qijiang River Waterfront (岐江河畔)
 
 The Qijiang River runs through the centre of Zhongshan, and the waterfront promenade is one of the city's great pleasures. Lined with restaurants, bars, and public art installations, it's the place to be in the evening. The night views of the bridges and riverside buildings are surprisingly attractive.
-
-![Zhongshan Guangdong City — Zhongshan Cuisine — Cantonese at Its Best](https://images.pexels.com/photos/6646364/pexels-photo-6646364.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Zhongshan Cuisine — Cantonese at Its Best
 
@@ -108,6 +106,8 @@ The single most famous dish in Zhongshan. Young pigeons are marinated in a secre
 **Xiaolan Food Street:** A cluster of small restaurants in Xiaolan town specialising in local dishes. Meals ¥25-40 ($3.50-5.50 USD) per person.
 
 ## Practical Information
+
+![Baomo Garden, Guangdong, Guangzhou](/img/destinations/guangdong-zhongshan-city-guide/3.webp)
 
 ### Getting to Zhongshan
 

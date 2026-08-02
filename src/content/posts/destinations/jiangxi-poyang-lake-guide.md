@@ -13,7 +13,7 @@ tags:
   - nature
   - wetlands
 description: "Poyang Lake in Jiangxi is China's largest freshwater lake and the world's most important wintering ground for Siberian cranes. This 2026 guide covers the best birdwatching season (November-March), viewing locations, Nanchang base, boat tours, local food, and how to combine with Jingdezhen porcelain and Lushan Mountain."
-ogImage: "https://images.pexels.com/photos/32972824/pexels-photo-32972824.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/jiangxi-poyang-lake-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -24,7 +24,7 @@ But even setting aside the cranes, Poyang Lake in winter hosts remarkable concen
 
 ## Understanding Poyang Lake
 
-![Poyang Lake Jiangxi — Understanding Poyang Lake](https://images.pexels.com/photos/31209458/pexels-photo-31209458.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![— Mingcidou Old Town Scenery, Jingdezhen](/img/destinations/jiangxi-poyang-lake-guide/1.webp)
 
 Poyang Lake (鄱阳湖) is China's largest freshwater lake, but with a significant caveat: its size varies enormously between seasons. In summer (July-September), fed by the five major rivers of Jiangxi and the Yangtze, it expands to over 4,000 square kilometres. In winter, the water recedes dramatically, exposing mudflats and turning vast sections of the lake into shallow wetland habitat — exactly what waterbirds need. At its winter minimum the lake shrinks to perhaps 500-1,000 square kilometres.
 
@@ -53,9 +53,9 @@ Multiple observation towers and walking paths have been established in the natur
 
 **Viewing towers near Xingzi County:** The northern lake areas around Xingzi have several accessible observation platforms and are sometimes easier to reach from Nanchang via road.
 
-![Poyang Lake Jiangxi — Getting to the Lake](https://images.pexels.com/photos/36103492/pexels-photo-36103492.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Getting to the Lake
+
+![Jinggangshan Scenery, Jiangxi](/img/destinations/jiangxi-poyang-lake-guide/2.webp)
 
 **Nanchang (南昌)** is the most practical base city. It's 60-90km from the main lake areas, depending on which section you're targeting.
 
@@ -89,9 +89,9 @@ Winter crane photography at Poyang is genuinely world-class and draws serious wi
 
 **Boat photography:** From water level, the perspective on bird concentrations is exceptional. Negotiate with boat operators to position the boat for optimal light.
 
-![Poyang Lake Jiangxi — Local Food Near Poyang Lake](https://images.pexels.com/photos/29461567/pexels-photo-29461567.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Local Food Near Poyang Lake
+
+![Longhu Mountain Scenery, Jiangxi](/img/destinations/jiangxi-poyang-lake-guide/3.webp)
 
 Jiangxi cuisine (赣菜) is one of China's lesser-known regional traditions but has genuine qualities, especially in the freshwater fish and lake-based ingredients department.
 

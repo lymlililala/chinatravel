@@ -19,14 +19,14 @@ tags:
   - zhijin-cave
   - buyi
 description: "Explore Anshun, Guizhou — gateway to Huangguoshu Waterfall, Asia's largest, plus Zhijin Cave, Buyi stone villages, local food and a 3-day budget."
-ogImage: "https://images.pexels.com/photos/8776833/pexels-photo-8776833.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guizhou-anshun-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## Anshun — Guizhou's Natural Wonder Capital
 
-![Anshun Guizhou — Anshun — Guizhou's Natural Wonder Capital](https://images.pexels.com/photos/35557996/pexels-photo-35557996.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Dong Village Gulou](/img/destinations/guizhou-anshun-guide/1.webp)
 
 Anshun (安顺) has been dealt an extraordinary geographical hand. Within a 100 km radius of this modest Guizhou city, you'll find Asia's largest waterfall, one of the world's most impressive caves, traditional Buyi minority stone villages, and a karst landscape so dramatic it makes other limestone regions look demure. For years, Anshun was a sleepy backwater, bypassed by travellers heading to Guizhou's more famous Miao and Dong minority areas. But improved transport connections and growing domestic tourism have put it firmly on the map.
 
@@ -90,9 +90,9 @@ The cave was only properly explored in 1980, and significant sections remain und
 - **Photography:** Tripods are not permitted (the paths are too narrow and crowded). A camera with good low-light performance is essential
 - **Crowds:** Visit on a weekday if possible — the narrow paths become congested with tour groups on weekends
 
-![Anshun Guizhou — Buyi Minority Stone Villages](https://images.pexels.com/photos/27219994/pexels-photo-27219994.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Buyi Minority Stone Villages
+
+![Diaojiaolou Scenery](/img/destinations/guizhou-anshun-guide/2.webp)
 
 ### Tianlong Tunpu (天龙屯堡)
 
@@ -138,9 +138,9 @@ The old section of Anshun retains some traditional architecture and has a lively
 
 **Anshun Roast Fish Street (烤鱼一条街):** A block of restaurants near the old town specialising in roast fish. Meals ¥40-60 ($5.50-8.30 USD) per person.
 
-![Anshun Guizhou — Practical Information](https://images.pexels.com/photos/8776830/pexels-photo-8776830.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Practical Information
+
+![Qianlinghongfu Temple Scenery, Guizhou](/img/destinations/guizhou-anshun-guide/3.webp)
 
 ### Getting to Anshun
 

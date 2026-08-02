@@ -14,7 +14,7 @@ tags:
   - kuanzhai-alley
   - wide-and-narrow-alley
 description: "Kuanzhai Alley Chengdu (Wide and Narrow Alleys) — Qing dynasty lanes, courtyard teahouses, food worth eating, what to skip, and how to beat the crowds."
-ogImage: "https://images.pexels.com/photos/6657905/pexels-photo-6657905.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/chengdu-wide-narrow-lanes-guide/cover.webp"
 faq:
   - question: "What is Kuanzhai Alley in Chengdu?"
     answer: "Kuanzhai Alley (宽窄巷子, Wide and Narrow Alleys) is a historic Qing dynasty district in central Chengdu made up of three parallel lanes — Wide Alley, Narrow Alley, and Well Alley. Originally a Manchu military garrison, it's now a pedestrian precinct of teahouses, restaurants, and shops. Entry is free."
@@ -28,19 +28,17 @@ faq:
 
 Kuanzhai Alley Chengdu (宽窄巷子, Kuān Zhǎi Xiàngzi — the Wide and Narrow Alleys) is three historic Qing dynasty lanes in central Chengdu — Wide Alley (宽巷子), Narrow Alley (窄巷子), and Well Alley (井巷子) — preserved and partially restored as a heritage and lifestyle district. It was the Manchu garrison neighbourhood established after the Qing conquest and is now Chengdu's most visited heritage area. Some of it is excellent; some of it is pure tourist theatre. This guide tells you which is which.
 
-![Chengdu Wide Narrow Alleys — The Three Lanes](https://images.pexels.com/photos/8533639/pexels-photo-8533639.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Table of contents
 
 ## The Three Lanes
+
+![Tianfuguosheyinger, Sichuan, Chengdu](/img/destinations/chengdu-wide-narrow-lanes-guide/1.webp)
 
 **Wide Alley (宽巷子)**: The most commercial — high-end restaurants, boutique hotels converted from Qing dynasty courtyard residences, and the highest tourist density. The courtyard architecture is the most complete here, and the best courtyard teahouses are on this lane; look for houses with original flagstone courtyards and surviving old trees (some of the large ginkgo and locust trees are 100+ years old). Walk early morning to see it without crowds. The small stalls offering old-fashioned photography — Republican-era (1912–1949) Chengdu costumes with period props — are kitschy but genuinely charming.
 
 **Narrow Alley (窄巷子)**: More residential feel — cafes, smaller restaurants, handicraft shops, and the concentration of street food stalls. The lane is physically narrower; the atmosphere is more intimate.
 
 **Well Alley (井巷子)**: The most contemporary — creative shops, modern cafes and bars, and a lengthy ceramic bottle-cap wall art installation running the length of the lane. Lower tourist density than the other two lanes. Good coffee, less traditional atmosphere — worth walking through but not the destination.
-
-![Chengdu Wide Narrow Alleys — Teahouse Culture](https://images.pexels.com/photos/37128809/pexels-photo-37128809.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## History and Architecture
 
@@ -60,11 +58,11 @@ Chengdu's teahouse culture (茶馆文化) centres on the slow afternoon — sitt
 
 ## Sichuan Opera Face Changing
 
+![Lugu Lake Ligeban Island Scenery, Sichuan](/img/destinations/chengdu-wide-narrow-lanes-guide/2.webp)
+
 Several restaurants and performance venues in Kuanzhai Alley offer Sichuan Opera performances including the famous "face changing" (变脸, biàn liǎn) technique — performers switch painted masks in a fraction of a second through closely guarded trade secrets. A full performance runs 60–90 minutes; the face-changing portion is typically 5–10 minutes within the show.
 
 **Best option**: dedicated venues offer better production quality than restaurant shows. The Jinjiang Theatre (锦江剧场) near Tianfu Square is the standard recommendation.
-
-![Chengdu Wide Narrow Alleys — Food in the Area](https://images.pexels.com/photos/28999498/pexels-photo-28999498.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Food in the Area
 
@@ -83,6 +81,8 @@ The alley's food vendors serve both tourist-priced dishes and genuine Chengdu sn
 **Nearby alternatives**: The neighbourhood streets within 3–5 minutes walk of the alleys have authentic Chengdu local restaurants without the tourist pricing.
 
 ## What to Skip
+
+![Shunanzhuhai Landscape](/img/destinations/chengdu-wide-narrow-lanes-guide/3.webp)
 
 **The entrance gate photo opportunity**: the illuminated archway at the entrance to Wide Alley is heavily photographed and heavily crowded. The actual alley interiors are better than the gateway suggests.
 

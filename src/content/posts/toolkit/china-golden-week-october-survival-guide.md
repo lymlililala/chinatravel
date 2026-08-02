@@ -14,7 +14,7 @@ tags:
   - toolkit
   - planning
 description: "Golden Week October 2026 in China runs Oct 1-7. How to survive (or avoid) the National Day travel crush: official dates, booking windows, and where to go."
-ogImage: "https://images.pexels.com/photos/29767807/pexels-photo-29767807.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/toolkit/china-golden-week-october-survival-guide/cover.webp"
 faq:
   - question: "When is Golden Week in China in 2026?"
     answer: "The October Golden Week runs October 1-7, 2026 — a seven-day public holiday built around National Day on 1 October. The State Council typically attaches one or two 'make-up' working weekends either side, and in practice the travel crush starts on the evening of September 30 and peaks again on October 7-8 for the return journey."
@@ -34,13 +34,13 @@ For international visitors who either can't avoid travelling during this period 
 
 ## When Is Golden Week in China in 2026? Official Dates
 
+![Yiyuanjie Scenery, Beijing, Suzhou](/img/toolkit/china-golden-week-october-survival-guide/1.webp)
+
 The October Golden Week is built around National Day on 1 October. In 2026 the public holiday runs **October 1-7, 2026** — seven consecutive days off for almost every worker and student in the country. The State Council typically confirms the arrangement late in the preceding year and attaches one or two "make-up" working weekends either side, so the surrounding Saturdays or Sundays can be normal working days.
 
 In practical terms, the travel peak is wider than the official dates. Outbound crowds build from the evening of September 30, and the return rush peaks on October 7-8. If you are booking trains or hotels, treat September 30 to October 8 as the high-pressure window, not just the official seven days.
 
 ## Understanding the Scale
-
-![China Golden Week Survival — Understanding the Scale](https://images.pexels.com/photos/6077797/pexels-photo-6077797.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Golden Week is the result of seven consecutive public holidays being compacted into one block. This means that virtually every Chinese worker with holiday entitlement travels simultaneously. The rail system, road network, and airport infrastructure are all operating at or beyond capacity.
 
@@ -64,8 +64,6 @@ Jiuzhaigou, Zhangjiajie, Tiger Leaping Gorge, the Guilin Li River cruise, West L
 
 **Theme parks:** Disneyland Shanghai and Beijing Universal Studios have wait times of 3-4 hours for popular rides during Golden Week. Both are genuinely wonderful parks at other times.
 
-![China Golden Week Survival — Places That Are Actually Manageable](https://images.pexels.com/photos/16448130/pexels-photo-16448130.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Places That Are Actually Manageable
 
 **Secondary and tertiary cities:**
@@ -88,6 +86,8 @@ Dunhuang, Jiayuguan, and the Gansu Silk Road corridor attract Golden Week visito
 
 ## The Contrarian Guide to Enjoying Golden Week
 
+![Huanghuachengshui Great Wall Scenery, Beijing](/img/toolkit/china-golden-week-october-survival-guide/2.webp)
+
 If you're an international visitor who happens to be in China during Golden Week, reframe the experience:
 
 **Cities over nature:** Museums, restaurants, shops, and urban neighbourhoods all operate normally during Golden Week. The National Museum of China in Beijing, the Jing'an Museum in Shanghai, the excellent Chengdu Museum — these all require advance booking but are genuinely enjoyable even with holiday visitor numbers.
@@ -97,8 +97,6 @@ If you're an international visitor who happens to be in China during Golden Week
 **Book the famous sites for first thing in the morning:** Timed entry systems at the Forbidden City, Terracotta Warriors, and Mogao Caves mean that booking the very first slot of the day gets you ahead of the main wave. A 8:30am entry to the Terracotta Warriors on October 1 is dramatically better than a 2pm entry.
 
 **Go where the crowds are going away from:** If everyone is going to Jiuzhaigou, the villages in northern Sichuan that would normally have day-trippers from Jiuzhaigou visits (Songpan, Huanglong) will be relatively quiet.
-
-![China Golden Week Survival — The Booking Logistics](https://images.pexels.com/photos/1606957/pexels-photo-1606957.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Booking Logistics
 

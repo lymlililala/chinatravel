@@ -1,7 +1,7 @@
 ---
 title: "Huangguoshu Waterfall and Silong Gorge: Guizhou's Waterfall Country"
 description: "Detailed guide to Huangguoshu Waterfall (黄果树大瀑布) and the Silong Gorge cave system in Guizhou. Best viewing seasons, the water curtain cave, boat rides, how to plan your day and getting there from Guiyang."
-ogImage: "https://images.pexels.com/photos/8776831/pexels-photo-8776831.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guizhou-huangguoshu-silong-gorge/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Huangguoshu Waterfall", "Guizhou", "China waterfalls", "nature travel China", "贵州", "Silong Gorge", "China adventure"]
@@ -9,9 +9,9 @@ tags: ["Huangguoshu Waterfall", "Guizhou", "China waterfalls", "nature travel Ch
 
 Huangguoshu Waterfall (黄果树大瀑布, Huángguǒshù Dà Pùbù) is the largest waterfall in Asia by volume — 77.8 meters high and 101 meters wide at its crest during peak flow. Standing at its base in July or August, when the monsoon rains have been filling the Baibu River for weeks, the sheer physical force of the water is overwhelming: the spray creates a permanent rainbow in the mist, the roar drowns all conversation, and you feel the ground vibrate underfoot.
 
-![Huangguoshu Waterfall Silong Gorge — The Waterfall System](https://images.pexels.com/photos/36398650/pexels-photo-36398650.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## The Waterfall System
+
+![Waterfall Scenery, Huangguoshu, Guizhou](/img/destinations/guizhou-huangguoshu-silong-gorge/1.webp)
 
 Huangguoshu sits within the **Huangguoshu Scenic Area**, which contains not one but 18 waterfalls along a 6 km stretch of the Baibu River. The largest (Huangguoshu itself) is the centerpiece, but the system's other waterfalls, underground rivers and natural bridges make a full-day exploration worthwhile.
 
@@ -29,9 +29,9 @@ The main waterfall can be viewed from multiple levels:
 ### Star Bridge Falls (陡坡塘瀑布)
 700 meters upstream from the main falls; 1,080 meters wide and 21 meters high — a different visual character from the vertical main falls (this one is a wide, tiered cascade). Creates extraordinary reflective pools in its aftermath.
 
-![Huangguoshu Waterfall Silong Gorge — When to Visit](https://images.pexels.com/photos/37161596/pexels-photo-37161596.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## When to Visit
+
+![Tianhetan Waterfall Scenery, Guizhou](/img/destinations/guizhou-huangguoshu-silong-gorge/2.webp)
 
 **Peak season (June–September)**: Maximum water volume; the falls are most spectacular. The main waterfall reaches its full 101-meter width. Spray zone extends 100+ meters from the base. Waterproof clothing recommended near the base. Weekday visits avoid the heavy domestic tourism of summer weekends.
 
@@ -40,8 +40,6 @@ The main waterfall can be viewed from multiple levels:
 **Autumn and winter (October–February)**: Significantly reduced flow; the falls become multiple separate streams rather than one connected curtain. Some sections dry completely. The landscape is dramatic in its own way but not the visceral experience of summer. Cheaper accommodation and no crowds.
 
 **Verdict**: Visit in summer if you want the full experience of Asia's largest waterfall in full flow.
-
-![Huangguoshu Waterfall Silong Gorge — The Silong Gorge](https://images.pexels.com/photos/31211666/pexels-photo-31211666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Silong Gorge
 
@@ -52,6 +50,8 @@ The Silong Gorge (犀牛洞/天龙屯堡) area, accessible from Anshun (the near
 **Anshun's Tunpu culture (屯堡文化)**: In the Anshun area, descendants of 14th-century Ming Dynasty soldiers stationed here as colonizers have maintained their original culture — clothing, architecture, language dialects and folk performances frozen for 600 years. The village of Yunshan Tun (云山屯) is a preserved example. An anthropological oddity within the waterfall tourism.
 
 ## Practical Planning
+
+![Xijiang Miao Village Landscape, Guizhou](/img/destinations/guizhou-huangguoshu-silong-gorge/3.webp)
 
 **Entry fee**: ¥185 for the main scenic area (peak season); includes shuttle buses within the area
 

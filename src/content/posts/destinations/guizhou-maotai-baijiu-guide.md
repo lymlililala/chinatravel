@@ -12,14 +12,14 @@ tags:
   - spirits-tourism
   - renhuai
 description: "Journey to the banks of the Chishui River in Guizhou to explore Maotai Town, the spiritual home of China's most famous spirit and the source of the world's most valuable liquor brand. This 2026 guide covers distillery tours, the science behind Maotai's unique flavour profile, baijiu tasting experiences, the surprisingly beautiful town itself, local Guizhou cuisine, and practical tips for visiting the place where a single bottle can cost more than a car."
-ogImage: "https://images.pexels.com/photos/15969586/pexels-photo-15969586.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guizhou-maotai-baijiu-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## Maotai — The Town That Drinks the World
 
-![Maotai Town Guizhou — Maotai — The Town That Drinks the World](https://images.pexels.com/photos/6876848/pexels-photo-6876848.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Qingyan Old Town Scenery, Guizhou](/img/destinations/guizhou-maotai-baijiu-guide/1.webp)
 
 Maotai (茅台) isn't just a drink — it's an institution, a status symbol, a diplomatic tool, and for the town that produces it, the reason everything exists. This small settlement of roughly 60,000 people on the banks of the Chishui River in northern Guizhou produces a baijiu (白酒, Chinese white spirit) so prized that a single bottle of the standard Flying Fairy (飞天) retails for ¥1,500-2,000 ($208-277 USD), while vintage and limited editions regularly fetch tens of thousands of dollars at auction.
 
@@ -75,9 +75,9 @@ A purpose-built cultural complex that serves as the primary tourist experience. 
 
 **The Shop:** You can buy Maotai at official retail prices here — ¥1,499 ($208 USD) for the standard Flying Fairy, which is actually below the current market price of ¥1,800-2,200 ($249-305 USD). The catch is that there are purchase limits (2 bottles per person per day) and you'll need to show ID.
 
-![Maotai Town Guizhou — Exploring Maotai Town](https://images.pexels.com/photos/14553045/pexels-photo-14553045.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Exploring Maotai Town
+
+![Xijiang Miao Village Landscape, Guizhou](/img/destinations/guizhou-maotai-baijiu-guide/2.webp)
 
 ### The Riverfront
 
@@ -119,9 +119,9 @@ The food in Maotai and the surrounding Renhuai area is robust, spicy, and design
 
 **Maotai-peanuts:** A local bar snack — peanuts roasted with a splash of Maotai. ¥10-15 ($1.40-2 USD).
 
-![Maotai Town Guizhou — Practical Information](https://images.pexels.com/photos/24415068/pexels-photo-24415068.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 ## Practical Information
+
+![Dong Village Gulou](/img/destinations/guizhou-maotai-baijiu-guide/3.webp)
 
 ### Getting to Maotai Town
 
