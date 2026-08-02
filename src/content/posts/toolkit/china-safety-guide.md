@@ -183,7 +183,7 @@ China is generally very safe for solo female travellers — safer than many coun
 - DiDi is safer than random taxis — the driver is tracked and you can share your live location
 - Women-only dorm rooms are available at most quality hostels
 
-**Detailed guidance:** See our [Solo Female Travel in China guide](/posts/china-solo-female-travel-guide/).
+**Detailed guidance:** See our [Solo Female Travel in China guide](/posts/toolkit/china-solo-female-safety-guide/).
 
 ### For LGBTQ+ travellers
 Same-sex relationships are not illegal in China, but public displays of affection can attract unwanted attention in conservative areas. Major cities (Shanghai's Jing'an district especially) have visible and welcoming LGBTQ+ scenes. Exercise the same discretion you would in any traditional cultural context.

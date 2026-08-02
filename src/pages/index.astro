@@ -8,6 +8,7 @@ import Footer from "@/components/Footer.astro";
 import Card from "@/components/Card.astro";
 import LinkButton from "@/components/LinkButton.astro";
 import { getSortedPosts } from "@/utils/getSortedPosts";
+import { getPostUrl } from "@/utils/getPostPaths";
 import { useTranslations } from "@/i18n";
 import config from "@/config";
 
@@ -313,15 +314,24 @@ const featuredHeroThumb = featuredHero ? assignUniqueThumbs([featuredHero], true
 const featuredSidebarThumbs = assignUniqueThumbs(featuredSidebar, false, usedThumbs);
 const recentSidebarThumbs = assignUniqueThumbs(recentPosts.slice(0, 3), false, usedThumbs);
 
-// Post URL helper
-function getSimplePostUrl(id: string): string {
-  return `/posts/${id.replace(/^(destinations|toolkit)\//, "")}/`;
-}
 ---
 
 <Layout
   title="China Travel Guide 2026: Visa, Payments & Destinations | Roam China Travel"
 >
+  <!-- Runs during parsing, before the sections paint: opts this page into the
+       scroll-reveal animation only when JS is actually alive. Without it the
+       sections simply render visible. -->
+  <script is:inline>
+    document.documentElement.classList.add("anim-ready");
+    // Watchdog: if nothing ever got revealed, the reveal machinery is broken —
+    // drop the hidden state entirely rather than showing a blank page.
+    setTimeout(function () {
+      if (!document.querySelector(".observe-fade.section-visible")) {
+        document.documentElement.classList.remove("anim-ready");
+      }
+    }, 2500);
+  </script>
   <Header />
   <main
     id="main-content"
@@ -716,7 +726,7 @@ function getSimplePostUrl(id: string): string {
 
               <!-- Hero featured card (col-span-3) -->
               <a
-                href={`/posts/${featuredHero.id.replace(/^(destinations|toolkit)\//, "")}/`}
+                href={getPostUrl(featuredHero.id, featuredHero.filePath, locale)}
                 class="group magazine-hero relative col-span-full overflow-hidden rounded-2xl border border-border bg-[var(--card-bg)] shadow-sm transition-all duration-400 hover:shadow-2xl hover:-translate-y-1.5 lg:col-span-3"
                 style="min-height: 420px;"
               >
@@ -760,7 +770,7 @@ function getSimplePostUrl(id: string): string {
               <div class="col-span-full flex flex-col gap-4 lg:col-span-2">
                 {featuredSidebar.length > 0 ? featuredSidebar.map((post, idx) => (
                   <a
-                    href={`/posts/${post.id.replace(/^(destinations|toolkit)\//, "")}/`}
+                    href={getPostUrl(post.id, post.filePath, locale)}
                     class="group flex gap-4 overflow-hidden rounded-xl border border-border bg-[var(--card-bg)] p-3.5 shadow-sm transition-all duration-300 hover:shadow-md hover:-translate-y-0.5 hover:border-accent/25"
                   >
                     <div class="h-20 w-24 flex-shrink-0 overflow-hidden rounded-lg bg-muted">
@@ -792,7 +802,7 @@ function getSimplePostUrl(id: string): string {
                   <div class="flex flex-col gap-4">
                     {recentPosts.slice(0, 3).map((post, idx) => (
                       <a
-                        href={`/posts/${post.id.replace(/^(destinations|toolkit)\//, "")}/`}
+                        href={getPostUrl(post.id, post.filePath, locale)}
                         class="group flex gap-4 overflow-hidden rounded-xl border border-border bg-[var(--card-bg)] p-3.5 shadow-sm transition-all duration-300 hover:shadow-md hover:-translate-y-0.5 hover:border-accent/25"
                       >
                         <div class="h-20 w-24 flex-shrink-0 overflow-hidden rounded-lg bg-muted">
@@ -939,16 +949,21 @@ function getSimplePostUrl(id: string): string {
     const fadeTargets = document.querySelectorAll(".observe-fade");
     if (!fadeTargets.length) return;
 
+    const reveal = (section: Element) => {
+      if (section.classList.contains("section-visible")) return;
+      section.classList.add("section-visible");
+      const children = section.querySelectorAll("a[class*='rounded'], li, .grid > *, .bento-item");
+      children.forEach((child, i) => {
+        (child as HTMLElement).style.animationDelay = `${i * 0.06}s`;
+        child.classList.add("card-pop-in");
+      });
+    };
+
     const observer = new IntersectionObserver(
       entries => {
         entries.forEach(entry => {
           if (entry.isIntersecting) {
-            entry.target.classList.add("section-visible");
-            const children = entry.target.querySelectorAll("a[class*='rounded'], li, .grid > *, .bento-item");
-            children.forEach((child, i) => {
-              (child as HTMLElement).style.animationDelay = `${i * 0.06}s`;
-              child.classList.add("card-pop-in");
-            });
+            reveal(entry.target);
             observer.unobserve(entry.target);
           }
         });
@@ -956,6 +971,25 @@ function getSimplePostUrl(id: string): string {
       { threshold: 0.05 }
     );
     fadeTargets.forEach(el => observer.observe(el));
+
+    // Failsafe: IntersectionObserver callbacks are not delivered while the tab is
+    // hidden (background tab, session restore, screenshot tooling), which would
+    // otherwise leave every section stuck at opacity 0. Reveal whatever is already
+    // in the viewport, and retry whenever the tab becomes visible again. Sections
+    // further down still animate on scroll as intended.
+    const revealInView = () => {
+      fadeTargets.forEach(el => {
+        const rect = el.getBoundingClientRect();
+        if (rect.top < window.innerHeight && rect.bottom > 0) {
+          reveal(el);
+          observer.unobserve(el);
+        }
+      });
+    };
+    setTimeout(revealInView, 1200);
+    document.addEventListener("visibilitychange", () => {
+      if (document.visibilityState === "visible") revealInView();
+    });
   });
 </script>
 
@@ -965,15 +999,28 @@ function getSimplePostUrl(id: string): string {
     animation: heroSlideUp 0.85s cubic-bezier(0.22, 1, 0.36, 1) forwards;
   }
 
-  /* Section fade-in */
+  /* Section fade-in — content is visible by default so a JS failure (or a tab that
+     never becomes visible) can never leave the page blank. The hidden starting
+     state is opt-in via `html.anim-ready`, set by the inline script below. */
   .observe-fade {
+    opacity: 1;
+    transform: none;
+  }
+  :global(html.anim-ready) .observe-fade {
     opacity: 0;
     transform: translateY(24px);
     transition: opacity 0.65s ease, transform 0.65s ease;
   }
-  .observe-fade.section-visible {
+  :global(html.anim-ready) .observe-fade.section-visible {
     opacity: 1;
     transform: translateY(0);
+  }
+  @media (prefers-reduced-motion: reduce) {
+    :global(html.anim-ready) .observe-fade {
+      opacity: 1;
+      transform: none;
+      transition: none;
+    }
   }
 
   /* Card pop-in */
