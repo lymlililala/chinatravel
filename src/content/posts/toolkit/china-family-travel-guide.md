@@ -13,7 +13,6 @@ tags:
   - chengdu
   - shanghai
 description: "Everything families need to plan a successful trip to China with children — best destinations for kids, how to handle food and health, getting around with young children, and ready-made 10-day family itineraries."
-ogImage: "/img/toolkit/china-family-travel-guide/cover.webp"
 ---
 
 Travelling to China with children is one of the most rewarding family trips you can take — and also one that requires more preparation than most. The country's size, the language barrier, the digital infrastructure, and the scale of the crowds all multiply when you are managing children alongside them. This guide turns those complications into manageable steps.
@@ -25,8 +24,6 @@ The short version: China is a brilliant destination for families. Kids are welco
 ---
 
 ## Why China Works for Families
-
-![Jiangnan Water Town Scenery, Suzhou](/img/toolkit/china-family-travel-guide/1.webp)
 
 **Children are celebrated.** Chinese culture has a deep warmth toward children. Strangers in restaurants, markets, and on trains will smile, offer food, and want to photograph your children (especially fair-haired or non-Asian children, who attract enormous friendly attention). This can be overwhelming at first but is almost always well-intentioned and kind.
 
@@ -174,8 +171,6 @@ Fly from Chengdu Tianfu International Airport. Direct flights operate to London,
 ---
 
 ## Schools and Education
-
-![Tongli Old Town Scenery, Jiangsu, Suzhou](/img/toolkit/china-family-travel-guide/2.webp)
 
 One frequently asked question from families taking children out of school: does China offer anything educational to justify the time off?
 

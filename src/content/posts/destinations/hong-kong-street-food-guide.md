@@ -22,8 +22,6 @@ The best of Hong Kong's street food culture is still very much alive — you jus
 
 ## Dai Pai Dongs: Outdoor Cooking Stalls
 
-![Terracotta Army](/img/destinations/hong-kong-street-food-guide/1.webp)
-
 A dai pai dong (大牌檔) is an open-air food stall with folding tables and plastic stools, a wok station, and a menu of Cantonese stir-fries, noodles, and rice plates. The name comes from the large government licence placard (大牌) that authorised operators were required to display.
 
 At their peak in the 1950s and 1960s, dai pai dongs were everywhere in Hong Kong — the street-level restaurant of a city without space for proper dining rooms. The government began pressuring them out of existence from the 1970s onwards on hygiene and traffic grounds, and only a few licensed locations remain.
@@ -33,6 +31,8 @@ At their peak in the 1950s and 1960s, dai pai dongs were everywhere in Hong Kong
 **What to order**: Stir-fried clams in black bean sauce (豉汁炒蜆), beef brisket and radish noodles (牛腩蘿蔔麵), wonton soup (雲吞湯). Prices are typically ¥40–¥80 per dish.
 
 ## Egg Waffles: Hong Kong's Best Street Invention
+
+![Scenery, Hong Kong](/img/destinations/hong-kong-street-food-guide/1.webp)
 
 The egg waffle (雞蛋仔, gai daan zai) is a quintessentially Hong Kong creation — a batter of eggs, sugar, evaporated milk, and flour cooked in a dimpled circular iron press to produce a grid of connected hollow spheres. The spheres are puffed, slightly crispy on the outside, soft and eggy within, and best eaten burning hot, walking down the street, tearing spheres off one by one.
 
@@ -50,7 +50,7 @@ Temple Street in Yau Ma Tei and the Mong Kok area have the densest concentration
 
 ## Pineapple Buns: Cha Chaan Teng Culture Elevated
 
-![Qinshi Imperial Tomb Terracotta Army](/img/destinations/hong-kong-street-food-guide/2.webp)
+![Haiyang Park Landscape, Hong Kong](/img/destinations/hong-kong-street-food-guide/2.webp)
 
 The pineapple bun (菠蘿包, bolo bao) contains no pineapple — the name comes from the crinkled, glazed top crust that loosely resembles the exterior of a pineapple. Inside is soft, sweet white bread. At Hong Kong's cha chaan tengs and bakeries, the pineapple bun with butter (菠蘿油) is the most widely consumed morning snack — a slice of cold butter inserted into a warm pineapple bun creates a combination that is genuinely excellent despite its simplicity.
 
@@ -58,7 +58,7 @@ Price: ¥8–¥15 per bun. Available at essentially every Hong Kong bakery (Maxi
 
 ## Temple Street Night Market: Food After Dark
 
-![Great Wall Lao City Wall](/img/destinations/hong-kong-street-food-guide/3.webp)
+![Landscape Zonghe, Hong Kong](/img/destinations/hong-kong-street-food-guide/3.webp)
 
 Temple Street Night Market in Yau Ma Tei, Kowloon, runs from around 4pm to midnight. The main stretch has street vendors selling cheap clothing, phone accessories, and jade, but the food section — clustered around the temple area midway down the street and in the adjacent cooked food centre — is more interesting.
 

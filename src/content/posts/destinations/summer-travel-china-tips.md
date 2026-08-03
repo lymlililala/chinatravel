@@ -11,7 +11,7 @@ tags:
   - "guangdong"
   - "fujian"
 description: "Practical advice for summer travel in China: flight deals, car rental discounts, staying cool with portable fans, and driving comfort tips for a"
-ogImage: "https://images.pexels.com/photos/8631623/pexels-photo-8631623.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/summer-travel-china-tips/cover.webp"
 faq:
   - question: "Is summer too hot to travel in China?"
     answer: "While it can be hot, especially in the south, many destinations have cooling sea breezes or mountain climates. Plan indoor activities during midday and use portable fans."
@@ -38,6 +38,8 @@ Summer (June to August) is peak travel season in China, but also a time when man
 ![A busy airport terminal with flight information boards showing destinations](https://images.pexels.com/photos/36681344/pexels-photo-36681344.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Getting Around: Flights and Car Rentals
+
+![Baomo Garden, Guangdong, Guangzhou](/img/destinations/summer-travel-china-tips/1.webp)
 
 ### Flight Deals
 
@@ -86,6 +88,8 @@ Priced at ¥59 per bottle, it's a worthwhile investment for comfort on the road.
 
 ## Top Summer Destinations in China
 
+![Kejia Earthen Tulou, Fujian](/img/destinations/summer-travel-china-tips/2.webp)
+
 ### Fujian Province
 - **Pingtan Island (平潭岛, Píngtán Dǎo)**: Famous for its "Blue Tears" – bioluminescent plankton that glow at night. Best viewed in summer.
 - **Xiamen (厦门, Xià Mén)**: A coastal city with colonial architecture, Gulangyu Island, and fresh seafood.
@@ -130,6 +134,8 @@ Priced at ¥59 per bottle, it's a worthwhile investment for comfort on the road.
 For summer travel, consider accommodations with air conditioning and swimming pools. Budget options include youth hostels (¥50–150 per night) and express hotels like Hanting or Home Inn (¥150–300). Mid-range hotels (¥300–600) often offer better amenities. For a unique experience, try a traditional courtyard hotel (四合院, sìhéyuàn) in Beijing or a water town guesthouse in Suzhou.
 
 ## Food to Try in Summer
+
+![Tailao Mountain Scenery, Fujian](/img/destinations/summer-travel-china-tips/3.webp)
 
 - **Cold noodles (凉面, liángmiàn)**: A refreshing staple in Sichuan and northern China.
 - **Mango pomelo sago (杨枝甘露, yángzhī gānlù)**: A popular Cantonese dessert.

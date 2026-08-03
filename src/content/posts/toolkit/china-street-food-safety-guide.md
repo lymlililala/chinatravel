@@ -1,7 +1,6 @@
 ---
 title: "Eating Street Food in China Safely: What Locals Know"
 description: "Complete guide to safely eating Chinese street food — how to identify safe vendors, what to order, which foods to be cautious with, dealing with stomach issues abroad, and building confidence eating street food in China."
-ogImage: "/img/toolkit/china-street-food-safety-guide/cover.webp"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/china-street-food.jpg"
 category: "toolkit"
@@ -18,8 +17,6 @@ It also requires some judgment. Not all street food is equal in terms of food sa
 This guide is for travelers who want to eat adventurously and safely — not for those who want to eat only at five-star restaurants.
 
 ## The Core Principle: Hot, Fresh, and Busy
-
-![Qiannian Great Wall Lao City Wall](/img/toolkit/china-street-food-safety-guide/1.webp)
 
 These three factors predict safe street food better than any other indicator:
 
@@ -97,8 +94,6 @@ For travelers new to Chinese food, progressive exposure is wiser than diving int
 **Later explore**: More exotic items — rabbit heads in Chengdu, various offal preparations, more unusual regional specialties. These aren't more dangerous (if cooked properly), but they require more palate confidence.
 
 ## Dealing with Stomach Issues
-
-![Jiangnan Water Town Scenery, Suzhou](/img/toolkit/china-street-food-safety-guide/2.webp)
 
 Even careful eaters sometimes get sick abroad. Some practical reality:
 

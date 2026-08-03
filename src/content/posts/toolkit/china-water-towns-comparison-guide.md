@@ -13,7 +13,6 @@ tags:
   - tongli
   - comparison
 description: "China's Yangtze Delta water towns are among the most romantic and historically significant landscapes in the country — canal-threaded villages of Ming and Qing dynasty architecture, stone bridges and traditional boat culture. But they vary enormously in atmosphere, tourism density and authenticity. This 2026 comparison guide covers Wuzhen, Xitang, Zhouzhuang, Tongli and several lesser-known alternatives to help you choose the right town for your visit."
-ogImage: "/img/toolkit/china-water-towns-comparison-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -23,8 +22,6 @@ The water towns of the Yangtze River Delta — the region around Shanghai where 
 Many visitors come away from these towns genuinely moved by the beauty of the surviving architecture and the quality of the light over water. Others find them over-commercialised and over-visited. The difference is almost entirely about which town you choose and when you visit.
 
 ## Quick Comparison Table
-
-![Wanli Great Wall Scenery](/img/toolkit/china-water-towns-comparison-guide/1.webp)
 
 | Town | Distance from Shanghai | Authenticity | Crowds | Night scene | Overnight worthy? |
 |------|----------------------|--------------|--------|-------------|-------------------|
@@ -127,8 +124,6 @@ Tongli is my personal recommendation among the classic water towns. Less famous 
 **Accommodation:** Several guesthouses inside the old town from ¥200–¥480/night ($28–$67). Staying overnight gives the morning walk experience that day visitors miss.
 
 ## Nanxun (南浔)
-
-![Badalingshuiguan Great Wall Scenery, Beijing](/img/toolkit/china-water-towns-comparison-guide/2.webp)
 
 ### Overview
 

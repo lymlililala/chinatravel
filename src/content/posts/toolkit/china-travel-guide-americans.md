@@ -12,14 +12,11 @@ tags:
   - visa
   - safety
 description: "Everything American travellers need to know before visiting China in 2026 — from visa application specifics for US passport holders to navigating the Great Firewall, understanding Chinese surveillance, staying safe, handling money with Alipay, and managing the cultural expectations gap between American and Chinese society. Honest, practical, and based on real experiences from American travellers on the ground."
-ogImage: "/img/toolkit/china-travel-guide-americans/cover.webp"
 ---
 
 ## Table of contents
 
 ## The Honest Guide for American Travellers
-
-![Xingping, Guangxi, Yangshuo](/img/toolkit/china-travel-guide-americans/1.webp)
 
 Let's address the elephant in the room: the US-China relationship is complicated, and American travellers sometimes wonder if they're welcome in China. Based on the experiences of numerous American travellers I've spoken with and my own observations, the answer is an unequivocal yes. Chinese people distinguish clearly between American citizens and American government policy. You will be welcomed warmly, asked curious questions about life in America, and generally treated with hospitality that puts much of the Western world to shame.
 
@@ -180,8 +177,6 @@ The US-China relationship generates strong feelings. As a guest in China, it's w
 - Focus on cultural exchange and shared humanity rather than political disagreement
 
 ## Health and Insurance
-
-![Wanli Great Wall Scenery](/img/toolkit/china-travel-guide-americans/2.webp)
 
 ### Travel Insurance
 

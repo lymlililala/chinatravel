@@ -11,7 +11,6 @@ tags:
   - connectivity
   - toolkit
 description: "Does Google Maps work in China? Which navigation app actually gives accurate walking, transit, and driving directions? A practical comparison of every major mapping app for international travellers in China."
-ogImage: "/img/toolkit/china-maps-navigation-apps-guide/cover.webp"
 ---
 
 Navigation is where the Great Firewall causes the most friction for international travellers. Google Maps is heavily degraded in China — it loads slowly via VPN, satellite imagery is intentionally offset, and public transit routing is incomplete or absent. Getting this right before you arrive prevents a lot of getting lost.
@@ -19,8 +18,6 @@ Navigation is where the Great Firewall causes the most friction for internationa
 ## Table of contents
 
 ## Why Google Maps Doesn't Work Well in China
-
-![Shilihualang Scenery, Zhangjiajie, Hunan](/img/toolkit/china-maps-navigation-apps-guide/1.webp)
 
 Two distinct problems affect Google Maps in China:
 
@@ -88,8 +85,6 @@ Since 2019, Apple Maps in China uses **AutoNavi (Amap) data** as its underlying 
 ---
 
 ## Google Maps: What Actually Works
-
-![Tianzi Mountain Scenery, Zhangjiajie, Hunan](/img/toolkit/china-maps-navigation-apps-guide/2.webp)
 
 Despite the problems, Google Maps has limited utility in China:
 

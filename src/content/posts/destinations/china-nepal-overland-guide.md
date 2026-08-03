@@ -23,8 +23,6 @@ It also requires more paperwork than almost any other journey described in this 
 
 ## The Permits You Need
 
-![Forbidden City Panorama Interior, Beijing](/img/destinations/china-nepal-overland-guide/1.webp)
-
 **This is the most important section. Read it carefully before planning.**
 
 Tibet is not like the rest of China — it requires multiple layers of permits that foreign visitors must obtain before entering. As of 2026, the requirements are:
@@ -55,6 +53,8 @@ If you're visiting the Everest Base Camp area (which most people on this route d
 
 ## Altitude: The Physical Reality
 
+![Spectacular Ali Scenery, Tibet](/img/destinations/china-nepal-overland-guide/1.webp)
+
 Lhasa sits at 3,656m. The Friendship Highway climbs higher — the Gyatso-La Pass is at 5,254m. **Altitude sickness is a serious risk** that has hospitalized and killed travelers on this route.
 
 **Standard advice:**
@@ -66,7 +66,7 @@ Lhasa sits at 3,656m. The Friendship Highway climbs higher — the Gyatso-La Pas
 
 ## The Route: Lhasa to Kyirong
 
-![Jiankou Great Wall Scenery, Beijing](/img/destinations/china-nepal-overland-guide/2.webp)
+![Renwen Natural Landscape, Tibet](/img/destinations/china-nepal-overland-guide/2.webp)
 
 The full journey is approximately **1,000km** and takes 4–7 days depending on your itinerary and how many days you spend at Everest Base Camp.
 
@@ -96,7 +96,7 @@ Kyirong itself is a small town with guesthouses (¥150–300/night) and restaura
 
 ## The Kyirong Border Crossing to Nepal
 
-![Jinshanling Great Wall, Beijing](/img/destinations/china-nepal-overland-guide/3.webp)
+![Mount Everest Peak Scenery, Tibet](/img/destinations/china-nepal-overland-guide/3.webp)
 
 The **Kyirong Port (吉隆口岸)** is the primary crossing point for overland travel between Tibet and Nepal since the 2015 earthquake severely damaged the former Zhangmu crossing.
 

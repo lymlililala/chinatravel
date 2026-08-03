@@ -11,7 +11,6 @@ tags:
   - japanese-travellers
   - east-asia
 description: "Japan to China travel guide — the recent visa-free policy, direct flights from Tokyo, Osaka, and Nagoya, how China's payment system differs from Japan (no cash culture), cultural similarities and surprising differences, key etiquette points, and recommended itineraries for Japanese visitors."
-ogImage: "/img/toolkit/china-travel-guide-japanese/cover.webp"
 ---
 
 Japan and China share thousands of years of cultural exchange, the Chinese character writing system (though Japan adapted it as kanji), Buddhism, tea culture, and much more. But stepping off a plane in Beijing or Shanghai, Japanese visitors are often struck by how different the experience feels from what they expected — and equally surprised by the things that feel familiar.
@@ -23,8 +22,6 @@ China's visa-free policy for Japanese passport holders, restored after a period 
 ---
 
 ## Visa Rules for Japanese Passport Holders
-
-![Guojiadizhi Park Scenery, Huangshan](/img/toolkit/china-travel-guide-japanese/1.webp)
 
 ### Current Visa-Free Entry (2026)
 
@@ -95,8 +92,6 @@ ATMs marked with PLUS, Visa, or Mastercard symbols (found at Bank of China, Chin
 ---
 
 ## Cultural Overlaps and Surprising Differences
-
-![Scenery, Jiuzhaigou, Sichuan](/img/toolkit/china-travel-guide-japanese/2.webp)
 
 ### What Feels Familiar
 

@@ -42,8 +42,6 @@ This guide covers each market — what to buy, when to go, and how to get there 
 
 ## Temple Street Night Market
 
-![Shilihualang Scenery, Zhangjiajie, Hunan](/img/destinations/hong-kong-night-markets-guide/1.webp)
-
 Temple Street is the night market most visitors mean when they say "the Hong Kong night market", and it earns the status. Between roughly 16:00 and midnight, a 600-metre stretch of Temple Street in Jordan–Yau Ma Tei fills with awning-covered stalls selling electronics accessories, watches, lighters, clothing and leather goods. Around the stalls, the market's stranger elements operate: fortune tellers reading palms and birth charts at folding tables, elderly enthusiasts singing Cantonese opera under portable lamps at the northern end, and open-air seafood restaurants spilling tables onto the side streets.
 
 The market takes its name from the Tin Hau Temple that bisects the street, and it has traded here in some form since the early 20th century. It remains genuinely working-class Kowloon — less polished than the Ladies' Market, more interesting for it.
@@ -55,6 +53,8 @@ The market takes its name from the Tin Hau Temple that bisects the street, and i
 For the full breakdown — the fortune tellers' row, the opera, the dai pai dong and what to pay for each — see the dedicated [Temple Street Night Market guide](/posts/destinations/hong-kong-night-market-temple-street/).
 
 ## Ladies' Market (Mong Kok)
+
+![Scenery, Hong Kong](/img/destinations/hong-kong-night-markets-guide/1.webp)
 
 The Ladies' Market runs along Tung Choi Street in Mong Kok, roughly one kilometre of stalls between Argyle Street and Dundas Street. The name is historical — it originally sold women's clothing and accessories — but today the stock is broad: T-shirts, hoodies, bags, phone cases, toys, souvenirs, and a large quantity of goods aimed squarely at visitors.
 
@@ -68,7 +68,7 @@ This is the highest-volume, most tourist-oriented of Hong Kong's night markets. 
 
 ## Fa Yuen Street
 
-![Tianzi Mountain Scenery, Zhangjiajie, Hunan](/img/destinations/hong-kong-night-markets-guide/2.webp)
+![Haiyang Park Landscape, Hong Kong](/img/destinations/hong-kong-night-markets-guide/2.webp)
 
 Two blocks east of the Ladies' Market, Fa Yuen Street is the local counterweight — a street market that serves Mong Kok residents more than visitors. The southern section (between Dundas Street and Argyle Street) is a wet-and-dry street market: fruit and vegetable stalls, butchers, dried goods, and inexpensive clothing on rails. The northern section, around Mong Kok Road, has become known as **Sneakers Street** — a dense row of sportswear shops selling current and last-season trainers, often at prices below mall retail.
 
@@ -80,7 +80,7 @@ Fa Yuen Street has less spectacle than Temple Street and less tourist stock than
 
 ## The Jade Market
 
-![The Bund Scenery](/img/destinations/hong-kong-night-markets-guide/3.webp)
+![Landscape Zonghe, Hong Kong](/img/destinations/hong-kong-night-markets-guide/3.webp)
 
 The Jade Market on Kansu Street in Yau Ma Tei — at the northern end of Temple Street — is a covered hall of around 400 stalls selling jade in every form: pendants, bangles, beads, carvings, and loose stones, alongside pearls, amber and other gemstones. It operates during the day rather than at night (roughly 10:00–16:00), but it pairs naturally with a Temple Street evening: arrive mid-afternoon for the jade, walk south into the night market as the stalls open.
 

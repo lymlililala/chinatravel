@@ -32,8 +32,6 @@ For centuries, China’s intellectual heart beat not in its capitals alone, but 
 
 ## Ji'an: The Cradle of Scholars
 
-![Badalingshuiguan Great Wall Scenery, Beijing](/img/destinations/chinas-scholarly-cities-guide/1.webp)
-
 Ji'an, historically known as Luling (庐陵) and Jizhou (吉州), is a small city in Jiangxi Province that produced over 3,000 *jinshi* (successful candidates in the imperial exams) during the 1,300-year history of the keju system. Among them were 17 *zhuangyuan* (top scorers), as well as literary icons like Ouyang Xiu (欧阳修), Yang Wanli (杨万里), and Wen Tianxiang (文天祥). The city’s scholarly output peaked in the Ming dynasty, when the top three spots in the national exam were twice swept by candidates from Ji'an alone.
 
 ### Top Sights in Ji'an
@@ -61,6 +59,8 @@ Ji'an, historically known as Luling (庐陵) and Jizhou (吉州), is a small cit
 Spring (March–May) and autumn (September–November) offer mild weather and clear skies. Summer can be hot and humid, but it’s also the season for local fruits like water chestnuts.
 
 ## Rui'an: Where Commerce Meets Scholarship
+
+![Shi Lake Scenery, Jiangsu, Suzhou](/img/destinations/chinas-scholarly-cities-guide/1.webp)
 
 Rui'an, a county-level city under Wenzhou in Zhejiang, is famous today as a manufacturing hub for auto parts and shoes. But its cultural pedigree is equally impressive. This is the home of the Yuhai Library (玉海楼, Yùhǎi Lóu), one of the four great private libraries of Zhejiang, where the scholar Sun Yirang (孙诒让) first deciphered oracle bone script in 1904 — a breakthrough that confirmed the Shang dynasty as a historical period and pushed back China’s written history by a millennium.
 
@@ -90,13 +90,13 @@ Late spring (May–June) is ideal for lychee and bayberry (杨梅) season. Autum
 
 ## The Spirit of the Scholarly City
 
-![Badaling Great Wall, Beijing](/img/destinations/chinas-scholarly-cities-guide/2.webp)
+![Zhuozheng Garden, Suzhou](/img/destinations/chinas-scholarly-cities-guide/2.webp)
 
 What made these cities so fertile for learning? In Ji'an, it was the wealth of the Ji'an Basin (吉泰盆地), irrigated by the Gan River and its tributaries. Agriculture provided a stable foundation, while the Grand Canal and the Meiguan Road connected the region to the rest of China. In Rui'an, it was the combination of coastal trade and a tradition of “practical learning” (经世致用) from the Yongjia School of Confucianism. Both cities shared a culture of “farming and reading” (耕读), where families invested in education as a path to officialdom and moral cultivation.
 
 ## Where to Stay
 
-![Simatai Great Wall, Beijing](/img/destinations/chinas-scholarly-cities-guide/3.webp)
+![Fuzimiao Night View, Nanjing](/img/destinations/chinas-scholarly-cities-guide/3.webp)
 
 - **Ji'an:** Choose a hotel near the city center for easy access to Bailuzhou Academy and the old town. The Ji'an Grand Hotel (吉安宾馆) is a reliable mid-range option.
 - **Rui'an:** Stay near Yuhai Library or the Feiyun River. The Rui'an International Hotel (瑞安国际大酒店) offers comfort and convenience.

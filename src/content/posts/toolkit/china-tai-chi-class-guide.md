@@ -11,7 +11,6 @@ tags:
   - martial-arts
   - wellness
 description: "Learning Tai Chi and kung fu in China — the Shaolin Temple's martial arts schools in Henan (kung fu focus), the Wudang Mountain schools (Taoist internal arts, Tai Chi), Chenjiagou village in Henan (birthplace of Chen-style Tai Chi), and casual Tai Chi classes in Shanghai and Beijing parks (free, informal, genuinely excellent for beginners)."
-ogImage: "/img/toolkit/china-tai-chi-class-guide/cover.webp"
 ---
 
 Learning Tai Chi or kung fu in China is more accessible than most people think, and the range of options spans everything from a free hour in a park with elderly practitioners to serious multi-month residential training at schools with direct lineage to historical masters. Where you start depends entirely on what you're after.
@@ -19,8 +18,6 @@ Learning Tai Chi or kung fu in China is more accessible than most people think, 
 ## Table of contents
 
 ## Understanding the Difference: Internal vs External Arts
-
-![Forbidden City Panorama Interior, Beijing](/img/toolkit/china-tai-chi-class-guide/1.webp)
 
 Before booking anything, it helps to understand what you're signing up for:
 
@@ -76,8 +73,6 @@ As detailed in our Wudang guide, the mountain offers Wudang-style Tai Chi, Bagua
 For visitors interested in the health and wellness dimension of Tai Chi rather than martial application, Wudang schools are often more suitable.
 
 ## Beijing and Shanghai Parks: Free Tai Chi With Masters
-
-![Jinshanling Great Wall, Beijing](/img/toolkit/china-tai-chi-class-guide/2.webp)
 
 This is the option most visitors overlook, and it's genuinely excellent for a short stay. Every major park in Chinese cities has early morning exercise groups — and among these groups are Tai Chi practitioners who have been doing this for 40-50 years.
 

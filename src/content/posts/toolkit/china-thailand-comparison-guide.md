@@ -1,7 +1,6 @@
 ---
 title: "China vs Thailand Travel Comparison: Southeast Asia or East Asia for Your Trip?"
 description: "Comparing travel in China versus Thailand — costs, beaches vs. mountains, cultural experiences, visa ease, food, and the popular China-Thailand combined itinerary options."
-ogImage: "/img/toolkit/china-thailand-comparison-guide/cover.webp"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/china-thailand-comparison.jpg"
 category: "toolkit"
@@ -16,8 +15,6 @@ China and Thailand represent two of Asia's most popular tourism destinations, bu
 Thailand has long been the more popular choice for international backpackers and beach seekers; China has historically been more daunting but increasingly accessible. In 2026, with China's expanded visa-free access and growing international tourism infrastructure, the two countries are increasingly in direct comparison.
 
 ## What Each Country Does Best
-
-![Guojiadizhi Park Scenery, Huangshan](/img/toolkit/china-thailand-comparison-guide/1.webp)
 
 ### Thailand Excels At:
 - **Beach and island tourism** (Phuket, Koh Samui, Krabi, Koh Tao)
@@ -104,8 +101,6 @@ Thailand has a distinguished and underappreciated history — the Ayutthaya King
 **For historical tourism**: China is significantly richer.
 
 ## Contemporary Culture and Urban Experience
-
-![Tianzi Mountain Scenery, Zhangjiajie, Hunan](/img/toolkit/china-thailand-comparison-guide/2.webp)
 
 **Bangkok vs. China's major cities**: Bangkok is arguably the most cosmopolitan city in Southeast Asia and one of the most exciting food/nightlife cities in the world. Shanghai, Beijing, and Chengdu offer their own distinct contemporary culture but with less immediate international accessibility.
 

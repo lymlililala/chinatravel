@@ -11,7 +11,6 @@ tags:
   - toolkit
   - culture
 description: "A complete guide to vegetarian and vegan travel in China — how to find plant-based food, which regions are most vegetarian-friendly, how to communicate dietary needs in Chinese, the Buddhist vegetarian restaurant scene, and city-by-city recommendations."
-ogImage: "/img/toolkit/china-vegetarian-vegan-travel-guide/cover.webp"
 ---
 
 China is far more vegetarian-friendly than its reputation suggests — and far more complicated than a simple thumbs-up would imply. The honest picture is nuanced: Buddhist vegetarian restaurants serve elaborate, entirely plant-based menus of extraordinary quality. Ordinary restaurants have dozens of vegetable-based dishes. But "vegetable dishes" in non-specialist restaurants often involve pork stock, lard, or tiny pieces of meat that don't register as "meat" in the Chinese culinary framework.
@@ -23,8 +22,6 @@ This guide explains how to navigate that complexity and eat extremely well on a 
 ---
 
 ## The Buddhist Vegetarian Tradition
-
-![Guojiadizhi Park Scenery, Huangshan](/img/toolkit/china-vegetarian-vegan-travel-guide/1.webp)
 
 China has one of the world's oldest and most sophisticated vegetarian cooking traditions, rooted in Buddhist dietary practice. Buddhist vegetarianism excludes not only meat and fish but also the "five pungent roots" — garlic, onion, leek, chive, and asafoetida — considered to stimulate passion or aggression in Buddhist teaching.
 
@@ -160,8 +157,6 @@ These dishes are either traditionally vegetarian or easily adaptable. Order conf
 ---
 
 ## Apps for Finding Vegetarian Food
-
-![Scenery, Jiuzhaigou, Sichuan](/img/toolkit/china-vegetarian-vegan-travel-guide/2.webp)
 
 **Dianping (大众点评)** — The Chinese equivalent of Yelp/TripAdvisor. Search for **素食** (vegetarian) or **纯素** (vegan) in any city. Download the app; it works without a VPN and has a reasonable English interface.
 

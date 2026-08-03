@@ -12,14 +12,11 @@ tags:
   - visa-exemption
   - practical-tips
 description: "The comprehensive 2026 China travel guide for German citizens, covering the new visa-free entry arrangement, flight connections from Germany, payment setup with German bank cards, cultural comparisons between German and Chinese society, health and safety advice, and curated itineraries designed for German travel preferences including railway journeys, industrial heritage, and natural landscapes."
-ogImage: "/img/toolkit/china-travel-guide-german/cover.webp"
 ---
 
 ## Table of contents
 
 ## Germany Meets China — Two Organised Cultures
-
-![Wanli Great Wall Scenery](/img/toolkit/china-travel-guide-german/1.webp)
 
 Germans and Chinese share more cultural traits than either group typically realises. Both value punctuality, both respect technical excellence, both have deep traditions of craftsmanship, and both take their food seriously (albeit very differently). Where they differ — in directness of communication, in attitudes toward rules and flexibility, in the concept of personal space — the contrasts are illuminating rather than problematic.
 
@@ -146,8 +143,6 @@ Germany's Deutsche Bahn is good, but China's high-speed rail network is on anoth
 **Booking:** Use Trip.com (available in German) or the official 12306.cn (less user-friendly for foreigners but no commission). Book 2-4 weeks ahead for popular routes.
 
 ## Internet and Communication
-
-![Forbidden City Panorama Interior, Beijing](/img/toolkit/china-travel-guide-german/2.webp)
 
 ### VPN Setup
 

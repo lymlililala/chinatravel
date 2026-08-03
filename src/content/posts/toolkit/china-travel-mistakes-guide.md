@@ -11,7 +11,6 @@ tags:
   - planning
   - practical
 description: "The 15 most common China travel mistakes — not setting up mobile payment before arriving (everything requires Alipay or WeChat Pay), not booking train tickets early enough for Golden Week, underestimating distances (Beijing to Xi'an is a 5-hour train, not a short hop), not downloading offline maps (internet is unreliable in many scenic areas), forgetting that passport registration is required at check-in at every hotel."
-ogImage: "/img/toolkit/china-travel-mistakes-guide/cover.webp"
 ---
 
 Every experienced China traveller has a version of the same story: the thing they didn't know before their first trip that would have made everything easier. After compiling hundreds of these accounts, the same 15 mistakes come up again and again.
@@ -21,8 +20,6 @@ None of them are catastrophic. All of them are easily avoidable.
 ## Table of contents
 
 ## 1. Not Setting Up Mobile Payment Before Arriving
-
-![Guojiadizhi Park Scenery, Huangshan](/img/toolkit/china-travel-mistakes-guide/1.webp)
 
 This is the single most impactful preparation you can make for China travel, and the most commonly skipped.
 
@@ -109,8 +106,6 @@ China's digital ecosystem is entirely separate from what you're used to. Uber do
 - A translation app with offline Chinese capability
 
 ## 10. Buying Tickets to Major Attractions Without Checking Online Booking Requirements
-
-![Scenery, Jiuzhaigou, Sichuan](/img/toolkit/china-travel-mistakes-guide/2.webp)
 
 The Forbidden City, Mogao Caves, Jiuzhaigou, and several other major attractions now require online pre-booking and have daily visitor caps. Show up without a ticket during peak season and you may not be able to enter at all.
 

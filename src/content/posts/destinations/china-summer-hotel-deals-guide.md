@@ -9,7 +9,7 @@ tags:
   - "shanghai"
   - "hangzhou"
 description: "Discover China's best summer hotel deals from Hilton and Shangri-La to local gems. Tips on booking, payment, and etiquette for international travelers."
-ogImage: "https://images.unsplash.com/photo-1474181487882-5abf3f0ba6c2?w=1200&q=85"
+ogImage: "/img/destinations/china-summer-hotel-deals-guide/cover.webp"
 faq:
   - question: "Can I use these deals if I don't speak Chinese?"
     answer: "Yes, but you'll need to navigate Chinese apps with translation tools. Alternatively, use Trip.com's English interface for similar offers."
@@ -31,6 +31,8 @@ Summer in China brings heat, crowds, and—if you know where to look—incredibl
 Chinese travel apps like Ctrip (携程) and Fliggy (飞猪) run seasonal flash sales, often featuring "unlimited validity" packages that can be used months later. Summer deals are especially aggressive because domestic tourism peaks, and hotels compete for bookings. The key is that most deals are **refundable** and **expiration-protected**—you can cancel anytime and get your money back. This makes them low-risk for travelers planning flexible itineraries.
 
 ## Top Hotel Chains Participating
+
+![Shiji Park, Shanghai](/img/destinations/china-summer-hotel-deals-guide/1.webp)
 ### Hilton
 Hilton properties across China frequently appear in summer sales. For example, a recent promotion offered **2 nights at a Hilton Garden Inn in Chongqing for ¥999** (≈$140), including breakfast. Hilton also runs exclusive experiences, such as a **panda-themed educational package** at six Chengdu hotels starting at **¥788** (≈$110) per night, including breakfast and a guided tour of the Chengdu Panda Base with a dedicated entrance—no queuing required. See our [Chengdu travel guide](/tags/sichuan) for more on visiting pandas.
 
@@ -57,6 +59,8 @@ Most deals are sold on **Ctrip (Trip.com Group)** and **Fliggy (Alibaba Group)**
 Almost all summer deals are **fully refundable before check-in** and **expiration-protected** (usually valid for 6-12 months). If you don't use the voucher, you get your money back automatically. This is a huge advantage for flexible travelers.
 
 ## Best Destinations for Summer Hotel Deals
+
+![Yuyuanchenghuang Temple, Shanghai](/img/destinations/china-summer-hotel-deals-guide/2.webp)
 ### Hangzhou
 New hotels like **JEN by Shangri-La** and **Tonglu Yulai Xiyuan** offer stays near West Lake and water parks. Hangzhou's metro connects easily to the city center.
 
@@ -70,6 +74,8 @@ Hilton's panda packages are a standout. Hotels like **Hilton Chengdu** and **Wal
 New hotels like **Hilton Garden Inn Jiangbeizui** and **Suoshan 1946** offer great value. Chongqing's unique mountain-city scenery is best enjoyed from a hotel with a river view.
 
 ## Practical Tips for International Travelers
+
+![West Lake Scenery, Hangzhou](/img/destinations/china-summer-hotel-deals-guide/3.webp)
 - **Visa**: Most travelers need a tourist visa (L-visa) for China. If transiting through Beijing, Shanghai, or other cities, you may qualify for **144-hour visa-free transit**. Check eligibility before booking.
 - **Language**: Hotel staff at international chains speak some English, but for boutique hotels, prepare to use translation apps.
 - **Transport**: High-speed rail connects major cities. For example, Shanghai to Hangzhou takes 40 minutes. Use Trip.com to book tickets.

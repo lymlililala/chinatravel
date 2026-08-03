@@ -11,7 +11,6 @@ tags:
   - toolkit
   - technology
 description: "China's operational maglev trains — the Shanghai Transrapid (Pudong Airport to Longyang Road, 7 minutes, 431 km/h, world's fastest commercial train), how to ride it, ticket prices, the best position for speed gauge photos, and what China's planned future maglev routes (Beijing-Shanghai, Chengdu-Chongqing) mean for future travel."
-ogImage: "/img/toolkit/china-maglev-train-guide/cover.webp"
 ---
 
 The Shanghai Maglev is a genuinely strange experience if you haven't prepared yourself. You're sitting in what looks like a normal train carriage, the vehicle starts moving, picks up speed — and then keeps accelerating past the point where your brain expects it to stop. The speedometer display in the front of each carriage ticks up: 200 km/h, 300, 350, 400 — and then it hits 431 km/h. You're moving through Shanghai's eastern suburbs at nearly 120 meters per second. The train doesn't touch the rails.
@@ -21,8 +20,6 @@ This is the only commercially operational high-speed maglev service in the world
 ## Table of contents
 
 ## What Maglev Is and Why Shanghai Has One
-
-![The Bund Scenery](/img/toolkit/china-maglev-train-guide/1.webp)
 
 Magnetic levitation trains use electromagnetic force to lift the train above the guideway, eliminating contact between vehicle and track. With no friction from steel wheels on steel rails, the theoretical top speed is limited only by air resistance — which is why maglev can achieve speeds that conventional high-speed rail can't.
 
@@ -67,8 +64,6 @@ The Maglev is not included in standard transit cards (T-Union or Shanghai transi
 **The approach to the airport**: In the final minute, the train decelerates from 430 km/h to a stop at the airport platform. The deceleration is smooth but noticeable — your body feels it. The braking distance required is substantial and the engineering of smooth high-speed deceleration is impressive in its own right.
 
 ## Maglev as Airport Transport
-
-![Scenery, Jiuzhaigou, Sichuan](/img/toolkit/china-maglev-train-guide/2.webp)
 
 The practical question: is the Maglev the best way to get from Pudong Airport to Shanghai city, or is it just an experience?
 

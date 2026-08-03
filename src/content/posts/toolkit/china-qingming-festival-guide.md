@@ -11,7 +11,6 @@ tags:
   - culture
   - toolkit
 description: "The Qingming Festival (清明节) — China's Tomb Sweeping Day, falling in early April, when families visit ancestral graves. What it means culturally (the most solemn Chinese holiday), how it affects travel (a 3-day public holiday creates moderate travel surge), which natural sites are at their most beautiful in early April (rapeseed flowers in Anhui, cherry blossoms fading), and what travelers should know."
-ogImage: "/img/toolkit/china-qingming-festival-guide/cover.webp"
 ---
 
 Qingming (清明节) is one of China's most distinctive festivals — a day of ancestor veneration and grave maintenance that falls in early April, 15 days after the spring equinox. Unlike the exuberant celebrations of Spring Festival or the commercial energy of National Day, Qingming is a quieter, more reflective occasion. It's also, somewhat paradoxically, one of the best times of year to travel in China.
@@ -19,8 +18,6 @@ Qingming (清明节) is one of China's most distinctive festivals — a day of a
 ## Table of contents
 
 ## When Is Qingming 2026?
-
-![Yiyuanjie Scenery, Beijing, Suzhou](/img/toolkit/china-qingming-festival-guide/1.webp)
 
 **Qingming 2026 falls on April 5 (Sunday).** The public holiday typically runs 3 days (April 4-6 in 2026, as the holiday is extended when the date falls near a weekend).
 
@@ -66,8 +63,6 @@ By Qingming in most years, the cherry blossoms (which peaked in March) are at th
 The period just before the rainy season begins (which arrives in late May-June) is excellent in Yunnan. Wild rhododendrons bloom above 2,500m altitude in April — visible at Tiger Leaping Gorge on the hillsides and along the approach to Shangri-La.
 
 ## Cemetery Culture: What to Expect
-
-![Huanghuachengshui Great Wall Scenery, Beijing](/img/toolkit/china-qingming-festival-guide/2.webp)
 
 For international visitors who encounter Qingming activities:
 

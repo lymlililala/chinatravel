@@ -12,7 +12,6 @@ tags:
   - nature
   - southwest-china
 description: "Tiger Leaping Gorge (虎跳峡) in Yunnan — the classic 2-3 day trekking route through one of the world's deepest gorges (3,900m from river to ridgeline). The high trail vs the lower road, the guesthouses along the route (Sean's Spring Guesthouse is the famous waypoint), the best time of year (May-October, avoiding monsoon), and connecting to Lijiang or Shangri-La."
-ogImage: "/img/toolkit/tiger-leaping-gorge-guide/cover.webp"
 ---
 
 Tiger Leaping Gorge is one of the world's deepest river gorges. The Jinsha River (upper Yangtze) drops 3,900 metres between the river surface and the ridgeline of Haba Snow Mountain, and the famous high trail runs along the northern wall, with dramatic views down to the churning water and across to the snow-capped Jade Dragon Snow Mountain range on the opposite bank.
@@ -22,8 +21,6 @@ It's also a genuinely achievable trek for fit hikers with no technical experienc
 ## Table of contents
 
 ## The Route: High Trail vs Lower Road
-
-![West Lake Yuefei Temple, Hangzhou](/img/toolkit/tiger-leaping-gorge-guide/1.webp)
 
 There are two ways to travel through Tiger Leaping Gorge.
 
@@ -85,8 +82,6 @@ A third option is to continue trekking to Daju village on the eastern side of th
 **Mobile signal:** Patchy to non-existent on the high trail. Tell people your plan before you set off.
 
 ## Getting to Qiaotou from Lijiang
-
-![West Lake Lingyin Temple, Hangzhou](/img/toolkit/tiger-leaping-gorge-guide/2.webp)
 
 By bus from Lijiang's main bus station: ¥30, about 2 hours. First buses around 8am, last around midday. Check current schedules as they change seasonally.
 

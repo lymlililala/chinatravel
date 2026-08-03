@@ -1,7 +1,6 @@
 ---
 title: "Tianmen Mountain Glass Walkway and Cable Car: Complete Visitor Guide"
 description: "Everything you need to know about visiting Tianmen Mountain (天门山) in Zhangjiajie. The world's longest cable car, the glass-bottom skywalk, Heaven's Gate cave, and how to plan your visit."
-ogImage: "/img/destinations/wulingyuan-tianmen-mountain-glasswalk/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Tianmen Mountain", "Zhangjiajie", "glass walkway", "cable car", "Hunan tourism", "China adventure travel"]
@@ -10,8 +9,6 @@ tags: ["Tianmen Mountain", "Zhangjiajie", "glass walkway", "cable car", "Hunan t
 Tianmen Mountain (天门山, Tiānmén Shān) rises 1,519 meters above the city of Zhangjiajie in Hunan Province with a natural arch near its summit — a 131.5-meter tall cave opening known as Heaven's Gate (天门洞, Tiānmén Dòng). Getting to this remarkable geological feature involves taking the world's longest passenger cable car, then confronting a 999-step staircase carved into the mountain face or choosing the alternative glass walkway along the cliff edge.
 
 ## The Cable Car (天门山索道)
-
-![Forbidden City Panorama Interior, Beijing](/img/destinations/wulingyuan-tianmen-mountain-glasswalk/1.webp)
 
 The Tianmen Mountain cable car system holds the Guinness World Record as the world's longest passenger cable car — 7.455 km from the base station in Zhangjiajie city to the summit area. The journey takes approximately 30 minutes and the visual experience is extraordinary: the cable car climbs from subtropical forest at the base to alpine terrain above the cloud line, crossing deep gorges and offering increasingly dramatic views of the sandstone peaks.
 
@@ -29,15 +26,11 @@ The alternative approach by road follows a winding mountain road with exactly 99
 
 ## Heaven's Gate Cave (天门洞)
 
-![Jiankou Great Wall Scenery, Beijing](/img/destinations/wulingyuan-tianmen-mountain-glasswalk/2.webp)
-
 The centerpiece of the mountain. The natural arch measures 131.5m high, 57m wide and 60m deep — large enough to fly small aircraft through (a series of stunt flights have done this, including a Stinger plane in 1999 that flew through the arch). Reaching the cave from the summit cable car area involves descending the **999 Steps of Heavenly Stairs** — steep stone steps cut directly into the cliff below the arch. The descent takes 20–30 minutes; the ascent 40–60 minutes.
 
 From inside the arch, you look out over an almost vertiginous drop into the valley below. The scale is difficult to process — the arch is big enough that you can stand 50 meters inside it and still feel like you're outdoors.
 
 ## The Glass Skywalk (玻璃栈道)
-
-![Jinshanling Great Wall, Beijing](/img/destinations/wulingyuan-tianmen-mountain-glasswalk/3.webp)
 
 Running along the western cliff face of the summit area, the Coiling Dragon Cliff Glass Walkway (盘山玻璃栈道) extends 1.6 km along a transparent glass-bottomed path. The glass panels are 6.25cm thick, designed to withstand the weight of 40 people simultaneously.
 

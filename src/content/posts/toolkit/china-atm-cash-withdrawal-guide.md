@@ -11,7 +11,6 @@ tags:
   - toolkit
   - beginners
 description: "Which ATMs in China accept foreign cards, how to find them, what fees to expect, and how much cash you actually need — the complete guide to withdrawing RMB as an international visitor."
-ogImage: "/img/toolkit/china-atm-cash-withdrawal-guide/cover.webp"
 ---
 
 Despite China's reputation as the world's most cashless society, you still need some physical RMB (renminbi / yuan) as a foreign visitor — and getting it from the right ATM at the right time makes a significant difference to your costs and convenience.
@@ -19,8 +18,6 @@ Despite China's reputation as the world's most cashless society, you still need 
 ## Table of contents
 
 ## Do You Still Need Cash in China?
-
-![West Lake Leifeng Pagoda, Hangzhou](/img/toolkit/china-atm-cash-withdrawal-guide/1.webp)
 
 Short answer: **less than before, but yes, some.** Here is a realistic breakdown:
 
@@ -103,8 +100,6 @@ There are typically **three layers of fees** on a foreign card ATM withdrawal in
 ---
 
 ## Currency Exchange: Bureau de Change vs ATM
-
-![West Lake Landscape, Hangzhou](/img/toolkit/china-atm-cash-withdrawal-guide/2.webp)
 
 For many travellers, **ATM withdrawal gives better effective rates than currency exchange counters**, especially at hotels and tourist-area money changers. But compare:
 

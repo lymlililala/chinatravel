@@ -12,7 +12,7 @@ tags:
   - "south-china"
   - "east-china"
 description: "Discover Hong Kong's best coastal escapes: from world-class hikes with skyline views to secluded island retreats. Your ultimate summer guide to China's coast."
-ogImage: "https://images.pexels.com/photos/12144156/pexels-photo-12144156.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/hong-kong-coastal-getaways-guide/cover.webp"
 faq:
   - question: "What is the best way to get to Hong Kong from mainland China?"
     answer: "The fastest way is by high-speed train from cities like Shenzhen (15 minutes) or Guangzhou (50 minutes). Alternatively, you can fly into Hong Kong International Airport from major cities."
@@ -45,6 +45,8 @@ Hong Kong's coastline offers a surprising diversity of landscapes, from volcanic
 ![Panoramic view of Dragon's Back trail with coastline and sea](https://images.pexels.com/photos/10454456/pexels-photo-10454456.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Suggested 5-Day Itinerary
+
+![Scenery, Hong Kong](/img/destinations/hong-kong-coastal-getaways-guide/1.webp)
 
 This itinerary combines urban exploration with coastal adventures, perfect for first-time visitors.
 
@@ -97,6 +99,8 @@ This itinerary combines urban exploration with coastal adventures, perfect for f
 
 ## Where to Stay
 
+![Haiyang Park Landscape, Hong Kong](/img/destinations/hong-kong-coastal-getaways-guide/2.webp)
+
 - **Luxury**: The Peninsula Hong Kong (Tsim Sha Tsui) or Four Seasons Hotel Hong Kong (Central) – both offer stunning harbour views and top-notch service.
 - **Mid-Range**: Hotel ICON (Tsim Sha Tsui) or Ovolo Central – stylish and well-located.
 - **Budget**: Mini Hotel Central or YHA Mei Ho House (in Sham Shui Po) – clean and affordable options.
@@ -116,6 +120,8 @@ Hong Kong is a culinary paradise. Must-try dishes:
 The best time for coastal activities is **October to December** when the weather is cool and dry. Summer (June to August) is hot and humid, with occasional typhoons, but it's still possible to enjoy the beaches and hikes early in the morning or late afternoon. Spring (March to May) is mild but can be foggy.
 
 ## Costs & Budget
+
+![Landscape Zonghe, Hong Kong](/img/destinations/hong-kong-coastal-getaways-guide/3.webp)
 
 - **Accommodation**: Budget ¥500-800 per night for mid-range hotels; luxury hotels start at ¥1500.
 - **Food**: Street food and local meals cost ¥30-60; restaurant dinners ¥150-300 per person.

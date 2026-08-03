@@ -32,8 +32,6 @@ China's vast and varied landscape is a treasure trove of natural wonders that wi
 
 ## Top Natural Landmarks at a Glance
 
-![Huanghuachengshui Great Wall Scenery, Beijing](/img/destinations/chinas-spectacular-natural-landmarks-photographers-guide/1.webp)
-
 China's geography is defined by dramatic contrasts: soaring peaks, vast deserts, winding rivers, and mystical cloud seas. Here are the highlights you shouldn't miss.
 
 ### The Yellow River's Grandeur: Xiaolangdi Dam
@@ -87,6 +85,8 @@ Off the coast of Wenzhou, the **Dongtou Islands** (洞头, Dòngtóu) offer a di
 
 ## Suggested Itinerary: 10-Day Natural Wonders Tour
 
+![Guideguojiadizhi Park Scenery, Qinghai](/img/destinations/chinas-spectacular-natural-landmarks-photographers-guide/1.webp)
+
 For international travellers with limited time, here's a route that covers three distinct landscapes.
 
 ### Day 1-3: Beijing & the North
@@ -112,7 +112,7 @@ For international travellers with limited time, here's a route that covers three
 
 ## Where to Stay
 
-![Qiannian Great Wall Lao City Wall](/img/destinations/chinas-spectacular-natural-landmarks-photographers-guide/2.webp)
+![Guidechenwumiren Scenery, Qinghai](/img/destinations/chinas-spectacular-natural-landmarks-photographers-guide/2.webp)
 
 - **Luoyang:** Choose a hotel near the old town for easy access to the dam. Budget: ¥200-400/night; mid-range: ¥400-800.
 - **Mangya:** Options are limited. The **Mangya Hotel** is basic but clean. Expect to pay ¥150-300/night. Book in advance.
@@ -120,7 +120,7 @@ For international travellers with limited time, here's a route that covers three
 
 ## Best Time to Visit
 
-![Forbidden City Museum](/img/destinations/chinas-spectacular-natural-landmarks-photographers-guide/3.webp)
+![Kekexili Scenery, Qinghai](/img/destinations/chinas-spectacular-natural-landmarks-photographers-guide/3.webp)
 
 - **Spring (March-May):** Mild temperatures, blooming flowers. Good for Turpan and Ya'an.
 - **Summer (June-August):** Best for Xiaolangdi water release, cloud seas in Dongtou, and high-altitude areas like Qinghai. Avoid Turpan due to extreme heat.

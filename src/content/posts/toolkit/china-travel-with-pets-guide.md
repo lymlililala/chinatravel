@@ -11,7 +11,6 @@ tags:
   - practical
   - planning
 description: "Travelling with pets to China — the import requirements (microchip, rabies vaccination at least 30 days before, specific health certificate formats that vary by nationality and are notoriously complex), quarantine possibilities, pet-friendly accommodation in major cities (surprisingly common), and the reality of flying with a dog or cat in cabin on Chinese domestic flights."
-ogImage: "/img/toolkit/china-travel-with-pets-guide/cover.webp"
 ---
 
 Bringing a pet to China is genuinely possible but involves one of the most bureaucratically complex pet import processes in Asia. The requirements are strict, the documentation is specific, and small errors can result in your pet being quarantined on arrival. If you're planning to move to China long-term and want to bring your dog or cat, this guide covers the full process.
@@ -21,8 +20,6 @@ If you're visiting China as a tourist with a pet — this is extremely unusual a
 ## Table of contents
 
 ## The Honest Assessment First
-
-![Guojiadizhi Park Scenery, Huangshan](/img/toolkit/china-travel-with-pets-guide/1.webp)
 
 **For temporary visitors (under 6 months):** Bringing a pet to China for a holiday is not practical. The import requirements involve weeks of preparation, health certificates that expire within 10 days of travel, and the risk of quarantine on arrival. Almost every travel vet and pet relocation specialist advises against bringing pets to China for short visits. Consider pet boarding or a pet sitter at home.
 
@@ -64,8 +61,6 @@ However, if your documentation has any errors or omissions, your pet can be held
 **The practical advice:** Use a professional pet relocation service if this is a long-term move. Companies like Airpets International, VetFly, and local China pet import specialists handle the paperwork, ensure the forms are current, and manage the arrival logistics. The cost (US$500-2,000+ depending on service level) is worth it against the risk of quarantine.
 
 ## Flying with Pets on Chinese Domestic Flights
-
-![Scenery, Jiuzhaigou, Sichuan](/img/toolkit/china-travel-with-pets-guide/2.webp)
 
 If your pet has cleared customs at the international port of entry and you have a Quarantine/Health Certificate for China, you can then fly domestically within China.
 

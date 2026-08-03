@@ -35,8 +35,6 @@ From the cave systems of Guizhou to the wildlife-rich forests of Guangxi, and fr
 
 ## Top Destinations for Family Educational Tours
 
-![Wangshi Garden Scenery, Suzhou](/img/destinations/family-adventures-china-educational-tours/1.webp)
-
 ### Gansu: The Silk Road Classroom
 
 Gansu Province (甘肃, Gān Sù) is a living history book. The Hexi Corridor, a narrow passage flanked by the Qilian Mountains and deserts, was the lifeline of the ancient Silk Road. For families, it offers a perfect mix of natural wonders and cultural treasures.
@@ -89,6 +87,8 @@ Guizhou (贵州, Guì Zhōu) is a mosaic of minority cultures. The region's mist
 
 ## Suggested Itineraries
 
+![Detianda Waterfall Scenery, Guangxi](/img/destinations/family-adventures-china-educational-tours/1.webp)
+
 ### 7-Day Gansu Silk Road Explorer (Ages 9–16)
 
 | Day | Activity | Learning Focus |
@@ -133,7 +133,7 @@ Guizhou (贵州, Guì Zhōu) is a mosaic of minority cultures. The region's mist
 
 ## Where to Stay
 
-![Huqiu Scenery Mingshengqu Scenery, Suzhou](/img/destinations/family-adventures-china-educational-tours/2.webp)
+![Mogao Caves, Gansu, Dunhuang](/img/destinations/family-adventures-china-educational-tours/2.webp)
 
 - **Gansu:** Zhangye, Jiayuguan, and Dunhuang have comfortable business hotels (¥300–600/night). For a unique experience, stay in a desert camp near Dunhuang (¥800–1,200).
 - **Guangxi:** Nanning offers international chains (¥400–800). In Leye, choose eco-lodges near the tiankeng (¥500–700).
@@ -151,7 +151,7 @@ Guizhou (贵州, Guì Zhōu) is a mosaic of minority cultures. The region's mist
 
 ## Best Time to Visit
 
-![Zhongyuan Temple Scenery, Suzhou](/img/destinations/family-adventures-china-educational-tours/3.webp)
+![Singing Sand Dunes, Gansu, Dunhuang](/img/destinations/family-adventures-china-educational-tours/3.webp)
 
 - **Gansu:** May–October (summer is warm but dry; July–August peak).
 - **Guangxi:** April–October (summer is hot and humid; June–August has frequent rain but lush scenery).

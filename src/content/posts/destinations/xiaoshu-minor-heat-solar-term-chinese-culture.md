@@ -7,7 +7,6 @@ tags:
   - "culture"
   - "history"
 description: "Discover the Chinese solar term Xiaoshu (Minor Heat), its traditions, foods, and travel tips. Learn how to experience an authentic Chinese summer like a local."
-ogImage: "/img/destinations/xiaoshu-minor-heat-solar-term-chinese-culture/cover.webp"
 faq:
   - question: "What is Xiaoshu and when does it occur?"
     answer: "Xiaoshu (Minor Heat) is the 11th solar term in the Chinese calendar, usually falling around July 7. It marks the beginning of the hottest period of summer, known as the 'dog days' (sanfu)."
@@ -26,8 +25,6 @@ Xiaoshu (小暑, Xiǎo Shǔ), or Minor Heat, is the 11th solar term in the tradi
 ## Table of contents
 
 ## What Is Xiaoshu? The Meaning Behind the Name
-
-![Jiejing, Guangxi, Yangshuo](/img/destinations/xiaoshu-minor-heat-solar-term-chinese-culture/1.webp)
 
 The Chinese calendar divides the year into 24 solar terms (节气, jiéqì), each lasting about 15 days. Xiaoshu literally means "minor heat" — as opposed to Dashu (大暑, Great Heat) which arrives later in July. Ancient Chinese texts describe it as the time when "heat begins but is still small." However, don't be fooled by the "minor" label: temperatures rise sharply, humidity spikes, and the combination can feel like being steamed and boiled at the same time — hence the folk saying "上蒸下煮" (shàng zhēng xià zhǔ).
 
@@ -69,8 +66,6 @@ No Chinese summer is complete without mung bean soup. Boiled with sugar and some
 
 ## Xiaoshu Traditions: Slow Living and Community
 
-![Huangyaguan Great Wall Scenery, Tianjin](/img/destinations/xiaoshu-minor-heat-solar-term-chinese-culture/2.webp)
-
 Before air conditioning became ubiquitous, Chinese people had their own time-tested methods for staying cool — and they were deeply social.
 
 ### Bamboo Chairs and Palm Leaf Fans
@@ -83,8 +78,6 @@ After sunset, entire communities would bring out their chairs and gather in alle
 Before streaming services, summer nights meant open-air movies projected onto white sheets. And before swimming pools, rivers and wells provided natural cooling — kids would dive into village streams after finishing homework.
 
 ## Best Places to Experience Xiaoshu Culture in China
-
-![Forbidden City Bowuyuan, Taiwan, Taipei](/img/destinations/xiaoshu-minor-heat-solar-term-chinese-culture/3.webp)
 
 If you want to immerse yourself in authentic summer traditions, consider these destinations:
 

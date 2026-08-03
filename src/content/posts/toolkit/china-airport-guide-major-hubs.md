@@ -1,7 +1,6 @@
 ---
 title: "China Airport Guide 2026: Beijing, Shanghai, Guangzhou & All Major Hubs"
 description: "Complete guide to China's major airports for international travelers. Terminal layouts, transit procedures, immigration tips, duty-free, lounges, and connections to city centers."
-ogImage: "/img/toolkit/china-airport-guide-major-hubs/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["China airports", "Beijing Capital Airport", "Shanghai Pudong", "Guangzhou Baiyun", "airport guide", "transit visa"]
@@ -10,8 +9,6 @@ tags: ["China airports", "Beijing Capital Airport", "Shanghai Pudong", "Guangzho
 China's international airports handle over 700 million passengers per year across the country's main hubs. For foreign travelers, understanding the terminal layout, immigration process, and ground transportation at each major airport saves hours of confusion. This guide covers the six airports you're most likely to use.
 
 ## Beijing Capital International Airport (PEK)
-
-![Shanhaiguan Great Wall, Beijing](/img/toolkit/china-airport-guide-major-hubs/1.webp)
 
 **Terminals**: T1, T2, T3. Most international flights arrive at T3, which opened in 2008 and remains one of the largest terminal buildings in the world.
 
@@ -74,8 +71,6 @@ Two terminals. T1 handles most international flights; T2 is newer and handles ma
 ---
 
 ## Shenzhen Bao'an International Airport (SZX)
-
-![Mutianyu Great Wall Scenery, Beijing](/img/toolkit/china-airport-guide-major-hubs/2.webp)
 
 A popular entry point for visitors heading to Shenzhen or crossing to Hong Kong by ferry.
 

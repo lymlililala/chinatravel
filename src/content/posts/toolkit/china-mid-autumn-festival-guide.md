@@ -11,7 +11,6 @@ tags:
   - culture
   - seasonal
 description: "China's Mid-Autumn Festival (中秋节) — when it falls in 2026, the mooncake tradition and the best cities to buy and taste them, lantern festivals across China (Zigong, Chengdu, Hong Kong are spectacular), the cultural significance, where not to be (the Great Wall gets insanely crowded), and which cities feel the festival most authentically."
-ogImage: "/img/toolkit/china-mid-autumn-festival-guide/cover.webp"
 ---
 
 The Mid-Autumn Festival (中秋节, Zhōngqiū Jié) is one of China's three most important traditional festivals, alongside Chinese New Year and Dragon Boat Festival. It falls on the 15th day of the 8th lunar month — the night of the year's fullest and brightest moon — and it's a holiday centred on being together, eating mooncakes, and looking up at the sky.
@@ -23,8 +22,6 @@ For visitors, it's an opportunity to experience one of the most distinctively Ch
 ---
 
 ## When Is Mid-Autumn Festival in 2026?
-
-![Glacier Park Spectacular Scenery, Yunnan, Lijiang](/img/toolkit/china-mid-autumn-festival-guide/1.webp)
 
 In 2026, the Mid-Autumn Festival falls on **October 6, 2026** (the 15th day of the 8th lunar month). The Chinese government typically creates a 3-day public holiday around the date, meaning the festival holiday period for 2026 will be approximately **October 5–7, 2026**.
 
@@ -95,8 +92,6 @@ Victoria Park also has a lantern carnival with lantern stalls and cultural perfo
 ---
 
 ## Where to Spend Mid-Autumn Festival
-
-![Mufu Scenery, Yunnan, Lijiang](/img/toolkit/china-mid-autumn-festival-guide/2.webp)
 
 ### Best Cities for the Festival Atmosphere
 

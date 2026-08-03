@@ -12,14 +12,11 @@ tags:
   - hotel-connectivity
   - great-firewall
 description: "Everything foreign travellers need to know about internet connectivity in China in 2026 — hotel WiFi speeds and reliability, understanding the Great Firewall and what it blocks, choosing and setting up a VPN before arrival, mobile data options including eSIMs, working remotely from China, and practical workarounds for staying connected when the internet doesn't work the way you expect."
-ogImage: "/img/toolkit/china-hotel-wifi-internet-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## The Internet in China — Different Rules Apply
-
-![Forbidden City Bowuyuan, Taiwan, Taipei](/img/toolkit/china-hotel-wifi-internet-guide/1.webp)
 
 If you're reading this guide, you probably already know that China's internet is different. The Great Firewall blocks many Western services. WiFi speeds vary wildly. Hotel internet can be excellent or abysmal. And if you need to work remotely, the challenges multiply. This guide covers everything you need to know about staying connected in China in 2026, from choosing the right VPN to understanding why your hotel WiFi seems to block certain services.
 
@@ -125,8 +122,6 @@ Hotel WiFi quality in China varies enormously:
 - If hotel WiFi is unusable, use mobile data (see below)
 
 ## Mobile Data and SIM Cards
-
-![Jinshanling Great Wall Landscape, Hebei](/img/toolkit/china-hotel-wifi-internet-guide/2.webp)
 
 ### Chinese SIM Cards
 

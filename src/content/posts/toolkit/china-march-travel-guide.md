@@ -10,14 +10,11 @@ tags:
   - toolkit
   - destinations
 description: "Everything about visiting China in March — which cities have cherry blossoms and when, plum blossom gardens still blooming, the weather across different regions, major events, and the best places to visit in March based on real conditions."
-ogImage: "/img/toolkit/china-march-travel-guide/cover.webp"
 ---
 
 March is one of China's best months for travel — the winter cold retreats, spring flowers begin, the Spring Festival crowds have dispersed, and humidity (the curse of Chinese summer) is minimal. The major attraction is the blossom culture: March brings plum (梅花, peaking late February–early March) and cherry blossoms (樱花, mid-March to early April) to central and eastern China.
 
 ## Weather in March by Region
-
-![Badaling Great Wall, Beijing](/img/toolkit/china-march-travel-guide/1.webp)
 
 **Central China (Wuhan, Nanjing, Hangzhou)**: 10–18°C, variable. Classic spring weather — warm days, cool nights, some rain. Perfect for cherry and plum blossom viewing.
 
@@ -62,8 +59,6 @@ March is one of Guilin's best months — temperatures are comfortable (15–22°
 **Practical**: Book Li River cruise tickets in advance but same-day availability is usually possible in March unlike peak season.
 
 ## Major Events in March
-
-![Mutianyu Great Wall Scenery, Beijing](/img/toolkit/china-march-travel-guide/2.webp)
 
 **National People's Congress (NPC) and CPPCC sessions (March 1–15)**: These annual political meetings in Beijing mean slightly increased security protocols in Tiananmen area. No impact on general visitors but good to know.
 

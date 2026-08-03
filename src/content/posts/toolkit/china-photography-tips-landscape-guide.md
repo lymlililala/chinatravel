@@ -11,7 +11,6 @@ tags:
   - travel
   - china
 description: "China offers an extraordinary range of photographic subjects — from the geometric perfection of Suzhou gardens to the extreme landscapes of Zhangjiajie and the Tibetan plateau. This guide covers the best photographic destinations by region, technical advice for specific conditions, and the cultural sensitivities to navigate."
-ogImage: "/img/toolkit/china-photography-tips-landscape-guide/cover.webp"
 ---
 
 China is one of the world's most photographically rewarding destinations — the combination of ancient architecture, extraordinary natural landscapes, diverse ethnic culture, and the density of visual interest in Chinese urban environments gives photographers more material than any single trip can exhaust.
@@ -21,8 +20,6 @@ This guide covers the best photographic subjects and locations by region, with a
 ## Table of contents
 
 ## Northern China: Classic Architecture & Desert Landscapes
-
-![Xingping, Guangxi, Yangshuo](/img/toolkit/china-photography-tips-landscape-guide/1.webp)
 
 ### Beijing
 
@@ -87,8 +84,6 @@ The Miao and Dong minority festivals are extraordinary for photography — the s
 **Hulunbuir Grasslands (adjacent region):** Sunrise over the Inner Mongolian steppe — the sky and cloud formations at this latitude can be dramatic.
 
 ## Technical Advice for Chinese Conditions
-
-![Huangyaguan Great Wall Scenery, Tianjin](/img/toolkit/china-photography-tips-landscape-guide/2.webp)
 
 **Crowds at tourist sites:** Work around them by arriving early or framing tight to exclude them. Alternatively, use long exposure to blur moving people while keeping stationary subjects sharp (requires tripod, ~30 second exposures at busy sites during daylight — you'll need an ND filter).
 

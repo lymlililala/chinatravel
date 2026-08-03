@@ -12,7 +12,6 @@ tags:
   - airport-storage
   - china-practical
 description: "Need to store your luggage in China? Whether you have a long layover, want to explore luggage-free before a night train, or just need to ditch your bags for a few hours, this 2026 guide covers every storage option — from train station left luggage offices and airport facilities to smart lockers, hotel storage, and new app-based services across Chinese cities."
-ogImage: "/img/toolkit/china-luggage-storage-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -29,8 +28,6 @@ ogImage: "/img/toolkit/china-luggage-storage-guide/cover.webp"
 - [Tips and Common Mistakes](#tips-mistakes)
 
 ## Why Luggage Storage Matters in China
-
-![Luzhi Old Town, Suzhou](/img/toolkit/china-luggage-storage-guide/1.webp)
 
 If you're travelling through China, you'll almost certainly need luggage storage at some point. Here are the most common scenarios:
 
@@ -261,8 +258,6 @@ Another international luggage storage network with growing coverage in China.
 **LuMa (鹿马):** Focuses on tourist areas. ¥15-25/day ($2.10-3.50) per bag. Available in most major tourist cities.
 
 ## Major City Guide
-
-![Zhongyuan Temple Scenery, Suzhou](/img/toolkit/china-luggage-storage-guide/2.webp)
 
 ### Shanghai
 

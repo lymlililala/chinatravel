@@ -11,7 +11,7 @@ tags:
   - "north-china"
   - "southwest-china"
 description: "Discover China's best summer road trips: Dunhuang's desert, Sanya's coast, Sayram Lake's alpine beauty, and Hebei's cool mountains. Practical tips for"
-ogImage: "https://images.pexels.com/photos/12736037/pexels-photo-12736037.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/summer-road-trip-china-scenic-routes/cover.webp"
 faq:
   - question: "Do I need an International Driving Permit to drive in China?"
     answer: "Yes, an International Driving Permit (IDP) is required, along with a temporary Chinese driving license (arranged by rental agencies). Alternatively, hire a driver."
@@ -117,6 +117,8 @@ For more nature escapes, check our [nature destinations](/tags/nature).
 
 ## Suggested Day-by-Day Itinerary (7 Days)
 
+![Yungang Grottoes, Shanxi, Datong](/img/destinations/summer-road-trip-china-scenic-routes/1.webp)
+
 **Day 1–2: Dunhuang**
 - Arrive, visit Mogao Caves (morning), Mingsha Mountain (afternoon).
 - Overnight in Dunhuang.
@@ -141,6 +143,8 @@ For more nature escapes, check our [nature destinations](/tags/nature).
 
 ## Where to Stay
 
+![Courtyard House, Beijing](/img/destinations/summer-road-trip-china-scenic-routes/2.webp)
+
 - **Dunhuang:** Silk Road Dunhuang Hotel (¥400-800).
 - **Sanya:** Resort hotels in Yalong Bay (¥500-1500).
 - **Sayram Lake:** Lakeside guesthouses (¥300-600).
@@ -156,6 +160,8 @@ For more nature escapes, check our [nature destinations](/tags/nature).
 For foodie tips, see our [food guide](/tags/food).
 
 ## Best Time to Visit
+
+![Tiananmen, Beijing](/img/destinations/summer-road-trip-china-scenic-routes/3.webp)
 
 - **Dunhuang:** April–October (summer hot but manageable after 4 PM).
 - **Sanya:** Year-round (summer rainy but cheaper).

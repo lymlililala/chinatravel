@@ -12,7 +12,6 @@ tags:
   - practical
   - safety
 description: "Chinese pharmacies (药店) are abundant, affordable and well-stocked — but navigating them without reading Chinese requires some preparation. This 2026 guide covers finding pharmacies, understanding the Chinese drug naming system, key over-the-counter medicines to know, common health issues travellers encounter in China, prescription medicine regulations and what to bring from home."
-ogImage: "/img/toolkit/china-pharmacies-medicine-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -22,8 +21,6 @@ Getting sick while travelling in China is inconvenient but rarely serious, and t
 This guide helps you navigate Chinese pharmacies effectively.
 
 ## Finding a Pharmacy
-
-![Xingping, Guangxi, Yangshuo](/img/toolkit/china-pharmacies-medicine-guide/1.webp)
 
 ### Major Pharmacy Chains
 
@@ -140,8 +137,6 @@ Despite the availability of medicines in China, bring your own supply of:
 - Insect repellent with DEET (available in outdoor gear shops and pharmacies in tourist areas)
 
 ## Controlled Substances
-
-![Weimei Natural Scenery, Guangxi, Yangshuo](/img/toolkit/china-pharmacies-medicine-guide/2.webp)
 
 China has strict regulations on certain classes of drugs. Never attempt to bring:
 - Narcotics or opioids without explicit Chinese Customs documentation

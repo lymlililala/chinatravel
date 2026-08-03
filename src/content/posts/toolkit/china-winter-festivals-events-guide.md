@@ -11,14 +11,11 @@ tags:
   - lantern-festival
   - chinese-new-year
 description: "Experience China's spectacular winter festival season with this 2026 guide covering the Harbin Ice Festival, Chinese New Year celebrations, the Lantern Festival, winter temple fairs, ice and snow activities across northern China, and practical advice for surviving and enjoying the cold-weather festival circuit from December through February."
-ogImage: "/img/toolkit/china-winter-festivals-events-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## Winter in China — The Festival Season
-
-![Huanghuachengshui Great Wall Scenery, Beijing](/img/toolkit/china-winter-festivals-events-guide/1.webp)
 
 Chinese winter is cold, dark, and long — especially in the north. But the Chinese response to winter's challenges isn't hibernation; it's celebration. The festival season that runs from December through February is one of the most vibrant periods in the Chinese calendar, featuring the world's largest ice sculpture festival, the most important holiday in Chinese culture, and a chain of temple fairs, lantern displays, and winter activities that make the cold months surprisingly exciting.
 
@@ -126,8 +123,6 @@ Temple fairs are traditional Chinese markets and celebrations held at temples du
 - **Nanjing:** Fuzimiao (Confucius Temple) area
 
 ## Other Winter Activities
-
-![Gudianmingyuanliu Garden Scenery, Suzhou](/img/toolkit/china-winter-festivals-events-guide/2.webp)
 
 ### Ice Skating and Ice Activities
 

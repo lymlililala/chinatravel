@@ -12,7 +12,6 @@ tags:
   - practical
   - checklist
 description: "The complete pre-departure checklist for first-time China visitors — 6-8 weeks before (apply for visa, book major attractions), 3-4 weeks before (book trains, set up Alipay, buy travel insurance), 1-2 weeks before (download apps, set up VPN, get some RMB cash), 2-3 days before (print confirmations, check passport validity, pack layers). The things people discover they need at the airport."
-ogImage: "/img/toolkit/china-first-time-checklist/cover.webp"
 ---
 
 First-time China travel has a higher preparation overhead than most destinations. Not because it's difficult, but because the specific setup — mobile payments, apps, VPN, train tickets — needs to be done before you arrive, not after. Many of these things literally cannot be done from inside China without prior setup.
@@ -22,8 +21,6 @@ This checklist works backwards from your departure date. Go through it in order.
 ## Table of contents
 
 ## 6-8 Weeks Before Departure
-
-![Forbidden City Bowuyuan, Taiwan, Taipei](/img/toolkit/china-first-time-checklist/1.webp)
 
 ### Visa Application
 Apply for your Chinese tourist visa (L visa) unless your nationality qualifies for visa-free entry or a transit exemption. The process typically takes 4-7 business days once submitted, but allow 2-3 weeks to gather documents and handle any unexpected complications.
@@ -82,8 +79,6 @@ Don't leave accommodation to chance for busy periods. Use Booking.com or Trip.co
 ---
 
 ## 1-2 Weeks Before Departure
-
-![Jinshanling Great Wall Landscape, Hebei](/img/toolkit/china-first-time-checklist/2.webp)
 
 ### Install and Test Your VPN
 **This must be done before you arrive in China.** App stores and VPN download sites are blocked within China.

@@ -26,7 +26,6 @@ tags:
   - high-speed rail tickets
   - china train booking
 description: "China high-speed rail tickets: how to book on 12306 or Trip.com with a foreign passport — the 15-day booking window, seat classes, and fares. No Chinese needed."
-ogImage: "/img/toolkit/china-train-booking-guide-foreigners/cover.webp"
 ---
 
 China's high-speed rail network is the largest in the world — over 45,000 kilometres of track connecting virtually every major city. Speeds reach 350 km/h on many routes. Trains are punctual, comfortable, and cheaper than flying once you factor in airport time and costs.
@@ -36,8 +35,6 @@ The challenge for foreign visitors is buying China high-speed rail tickets in th
 ## Table of contents
 
 ## Understanding the Train Types
-
-![Forbidden City Panorama Interior, Beijing](/img/toolkit/china-train-booking-guide-foreigners/1.webp)
 
 Before you book, it helps to know what you are booking.
 
@@ -166,8 +163,6 @@ This speeds up the transaction enormously.
 ---
 
 ## Understanding Ticket Availability
-
-![Jinshanling Great Wall, Beijing](/img/toolkit/china-train-booking-guide-foreigners/2.webp)
 
 ### The 15-day advance booking window
 

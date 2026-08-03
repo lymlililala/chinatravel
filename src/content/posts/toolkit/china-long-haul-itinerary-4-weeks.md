@@ -10,14 +10,11 @@ tags:
   - toolkit
   - long-trip
 description: "The definitive 28-day China grand tour — from Beijing through Xi'an, Chengdu, Chongqing, Guilin, Yangshuo, Kunming, Dali, Lijiang, ending in Hong Kong. With transport, accommodation type, and day-by-day breakdown for the best 4-week China circuit."
-ogImage: "/img/toolkit/china-long-haul-itinerary-4-weeks/cover.webp"
 ---
 
 Four weeks allows China's essential experiences without feeling rushed — the north's imperial history, the Sichuan culture and pandas, the Li River karst landscape, and the extraordinary variety of Yunnan province. This itinerary is the result of many iterations by travellers who have done this circuit; it balances the headline sites with genuine depth and appropriate pacing.
 
 ## Overview: The 28-Day Classic Circuit
-
-![Yanqinglongqingxia Scenery, Beijing](/img/toolkit/china-long-haul-itinerary-4-weeks/1.webp)
 
 ```
 Beijing (4 days) → Xi'an (3 days) → Chengdu (3 days) → Chongqing (1 day) → Guilin/Yangshuo (4 days) → Kunming (2 days) → Dali (3 days) → Lijiang (4 days) → end in Hong Kong or Shanghai (2 days)
@@ -26,8 +23,6 @@ Beijing (4 days) → Xi'an (3 days) → Chengdu (3 days) → Chongqing (1 day) �
 **Transport overview**: HSR Beijing–Xi'an, HSR Xi'an–Chengdu, HSR Chengdu–Chongqing, flight Chongqing–Guilin, HSR Guilin–Kunming, HSR Kunming–Dali–Lijiang, flight Lijiang–Hong Kong or Shanghai.
 
 ## Day-by-Day Breakdown
-
-![Longtan Park Scenery, Beijing](/img/toolkit/china-long-haul-itinerary-4-weeks/2.webp)
 
 ### Beijing (Days 1–4)
 

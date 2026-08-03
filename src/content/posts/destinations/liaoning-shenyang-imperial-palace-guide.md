@@ -17,7 +17,7 @@ The result is the **Shenyang Imperial Palace (沈阳故宫, Shěnyáng Gùgōng)
 
 ## Architecture: Manchu Meets Chinese
 
-![Forbidden City Panorama Interior, Beijing](/img/destinations/liaoning-shenyang-imperial-palace-guide/1.webp)
+![Bei Town Scenery, Liaoning](/img/destinations/liaoning-shenyang-imperial-palace-guide/1.webp)
 
 The Shenyang palace complex is divided into three sections built in different periods, reflecting the architectural evolution from Manchu to Sino-Manchu to fully sinicised court style.
 
@@ -41,7 +41,7 @@ Added during Qianlong's reign (18th century) when the emperor visited Shenyang a
 
 ## Key Highlights
 
-![Forbidden City Scenery, Beijing](/img/destinations/liaoning-shenyang-imperial-palace-guide/2.webp)
+![Qian Mountain Scenery, Liaoning](/img/destinations/liaoning-shenyang-imperial-palace-guide/2.webp)
 
 **Dazheng Hall:** The essential Shenyang experience — an octagonal pavilion that makes clear how different the Manchu aesthetic was from the Han palace tradition.
 
@@ -53,7 +53,7 @@ Added during Qianlong's reign (18th century) when the emperor visited Shenyang a
 
 ## Practical Information
 
-![Forbidden City Museum](/img/destinations/liaoning-shenyang-imperial-palace-guide/3.webp)
+![Wugoujingguangsheli Pagoda Scenery, Liaoning, Shenyang](/img/destinations/liaoning-shenyang-imperial-palace-guide/3.webp)
 
 **Location:** Central Shenyang; 10 minutes from Shenyang Station by metro (Line 1 to Shenyang Palace stop).
 **Admission:** ¥60.

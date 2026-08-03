@@ -1,7 +1,6 @@
 ---
 title: "Chinese Opera Guide for Beginners: Peking Opera, Sichuan Opera & Where to See Them"
 description: "Understand and enjoy Chinese traditional opera — the 300+ regional opera styles, what's happening in those elaborate costumes and that singing that sounds unlike anything Western, the best beginner experiences in Beijing (Peking opera), Chengdu (Sichuan opera face-changing), and where to see authentic performances versus tourist shows."
-ogImage: "/img/toolkit/china-traditional-opera-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "peking-opera", "sichuan-opera", "traditional-arts", "face-changing", "cultural-experience", "beijing-opera", "kunqu"]
@@ -16,8 +15,6 @@ For most Western visitors, the first encounter with Chinese opera is baffling �
 ---
 
 ## The Four Performance Elements (四功五法)
-
-![Qinshi Imperial Tomb Terracotta Army](/img/toolkit/china-traditional-opera-guide/1.webp)
 
 Chinese opera actors are trained in **four skills** and **five methods**:
 
@@ -52,8 +49,6 @@ The techniques of hands, eyes, body position, step patterns, and sleeve manipula
 ---
 
 ## Sichuan Opera (川剧) and Face-Changing (变脸)
-
-![Great Wall Lao City Wall](/img/toolkit/china-traditional-opera-guide/2.webp)
 
 **Sichuan Opera** is a regional form distinct from Peking Opera — livelier, more comic, with strong local dialect and music. It is most famous internationally for the technique of **face-changing (变脸, biàn liǎn)** — the rapid change of elaborately decorated masks during performance, appearing instantaneous (the technique is a closely guarded trade secret).
 

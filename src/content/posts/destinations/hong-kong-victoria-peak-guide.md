@@ -22,8 +22,6 @@ Getting there, when to go, which viewpoint to use, and how to get down are all w
 
 ## The Peak Tram: Best Way Up
 
-![Weimei Natural Scenery, Guangxi, Yangshuo](/img/destinations/hong-kong-victoria-peak-guide/1.webp)
-
 The Peak Tram (山頂纜車) has been hauling people up the slope of Hong Kong Island since 1888 and is one of the oldest funicular railways in Asia still in continuous operation. It was rebuilt and modernized in 2021 and now carries more passengers per trip, but the experience is the same: 7–8 minutes of ascending a slope that reaches 45 degrees, the buildings of Mid-Levels appearing to tilt dramatically as you lean back in your seat.
 
 The lower terminus is at Garden Road, accessible from Central (exit J2 from MTR Central Station, 10-minute walk) or by buses 1, 2A, and 15. Tickets: ¥88 one-way, ¥128 return (HKD prices; roughly ¥78 and ¥113 CNY). Buy online via the Peak Tram website to skip the ticket queue.
@@ -31,6 +29,8 @@ The lower terminus is at Garden Road, accessible from Central (exit J2 from MTR 
 The queue for the tram at peak times (weekend afternoons, public holidays) can reach 90 minutes. Arriving on a weekday morning or after 5pm dramatically reduces wait time. The tram runs from 7am to 11pm.
 
 ## Peak Tower vs Lion's Pavilion: Two Different Views
+
+![Scenery, Hong Kong](/img/destinations/hong-kong-victoria-peak-guide/1.webp)
 
 At the top of the tram is the Peak Tower — a building shaped like a wok, housing a shopping mall, multiple restaurants, a Madame Tussauds, and the Sky Terrace 428 observation deck (the number refers to its 428m elevation). The Sky Terrace gives a 360-degree view and costs ¥80–¥100 on top of your tram fare.
 
@@ -40,7 +40,7 @@ For most visitors, Lion's Pavilion is the better choice. Arrive at dawn or in th
 
 ## Timing: When to Go for the Best Views
 
-![Jiejing, Guangxi, Yangshuo](/img/destinations/hong-kong-victoria-peak-guide/2.webp)
+![Haiyang Park Landscape, Hong Kong](/img/destinations/hong-kong-victoria-peak-guide/2.webp)
 
 **Dawn**: The most dramatic and least crowded time. Clear skies at dawn are common in autumn and winter (October–February). The city lights are still on at 6am, and sunrise over the harbour is spectacular.
 
@@ -52,7 +52,7 @@ For most visitors, Lion's Pavilion is the better choice. Arrive at dawn or in th
 
 ## The Peak Circle Walk
 
-![Huangyaguan Great Wall Scenery, Tianjin](/img/destinations/hong-kong-victoria-peak-guide/3.webp)
+![Landscape Zonghe, Hong Kong](/img/destinations/hong-kong-victoria-peak-guide/3.webp)
 
 The Peak Circle Walk (盧吉道及夏力道) is a flat, paved 3.5km loop around the Peak that is one of the most enjoyable easy walks in Hong Kong. The full circuit takes about an hour and reveals different views of the harbour, the southern side of Hong Kong Island (residential houses tumbling toward Aberdeen and Repulse Bay), and Kowloon to the north.
 

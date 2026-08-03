@@ -1,7 +1,6 @@
 ---
 title: "China's 55 Ethnic Minorities Guide: Culture, Festivals, and Where to Encounter Them"
 description: "Understand China's ethnic minority cultures — the 55 officially recognised minority nationalities, the key groups visitors encounter (Tibetan, Uyghur, Zhuang, Miao, Yi, Dai, Mongolian, Bai, Naxi), their distinctive festivals and traditions, where they live, how to visit their communities respectfully, and what the Han/minority dynamic means for the traveller."
-ogImage: "/img/toolkit/china-minority-culture-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "ethnic-minorities", "tibetan", "uyghur", "miao", "naxi", "dai", "mongolia", "minority-culture", "diversity"]
@@ -16,8 +15,6 @@ The minority communities most visitors encounter are concentrated in specific re
 ---
 
 ## The Major Groups
-
-![Zhongyuan Temple Scenery, Suzhou](/img/toolkit/china-minority-culture-guide/1.webp)
 
 ### Tibetan (藏族, Zàngzú)
 **Population:** ~7 million. **Where:** Tibet Autonomous Region, Qinghai, western Sichuan, northern Yunnan.
@@ -63,8 +60,6 @@ One of China's largest minorities, with strong fire-worship traditions. The **Yi
 ---
 
 ## How to Visit Minority Communities Respectfully
-
-![West Lake Landscape, Hangzhou](/img/toolkit/china-minority-culture-guide/2.webp)
 
 **Photography:** Always ask permission before close-up portraits; in communities with elaborate dress traditions (particularly Miao), women in festival dress may request payment for photography, which is a legitimate transaction.
 

@@ -12,7 +12,6 @@ tags:
   - transport
   - entry
 description: "Complete guide to crossing from Hong Kong to mainland China — the Lo Wu (Luohu) MTR crossing, the Lok Ma Chau-Huanggang crossing, the West Kowloon High Speed Rail station to Guangzhou/Beijing/Shanghai, the Hong Kong-Zhuhai-Macau Bridge, ferry options, and what to expect at each."
-ogImage: "/img/toolkit/hong-kong-mainland-border-guide/cover.webp"
 ---
 
 Crossing from Hong Kong to mainland China is one of the world's most-transited border experiences. The infrastructure is excellent, the process is well-organized, and on a normal weekday it can take as little as 20 minutes total. On a Chinese public holiday weekend, the same crossing can take 2 hours. This guide covers every crossing option so you can choose the right one for your destination and situation.
@@ -20,8 +19,6 @@ Crossing from Hong Kong to mainland China is one of the world's most-transited b
 ## Table of contents
 
 ## Before You Cross: Visa Requirements
-
-![Zhuozheng Garden, Suzhou](/img/toolkit/hong-kong-mainland-border-guide/1.webp)
 
 **This is the most important thing to check before planning your crossing.**
 
@@ -82,8 +79,6 @@ The **Hong Kong West Kowloon station** connects via high-speed rail to all major
 **Best for:** Traveling directly to Guangzhou, or any major city beyond Shenzhen; business travelers who value speed
 
 ## Option 4: Hong Kong-Zhuhai-Macau Bridge (HZMB)
-
-![Canglangting, Suzhou](/img/toolkit/hong-kong-mainland-border-guide/2.webp)
 
 The Hong Kong-Zhuhai-Macau Bridge opened in 2018 and connects Hong Kong to Zhuhai (and Macau) via a 55km bridge-tunnel system across the Pearl River mouth. This is the world's longest sea crossing.
 

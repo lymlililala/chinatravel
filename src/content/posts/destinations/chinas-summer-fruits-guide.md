@@ -9,7 +9,7 @@ tags:
   - "guizhou"
   - "sichuan"
 description: "Discover China's top summer fruits—lychee, bayberry, honey plum, and peach—where to find them, and how to enjoy them like a local with our seasonal guide."
-ogImage: "https://images.pexels.com/photos/6547669/pexels-photo-6547669.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/chinas-summer-fruits-guide/cover.webp"
 faq:
   - question: "What is the best time to visit China for summer fruits?"
     answer: "The peak summer fruit season runs from mid-June to early July. Lychees start in May, but bayberries, honey plums, and white peaches are best in late June. Plan your trip around this window for the freshest experience."
@@ -28,6 +28,8 @@ Summer in China is a fruit lover's paradise. While watermelon and grapes are com
 ## Table of contents
 
 ## The Stars of Chinese Summer Fruits
+
+![Tianfuguosheyinger, Sichuan, Chengdu](/img/destinations/chinas-summer-fruits-guide/1.webp)
 
 China's summer fruit lineup is diverse, but four stand out for their exceptional taste and cultural significance. Each has a short season, so timing is everything.
 
@@ -56,6 +58,8 @@ White peaches from Longquanyi (龙泉驿区, Lóng Quán Yì Qū) in Chengdu, Si
 ![Ripe white peach with a pink blush, split open to show juicy flesh](https://images.pexels.com/photos/7889965/pexels-photo-7889965.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Where to Find Them: Regional Origins
+
+![Lugu Lake Ligeban Island Scenery, Sichuan](/img/destinations/chinas-summer-fruits-guide/2.webp)
 
 Each fruit has a specific region where it thrives, thanks to unique microclimates and soil.
 
@@ -92,6 +96,8 @@ The best way to enjoy these fruits is fresh, at peak ripeness. Locals often buy 
 - **Peaches**: If firm, leave at room temperature for a day or two. Once ripe, refrigerate and eat within 3 days. The fuzz protects the skin—wash only before eating.
 
 ## Practical Tips for Travelers
+
+![Shunanzhuhai Landscape](/img/destinations/chinas-summer-fruits-guide/3.webp)
 
 ### Best Time to Visit for Fruit
 

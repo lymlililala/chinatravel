@@ -11,7 +11,6 @@ tags:
   - metro
   - toolkit
 description: "Complete guide to Hong Kong's MTR for visitors — the Octopus Card (buy at the airport, use everywhere), the Airport Express to the city (24 minutes), in-town check-in at Hong Kong Station, cross-harbour tunnels and how to choose, Kowloon to Hong Kong Island routes, and extending to Shenzhen on the East Rail Line."
-ogImage: "/img/toolkit/hong-kong-mtr-guide/cover.webp"
 ---
 
 Hong Kong's MTR (Mass Transit Railway) is consistently ranked among the world's best urban transit systems — on-time performance above 99.9%, spotlessly clean stations, and logical ticketing. For visitors, it solves almost every transport problem in the city and costs a fraction of what taxis charge. The Octopus Card is the key to using it properly, and getting one should be the first thing you do after clearing arrivals.
@@ -19,8 +18,6 @@ Hong Kong's MTR (Mass Transit Railway) is consistently ranked among the world's 
 ## Table of contents
 
 ## The Octopus Card — Get One Immediately
-
-![Xingping, Guangxi, Yangshuo](/img/toolkit/hong-kong-mtr-guide/1.webp)
 
 The **Octopus Card** is a contactless stored-value card that works on every form of public transport in Hong Kong: MTR, buses, trams, minibuses, the Peak Tram, Star Ferry, and many others. It also works at convenience stores (7-Eleven, Circle K), McDonald's, supermarkets, and many other retail outlets. In Hong Kong, the Octopus Card is close to a universal payment device.
 
@@ -77,8 +74,6 @@ MTR fares are distance-based and calculated automatically with the Octopus Card:
 Much cheaper than taxis. A taxi across the harbour starts at about HK$100; the MTR does it for HK$10.
 
 ## Cross-Harbour Options
-
-![Forbidden City Panorama Interior, Beijing](/img/toolkit/hong-kong-mtr-guide/2.webp)
 
 Hong Kong has several cross-harbour tunnels/routes:
 - **MTR cross-harbour**: Multiple lines go under the harbour — fastest and most common

@@ -11,7 +11,7 @@ tags:
   - "east-china"
   - "south-china"
 description: "Navigate China's travel logistics with ease: book trains and hotels, use apps like Alipay, avoid common pitfalls, and explore smartly with our practical guide."
-ogImage: "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=1200&q=85"
+ogImage: "/img/destinations/smart-travel-china-essential-tips/cover.webp"
 faq:
   - question: "Do I need a visa to visit China?"
     answer: "Most nationalities require a visa. Check with the Chinese embassy in your country. The 144-hour transit visa is available in select cities (Beijing, Shanghai, Guangzhou, etc.) for travelers with a connecting flight."
@@ -53,6 +53,8 @@ Major cities like Beijing, Shanghai, Guangzhou, and Shenzhen have extensive metr
 
 ## Accommodation: From Luxury Hotels to Budget Stays
 
+![Huangdi Ancient Village Luo Landscape, Shanxi, Anhui](/img/destinations/smart-travel-china-essential-tips/1.webp)
+
 China offers a wide range of lodging, from international chains to unique local stays.
 
 ### Booking Platforms
@@ -71,6 +73,8 @@ China offers a wide range of lodging, from international chains to unique local 
 
 ## Money and Payments: Going Cashless
 
+![Shiwannanfengguzao Scenery, Guangdong, Foshan](/img/destinations/smart-travel-china-essential-tips/2.webp)
+
 China is nearly cashless. Here's how to pay.
 
 ### Mobile Payment
@@ -83,6 +87,8 @@ China is nearly cashless. Here's how to pay.
 - **Credit cards**: Accepted in large hotels, international restaurants, and shopping malls, but not at smaller shops or street food stalls. 
 
 ## Connectivity: Staying Online
+
+![Baomo Garden, Guangdong, Guangzhou](/img/destinations/smart-travel-china-essential-tips/3.webp)
 
 - **VPN**: China blocks many foreign websites (Google, Facebook, Instagram). Install a reliable VPN before arriving. 
 - **SIM card**: Buy a local SIM at the airport (China Mobile, China Unicom, or China Telecom). Plans start at ¥50 for 10GB. 

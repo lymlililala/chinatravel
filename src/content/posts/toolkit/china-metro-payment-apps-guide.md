@@ -12,7 +12,6 @@ tags:
   - apps
   - toolkit
 description: "A complete guide to every payment method for Chinese metro systems — which app to use in which city, how to set up metro QR codes via Alipay and WeChat, transit card options, and how to avoid getting stuck at the turnstile."
-ogImage: "/img/toolkit/china-metro-payment-apps-guide/cover.webp"
 ---
 
 Getting through a Chinese metro turnstile without delay — especially when 50 people are queuing behind you — requires knowing exactly which payment method to use before you arrive at the gate. This guide explains every option, city by city, and gets you set up before you leave your hotel.
@@ -20,8 +19,6 @@ Getting through a Chinese metro turnstile without delay — especially when 50 p
 ## Table of contents
 
 ## The Three Ways to Pay
-
-![Forbidden City Bowuyuan, Taiwan, Taipei](/img/toolkit/china-metro-payment-apps-guide/1.webp)
 
 ### Method 1: City-Specific QR Code (Best for Tourists)
 
@@ -140,8 +137,6 @@ Some Chinese cities support contactless NFC payment for the metro via the **Expr
 ---
 
 ## When You Can't Connect at the Gate
-
-![Wanli Great Wall Scenery](/img/toolkit/china-metro-payment-apps-guide/2.webp)
 
 **Problem: QR code loading slowly**
 

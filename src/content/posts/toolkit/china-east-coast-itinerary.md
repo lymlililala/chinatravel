@@ -12,7 +12,6 @@ tags:
   - planning
   - beginners
 description: "The East China 7-day loop — Shanghai as hub (2 days), day trip to Suzhou gardens, day trip to Hangzhou West Lake and tea village, day trip or overnight to Zhujiajiao water town, and high-speed train to Nanjing for the Purple Mountain sites (1.5 days). All within 2 hours of Shanghai, all using the world's best high-speed rail network."
-ogImage: "/img/toolkit/china-east-coast-itinerary/cover.webp"
 ---
 
 The Yangtze River Delta region around Shanghai is one of the most historically and culturally rich areas in China, and conveniently, one of the easiest to navigate. Every destination in this itinerary is within 2 hours of Shanghai by high-speed train, making this an ideal first China trip for visitors who want genuine depth without complex logistics.
@@ -22,8 +21,6 @@ This 7-day itinerary uses Shanghai as a base for day trips while fitting in an o
 ## Table of contents
 
 ## Why This Route Works So Well
-
-![Li River Lvyou Landscape, Guangxi, Guilin](/img/toolkit/china-east-coast-itinerary/1.webp)
 
 The Yangtze Delta's high-speed rail network is one of the best in the world. Shanghai Hongqiao station alone has departures to Suzhou every 10-15 minutes, Hangzhou every 10-20 minutes, and Nanjing every 15-30 minutes. The trains are fast, punctual, clean, and affordable.
 
@@ -79,8 +76,6 @@ A 30-minute bus or taxi ride from the lake area, Longjing (龙井) village produ
 Return to Shanghai by evening.
 
 ## Day 5: Zhujiajiao Water Town (朱家角)
-
-![Xingping, Guangxi, Yangshuo](/img/toolkit/china-east-coast-itinerary/2.webp)
 
 Zhujiajiao (1 hour from Shanghai by bus or metro+bus, ¥20 each way) is the most atmospheric of the water towns near Shanghai — a genuine working town built around a canal network, with stone bridges spanning the water at regular intervals.
 

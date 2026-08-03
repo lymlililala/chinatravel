@@ -11,7 +11,6 @@ tags:
   - money
   - china
 description: "China spans the full spectrum from ultra-budget to ultra-luxury travel. This guide focuses on the practical budget strategies that experienced China travellers use — not 'suffer for savings' advice but genuine efficiency: using the right apps, eating where locals eat, booking transport smart, and avoiding the common money traps."
-ogImage: "/img/toolkit/china-travel-budget-tips-2026/cover.webp"
 ---
 
 China is one of the world's better-value long-haul travel destinations, but it's not automatically cheap for travellers who don't know the system. There's a wide gap between what tourist-facing businesses charge and what Chinese people pay for equivalent services. This guide is about closing that gap — not about roughing it, but about spending smart.
@@ -19,8 +18,6 @@ China is one of the world's better-value long-haul travel destinations, but it's
 ## Table of contents
 
 ## The Daily Budget Reality Check
-
-![Jinshanling Great Wall, Beijing](/img/toolkit/china-travel-budget-tips-2026/1.webp)
 
 **Budget backpacker (¥150–250/day):** Hostel dormitory (¥60–100), street food meals (¥10–25 each), metro transport, free or low-cost attractions. This works well in smaller cities and areas with developed backpacker infrastructure.
 
@@ -65,8 +62,6 @@ Food is where the gap between tourist pricing and local pricing is widest.
 **Avoid tourist-district addresses.** The hutong guesthouses near major Beijing tourist sites charge 2–3x what equivalent places charge 10 minutes' walk away. Use metro to get to tourist sites, not location premium for proximity.
 
 ## Attractions: What Costs What
-
-![Yiyuanjie Scenery, Beijing, Suzhou](/img/toolkit/china-travel-budget-tips-2026/2.webp)
 
 **Free attractions:** Many of China's best experiences are free or very cheap — walking the Bund, cycling the Summer Palace lakeside, wandering hutong alleys, parks in most cities, most mountain trailheads (the entrance fees are often for the scenic area, not the trail). Research what you can access for free.
 

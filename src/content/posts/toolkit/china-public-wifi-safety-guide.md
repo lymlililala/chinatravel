@@ -10,7 +10,6 @@ tags:
   - internet
   - toolkit
 description: "A practical guide to finding and safely using public WiFi across China — airports, cafes, hotels, metro stations, and train stations — with security tips for protecting your data on Chinese networks."
-ogImage: "/img/toolkit/china-public-wifi-safety-guide/cover.webp"
 ---
 
 Free WiFi is extraordinarily widespread in China — more so than in most Western countries. But connecting to it as a foreign visitor involves navigating Chinese-language login pages, phone number verification systems, and the baseline security risks that come with any public network. This guide covers the practical reality of WiFi access across China.
@@ -18,8 +17,6 @@ Free WiFi is extraordinarily widespread in China — more so than in most Wester
 ## Table of contents
 
 ## Where Free WiFi Is Available
-
-![Forbidden City Panorama Interior, Beijing](/img/toolkit/china-public-wifi-safety-guide/1.webp)
 
 ### Hotels
 
@@ -100,8 +97,6 @@ If a WiFi network requires phone verification and you can't receive the SMS:
 ---
 
 ## Security on Chinese Public Networks
-
-![Jiankou Great Wall Scenery, Beijing](/img/toolkit/china-public-wifi-safety-guide/2.webp)
 
 ### The baseline risk
 

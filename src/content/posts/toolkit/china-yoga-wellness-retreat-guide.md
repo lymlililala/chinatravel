@@ -14,7 +14,6 @@ tags:
   - health
   - nature
 description: "Discover the best yoga and wellness retreats in China for 2026. From mountain meditation centers in Wudang and Yangshuo to Zen Buddhist temple stays, Tibetan healing practices, and modern urban wellness spas in Shanghai and Beijing, this guide covers locations, costs, what to expect, and how to book your ideal wellness experience."
-ogImage: "/img/toolkit/china-yoga-wellness-retreat-guide/cover.webp"
 ---
 
 China might not be the first country that comes to mind when you think of yoga retreats, but this is changing rapidly. The country has a rich indigenous wellness tradition — centuries of Taoist mountain practice, Buddhist meditation, Qi Gong, and Traditional Chinese Medicine — alongside a growing modern wellness industry that has embraced yoga, mindfulness, and international retreat formats enthusiastically.
@@ -24,8 +23,6 @@ Whether you're seeking a week of silence in a Zen temple, daily yoga classes in 
 ## Table of contents
 
 ## China's Indigenous Wellness Traditions
-
-![Xingping, Guangxi, Yangshuo](/img/toolkit/china-yoga-wellness-retreat-guide/1.webp)
 
 Before exploring the retreat landscape, it's worth understanding what's homegrown — because incorporating these traditions into your wellness experience is what makes China genuinely distinctive.
 
@@ -164,8 +161,6 @@ Some TCM hospitals offer short-term residential wellness programs combining diag
 Both cupping (拔罐, bá guàn) and gua sha (刮痧) are widely practiced and can be found at most TCM clinics. Cupping sessions: ¥60-150. These have gained international wellness attention and are genuinely interesting to experience in their Chinese context.
 
 ## Buddhist Temple Stays
-
-![Forbidden City Panorama Interior, Beijing](/img/toolkit/china-yoga-wellness-retreat-guide/2.webp)
 
 Several Buddhist monasteries accept visitors for short residential stays. These typically involve:
 - Early rising (4-5am for morning chanting)

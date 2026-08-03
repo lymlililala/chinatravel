@@ -11,7 +11,6 @@ tags:
   - toolkit
   - planning
 description: "Autumn is China's best travel season. September–November weather by region, Golden Week crowd strategy, packing advice, and where to go month by month."
-ogImage: "/img/toolkit/china-autumn-travel-guide/cover.webp"
 faq:
   - question: "When is the autumn season in China?"
     answer: "Autumn in China runs from mid-September through November. The two best travel windows are late September (September 25-30, before the National Day holiday) and October 8-31, after Golden Week ends — clear skies, comfortable temperatures across most of the country, and manageable crowds. By late November the north turns cold, but Yunnan and the south stay warm."
@@ -28,8 +27,6 @@ The key: travel in September or in the second week of October. The first week of
 ## Table of contents
 
 ## September: The Golden Window
-
-![Forbidden City Panorama Interior, Beijing](/img/toolkit/china-autumn-travel-guide/1.webp)
 
 September is arguably China's single best travel month. The summer humidity has broken, monsoon season is winding down, temperatures are in the ideal 20-28°C range across most of the country, and the summer tourist crowds have thinned.
 
@@ -86,8 +83,6 @@ The UNESCO site closes to all visitors from November 15 onwards, and October (po
 The road between Chengdu and Lhasa reaches its autumn peak in October. The poplar trees lining the rivers turn gold, the harvest is underway in the Tibetan valleys, and the clarity of light before winter sets in is remarkable.
 
 ## November: The South Stays Warm
-
-![Jiankou Great Wall Scenery, Beijing](/img/toolkit/china-autumn-travel-guide/2.webp)
 
 By late November, northern China begins its winter transition — Beijing and Xi'an drop below 10°C by month's end. But the south and southwest remain excellent.
 

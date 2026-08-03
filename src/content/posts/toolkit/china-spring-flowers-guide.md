@@ -18,14 +18,11 @@ faq:
     answer: "The bloom moves north: Kunming peaks in early-to-mid March, Wuhan in mid-to-late March, Shanghai and Hangzhou in late March to early April, and Beijing in mid-April. See our dedicated China cherry blossom guide for city-by-city dates."
   - question: "Where can I see rapeseed flower fields in China?"
     answer: "Luoping in Yunnan is the most famous — over 100,000 hectares of yellow flowers against limestone peaks, peaking late February to mid-March. Wuyuan in Jiangxi (mid-March to early April) and Xinghua in Jiangsu (early to mid April) are the other classics."
-ogImage: "/img/toolkit/china-spring-flowers-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## Spring in China — A Botanical Symphony
-
-![Canglangting, Suzhou](/img/toolkit/china-spring-flowers-guide/1.webp)
 
 China's spring is a progression of blooms that moves northward and upward over four months, transforming the landscape in waves of colour. It starts with plum blossoms in February, builds through cherry blossoms and rapeseed flowers in March and April, and culminates in alpine rhododendrons and peonies in May and June. The scale is staggering — entire valleys turn yellow with rapeseed, mountainsides explode in pink cherry blossoms, and city parks become impromptu flower festivals.
 
@@ -98,8 +95,6 @@ March is the single best month for flower travel in China — the cherry, rapese
 - **Wuyuan, Jiangxi — rapeseed and villages:** Yellow flower terraces around white-walled Huizhou villages peak from late March into early April — a good pick for the very end of the month.
 
 ## Planning a Flower-Chasing Itinerary
-
-![River Scenery, Suzhou](/img/toolkit/china-spring-flowers-guide/2.webp)
 
 ### 2-Week Spring Flowers Tour
 

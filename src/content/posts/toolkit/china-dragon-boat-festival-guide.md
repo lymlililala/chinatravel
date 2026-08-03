@@ -12,7 +12,6 @@ tags:
   - seasonal
   - food
 description: "Dragon Boat Festival (端午节/Duanwu) in China 2026 — when it falls, the best places to watch dragon boat races (Hangzhou, Hong Kong, Miluo in Hunan where Qu Yuan drowned), the zongzi (sticky rice dumpling) regional variations, the five-colour string tradition, and practical tips for visiting during the holiday weekend."
-ogImage: "/img/toolkit/china-dragon-boat-festival-guide/cover.webp"
 ---
 
 The Dragon Boat Festival (端午节, Duānwǔ Jié) is the only Chinese traditional festival where the main activity is athletic. On rivers across China, long narrow dragon boats with 20–40 paddlers race at full sprint to drumbeat, the boats' painted dragon heads cutting through the water. It's visually spectacular, intensely energetic, and deeply rooted in one of China's most enduring stories.
@@ -24,8 +23,6 @@ The festival is also about a food you'll either love immediately or need to appr
 ---
 
 ## When Is Dragon Boat Festival in 2026?
-
-![Wanli Great Wall Scenery](/img/toolkit/china-dragon-boat-festival-guide/1.webp)
 
 Dragon Boat Festival falls on the **5th day of the 5th lunar month**. In 2026, this falls on **May 28, 2026** (Thursday). The Chinese government creates a 3-day public holiday around it — for 2026, expect the holiday period to run approximately **May 28–30, 2026**, with possible long-weekend adjustment depending on the exact weekday calendar.
 
@@ -84,8 +81,6 @@ The canal towns around Suzhou (Zhouzhuang, Tongli, Wuzhen) also hold dragon boat
 ---
 
 ## Zongzi: China's Most Regional Festival Food
-
-![Badaling Great Wall, Beijing](/img/toolkit/china-dragon-boat-festival-guide/2.webp)
 
 Zongzi (粽子) are sticky rice wrapped in bamboo or reed leaves and steamed or boiled. The basic format is universal; the fillings vary dramatically by region. The divisions between savoury/northern and sweet/southern, or between pork-heavy and bean-paste styles, have been argued about with genuine passion for centuries.
 

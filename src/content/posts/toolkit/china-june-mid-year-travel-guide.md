@@ -1,7 +1,6 @@
 ---
 title: "China June Travel Guide: Dragon Boat Festival, Pre-Summer Destinations & Timing Tips"
 description: "Plan your China trip in June — the Dragon Boat Festival holiday, the transition into summer humidity, which destinations are best before the July-August peak, Yunnan's beginning of rainy season, the Yangtze Delta water towns before summer heat, and the specific weather patterns that make June ideal for some regions and challenging for others."
-ogImage: "/img/toolkit/china-june-mid-year-travel-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "june", "dragon-boat-festival", "summer", "seasonal-travel", "yunnan-rainy-season", "pre-summer"]
@@ -14,8 +13,6 @@ June occupies a transitional position in China's travel calendar — the perfect
 ---
 
 ## Dragon Boat Festival (端午节, Duānwǔ Jié)
-
-![Wangshi Garden Scenery, Suzhou](/img/toolkit/china-june-mid-year-travel-guide/1.webp)
 
 **Date:** The 5th day of the 5th lunar month — typically falling in late May or June (2026: May 28; 2027: June 17).
 
@@ -56,8 +53,6 @@ June occupies a transitional position in China's travel calendar — the perfect
 ---
 
 ## Best Destinations in June
-
-![Huqiu Scenery Mingshengqu Scenery, Suzhou](/img/toolkit/china-june-mid-year-travel-guide/2.webp)
 
 **Beijing:** Excellent conditions — lower humidity than July/August; long daylight (sunrise before 5:00 AM); the Great Wall is green and relatively less crowded than peak summer.
 

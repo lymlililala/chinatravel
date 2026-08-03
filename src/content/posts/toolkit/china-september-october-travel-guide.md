@@ -1,7 +1,6 @@
 ---
 title: "China in September & October: Golden Week, Autumn Colors & Best Destinations"
 description: "The complete guide to traveling China in September and October 2026 — navigating Golden Week (National Day Holiday), autumn foliage destinations, harvest festivals, and the year's most spectacular scenery."
-ogImage: "/img/toolkit/china-september-october-travel-guide/cover.webp"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/china-autumn.jpg"
 category: "toolkit"
@@ -20,8 +19,6 @@ September and October are arguably China's best two months for travel — and al
 The solution isn't to avoid this season — it's to plan for it intelligently.
 
 ## Understanding Golden Week
-
-![Forbidden City Panorama Interior, Beijing](/img/toolkit/china-september-october-travel-guide/1.webp)
 
 **National Day Holiday (国庆假期)**: October 1-7, commemorating the founding of the People's Republic of China in 1949. One of the year's three "Golden Weeks" (the others are Chinese New Year and the May Day holiday), this creates 7 consecutive days of vacation for most Chinese workers.
 
@@ -75,8 +72,6 @@ The pre-monsoon and transitional periods of September offer excellent visibility
 **Sichuan-Tibet Highway**: The section between Chengdu and Lhasa through Sichuan's western highlands (the G318 highway) is at its most spectacular in September, with high-altitude wildflowers still blooming in the lower valleys.
 
 ## Best October Destinations (Outside of Golden Week)
-
-![Jiankou Great Wall Scenery, Beijing](/img/toolkit/china-september-october-travel-guide/2.webp)
 
 ### Fragrant Hills (香山), Beijing
 

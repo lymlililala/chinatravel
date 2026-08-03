@@ -20,7 +20,6 @@ tags:
   - entry
   - beginners
 description: "The China tourist visa (L visa) application process in 2026 — what documents you need (passport, photo, application form, flight booking, hotel confirmation, bank statement for some nationalities), how to apply (embassy direct, visa agency, or the new online COVA system), processing times and express options, common refusal reasons and how to avoid them."
-ogImage: "/img/toolkit/china-visa-application-guide/cover.webp"
 ---
 
 Despite the expansion of China's visa-free programs in recent years, most international visitors still need to apply for a tourist visa (L visa) before travel. The process is more straightforward than it used to be — the COVA online application system has simplified some steps — but it still requires attention to documentation detail. Getting it wrong means delays or refusal.
@@ -30,8 +29,6 @@ This guide walks through the complete application process with specific advice f
 ## Table of contents
 
 ## What Is the L Visa?
-
-![Xingping, Guangxi, Yangshuo](/img/toolkit/china-visa-application-guide/1.webp)
 
 The L visa (旅游签证, tourist visa) is the standard entry visa for tourism, visiting friends and family, and other non-business, non-work purposes. It's typically issued as:
 
@@ -112,8 +109,6 @@ Visa fees vary by nationality due to reciprocity agreements. Approximate fees:
 These fees reflect the reciprocity system — countries that charge Chinese citizens high visa fees see reciprocally high fees from China. US citizens pay significantly more than EU citizens for this reason.
 
 ## Processing Times
-
-![Forbidden City Panorama Interior, Beijing](/img/toolkit/china-visa-application-guide/2.webp)
 
 **Standard processing:** 4-7 business days after submission of complete documentation
 

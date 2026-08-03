@@ -11,7 +11,6 @@ tags:
   - beginners
   - toolkit
 description: "The complete guide to Chinese festivals and public holidays for travellers — Chinese New Year, National Day Golden Week, Dragon Boat Festival, Mid-Autumn Festival, and how each holiday affects travel, crowds, and prices for foreign visitors."
-ogImage: "/img/toolkit/china-festivals-holidays-guide/cover.webp"
 ---
 
 China's holiday calendar is one of the most important factors in planning your trip. The country's seven national public holidays — and particularly the three extended "Golden Weeks" — move hundreds of millions of people simultaneously, transforming some travel experiences and making others genuinely unpleasant.
@@ -23,8 +22,6 @@ Understanding the holiday calendar lets you either plan around the crowds or, in
 ---
 
 ## China's 7 National Public Holidays
-
-![Qiannian Great Wall Lao City Wall](/img/toolkit/china-festivals-holidays-guide/1.webp)
 
 | Holiday | 2026 dates | 2027 dates | Duration |
 |---|---|---|---|
@@ -134,8 +131,6 @@ Labour Day has been expanded to 5 days, creating a secondary rush. Less intense 
 ---
 
 ## Tomb Sweeping Day (清明节 Qīngmíng Jié)
-
-![Forbidden City Museum](/img/toolkit/china-festivals-holidays-guide/2.webp)
 
 **When:** April 4 or 5. In 2026: April 5.
 

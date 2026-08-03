@@ -16,7 +16,6 @@ tags:
   - china honeymoon
   - romantic destinations
 description: "Planning a China honeymoon in 2026? Romantic destinations from Guilin to Yunnan, luxury hotels, costs, and ready-made itineraries for honeymoons in China."
-ogImage: "/img/toolkit/china-honeymoon-travel-guide/cover.webp"
 faq:
   - question: "Is China a good honeymoon destination?"
     answer: "Yes — honeymoons in China combine dramatic landscapes, ancient towns, and world-class luxury hotels at lower prices than equivalent resorts in Europe or Southeast Asia. Because most visitors don't linger, even famous destinations feel surprisingly private at dawn and dusk."
@@ -39,8 +38,6 @@ This guide covers where to go, when to go, and how to structure a China honeymoo
 ---
 
 ## Why China Works for a Honeymoon
-
-![West Lake Xuehuafenfei Scenery, Hangzhou](/img/toolkit/china-honeymoon-travel-guide/1.webp)
 
 A few things that make China genuinely appealing for couples:
 
@@ -162,8 +159,6 @@ The sweet spot for most China honeymoons is **late September through early Octob
 ---
 
 ## How Much Does a Honeymoon in China Cost?
-
-![West Lake Leifeng Pagoda, Hangzhou](/img/toolkit/china-honeymoon-travel-guide/2.webp)
 
 China rewards honeymooners with unusual value. At the mid-range, expect roughly **USD 150–250 per day for a couple** — that covers boutique hotels (USD 120–300 a night), high-speed train tickets between cities, restaurant meals, and entrance fees. Street food and local restaurants keep food costs low even when you eat very well.
 

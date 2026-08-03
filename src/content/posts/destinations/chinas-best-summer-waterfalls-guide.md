@@ -10,7 +10,6 @@ tags:
   - "itinerary"
   - "summer"
 description: "Discover China's most breathtaking waterfalls at peak summer flow, from Huangguoshu to Detian, with tips on best times, nearby attractions, and travel"
-ogImage: "/img/destinations/chinas-best-summer-waterfalls-guide/cover.webp"
 faq:
   - question: "Are the waterfalls safe to visit in summer?"
     answer: "Yes, but paths can be slippery. Stay on designated walkways, obey warning signs, and avoid climbing rocks near water. Some areas may close during heavy rain."
@@ -29,8 +28,6 @@ Summer in China brings monsoon rains that transform rivers into roaring cascades
 ## Table of contents
 
 ## Top Waterfalls to Visit in Summer
-
-![Pan Gate, Suzhou](/img/destinations/chinas-best-summer-waterfalls-guide/1.webp)
 
 ### 1. Huangguoshu Waterfall (黄果树瀑布, Huáng Guǒ Shù Pù Bù) – Guizhou Province
 
@@ -114,8 +111,6 @@ While not a natural waterfall, Xiaolangdi's **annual water-sediment regulation**
 
 ## Getting Around & Practical Tips
 
-![Wangshi Garden Scenery, Suzhou](/img/destinations/chinas-best-summer-waterfalls-guide/2.webp)
-
 - **High-speed rail:** Connects most major cities; book via **12306** app (English version available).
 - **Mobile payment:** Alipay and WeChat Pay are widely accepted; link your international credit card.
 - **Visa:** Most travelers need a tourist visa (L). The 144-hour transit visa is available in select cities (e.g., Shanghai, Beijing, Guangzhou) — check eligibility.
@@ -123,8 +118,6 @@ While not a natural waterfall, Xiaolangdi's **annual water-sediment regulation**
 - **Etiquette:** Don't litter; respect barriers; avoid climbing on wet rocks.
 
 ## Where to Stay
-
-![Huqiu Scenery Mingshengqu Scenery, Suzhou](/img/destinations/chinas-best-summer-waterfalls-guide/3.webp)
 
 - **Near Huangguoshu:** Stay in **Anshun** city (hotels from ¥200) or at the scenic area (guesthouses from ¥150).
 - **Near Detian:** **Daxin County** has mid-range hotels (¥150–300); consider a homestay in **Mingshi** for rural charm.

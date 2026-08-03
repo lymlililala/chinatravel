@@ -21,7 +21,7 @@ This itinerary divides the city by area — Kowloon on Day 1, Hong Kong Island o
 
 ## Before You Arrive
 
-![Jiejing, Guangxi, Yangshuo](/img/destinations/hong-kong-3-days-itinerary-guide/1.webp)
+![Scenery, Hong Kong](/img/destinations/hong-kong-3-days-itinerary-guide/1.webp)
 
 **Getting there:** Hong Kong International Airport (HKG) on Lantau Island connects globally. The **Airport Express** to Kowloon Station takes 19 minutes (HK$100) and to Hong Kong Station (Central) takes 24 minutes (HK$115). It's fast and frequent. Taxis cost HK$300-400 to Kowloon, HK$400-500 to Central.
 
@@ -37,7 +37,7 @@ From mainland China: High-speed rail from Guangzhou South to West Kowloon Termin
 
 ## Day 1: Kowloon — Markets, Street Food & Harbour Views
 
-![Huangyaguan Great Wall Scenery, Tianjin](/img/destinations/hong-kong-3-days-itinerary-guide/2.webp)
+![Haiyang Park Landscape, Hong Kong](/img/destinations/hong-kong-3-days-itinerary-guide/2.webp)
 
 ### Morning: Mong Kok Street Markets
 
@@ -99,7 +99,7 @@ Take a sampan tour of the **typhoon shelter** (HK$60-80, negotiate with operator
 
 ## Day 3: Lantau Island — Big Buddha & Tai O
 
-![Forbidden City Bowuyuan, Taiwan, Taipei](/img/destinations/hong-kong-3-days-itinerary-guide/3.webp)
+![Landscape Zonghe, Hong Kong](/img/destinations/hong-kong-3-days-itinerary-guide/3.webp)
 
 ### Morning: Ngong Ping & Big Buddha
 

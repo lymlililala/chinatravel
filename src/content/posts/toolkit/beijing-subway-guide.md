@@ -20,7 +20,6 @@ tags:
   - metro
   - toolkit
 description: "Complete guide to Beijing's subway for first-time visitors — the most useful lines for tourists (Lines 1, 2, 4, 10), how to pay with Alipay or the transit card, airport connections, peak hour reality, which major sights are metro-accessible vs require DiDi, and a map of the tourist-relevant sections."
-ogImage: "/img/toolkit/beijing-subway-guide/cover.webp"
 ---
 
 Beijing's metro network has over 20 lines and more than 370 stations — it's genuinely extensive and reaches most places a visitor wants to go. For the big tourist corridor (Tiananmen, Forbidden City, Beihai, Wangfujing, Sanlitun), the metro is the fastest and cheapest way to move around the city. But Beijing is also huge, and some sights (the Great Wall, Summer Palace, Temple of Heaven) require knowing which combination of lines and exits actually gets you there.
@@ -28,8 +27,6 @@ Beijing's metro network has over 20 lines and more than 370 stations — it's ge
 ## Table of contents
 
 ## Fares and How to Pay
-
-![Courtyard House, Beijing](/img/toolkit/beijing-subway-guide/1.webp)
 
 Beijing metro fares are calculated by distance:
 - **¥3** for the first 6 km
@@ -82,8 +79,6 @@ Beijing metro fares are calculated by distance:
 **Great Wall (Mutianyu/Badaling)**: **Not accessible by metro alone.** Options include: tour bus from Beijing (several operators), hiring a car, or taking a combination of bus + cable car. Badaling has a dedicated shuttle bus from the city. Allow a full day.
 
 ## Peak Hours and Practical Reality
-
-![Tiananmen, Beijing](/img/toolkit/beijing-subway-guide/2.webp)
 
 Beijing metro at peak times (7:30–9am and 5:30–7:30pm on weekdays) is crowded. Line 1 through the CBD corridor can be genuinely packed. The Airport Express is manageable even at rush hour since it has separate boarding from the regular network.
 

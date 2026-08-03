@@ -1,7 +1,6 @@
 ---
 title: "China Solo Male Travel Guide 2026: Making Friends, Staying Safe, Going Deep"
 description: "The practical guide for men travelling solo in China — how to meet people in a country where socialising happens in group contexts, navigating the KTV and nightlife scene without getting scammed, finding genuine connections in a culture that values introductions over cold approaches, and the specific safety considerations that apply to male solo travellers."
-ogImage: "/img/toolkit/china-solo-male-travel-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "solo-travel", "male-traveller", "socializing", "nightlife", "scams", "hostel", "meeting-people"]
@@ -14,8 +13,6 @@ Solo travel in China as a man presents a specific set of challenges that are dif
 ---
 
 ## Meeting People
-
-![Scenery, Anhui, Huangshan](/img/toolkit/china-solo-male-travel-guide/1.webp)
 
 China is a relationship-based society where **cold approaches with strangers are unusual**. Most meaningful social connections happen through introductions, shared institutions (work, school, hometown connections), or organised activities — not the spontaneous hostel-common-room conversations that work in Southeast Asia or Europe.
 
@@ -45,8 +42,6 @@ China is a relationship-based society where **cold approaches with strangers are
 ---
 
 ## Nightlife: Cities That Work for Solo Travellers
-
-![Sea of Clouds Scenery, Huangshan](/img/toolkit/china-solo-male-travel-guide/2.webp)
 
 **Shanghai:** The most international nightlife in China; bars in the French Concession and Jing'an districts have genuine mixed Chinese-international clientele. Speaking English is not unusual. Areas: Yongkang Road, Yanping Road, West Nanjing Road area.
 

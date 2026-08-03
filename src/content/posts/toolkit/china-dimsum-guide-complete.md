@@ -1,7 +1,6 @@
 ---
 title: "Dim Sum Complete Guide: How to Order, What Everything Is, and Where to Eat Yum Cha"
 description: "Master dim sum in China — the complete guide to Cantonese yum cha culture, how to read the dim sum cart and menu, the essential dishes from har gow to egg tarts, the best dim sum cities (Guangzhou, Hong Kong, Shenzhen), regional variations across China, and how to have a proper dim sum morning without speaking Cantonese."
-ogImage: "/img/toolkit/china-dimsum-guide-complete/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "dim-sum", "yum-cha", "cantonese", "guangzhou", "hong-kong", "har-gow", "siu-mai", "brunch"]
@@ -14,8 +13,6 @@ tags: ["china", "dim-sum", "yum-cha", "cantonese", "guangzhou", "hong-kong", "ha
 ---
 
 ## How Yum Cha Works
-
-![Hanshan Temple, Suzhou](/img/toolkit/china-dimsum-guide-complete/1.webp)
 
 **The restaurant:** Traditional yum cha venues are large, noisy, multi-storey affairs with round tables of 8–12 people, constant background noise from cart wheels and clinking teacups, and a pace that makes Western brunch feel sedate.
 
@@ -60,8 +57,6 @@ tags: ["china", "dim-sum", "yum-cha", "cantonese", "guangzhou", "hong-kong", "ha
 ---
 
 ## Best Cities for Dim Sum
-
-![Zhuozheng Garden, Suzhou](/img/toolkit/china-dimsum-guide-complete/2.webp)
 
 ### Guangzhou: The Original
 

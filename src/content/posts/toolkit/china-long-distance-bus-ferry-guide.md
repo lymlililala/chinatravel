@@ -9,7 +9,6 @@ tags:
   - transport
   - toolkit
 description: "When the train doesn't go there — a practical guide to long-distance buses, sleeper coaches, and ferry services in China that reach destinations the high-speed network misses, including remote villages and island crossings."
-ogImage: "/img/toolkit/china-long-distance-bus-ferry-guide/cover.webp"
 ---
 
 China's high-speed rail network is impressive, but it reaches fewer than 400 cities. Beyond those hubs lies a vast network of long-distance buses, scenic ferry routes, and rural minibuses that are essential for reaching some of the country's most rewarding destinations. This guide covers everything you need to know to use them comfortably as a foreigner.
@@ -17,8 +16,6 @@ China's high-speed rail network is impressive, but it reaches fewer than 400 cit
 ## Table of contents
 
 ## Long-Distance Buses (长途汽车)
-
-![Landscape Scenery, Zhangjiajie](/img/toolkit/china-long-distance-bus-ferry-guide/1.webp)
 
 ### When buses are the right choice
 
@@ -69,8 +66,6 @@ Every Chinese city has at least one long-distance bus station (汽车客运站 o
 ---
 
 ## Bus Safety and Comfort Tips
-
-![Shilihualang Scenery, Zhangjiajie, Hunan](/img/toolkit/china-long-distance-bus-ferry-guide/2.webp)
 
 **Seats 1–5 in the front**: avoid on mountain roads — the front offers the most dramatic view of precipitous drops. If you're prone to anxiety on mountain roads, mid-bus or rear seats feel more stable.
 

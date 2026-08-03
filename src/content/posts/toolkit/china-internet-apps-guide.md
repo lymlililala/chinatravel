@@ -12,7 +12,6 @@ tags:
   - apps
   - practical
 description: "The complete China internet picture — what's blocked (Google, YouTube, Instagram, Facebook, WhatsApp, Twitter/X, most Western news), what works without VPN (Telegram, Spotify in some regions, LinkedIn), the essential downloads before arriving (Amap, DiDi, Baidu Translate, WeChat, Alipay), and the apps that genuinely replace blocked Western ones."
-ogImage: "/img/toolkit/china-internet-apps-guide/cover.webp"
 ---
 
 Traveling to China without preparing your phone is like arriving in a country where half the signs are missing. China's internet ecosystem is fundamentally different — not inferior, just separate — and spending 30 minutes on the right downloads before you board your flight makes an enormous practical difference.
@@ -20,8 +19,6 @@ Traveling to China without preparing your phone is like arriving in a country wh
 ## Table of contents
 
 ## The Two-Internet Reality
-
-![Huangdi Ancient Village Luo Landscape, Shanxi, Anhui](/img/toolkit/china-internet-apps-guide/1.webp)
 
 China has developed a parallel internet ecosystem that functions independently of the global web. This isn't an accident — it's been deliberately built over decades, with Chinese equivalents to every major Western service. For Chinese users, these services are often excellent. For foreign visitors, the challenge is the unfamiliarity and the language barrier.
 
@@ -131,8 +128,6 @@ The best English-language booking platform for Chinese trains, domestic flights,
 **WeChat's real-time translation** works for text. For voice calls, the Baidu Translate simultaneous interpretation mode is genuinely impressive for travel situations.
 
 ## Chinese Alternatives to Blocked Apps
-
-![Scenery, Anhui, Huangshan](/img/toolkit/china-internet-apps-guide/2.webp)
 
 | You're Used To | Use Instead |
 |---|---|

@@ -11,7 +11,6 @@ tags:
   - day-trip
   - north-china
 description: "Tianjin is 40 minutes from Beijing on the G-series high-speed train — the Italian concession architecture that looks nothing like China, the famous Goubuli baozi (steamed buns), the Tianjin Eye Ferris wheel, the Ancient Culture Street, and why Tianjin is one of China's most interesting half-day trips for architecture lovers."
-ogImage: "/img/toolkit/tianjin-day-trip-beijing-guide/cover.webp"
 ---
 
 Most people staying in Beijing don't think about Tianjin, and that's their loss. It's 40 minutes on the high-speed train, it has a genuinely distinct character from Beijing, and if you're interested in Chinese history and colonial-era architecture, it might be the most interesting half-day trip available from the capital. Tianjin was carved into foreign concessions — British, French, German, Italian, Japanese, American, and more — between 1860 and 1937, and the resulting architectural mix across a medium-sized Chinese city is genuinely unusual.
@@ -19,8 +18,6 @@ Most people staying in Beijing don't think about Tianjin, and that's their loss.
 ## Table of contents
 
 ## Getting There: Beijing South to Tianjin
-
-![Courtyard House, Beijing](/img/toolkit/tianjin-day-trip-beijing-guide/1.webp)
 
 Trains depart from **Beijing South Railway Station** (北京南站) on metro Line 4 or Line 14. G trains (the fast ones) leave roughly every 15–30 minutes throughout the day and arrive at **Tianjin Station** (天津站) in **30–40 minutes**. Tickets cost **¥54.50** second class. No advance booking needed — trains run so frequently that you can just turn up and take the next one, though buying on 12306 or Trip.com a day ahead guarantees a seat.
 
@@ -49,8 +46,6 @@ This is a large Ferris wheel built on a bridge over the Hai River — one of the
 It's in the **Hongqiao District**, about 20 minutes by taxi from the Italian Concession.
 
 ## Ancient Culture Street (天津古文化街)
-
-![Tiananmen, Beijing](/img/toolkit/tianjin-day-trip-beijing-guide/2.webp)
 
 The Ancient Culture Street is a pedestrianized traditional shopping street featuring Qing dynasty-style architecture and selling folk crafts, traditional Chinese goods, incense, paintings, and Tianjin specialties. The Tianhou Temple (妈祖庙) — dedicated to the sea goddess, reflecting Tianjin's coastal port history — sits at the center.
 

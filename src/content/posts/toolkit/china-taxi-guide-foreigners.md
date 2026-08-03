@@ -11,7 +11,6 @@ tags:
   - toolkit
   - practical
 description: "Taxis and ride-hailing in China for foreign visitors — DiDi vs Shouqi vs Gaode taxi (each app's advantages), why street taxis in tourist areas often refuse foreigners, the meter vs app comparison, screen-translating your destination, typical prices per km, and how to deal with disputes over route or price."
-ogImage: "/img/toolkit/china-taxi-guide-foreigners/cover.webp"
 ---
 
 Taking taxis in China is not as simple as hailing a cab in a Western city, but it's not complicated once you understand how the ecosystem works. Between app-based ride-hailing and street taxis, there are more options than you might expect — the key is knowing which to use in which situation, and how to communicate effectively with drivers who almost certainly don't speak English.
@@ -19,8 +18,6 @@ Taking taxis in China is not as simple as hailing a cab in a Western city, but i
 ## Table of contents
 
 ## Street Taxis vs App-Based Ride-Hailing
-
-![Scenery, Anhui, Huangshan](/img/toolkit/china-taxi-guide-foreigners/1.webp)
 
 **Street taxis** still exist across all Chinese cities and run on metered fares. In theory, any taxi with its light on is available. In practice, there are reasons why many visitors find street taxis less reliable:
 
@@ -71,8 +68,6 @@ This is the practical challenge. Options:
 **In-app DiDi messaging**: The DiDi app has a translation function in the driver messaging. Type in English; it sends Chinese to the driver.
 
 ## Disputes About Price or Route
-
-![Guojiadizhi Park Scenery, Huangshan](/img/toolkit/china-taxi-guide-foreigners/2.webp)
 
 On metered street taxis: **the meter decides**. If a driver refuses to use the meter (usually claiming a fixed price instead), get out and find another taxi. Fixed-price taxis not using meters are illegal and always charge more.
 

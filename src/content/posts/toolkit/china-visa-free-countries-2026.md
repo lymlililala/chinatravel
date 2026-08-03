@@ -10,7 +10,6 @@ tags:
   - entry-requirements
   - planning
 description: "Updated 2026 list of countries with visa-free access to China — which passports get 15, 30, or 90 days without a visa, the unilateral 144-hour transit visa policy, and the expanding list of countries added to China's visa-free programme."
-ogImage: "/img/toolkit/china-visa-free-countries-2026/cover.webp"
 ---
 
 China has dramatically expanded its visa-free access programme since late 2023, moving from a small list of 15-day agreements to a significantly broader programme covering citizens from dozens of countries with stays of 15, 30, or even 90 days. This page is updated for 2026 conditions.
@@ -18,8 +17,6 @@ China has dramatically expanded its visa-free access programme since late 2023, 
 **Important**: Visa policy changes frequently. Always verify current status with the Chinese embassy in your country before travelling, as policies can change on short notice.
 
 ## Countries with Visa-Free Entry in 2026
-
-![Jinshanling Great Wall, Beijing](/img/toolkit/china-visa-free-countries-2026/1.webp)
 
 ### 90 Days Visa-Free (Mutual Arrangements)
 
@@ -84,8 +81,6 @@ The **144-hour (6-day) visa-free transit** policy is available at **major Chines
 **72-hour transit**: Available at more airports for shorter stays.
 
 ## Entry via Hong Kong or Macau
-
-![Yiyuanjie Scenery, Beijing, Suzhou](/img/toolkit/china-visa-free-countries-2026/2.webp)
 
 Citizens of many countries can enter Hong Kong and Macau without a Chinese mainland visa — and can use the mainland 144-hour transit policy to visit from there.
 

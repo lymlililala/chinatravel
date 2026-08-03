@@ -35,8 +35,6 @@ When summer temperatures in China's major cities soar past 35°C, it's time to h
 
 ## Top Summer Destinations at a Glance
 
-![Jiankou Great Wall Scenery, Beijing](/img/destinations/china-best-summer-cool-escapes/1.webp)
-
 | Destination | Best For | Average Summer Temp | Travel Time from Major City |
 |---|---|---|---|
 | **Chongli, Hebei** | Mountain resort, hiking, cable car | 20°C | 1.5h high-speed rail from Beijing |
@@ -46,6 +44,8 @@ When summer temperatures in China's major cities soar past 35°C, it's time to h
 | **Yangshuo, Guangxi** | River scenery, cycling, hiking | 28°C | 2h high-speed rail from Guangzhou |
 
 ## 1. Chongli (崇礼) – Beijing's Backyard Mountain Escape
+
+![Putuoshan Scenery](/img/destinations/china-best-summer-cool-escapes/1.webp)
 
 Just 180 km northwest of Beijing, Chongli in Hebei Province is famous as a ski destination in winter, but in summer it transforms into a lush, cool retreat with average temperatures around 20°C. The area is part of the **Yunding Ski Park** (云顶滑雪公园), which offers a range of summer activities including scenic cable car rides, mountain biking, go-karting, and grass sliding.
 
@@ -86,7 +86,7 @@ Enshi Grand Canyon in Hubei Province is a 35-km-long karst landscape featuring s
 
 ## 3. Guiyang (贵阳) – The Cool Capital of Guizhou
 
-![Jinshanling Great Wall, Beijing](/img/destinations/china-best-summer-cool-escapes/2.webp)
+![Taiziwan Park Landscape, Hangzhou](/img/destinations/china-best-summer-cool-escapes/2.webp)
 
 Guiyang, the capital of Guizhou Province, is known for its mild summer climate (average 23°C) and vibrant food scene. The city is also home to the **A Yunduo Cang** (阿云朵仓) arts district, a trendy neighborhood with cafes, galleries, and a skate park, all part of the **Guiyang Zhenpo Hotel** (贵阳珍珀酒店) complex.
 
@@ -149,7 +149,7 @@ Yangshuo in Guangxi Province is famous for its karst peaks, Li River scenery, an
 
 ## Best Time to Visit
 
-![Yiyuanjie Scenery, Beijing, Suzhou](/img/destinations/china-best-summer-cool-escapes/3.webp)
+![Song City Scenery, Hangzhou](/img/destinations/china-best-summer-cool-escapes/3.webp)
 
 All these destinations are best visited from June to September, when the weather is warm but not scorching. July and August are peak season, so expect larger crowds and higher prices. Early June and late September offer a good balance of pleasant weather and fewer tourists.
 

@@ -31,8 +31,6 @@ Summer in China is a feast for the senses, where the heat brings forth a bounty 
 
 ## Zongzi: The Taste of Dragon Boat Festival
 
-![Badalingshuiguan Great Wall Scenery, Beijing](/img/destinations/china-summer-seasonal-food-guide/1.webp)
-
 **Zongzi** (粽子, zòng zi) are pyramid-shaped glutinous rice dumplings wrapped in bamboo or reed leaves, traditionally eaten during the **Dragon Boat Festival** (Duanwu, 端午节), which falls in June. While the festival honors the poet Qu Yuan, zongzi have become a beloved summer snack across China, with regional variations that reflect local tastes.
 
 ### Huzhou-Style Zongzi: The Gold Standard
@@ -54,6 +52,8 @@ Huzhou zongzi are typically made with short-grain glutinous rice from the Taihu 
 For more on Chinese food culture, see our [food guide](/tags/food).
 
 ## Crayfish: The Summer Night Market Star
+
+![Tianfuguosheyinger, Sichuan, Chengdu](/img/destinations/china-summer-seasonal-food-guide/1.webp)
 
 **Crayfish** (小龙虾, xiǎo lóng xiā) are the undisputed king of Chinese summer night markets. From June to September, streets across the country fill with the aroma of spicy, garlicky, and buttery crustaceans. China is the world's largest producer and consumer of crayfish, with Hubei province alone accounting for over 40% of national output.
 
@@ -77,7 +77,7 @@ For more culinary adventures, check out our [Sichuan food guide](/tags/sichuan).
 
 ## Water Peaches: Sichuan's Juicy Summer Treat
 
-![Badaling Great Wall, Beijing](/img/destinations/china-summer-seasonal-food-guide/2.webp)
+![Beautiful Landscape, Xinjiang](/img/destinations/china-summer-seasonal-food-guide/2.webp)
 
 **Water peaches** (水蜜桃, shuǐ mì táo) from **Longquanyi** (龙泉驿) in Sichuan are a summer highlight. These peaches are known for their thin skin, meltingly soft flesh, and explosive juiciness. The region, with its purple soil and unique microclimate, has been growing peaches since the Ming dynasty.
 
@@ -95,7 +95,7 @@ Longquanyi peaches are sold at fruit markets across China from June to August. L
 
 ## White Apricots: Xinjiang's Sweet Summer Gem
 
-![Simatai Great Wall, Beijing](/img/destinations/china-summer-seasonal-food-guide/3.webp)
+![Lugu Lake Ligeban Island Scenery, Sichuan](/img/destinations/china-summer-seasonal-food-guide/3.webp)
 
 **Xinjiang white apricots** (小白杏, xiǎo bái xìng) from **Luntai** (轮台) are a fleeting summer pleasure, with a harvest season of only about 20 days in June. These small, pale yellow fruits are incredibly sweet (up to 19° Brix) and have a honey-like flavor, earning them the nickname "tree honey."
 

@@ -19,8 +19,6 @@ China's ancient villages offer something the cities cannot: the physical texture
 
 ## Hongcun and Xidi: Anhui's UNESCO Villages
 
-![Huqiu Scenery Mingshengqu Scenery, Suzhou](/img/destinations/china-ancient-villages-guide/1.webp)
-
 The villages of **Hongcun (宏村)** and **Xidi (西递)** in She County, Anhui Province, were inscribed on the UNESCO World Heritage List in 2000 as outstanding examples of Huizhou (徽州) architecture. Both were settled and developed by the Wang and Hu merchant clans during the Ming and Qing Dynasties, when Huizhou merchants dominated China's salt trade.
 
 ### Huizhou architectural style
@@ -51,6 +49,8 @@ Slightly less visited than Hongcun and slightly better preserved — fewer touri
 
 ## Furong Village (芙蓉村): The Cliff Village of Zhejiang
 
+![Chuzhoulangya Mountain Scenery](/img/destinations/china-ancient-villages-guide/1.webp)
+
 Furong Village (芙蓉村) in Yongjia County, Zhejiang Province, is one of China's most dramatically sited villages — perched on a cliff edge above a valley, with waterfalls visible in wet season and extraordinary mountain views year-round. It's been inhabited since the Tang Dynasty and has 330+ buildings from the Song to Qing periods.
 
 The village is famous for its **"七星八斗" (Seven Stars, Eight Dou)** layout — seven stone-paved lanes designed to resemble a star pattern, with eight courtyard wells (水井斗) representing the Dou constellation. The village planning reflects Taoist cosmological principles.
@@ -71,7 +71,7 @@ Visitors frequently get lost in the labyrinthine lanes; this is by design. The o
 
 ## Dangjia Village (党家村): Shaanxi's Hidden Gem
 
-![Zhongyuan Temple Scenery, Suzhou](/img/destinations/china-ancient-villages-guide/2.webp)
+![Guojiadizhi Park Scenery, Huangshan](/img/destinations/china-ancient-villages-guide/2.webp)
 
 Dangjia Village (党家村) in Hancheng, Shaanxi Province, is almost unknown outside China but contains 125 preserved Ming and Qing Dynasty courtyard houses (四合院) in near-perfect condition — the finest concentration of northern Chinese vernacular architecture surviving.
 
@@ -83,7 +83,7 @@ Unlike Anhui's white-walled style, these are northern Chinese compounds: high bl
 
 ## Zhaoxing Dong Village (肇兴侗寨): Guizhou's Wind-Rain Bridges
 
-![West Lake Yuefei Temple, Hangzhou](/img/destinations/china-ancient-villages-guide/3.webp)
+![Hong Village Landscape, Anhui](/img/destinations/china-ancient-villages-guide/3.webp)
 
 Zhaoxing (肇兴), in Liping County, Guizhou, is the largest Dong ethnic minority village in China — approximately 1,000 Dong families in a mountain valley. The village is famous for its **five drum towers** (鼓楼, one for each of the five clan groups) and five **Wind-Rain Bridges** (风雨桥): covered wooden bridges that are simultaneously functional crossings and community gathering spaces.
 

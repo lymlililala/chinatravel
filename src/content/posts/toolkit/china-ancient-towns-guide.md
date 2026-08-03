@@ -11,7 +11,6 @@ tags:
   - history
   - heritage
 description: "China's preserved ancient towns — Pingyao (Shanxi, Ming-Qing dynasty commercial city, the best preserved), Fenghuang (Hunan, stilted houses over the Tuojiang River, spectacular setting), Wuzhen (Zhejiang, water town with candlelit night scenery), Xitang, and Hongcun (Anhui, the Crouching Tiger Hidden Dragon village). What sets each apart and how to visit without it feeling like a theme park."
-ogImage: "/img/toolkit/china-ancient-towns-guide/cover.webp"
 ---
 
 China has preserved a remarkable number of ancient towns — commercial cities, water villages, minority settlements — that give tangible form to centuries of history. The challenge is that the best-known ones have become significant tourist destinations, and managing the difference between authentic encounter and curated spectacle requires some navigation. Here's the honest breakdown of what each is actually like.
@@ -19,8 +18,6 @@ China has preserved a remarkable number of ancient towns — commercial cities, 
 ## Table of contents
 
 ## Pingyao (平遙): The Best Preserved
-
-![Scenery, Anhui, Huangshan](/img/toolkit/china-ancient-towns-guide/1.webp)
 
 **Shanxi Province | Best months: April-May, September-October**
 
@@ -73,8 +70,6 @@ The unique thing about Wuzhen is the **night experience**. The town is lit by pa
 **Getting there:** Bus from Shanghai Hongqiao station or Hangzhou East station to Tongxiang city, then local bus or taxi to Wuzhen (total 1.5-2 hours from either city).
 
 ## Hongcun (宏村): Crouching Tiger Country
-
-![Sea of Clouds Scenery, Huangshan](/img/toolkit/china-ancient-towns-guide/2.webp)
 
 **Anhui Province | Best months: March-April (rapeseed flowers), October-November (autumn colour)**
 

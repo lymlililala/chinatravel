@@ -20,8 +20,6 @@ Hong Kong's relationship with food is more intense than almost anywhere else in 
 
 ## Dim Sum (Yum Cha 飲茶): Where to Eat It
 
-![Tongli Old Town Scenery, Jiangsu, Suzhou](/img/destinations/hong-kong-food-guide/1.webp)
-
 Hong Kong dim sum at its best is better than Guangzhou. This is a contested statement, but Hong Kong's longer exposure to international food standards and its restaurant competition intensity have pushed dim sum quality very high.
 
 **Tim Ho Wan** (添好運) — the famous Michelin-star budget dim sum chain. The baked char siu bao (BBQ pork buns) with a flaky, lightly sweet crust are genuinely excellent. But the queues at the original Mong Kok and Sheung Wan branches are 45-90 minutes at peak times. The food quality hasn't declined but it's become a bucket-list tick rather than a meal.
@@ -37,6 +35,8 @@ Hong Kong dim sum at its best is better than Guangzhou. This is a contested stat
 **How to navigate dim sum:** Arrive before 9am (for the quieter early crowd) or at exactly 11am (for lunch service at its best). If using the trolley system, keep your order card visible. For items you want to request from the kitchen, ask a staff member — trolleys don't carry everything.
 
 ## Cha Chaan Teng (茶餐廳): The Hong Kong Café
+
+![Scenery, Hong Kong](/img/destinations/hong-kong-food-guide/1.webp)
 
 The **cha chaan teng** (茶餐廳, literally "tea restaurant") is uniquely Hong Kong — a fast-paced, efficient, slightly chaotic café that serves a hybrid menu of Cantonese and Western-influenced dishes. They're open from early morning, serve the same menu from breakfast through dinner, and represent one of the great democratising food institutions anywhere.
 
@@ -54,7 +54,7 @@ The **cha chaan teng** (茶餐廳, literally "tea restaurant") is uniquely Hong 
 
 ## Char Siu and Roast Meat (燒味) in Sham Shui Po
 
-![Shi Lake Scenery, Jiangsu, Suzhou](/img/destinations/hong-kong-food-guide/2.webp)
+![Haiyang Park Landscape, Hong Kong](/img/destinations/hong-kong-food-guide/2.webp)
 
 **Sham Shui Po** (深水埗) in west Kowloon is Hong Kong's most working-class major district and has the most concentrated collection of traditional roast meat shops (燒味, siu mei) in the city.
 
@@ -68,7 +68,7 @@ The **cha chaan teng** (茶餐廳, literally "tea restaurant") is uniquely Hong 
 
 ## Temple Street Night Market and Mong Kok Food
 
-![Zhongyuan Temple Scenery, Jiangsu, Suzhou](/img/destinations/hong-kong-food-guide/3.webp)
+![Landscape Zonghe, Hong Kong](/img/destinations/hong-kong-food-guide/3.webp)
 
 **Temple Street Night Market** (廟街夜市) in Yau Ma Tei operates from around 6pm onwards. The food stalls at the southern end of the market serve claypot rice (煲仔飯), seafood, and various cooked dishes that make for a good evening food wander.
 

@@ -12,7 +12,7 @@ tags:
   - "east-china"
   - "northwest-china"
 description: "Discover China's best summer fruits: Sichuan peaches, Zhejiang bayberries, Shaanxi nectarines, and more. Where to buy, how to enjoy, and travel tips for fruit"
-ogImage: "https://images.pexels.com/photos/12177805/pexels-photo-12177805.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/china-summer-fruits-guide/cover.webp"
 faq:
   - question: "When is the best time to eat Sichuan peaches?"
     answer: "Sichuan peaches from Longquanyi are at their peak from late June to July. The Baifeng variety is especially juicy and sweet during this period."
@@ -50,6 +50,8 @@ From **Zaoyang (枣阳)**, Hubei – another "Hometown of Peaches" – comes the
 
 ## Where to Buy Summer Fruits in China
 
+![Tianfuguosheyingyi, Sichuan, Chengdu](/img/destinations/china-summer-fruits-guide/1.webp)
+
 ### Local Markets
 Visiting a local fruit market is the best way to experience seasonal produce. Look for:
 - **Farmers' markets (菜市场)** in small cities and towns
@@ -78,6 +80,8 @@ Most summer fruits are best eaten raw, at room temperature or slightly chilled. 
 - **Bayberry wine (杨梅酒)** – a traditional summer drink made by steeping berries in baijiu or vodka
 
 ## Best Time to Visit for Fruit Lovers
+
+![Tianfuguosheyinger, Sichuan, Chengdu](/img/destinations/china-summer-fruits-guide/2.webp)
 
 | Fruit | Peak Season | Best Regions |
 |-------|-------------|--------------|
@@ -124,6 +128,8 @@ Learn a few key phrases:
 - Nectarines: Same as peaches.
 
 ## Suggested Itinerary: A Fruit-Focused Trip
+
+![Lugu Lake Ligeban Island Scenery, Sichuan](/img/destinations/china-summer-fruits-guide/3.webp)
 
 **Day 1-2: Chengdu & Longquanyi**
 - Visit Longquanyi peach orchards (June-July).

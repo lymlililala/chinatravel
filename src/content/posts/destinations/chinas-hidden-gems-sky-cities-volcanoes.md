@@ -12,7 +12,7 @@ tags:
   - "guangdong"
   - "UNESCO heritage"
 description: "Discover China's lesser-known wonders: the sky city of Litang, Asia's highest volcano, Guangzhou Zoo's legacy, and summer lotus blooms. A guide for adventurous"
-ogImage: "https://images.pexels.com/photos/9396062/pexels-photo-9396062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/chinas-hidden-gems-sky-cities-volcanoes/cover.webp"
 faq:
   - question: "Do I need a special permit to visit Litang?"
     answer: "No, Litang is in Sichuan province and does not require a Tibet Travel Permit. However, if you plan to continue into the Tibet Autonomous Region, you will need one. Always check current regulations before traveling."
@@ -63,6 +63,8 @@ For more cultural destinations, see our [culture guide](/tags/culture).
 
 ## Asia's Highest Volcano: Quanshuigou in Xinjiang
 
+![Baomo Garden, Guangdong, Guangzhou](/img/destinations/chinas-hidden-gems-sky-cities-volcanoes/1.webp)
+
 In April 2026, a Chinese expedition team made history by first ascending Quanshuigou Volcano (泉水沟火山, Quán Shuǐ Gōu Huǒ Shān) in the West Kunlun Mountains of Xinjiang. At an altitude of approximately 5,810 meters (19,062 feet), it surpasses Iran's Damavand by over 100 meters, making it the highest volcano in Asia. This remote peak, hidden in a no-man's land, is also a rare "glacier volcano"—formed by eruptions beneath thick ice, resulting in a flat-topped, table-like summit.
 
 ![Expedition team climbing the steep, rocky slope of Quanshuigou Volcano with loose volcanic rock and snow patches](https://images.pexels.com/photos/9396062/pexels-photo-9396062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
@@ -82,6 +84,8 @@ Quanshuigou is part of the West Kunlun volcanic belt, one of China's densest, wi
 - **Tengchong (腾冲, Téng Chōng)** in Yunnan: A geothermal area with dormant volcanoes and hot springs.
 
 ## Guangzhou Zoo: A City's Beloved Animal Haven
+
+![Nanyueyuan Scenery, Guangdong, Guangzhou](/img/destinations/chinas-hidden-gems-sky-cities-volcanoes/2.webp)
 
 Guangzhou Zoo (广州动物园, Guǎng Zhōu Dòng Wù Yuán), established in 1958, is a cherished institution in the heart of the city. It gained viral fame for its "lion with a fringe" named Ahang (阿杭, Ā Háng), who passed away in July 2026 after 11 years at the zoo. But the zoo's significance goes far beyond internet memes.
 
@@ -115,6 +119,8 @@ The zoo is a sanctuary for retired circus animals, many arriving with injuries. 
 For more urban nature experiences, see our [nature guide](/tags/nature).
 
 ## Summer Lotus: A Timeless Chinese Tradition
+
+![Tianfuguosheyingyi, Sichuan, Chengdu](/img/destinations/chinas-hidden-gems-sky-cities-volcanoes/3.webp)
 
 In Chinese culture, the lotus (荷花, Hé Huā) symbolizes purity and resilience, rising unsullied from muddy waters. Summer is the prime season to witness these blooms across China. While lotus can be found in many parks and ponds, a few destinations stand out.
 

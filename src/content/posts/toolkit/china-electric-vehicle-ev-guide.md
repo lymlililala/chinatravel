@@ -12,14 +12,11 @@ tags:
   - transport
   - sustainability
 description: "Understand how China's electric vehicle revolution is transforming travel in 2026 — from the dominance of EV taxis and ride-hailing cars to the ubiquitous charging infrastructure, the rise of EV rental options for tourists, how battery-swap technology works, and what the EV transition means for air quality, noise levels, and the overall travel experience in Chinese cities."
-ogImage: "/img/toolkit/china-electric-vehicle-ev-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## China's EV Revolution — Why Travellers Should Care
-
-![Terracotta Army](/img/toolkit/china-electric-vehicle-ev-guide/1.webp)
 
 China has gone all-in on electric vehicles. In 2025, over 50% of new car sales in China were electric or plug-in hybrid — a penetration rate that dwarfs Europe (approximately 25%) and the United States (approximately 10%). The country has more EVs on the road than the rest of the world combined, and the infrastructure to support them — charging stations, battery swap facilities, and EV-specific parking — is woven into the fabric of every Chinese city.
 
@@ -125,8 +122,6 @@ The EV transition has had a visible impact on urban air quality in Chinese citie
 One of the most noticeable effects of EV adoption is the reduction in urban noise. Cities with high EV penetration — Shenzhen, Hangzhou, Guangzhou — are noticeably quieter than cities with predominantly petrol vehicle fleets. The silence of thousands of electric taxis gliding through streets creates a different urban atmosphere.
 
 ## What the EV Revolution Means for Your Trip
-
-![Qinshi Imperial Tomb Terracotta Army](/img/toolkit/china-electric-vehicle-ev-guide/2.webp)
 
 ### Practical Implications
 

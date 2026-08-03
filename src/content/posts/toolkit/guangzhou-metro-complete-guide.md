@@ -1,7 +1,6 @@
 ---
 title: "Guangzhou Metro Guide 2026: All Lines, Fare Calculator & Tourist Tips"
 description: "Comprehensive guide to Guangzhou's metro for tourists and business travelers. Covers airport express, Canton Fair navigation, Guangzhou South Station, payment options and key stops."
-ogImage: "/img/toolkit/guangzhou-metro-complete-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Guangzhou", "metro", "transport", "subway", "Canton Fair", "China travel"]
@@ -10,8 +9,6 @@ tags: ["Guangzhou", "metro", "transport", "subway", "Canton Fair", "China travel
 Guangzhou operates one of Asia's busiest metro networks with over 600 km of track and 300 stations spread across 18 lines. For visitors attending the Canton Fair, exploring the old city, or catching a train at Guangzhou South (the busiest high-speed rail station in China), understanding the metro is the single most important practical skill.
 
 ## Network Overview
-
-![Baomo Garden, Guangdong, Guangzhou](/img/toolkit/guangzhou-metro-complete-guide/1.webp)
 
 The metro runs from approximately 06:00 to 23:30, though a handful of lines on weekends extend to 00:30. Trains run every 3–5 minutes during peak hours on main lines, and every 8–10 minutes on outer branches.
 
@@ -62,8 +59,6 @@ The station is enormous — allow 30 minutes for the walk from the train to the 
 **Single journey tokens**: Purchased from machines with English language option. Change given for notes up to ¥100.
 
 ## Key Tourist Stations
-
-![Nanyueyuan Scenery, Guangdong, Guangzhou](/img/toolkit/guangzhou-metro-complete-guide/2.webp)
 
 | Station | Line | What's Nearby |
 |---------|------|---------------|

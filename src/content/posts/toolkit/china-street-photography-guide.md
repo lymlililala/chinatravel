@@ -11,7 +11,6 @@ tags:
   - street-life
   - culture
 description: "China offers some of the world's most dramatic street photography subjects — from morning tai chi in hutong courtyards to night markets blazing with neon and steam. This 2026 guide covers the best cities and neighborhoods for street photography, how to approach subjects ethically, current legal context for photography in China, and technical approaches for the challenging light conditions you'll encounter."
-ogImage: "/img/toolkit/china-street-photography-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -19,8 +18,6 @@ ogImage: "/img/toolkit/china-street-photography-guide/cover.webp"
 Chinese streets offer extraordinary photographic material — the visual density, the mix of ancient and ultra-modern, the color and texture of market life, the deeply human moments in teahouses and parks. But photographing in China requires understanding both the technical challenges (strong contrasting light, fast-moving scenes) and the social context (when to ask, when to observe, when to put the camera away).
 
 ## The Legal Context
-
-![Jinshanling Great Wall, Beijing](/img/toolkit/china-street-photography-guide/1.webp)
 
 Photography in China's public spaces is generally unrestricted, with specific exceptions:
 
@@ -110,8 +107,6 @@ A few phrases go a long way:
 **Ethnic minority markets (Guizhou and Yunnan)**: The rotating village markets of Guizhou's Miao and Dong communities are some of the most photogenic weekly events in China. Kaili market, Congjiang market, and similar venues — do some research on market days before visiting.
 
 ## Technical Approach
-
-![Yiyuanjie Scenery, Beijing, Suzhou](/img/toolkit/china-street-photography-guide/2.webp)
 
 ### Light
 

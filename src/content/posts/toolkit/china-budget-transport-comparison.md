@@ -12,7 +12,6 @@ tags:
   - flights
   - practical-guide
 description: "Should you fly, take the high-speed train, or grab a long-distance bus in China? The answer depends on distance, time, cost, and comfort — and China's 2026 transport network makes this decision more nuanced than ever. This complete comparison guide breaks down every option with real prices and journey examples."
-ogImage: "/img/toolkit/china-budget-transport-comparison/cover.webp"
 ---
 
 ## Table of contents
@@ -24,8 +23,6 @@ The challenge isn't finding transport — it's choosing the right option for eac
 ---
 
 ## The Quick Answer: A Simple Decision Framework
-
-![Simatai Great Wall, Beijing](/img/toolkit/china-budget-transport-comparison/1.webp)
 
 Before diving into specifics, here's a rough decision tree:
 
@@ -223,8 +220,6 @@ The older diesel and electric train network still operates alongside high-speed 
 ---
 
 ## Head-to-Head Comparisons: Real Routes
-
-![Mutianyu Great Wall Scenery, Beijing](/img/toolkit/china-budget-transport-comparison/2.webp)
 
 ### Route 1: Shanghai to Chengdu
 

@@ -12,7 +12,6 @@ tags:
   - planning
   - air-quality
 description: "Planning travel in China requires reliable weather and air quality data — from typhoon tracking in coastal areas to mountain weather in the Tibetan Plateau to smog forecasting in northern cities. This 2026 guide covers the best weather apps for China, how to read AQI data, seasonal weather patterns by region and how to use weather information for trip planning."
-ogImage: "/img/toolkit/china-weather-app-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -20,8 +19,6 @@ ogImage: "/img/toolkit/china-weather-app-guide/cover.webp"
 China's weather is complicated by its extraordinary geographical range — from tropical Hainan to frozen Manchuria, from the driest desert in Asia (Turpan) to the wettest subtropical rainforest (Xishuangbanna). Understanding which weather app to use, how to read the data, and how to factor weather into planning decisions makes a meaningful difference to trip quality.
 
 ## Best Weather Apps for China
-
-![Zhuozheng Garden, Suzhou](/img/toolkit/china-weather-app-guide/1.webp)
 
 ### Moji Weather (墨迹天气) — Recommended
 
@@ -164,8 +161,6 @@ China uses its own AQI scale (different from the US AQI):
 **Spring/Autumn:** Short but pleasant; autumn colours in October are outstanding.
 
 ## Typhoon Planning
-
-![Canglangting, Suzhou](/img/toolkit/china-weather-app-guide/2.webp)
 
 ### Typhoon Season
 

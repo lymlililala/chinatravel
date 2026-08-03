@@ -30,8 +30,6 @@ Temple Street is genuinely working-class Kowloon in a way that Mong Kok's Ladies
 
 ## History of Temple Street
 
-![Xingping, Guangxi, Yangshuo](/img/destinations/hong-kong-night-market-temple-street/1.webp)
-
 The market takes its name from the **Tin Hau Temple** (天后廟) dedicated to the goddess of the sea, which bisects the street near its northern end. The temple predates the British colonial period; the market organised itself around it from the early 20th century.
 
 For most of its history Temple Street was primarily a market for **male shoppers and workers** — it was known locally as *Man's Street (男人街)*. This contrasted with the adjacent Ladies' Market in Mong Kok (*Women's Street*) that catered to female shoppers.
@@ -41,6 +39,8 @@ Today the gender distinction has largely faded, though the market retains a masc
 ---
 
 ## Temple Street Night Market Location: How to Get There & Opening Hours
+
+![Scenery, Hong Kong](/img/destinations/hong-kong-night-market-temple-street/1.webp)
 
 **MTR:** Jordan Station (Tsuen Wan Line); Exit A or D leads directly to Temple Street (2-minute walk). Alternatively, Yau Ma Tei Station Exit C puts you at the northern end of the market near the Jade Market (5-minute walk) — useful if you want to walk the market south-to-north or north-to-south without backtracking.
 
@@ -52,7 +52,7 @@ Today the gender distinction has largely faded, though the market retains a masc
 
 ## The Stalls: What to Buy at Temple Street Night Market
 
-![Weimei Natural Scenery, Guangxi, Yangshuo](/img/destinations/hong-kong-night-market-temple-street/2.webp)
+![Haiyang Park Landscape, Hong Kong](/img/destinations/hong-kong-night-market-temple-street/2.webp)
 
 Temple Street runs north from Jordan Road to Kansu Street, roughly 600 metres. The character changes as you move north:
 
@@ -94,7 +94,7 @@ This is **not a performance for tourists** — it exists because the participant
 
 ## The Jade Market (Temple Street Jade Market)
 
-![Jiejing, Guangxi, Yangshuo](/img/destinations/hong-kong-night-market-temple-street/3.webp)
+![Landscape Zonghe, Hong Kong](/img/destinations/hong-kong-night-market-temple-street/3.webp)
 
 At the northern end, a covered outdoor market specialises in **jade, gemstones, and amber**. The offerings range from genuine imperial green jadeite at substantial prices to dyed lower-grade jade sold at tourist prices.
 

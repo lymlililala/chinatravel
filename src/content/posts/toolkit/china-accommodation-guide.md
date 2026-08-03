@@ -12,7 +12,6 @@ tags:
   - planning
   - beginners
 description: "Everything you need to know about booking accommodation in China as a foreigner — from international hotel chains to traditional courtyard guesthouses, plus how to navigate the registration rules."
-ogImage: "/img/toolkit/china-accommodation-guide/cover.webp"
 ---
 
 Booking a place to stay in China involves a few quirks that catch first-time visitors off guard. The most important: not all accommodation is legally permitted to host foreign guests. This guide explains every option and how to book confidently.
@@ -20,8 +19,6 @@ Booking a place to stay in China involves a few quirks that catch first-time vis
 ## Table of contents
 
 ## The Foreign Guest Registration Rule
-
-![Jinshanling Great Wall Landscape, Hebei](/img/toolkit/china-accommodation-guide/1.webp)
 
 Chinese law requires all accommodation providers to register foreign guests with the local Public Security Bureau (PSB) within 24 hours of check-in. **International hotel chains and licensed guesthouses handle this automatically**. The problem arises with:
 
@@ -119,8 +116,6 @@ When you check in, staff will ask for your passport. They'll photocopy it and su
 ---
 
 ## Tips for Specific Cities
-
-![Forbidden City, Shenyang](/img/toolkit/china-accommodation-guide/2.webp)
 
 ### Beijing
 - **Hutong guesthouses near Drum Tower** offer the most atmospheric experience. Book early for spring and autumn travel.

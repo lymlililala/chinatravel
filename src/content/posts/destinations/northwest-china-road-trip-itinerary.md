@@ -33,11 +33,11 @@ Embark on an unforgettable journey through Northwest China, where the ancient Si
 
 ## Why Northwest China?
 
-![Simatai Great Wall, Beijing](/img/destinations/northwest-china-road-trip-itinerary/1.webp)
-
 Northwest China is a land of extremes: vast deserts, lush grasslands, towering雪山, and serene salt lakes. It's home to the legendary Silk Road, where caravans once carried goods and ideas between East and West. Today, it offers some of China's most iconic landscapes and historical sites, from the Terracotta Warriors in Xi'an to the Mogao Caves in Dunhuang. The region is surprisingly accessible, with well-connected airports, high-speed rail, and good roads, making it ideal for a self-drive or guided tour.
 
 ## Best Time to Visit
+
+![Mogao Caves, Gansu, Dunhuang](/img/destinations/northwest-china-road-trip-itinerary/1.webp)
 
 The best time to visit Northwest China is from May to October, with July and August being the peak season due to warm weather and lush scenery. Spring (April-May) and autumn (September-October) offer milder temperatures and fewer crowds, ideal for hiking and sightseeing. Winter (November-March) is cold and dry, but you'll find fewer tourists and lower prices. Note that some high-altitude areas like Qinghai Lake can be chilly even in summer, so pack layers.
 
@@ -121,7 +121,7 @@ Conclude your trip in Xining, the capital of Qinghai. Visit the **Dongguan Mosqu
 
 ## Getting There & Around
 
-![Shanhaiguan Great Wall, Beijing](/img/destinations/northwest-china-road-trip-itinerary/2.webp)
+![Singing Sand Dunes, Gansu, Dunhuang](/img/destinations/northwest-china-road-trip-itinerary/2.webp)
 
 ### By Air
 Major airports include Xi'an Xianyang (XIY), Lanzhou Zhongchuan (LHW), Dunhuang (DNH), and Xining Caojiabao (XNN). Direct flights from Beijing, Shanghai, Guangzhou, and Chengdu take 1.5-3.5 hours.
@@ -141,7 +141,7 @@ Renting a car offers flexibility. Use international rental companies like Hertz 
 
 ## Food to Try
 
-![Mutianyu Great Wall Scenery, Beijing](/img/destinations/northwest-china-road-trip-itinerary/3.webp)
+![Kekexili Scenery, Qinghai](/img/destinations/northwest-china-road-trip-itinerary/3.webp)
 
 - **Lanzhou Beef Noodle Soup (兰州牛肉面)**: A hearty breakfast staple.
 - **Hand-Grabbed Lamb (手抓羊肉)**: Tender, flavorful lamb served with cumin and chili.

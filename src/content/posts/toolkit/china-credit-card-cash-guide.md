@@ -11,7 +11,6 @@ tags:
   - toolkit
   - beginners
 description: "The honest guide to using foreign credit cards and cash in China in 2026 — where Visa and Mastercard work and where they don't, the best cards to bring, how to withdraw yuan from Chinese ATMs, the Alipay international card workaround, and how much cash you actually need."
-ogImage: "/img/toolkit/china-credit-card-cash-guide/cover.webp"
 ---
 
 China's payment system presents a genuine challenge for foreign visitors: the country has moved to near-total mobile payment (Alipay and WeChat Pay QR codes), which means international credit cards — Visa, Mastercard, Amex — don't work at most places you'd want to use them. The restaurant, the market stall, the convenience store, the taxi — all expect a phone scan, not a card swipe.
@@ -23,8 +22,6 @@ This doesn't mean your cards are useless — it means you need to understand the
 ---
 
 ## The Fundamental Reality
-
-![Huangdi Ancient Village Luo Landscape, Shanxi, Anhui](/img/toolkit/china-credit-card-cash-guide/1.webp)
 
 **China operates on QR code mobile payments for 95% of daily transactions.** Alipay (支付宝) and WeChat Pay (微信支付) are the two platforms. A QR code is presented or scanned at any transaction point — shops, restaurants, street food, taxis, markets, ticketing machines.
 
@@ -128,8 +125,6 @@ Despite the mobile payment dominance, international cards work (card swipe or co
 ---
 
 ## WeChat Pay: A Secondary Option
-
-![Scenery, Anhui, Huangshan](/img/toolkit/china-credit-card-cash-guide/2.webp)
 
 **WeChat Pay** with international cards has a more limited setup process than Alipay. Some foreign card users have linked WeChat Pay successfully; others encounter verification issues. The process:
 - Download WeChat (already needed for messaging in China)

@@ -1,7 +1,6 @@
 ---
 title: "China vs South Korea Travel Comparison: Which is Right for You?"
 description: "Detailed comparison of traveling in China versus South Korea — costs, visa requirements, food, culture, ease of travel, and combined itineraries. Help deciding between China and Korea trips in 2026."
-ogImage: "/img/toolkit/china-korea-comparison-guide/cover.webp"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/china-korea-comparison.jpg"
 category: "toolkit"
@@ -16,8 +15,6 @@ China and South Korea are two of the most popular destinations in Asia, and many
 This comparison isn't about which country is "better" — both are extraordinary destinations. It's about matching what each offers to what you're looking for.
 
 ## Size and Scale
-
-![West Lake Landscape, Hangzhou](/img/toolkit/china-korea-comparison-guide/1.webp)
 
 **China** is vast. At 9.6 million square kilometers, it's slightly larger than the United States. Traveling between major destinations within China can involve flights of 3-4 hours or train journeys of similar length. The diversity of landscape, climate, food, and culture within China is greater than between many separate countries.
 
@@ -86,8 +83,6 @@ In Korea, budget money buys excellent transport infrastructure and safety, but l
 **South Korea**: Similar challenges with soy sauce and seafood, but the more prevalent English signage makes communication easier.
 
 ## Cultural Experience
-
-![Huangdi Ancient Village Luo Landscape, Shanxi, Anhui](/img/toolkit/china-korea-comparison-guide/2.webp)
 
 ### History and Depth
 

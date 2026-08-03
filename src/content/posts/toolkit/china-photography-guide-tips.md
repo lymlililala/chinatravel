@@ -10,7 +10,6 @@ tags:
   - toolkit
   - practical
 description: "Photography in China — what's officially prohibited to photograph (military installations, some government buildings, certain ceremonies), the drone regulations (DJI is Chinese but drone permits are still required in scenic areas), the best golden hour timings in major cities, dealing with crowds at iconic spots, and the Chinese social media culture of 'IG spots' that reveals undiscovered photogenic locations."
-ogImage: "/img/toolkit/china-photography-guide-tips/cover.webp"
 ---
 
 China is one of the most photographically rewarding countries on earth: extraordinary landscapes, ancient architecture, intense street life, and a food culture that looks as good as it tastes. It's also a country with specific rules about what you can and can't photograph, a drone regime that catches many visitors off guard, and a crowd situation at famous sites that requires tactical thinking.
@@ -20,8 +19,6 @@ Here's a practical guide to photography in China — from the legal framework to
 ## Table of contents
 
 ## What You Cannot Photograph in China
-
-![Shuhe Old Town Scenery, Yunnan, Lijiang](/img/toolkit/china-photography-guide-tips/1.webp)
 
 **Prohibited subjects — strictly:**
 - Military facilities, vehicles, and personnel (this is enforced, and the definition of "military installation" can be interpreted broadly near barracks or checkpoints)
@@ -72,8 +69,6 @@ The Forbidden City, the Terracotta Warriors, the Great Wall, West Lake, Zhangjia
 **Li River at Xingping:** The classic "20 RMB note view" is a 20-minute walk from Xingping village, upstream. Arrive before 7am for mist on the water and no other photographers.
 
 ## Golden Hour in Major Cities
-
-![Terracotta Army](/img/toolkit/china-photography-guide-tips/2.webp)
 
 Light quality varies enormously by city and season. Here are the best positions:
 

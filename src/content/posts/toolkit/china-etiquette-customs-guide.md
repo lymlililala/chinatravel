@@ -20,7 +20,6 @@ tags:
   - etiquette
   - beginners
 description: "Essential cultural knowledge for China visitors — the 'face' (面子) concept and why it matters in every social interaction, dining etiquette (never stick chopsticks upright in rice, always pour for others before yourself), the shoes-off custom at some homes and guesthouses, bargaining norms (expected in markets, never in malls), and the customs around exchanging contact information via WeChat."
-ogImage: "/img/toolkit/china-etiquette-customs-guide/cover.webp"
 ---
 
 Understanding a few key cultural concepts before you arrive in China will make your interactions significantly more rewarding and help you avoid unintentionally causing offence. You don't need to become an expert in Chinese culture to travel well; you need to understand perhaps five or six underlying principles, and the rest follows naturally.
@@ -30,8 +29,6 @@ None of this is exotic or particularly difficult — it's mostly about attention
 ## Table of contents
 
 ## The Concept of Face (面子, Miànzi)
-
-![Qinshi Imperial Tomb Terracotta Army](/img/toolkit/china-etiquette-customs-guide/1.webp)
 
 Face (面子) is the most important cultural concept for understanding social interactions in China. It combines elements of reputation, dignity, respect, and social standing into a single social currency.
 
@@ -99,8 +96,6 @@ The standard approach: offer about 40-50% of the initial price, expect to settle
 Attempting to bargain where fixed prices apply will confuse and sometimes offend the staff.
 
 ## Exchanging Contact Information
-
-![Great Wall Lao City Wall](/img/toolkit/china-etiquette-customs-guide/2.webp)
 
 In China, exchanging contact information means exchanging WeChat.
 

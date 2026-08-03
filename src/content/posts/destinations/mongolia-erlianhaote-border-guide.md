@@ -19,8 +19,6 @@ ogImage: "/img/destinations/mongolia-erlianhaote-border-guide/cover.webp"
 
 ## Erlianhaote — Where Dinosaurs Guard the Border
 
-![Scenery, Jiuzhaigou, Sichuan](/img/destinations/mongolia-erlianhaote-border-guide/1.webp)
-
 Erlianhaote (二连浩特, known as Erenhot in Mongolian and international contexts) is one of those places that exists primarily because of geography. Sitting on the China-Mongolia border in the middle of the vast Eurasian steppe, it's the primary rail gateway between the two countries and a crucial logistics hub. But what makes Erlianhaote genuinely interesting — and worth the considerable effort to reach — is its dinosaur heritage. This area is one of the most important dinosaur fossil sites in Asia, and the city has embraced its prehistoric fame with a enthusiasm that borders on the obsessive.
 
 Driving into Erlianhaote from the south, the first thing you see is a pair of enormous dinosaurs arching over the highway in a kissing pose. It's kitsch, it's magnificent, and it sets the tone perfectly. This is a city that knows it's in the middle of nowhere and has decided to be memorable about it.
@@ -28,6 +26,8 @@ Driving into Erlianhaote from the south, the first thing you see is a pair of en
 I visited Erlianhaote in August, when the grasslands were green and the border trade was bustling. It's not a conventional tourist destination — there are no five-star hotels or curated cultural experiences. But for those who appreciate the quirky, the remote, and the genuinely different, Erlianhaote delivers something that no other Chinese city can.
 
 ## The Dinosaur Heritage
+
+![Neimengwulan Scenery](/img/destinations/mongolia-erlianhaote-border-guide/1.webp)
 
 ### Erlianhaote Dinosaur Museum
 
@@ -79,7 +79,7 @@ The area around the border crossing is filled with shops selling Mongolian and R
 
 ## The Grasslands
 
-![Lvyou Scenery, Lijiang](/img/destinations/mongolia-erlianhaote-border-guide/2.webp)
+![Neimengwulanbutong Beautiful Lake](/img/destinations/mongolia-erlianhaote-border-guide/2.webp)
 
 ### Erenhot Grassland
 
@@ -113,7 +113,7 @@ The food in Erlianhaote reflects its borderland position — a blend of Mongolia
 
 ## Practical Information
 
-![Glacier Park Spectacular Scenery, Yunnan, Lijiang](/img/destinations/mongolia-erlianhaote-border-guide/3.webp)
+![Manzhoulilao Architecture Scenery, Inner Mongolia](/img/destinations/mongolia-erlianhaote-border-guide/3.webp)
 
 ### Getting to Erlianhaote
 

@@ -11,7 +11,7 @@ tags:
   - "culture"
   - "guangzhou"
 description: "Explore southern China's diverse flavors, from Cantonese classics in Guangzhou to hidden gems like Kaiping's claypot rice and Wuyi cuisine, plus Hunan-style"
-ogImage: "https://images.pexels.com/photos/27039861/pexels-photo-27039861.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guangdong-guangxi-food-tour/cover.webp"
 faq:
   - question: "Is it safe to eat street food in southern China?"
     answer: "Yes, street food is generally safe if you choose busy stalls with high turnover. Look for places where locals eat."
@@ -36,6 +36,8 @@ Southern China's cuisine is as diverse as its landscapes. Guangdong is famous fo
 ![A bustling dim sum restaurant in Guangzhou with bamboo steamers](https://images.pexels.com/photos/8093533/pexels-photo-8093533.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Top Destinations for a Food Tour
+
+![Baomo Garden, Guangdong, Guangzhou](/img/destinations/guangdong-guangxi-food-tour/1.webp)
 
 ### Guangzhou: The Heart of Cantonese Cuisine
 
@@ -80,6 +82,8 @@ Guizhou's cuisine is characterized by its **red sour soup** (红酸汤), a ferme
 
 ## Suggested Itinerary: 7-Day Food Tour
 
+![Xingping, Guangxi, Yangshuo](/img/destinations/guangdong-guangxi-food-tour/2.webp)
+
 ### Day 1-2: Guangzhou
 - **Morning**: Visit a traditional dim sum house like **Dian Dou De** (点都德) or **Tao Tao Ju** (陶陶居).
 - **Afternoon**: Explore the **Shangxiajiu Pedestrian Street** (上下九步行街) for street food like **rice noodle rolls** (肠粉) and **stuffed tofu** (酿豆腐).
@@ -113,6 +117,8 @@ Guizhou's cuisine is characterized by its **red sour soup** (红酸汤), a ferme
 - **Guizhou**: Stay in **Kaili** (凯里) for easy access to sour soup restaurants.
 
 ## Best Time to Visit
+
+![Detianda Waterfall Scenery, Guangxi](/img/destinations/guangdong-guangxi-food-tour/3.webp)
 
 The best time for a food tour is **spring (March-May)** and **autumn (September-November)**, when the weather is mild and ingredients are fresh. Summer can be hot and humid, but it's also the season for tropical fruits and refreshing pickles.
 

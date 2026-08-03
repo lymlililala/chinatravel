@@ -14,7 +14,6 @@ tags:
   - toolkit
   - planning
 description: "Golden Week October 2026 in China runs Oct 1-7. How to survive (or avoid) the National Day travel crush: official dates, booking windows, and where to go."
-ogImage: "/img/toolkit/china-golden-week-october-survival-guide/cover.webp"
 faq:
   - question: "When is Golden Week in China in 2026?"
     answer: "The October Golden Week runs October 1-7, 2026 — a seven-day public holiday built around National Day on 1 October. The State Council typically attaches one or two 'make-up' working weekends either side, and in practice the travel crush starts on the evening of September 30 and peaks again on October 7-8 for the return journey."
@@ -33,8 +32,6 @@ For international visitors who either can't avoid travelling during this period 
 ## Table of contents
 
 ## When Is Golden Week in China in 2026? Official Dates
-
-![Yiyuanjie Scenery, Beijing, Suzhou](/img/toolkit/china-golden-week-october-survival-guide/1.webp)
 
 The October Golden Week is built around National Day on 1 October. In 2026 the public holiday runs **October 1-7, 2026** — seven consecutive days off for almost every worker and student in the country. The State Council typically confirms the arrangement late in the preceding year and attaches one or two "make-up" working weekends either side, so the surrounding Saturdays or Sundays can be normal working days.
 
@@ -85,8 +82,6 @@ Dunhuang, Jiayuguan, and the Gansu Silk Road corridor attract Golden Week visito
 - **Beijing and Shanghai** remain functional during Golden Week. Major attractions get crowded, but the cities themselves work fine. The Forbidden City's timed entry system limits crowd peaks. A Golden Week in Shanghai — walking the Bund, exploring the French Concession, eating through the food markets — is entirely manageable.
 
 ## The Contrarian Guide to Enjoying Golden Week
-
-![Huanghuachengshui Great Wall Scenery, Beijing](/img/toolkit/china-golden-week-october-survival-guide/2.webp)
 
 If you're an international visitor who happens to be in China during Golden Week, reframe the experience:
 

@@ -14,7 +14,6 @@ tags:
   - transport
   - planning
 description: "The ultimate 14-day Silk Road journey through China — Xi'an's terracotta warriors, Zhangye's rainbow mountains, Dunhuang's Mogao Caves, and Xinjiang's desert landscapes to Kashgar."
-ogImage: "/img/toolkit/china-2-week-silk-road-itinerary/cover.webp"
 ---
 
 The ancient Silk Road through China is one of the world's great overland journeys — a 4,000km route across China's dramatic northwest that connects the imperial capital of Xi'an with the Central Asian trading hub of Kashgar. This 14-day itinerary covers the essential highlights while still leaving room to breathe.
@@ -22,8 +21,6 @@ The ancient Silk Road through China is one of the world's great overland journey
 ## Table of contents
 
 ## Route Overview
-
-![Datangfurong Garden, Xi'an](/img/toolkit/china-2-week-silk-road-itinerary/1.webp)
 
 **Xi'an → Zhangye → Jiayuguan → Dunhuang → Turpan → Urumqi → Kashgar**
 
@@ -109,8 +106,6 @@ Book ahead — the **Mogao Caves** (莫高窟) require online booking weeks in a
 ---
 
 ## Day 9–10: Turpan — Grapes and Fire
-
-![Yunju Temple Scenery, Shaanxi, Xi'an](/img/toolkit/china-2-week-silk-road-itinerary/2.webp)
 
 Turpan (吐鲁番) sits in a depression 154 metres below sea level — the second-lowest point on Earth — and is one of the hottest places in China (summer temperatures regularly hit 48°C). Plan all outdoor activity for morning and evening.
 

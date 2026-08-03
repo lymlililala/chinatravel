@@ -12,14 +12,11 @@ tags:
   - money-saving
   - attractions
 description: "Save money on China's attractions with this comprehensive 2026 guide to museum discount cards, free entry days, student and senior discounts, city tourist passes, online booking savings, and strategic timing tips. Learn which attractions offer free admission on specific days, how to get foreign student discounts, and the booking hacks that can cut your attraction costs by 30-50%."
-ogImage: "/img/toolkit/china-museum-discount-card-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## Why Attraction Costs Add Up Fast in China
-
-![Tongli Old Town Scenery, Jiangsu, Suzhou](/img/toolkit/china-museum-discount-card-guide/1.webp)
 
 China's major attractions aren't cheap. The Terracotta Warriors cost ¥120 ($17), Zhangjiajie is ¥225 ($31), and add cable cars, shuttle buses, and subsidiary attractions, and a single day of sightseeing can easily exceed ¥300 ($42). Over a two-week trip, attraction costs alone can reach ¥2,000-3,000 ($278-417).
 
@@ -130,8 +127,6 @@ Several attractions offer free entry on major Chinese holidays:
 **Value:** Good if you're visiting 3+ included sites
 
 ## Online Booking Savings
-
-![Shi Lake Scenery, Jiangsu, Suzhou](/img/toolkit/china-museum-discount-card-guide/2.webp)
 
 ### Where to Book
 

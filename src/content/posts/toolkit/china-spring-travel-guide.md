@@ -11,7 +11,6 @@ tags:
   - toolkit
   - planning
 description: "China in spring — the cherry blossoms in March (Wuhan University campus, Yuyuantan Park in Beijing), the rapeseed flower fields of Wuyuan in April, the Luoyang peony festival, Yunnan in perfect weather, Jiuzhaigou re-opening after spring snowmelt, and the Labour Day Golden Week crowds in early May to plan around."
-ogImage: "/img/toolkit/china-spring-travel-guide/cover.webp"
 ---
 
 Spring is widely considered China's best travel season — and for good reason. The cold of winter eases in March, the summer humidity hasn't arrived yet, and the country erupts in colour: cherry blossoms, rapeseed fields, peonies, wildflowers at altitude. The crowds at natural scenic areas haven't hit peak summer levels. It's genuinely excellent.
@@ -21,8 +20,6 @@ The one caveat: the Labour Day Golden Week holiday (May 1-5) creates massive dom
 ## Table of contents
 
 ## March: Cherry Blossoms and Early Spring
-
-![Great Wall Lao City Wall](/img/toolkit/china-spring-travel-guide/1.webp)
 
 **Wuhan (武汉) — Cherry Blossoms**
 Wuhan University (武汉大学) is China's most famous cherry blossom destination — the campus was planted with Japanese cherry trees in the 1930s and the pink canopy over the historic university buildings in mid-to-late March is genuinely beautiful. A timed entry system now controls the crowds, but it still gets busy on weekends.
@@ -71,8 +68,6 @@ May begins the accessible season in Tibet. The mountain passes start to open and
 May sees the grasslands turning green after winter — the Hulun Buir and Xilingol grassland areas are spectacular in late May and June when the grass is lush and the wildflowers are blooming. A long way from the main tourist track, which is part of the appeal.
 
 ## The Labour Day Golden Week Problem
-
-![Xingping, Guangxi, Yangshuo](/img/toolkit/china-spring-travel-guide/2.webp)
 
 **Labour Day (劳动节)** runs May 1-5 in China, and it creates significant domestic travel pressure. All scenic areas in the country will be crowded; trains and flights are heavily booked.
 

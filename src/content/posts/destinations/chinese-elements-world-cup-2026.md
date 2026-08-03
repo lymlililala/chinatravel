@@ -30,8 +30,6 @@ The 2026 FIFA World Cup in the United States, Canada, and Mexico is a tournament
 
 ## The Chinese Referees: A Historic Full Squad
 
-![Ancient Town Aerial View, Lijiang](/img/destinations/chinese-elements-world-cup-2026/1.webp)
-
 For the first time, three Chinese match officials will work the same World Cup fixture – a landmark moment for Chinese football. Referee **Ma Ning** (马宁), assistant referee **Zhou Fei** (周飞), and video assistant referee **Fu Ming** (傅明) were assigned to the Group E match between Ecuador and Curaçao on June 21, 2026. Ma Ning becomes the first Chinese referee to officiate a World Cup match since Lu Jun in 2002, and the only Chinese referee to be selected for two consecutive World Cups (he served as fourth official at six matches in Qatar 2022).
 
 Ma Ning, born in 1979 in Fuxin, Liaoning Province, earned his FIFA referee badge in 2011 and officiated the 2024 AFC Asian Cup final. Known for his strict, no-nonsense style – he once brandished 9 yellow cards and 3 red cards in a single Chinese Super League match – he has been jokingly called the 'Card Master' by fans. 'A good referee must have courage,' Ma told CCTV. 'You don't need to be liked by everyone on the pitch.'
@@ -41,6 +39,8 @@ Fu Ming is the first Chinese VAR official at a World Cup, while Zhou Fei is the 
 For more on China's sports culture, see our [culture hub](/tags/culture).
 
 ## Chinese Tech: From Smart Balls to AI Brains
+
+![Shiwannanfengguzao Scenery, Guangdong, Foshan](/img/destinations/chinese-elements-world-cup-2026/1.webp)
 
 China's technological footprint at the 2026 World Cup is deep and wide, transforming how the game is played, watched, and analysed.
 
@@ -74,7 +74,7 @@ Even more remarkable is the debut of Chinese intangible cultural heritage in off
 
 ## Yiwu: The World's Football Souvenir Capital
 
-![Lvyou Scenery, Lijiang](/img/destinations/chinese-elements-world-cup-2026/2.webp)
+![Baomo Garden, Guangdong, Guangzhou](/img/destinations/chinese-elements-world-cup-2026/2.webp)
 
 No discussion of Chinese elements at the World Cup is complete without mentioning **Yiwu** (义乌), the small city in Zhejiang Province that produces an estimated 70% of the world's fan merchandise. For the 2026 tournament, Yiwu factories have been running at full capacity for months, churning out flags, scarves, hats, face stickers, and replica trophies. But the city is evolving: many workshops now hold official licences from top clubs and national teams, and they use AI design tools to create original products rather than simply copying designs.
 
@@ -114,7 +114,7 @@ The tournament runs from June 11 to July 19, 2026. The best time for most matche
 
 ## What to Eat
 
-![Glacier Park Spectacular Scenery, Yunnan, Lijiang](/img/destinations/chinese-elements-world-cup-2026/3.webp)
+![Shibohui, Shanghai](/img/destinations/chinese-elements-world-cup-2026/3.webp)
 
 - **In Mexico**: Tacos al pastor, tamales, and elote (street corn). Chinese-Mexican fusion is a thing – try 'Chifa' restaurants in Mexico City.
 - **In the US**: Stadium food is pricey; eat before you go. Look for food trucks near fan zones.

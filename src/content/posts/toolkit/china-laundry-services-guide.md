@@ -12,7 +12,6 @@ tags:
   - hotel-services
   - china-practical
 description: "Need to do laundry while travelling in China? This 2026 guide covers every option from self-service laundromats and hotel laundry services to in-room washing and app-based pickup-delivery. Learn pricing, how to find laundromats, what hotel laundry really costs, and smart strategies for keeping your clothes clean on the road in China."
-ogImage: "/img/toolkit/china-laundry-services-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -29,8 +28,6 @@ ogImage: "/img/toolkit/china-laundry-services-guide/cover.webp"
 - [Tips and Cultural Notes](#tips-cultural)
 
 ## The Laundry Landscape in China
-
-![Great Wall Lao City Wall](/img/toolkit/china-laundry-services-guide/1.webp)
 
 Let's be honest — doing laundry while travelling is nobody's idea of fun, but it's a necessary part of any trip longer than a few days. In China, the laundry landscape is quite different from what you might be used to at home, and understanding your options before you need them saves both time and money.
 
@@ -234,8 +231,6 @@ This can be tricky. Chinese hotel rooms often lack the radiator or heated towel 
 **Hotel dry cleaning:** Available at 3-star+ hotels but costs 2-3x more than standalone shops.
 
 ## Finding Laundry Near You
-
-![Potala Palace Scenery, Tibet](/img/toolkit/china-laundry-services-guide/2.webp)
 
 ### Using Baidu Maps
 

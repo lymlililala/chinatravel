@@ -14,7 +14,7 @@ tags:
   - "southwest-china"
   - "accommodation"
 description: "Explore Yunnan and Tibet's sacred mountains, from Kailash to Meili, with trekking guides, cultural tips, and homestay experiences for advanced adventurers."
-ogImage: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&q=85"
+ogImage: "/img/destinations/yunnan-tibet-sacred-mountains-culture/cover.webp"
 faq:
   - question: "Do I need a guide for the Kailash kora?"
     answer: "Not strictly, but highly recommended for first-timers. The route is well-marked and has tea houses every 2-3 km, but altitude and weather can be challenging. Guides cost ¥300-500/day."
@@ -46,6 +46,8 @@ In Yunnan's Diqing Prefecture, Meili Snow Mountain (梅里雪山, Méilǐ Xuěsh
 Other notable sacred peaks include Geladandong (the source of the Yangtze River) and Amne Machin in Qinghai. These are less accessible but equally revered.
 
 ## Suggested Itineraries
+
+![Dashanshenchu Red Soil Gengdi, Yunnan](/img/destinations/yunnan-tibet-sacred-mountains-culture/1.webp)
 
 ### 10-Day Yunnan & Tibet Sacred Mountains Trek
 This itinerary combines the cultural richness of Shangri-La with the spiritual power of Kailash. It's designed for experienced trekkers comfortable at altitudes above 4,000 m.
@@ -102,6 +104,8 @@ For those with less time or who prefer Yunnan's milder climate:
 
 ## Where to Stay
 
+![Erhai Lake Scenery, Yunnan, Dali](/img/destinations/yunnan-tibet-sacred-mountains-culture/2.webp)
+
 ### Luxury/Eco-Lodges
 - **Saido Nomad** (赛朵游牧): Located on Napahai Lake, this 34-room property blends Tibetan architecture with modern comforts. Rooms have underfloor heating, oxygen supply, and Le Labo toiletries. Rates from ¥1,200/night. Book via WeChat or travel platforms.
 - **Songtsam Retreats**: A chain of boutique hotels across Yunnan and Tibet, offering cultural immersion and high-altitude wellness.
@@ -125,6 +129,8 @@ Tibetan cuisine is hearty and warming. Must-tries:
 At Saido Nomad, the restaurant serves Tibetan-style teppanyaki and hotpot featuring local mushrooms and yak. Breakfast runs from 8 AM to 1 PM — perfect for lazy mornings.
 
 ## Best Time to Visit
+
+![Spectacular Ali Scenery, Tibet](/img/destinations/yunnan-tibet-sacred-mountains-culture/3.webp)
 
 | Region | Best Season | Notes |
 |--------|-------------|-------|

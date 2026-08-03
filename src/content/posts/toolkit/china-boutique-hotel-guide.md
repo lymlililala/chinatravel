@@ -11,7 +11,6 @@ tags:
   - boutique
   - culture
 description: "The best boutique hotels across China — converted Beijing hutong courtyard hotels (He Ju Li, Orchid Hotel), Lijiang old town guesthouses with Naxi wood architecture, Suzhou canal-side properties, the historic properties in Pingyao, and the new design hotels in Shanghai's French Concession. What makes a genuinely good boutique vs marketing."
-ogImage: "/img/toolkit/china-boutique-hotel-guide/cover.webp"
 ---
 
 The term "boutique hotel" has been stretched to meaninglessness in most of the world. In China, it covers everything from genuine architectural treasures — restored Ming dynasty courtyards where the original floor tiles are still intact — to modern commercial builds that added some decorative screens and called it "traditional." Telling these apart requires knowing what to look for. The best boutique accommodation in China is extraordinary. The worst is overpriced mediocrity wrapped in Chinese aesthetic signifiers.
@@ -19,8 +18,6 @@ The term "boutique hotel" has been stretched to meaninglessness in most of the w
 ## Table of contents
 
 ## What a Genuine Chinese Boutique Hotel Looks Like
-
-![Heilongtan Park Scenery, Yunnan, Lijiang](/img/toolkit/china-boutique-hotel-guide/1.webp)
 
 Before the property-specific recommendations, some criteria that distinguish genuine boutiques from marketing:
 
@@ -67,8 +64,6 @@ Shanghai's boutique hotel scene is centred in the **French Concession** — the 
 **Note:** The new commercial development outside the old town has produced large "resort" hotels that use Naxi architectural elements on a hotel scale. These aren't the same experience. Commit to staying inside the old town walls.
 
 ## Suzhou and the Canal-Side Stays
-
-![Terracotta Army](/img/toolkit/china-boutique-hotel-guide/2.webp)
 
 **Suzhou** (苏州), the classical garden city an hour from Shanghai, has a growing boutique hotel scene based around its canal-side lane houses and restored garden properties.
 

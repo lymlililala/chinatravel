@@ -33,8 +33,6 @@ From sleeping beside dinosaur skeletons in a Shanghai museum to soaking in a pri
 
 ## Top Unique Stays
 
-![Mufu Scenery, Yunnan, Lijiang](/img/destinations/unique-accommodations-china-guide/1.webp)
-
 ### 1. Sleep with the Dinosaurs: Museum Overnight at Shanghai Natural History Museum
 Imagine exploring a museum after dark, then unrolling your sleeping bag under the towering skeleton of a Mamenchisaurus. This is exactly what the "Museum Camp Night" (博物馆躺营夜) offers — a collaboration between Marriott Bonvoy and the Shanghai Natural History Museum (上海自然博物馆).
 
@@ -74,6 +72,8 @@ In the tea country of Xuancheng (宣城), Anhui province, the first Hantian (涵
 
 ## Other Notable Unique Stays
 
+![Baomo Garden, Guangdong, Guangzhou](/img/destinations/unique-accommodations-china-guide/1.webp)
+
 - **Suzhou Taihu Crowne Plaza**: A new IHG property on Taihu Lake, offering an executive room with club lounge access (including afternoon tea and evening cocktails) from ¥798/night. Great for lake views and nearby attractions like Mudu Ancient Town.
 - **Hangzhou JEN Hotel by Shangri-La**: A stylish new hotel in the city center, with rooms starting at ¥999 for two nights. It's a 3-minute walk to the metro and 18 minutes by car to West Lake.
 - **Chongqing Susong 1946**: A boutique hotel carved from century-old buildings on a cliff overlooking the Yangtze River. From ¥1,499 for two nights, it's a blend of history and modern wabi-sabi aesthetics.
@@ -87,7 +87,7 @@ Most of these unique stays are available through Chinese travel platforms like *
 
 ## Getting Around
 
-![Shuhe Old Town Scenery, Yunnan, Lijiang](/img/destinations/unique-accommodations-china-guide/2.webp)
+![Nanyueyuan Scenery, Guangdong, Guangzhou](/img/destinations/unique-accommodations-china-guide/2.webp)
 
 - **High-speed rail**: China's extensive HSR network connects most destinations. For example, Chengdu to Emeishan (1 hour), Shanghai to Langxi South (2 hours). Book tickets via **12306** (official app, supports foreign passports) or through travel agents.
 - **Metro**: In cities like Shanghai, Hangzhou, and Chongqing, metro systems are efficient and cheap. Buy a single-journey token at the station or use Alipay's transport QR code.
@@ -95,7 +95,7 @@ Most of these unique stays are available through Chinese travel platforms like *
 
 ## Practical Tips for Foreign Travelers
 
-![Heilongtan Park Scenery, Yunnan, Lijiang](/img/destinations/unique-accommodations-china-guide/3.webp)
+![Tianfuguosheyingyi, Sichuan, Chengdu](/img/destinations/unique-accommodations-china-guide/3.webp)
 
 - **Visa**: Most travelers need a tourist visa (L-visa) to enter China. However, the **144-hour transit without a visa** policy applies at major hubs like Shanghai, Beijing, and Guangzhou for passport holders from 54 countries. Check eligibility before you go.
 - **Mobile payment**: Set up **Alipay** before your trip. You can link an international credit card for payments. WeChat Pay also works but requires a Chinese bank account for full functionality. Carry some cash (RMB) as backup for small vendors.

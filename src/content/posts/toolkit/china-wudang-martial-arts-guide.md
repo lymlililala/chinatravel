@@ -12,7 +12,6 @@ tags:
   - martial-arts
   - nature
 description: "Wudang Mountain (武当山) in Hubei — the Taoist sacred mountain and the legendary birthplace of Tai Chi and the internal martial arts. The ancient temple complex on the cliffs, the Golden Summit at 1612m, the martial arts schools that accept foreign students (programmes from 1 week to 6 months), and how to get there from Wuhan or Xi'an."
-ogImage: "/img/toolkit/china-wudang-martial-arts-guide/cover.webp"
 ---
 
 Wudang Mountain (武当山) is one of the places in China that genuinely lives up to its legend. The ancient Taoist temple complex, built into sheer cliff faces at over 1600m elevation, has been active for more than 1,400 years. The mountain is said to be where Zhang Sanfeng created Tai Chi after observing a battle between a snake and a crane. Whether the legend is literally true matters less than the fact that the internal martial arts tradition that emerged from Wudang — Tai Chi, Baguazhang, Xingyiquan — represents one of the world's most sophisticated movement systems.
@@ -20,8 +19,6 @@ Wudang Mountain (武当山) is one of the places in China that genuinely lives u
 ## Table of contents
 
 ## The Spiritual and Historical Context
-
-![Dahong Mountain, Hubei](/img/toolkit/china-wudang-martial-arts-guide/1.webp)
 
 Wudang is to Taoism what Shaolin is to Buddhism — the symbolic heart and most sacred site. The mountain has been a Taoist centre since at least the Tang dynasty (618-907 CE), but reached its peak during the Ming dynasty when the Yongle Emperor built the vast temple complex that still exists today.
 
@@ -42,8 +39,6 @@ The main scenic area covers about 312 square kilometres. You don't need to see a
 **Old Town (武当山镇):** At the mountain's base, this is where most accommodation and restaurants are. The old street (武当山古街) has guesthouses, tea shops, and martial arts equipment vendors. Stay here if you're visiting the temples as a day/overnight trip.
 
 ## Martial Arts Schools at Wudang
-
-![Da Gorge Sea of Clouds Scenery, Hubei, Enshi](/img/toolkit/china-wudang-martial-arts-guide/2.webp)
 
 This is what many international visitors come specifically for. Wudang has numerous schools offering short and long-term training in Taoist internal arts. Quality and approach vary significantly.
 

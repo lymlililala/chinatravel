@@ -1,7 +1,6 @@
 ---
 title: "Getting from Beijing Airport to City Center: All Transport Options Compared (2026)"
 description: "Complete guide to all transport options from Beijing Capital Airport (PEK) and Daxing Airport (PKX) to the city center. Airport Express train, taxi, Didi, bus routes and costs."
-ogImage: "/img/toolkit/beijing-airport-city-transport-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Beijing airport transport", "Beijing Capital Airport", "Beijing Daxing Airport", "airport express Beijing", "getting to Beijing", "China airport"]
@@ -10,8 +9,6 @@ tags: ["Beijing airport transport", "Beijing Capital Airport", "Beijing Daxing A
 Beijing has two international airports — Capital Airport (PEK, closest to the city) and the newer Daxing Airport (PKX, to the south). Getting into the city efficiently depends on which airport you land at, where in Beijing you're staying and what time of day you arrive.
 
 ## Beijing Capital Airport (PEK) → City Center
-
-![Forbidden City Scenery, Beijing](/img/toolkit/beijing-airport-city-transport-guide/1.webp)
 
 ### Option 1: Airport Express Train (Fastest, Most Reliable)
 
@@ -113,8 +110,6 @@ Buses run every 30 minutes. The downside: can be delayed in traffic and don't de
 ---
 
 ## Which Airport and Transport for Common Destinations
-
-![Qiannian Great Wall Lao City Wall](/img/toolkit/beijing-airport-city-transport-guide/2.webp)
 
 | Hotel Location | PEK Best Option | PKX Best Option |
 |---------------|-----------------|-----------------|

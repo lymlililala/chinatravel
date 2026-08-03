@@ -1,7 +1,6 @@
 ---
 title: "Sichuan Hot Pot Complete Guide: How to Order, What to Dip, and Survive the Spice"
 description: "Master Sichuan hot pot in Chengdu and Chongqing — the complete guide to choosing your broth (split pot, single broth), the essential and adventurous ingredients, the dipping sauce you build yourself, the correct order to cook ingredients, managing the numbing-spicy flavour, the best value hot pot experience versus the premium Haidilao chain, and the unwritten rules of hot pot dining."
-ogImage: "/img/toolkit/china-sichuan-hotpot-complete-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "sichuan-hotpot", "chongqing-hotpot", "haidilao", "spicy-food", "food-guide", "chengdu", "communal-dining"]
@@ -16,8 +15,6 @@ Chongqing claims precedence as the origin of the style (Chongqing's version is t
 ---
 
 ## The Broth
-
-![Shunanzhuhai Landscape](/img/toolkit/china-sichuan-hotpot-complete-guide/1.webp)
 
 **Split pot (鸳鸯锅):** A divided pot — one half spicy red broth, one half clear (usually chicken or mushroom) broth. The practical choice for groups with mixed spice tolerance; also useful for cooking delicate ingredients (tofu, egg) in the mild side before finishing in the spicy.
 
@@ -59,8 +56,6 @@ Add noodles at the end of the meal as a carbohydrate finish; the broth by this p
 ---
 
 ## Building Your Dipping Sauce (蘸料)
-
-![Giant Buddha, Leshan](/img/toolkit/china-sichuan-hotpot-complete-guide/2.webp)
 
 Every Sichuan hot pot restaurant has a self-service dipping sauce station. Build your sauce:
 

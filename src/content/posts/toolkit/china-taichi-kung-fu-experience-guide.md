@@ -1,7 +1,6 @@
 ---
 title: "Learning Tai Chi & Kung Fu in China: A Real Guide for Visitors"
 description: "How to actually learn tai chi and kung fu in China — Wudang Mountain, Shaolin Monastery, short-term classes in major cities, what skill level to expect from different programs, and how to distinguish quality instruction."
-ogImage: "/img/toolkit/china-taichi-kung-fu-experience-guide/cover.webp"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/china-taichi.jpg"
 category: "toolkit"
@@ -16,8 +15,6 @@ China's martial arts tradition (武术, wǔshù) is one of the country's most gl
 This guide is for travelers who want the genuine version — whether that means a single morning tai chi lesson in a city park or a serious multi-week training immersion at a traditional school.
 
 ## The Spectrum of Martial Arts Experiences
-
-![Huanghuachengshui Great Wall Scenery, Beijing](/img/toolkit/china-taichi-kung-fu-experience-guide/1.webp)
 
 At one end: a 20-minute "tai chi performance" at a tourist site, with the audience taught three postures and photographed in front of a decorative backdrop.
 
@@ -80,8 +77,6 @@ The mountain's Taoist temples host martial arts schools that have operated in va
 **Costs**: Short courses (1-2 weeks) typically ¥2,000-5,000 including accommodation and meals; monthly rates typically ¥3,000-8,000 depending on quality and inclusivity of accommodation.
 
 ## Shaolin Monastery: Kung Fu's Global Brand
-
-![Qiannian Great Wall Lao City Wall](/img/toolkit/china-taichi-kung-fu-experience-guide/2.webp)
 
 Shaolin Monastery (少林寺) near Dengfeng, Henan province, is the birthplace of Chan Buddhism and the origin of what is internationally known as "Shaolin Kung Fu" (少林功夫). The monastery's martial arts tradition is UNESCO-recognized Intangible Cultural Heritage.
 

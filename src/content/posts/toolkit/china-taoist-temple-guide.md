@@ -1,7 +1,6 @@
 ---
 title: "Chinese Taoist Temples Guide: Understanding Daoism's Sacred Sites"
 description: "Navigate Taoist temples in China with confidence — the difference between Taoist and Buddhist temples, the key deities and their roles, the major Taoist sacred mountains, the five traditions of Taoism still active today, where to see authentic ceremonies, and how the philosophical and religious strands of Daoism connect to what you see at famous sites like Wudang Mountain."
-ogImage: "/img/toolkit/china-taoist-temple-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "taoism", "daoism", "taoist-temple", "wudang", "sacred-mountains", "chinese-religion", "philosophy"]
@@ -16,8 +15,6 @@ Visiting a Taoist temple is a fundamentally different experience from visiting a
 ---
 
 ## How Taoist Temples Differ from Buddhist Temples
-
-![Forbidden City Panorama Interior, Beijing](/img/toolkit/china-taoist-temple-guide/1.webp)
 
 **Architecture:** Both use courtyard layouts on north-south axes, but Taoist temples typically have more elaborate interior woodwork and use the colour yellow (associated with the Taoist earth element) more prominently. Taoist temples often feel less monumental and more intimate than major Buddhist complexes.
 
@@ -50,8 +47,6 @@ Taoism has a geographical sacred landscape distinct from Buddhism's four sacred 
 ---
 
 ## Wudang Martial Arts
-
-![Jinshanling Great Wall, Beijing](/img/toolkit/china-taoist-temple-guide/2.webp)
 
 **Wudang martial arts** are inseparable from Taoist philosophy — they are explicitly conceived as a physical practice of Taoist principles (yielding over force, water overcoming stone, internal cultivation over external display). The contrast with Shaolin's Buddhist-influenced external martial arts is philosophically deliberate.
 

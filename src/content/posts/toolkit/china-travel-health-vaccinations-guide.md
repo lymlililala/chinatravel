@@ -11,7 +11,6 @@ tags:
   - practical
   - china
 description: "Preparing for the health aspects of China travel involves a visit to a travel medicine clinic, specific vaccinations, preparation for altitude if your itinerary includes Tibet or Qinghai, and practical pharmacy packing. This guide covers what's recommended, what's required, and what you'll want on the road."
-ogImage: "/img/toolkit/china-travel-health-vaccinations-guide/cover.webp"
 ---
 
 China is a very large country with diverse health risk profiles across different regions — what applies to a short city trip to Shanghai is different from an extended rural trip through Yunnan, and different again from a high-altitude journey to Tibet. This guide covers the standard recommendations for most visitors plus specific considerations for regional travel.
@@ -21,8 +20,6 @@ China is a very large country with diverse health risk profiles across different
 ## Table of contents
 
 ## Required Vaccinations
-
-![Scenery, Jiuzhaigou, Sichuan](/img/toolkit/china-travel-health-vaccinations-guide/1.webp)
 
 No vaccinations are legally required to enter China, with one exception:
 
@@ -97,8 +94,6 @@ Altitude sickness is a genuine health risk for travel to Tibet (Lhasa 3,650m), Q
 **Mosquito protection:** A DEET-based repellent (30%+ concentration) covers most risks. Apply to exposed skin at dawn and dusk.
 
 ## Food & Water Safety
-
-![Terracotta Army](/img/toolkit/china-travel-health-vaccinations-guide/2.webp)
 
 **Water:** Do not drink tap water anywhere in China. Bottled water (¥2–5 for 1.5L) is universally available. In accommodation, boiling tap water is safe (kills pathogens but doesn't remove chemicals).
 

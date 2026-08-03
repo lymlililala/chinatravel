@@ -1,7 +1,6 @@
 ---
 title: "China Bike & E-Scooter Sharing Guide 2026: Riding Meituan, Hello Bike & Didi"
 description: "Master China's extensive bike and electric scooter sharing system — registering on the three main platforms (Meituan Bike, Hello Bike, Didi Bike) with a foreign phone, deposit requirements, the difference between regular bikes and electric-assist, helmet rules, and how to use bike sharing for day trips that transform your experience of Chinese cities."
-ogImage: "/img/toolkit/china-electric-scooter-bike-sharing-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "bike-sharing", "e-scooter", "meituan-bike", "hello-bike", "didi-bike", "cycling", "transport", "urban-mobility"]
@@ -16,8 +15,6 @@ For foreign visitors, bike sharing offers something Didi cannot: spontaneous exp
 ---
 
 ## The Three Platforms Compared
-
-![West Lake Leifeng Pagoda, Hangzhou](/img/toolkit/china-electric-scooter-bike-sharing-guide/1.webp)
 
 | Platform | App | Best For | E-bike Option |
 |----------|-----|---------|---------------|
@@ -64,8 +61,6 @@ For foreign visitors, bike sharing offers something Didi cannot: spontaneous exp
 ---
 
 ## E-Scooters (Electric Scooters)
-
-![West Lake Landscape, Hangzhou](/img/toolkit/china-electric-scooter-bike-sharing-guide/2.webp)
 
 Beyond the electric-assist bicycles, several cities also have **full electric scooter sharing** (not pedal-assist but throttle-controlled). These are subject to stricter regulations:
 

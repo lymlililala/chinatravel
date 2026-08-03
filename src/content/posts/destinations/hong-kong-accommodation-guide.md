@@ -19,8 +19,6 @@ Hong Kong's accommodation situation has one inescapable truth: the city is very 
 
 ## The Core Decision: Kowloon vs Hong Kong Island
 
-![Scenery, Anhui, Huangshan](/img/destinations/hong-kong-accommodation-guide/1.webp)
-
 Hong Kong is divided by Victoria Harbour into two main areas: **Kowloon** (the mainland peninsula) and **Hong Kong Island** (the mountainous island to the south). Both are well-connected by MTR and the Star Ferry.
 
 ### The Case for Kowloon (Tsim Sha Tsui)
@@ -50,6 +48,8 @@ Hong Kong is divided by Victoria Harbour into two main areas: **Kowloon** (the m
 
 ## The Room Size Reality
 
+![Scenery, Hong Kong](/img/destinations/hong-kong-accommodation-guide/1.webp)
+
 Most Hong Kong hotel rooms at budget to mid-range pricing (HK$600-2,000/night) are small. This is what to expect:
 
 **Budget rooms (HK$400-800/night):** As small as 10-14m². Often a single or narrow double bed. Bathroom may have an "L-shaped" shower that doubles as a toilet area separated only by the showerhead. Compressed but functional.
@@ -62,7 +62,7 @@ Most Hong Kong hotel rooms at budget to mid-range pricing (HK$600-2,000/night) a
 
 ## Budget Accommodation (HK$400-900/night)
 
-![Sea of Clouds Scenery, Huangshan](/img/destinations/hong-kong-accommodation-guide/2.webp)
+![Haiyang Park Landscape, Hong Kong](/img/destinations/hong-kong-accommodation-guide/2.webp)
 
 **Mong Kok and Sham Shui Po** are the main budget areas. Expect small rooms, no frills, but functional bases for exploring.
 
@@ -74,7 +74,7 @@ Most Hong Kong hotel rooms at budget to mid-range pricing (HK$600-2,000/night) a
 
 ## Mid-Range Hotels (HK$1,000-2,500/night)
 
-![Guojiadizhi Park Scenery, Huangshan](/img/destinations/hong-kong-accommodation-guide/3.webp)
+![Landscape Zonghe, Hong Kong](/img/destinations/hong-kong-accommodation-guide/3.webp)
 
 **Hotel COZI** chain — well-run Hong Kong budget chain at multiple locations. Compact but thoughtfully designed rooms. HK$800-1,400/night.
 

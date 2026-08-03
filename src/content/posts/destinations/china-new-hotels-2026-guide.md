@@ -36,8 +36,6 @@ China's hotel scene is evolving at a breathtaking pace. The new hotels in China 
 
 ## Top New Openings: A Curated Selection
 
-![Simatai Great Wall, Beijing](/img/destinations/china-new-hotels-2026-guide/1.webp)
-
 ### Dali EDITION: A Contemporary Courtyard on the Shore of Erhai
 
 Perched on the slopes of Cangshan Mountain (苍山, Cāng Shān) with sweeping views of Erhai Lake (洱海, ěr Hǎi), the **Dali EDITION** (大理艾迪逊酒店) opened on June 18, 2026, as Marriott International's 80th luxury property in Greater China. This is only the second EDITION resort in China, following the iconic Sanya property. The design philosophy, "contemporary courtyard," weaves local stone and timber into a minimalist aesthetic that feels both rooted and global. Beyond the 234 rooms, the hotel curates experiences around nature exploration, outdoor sports, and wellness — think guided hikes through Cangshan's azalea forests and sunrise yoga by the lake.
@@ -75,6 +73,8 @@ Shanghai's second Kimpton property, the **Kimpton Shanghai Jiukeshu** (上海九
 
 ## How to Choose the Right Hotel for You
 
+![Shiji Park, Shanghai](/img/destinations/china-new-hotels-2026-guide/1.webp)
+
 | Hotel | Location | Vibe | Price Range (per night) | Best For |
 |-------|----------|------|-------------------------|----------|
 | Dali EDITION | Yunnan | Luxury, minimalist | ¥2,500+ | Couples, design lovers |
@@ -85,7 +85,7 @@ Shanghai's second Kimpton property, the **Kimpton Shanghai Jiukeshu** (上海九
 
 ## Getting Around: Practical Tips for Foreign Travelers
 
-![Shanhaiguan Great Wall, Beijing](/img/destinations/china-new-hotels-2026-guide/2.webp)
+![Yuyuanchenghuang Temple, Shanghai](/img/destinations/china-new-hotels-2026-guide/2.webp)
 
 - **High-speed rail:** China's HSR network connects most major cities. For example, Beijing to Shanghai takes 4.5 hours; Shanghai to Hangzhou, 1 hour. Book tickets via the **12306 app** (available in English) or through travel agents. For foreigners, a passport is required for purchase.
 - **Metro:** In Shanghai, Beijing, and other major cities, metro systems are efficient and English-friendly. Buy a single-journey token or use Alipay's transport card.
@@ -94,7 +94,7 @@ Shanghai's second Kimpton property, the **Kimpton Shanghai Jiukeshu** (上海九
 
 ## Best Time to Visit
 
-![Mutianyu Great Wall Scenery, Beijing](/img/destinations/china-new-hotels-2026-guide/3.webp)
+![West Lake Scenery, Hangzhou](/img/destinations/china-new-hotels-2026-guide/3.webp)
 
 - **Dali & Yunnan:** March-May and September-November for mild weather and clear skies. Summer (June-August) is rainy but still pleasant.
 - **Beihai & Guangxi:** October-April for comfortable temperatures. Summer is hot and humid but great for beach lovers.

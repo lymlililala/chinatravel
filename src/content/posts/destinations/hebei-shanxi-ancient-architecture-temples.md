@@ -12,7 +12,7 @@ tags:
   - "north-china"
   - "architecture"
 description: "Explore Liao and Tang dynasty architectural marvels from Zhengding's pagodas to the only surviving Tang wooden structures, with expert-led insights for"
-ogImage: "https://images.pexels.com/photos/7712575/pexels-photo-7712575.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/hebei-shanxi-ancient-architecture-temples/cover.webp"
 faq:
   - question: "Are the temples accessible by public transport?"
     answer: "Foguang and Nanchan Temples are remote; you'll need a taxi or private car. Other sites like Dingzhou Pagoda and Zhuozhou Pagodas are within walking distance of train stations."
@@ -66,6 +66,8 @@ Hebei is dotted with Liao dynasty brick pagodas. **Zhuozhou Twin Pagodas** (涿�
 
 ## Suggested Itinerary
 
+![Yungang Grottoes, Shanxi, Datong](/img/destinations/hebei-shanxi-ancient-architecture-temples/1.webp)
+
 ### Day 1: Zhengding's Pagodas and Dingzhou
 
 Start in Shijiazhuang, the capital of Hebei. Take a taxi or bus to **Zhengding** (正定), a historic town with four famous pagodas: the Lingxiao Pagoda, Hua Pagoda, Xumi Pagoda, and Chengling Pagoda. Then head to **Dingzhou** to visit the Dingzhou Pagoda and Dingzhou Museum. Stay overnight in Dingzhou or return to Shijiazhuang.
@@ -91,6 +93,8 @@ Travel to **Laiyuan** to explore **Geyuan Temple** and its Manjusri Hall. Afterw
 
 ## Best Time to Visit
 
+![Heng Mountain Scenery, Shanxi](/img/destinations/hebei-shanxi-ancient-architecture-temples/2.webp)
+
 Spring (April–May) and autumn (September–October) offer mild weather and clear skies. Summer can be hot and rainy; winter is cold but with fewer crowds. Avoid Chinese public holidays (especially National Day, Oct 1–7) when sites are crowded.
 
 ## Where to Stay
@@ -101,6 +105,8 @@ Spring (April–May) and autumn (September–October) offer mild weather and cle
 - **Laiyuan**: Limited options; consider staying in Baoding and making a day trip.
 
 ## Food
+
+![Museum Collection, Shaanxi](/img/destinations/hebei-shanxi-ancient-architecture-temples/3.webp)
 
 Hebei cuisine features wheat-based dishes like noodles and dumplings. Try **Dingzhou donkey meat** (定州驴肉) and **Zhuozhou tofu**. Shanxi is famous for its vinegar and noodles—don't miss **daoxiaomian** (knife-cut noodles) and **youmian kao laolao** (oat noodles).
 

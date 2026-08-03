@@ -11,7 +11,6 @@ tags:
   - toolkit
   - beginners
 description: "What to do if you get sick or have a medical emergency in China — how the hospital system works for foreigners, the best international hospitals in Beijing, Shanghai and other cities, travel insurance requirements, common health issues, and Chinese pharmacy navigation."
-ogImage: "/img/toolkit/china-medical-emergency-guide/cover.webp"
 ---
 
 Medical emergencies happen when you least expect them, and navigating healthcare in a country where you don't speak the language, don't know the system, and aren't covered by the national insurance scheme requires advance preparation. China's medical system is excellent at the top tier — Beijing's and Shanghai's international hospitals are genuinely good — but understanding how to access it quickly matters.
@@ -23,8 +22,6 @@ This guide covers everything you need: which hospitals to use, how to call an am
 ---
 
 ## Emergency Numbers in China
-
-![Forbidden City Panorama Interior, Beijing](/img/toolkit/china-medical-emergency-guide/1.webp)
 
 | Service | Number |
 |---|---|
@@ -161,8 +158,6 @@ For severe allergies, carry your allergy card in Chinese (translation apps handl
 ---
 
 ## Chinese Pharmacies: What You Can Buy
-
-![Jiankou Great Wall Scenery, Beijing](/img/toolkit/china-medical-emergency-guide/2.webp)
 
 Chinese pharmacies (**药店, yàodiàn** — most commonly the green-signed chains **大参林, 海王星辰, 益丰, 老百姓**) stock a wide range of medicines.
 

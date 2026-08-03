@@ -12,7 +12,6 @@ tags:
   - sport
   - outdoor
 description: "Rock climbing in China — Yangshuo's limestone karst crags as China's premier outdoor climbing destination, the massive Getu Arch in Guizhou, climbing in Guangxi and Yunnan, what grades are available, local guiding operations, gear rental options, and the best time of year to climb each area."
-ogImage: "/img/destinations/china-rock-climbing-guide/cover.webp"
 ---
 
 China has some of the world's most spectacular rock climbing terrain, and almost none of it appears in mainstream climbing publications. The limestone karst towers of Guangxi province alone contain thousands of unexplored lines. What has developed in terms of established sport climbing, guidebooks, and local guiding infrastructure is concentrated in a handful of areas — with Yangshuo being far and away the most developed and easiest to visit as a climbing tourist.
@@ -20,8 +19,6 @@ China has some of the world's most spectacular rock climbing terrain, and almost
 ## Table of contents
 
 ## Yangshuo: China's Climbing Capital
-
-![Sea of Clouds Scenery, Huangshan](/img/destinations/china-rock-climbing-guide/1.webp)
 
 Yangshuo (阳朔) in Guangxi province is where serious international climbing interest in China started. The town sits in the heart of the Li River karst landscape — those vertical limestone towers you've seen in paintings and on the 20-yuan banknote — and the climbing here is as visually dramatic as rock climbing gets anywhere in the world.
 
@@ -73,8 +70,6 @@ Several hostels around the West Street area cater to the climbing crowd and have
 
 ## Getu Valley and the Getu Arch (贵州格凸河)
 
-![Guojiadizhi Park Scenery, Huangshan](/img/destinations/china-rock-climbing-guide/2.webp)
-
 **Getu Valley** in Guizhou province is a destination for more serious and adventurous climbers. The centerpiece is **Getu Arch** — a natural limestone arch with a span of approximately 350m and a height of 180m, forming an immense cave opening. The climbing inside and around the arch is on a scale that makes most climbing destinations look modest.
 
 ### The Climbing at Getu
@@ -108,8 +103,6 @@ Earth forest terrain — tall eroded clay towers with unexpected rock climbing p
 Granite bouldering and sport climbing at altitude in the western Sichuan mountains, near Rilong. Less developed than Yangshuo but growing interest from the Chinese climbing community. Best in summer when the lower elevation areas are too hot.
 
 ## Bouldering
-
-![Panlongshan Great Wall Scenery, Shandong](/img/destinations/china-rock-climbing-guide/3.webp)
 
 The Chinese bouldering community is growing. **Siguniang Mountain (四姑娘山)** in Sichuan has boulder problems at altitude. Urban climbing gyms in Shanghai, Beijing, and Chengdu have high standards and are worth visiting to get a sense of the domestic climbing community before heading to outdoor crags.
 

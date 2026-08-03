@@ -14,7 +14,7 @@ tags:
   - "northwest-china"
   - "adventure"
 description: "A comprehensive guide to self-driving through Gansu, Xinjiang, and Qinghai, covering ancient trade routes, dramatic landscapes, and practical tips for"
-ogImage: "https://images.pexels.com/photos/38070278/pexels-photo-38070278.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/northwest-china-road-trip-guide/cover.webp"
 faq:
   - question: "Do I need a special permit to drive in Tibet?"
     answer: "Yes, foreign travelers need a Tibet Travel Permit to enter the Tibet Autonomous Region, and you must be part of an organized tour. Self-driving in Tibet is not allowed for foreigners; you must hire a local driver with a licensed vehicle."
@@ -41,6 +41,8 @@ Northwest China is a land of superlatives: it's home to the world's highest plat
 ![Aerial view of a winding road through colorful Zhangye Danxia landforms](https://images.pexels.com/photos/27170287/pexels-photo-27170287.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Best Time to Visit
+
+![Guideguojiadizhi Park Scenery, Qinghai](/img/destinations/northwest-china-road-trip-guide/1.webp)
 
 The best time for a Northwest China road trip is from **late May to early October**. Summer (June-August) offers the warmest weather and lush grasslands, but it's also peak tourist season. Spring and autumn provide milder temperatures and fewer crowds, though some high-altitude passes may be closed until June. Winter is generally too cold and snowy for comfortable driving, especially in Qinghai and Xinjiang.
 
@@ -70,6 +72,8 @@ Finish the loop by driving to **Qinghai Lake** (青海湖), China's largest inla
 
 ## Essential Practical Tips for International Drivers
 
+![Guidechenwumiren Scenery, Qinghai](/img/destinations/northwest-china-road-trip-guide/2.webp)
+
 ### Driving License and Permits
 
 Foreigners can drive in China with a **valid international driving permit (IDP)** issued by your home country, **plus** a temporary Chinese driving license. You can obtain the latter through authorized agencies at major airports or in cities like Beijing, Shanghai, or Guangzhou. Alternatively, many rental companies offer a package that includes the temporary license. Note that you must have both documents with you at all times.
@@ -95,6 +99,8 @@ Northwest roads are generally in good condition, but be prepared for long stretc
 Accommodation options range from international hotel chains in cities to family-run guesthouses in rural areas. In Dunhuang and Xining, you can find 4-5 star hotels for around ¥400-800 per night. Near Qinghai Lake, budget guesthouses cost ¥150-300. Book ahead during July and August.
 
 ## Food to Try
+
+![Mogao Caves, Gansu, Dunhuang](/img/destinations/northwest-china-road-trip-guide/3.webp)
 
 Northwest cuisine is hearty and flavorful. Must-try dishes include:
 - **Lanzhou beef noodles** (兰州牛肉面) – a clear broth with hand-pulled noodles and tender beef.

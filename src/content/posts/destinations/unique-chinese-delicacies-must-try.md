@@ -30,11 +30,11 @@ China's culinary landscape is as vast and varied as its geography, but some of i
 
 ## Why These Three Delicacies?
 
-![Simatai Great Wall, Beijing](/img/destinations/unique-chinese-delicacies-must-try/1.webp)
-
 Each of these foods tells a story of place, season, and community. Wuhan's softshell turtle (甲鱼, jiǎ yú) is a street-food icon that transforms a once-luxurious ingredient into an everyday indulgence. Xianju's Dongkui bayberries (东魁杨梅, dōng kuí yáng méi) are a fleeting summer treasure, prized for their size and sweetness. And Yangshan's honey peaches (阳山水蜜桃, yáng shān shuǐ mì táo) are so juicy they can be drunk through a straw. Together, they represent the diversity of Chinese food culture — from savoury to sweet, from rustic to refined.
 
 ## Wuhan's Ugly Fish: The Softshell Turtle (甲鱼)
+
+![Huanghelou Scenery, Hubei, Wuhan](/img/destinations/unique-chinese-delicacies-must-try/1.webp)
 
 At first glance, the softshell turtle isn't winning any beauty contests. But in Wuhan, this "ugly fish" (affectionately called **jio鱼** or "foot fish" in local dialect) is the undisputed king of late-night dining. Its charm lies in the rich, gelatinous **skirt** (裙边, qún biān) — the soft rim around its shell — which is packed with collagen and absorbs flavour like a sponge.
 
@@ -61,7 +61,7 @@ Eat them fresh, chilled, or muddle a few into a sparkling water for an instant s
 
 ## Yangshan's Liquid Gold: Honey Peaches (阳山水蜜桃)
 
-![Shanhaiguan Great Wall, Beijing](/img/destinations/unique-chinese-delicacies-must-try/2.webp)
+![Dong Lake Scenery, Hubei, Wuhan](/img/destinations/unique-chinese-delicacies-must-try/2.webp)
 
 Wuxi's Yangshan peaches are the stuff of legend. Grown on volcanic soil from an ancient eruption, these peaches are so soft and juicy that they can be "drunk" — just peel and squeeze, and the juice flows like nectar. They're known as **honey peaches** (水蜜桃, shuǐ mì táo), and they live up to the name.
 
@@ -84,7 +84,7 @@ Yangshan peaches are sold at roadside stalls near the mountain, but quality vari
 
 ## Suggested Itinerary: A Food Lover's Summer Tour
 
-![Mutianyu Great Wall Scenery, Beijing](/img/destinations/unique-chinese-delicacies-must-try/3.webp)
+![Shi Lake Scenery, Jiangsu, Suzhou](/img/destinations/unique-chinese-delicacies-must-try/3.webp)
 
 - **Day 1-3: Wuhan** — Explore the city's street food scene. Visit **Hubu Alley (户部巷)** for breakfast, then head to **Jiyuqiao (吉庆街)** for dinner. Try turtle at a specialist like **Dashengjia**.
 - **Day 4-5: Xianju** — Take a high-speed train from Wuhan to Hangzhou, then to Xianju. Visit a bayberry orchard for picking (seasonal). Stay in a local guesthouse.

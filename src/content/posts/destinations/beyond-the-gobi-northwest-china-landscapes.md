@@ -34,8 +34,6 @@ China's northwest is a land of extremes—where scorching deserts meet snow-capp
 
 ## Mangya: China's Martian Landscape
 
-![Canglangting, Suzhou](/img/destinations/beyond-the-gobi-northwest-china-landscapes/1.webp)
-
 Deep in the Qaidam Basin of Qinghai Province, the town of Mangya (茫崖, Máng Yá) feels like a portal to another planet. Here, wind and time have sculpted a series of surreal desert landforms that rival the American Southwest or even Mars.
 
 ### The Saturn Rings
@@ -60,6 +58,8 @@ Mangya is also home to some of China's most spectacular yardangs—wind-carved r
 - **What to bring**: Sunscreen, hat, plenty of water, and a dust mask. Drones are allowed but check local regulations.
 
 ## Nalati: The Sky Grassland
+
+![Singing Sand Dunes, Gansu, Dunhuang](/img/destinations/beyond-the-gobi-northwest-china-landscapes/1.webp)
 
 From the stark deserts of Qinghai, fly north to Xinjiang's Ili Valley, where the **Nalati Grassland** (那拉提草原, Nàlātí Cǎoyuán) offers a complete contrast. At an elevation of around 1,800 meters, this alpine meadow is known as the "Sky Grassland"—a sea of green surrounded by snow-capped Tianshan peaks.
 
@@ -113,7 +113,7 @@ Dunhuang was the westernmost outpost of the Han Dynasty. Visit **Yumen Pass** (�
 
 ## Suggested Itinerary: 10-Day Northwest Loop
 
-![River Scenery, Suzhou](/img/destinations/beyond-the-gobi-northwest-china-landscapes/2.webp)
+![Beautiful Landscape, Xinjiang](/img/destinations/beyond-the-gobi-northwest-china-landscapes/2.webp)
 
 This loop combines the best of Gansu and Qinghai, hitting Mangya, Dunhuang, and Nalati in a logical route.
 
@@ -141,7 +141,7 @@ For more route ideas, browse our [China itineraries](/tags/itinerary).
 
 ## Practical Information for International Travelers
 
-![Shizilin, Suzhou](/img/destinations/beyond-the-gobi-northwest-china-landscapes/3.webp)
+![Maijishan Grottoes, Gansu](/img/destinations/beyond-the-gobi-northwest-china-landscapes/3.webp)
 
 ### Visas
 

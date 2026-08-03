@@ -11,7 +11,6 @@ tags:
   - toolkit
   - scenic
 description: "Travelling by water in China — the Yangtze River cruise from Chongqing to Yichang (the Three Gorges section), the Li River cruise from Guilin to Yangshuo (the classic bamboo raft option), island ferries to Putuoshan and Hainan's south coast islands, and the Hong Kong to Macau and Zhuhai ferries. Booking and practical tips."
-ogImage: "/img/toolkit/china-river-ferry-transport-guide/cover.webp"
 ---
 
 China has some extraordinary water routes. The Yangtze gorges, the Li River karst scenery, the Buddhist island of Putuoshan approached by ferry across a choppy grey sea — these journeys exist outside what trains and airports can provide. Water transport in China ranges from practical (Hong Kong-Macau hydrofoils) to genuinely among the most beautiful journeys in the world (Li River dawn cruise). Here's what's worth doing and how to book it.
@@ -19,8 +18,6 @@ China has some extraordinary water routes. The Yangtze gorges, the Li River kars
 ## Table of contents
 
 ## Yangtze River — The Three Gorges Section
-
-![Jiangnan Water Town Scenery, Suzhou](/img/toolkit/china-river-ferry-transport-guide/1.webp)
 
 The classic Yangtze cruise runs from **Chongqing downstream to Yichang**, covering the Three Gorges section: Qutang Gorge, Wu Gorge, and Xiling Gorge. This is the stretch backed up behind the Three Gorges Dam — the scenery of steep limestone cliffs rising vertically from the river is genuinely impressive, though the water level post-dam is higher than it was historically, which has changed (some say diminished) the drama of the gorges.
 
@@ -57,8 +54,6 @@ Putuoshan is one of China's four sacred Buddhist mountains, but unlike the other
 **Practical note**: Putuoshan is small — all temples and accommodation are walkable or accessible by the island's own minibuses. The island doesn't allow private cars.
 
 ## Hong Kong to Macau and Zhuhai Ferries
-
-![Shi Lake Scenery, Jiangsu, Suzhou](/img/toolkit/china-river-ferry-transport-guide/2.webp)
 
 With the opening of the Hong Kong-Zhuhai-Macau Bridge (opened 2018), ferries have become less central than they once were, but they remain relevant.
 

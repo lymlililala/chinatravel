@@ -10,7 +10,6 @@ tags:
   - money
   - toolkit
 description: "A practical comparison of how Visa, Mastercard, and UnionPay foreign cards work in China — at ATMs, hotel checkouts, point-of-sale terminals, and online — with tips for avoiding transaction failures."
-ogImage: "/img/toolkit/china-unionpay-foreign-cards-guide/cover.webp"
 ---
 
 Knowing which payment cards work in China — and where — prevents the frustration of a declined payment at exactly the wrong moment. China's banking and payment infrastructure has specific quirks for foreign cards that are worth understanding before your trip.
@@ -18,8 +17,6 @@ Knowing which payment cards work in China — and where — prevents the frustra
 ## Table of contents
 
 ## China's Payment Network: The Basics
-
-![Xingping, Guangxi, Yangshuo](/img/toolkit/china-unionpay-foreign-cards-guide/1.webp)
 
 China's domestic card network is **UnionPay (中国银联, Yínlián)**. Almost every point-of-sale terminal in China processes UnionPay transactions. Visa and Mastercard acceptance exists but is patchier — particularly in smaller cities, family-run businesses, and rural areas.
 
@@ -90,8 +87,6 @@ Google Pay is not widely accepted in mainland China. Services requiring Google P
 ---
 
 ## Prepaid Travel Cards for China
-
-![Forbidden City Panorama Interior, Beijing](/img/toolkit/china-unionpay-foreign-cards-guide/2.webp)
 
 Several multi-currency prepaid cards allow you to load RMB in advance at competitive exchange rates:
 

@@ -15,7 +15,6 @@ tags:
   - Chengdu
   - "2 weeks"
 description: "The complete 2-week family China itinerary for 2026, covering the classic route of Beijing, Xi'an, Shanghai, and Chengdu with children. Includes kid-friendly attractions, age-appropriate activities, accommodation recommendations, daily schedules, transportation tips, and honest advice on managing logistics with young travelers."
-ogImage: "/img/toolkit/china-family-2weeks-itinerary/cover.webp"
 ---
 
 Traveling China with children is one of the most rewarding things you can do as a family — and one of the most logistically demanding. The distances are vast, the sensory intensity is high, and the cultural unfamiliarity can be disorienting for young travelers. But get the planning right, and you'll give your children experiences they'll carry for a lifetime: standing on the Great Wall as wind sweeps across ancient stones, watching a kung fu performance at a Xi'an theater, feeding carrots to giant pandas in Chengdu.
@@ -25,8 +24,6 @@ This guide covers the classic four-city family circuit — Beijing, Xi'an, Shang
 ## Table of contents
 
 ## Planning Fundamentals for Families
-
-![Datangfurong Garden, Xi'an](/img/toolkit/china-family-2weeks-itinerary/1.webp)
 
 ### Pace is Everything
 
@@ -46,8 +43,6 @@ Spring (April-May) and Autumn (September-October) are ideal for families: modera
 Summer (June-August) is school holiday season in China and the West, making it unavoidable for many families. Be prepared for higher prices, more crowds, and hot weather (especially in Beijing and Xi'an).
 
 ## The Itinerary: Day by Day
-
-![Yunju Temple Scenery, Shaanxi, Xi'an](/img/toolkit/china-family-2weeks-itinerary/2.webp)
 
 ### Beijing: Days 1-4
 

@@ -33,7 +33,6 @@ tags:
   - mobile payment
   - payment methods
 description: "Alipay & WeChat Pay in China: the latest 2026 guide to mobile payments for tourists visiting China — setup, supported cards, fees, limits, and troubleshooting."
-ogImage: "/img/toolkit/china-digital-payment-foreigners-guide/cover.webp"
 ---
 
 China has become one of the most cashless societies on Earth, and Alipay and WeChat Pay are the two apps behind it. In major cities like Shanghai, Shenzhen, and Beijing, you can travel for days without touching a banknote — paying for everything from a ¥3 bottle of water at a convenience store to a ¥500 restaurant dinner with a QR code scan through Alipay or WeChat Pay. For foreign visitors arriving for the first time, this can be simultaneously impressive and anxiety-inducing.
@@ -43,8 +42,6 @@ The good news: mobile payment in China is now straightforward for foreigners. Si
 ## Table of contents
 
 ## Why Digital Payment Matters in China
-
-![Shilihualang Scenery, Zhangjiajie, Hunan](/img/toolkit/china-digital-payment-foreigners-guide/1.webp)
 
 Cash in China isn't dead, but it's increasingly awkward. Here's what you might encounter if you rely solely on cash:
 
@@ -219,8 +216,6 @@ Despite China's digital-first payment culture, certain situations still require 
 **Recommended cash amount:** ¥500–¥1,500 in mixed denominations (¥100 bills plus some ¥20 and ¥10 notes) is sufficient as a backup for a 2-week trip with active digital payments.
 
 ## Getting Cash in China
-
-![Tianzi Mountain Scenery, Zhangjiajie, Hunan](/img/toolkit/china-digital-payment-foreigners-guide/2.webp)
 
 - **ATMs:** International cards (Visa, Mastercard, UnionPay) work at most bank ATMs in major cities. Look for ICBC, China Construction Bank, Bank of China, and Agricultural Bank of China. Daily withdrawal limits: typically ¥2,500–¥3,000 per transaction
 - **Bank counters:** Bring your passport for larger exchanges or if ATMs decline your card

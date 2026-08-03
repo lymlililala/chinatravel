@@ -1,7 +1,6 @@
 ---
 title: "Huangshan Dawn at the Top: Watching Sunrise at Yellow Mountain"
 description: "Complete guide to watching sunrise from Huangshan (Yellow Mountain) — which peaks offer the best dawn views, how to time your ascent, staying overnight on the mountain, and what photographers need to know."
-ogImage: "/img/destinations/yellow-mountain-dawn-guide/cover.webp"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/huangshan-dawn.jpg"
 category: "destinations"
@@ -16,8 +15,6 @@ author: "RoamChina Travel"
 This guide is for people who want to actually see the sunrise — not accidentally miss it, or freeze on an exposed ridge, or discover that the "best viewing platform" requires a 90-minute predawn hike to reach from the nearest hotel. Preparation makes the difference between a transcendent experience and a miserable one.
 
 ## Why Sunrise at Huangshan is Special
-
-![Wulingyuan Scenery, Zhangjiajie](/img/destinations/yellow-mountain-dawn-guide/1.webp)
 
 Huangshan's geology creates a specific set of visual conditions that Chinese painters have rendered for 1,500 years. The vertically jointed granite creates narrow, isolated peaks with deeply carved valleys between them. When morning mist fills the valleys, the peaks appear as islands floating in a white sea — the famous "cloud sea" (云海, yún hǎi) effect.
 
@@ -84,8 +81,6 @@ This is the essential requirement for serious sunrise viewing. The cable cars do
 
 ## Timing the Sunrise Visit
 
-![Landscape Scenery, Zhangjiajie](/img/destinations/yellow-mountain-dawn-guide/2.webp)
-
 Actual sunrise times vary by season and location on the mountain. A reference point:
 - **Summer (June-August)**: Sunrise approximately 5:00-5:30 AM; leave hotel by 4:15-4:30 AM
 - **Autumn (September-October)**: Sunrise approximately 5:30-6:30 AM; leave hotel by 4:45-5:00 AM
@@ -95,8 +90,6 @@ Actual sunrise times vary by season and location on the mountain. A reference po
 **Checking weather in advance**: The Huangshan Scenic Area Management website posts weather forecasts and conditions. Multiple weather apps (including specific mountain weather apps) cover the mountain. The best cloud-sea conditions typically follow a period of rain.
 
 ## Crowds and Managing Them
-
-![Shilihualang Scenery, Zhangjiajie, Hunan](/img/destinations/yellow-mountain-dawn-guide/3.webp)
 
 Huangshan is China's most-visited mountain, with 3-4 million annual visitors. The sunrise viewing areas can be extremely crowded.
 

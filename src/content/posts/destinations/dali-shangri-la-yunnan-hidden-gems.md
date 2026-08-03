@@ -12,7 +12,7 @@ tags:
   - "photography"
   - "accommodation"
 description: "From Erhai Lake's floating flowers to a restored Tibetan village in Shangri-La, uncover Yunnan's diverse landscapes and cultures in this travel guide."
-ogImage: "https://images.pexels.com/photos/36888061/pexels-photo-36888061.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/dali-shangri-la-yunnan-hidden-gems/cover.webp"
 faq:
   - question: "Is it safe to drink tap water in Dali and Shangri-La?"
     answer: "No, it's not recommended. Always drink bottled or boiled water. Most hotels provide bottled water for free."
@@ -39,6 +39,8 @@ Dali (大理, Dàlǐ) and Shangri-La (香格里拉, Xiānggélǐlā) represent t
 ![A white flower floating on the clear blue water of Erhai Lake](https://images.pexels.com/photos/33970874/pexels-photo-33970874.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Top Sights
+
+![Erhai Lake Scenery, Yunnan, Dali](/img/destinations/dali-shangri-la-yunnan-hidden-gems/1.webp)
 
 ### Erhai Lake & the "Water Spirit" Flower
 
@@ -73,6 +75,8 @@ Shangri-La, formerly known as Zhongdian, is the gateway to Tibetan culture in Yu
 
 ## Getting There & Around
 
+![Dongchuan Red Soil Scenery](/img/destinations/dali-shangri-la-yunnan-hidden-gems/2.webp)
+
 ### To Dali
 - **By air**: Dali Airport (大理机场) has flights from major cities like Kunming, Chengdu, and Shanghai.
 - **By high-speed rail**: From Kunming, trains take about 2 hours. From Lijiang, 1 hour.
@@ -98,6 +102,8 @@ Prices start around ¥800 per night, but the value lies in the thoughtful servic
 In Dali, look for boutique hotels near Erhai Lake or in the ancient town. Many offer bike rentals and lake views.
 
 ## Food & Drink
+
+![Cai Landscape, Yunnan](/img/destinations/dali-shangri-la-yunnan-hidden-gems/3.webp)
 
 - **Dali**: Try **crossing-the-bridge noodles** (过桥米线), **steamed chicken** (汽锅鸡), and **Bai-style fish** from Erhai Lake. Don't miss the local fruit, **sour plums**.
 - **Shangri-La**: Yak meat is a staple—try it in hotpot or barbecue. **Butter tea** (酥油茶, sūyóu chá) is an acquired taste but a cultural must. **Zanba** (roasted barley flour) is a Tibetan staple.

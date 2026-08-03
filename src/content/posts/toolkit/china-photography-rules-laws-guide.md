@@ -12,14 +12,11 @@ tags:
   - drone
   - restrictions
 description: "The complete guide to photography laws and rules in China for 2026 — what you can photograph, what's prohibited, drone regulations, photographing people, military and government installations, temples and religious sites, border areas, and the practical realities of being a photographer in a surveillance state. Includes specific advice on drone permits, model releases, and what to do if confronted by authorities."
-ogImage: "/img/toolkit/china-photography-rules-laws-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## Photography in China — More Freedom Than You'd Think, Less Than You'd Hope
-
-![Tianzi Mountain Scenery, Zhangjiajie, Hunan](/img/toolkit/china-photography-rules-laws-guide/1.webp)
 
 China is simultaneously one of the most photogenic countries on earth and one of the most photographed by its own government. The tension between these facts shapes the experience of every photographer who visits. The good news: for ordinary tourist photography, China is remarkably permissive. The bad news: there are specific restrictions that can land you in serious trouble if you violate them, and the boundaries aren't always clearly marked.
 
@@ -141,8 +138,6 @@ China regulates drone (UAV) photography under the Civil Aviation Administration 
 - Mountain scenery (Huangshan, Zhangjiajie — with permit)
 
 ## Photographing People
-
-![The Bund Scenery](/img/toolkit/china-photography-rules-laws-guide/2.webp)
 
 ### Legal Framework
 

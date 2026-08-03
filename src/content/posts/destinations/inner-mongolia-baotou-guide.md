@@ -23,8 +23,6 @@ Inner Mongolia's largest city (about 2.4 million people) is genuinely worth a ni
 
 ## Wudang Zhao Temple (五当召)
 
-![Tongli Old Town Scenery, Jiangsu, Suzhou](/img/destinations/inner-mongolia-baotou-guide/1.webp)
-
 About 70 km northeast of Baotou, Wudang Zhao is one of the four great lamaseries of Inner Mongolia — a Tibetan Buddhist monastery complex built between 1749 and 1835, during the height of Qing Dynasty patronage of Tibetan Buddhism.
 
 The complex extends over a substantial hillside, with six large sutra halls, three living Buddha's residences and numerous ancillary buildings rising up the slope. The architecture is a distinctive blend of Tibetan monastery style (whitewashed stone walls, gilt finials) with Chinese imperial influences — reflecting the Qing approach to integrating Mongolian and Tibetan Buddhism within the imperial system.
@@ -57,6 +55,8 @@ The best areas for visitor access are around **Ejin Horo Banner** (鄂尔多斯�
 
 ## Yellow River Bend — Hetao Plain (黄河内蒙古段)
 
+![Neimengwulan Scenery](/img/destinations/inner-mongolia-baotou-guide/1.webp)
+
 The Yellow River makes a dramatic northward bend through Inner Mongolia before turning south again, creating the Hetao Plain — China's most productive irrigated agricultural area outside the Wei River valley. The river scenery in the Baotou section is impressive, particularly at the wetland areas where the river widens over sandy flats.
 
 **Sanshenggong Water Conservancy Area (三盛公水利枢纽):** A large dam and reservoir on the Yellow River about 100 km west of Baotou, with a surrounding park that provides a good overview of the river's scale. Open to visitors; tickets ¥20 ($3).
@@ -75,7 +75,7 @@ The **Inner Mongolia Museum of Rare Earths** in Baotou explains the industry's h
 
 ## Getting to Baotou
 
-![Shi Lake Scenery, Jiangsu, Suzhou](/img/destinations/inner-mongolia-baotou-guide/2.webp)
+![Neimengwulanbutong Beautiful Lake](/img/destinations/inner-mongolia-baotou-guide/2.webp)
 
 ### From Hohhot (Huhhot)
 
@@ -103,7 +103,7 @@ The **Inner Mongolia Museum of Rare Earths** in Baotou explains the industry's h
 
 ## Best Time to Visit
 
-![Zhongyuan Temple Scenery, Jiangsu, Suzhou](/img/destinations/inner-mongolia-baotou-guide/3.webp)
+![Manzhoulilao Architecture Scenery, Inner Mongolia](/img/destinations/inner-mongolia-baotou-guide/3.webp)
 
 **Autumn (September–October):** The best overall time — warm dry days, good visibility for photography. Desert dunes in autumn light are beautiful.
 

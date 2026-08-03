@@ -12,7 +12,6 @@ tags:
   - heritage
   - beginners
 description: "China has more UNESCO World Heritage Sites than any other country — the complete 2026 list, the 20 most visitor-accessible sites, how to efficiently combine multiple UNESCO sites in one trip, which are overrated vs genuinely spectacular, and practical visiting information for each major site."
-ogImage: "/img/toolkit/china-unesco-heritage-sites-guide/cover.webp"
 ---
 
 As of 2026, China has **57 UNESCO World Heritage Sites** — more than any other country on Earth. That's 57 places recognised by the international community as having "outstanding universal value." They range from the obvious (the Great Wall, the Forbidden City) to the extraordinary-but-little-known (the Fujian Tulou, the Ancient Villages of Southern Anhui).
@@ -24,8 +23,6 @@ The challenge isn't finding UNESCO sites in China — they're everywhere. The ch
 ---
 
 ## The Essential Top 20 UNESCO Sites for Visitors
-
-![Terracotta Army](/img/toolkit/china-unesco-heritage-sites-guide/1.webp)
 
 ### 1. The Great Wall of China (长城) — Beijing / Multiple Provinces
 
@@ -185,8 +182,6 @@ Huanglong (黄龙) is often combined with Jiuzhaigou — a valley of golden-colo
 ---
 
 ## Combining Multiple Sites: Efficient Multi-Site Routes
-
-![Xingping, Guangxi, Yangshuo](/img/toolkit/china-unesco-heritage-sites-guide/2.webp)
 
 ### The Shanxi Heritage Triangle (4–5 days)
 - **Pingyao**: Day 1–2 (fly or train from Beijing)

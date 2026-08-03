@@ -10,7 +10,6 @@ tags:
   - toolkit
   - hotels
 description: "The best luxury hotels in China for 2026 — truly exceptional properties in Beijing, Shanghai, Chengdu, Hangzhou, Lijiang, and the smaller cities where staying well makes the difference. What justifies the price, what doesn't, and the Chinese boutique hotels that outshine international chains."
-ogImage: "/img/toolkit/china-luxury-hotel-guide/cover.webp"
 ---
 
 China's luxury hotel market has developed into one of the world's most competitive — international brands (Aman, EDITION, Four Seasons, Rosewood, Bulgari) compete with sophisticated Chinese operators (URBN, The Temple House, Capella) who often have a more genuine sense of place.
@@ -18,8 +17,6 @@ China's luxury hotel market has developed into one of the world's most competiti
 This guide focuses on the properties that provide exceptional experiences rather than simply high prices.
 
 ## Beijing
-
-![Gudianmingyuanliu Garden Scenery, Suzhou](/img/toolkit/china-luxury-hotel-guide/1.webp)
 
 **The Temple House (大院胡同) [coming from Chengdu brand expansion]**: The original Temple House is in Chengdu; Beijing's expanding Chinese boutique hotel market has several comparable courtyard hotel converts.
 
@@ -44,8 +41,6 @@ This guide focuses on the properties that provide exceptional experiences rather
 **Four Seasons Hangzhou**: On a private lake peninsula with direct West Lake views — the traditional architecture, lotus ponds, and private boat access create an immersive West Lake experience.
 
 ## Chengdu
-
-![Hanshan Temple, Suzhou](/img/toolkit/china-luxury-hotel-guide/2.webp)
 
 **Temple House (博舍)**: Converted Qing dynasty courtyard complex surrounding a working temple — the rooms open onto traditional garden courtyards. One of the best hotel experiences in Sichuan.
 

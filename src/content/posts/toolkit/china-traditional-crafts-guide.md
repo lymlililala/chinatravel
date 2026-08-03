@@ -12,7 +12,6 @@ tags:
   - porcelain
   - hands-on-experiences
 description: "China's traditional crafts represent thousands of years of accumulated knowledge — silk weaving, porcelain painting, lacquerware, paper-cutting, and dozens more. This guide shows you where to see master craftspeople at work, where to take hands-on classes, and how to buy authentic pieces versus mass-produced imitations in 2026."
-ogImage: "/img/toolkit/china-traditional-crafts-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -24,8 +23,6 @@ For travellers, these crafts offer a rare window into how Chinese culture actual
 ---
 
 ## The Great Chinese Craft Traditions
-
-![Scenery, Jiuzhaigou, Sichuan](/img/toolkit/china-traditional-crafts-guide/1.webp)
 
 ### Silk (丝绸 — Sīchóu)
 
@@ -158,8 +155,6 @@ This is the central challenge for craft buyers in China. Mass-produced items dom
 ---
 
 ## Craft Learning Centres and Schools
-
-![Terracotta Army](/img/toolkit/china-traditional-crafts-guide/2.webp)
 
 For serious learners who want more than a one-hour taster class:
 

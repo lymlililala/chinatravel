@@ -11,7 +11,7 @@ tags:
   - "guizhou"
   - "shandong"
 description: "Discover China's top regional fruits—from Xianju bayberries to Shaanxi peaches, Liupanshui plums, and Qingdao apricots. Best seasons, how to buy, and travel"
-ogImage: "https://images.pexels.com/photos/31737462/pexels-photo-31737462.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/chinas-regional-fruits-guide/cover.webp"
 faq:
   - question: "When is the best season to try Xianju bayberries?"
     answer: "Mid-June to early July. The season lasts only about two weeks, so plan your visit accordingly."
@@ -31,6 +31,8 @@ China's vast geography and diverse climates produce an incredible array of fruit
 
 ## Xianju Dongkui Bayberry (仙居东魁杨梅)
 
+![Tai Mountain Scenery, Shandong](/img/destinations/chinas-regional-fruits-guide/1.webp)
+
 ![A close-up of large, dark red bayberries on a rustic wooden table, with one cut open to show juicy flesh](https://images.pexels.com/photos/1118331/pexels-photo-1118331.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 Xianju County in Zhejiang Province is the undisputed king of bayberries (杨梅, yáng méi), specifically the Dongkui variety. These berries are famed for their impressive size—often compared to ping-pong balls—and their explosive juiciness. The local government strictly regulates pesticide use, and many orchards use organic methods, making them safe to eat straight from the tree. The flavor is a perfect balance of sweet and tart, with a distinct, aromatic fragrance.
@@ -42,6 +44,8 @@ Xianju County in Zhejiang Province is the undisputed king of bayberries (杨梅,
 **How to eat:** Rinse gently and eat fresh. Many locals eat them without soaking. For a treat, freeze them for a natural sorbet or make bayberry sparkling water. They are highly perishable—consume within 1-2 days of purchase.
 
 ## Shaanxi Xiameng Peach (陕西夏梦水蜜桃)
+
+![Kong Temple, Qufu](/img/destinations/chinas-regional-fruits-guide/2.webp)
 
 ![A ripe, pink-blushed peach on a tree branch with green leaves, sunlight filtering through](https://images.pexels.com/photos/31737462/pexels-photo-31737462.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
@@ -66,6 +70,8 @@ Hailing from the Liuma Township (六马镇) in Zhenning County, Guizhou Province
 **How to eat:** Eat fresh. Let slightly green plums ripen for 2-3 days at room temperature. They are perfect for snacking and make a refreshing summer treat.
 
 ## Qingdao Shaoshan Red Apricot (青岛少山红杏)
+
+![Xijiang Miao Village Landscape, Guizhou](/img/destinations/chinas-regional-fruits-guide/3.webp)
 
 ![A basket of red-and-yellow apricots with a rustic background, one split open to show the pit](https://images.pexels.com/photos/9399898/pexels-photo-9399898.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 

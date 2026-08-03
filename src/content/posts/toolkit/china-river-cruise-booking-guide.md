@@ -12,7 +12,6 @@ tags:
   - china-cruise
   - yangtze-river
 description: "Planning a Yangtze River cruise through the Three Gorges in 2026? This comprehensive guide covers everything from choosing the right ship and cabin class to understanding routes (upstream vs downstream), pricing, shore excursions, and booking strategies. Learn the differences between luxury and budget cruises, the best time to sail, and how to avoid common booking mistakes."
-ogImage: "/img/toolkit/china-river-cruise-booking-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -34,8 +33,6 @@ ogImage: "/img/toolkit/china-river-cruise-booking-guide/cover.webp"
 - [Alternative River Cruises in China](#alternative-cruises)
 
 ## Why Take a Yangtze River Cruise?
-
-![Forbidden City Bowuyuan, Taiwan, Taipei](/img/toolkit/china-river-cruise-booking-guide/1.webp)
 
 The Yangtze River cruise through the Three Gorges is one of China's most iconic travel experiences, and for good reason. Where else can you float through 200-million-year-old limestone gorges, pass by the world's largest dam, explore ancient riverside temples, and do it all from the comfort of a floating hotel?
 
@@ -286,8 +283,6 @@ Most cruises include 2-3 basic shore excursions:
 - **Recommendation:** Only if budget is a primary concern. The fog can obscure the gorges
 
 ## How to Book
-
-![Wanli Great Wall Scenery](/img/toolkit/china-river-cruise-booking-guide/2.webp)
 
 ### Direct vs Agency
 

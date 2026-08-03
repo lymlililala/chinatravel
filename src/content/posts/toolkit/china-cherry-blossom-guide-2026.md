@@ -23,7 +23,6 @@ faq:
     answer: "Hongta West Road's roadside cherry corridor near Dianchi Lake typically peaks in early-to-mid March — for 2026, plan for roughly March 5–20, with the fullest displays around the middle of that window. It's free and open to traffic, so go early in the morning."
   - question: "Do I need to book tickets for Wuhan University cherry blossoms?"
     answer: "Yes. During peak bloom the university caps daily visitors and requires advance online booking (¥30–50); tickets sell out within minutes when the window opens, usually about 14 days ahead."
-ogImage: "/img/toolkit/china-cherry-blossom-guide-2026/cover.webp"
 ---
 
 China's cherry blossom season is less internationally famous than Japan's but covers a vast geographic range — from subtropical Guizhou blooming in late February to Beijing's final displays in April. Across the country, cherry trees planted along universities, parks, and streets create spectacular spring displays.
@@ -35,8 +34,6 @@ The best-known and largest cherry blossom site in China is Wuhan University's ca
 ---
 
 ## Cherry Blossom Calendar: When Each Region Blooms
-
-![Sea of Clouds Scenery, Huangshan](/img/toolkit/china-cherry-blossom-guide-2026/1.webp)
 
 Cherry blossom timing in China depends primarily on latitude and altitude. The bloom follows a northward progression as temperatures warm from late February through late April.
 
@@ -142,8 +139,6 @@ East Lake in Wuhan has a dedicated cherry garden (武汉东湖磨山樱园) with
 ---
 
 ## Lesser-Known Cherry Blossom Destinations
-
-![Guojiadizhi Park Scenery, Huangshan](/img/toolkit/china-cherry-blossom-guide-2026/2.webp)
 
 ### Guizhou Province — Earliest Blooms
 

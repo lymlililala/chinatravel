@@ -32,8 +32,6 @@ China is vast, and while iconic sites like the Great Wall and the Forbidden City
 
 ## 1. Jingxi (靖西, Jìngxī): Guangxi's Cool, Cross-Border Oasis
 
-![Simatai Great Wall, Beijing](/img/destinations/beyond-tourist-trail-5-underrated-chinese-destinations/1.webp)
-
 Nestled in the southwestern corner of Guangxi Zhuang Autonomous Region, Jingxi is a county-level city that feels like a secret whispered among travelers. Known as "Little Guilin" for its karst scenery and "Little Kunming" for its mild climate, Jingxi boasts an average annual temperature of just 19.1°C (66.4°F), making it a perfect summer escape. But what truly sets it apart is its location: it shares a 152.5 km border with Vietnam, offering a unique blend of Chinese and Southeast Asian cultures.
 
 ### Top Sights
@@ -53,6 +51,8 @@ At Longbang Port (龙邦口岸, Lóngbāng Kǒu'àn), you can stroll through a b
 
 ## 2. Haiyan (海晏, Hǎiyàn): Qinghai's Hot Spring Haven
 
+![Detianda Waterfall Scenery, Guangxi](/img/destinations/beyond-tourist-trail-5-underrated-chinese-destinations/1.webp)
+
 Tucked away in the Qilian Mountains of Qinghai Province, Haiyan County is home to the Baohutu Hot Spring (包忽图温泉, Bāohūtú Wēnquán), known as the "First Spring of the Huangshui River Source." In Mongolian, "Baohutu" means "place where deer appear," and this remote geothermal spring offers a truly off-grid experience.
 
 The spring emerges from the earth at a temperature that remains warm year-round, even as snow caps the surrounding peaks. The water is rich in lithium and metasilicic acid, believed to have therapeutic properties. In summer, the surrounding meadows are a carpet of wildflowers; in winter, the contrast of steam rising against a frozen landscape is surreal.
@@ -71,7 +71,7 @@ The spring emerges from the earth at a temperature that remains warm year-round,
 
 ## 3. Yibao (怡保, Yíbǎo): Malaysia's Chinese Heritage Town (Bonus Cross-Border Pick)
 
-![Shanhaiguan Great Wall, Beijing](/img/destinations/beyond-tourist-trail-5-underrated-chinese-destinations/2.webp)
+![Kekexili Scenery, Qinghai](/img/destinations/beyond-tourist-trail-5-underrated-chinese-destinations/2.webp)
 
 While technically in Malaysia, Ipoh (怡保) is just a short hop from the Chinese border and offers a fascinating glimpse into the overseas Chinese experience. This former tin-mining boomtown, once known as the "World's Tin Capital," is now a laid-back city where Cantonese is the lingua franca and white coffee was invented.
 
@@ -96,7 +96,7 @@ Ipoh's story is deeply tied to Chinese immigration. In the late 19th century, th
 
 ## 4. Geleshan (鹅岭, Élǐng): Chongqing's Layered History
 
-![Mutianyu Great Wall Scenery, Beijing](/img/destinations/beyond-tourist-trail-5-underrated-chinese-destinations/3.webp)
+![Gupo Mountain Scenery, Guangxi](/img/destinations/beyond-tourist-trail-5-underrated-chinese-destinations/3.webp)
 
 In the heart of Chongqing, Geleshan (Goose Ridge) is a narrow, steep ridge flanked by the Yangtze and Jialing rivers. It's home to some of the city's most Instagrammed spots — the Liziba light rail that "eats" a building, the Eling Er Factory (a former printing press turned creative hub), and the Fotoshan Park "flower sea train." But beneath the viral veneer lies a rich tapestry of history.
 

@@ -10,7 +10,6 @@ tags:
   - "itinerary"
   - "china"
 description: "China's men didn't qualify, but the country is all over the 2026 World Cup — referees, brands, late-night viewing parties and a homegrown football-tourism"
-ogImage: "/img/destinations/china-2026-world-cup-fan-culture-guide/cover.webp"
 faq:
   - question: "Can I use Alipay or WeChat Pay in North America for World Cup purchases?"
     answer: "Yes, many Chinese-owned businesses accept Alipay and WeChat Pay, but for general use (tickets, hotels, restaurants), bring a credit card or cash. In China, these apps are essential."
@@ -29,8 +28,6 @@ The 2026 FIFA World Cup kicks off across 16 cities in the United States, Canada,
 ## Table of contents
 
 ## The Chinese Football-Travel Boom
-
-![The Bund Scenery](/img/destinations/china-2026-world-cup-fan-culture-guide/1.webp)
 
 China's love affair with football runs deep, even if the national team rarely makes the big stage. The 2026 World Cup has sparked a surge in football-related travel, with Chinese fans booking trips to North America in record numbers. According to travel platforms, searches for flights to host cities like Los Angeles, New York, and Mexico City jumped over 300% after the draw. Tour operators are offering package deals that bundle match tickets with guided tours of iconic landmarks — think SoFi Stadium and the Hollywood Walk of Fame, or Estadio Azteca and the pyramids of Teotihuacán.
 
@@ -73,8 +70,6 @@ For the first time, a Chinese referee team — **Ma Ning** (head referee), **Fu 
 Over 70% of World Cup merchandise — flags, scarves, hats, foam fingers, and mascot toys — comes from **Yiwu**, China's small-commodity capital. During the tournament, Yiwu's factories run 24/7, shipping millions of items to North America. The "Yiwu Index" (order volume by country) is even used as a quirky predictor of fan interest, though not necessarily match outcomes.
 
 ## Best Time to Visit and Match Schedule
-
-![Scenery, Jiuzhaigou, Sichuan](/img/destinations/china-2026-world-cup-fan-culture-guide/2.webp)
 
 ### Tournament Timeline
 
@@ -135,8 +130,6 @@ Stay near the viewing hotspots. In Beijing, choose areas like **Sanlitun** (bars
 - **Vancouver**: **Yaletown** or **Gastown** are walkable and vibrant.
 
 ## Food and Drink
-
-![Lvyou Scenery, Lijiang](/img/destinations/china-2026-world-cup-fan-culture-guide/3.webp)
 
 ### In China
 

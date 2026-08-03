@@ -35,7 +35,7 @@ China's ancient architecture is a testament to millennia of ingenuity, spiritual
 
 ## Yingxian Wooden Pagoda: A Millennia-Old Marvel
 
-![Weimei Natural Scenery, Guangxi, Yangshuo](/img/destinations/chinas-ancient-architectural-marvels-guide/1.webp)
+![Gudianmingyuanliu Garden Scenery, Suzhou](/img/destinations/chinas-ancient-architectural-marvels-guide/1.webp)
 
 Standing in the heart of Shanxi Province, the Yingxian Wooden Pagoda is the world's oldest and tallest fully wooden pagoda. Built in 1056 during the Liao Dynasty, it rises 67 meters (220 feet) using 3,000 cubic meters of red pine, all joined without a single nail — a masterpiece of interlocking brackets (斗拱, dǒugǒng).
 
@@ -55,7 +55,7 @@ For more ancient wonders, explore our [cultural heritage guides](/tags/culture).
 
 ## Chongyuan Temple: A Jiangnan Watercolor
 
-![Jiejing, Guangxi, Yangshuo](/img/destinations/chinas-ancient-architectural-marvels-guide/2.webp)
+![Yungang Grottoes, Shanxi, Datong](/img/destinations/chinas-ancient-architectural-marvels-guide/2.webp)
 
 On the shores of Yangcheng Lake in Suzhou, Jiangsu, Chongyuan Temple (also known as Chongxuan Temple) dates back to 503 AD during the Southern Liang Dynasty. Originally a private residence, it became a Buddhist monastery that has been rebuilt over centuries. Its most enchanting aspect is the seamless integration of architecture with water and gardens.
 
@@ -94,7 +94,7 @@ For more historical sites in Beijing, check our [Beijing travel guides](/tags/be
 
 ## Practical Tips for Visiting Ancient Sites
 
-![Huangyaguan Great Wall Scenery, Tianjin](/img/destinations/chinas-ancient-architectural-marvels-guide/3.webp)
+![Courtyard House, Beijing](/img/destinations/chinas-ancient-architectural-marvels-guide/3.webp)
 
 ### Best Time to Visit
 - **Spring (March-May)** and **Autumn (September-November)** offer mild temperatures and clear skies, ideal for outdoor exploration.

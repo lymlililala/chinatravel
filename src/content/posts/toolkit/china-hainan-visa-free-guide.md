@@ -11,7 +11,6 @@ tags:
   - toolkit
   - entry
 description: "Hainan Island's extraordinary 30-day visa-free policy — the 59 nationalities that can enter Hainan without any visa for up to 30 days (can be extended once), the beaches, resorts, and the Sanya city experience, and the important caveat: you cannot leave Hainan Island to other parts of mainland China without a visa (it's island-specific). Best used for a beach holiday."
-ogImage: "/img/toolkit/china-hainan-visa-free-guide/cover.webp"
 ---
 
 Hainan Island has one of the most unusual visa policies in the world. Citizens of 59 nationalities can fly directly to Hainan and enter without any advance visa arrangement for up to 30 days — no tourist visa, no transit exemption, just show up with your passport and a return or onward international ticket. For those wanting a beach holiday in China without the standard visa process, this is a remarkable convenience.
@@ -21,8 +20,6 @@ The catch is worth understanding clearly: this program is island-specific. You'r
 ## Table of contents
 
 ## Who Qualifies: The 59 Nationalities
-
-![Dadonghai Scenery, Hainan, Sanya](/img/toolkit/china-hainan-visa-free-guide/1.webp)
 
 As of 2026, the following groups of nationalities qualify for Hainan's 30-day visa-free entry:
 
@@ -79,8 +76,6 @@ The 30-day stay can be extended once, for an additional 30 days, giving a maximu
 After a 60-day stay (30 + 30 extension), you must exit China internationally and cannot re-enter on the same visa-free basis immediately.
 
 ## What Hainan Actually Offers
-
-![Boao Landscape, Hainan](/img/toolkit/china-hainan-visa-free-guide/2.webp)
 
 Hainan is China's tropical province — 35,000 km² island roughly the size of Belgium, sitting at the same latitude as Jamaica and Hawaii. The south of the island (Sanya and its surroundings) is the tourist centre; the north (Haikou, the provincial capital) is more of a local city experience.
 

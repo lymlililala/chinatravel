@@ -14,7 +14,6 @@ tags:
   - yunnan
   - beijing
 description: "A photographer's guide to China — the 15 most photogenic locations, ideal shooting times and conditions, seasonal advice, and practical tips for travelling with camera equipment in 2026."
-ogImage: "/img/toolkit/china-photography-travel-guide/cover.webp"
 ---
 
 China is one of the most photographically rewarding countries on earth. The density of visually extraordinary material — ancient architecture, dramatic landscapes, minority cultures, street scenes of intense colour — is extraordinary. Within a single two-week trip, you can stand on karst peaks above a river valley, photograph a centuries-old tea ceremony in a mountain village, and capture the Shanghai skyline reflected in the Huangpu at 3am.
@@ -26,8 +25,6 @@ This guide is written for photographers who want to do more than point a phone a
 ---
 
 ## The 15 Most Photogenic Locations in China
-
-![Ruiguang Pagoda Scenery, Suzhou](/img/toolkit/china-photography-travel-guide/1.webp)
 
 ### 1. Guilin and Yangshuo — Karst Landscape
 
@@ -252,8 +249,6 @@ Camera equipment flies as carry-on without issues on domestic Chinese flights. L
 ---
 
 ## Photography Etiquette in China
-
-![Luzhi Old Town, Suzhou](/img/toolkit/china-photography-travel-guide/2.webp)
 
 **Always ask before photographing people** at close range. Chinese people are generally photogenic subjects who respond warmly to a camera — but permission is both courteous and practically important. A smile and a raised camera (with a questioning expression) communicates the request across language barriers.
 

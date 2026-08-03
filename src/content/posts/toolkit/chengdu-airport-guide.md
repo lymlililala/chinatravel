@@ -11,7 +11,6 @@ tags:
   - airport
   - toolkit
 description: "Chengdu now has two international airports — Shuangliu (CTU, traditional international hub) and the new Tianfu International Airport (TFU, opened 2021, one of the world's largest). How to know which airport your flight uses, metro access from both, and getting to Chengdu city center."
-ogImage: "/img/toolkit/chengdu-airport-guide/cover.webp"
 ---
 
 Chengdu became one of the few cities in the world with two large international airports when Tianfu International Airport opened in 2021. If you're flying to Chengdu, it's now essential to check which airport your flight uses — because they're on opposite sides of the city and the metro access from each works differently. Getting this wrong means a much longer and more expensive journey than expected.
@@ -19,8 +18,6 @@ Chengdu became one of the few cities in the world with two large international a
 ## Table of contents
 
 ## Chengdu Shuangliu International Airport (CTU) — The Established One
-
-![Tianfuguosheyinger, Sichuan, Chengdu](/img/toolkit/chengdu-airport-guide/1.webp)
 
 Shuangliu (IATA: CTU) is the original international airport, about **16 km southwest** of Chengdu city center. It's been the main gateway since 1990 and still handles a large portion of both international and domestic traffic. Most visitors flying Air China, China Eastern, and various international carriers on routes that have been operating for years will arrive here.
 
@@ -53,8 +50,6 @@ Tianfu International Airport (IATA: TFU) opened in June 2021, about **51 km sout
 **Taxis** from TFU to central Chengdu cost **¥150–¥250** given the 51 km distance. Allow 50–70 minutes, longer during rush hours.
 
 ## How to Tell Which Airport Your Flight Uses
-
-![Shunanzhuhai Landscape](/img/toolkit/chengdu-airport-guide/2.webp)
 
 When booking, the airport code tells you everything:
 - **CTU** = Shuangliu

@@ -20,8 +20,6 @@ Most people associate Hong Kong with skyscrapers, shopping malls, and density. W
 
 ## Dragon's Back Trail (龍脊) — The Best One-Day Hike
 
-![West Lake Hupao Spring, Hangzhou](/img/destinations/hong-kong-hiking-guide/1.webp)
-
 **Time:** 2.5–4 hours | **Distance:** 8.5km | **Difficulty:** Moderate
 
 This is the classic Hong Kong hike for a reason. The Dragon's Back follows a ridge on Hong Kong Island with ocean views on both sides — Shek O bay and the South China Sea to the south, the city skyline to the north. The path rises and falls along the exposed ridge (the "dragon's back" shape) before descending to Shek O beach through forested valley.
@@ -35,6 +33,8 @@ This is the classic Hong Kong hike for a reason. The Dragon's Back follows a rid
 **Tips:** Bring water — no shops on the ridge. Start early to avoid afternoon heat (before 9am is ideal in summer). The trail is rocky and exposed; proper footwear makes a difference. The views from the ridge on a clear day extend to Lamma Island and beyond.
 
 ## Victoria Peak — Skip the Tram Route
+
+![Scenery, Hong Kong](/img/destinations/hong-kong-hiking-guide/1.webp)
 
 Victoria Peak (太平山) is Hong Kong's most-visited attraction, and the Peak Tram that most tourists use is always crowded with a 45-minute queue. The hiking alternatives are genuinely better:
 
@@ -62,7 +62,7 @@ The MacLehose Trail is Hong Kong's premier long-distance path, running 100km in 
 
 ## Pat Sin Leng Range (八仙嶺) — The Ridge Walk
 
-![West Lake Xuehuafenfei Scenery, Hangzhou](/img/destinations/hong-kong-hiking-guide/2.webp)
+![Haiyang Park Landscape, Hong Kong](/img/destinations/hong-kong-hiking-guide/2.webp)
 
 **Time:** 5–7 hours | **Distance:** 12km | **Difficulty:** Challenging
 
@@ -76,7 +76,7 @@ Pat Sin Leng (Eight Immortals Ridge) in the New Territories is a sustained ridge
 
 ## Lantau Trail and Lantau Peak
 
-![West Lake Leifeng Pagoda, Hangzhou](/img/destinations/hong-kong-hiking-guide/3.webp)
+![Landscape Zonghe, Hong Kong](/img/destinations/hong-kong-hiking-guide/3.webp)
 
 Lantau Island has Hong Kong's highest peak — **Lantau Peak (鳳凰山)** at 934m — and the **Lantau Trail** (70km) circles the island in 12 stages.
 

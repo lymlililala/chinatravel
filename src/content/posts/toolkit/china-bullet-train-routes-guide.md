@@ -11,7 +11,6 @@ tags:
   - toolkit
   - scenic
 description: "The most spectacular and useful high-speed train routes in China — the Beijing to Xi'an line (4.5 hours through Yellow River country), Shanghai to Hangzhou (44 minutes), the Guizhou plateau lines with their extraordinary bridges and tunnels, and the Sichuan-Tibet Railway (still under construction). What to expect on each."
-ogImage: "/img/toolkit/china-bullet-train-routes-guide/cover.webp"
 ---
 
 China's high-speed rail network is the largest on Earth, and it's not just functional — some of these routes are spectacular journeys in their own right. Soaring viaducts over karst valleys, tunnels through mountain ranges, and trains that glide through agricultural flatlands at 330 km/h. Here are the routes that are both genuinely useful for travelers and worth appreciating for what they are.
@@ -19,8 +18,6 @@ China's high-speed rail network is the largest on Earth, and it's not just funct
 ## Table of contents
 
 ## Beijing to Shanghai — The Flagship Route
-
-![Badaling Great Wall, Beijing](/img/toolkit/china-bullet-train-routes-guide/1.webp)
 
 The **Beijing-Shanghai G trains** are the showpiece of China's railway ambition. The distance is 1,318 km; the fastest trains cover it in **4 hours 18 minutes** at speeds up to 350 km/h. The route runs through Tianjin, Jinan, Nanjing, and past Suzhou before arriving at Shanghai Hongqiao.
 
@@ -57,8 +54,6 @@ The **Beipan River Bridge** near Guiyang (on the Guiyang-Kunming line) is the wo
 The route from Guiyang to Kunming takes about **3.5 hours** (¥225–¥380 second class) and the landscape — deep gorges, tropical mountain valleys, occasional villages clinging to hillsides — is unlike anything on the eastern plains routes.
 
 ## Chongqing to Chengdu — Sichuan Basin Express
-
-![Simatai Great Wall, Beijing](/img/toolkit/china-bullet-train-routes-guide/2.webp)
 
 The **Chongqing North to Chengdu East** G trains run in under 1.5 hours for about **¥139–¥165**. These two cities together make a natural 4–5 day circuit (hot pot in Chongqing, pandas in Chengdu), and the train makes it easy.
 

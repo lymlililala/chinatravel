@@ -8,7 +8,7 @@ tags:
   - "guizhou"
   - "southwest-china"
 description: "Explore Guizhou's unique fruits like honey plums and local food culture, plus tips on where to buy and how to enjoy them as a traveler."
-ogImage: "https://images.pexels.com/photos/20030797/pexels-photo-20030797.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/guizhou-fruits-food-guide/cover.webp"
 faq:
   - question: "When is the best time to eat honey plums?"
     answer: "The honey plum season is very short – typically from late June to mid-July. The peak is around the first two weeks of July. Outside this window, they are not available fresh."
@@ -33,6 +33,8 @@ Guizhou's mountainous terrain and subtropical climate create ideal conditions fo
 ![A green honey plum with a slight yellow blush, cut open to show crisp pale yellow flesh](https://images.pexels.com/photos/33654296/pexels-photo-33654296.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Top Fruits to Try in Guizhou
+
+![Dong Village Gulou](/img/destinations/guizhou-fruits-food-guide/1.webp)
 
 ### 1. Honey Plum (蜂糖李, Fēngtáng Lǐ)
 
@@ -69,6 +71,8 @@ This classic Jiangnan dish uses **fermented rice wine lees** (酒糟, jiǔ zāo)
 
 ## Best Time to Visit for Food
 
+![Diaojiaolou Scenery](/img/destinations/guizhou-fruits-food-guide/2.webp)
+
 - **June to July:** Peak season for honey plums and white phoenix peaches. Also the start of summer fruit festivals.
 - **August to September:** Try local grapes, kiwifruit, and the famous **Guizhou sour fish** (酸汤鱼).
 - **October:** Chestnuts and persimmons.
@@ -80,6 +84,8 @@ This classic Jiangnan dish uses **fermented rice wine lees** (酒糟, jiǔ zāo)
 - **Local transport:** Use the metro in Guiyang, or rent a car/driver for countryside fruit-picking trips. Didi (Chinese Uber) works well.
 
 ## Where to Stay
+
+![Qianlinghongfu Temple Scenery, Guizhou](/img/destinations/guizhou-fruits-food-guide/3.webp)
 
 - **Guiyang city center:** For easy access to markets and restaurants. Recommended areas: Yunyan District (云岩区) or Nanming District (南明区).
 - **Anshun:** Closer to honey plum orchards. Look for guesthouses near Huangguoshu Waterfall.

@@ -11,14 +11,11 @@ tags:
   - climate-zones
   - when-to-visit
 description: "Navigate China's extraordinary climate diversity — from tropical Hainan to subarctic Heilongjiang, from the arid Gobi to the humid Yangtze Delta. This 2026 guide breaks down China's seven major climate zones, provides month-by-month temperature and rainfall data for key cities, identifies the best and worst times to visit each region, and helps you plan a trip that avoids weather-related disappointments."
-ogImage: "/img/toolkit/china-climate-zones-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## China's Climate — A Country of Extremes
-
-![Zhongyuan Temple Scenery, Suzhou](/img/toolkit/china-climate-zones-guide/1.webp)
 
 China is roughly the same size as the United States, and like the US, it spans an enormous range of latitudes and elevations. But China's climate is even more varied because of the Tibetan Plateau — a high-altitude wilderness that creates its own weather systems — and the monsoon patterns that dominate East Asian climate. The result is a country where you can freeze at -50°C in Heilongjiang and sweat at 40°C in Hainan on the same January day.
 
@@ -163,8 +160,6 @@ Understanding China's climate zones is essential for trip planning. The "best ti
 **Special note:** Kunming is called the "City of Eternal Spring" for good reason — it's comfortable year-round. But surrounding mountains can be freezing while the city is pleasant.
 
 ## When to Visit — Month by Month
-
-![West Lake Yuefei Temple, Hangzhou](/img/toolkit/china-climate-zones-guide/2.webp)
 
 ### January
 **Best for:** Harbin Ice Festival, Hainan beaches, Yunnan (dry season)

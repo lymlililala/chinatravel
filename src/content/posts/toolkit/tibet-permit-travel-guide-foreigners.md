@@ -12,7 +12,6 @@ tags:
   - beginners
   - transport
 description: "The complete guide to visiting Tibet as a foreign traveller in 2026 — what permits are required, how to apply, which tour operators are reliable, what is open to foreigners, and how to plan the Lhasa, Namtso, and Everest Base Camp route."
-ogImage: "/img/toolkit/tibet-permit-travel-guide-foreigners/cover.webp"
 ---
 
 Tibet is the most restricted destination in China for foreign visitors — and for many travellers, the most compelling. The Potala Palace rising above Lhasa. The turquoise expanse of Namtso Lake at 4,718 metres. The road to Everest Base Camp at dawn, the summit glowing gold above the Tibetan plateau.
@@ -24,8 +23,6 @@ Getting there requires more planning than any other destination in China. This g
 ---
 
 ## The Essential Permits: What You Actually Need
-
-![Spectacular Ali Scenery, Tibet](/img/toolkit/tibet-permit-travel-guide-foreigners/1.webp)
 
 Visiting Tibet as a foreign national requires **at minimum two documents** beyond your Chinese visa:
 
@@ -132,8 +129,6 @@ The **Qinghai-Tibet Railway** (青藏铁路) connects Xining (Qinghai) to Lhasa 
 ---
 
 ## Essential Itineraries
-
-![Renwen Natural Landscape, Tibet](/img/toolkit/tibet-permit-travel-guide-foreigners/2.webp)
 
 ### 5-Day Lhasa Focused (Minimum Viable Tibet Trip)
 

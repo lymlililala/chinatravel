@@ -25,8 +25,6 @@ This guide covers everything needed to plan and book a Yangtze cruise in 2026.
 
 ## Understanding the Route
 
-![Tianzi Mountain Scenery, Zhangjiajie, Hunan](/img/destinations/yangtze-three-gorges-dam-cruise-guide/1.webp)
-
 The classic Three Gorges cruise runs between **Chongqing** (upstream, western end) and **Yichang** (downstream, near the dam). Some cruises continue to **Wuhan** but this section is less interesting scenically.
 
 **The Three Gorges:**
@@ -41,6 +39,8 @@ The classic Three Gorges cruise runs between **Chongqing** (upstream, western en
 ---
 
 ## The Three Gorges Dam — What to Expect
+
+![Jinyun Mountain Scenery, Chongqing](/img/destinations/yangtze-three-gorges-dam-cruise-guide/1.webp)
 
 The Three Gorges Dam (三峡大坝) is the culminating sight of the cruise, regardless of direction. The dam:
 
@@ -69,7 +69,7 @@ This side trip (half day) is consistently the highlight of the cruise for visito
 
 ## Cruise Ship Classes
 
-![The Bund Scenery](/img/destinations/yangtze-three-gorges-dam-cruise-guide/2.webp)
+![Huanghelou Scenery, Hubei, Wuhan](/img/destinations/yangtze-three-gorges-dam-cruise-guide/2.webp)
 
 Three gorges cruises operate across three broad tiers:
 
@@ -97,7 +97,7 @@ Sanctuary Yangtze Explorer (12 cabins, boutique hotel quality) and similar ultra
 
 ## What the Cruise Actually Looks Like Day by Day
 
-![Scenery, Jiuzhaigou, Sichuan](/img/destinations/yangtze-three-gorges-dam-cruise-guide/3.webp)
+![Dong Lake Scenery, Hubei, Wuhan](/img/destinations/yangtze-three-gorges-dam-cruise-guide/3.webp)
 
 ### Day 1: Chongqing to Fengdu
 

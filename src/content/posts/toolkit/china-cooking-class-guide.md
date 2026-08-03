@@ -12,7 +12,6 @@ tags:
   - activity
   - culinary
 description: "Taking a Chinese cooking class — the best cooking schools in Shanghai (The Cooking School, Brenda's), Chengdu's Sichuan hotpot and cooking classes (half-day market tour + class at Tianfu Cuisine), Beijing's hutong cooking experiences, and Yangshuo's rural village cooking classes that include foraging. What you actually learn vs what's just Instagram staging."
-ogImage: "/img/toolkit/china-cooking-class-guide/cover.webp"
 ---
 
 Taking a cooking class in China is one of those activities that sounds tourist-trap-adjacent but is often genuinely excellent — partly because the food culture here is so deep and complex that even a half-day class reveals things about technique and ingredients that make you cook differently when you get home, and partly because the best classes involve market visits and genuine skill-building rather than decorative dumpling-folding for Instagram.
@@ -20,8 +19,6 @@ Taking a cooking class in China is one of those activities that sounds tourist-t
 ## Table of contents
 
 ## What Makes a Good Chinese Cooking Class
-
-![Guojiadizhi Park Scenery, Huangshan](/img/toolkit/china-cooking-class-guide/1.webp)
 
 The classes worth doing share a few characteristics:
 
@@ -77,8 +74,6 @@ French Concession area, small group (max 6), friendly atmosphere. Known particul
 **Specialty:** The xiao long bao (soup dumpling) class — 2.5 hours focused entirely on making these properly, including the gelatin-based broth that turns to soup inside the dumpling during steaming. Cost ¥600-800. The skill required is genuinely satisfying to master.
 
 ## Beijing: Hutong Cooking Experiences
-
-![Panlongshan Great Wall Scenery, Shandong](/img/toolkit/china-cooking-class-guide/2.webp)
 
 Beijing cooking classes are best when they're embedded in the hutong experience — cooking in someone's courtyard home, using a traditional Chinese kitchen setup.
 

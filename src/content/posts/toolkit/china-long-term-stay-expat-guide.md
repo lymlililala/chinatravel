@@ -12,7 +12,6 @@ tags:
   - payment
   - communication
 description: "The practical guide to living in China as a foreign resident in 2026 — resident permits, bank accounts, health insurance, getting a Chinese phone number, renting an apartment, navigating the apps, and what's different about daily life for long-term foreign residents."
-ogImage: "/img/toolkit/china-long-term-stay-expat-guide/cover.webp"
 ---
 
 Moving to China for work, study, or an extended stay involves a different set of preparations and systems from a tourist visit. The payment apps and transit systems are the same, but you'll need a Chinese bank account, a resident-registered phone number, likely a resident permit or student visa, and an understanding of how daily logistics — renting an apartment, buying health insurance, using food delivery apps — work for foreign residents.
@@ -24,8 +23,6 @@ This guide addresses the practical setup for foreign nationals staying in China 
 ---
 
 ## Visas for Long-Term Stays
-
-![Great Wall Lao City Wall](/img/toolkit/china-long-term-stay-expat-guide/1.webp)
 
 ### Student Visa (X Visa)
 
@@ -139,8 +136,6 @@ Buy a **China Unicom**, **China Mobile**, or **China Telecom** SIM at any carrie
 ---
 
 ## Daily Life Apps
-
-![Potala Palace Scenery, Tibet](/img/toolkit/china-long-term-stay-expat-guide/2.webp)
 
 ### For Long-Term Residents (Beyond Tourist Apps)
 

@@ -11,7 +11,6 @@ tags:
   - entry
   - planning
 description: "China's visa-on-arrival and port entry options in 2026 — the Hainan 30-day visa-free policy (by far the most generous, applicable to 59 nationalities), the 72-hour and 144-hour transit visa exemptions, the 15-day visa-free bilateral agreements, and the countries where China visa on arrival is available at specific ports. Updated for 2026 policy changes."
-ogImage: "/img/toolkit/china-visa-on-arrival-guide/cover.webp"
 ---
 
 China's entry policy has become significantly more visitor-friendly since 2023, with several visa-free programs expanded and new bilateral agreements coming into force. The result is that visitors from many countries now have multiple options for entering China without a pre-arranged visa — from transit exemptions to extended visa-free stays on Hainan Island.
@@ -21,8 +20,6 @@ This guide covers all the current options as of 2026. Note that China's entry po
 ## Table of contents
 
 ## Option 1: Hainan Island 30-Day Visa-Free (The Most Useful Program)
-
-![Zhuozheng Garden, Suzhou](/img/toolkit/china-visa-on-arrival-guide/1.webp)
 
 Hainan Island's visa-free policy is China's most generous entry option for international visitors: citizens of 59 qualifying nationalities can enter Hainan Province without any visa for up to 30 days.
 
@@ -82,8 +79,6 @@ China has signed bilateral visa-free agreements with a growing number of countri
 **Important:** Some nationalities that have 15-day visa-free status are also eligible for 144-hour transit — the 15-day visa-free is more useful as it allows more flexibility (multiple cities, any exit point).
 
 ## Option 5: Port Visa on Arrival
-
-![Canglangting, Suzhou](/img/toolkit/china-visa-on-arrival-guide/2.webp)
 
 China does offer **visas on arrival** at specific ports for citizens of a small number of countries, primarily from countries that have reciprocal visa-on-arrival agreements with China. This is not a universal option — it applies to a very limited number of nationalities.
 

@@ -11,7 +11,6 @@ tags:
   - outdoor
   - packing
 description: "What to bring for hiking in China — the layering requirement for Yellow Mountain (Huangshan) where summit temperatures are 15°C cooler, what shoes are needed for the Zhangjiajie stone stairs, rain gear for Jiuzhaigou and Wulingyuan, and the gear you can buy cheaply in China (trekking poles, waterproof layers from Decathlon China) vs what to bring from home."
-ogImage: "/img/toolkit/china-hiking-gear-packing-list/cover.webp"
 ---
 
 Hiking in China runs the full spectrum — from the managed stone-staircase trails of Huangshan (where you can have hot noodles halfway up) to remote wilderness routes in Xinjiang and Sichuan where you genuinely won't see another person for days. What you need depends entirely on where you're going, but there are some China-specific gear considerations that apply to most mountain destinations.
@@ -19,8 +18,6 @@ Hiking in China runs the full spectrum — from the managed stone-staircase trai
 ## Table of contents
 
 ## The Most Important Thing: Temperature Swings
-
-![Wanli Great Wall Scenery](/img/toolkit/china-hiking-gear-packing-list/1.webp)
 
 China's famous mountain destinations — Huangshan, Zhangjiajie, Emei Shan, Tai Shan, Wutai Shan — all share one characteristic: the summit is significantly colder than the base. At Huangshan, the temperature difference between the base town of Tangkou and the summit area (1800m+) is typically 12–18°C. In October, the summit might be 4°C while the base is 22°C.
 
@@ -89,8 +86,6 @@ China has excellent outdoor gear available at significantly lower prices than in
 Electronics markets like Huaqiangbei in Shenzhen and the electronics sections of major Taobao pickup stores have affordable portable chargers, cables, and adapters if you need them.
 
 ## Day Pack Essentials for Mountain Day Hikes
-
-![Badalingshuiguan Great Wall Scenery, Beijing](/img/toolkit/china-hiking-gear-packing-list/2.webp)
 
 For a single day at Huangshan, Zhangjiajie, or similar:
 

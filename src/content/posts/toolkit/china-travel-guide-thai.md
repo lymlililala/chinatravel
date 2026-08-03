@@ -11,7 +11,6 @@ tags:
   - thai-travellers
   - southeast-asia
 description: "Thailand to China travel guide — Thai nationals' visa-free access to China, direct flights from Bangkok (Suvarnabhumi and Don Mueang), popular destinations among Thai tourists, Buddhist temple circuit recommendations, and practical tips for Thai visitors to China."
-ogImage: "/img/toolkit/china-travel-guide-thai/cover.webp"
 ---
 
 Thailand and China share a Buddhism connection that runs deeper than most bilateral relationships — and Chinese tourism to Thailand is massive in both directions. For Thai visitors, China offers something specific: a civilisation of comparable antiquity to their own, Buddhist heritage on a remarkable scale, and food that Thai palates tend to find more approachable than European visitors do.
@@ -23,8 +22,6 @@ The visa situation got much simpler with the mutual visa exemption arrangement. 
 ---
 
 ## Visa Rules for Thai Passport Holders
-
-![Wanli Great Wall Scenery](/img/toolkit/china-travel-guide-thai/1.webp)
 
 ### Visa-Free Entry
 
@@ -89,8 +86,6 @@ Thai Baht can be exchanged at Chinese airports and major banks, though rates are
 ---
 
 ## Popular Destinations Among Thai Visitors
-
-![Forbidden City Panorama Interior, Beijing](/img/toolkit/china-travel-guide-thai/2.webp)
 
 ### Yunnan Province
 

@@ -9,7 +9,7 @@ tags:
   - "tibet"
   - "minority-cultures"
 description: "Discover Tibetan spirituality through incense, rituals, and sacred sites. A guide to Buddhism, incense-making, and where to experience them in Tibet."
-ogImage: "https://images.pexels.com/photos/37413919/pexels-photo-37413919.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/tibetan-buddhism-incense-traditions-guide/cover.webp"
 faq:
   - question: "Do I need a special permit to visit Tibet?"
     answer: "Yes, all foreign travelers need a Tibet Travel Permit arranged through a registered tour agency. You also need a valid Chinese visa. Group tours are required for travel outside Lhasa."
@@ -39,6 +39,8 @@ Tibetan Buddhism is a unique fusion of Mahayana Buddhism with indigenous Bon tra
 
 ## The Art and History of Tibetan Incense
 
+![Spectacular Ali Scenery, Tibet](/img/destinations/tibetan-buddhism-incense-traditions-guide/1.webp)
+
 Tibetan incense has a history dating back to the 7th century, when the scholar-minister **Tönmi Sambhota (吞米·桑布扎, Tūnmǐ Sāngbùzhā)** is said to have created the first formulas for ritual use. Drawing on local resources like the cypress trees of Tunba Village, he developed a water-powered mill to grind wood into paste, and combined ingredients according to Tibetan medical principles. By the Qing Dynasty, Tibetan incense had become prized in the imperial court, described in the *Yanjing Suishiji* as a fragrance of nobility that filled palaces during the New Year.
 
 Modern incense-making still follows these ancient methods. Artisans select high-altitude ingredients—sandalwood, saffron, lemongrass, Himalayan pine, and herbs—then grind, mix, and extrude the paste into sticks. The process can involve over 37 steps, including sun-drying for ten days and aging the sticks in cellars to harmonize the scents. The result is a smoke that is low in ash and rich in therapeutic properties, used not only for offerings but also for meditation and healing.
@@ -46,6 +48,8 @@ Modern incense-making still follows these ancient methods. Artisans select high-
 ![Tibetan incense sticks drying in the sun, with snow-capped mountains in background](https://images.pexels.com/photos/37413919/pexels-photo-37413919.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Sacred Sites for Spiritual Travelers
+
+![Renwen Natural Landscape, Tibet](/img/destinations/tibetan-buddhism-incense-traditions-guide/2.webp)
 
 ### Lhasa: The Spiritual Heart
 
@@ -63,6 +67,8 @@ Modern incense-making still follows these ancient methods. Artisans select high-
 Considered the spiritual center of the universe by Buddhists, Hindus, and Jains, this sacred peak is the destination for a challenging **kora (pilgrimage circuit)**. The 52-km trek takes 3 days and is a profound physical and spiritual journey.
 
 ## Experiencing Incense Rituals
+
+![Mount Everest Peak Scenery, Tibet](/img/destinations/tibetan-buddhism-incense-traditions-guide/3.webp)
 
 Incense is central to Tibetan Buddhist practice. It is offered at shrines, during meditation, and as a daily purification of space. The four classic scents often found in high-quality Tibetan incense blends are:
 

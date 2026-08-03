@@ -11,7 +11,6 @@ tags:
   - food
   - destinations
 description: "China's tea culture for travellers — the six major tea types, the best tea-producing regions to visit (Longjing, Wuyi, Yunnan, Huangshan), tea ceremony experiences, how to buy quality tea without being scammed, and the cultural context behind Chinese tea traditions."
-ogImage: "/img/toolkit/china-tea-culture-guide/cover.webp"
 ---
 
 China is where tea was discovered, domesticated, and developed into a cultural practice of extraordinary complexity. The Chinese tea world recognises six types based on oxidation level, dozens of major regional varieties, and a 4,000-year history that connects everything from Tang dynasty tribute culture to Song dynasty competitive tea froth-whipping (the predecessor of Japanese matcha ceremony).
@@ -19,8 +18,6 @@ China is where tea was discovered, domesticated, and developed into a cultural p
 For travellers, China's tea culture offers both direct sensory pleasure — drinking excellent tea in the places where it's grown — and a window into the aesthetic sensibilities that underpin much of classical Chinese culture.
 
 ## The Six Types of Chinese Tea
-
-![Xingping, Guangxi, Yangshuo](/img/toolkit/china-tea-culture-guide/1.webp)
 
 **Green Tea (绿茶)**: Unoxidised — the most consumed category in China. Best-known varieties: Longjing (龙井, Dragon Well) from Hangzhou; Biluochun (碧螺春) from Suzhou; Huangshan Maofeng from Anhui; Xinyang Maojian from Henan.
 
@@ -59,8 +56,6 @@ The Xishuangbanna region and the ancient tea-horse road areas in southern Yunnan
 **Nannuo Mountain (南糯山)** near Menghai has a 800-year-old tea tree accessible to visitors. The Bulang (布朗族) and Dai (傣族) communities in this area maintain tea-growing traditions that predate the mainstream Pu'er commercial industry.
 
 ## Tea Ceremony Experiences
-
-![Forbidden City Bowuyuan, Taiwan, Taipei](/img/toolkit/china-tea-culture-guide/2.webp)
 
 **Gongfu Cha (功夫茶)**: The elaborate Chinese tea preparation method using small teapots (宜兴紫砂壶), tiny cups, bamboo tea trays with water drainage, and a specific sequence of rinses, pours, and tastings. It's both a preparation method and a meditative practice.
 

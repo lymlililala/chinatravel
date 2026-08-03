@@ -11,7 +11,6 @@ tags:
   - planning
   - june
 description: "China in early June — the Gaokao national university entrance exam (June 7-8) creates a remarkably quiet atmosphere in cities as families avoid unnecessary noise near exam venues, then the country erupts in celebration. Mid-June onwards is the start of summer heat and humidity in central and eastern China. Which destinations work well in June, and the Dragon Boat Festival timing."
-ogImage: "/img/toolkit/china-gaokao-exam-season-guide/cover.webp"
 ---
 
 June in China is a transitional month — the spring is ending, the summer heat is building, and the country goes through two culturally significant moments: the Gaokao university entrance examinations and the Dragon Boat Festival. For travellers, June offers a window of reasonable weather and lower crowds before the peak summer season kicks in, but it requires knowing which parts of China work and which are becoming uncomfortably hot and humid.
@@ -19,8 +18,6 @@ June in China is a transitional month — the spring is ending, the summer heat 
 ## Table of contents
 
 ## The Gaokao: China's Most Important Exam
-
-![Scenery, Anhui, Huangshan](/img/toolkit/china-gaokao-exam-season-guide/1.webp)
 
 The Gaokao (高考) — the National University Entrance Examination — takes place on June 7-8 every year across China. It's the single most consequential event in most Chinese students' lives, determining university placement in a society where educational credentials are deeply tied to life outcomes.
 
@@ -49,8 +46,6 @@ Best place to watch: **Miluo, Hunan** — the site of Qu Yuan's death has the mo
 **Travel impact:** The Dragon Boat Festival creates a moderate domestic tourism surge similar to Qingming — larger than a normal weekend, smaller than Golden Week. Book transport 2 weeks ahead.
 
 ## June Weather: Which China Works
-
-![Sea of Clouds Scenery, Huangshan](/img/toolkit/china-gaokao-exam-season-guide/2.webp)
 
 **The honest weather picture for June:**
 

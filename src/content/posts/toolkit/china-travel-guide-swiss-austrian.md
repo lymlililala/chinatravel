@@ -11,7 +11,6 @@ tags:
   - european-travellers
   - german-travellers
 description: "China travel guide for Swiss and Austrian passport holders — visa-free access (30 days for both nationalities), German-language preparation tips, direct flights from Zurich and Vienna, setting up Alipay, and recommended itineraries that combine China's mountains with its cities (for Swiss visitors drawn to mountain scenery)."
-ogImage: "/img/toolkit/china-travel-guide-swiss-austrian/cover.webp"
 ---
 
 Switzerland and Austria have a notably favourable entry arrangement with China — both nationalities enjoy **30-day visa-free access**, which is twice the allowance given to many other European countries. Combined with direct flights from Zurich and Vienna and German as a widely-taught language in China's German studies programs, Swiss and Austrian visitors to China will find a few helpful connections alongside all the expected contrasts.
@@ -23,8 +22,6 @@ For Swiss visitors particularly, China's mountain landscape deserves special men
 ---
 
 ## Visa Rules for Swiss and Austrian Passport Holders
-
-![Jinshanling Great Wall, Beijing](/img/toolkit/china-travel-guide-swiss-austrian/1.webp)
 
 ### 30-Day Visa-Free Entry
 
@@ -79,8 +76,6 @@ Transactions appear in CHF or EUR at current exchange rates plus foreign transac
 ---
 
 ## China's Mountains: A Swiss Visitor's Perspective
-
-![Yiyuanjie Scenery, Beijing, Suzhou](/img/toolkit/china-travel-guide-swiss-austrian/2.webp)
 
 Switzerland has 48 mountains above 4,000 metres. China has Tibet, where entire plateaus are at that altitude. The comparison isn't straightforward — the styles of mountain are completely different — but Swiss visitors tend to respond strongly to China's mountain landscapes.
 

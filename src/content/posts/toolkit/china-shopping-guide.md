@@ -11,7 +11,6 @@ tags:
   - planning
   - culture
 description: "What to buy in China, where to buy it authentically, how to avoid tourist traps, and how to claim your VAT refund at the airport."
-ogImage: "/img/toolkit/china-shopping-guide/cover.webp"
 ---
 
 China is one of the world's great shopping destinations — not just for cheap souvenirs, but for genuinely exceptional goods that represent centuries of craft tradition. The challenge is knowing where to look and how to avoid counterfeit or overpriced tourist-trap versions.
@@ -19,8 +18,6 @@ China is one of the world's great shopping destinations — not just for cheap s
 ## Table of contents
 
 ## Best Things to Buy in China
-
-![Wanli Great Wall Scenery](/img/toolkit/china-shopping-guide/1.webp)
 
 ### Tea (茶叶)
 
@@ -126,8 +123,6 @@ Notable Chinese brands worth exploring: **Exception (例外)**, **JNBY (江南�
 ---
 
 ## Bargaining Guide
-
-![Forbidden City Scenery, Beijing](/img/toolkit/china-shopping-guide/2.webp)
 
 **Where bargaining is expected:** Traditional markets, street stalls, small shops without price tags, souvenir areas.
 

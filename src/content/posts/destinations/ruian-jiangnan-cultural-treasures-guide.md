@@ -11,7 +11,7 @@ tags:
   - "east-china"
   - "UNESCO heritage"
 description: "Discover Ruian, a Jiangnan city where ancient oracle bones were first deciphered, blending rich history with a vibrant commercial spirit. Explore its cultural"
-ogImage: "https://images.pexels.com/photos/8661757/pexels-photo-8661757.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/ruian-jiangnan-cultural-treasures-guide/cover.webp"
 faq:
   - question: "Is Ruian safe for solo travelers?"
     answer: "Yes, Ruian is very safe, even at night. Petty crime is rare."
@@ -40,6 +40,8 @@ Ruian is a city of delightful contradictions. It's a top-30 county in China's ec
 In 1899, oracle bones—animal bones and turtle shells inscribed with ancient characters—were discovered in Henan. They were identified as divination records from the Shang dynasty (c. 1600–1046 BCE). The race to decode them began. In 1904, Sun Yirang (孙诒让, Sūn Yìràng), a reclusive scholar from Ruian, obtained a copy of the first oracle bone catalog, *Tieyun Canggui*. Locking himself in the family library, the **Yuhai Tower (玉海楼, Yùhǎi Lóu)**, he spent two months deciphering over 300 characters, publishing *Qiewen Juli* (契文举例). Although many of his interpretations were later corrected, his work laid the foundation for oracle bone studies. Today, Yuhai Tower stands as a testament to this intellectual feat.
 
 ## Top Sights in Ruian
+
+![Gudianmingyuanliu Garden Scenery, Suzhou](/img/destinations/ruian-jiangnan-cultural-treasures-guide/1.webp)
 
 ### Yuhai Tower (玉海楼)
 
@@ -73,6 +75,8 @@ For coastal scenery, take a ferry to Beiji Island, sometimes called "Ruian's Mal
 
 ## Getting There & Around
 
+![Shi Lake Scenery, Jiangsu, Suzhou](/img/destinations/ruian-jiangnan-cultural-treasures-guide/2.webp)
+
 ### By Air
 
 The nearest major airport is **Wenzhou Longwan International Airport (温州龙湾国际机场, Wēnzhōu Lóngwān Guójì Jīchǎng)**, about 40 km north of Ruian. From the airport, take a taxi (approx. 1 hour, ¥150-200) or a direct bus to Ruian city center.
@@ -92,6 +96,8 @@ Ruian's city center is walkable. For sights outside town, use **Didi** (China's 
 - **Luxury**: Ruian International Hotel – full-service, from ¥600/night.
 
 ## Food Highlights
+
+![Zhuozheng Garden, Suzhou](/img/destinations/ruian-jiangnan-cultural-treasures-guide/3.webp)
 
 Ruian's cuisine reflects its coastal and mountainous setting. Must-try dishes:
 

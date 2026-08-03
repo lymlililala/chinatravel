@@ -1,7 +1,6 @@
 ---
 title: "Yellow River Valley Travel Guide: Zhengzhou, Kaifeng and China's Mother River"
 description: "Guide to traveling the central Yellow River (黄河) valley in Henan Province. Zhengzhou's Yellow River scenic area, Kaifeng ancient capital, Sanmenxia's swan lake and the deep history of China's 'cradle of civilization'."
-ogImage: "/img/destinations/huanghe-yellow-river-valley-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["Yellow River", "Henan", "Zhengzhou", "Kaifeng", "Chinese civilization", "China history", "河南"]
@@ -10,8 +9,6 @@ tags: ["Yellow River", "Henan", "Zhengzhou", "Kaifeng", "Chinese civilization", 
 The Yellow River (黄河, Huánghé) is the cradle of Chinese civilization — the river valley where the first Chinese states emerged, where the earliest Chinese writing was carved in bone, and where the accumulated agricultural wisdom of the loess plateau created the food surplus that made complex civilization possible. Traveling the Yellow River valley in Henan Province is traveling through 5,000 years of Chinese history compressed into a single landscape.
 
 ## Zhengzhou and the Yellow River Scenic Area
-
-![Weimei Natural Scenery, Guangxi, Yangshuo](/img/destinations/huanghe-yellow-river-valley-guide/1.webp)
 
 Zhengzhou (郑州), the capital of Henan Province, sits 30 km south of the Yellow River's current channel (the river shifts its course over centuries). The **Yellow River Scenic Area (黄河风景名胜区)** north of the city is the most visited site along this stretch.
 
@@ -30,8 +27,6 @@ Zhengzhou (郑州), the capital of Henan Province, sits 30 km south of the Yello
 **Getting there**: Bus 16 from Zhengzhou Railway Station (30 minutes); or Didi (¥30–40)
 
 ## Kaifeng: The Song Dynasty Capital
-
-![Jiejing, Guangxi, Yangshuo](/img/destinations/huanghe-yellow-river-valley-guide/2.webp)
 
 Kaifeng (开封) was the capital of the Northern Song Dynasty (960–1127 AD) — the richest and most culturally sophisticated urban civilization in the world at that time. The city's population exceeded 1 million (comparable with Hangzhou and London combined); the first paper currency in world history was issued here; block printing technology enabled mass literacy; and urban culture (restaurants, teahouses, entertainments, professional artists) flourished on a scale that wouldn't be seen in Europe for another 300 years.
 
@@ -62,8 +57,6 @@ The **Swan Lake (天鹅湖)** nature reserve allows visitors to walk within 20�
 **Getting there**: High-speed train from Zhengzhou to Sanmenxia South (1 hour, ¥70); Didi from station to Swan Lake reserve (20 minutes, ¥25).
 
 ## Yellow River Food Culture
-
-![Huangyaguan Great Wall Scenery, Tianjin](/img/destinations/huanghe-yellow-river-valley-guide/3.webp)
 
 Henan cuisine (豫菜) is the foundation from which northern Chinese cooking developed. Key dishes in Kaifeng and Zhengzhou:
 

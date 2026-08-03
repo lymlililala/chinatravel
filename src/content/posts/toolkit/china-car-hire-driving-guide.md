@@ -11,7 +11,6 @@ tags:
   - toolkit
   - practical
 description: "Driving in China as a foreign visitor — the reality of using an international driving licence (which countries' licences are recognised and which aren't), car hire (Shouqi and BAIC are the main foreigner-friendly agencies), GPS apps that work (Gaode Maps essential, not Google), traffic rules that differ from Western norms, and the specific provinces where self-driving is most practical vs impossible."
-ogImage: "/img/toolkit/china-car-hire-driving-guide/cover.webp"
 ---
 
 Self-driving in China is more complicated than in most countries, but it's absolutely possible — and for certain regions (rural Yunnan, western Sichuan, the Silk Road in Gansu and Xinjiang), it unlocks a level of exploration that no train or bus schedule can match. The key is understanding the licence situation honestly, planning your navigation app setup before you arrive, and knowing which areas genuinely welcome self-drive tourists vs which are administratively difficult.
@@ -19,8 +18,6 @@ Self-driving in China is more complicated than in most countries, but it's absol
 ## Table of contents
 
 ## The International Driving Licence Reality
-
-![Ruiguang Pagoda Scenery, Suzhou](/img/toolkit/china-car-hire-driving-guide/1.webp)
 
 Here's the honest answer: **China does not recognize the standard International Driving Permit (IDP)** issued by most countries, regardless of what the IDP booklet claims about its validity. The IDP system that works in Europe and the Americas does not apply in mainland China.
 
@@ -65,8 +62,6 @@ If you're a foreign national legally eligible to drive (resident with a Chinese 
 **Key setup**: Download Gaode Maps before entering mainland China. Download offline maps for your driving regions (much faster and data-free). Set language to English in settings.
 
 ## Traffic Rules That Differ from Western Norms
-
-![Luzhi Old Town, Suzhou](/img/toolkit/china-car-hire-driving-guide/2.webp)
 
 Even if you have a valid licence, Chinese traffic rules have differences worth knowing:
 

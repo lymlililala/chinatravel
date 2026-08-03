@@ -10,14 +10,11 @@ tags:
   - tantan china
   - meet locals china
 description: "Navigate China's unique dating app landscape as a foreigner in 2026. This guide covers Tantan, Momo, Blued, Soul, and other popular platforms, explains how WeChat-based socialising works, provides safety tips, cultural context for dating in China, and practical advice on building genuine connections whether you are looking for romance, friendship, or language exchange partners."
-ogImage: "/img/toolkit/china-dating-apps-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## Why Dating Apps in China Are Different
-
-![Landscape Scenery, Zhangjiajie](/img/toolkit/china-dating-apps-guide/1.webp)
 
 If you are coming from the West, the Chinese dating app ecosystem will feel simultaneously familiar and completely foreign. Yes, there are swipe-based interfaces and profile photos. But the social dynamics, communication patterns, and cultural expectations around dating in China are fundamentally different from what Tinder or Bumble conditioned you to expect.
 
@@ -120,8 +117,6 @@ If things get serious, meeting the parents happens much earlier in Chinese relat
 Public displays of affection are more restrained in China than in the West, though norms are shifting rapidly among younger urbanites. Holding hands is fine; passionate kissing on the street will draw stares and make your partner uncomfortable. Read your partner's comfort level and follow their lead.
 
 ## Safety Tips for Foreigners
-
-![Shilihualang Scenery, Zhangjiajie, Hunan](/img/toolkit/china-dating-apps-guide/2.webp)
 
 ### Common Scams
 

@@ -12,7 +12,7 @@ tags:
   - "itinerary"
   - "food"
 description: "Firsthand account of a multi-day cycling trip from Xi'an to Chongqing via the Qinling Mountains, with tips on routes, food, and cultural stops for adventurous"
-ogImage: "https://images.pexels.com/photos/10672908/pexels-photo-10672908.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/sichuan-chongqing-cycling-adventure-guide/cover.webp"
 faq:
   - question: "Do I need a special visa for this cycling trip?"
     answer: "Most foreigners need a tourist (L) visa. If you're transiting through Xi'an or Chongqing, check if you qualify for 144-hour visa-free transit. Apply at least a month in advance at your local Chinese embassy."
@@ -39,6 +39,8 @@ The Qinling range is China's geographical north-south divide. Pedaling through i
 Spring (April-May) and autumn (September-October) are ideal. Summer can be rainy and humid; winter brings snow and ice at higher elevations. The rider in our reference started in May and encountered rain, so pack waterproofs regardless of season.
 
 ## Getting There
+
+![Baodingshan Stone Carving, Chongqing](/img/destinations/sichuan-chongqing-cycling-adventure-guide/1.webp)
 Fly into Xi'an Xianyang International Airport (XIY). Budget airlines like China Eastern often have fares under ¥700. Bicycles fly as checked luggage (20kg included). At Xi'an airport, you cannot assemble your bike inside the terminal. Take bus #802 to Konggang International Business Center (空港国际商务中心) for ¥2, then assemble on the sidewalk. Alternatively, take a taxi to a nearby park.
 
 ## Route Overview: Xi'an to Chongqing (approx. 700km, 7-10 days)
@@ -95,6 +97,8 @@ Fly into Xi'an Xianyang International Airport (XIY). Budget airlines like China 
 - **Accommodation**: Small towns have guesthouses (招待所) or hotels (酒店). Prices range ¥50-150. Always ask to see the room first.
 
 ## Food Along the Route
+
+![Jinyun Mountain Scenery, Chongqing](/img/destinations/sichuan-chongqing-cycling-adventure-guide/2.webp)
 This trip is a gastronomic adventure. Key dishes to try:
 - **Yangling Belt Noodles (杨凌蘸水面)**: Thick, chewy noodles dipped in a tomato-egg-chili sauce.
 - **Saozi Noodles (臊子面)**: Minced pork, tofu, and vegetables in a spicy broth—a Shaanxi classic.
@@ -108,6 +112,8 @@ This trip is a gastronomic adventure. Key dishes to try:
 - **Luxury**: In Xi'an and Chongqing, international chains like Holiday Inn or local boutique hotels (¥300+).
 
 ## Costs (Per Day, Budget Cyclist)
+
+![Tianfuguosheyingyi, Sichuan, Chengdu](/img/destinations/sichuan-chongqing-cycling-adventure-guide/3.webp)
 | Item | Cost (¥) |
 |------|----------|
 | Accommodation | 50-150 |

@@ -32,13 +32,13 @@ Step back in time in China's lesser-known ancient towns, where history and local
 
 ## Why Go Off the Beaten Path?
 
-![Ruiguang Pagoda Scenery, Suzhou](/img/destinations/hidden-ancient-towns-china-guide/1.webp)
+![Baomo Garden, Guangdong, Guangzhou](/img/destinations/hidden-ancient-towns-china-guide/1.webp)
 
 China's famous ancient towns like Lijiang and Pingyao draw millions, but their commercialism can dilute authenticity. For travelers seeking genuine encounters with history, daily life, and local traditions, the country's lesser-known ancient towns offer a more intimate and rewarding experience. These places preserve centuries-old architecture, crafts, and customs without the crowds, allowing you to connect with China's rich cultural tapestry on your own terms.
 
 ## Huizhou: The Lost City of Ink and Poetry
 
-![Luzhi Old Town, Suzhou](/img/destinations/hidden-ancient-towns-china-guide/2.webp)
+![Nanyueyuan Scenery, Guangdong, Guangzhou](/img/destinations/hidden-ancient-towns-china-guide/2.webp)
 
 Tucked away in the mountains of southern Anhui, the historical region of Huizhou (徽州, Huī Zhōu) once encompassed six counties including Shexian, Yixian, and Wuyuan (now in Jiangxi). In the 1980s, the city name "Huizhou" was replaced by "Huangshan" after the famous mountain, but the cultural identity endures. This is the birthplace of **Huizhou ink** (徽墨, huī mò), one of the Four Treasures of the Study, and a landscape that inspired poets like Li Bai and artists like Fan Kuan.
 
@@ -82,7 +82,7 @@ Take a high-speed train from Guangzhou South to Shaoguan (about 30 minutes). Fro
 
 ## Yuhang: Zen, Bamboo, and Ancient Paths
 
-![Pan Gate, Suzhou](/img/destinations/hidden-ancient-towns-china-guide/3.webp)
+![Chenjiaci, Guangdong, Guangzhou](/img/destinations/hidden-ancient-towns-china-guide/3.webp)
 
 Yuhang District (余杭区, Yú Háng Qū) in Hangzhou is often overlooked by visitors rushing to West Lake. Yet it holds some of the region's most profound cultural sites: **Jingshan Temple** (径山寺, Jìng Shān Sì), the birthplace of Japanese tea ceremony and Zen Buddhism; the **Liangzhu Archaeological Site** (良渚古城, Liáng Zhǔ Gǔ Chéng), a UNESCO World Heritage site dating back 5,000 years; and the **Jingshan Ancient Path** (径山古道, Jìng Shān Gǔ Dào), a scenic hiking trail used by poets like Su Shi.
 

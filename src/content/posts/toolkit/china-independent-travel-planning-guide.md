@@ -11,7 +11,6 @@ tags:
   - independent-travel
   - china
 description: "Planning a first independent trip to China involves more preparation than most destinations — visa applications, digital payment setup, VPN configuration, train booking, and permit requirements for some regions. This comprehensive guide walks through every step in the correct order."
-ogImage: "/img/toolkit/china-independent-travel-planning-guide/cover.webp"
 ---
 
 China rewards independent travellers who prepare properly. The preparation overhead is higher than for most Western destinations, but it's not difficult — it's a checklist. This guide goes through every step in the order you should do it, from the moment you decide to go to the moment you board your departure flight.
@@ -19,8 +18,6 @@ China rewards independent travellers who prepare properly. The preparation overh
 ## Table of contents
 
 ## Step 1: Determine Your Visa Needs (8–12 Weeks Before Travel)
-
-![Zhongyuan Temple Scenery, Suzhou](/img/toolkit/china-independent-travel-planning-guide/1.webp)
 
 Start with visa requirements because they set the timeline for everything else.
 
@@ -77,8 +74,6 @@ Chinese train tickets become available exactly 30 days before travel. For popula
 - Book sleepers first as they sell out fastest
 
 ## Step 7: Book Timed Attraction Tickets (2–4 Weeks Before)
-
-![West Lake Hupao Spring, Hangzhou](/img/toolkit/china-independent-travel-planning-guide/2.webp)
 
 Several major attractions require advance booking:
 - **Forbidden City (Beijing):** Must book online, no walk-up sales

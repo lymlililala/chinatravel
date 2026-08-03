@@ -12,14 +12,11 @@ tags:
   - vegetarian
   - visa
 description: "The essential China travel guide for Indian citizens in 2026, covering visa application procedures specific to Indian passport holders, finding vegetarian and Jain-friendly food in China, flight connections from Indian cities, cultural similarities and differences between Indian and Chinese civilisation, and practical tips for Indian travellers navigating a country that shares Asia but operates very differently from India."
-ogImage: "/img/toolkit/china-travel-guide-indian/cover.webp"
 ---
 
 ## Table of contents
 
 ## Two Ancient Civilisations, One Practical Guide
-
-![Forbidden City Panorama Interior, Beijing](/img/toolkit/china-travel-guide-indian/1.webp)
 
 India and China are the world's two oldest continuous civilisations, neighbours across the Himalayas, and yet most Indians know remarkably little about China beyond headlines and stereotypes. The reality of travelling in China is very different from what Indian media portrays — it's clean, organised, and remarkably modern, with infrastructure that often surpasses anything in India.
 
@@ -198,8 +195,6 @@ Based on approximate exchange rate of 1 INR = 0.084 CNY:
 | **Total** | **₹3,800-7,300** | **₹9,100-17,300** |
 
 ## Internet and Communication
-
-![Jinshanling Great Wall, Beijing](/img/toolkit/china-travel-guide-indian/2.webp)
 
 ### VPN
 

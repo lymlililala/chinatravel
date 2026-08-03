@@ -9,7 +9,6 @@ tags:
   - "summer"
   - "destinations"
 description: "Discover the most stunning lotus-viewing destinations across China, from classic parks to hidden gems, perfect for a summer day trip."
-ogImage: "/img/destinations/best-lotus-viewing-china-summer-guide/cover.webp"
 faq:
   - question: "What is the best time of day to see lotus flowers?"
     answer: "Early morning (6–8 AM) is ideal because the flowers are fully open, temperatures are cooler, and crowds are smaller. Lotus flowers close in the afternoon heat."
@@ -28,8 +27,6 @@ Summer in China brings intense heat and sudden rainstorms, but also one of natur
 ## Table of contents
 
 ## Top Lotus-Viewing Destinations
-
-![Zhuozheng Garden, Suzhou](/img/destinations/best-lotus-viewing-china-summer-guide/1.webp)
 
 ### 1. West Lake (西湖, Xī Hú), Hangzhou, Zhejiang
 West Lake is arguably China's most famous lotus spot. The curved causeways and ancient pagodas frame endless lotus blooms from late June to August. The best viewing area is along **Bai Causeway** (白堤) and near **Quyuan Fenghe** (曲院风荷), a park dedicated to lotus and wine culture.
@@ -133,8 +130,6 @@ Most lotus parks charge ¥10–50 admission. Some require advance booking via We
 
 ## Where to Stay
 
-![Canglangting, Suzhou](/img/destinations/best-lotus-viewing-china-summer-guide/2.webp)
-
 For the best lotus experience, stay near the lake or park:
 - **Hangzhou**: Shangri-La Hotel (West Lake view) or budget hostels near Qinghefang.
 - **Wuhan**: East Lake Hotel (within the scenic area) or city center hotels near Metro Line 8.
@@ -149,8 +144,6 @@ Lotus is edible in many forms:
 Look for these at local restaurants or street stalls near lotus destinations.
 
 ## Costs Overview
-
-![River Scenery, Suzhou](/img/destinations/best-lotus-viewing-china-summer-guide/3.webp)
 
 | Item | Estimated Cost (¥) |
 |------|-------------------|

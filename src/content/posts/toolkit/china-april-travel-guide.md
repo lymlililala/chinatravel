@@ -1,7 +1,6 @@
 ---
 title: "China in April: Best Places to Visit, Cherry Blossoms & Qingming Festival"
 description: "Where to travel in China in April 2026 — cherry blossoms in Wuhan, Guizhou rapeseed flowers, Qingming Festival traditions, ideal spring weather destinations, and what to avoid. Complete April travel guide."
-ogImage: "/img/toolkit/china-april-travel-guide/cover.webp"
 pubDatetime: 2026-05-15T08:00:00Z
 heroImage: "/destinations/china-april-spring.jpg"
 category: "toolkit"
@@ -18,8 +17,6 @@ The temperatures are mild across most of the country, rain is moderate, and the 
 The main challenge of April travel in China: Qingming Festival (清明节), which falls on April 4-6 and brings a 3-day national holiday. During this period, travel is extremely busy on certain routes (rail bookings sell out weeks in advance) and popular parks and natural attractions are packed with domestic tourists.
 
 ## Qingming Festival: Understanding the Holiday
-
-![Shi Lake Scenery, Jiangsu, Suzhou](/img/toolkit/china-april-travel-guide/1.webp)
 
 Qingming (清明, "clear and bright") is the traditional Chinese festival for honoring ancestors — families visit grave sites to clean them, burn paper offerings, and pay respects. It's one of China's most personally significant festivals, with deep family and cultural weight.
 
@@ -101,8 +98,6 @@ April weather in Shanghai (18-24°C, occasional rain) is excellent. The French C
 April is a reliable season for the Li River area — good weather before summer's hot humidity. The rice terraces at Longji begin showing green in April (planting season).
 
 ## What to Avoid in April
-
-![Zhongyuan Temple Scenery, Jiangsu, Suzhou](/img/toolkit/china-april-travel-guide/2.webp)
 
 **Crowded times**:
 - **Qingming Festival weekend** at major parks and scenic areas

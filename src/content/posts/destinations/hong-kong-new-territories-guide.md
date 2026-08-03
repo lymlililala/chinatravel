@@ -18,7 +18,7 @@ Most Hong Kong visitors concentrate on the urban core: Central, Tsim Sha Tsui, M
 
 ## The Maclehose Trail
 
-![Landscape Scenery, Zhangjiajie](/img/destinations/hong-kong-new-territories-guide/1.webp)
+![Scenery, Hong Kong](/img/destinations/hong-kong-new-territories-guide/1.webp)
 
 The Maclehose Trail (麥理浩徑) is a 100km walking trail crossing the New Territories from Sai Kung to Tuen Mun — one of the world's great urban hiking routes, passing through uninhabited ridgelines with views over both the South China Sea and the Pearl River Estuary.
 
@@ -30,7 +30,7 @@ The Maclehose Trail (麥理浩徑) is a 100km walking trail crossing the New Ter
 
 ## Sai Kung Peninsula
 
-![Shilihualang Scenery, Zhangjiajie, Hunan](/img/destinations/hong-kong-new-territories-guide/2.webp)
+![Haiyang Park Landscape, Hong Kong](/img/destinations/hong-kong-new-territories-guide/2.webp)
 
 Sai Kung (西貢) is Hong Kong's most scenic area — a peninsula with no road access to many sections, white sandy beaches, uninhabited islands, and the seafood village of Sai Kung Town.
 
@@ -48,7 +48,7 @@ The New Territories has 12,000-year-old settlement history and several extraordi
 
 ## Mai Po Nature Reserve
 
-![Tianzi Mountain Scenery, Zhangjiajie, Hunan](/img/destinations/hong-kong-new-territories-guide/3.webp)
+![Landscape Zonghe, Hong Kong](/img/destinations/hong-kong-new-territories-guide/3.webp)
 
 The Mai Po marshes at the northwestern tip of the New Territories — adjacent to the mainland border — are one of Asia's most important wetland bird sites, particularly for winter migratory species (October–April).
 

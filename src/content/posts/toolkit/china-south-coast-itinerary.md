@@ -11,7 +11,6 @@ tags:
   - guangdong
   - toolkit
 description: "South China 2-week itinerary — Guangzhou for Cantonese food and markets (3 days), day trip to Foshan, Shenzhen for tech and modernity (2 days), Hong Kong for the skyline and hiking (3 days), Macau day trip, Zhuhai for Chimelong (1 day), and flying to Sanya/Hainan for beach time (3-4 days). Train and flight connections."
-ogImage: "/img/toolkit/china-south-coast-itinerary/cover.webp"
 ---
 
 South China's Pearl River Delta region is one of the most interesting areas in the country for urban travellers — a cluster of distinct cities each with their own identity, connected by one of the world's most efficient metro and high-speed rail networks. Adding Hong Kong and a Hainan beach tail makes a two-week itinerary that ranges from Cantonese food culture to colonial architecture to subtropical islands.
@@ -21,8 +20,6 @@ This itinerary works year-round but is best in October-April, when humidity drop
 ## Table of contents
 
 ## The Route
-
-![Qinshi Imperial Tomb Terracotta Army](/img/toolkit/china-south-coast-itinerary/1.webp)
 
 **Guangzhou (3 days) → Foshan day trip → Shenzhen (2 days) → Hong Kong (3 days) → Macau day trip → Zhuhai (1 day) → Sanya/Hainan (3-4 days)**
 
@@ -87,8 +84,6 @@ Return to Hong Kong by ferry in the afternoon.
 **Return to mainland China:** Ferries from Hong Kong's Skyline Ferry Terminal directly to Zhuhai and other Pearl River Delta cities (1-1.5 hours, ¥180-250). Or high-speed train back through Shenzhen.
 
 ## Day 9: Zhuhai (珠海) — Chimelong Ocean Kingdom
-
-![Great Wall Lao City Wall](/img/toolkit/china-south-coast-itinerary/2.webp)
 
 Chimelong Ocean Kingdom is China's largest marine theme park and ranks among the world's top theme parks by attendance. Entry is expensive (¥378-428 adult) but the scale is extraordinary — white beluga whales, whale sharks in a tank the size of an aircraft hangar, and polar regions display.
 

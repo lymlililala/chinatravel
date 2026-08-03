@@ -11,7 +11,6 @@ tags:
   - student
   - long-term
 description: "Studying in China as a foreign student — the top universities for international students (Peking University, Tsinghua, Fudan, Shanghai Jiao Tong), the student visa (X visa) application process, scholarship options (CSC scholarship covers tuition and accommodation), student life in Beijing vs Shanghai, and what it's like to learn Mandarin in a fully immersive environment."
-ogImage: "/img/toolkit/china-study-abroad-guide/cover.webp"
 ---
 
 China hosts more than 500,000 international students annually, making it one of the top five destinations globally for studying abroad. The combination of low tuition costs, significant scholarship availability, and the experience of learning Mandarin in an immersive environment draws students from every continent.
@@ -21,8 +20,6 @@ Here's a realistic guide to what studying in China involves, from choosing your 
 ## Table of contents
 
 ## Top Universities for International Students
-
-![Forbidden City Scenery, Beijing](/img/toolkit/china-study-abroad-guide/1.webp)
 
 **Peking University (北京大学, PKU):** China's most prestigious university, in northwest Beijing's university district (Haidian). The campus is genuinely beautiful — traditional architecture around an ornamental lake. Strong across all disciplines, excellent for humanities, law, and economics. International programs in English available at undergraduate and postgraduate level.
 
@@ -86,8 +83,6 @@ For students funding themselves:
 **Realistic monthly budget:** ¥2,500-4,500 living costs without accommodation, or ¥3,500-7,000 including dormitory. This is well below comparable costs in Europe, Australia, or North America.
 
 ## Beijing vs Shanghai for International Students
-
-![Forbidden City Panorama Interior, Beijing](/img/toolkit/china-study-abroad-guide/2.webp)
 
 **Beijing:**
 - The political and cultural capital — if you're studying history, politics, Chinese language, or any humanities subject, Beijing offers unparalleled context

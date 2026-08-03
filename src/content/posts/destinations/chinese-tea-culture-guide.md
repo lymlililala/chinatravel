@@ -10,7 +10,7 @@ tags:
   - "fujian"
   - "zhejiang"
 description: "Explore China's tea culture from ancient mountains to modern ceremonies. Discover top teas, where to try them, and how to buy authentic leaves as souvenirs."
-ogImage: "https://images.pexels.com/photos/32454737/pexels-photo-32454737.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/chinese-tea-culture-guide/cover.webp"
 faq:
   - question: "What is the best way to brew Chinese tea as a beginner?"
     answer: "Start with a simple gaiwan (lidded bowl) or a glass cup. Use about 3 grams of tea per 150ml of water. For green tea, use water around 80°C (not boiling) to avoid bitterness. For oolong and black tea, use 100°C boiling water. Steep for 1–3 minutes, adjusting to taste."
@@ -35,6 +35,8 @@ Tea in China is more than a beverage; it's a philosophy. The ancient practice of
 ![A traditional Chinese tea ceremony with a Yixing clay teapot and small cups](https://images.pexels.com/photos/8951983/pexels-photo-8951983.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Six Main Tea Types
+
+![Tailao Mountain Scenery, Fujian](/img/destinations/chinese-tea-culture-guide/1.webp)
 
 China classifies tea into six categories based on oxidation and processing. Here's a quick primer:
 
@@ -73,6 +75,8 @@ Fuding (福鼎) is the heart of white tea production. The finest is Baihao Yinzh
 
 ## Where to Experience Tea Culture
 
+![West Lake Scenery, Hangzhou](/img/destinations/chinese-tea-culture-guide/2.webp)
+
 ### Tea Houses (茶馆, cháguǎn)
 - **Chengdu**: Renmin Park's Heming Teahouse (鹤鸣茶社) is iconic. Sit under bamboo shade, order a cup of jasmine tea, and watch locals play mahjong.
 - **Hangzhou**: Lakeside tea houses offer Longjing with views of West Lake.
@@ -105,6 +109,8 @@ Fuding (福鼎) is the heart of white tea production. The finest is Baihao Yinzh
 - **Luxury tea**: ¥1000+ per 500g (e.g., Da Hong Pao, old tree Pu'er).
 
 ## Practical Tips for Travelers
+
+![Dashanshenchu Red Soil Gengdi, Yunnan](/img/destinations/chinese-tea-culture-guide/3.webp)
 
 ### Best Time to Visit
 - **Spring (March–May)**: Ideal for green and white tea harvests. Visit Hangzhou, Fujian, or Yunnan.

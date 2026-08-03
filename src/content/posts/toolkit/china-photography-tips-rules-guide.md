@@ -10,7 +10,6 @@ faq:
   - question: "Can I take photos of people in China?"
     answer: "Street photography is generally fine, but it's polite to ask before taking close portraits, especially of ethnic-minority residents, monks or vendors. Some people may expect a small payment for posing. Be respectful and stop if someone declines."
 description: "Complete guide to photography rules in China for tourists. What's allowed at the Forbidden City, temples and tourist sites. What's prohibited near military, airports and sensitive areas. Camera gear tips."
-ogImage: "/img/toolkit/china-photography-tips-rules-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["photography China", "China travel photography", "camera tips", "China photography rules", "tourist photography"]
@@ -19,8 +18,6 @@ tags: ["photography China", "China travel photography", "camera tips", "China ph
 China is one of the world's most photogenic countries — and one with specific rules about what you can photograph and where. Most tourist photography is completely unrestricted, but a few zones require careful attention. This guide covers the rules, the restrictions, and practical tips for getting the best shots.
 
 ## What You Can Freely Photograph
-
-![Zhongyuan Temple Scenery, Suzhou](/img/toolkit/china-photography-tips-rules-guide/1.webp)
 
 **Landscapes and natural scenery**: The Li River karst peaks, Zhangjiajie's sandstone pillars, the Tiger Leaping Gorge, the Yangzi River at dawn, the rice terraces of Yunnan — all unrestricted. There are no permit requirements for landscape photography at virtually any of China's natural parks or scenic areas.
 
@@ -79,8 +76,6 @@ Drones are heavily regulated in China.
 ---
 
 ## Camera Gear Tips for China
-
-![West Lake Landscape, Hangzhou](/img/toolkit/china-photography-tips-rules-guide/2.webp)
 
 **Pollution and dust**: Northern China (Beijing, Lanzhou, Xi'an) can have severe air quality days; bring a UV filter to protect lenses from fine particles. The sensor cleaning will thank you.
 

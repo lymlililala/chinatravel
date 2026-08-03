@@ -11,7 +11,7 @@ tags:
   - "itinerary"
   - "photography"
 description: "Discover Xinjiang's summer beauty: lush grasslands, blooming flower seas, seasonal roads, and vibrant bazaars. A complete guide for international travelers."
-ogImage: "https://images.pexels.com/photos/4242688/pexels-photo-4242688.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/xinjiang-summer-travel-guide/cover.webp"
 faq:
   - question: "What is the best time to visit Xinjiang in summer?"
     answer: "The best time is from June to September. June–July offers lush grasslands and lavender blooms; July–August is peak for canola flowers and fruits; September has cooler weather and harvest season. Seasonal roads like the Duku Highway typically open in June and close in October."
@@ -62,6 +62,8 @@ Xinjiang is home to some of China's most pristine forests. In summer, they offer
 
 ## Seasonal Roads: Summer-Only Adventures
 
+![Renwenjingguan, Xinjiang](/img/destinations/xinjiang-summer-travel-guide/1.webp)
+
 Some of Xinjiang's most spectacular roads are only open for a few months each year, making summer the only time to experience them.
 
 ### Duku Highway (独库公路, Dúkù Gōnglù)
@@ -85,6 +87,8 @@ Summer is also an excellent time to explore Xinjiang's rich history. The dry cli
 For more on Xinjiang's cultural sites, see our [culture in China](/tags/culture) guide.
 
 ## Practical Information for International Travelers
+
+![Winter Beijiang Snow Scenery](/img/destinations/xinjiang-summer-travel-guide/2.webp)
 
 ### Best Time to Visit
 
@@ -147,6 +151,8 @@ Summer is the season for Xinjiang's famous fruits and street food.
 For more food recommendations, see our [food in China](/tags/food) guide.
 
 ## Suggested Itinerary: 7 Days in Summer
+
+![Scenery, Xinjiang, Yili](/img/destinations/xinjiang-summer-travel-guide/3.webp)
 
 **Day 1-2: Urumqi**
 - Visit Xinjiang Museum (see the "Loulan Beauty" mummy).

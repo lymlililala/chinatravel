@@ -1,7 +1,6 @@
 ---
 title: "Group Tour vs Independent Travel in China: Which is Right for You in 2026?"
 description: "Honest comparison of guided group tours versus self-guided independent travel in China. Covers costs, language barriers, Tibet permits, time efficiency, and what type of traveler suits each option."
-ogImage: "/img/toolkit/china-group-tour-vs-independent-travel/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["China travel planning", "group tour", "independent travel", "travel tips", "Tibet", "budget travel"]
@@ -10,8 +9,6 @@ tags: ["China travel planning", "group tour", "independent travel", "travel tips
 Every year, hundreds of thousands of foreign tourists face the same question before their China trip: should I book a group tour or travel independently? Both have genuine advantages, and the right answer depends on your experience level, destination list, available time and budget. This guide gives an honest breakdown.
 
 ## The Independent Travel Case
-
-![Luzhi Old Town, Suzhou](/img/toolkit/china-group-tour-vs-independent-travel/1.webp)
 
 **Advantages**
 
@@ -88,8 +85,6 @@ This gives you Tibet access while preserving the freedom and cost savings of ind
 ---
 
 ## Cost Comparison for 2 Weeks (Beijing to Shanghai Loop)
-
-![Wangshi Garden Scenery, Suzhou](/img/toolkit/china-group-tour-vs-independent-travel/2.webp)
 
 ### Independent Travel Budget
 - High-speed rail (Beijing–Xian–Chengdu–Shanghai): ¥1,200

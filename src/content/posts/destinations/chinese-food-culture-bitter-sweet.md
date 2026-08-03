@@ -9,7 +9,7 @@ tags:
   - "guangdong"
   - "sichuan"
 description: "Discover China's love for bitter foods like bitter melon and herbal tea, then indulge in sweet summer fruits like milky melon and lychee. A journey through"
-ogImage: "https://images.pexels.com/photos/28697606/pexels-photo-28697606.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/chinese-food-culture-bitter-sweet/cover.webp"
 faq:
   - question: "Is bitter food safe for foreigners?"
     answer: "Yes, traditional bitter foods like bitter melon and herbal tea are safe. However, avoid any food that tastes unusually bitter or spoiled, as it may indicate toxicity."
@@ -35,6 +35,8 @@ Bitterness is arguably the most complex of the five tastes. In nature, it often 
 
 ## China's "Bitter Champions": A Regional Tour
 
+![Baomo Garden, Guangdong, Guangzhou](/img/destinations/chinese-food-culture-bitter-sweet/1.webp)
+
 ### Guangdong: The Undisputed King of Bitter
 
 If any province deserves the title of "most bitter-eating," it's Guangdong. Here, bitter melon (苦瓜, kǔ guā) is so beloved it's renamed "cool melon" (凉瓜, liáng guā). It appears in everything from stir-fries with beef to stuffed with minced pork and soups. The Cantonese don't try to remove the bitterness; they embrace it, believing the initial bitterness gives way to a sweet aftertaste.
@@ -55,6 +57,8 @@ In Hunan, known for its fiery cuisine, bitterness comes from fermented black bea
 
 ## Sweet Relief: China's Summer Fruits
 
+![Nanyueyuan Scenery, Guangdong, Guangzhou](/img/destinations/chinese-food-culture-bitter-sweet/2.webp)
+
 After exploring bitterness, it's time for sweetness. China's summer offers an incredible variety of fruits, from the iconic lychee to the lesser-known but equally delightful milky melon.
 
 ### Lychee: The Imperial Favorite
@@ -70,6 +74,8 @@ From the arid deserts of Gansu comes the milky melon (民勤蜜瓜, Mínqín mì
 ![A halved golden melon with orange flesh on a wooden table](https://images.pexels.com/photos/6085086/pexels-photo-6085086.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Practical Tips for Travelers
+
+![Tianfuguosheyingyi, Sichuan, Chengdu](/img/destinations/chinese-food-culture-bitter-sweet/3.webp)
 
 ### Best Time to Visit
 For the full bitter-sweet experience, visit between June and August. This is when summer heat peaks and bitter foods are most prevalent, and it's also the prime season for lychees and milky melons.

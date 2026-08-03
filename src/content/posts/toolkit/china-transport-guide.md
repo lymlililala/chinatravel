@@ -11,7 +11,6 @@ tags:
   - metro
   - toolkit
 description: "China's high-speed rail network is the world's largest. Here is exactly how to book tickets, navigate stations, and travel between cities like a local — even without Mandarin."
-ogImage: "/img/toolkit/china-transport-guide/cover.webp"
 ---
 
 China's transport infrastructure is genuinely world-class. The high-speed rail network covers almost every major city, metros are fast and cheap, and ride-hailing apps mean taxis are a tap away. This guide covers everything you need to move around confidently.
@@ -19,8 +18,6 @@ China's transport infrastructure is genuinely world-class. The high-speed rail n
 ## Table of contents
 
 ## High-Speed Trains (高铁, Gāotiě)
-
-![Xingping, Guangxi, Yangshuo](/img/toolkit/china-transport-guide/1.webp)
 
 China's **CR400 bullet trains** regularly hit 350 km/h, making journeys like Beijing–Shanghai (1,200 km) a 4-hour trip. For distances under ~1,200 km, trains are almost always faster door-to-door than flying, once you account for airport check-in and baggage claim.
 
@@ -114,8 +111,6 @@ As mentioned in our [Apps Guide](/posts/toolkit/china-internet-apps-guide/), **D
 ---
 
 ## Domestic Flights
-
-![Wanli Great Wall Scenery](/img/toolkit/china-transport-guide/2.webp)
 
 For distances over 1,200 km (e.g., Beijing to Kunming, or Shanghai to Lhasa), flying may save time. China has:
 - Excellent domestic airlines: Air China, China Eastern, China Southern

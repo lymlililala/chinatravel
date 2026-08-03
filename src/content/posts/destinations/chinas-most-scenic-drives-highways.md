@@ -11,7 +11,7 @@ tags:
   - "sichuan"
   - "northwest-china"
 description: "Explore China's breathtaking landscapes along scenic highways like G334 in Jilin and the Sichuan-Tibet Highway, from wetlands to high-altitude grasslands"
-ogImage: "https://images.pexels.com/photos/15528406/pexels-photo-15528406.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/chinas-most-scenic-drives-highways/cover.webp"
 faq:
   - question: "Do I need a special permit to drive on these highways?"
     answer: "No special permit is needed for G334 or G318 to Litang, but you need a valid Chinese driver's license or IDP with translation."
@@ -30,6 +30,8 @@ China's vast and varied landscapes are best experienced on the open road. From t
 ## Table of contents
 
 ## The G334 National Highway: Jilin's Color Palette
+
+![Tianfuguosheyinger, Sichuan, Chengdu](/img/destinations/chinas-most-scenic-drives-highways/1.webp)
 
 Stretching across the heart of Jilin Province, the G334 National Highway runs from Helong in the east to Dong Ujimqin Banner in Inner Mongolia, covering 895 kilometers within Jilin. Unlike the border-hugging G331, G334 cuts through the Songnen Plain and Baishan Mountains, weaving together rivers, lakes, wetlands, forests, farmland, and cultural relics into a colorful mosaic. The best time to drive this route is summer (June to September), when the landscapes are at their greenest and most vibrant.
 
@@ -67,6 +69,8 @@ Jilin's black soil belt, between 40° and 45° north latitude, is one of the wor
 
 ## The Sichuan-Tibet Highway: To the Sky City of Litang
 
+![Mogao Caves, Gansu, Dunhuang](/img/destinations/chinas-most-scenic-drives-highways/2.webp)
+
 From the lowlands of Jilin, we ascend to the high plateau of Sichuan. The Sichuan-Tibet Highway (G318) is one of China's most famous scenic routes, and a highlight is the detour to Litang County, known as the 'Sky City' at an elevation of over 4,000 meters. The best time to drive this route is May to October, when the weather is mild and the grasslands are green.
 
 ![Vast grasslands of Maoya Prairie in Litang, Sichuan](https://images.pexels.com/photos/37769783/pexels-photo-37769783.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
@@ -103,6 +107,8 @@ Litang town itself is a cultural gem. The Letong Ancient Town (勒通古镇, Lè
 - Day 6: Visit Letong Ancient Town, then return to Chengdu.
 
 ## Best Time to Visit
+
+![Singing Sand Dunes, Gansu, Dunhuang](/img/destinations/chinas-most-scenic-drives-highways/3.webp)
 - **G334**: June to September for green landscapes; October for autumn colors.
 - **Sichuan-Tibet Highway**: May to October; avoid July-August rainy season for landslides.
 

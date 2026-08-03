@@ -1,7 +1,6 @@
 ---
 title: "Gift Giving in China: What to Bring, What to Avoid and Business Etiquette"
 description: "Comprehensive guide to gift giving customs in China for tourists and business visitors. Covers appropriate gifts, forbidden items, red envelope customs, and navigating dinner invitations."
-ogImage: "/img/toolkit/china-gift-giving-etiquette-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["China etiquette", "gift giving China", "Chinese culture", "business travel China", "red envelope", "Chinese customs"]
@@ -10,8 +9,6 @@ tags: ["China etiquette", "gift giving China", "Chinese culture", "business trav
 Gift giving is embedded in Chinese social culture, and knowing the basics helps you build better relationships whether you're meeting a business partner, staying with a Chinese family, or simply wanting to show appreciation to a guide or host. Equally important: knowing what NOT to bring avoids accidentally conveying grief, bad luck or hostility.
 
 ## When to Give Gifts in China
-
-![Forbidden City Scenery, Beijing](/img/toolkit/china-gift-giving-etiquette-guide/1.webp)
 
 Gift giving is most appropriate during:
 - **First business meetings**: A modest branded gift from your home country is always appreciated
@@ -82,8 +79,6 @@ When deciding how many gifts to include, choose 6, 8, 9 or pairs (representing c
 ---
 
 ## Presentation Matters
-
-![Forbidden City Panorama Interior, Beijing](/img/toolkit/china-gift-giving-etiquette-guide/2.webp)
 
 **Use red or gold wrapping**: These are auspicious colors. Avoid white, black or blue wrapping paper.
 

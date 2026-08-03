@@ -11,14 +11,11 @@ tags:
   - visa-application
   - passport
 description: "Navigate the Chinese visa application process with this comprehensive 2026 guide to Chinese embassies, consulates, and visa application centres in major countries worldwide. Covers application procedures, required documents, processing times, fees, common rejection reasons, and specific tips for applicants from the US, UK, Canada, Australia, EU nations, India, and other key countries — plus emergency consular services for travellers already in China."
-ogImage: "/img/toolkit/china-embassy-consulate-guide/cover.webp"
 ---
 
 ## Table of contents
 
 ## Understanding the Chinese Visa System
-
-![Qinshi Imperial Tomb Terracotta Army](/img/toolkit/china-embassy-consulate-guide/1.webp)
 
 Applying for a Chinese visa can feel opaque and intimidating, especially for first-time applicants. The system has specific requirements that vary by nationality, purpose of visit, and even which consulate handles your application. This guide breaks down the process for citizens of major countries, explains the different visa types, and provides practical tips for maximising your chances of approval.
 
@@ -138,8 +135,6 @@ Regardless of nationality, all L visa applicants must provide:
 - Travel insurance documentation
 
 ## Common Reasons for Visa Rejection
-
-![Great Wall Lao City Wall](/img/toolkit/china-embassy-consulate-guide/2.webp)
 
 ### Documentation Issues
 

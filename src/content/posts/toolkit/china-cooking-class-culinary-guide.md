@@ -1,7 +1,6 @@
 ---
 title: "China Cooking Classes & Culinary Experiences Guide: Learn Regional Cuisines"
 description: "Find the best cooking classes in China — Sichuan cooking schools in Chengdu, Cantonese dim sum workshops in Guangzhou, Shanghai soup dumpling making, Yunnan herbal cuisine, Beijing duck preparation tours, and the market-to-table experiences that give lasting skills alongside a deeper understanding of Chinese food culture."
-ogImage: "/img/toolkit/china-cooking-class-culinary-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "cooking-class", "culinary-experience", "sichuan-cuisine", "dim-sum", "soup-dumpling", "market-tour", "food-culture"]
@@ -14,8 +13,6 @@ The best cooking experience in China isn't eating — it's learning. The techniq
 ---
 
 ## Chengdu: The Sichuan Cooking School Capital
-
-![Shi Lake Scenery, Jiangsu, Suzhou](/img/toolkit/china-cooking-class-culinary-guide/1.webp)
 
 Chengdu is the best city in China for cooking education — Sichuan cuisine's combination of technique and ingredient complexity makes it one of the world's most rewarding cuisines to learn.
 
@@ -59,8 +56,6 @@ Cantonese dim sum is a craft tradition — each piece requires specific techniqu
 ---
 
 ## Yunnan: Medicinal Herb Cuisine
-
-![Zhongyuan Temple Scenery, Jiangsu, Suzhou](/img/toolkit/china-cooking-class-culinary-guide/2.webp)
 
 Yunnan cooking is distinctive for its use of **wild mushrooms, medicinal herbs, and minority cuisines** that integrate food with traditional medicine principles.
 

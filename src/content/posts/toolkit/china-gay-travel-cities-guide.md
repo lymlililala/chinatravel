@@ -12,7 +12,6 @@ tags:
   - urban
   - practical
 description: "Which Chinese cities are most welcoming for LGBTQ+ visitors — Shanghai's underground gay scene (Jing'an district), Chengdu's relaxed queer culture, the reality in Beijing and Guangzhou, how public displays of affection are perceived, gay bars and events that exist, and the 'don't ask, don't tell' dynamic that shapes most LGBTQ+ visitors' experiences."
-ogImage: "/img/toolkit/china-gay-travel-cities-guide/cover.webp"
 ---
 
 LGBTQ+ travel to China is possible and for many visitors is completely fine. But it requires understanding the context — which is genuinely nuanced and has shifted considerably over the past decade in both directions. China decriminalised homosexuality in 1997 and removed it from its list of mental disorders in 2001. There are no laws criminalising same-sex relationships between adults. But there's also no legal protection for LGBTQ+ people, no recognition of same-sex partnerships, and a political environment that has become less permissive of public LGBTQ+ visibility since around 2015.
@@ -24,8 +23,6 @@ What this means in practice: LGBTQ+ visitors can travel, sightsee, stay in hotel
 ---
 
 ## The Legal and Social Reality in 2026
-
-![Landscape Scenery, Zhangjiajie](/img/toolkit/china-gay-travel-cities-guide/1.webp)
 
 ### Legal Status
 
@@ -102,8 +99,6 @@ That said, Guangzhou's Zhujiang New Town and Tianhe District younger population 
 ---
 
 ## LGBTQ+ Apps in China
-
-![Shilihualang Scenery, Zhangjiajie, Hunan](/img/toolkit/china-gay-travel-cities-guide/2.webp)
 
 **Blued (蓝城兄弟)** is China's largest gay dating app, founded in China and legally operating in the country. It has tens of millions of users and is the most useful platform for meeting local LGBTQ+ people and finding community events.
 

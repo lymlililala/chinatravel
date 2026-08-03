@@ -31,8 +31,6 @@ With over 40,000 people per square kilometre in parts of Mong Kok, Kowloon is on
 
 ## Mong Kok: The Beating Heart
 
-![Great Wall Lao City Wall](/img/destinations/hong-kong-kowloon-guide/1.webp)
-
 Mong Kok (旺角, literally "prosperous district") is the most commercially intense neighbourhood in Hong Kong — a grid of streets packed with shops, market stalls, cha chaan tengs, electronics dealers, and clothing stores, operating at full volume from morning to midnight.
 
 **Ladies' Market (女人街)**: The full name is a misnomer — it sells clothing, accessories, toys, souvenirs, and luggage to everyone. Tung Choi Street between Argyle and Dundas Streets is the core stretch, with about 100 stalls. Bargaining is expected; start at 40–50% of the asking price. Best visited after 4pm when all stalls are set up.
@@ -45,6 +43,8 @@ Mong Kok (旺角, literally "prosperous district") is the most commercially inte
 
 ## Sham Shui Po: Electronics, Fabrics & Old Hong Kong
 
+![Scenery, Hong Kong](/img/destinations/hong-kong-kowloon-guide/1.webp)
+
 Sham Shui Po (深水埗) is Mong Kok's less glamorous but more genuinely interesting neighbour. It's the poorest district in Hong Kong by official statistics, but it has a vitality and authenticity that more prosperous areas often lack.
 
 **Electronics and computer parts**: The area around Apliu Street and Fuk Wing Street is Hong Kong's wholesale electronics market. Everything from new and used smartphones to circuit boards, cables, old CDs, vintage cameras, and soldering irons is available here. Prices are genuinely lower than most retail outlets. This is also where Hong Kong's tech repair culture is concentrated.
@@ -55,7 +55,7 @@ Sham Shui Po (深水埗) is Mong Kok's less glamorous but more genuinely interes
 
 ## Kowloon Walled City Park: The Ghost of the Anarchist Enclave
 
-![Potala Palace Scenery, Tibet](/img/destinations/hong-kong-kowloon-guide/2.webp)
+![Haiyang Park Landscape, Hong Kong](/img/destinations/hong-kong-kowloon-guide/2.webp)
 
 The Kowloon Walled City Park (九龍城寨公園) occupies the site of one of the most extraordinary urban phenomena of the 20th century. From 1945 until its demolition in 1993–94, the Kowloon Walled City was a 6.5-acre enclave of around 50,000 residents operating entirely outside Hong Kong law — a consequence of a legal dispute between Britain and China that left the former Qing dynasty military base in a jurisdictional grey zone.
 
@@ -65,7 +65,7 @@ Today, the park has scale models, historical photographs, and information boards
 
 ## Tsim Sha Tsui Waterfront: The Night View
 
-![Li River Lvyou Landscape, Guangxi, Guilin](/img/destinations/hong-kong-kowloon-guide/3.webp)
+![Landscape Zonghe, Hong Kong](/img/destinations/hong-kong-kowloon-guide/3.webp)
 
 The Avenue of Stars along the Tsim Sha Tsui waterfront and the Salisbury Road promenade provide the best view of Hong Kong Island's skyline from across Victoria Harbour. At night, with the towers of Central and Wan Chai fully lit, it is one of the most recognizable city views in the world.
 

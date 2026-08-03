@@ -17,8 +17,6 @@ The "singing" has been explained by science (it results from dry, spherical sand
 
 ## The Singing Sand Phenomenon
 
-![West Lake Scenery, Hangzhou](/img/destinations/inner-mongolia-singing-sand-dunes-guide/1.webp)
-
 Sand dunes produce sound under specific conditions:
 - **Grain uniformity:** The sand at Xiangshawan consists of highly rounded quartz grains of nearly identical diameter.
 - **Low moisture:** Desert air is dry enough to allow the grains to vibrate freely without clumping.
@@ -29,6 +27,8 @@ The sound ranges from a low drone to a resonant hum that some describe as simila
 ---
 
 ## Activities at Resonant Sand Bay
+
+![Neimengwulan Scenery](/img/destinations/inner-mongolia-singing-sand-dunes-guide/1.webp)
 
 ### Sandboarding (沙滑梯)
 
@@ -56,7 +56,7 @@ Four-wheel-drive dune buggies (¥120/vehicle) enter the back-dune area inaccessi
 
 ## The Desert-Grassland Transition
 
-![Huangdi Ancient Village Luo Landscape, Shanxi, Anhui](/img/destinations/inner-mongolia-singing-sand-dunes-guide/2.webp)
+![Neimengwulanbutong Beautiful Lake](/img/destinations/inner-mongolia-singing-sand-dunes-guide/2.webp)
 
 What makes the Resonant Sand Bay area uniquely interesting geographically is the **transition zone** between desert and grassland. On the southern and western edges of the dune complex, the Kubuqi Desert is actively controlled by the world's largest desert reforestation project (the Kubuqi Desertification Control Programme), where drought-resistant shrubs have converted bare dunes to scrubland over 600,000 hectares since 1988.
 
@@ -66,7 +66,7 @@ On the northern edge, the dunes abruptly meet the grasslands of the Hetao Plain 
 
 ## Camping and Stargazing
 
-![Scenery, Anhui, Huangshan](/img/destinations/inner-mongolia-singing-sand-dunes-guide/3.webp)
+![Manzhoulilao Architecture Scenery, Inner Mongolia](/img/destinations/inner-mongolia-singing-sand-dunes-guide/3.webp)
 
 The Resonant Sand Bay scenic area has an **official camp site** at the desert edge (¥80–¥150/tent or pre-erected yurt). Private operators within the camp serve mutton hotpot and millet wine around fire pits after dark.
 

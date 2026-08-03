@@ -10,7 +10,7 @@ tags:
   - "zhejiang"
   - "guizhou"
 description: "Explore China's diverse fruit culture, from sweet melons in Ningxia to juicy peaches in Shandong, lychee in Zhejiang, and honey plums in Guizhou. A regional"
-ogImage: "https://images.pexels.com/photos/4772945/pexels-photo-4772945.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/china-best-fruits-regional-guide/cover.webp"
 faq:
   - question: "What is the best time to try yangmei in Zhejiang?"
     answer: "Mid-June to early July is the peak season for Xianju Dongkui yangmei. The season lasts only about 15 days, so plan accordingly."
@@ -77,6 +77,8 @@ Hailing from Liuma Town (六马镇, Liù Mǎ Zhèn) in Zhenning County (镇宁, 
 
 ## Suggested Itinerary: A Fruit Lover's Road Trip
 
+![West Lake Scenery, Hangzhou](/img/destinations/china-best-fruits-regional-guide/1.webp)
+
 ### Day 1–2: Xi'an & Shandong
 Start in Xi'an (西安, Xī'ān) for Yanliang melons (阎良甜瓜, Yán Liáng Tián Guā) in May–June. Then take a high-speed train to Linyi (about 5 hours) to explore Mengyin's peach orchards.
 
@@ -122,6 +124,8 @@ For more on local food culture, check our [food guide](/tags/food).
 
 ## Where to Stay
 
+![Dong Village Gulou](/img/destinations/china-best-fruits-regional-guide/2.webp)
+
 - **Zhongwei:** Choose hotels near the city center or the 66号 Highway for scenic views.
 - **Xianju:** Mountain lodges offer a serene experience. Book ahead during yangmei season.
 - **Liuma:** Simple guesthouses are available; book through local contacts or travel agencies.
@@ -144,6 +148,8 @@ Fresh fruits may be restricted by customs. Check regulations for your home count
 Yes, but wash them thoroughly. For fruits with thin skins (like yangmei), soak in salt water for 10 minutes to remove any residues.
 
 ## Level
+
+![Diaojiaolou Scenery](/img/destinations/china-best-fruits-regional-guide/3.webp)
 beginner
 
 ## Estimated Minutes

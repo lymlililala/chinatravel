@@ -11,7 +11,6 @@ tags:
   - toolkit
   - culinary
 description: "A 14-day China culinary tour — the optimal route for experiencing China's four great regional cuisines: starting in Beijing (Peking duck, jianbing, lamb skewers), moving to Xi'an (biang biang noodles, lamb soup, rou jia mo), Chengdu (hotpot, mapo tofu, dan dan noodles), finishing in Guangzhou (dim sum, roast goose, clay pot rice)."
-ogImage: "/img/toolkit/china-food-tour-itinerary/cover.webp"
 ---
 
 China has eight recognised regional cuisines, and they're as different from each other as Italian food is from Thai. A Cantonese dim sum brunch and a Sichuan hotpot are not versions of the same thing — they come from completely different culinary philosophies, different flavour profiles, different techniques. Eating well across China is a genuine adventure.
@@ -23,8 +22,6 @@ This 14-day itinerary is built around the food. The destinations are chosen for 
 ---
 
 ## The Route Overview
-
-![Wanli Great Wall Scenery](/img/toolkit/china-food-tour-itinerary/1.webp)
 
 **Day 1–3: Beijing** — Northern Chinese flavours, Peking duck, street breakfast culture
 **Day 4–5: Xi'an** — Northwestern Muslim cuisine, lamb, noodles, bread
@@ -107,8 +104,6 @@ Pork belly that's first boiled, then stir-fried with leeks and fermented black b
 ---
 
 ## Days 9–10: Chongqing
-
-![Badalingshuiguan Great Wall Scenery, Beijing](/img/toolkit/china-food-tour-itinerary/2.webp)
 
 Chongqing is where Sichuan hotpot began and where it's most extreme. The local version uses more beef tallow, more peppercorns, and more heat than the Chengdu version — significantly more. The city is also home to some unique street food that hasn't spread to other cities.
 

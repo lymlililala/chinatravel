@@ -12,7 +12,6 @@ tags:
   - yunnan
   - border
 description: "The China-Laos Railway (opened 2021) — how to travel from Kunming to Vientiane via the new high-speed railway, train schedules and tickets, the Boten (China) to Boten (Laos) border crossing, visa requirements, stops along the way, and why this is now one of Asia's most exciting train journeys."
-ogImage: "/img/toolkit/china-laos-railway-guide/cover.webp"
 ---
 
 The China-Laos Railway opened in December 2021 and transformed overland travel between China and Southeast Asia. What was once a slow, arduous journey involving multiple bus changes and an unreliable border crossing became a smooth, relatively modern train journey of about 10 hours — connecting Kunming, the capital of Yunnan province, to Vientiane, the capital of Laos, through mountains, tunnels, and river valleys that are genuinely spectacular.
@@ -22,8 +21,6 @@ This is one of the more exciting rail journeys in Asia. The railway represents a
 ## Table of contents
 
 ## The Railway: Overview
-
-![Panlongshan Great Wall Scenery, Shandong](/img/toolkit/china-laos-railway-guide/1.webp)
 
 **Full route:** Kunming South (昆明南) → Vientiane (Nakhoneluang station)
 **Total distance:** 1,035km
@@ -91,8 +88,6 @@ The Boten border crossing is handled differently from traditional land crossings
 **Check current requirements** — policy can change and some nationalities have different conditions.
 
 ## Stops Worth Getting Off At
-
-![Guojiasenlin Park, Zhangjiajie](/img/toolkit/china-laos-railway-guide/2.webp)
 
 The beauty of this railway is that you don't have to do it in one single stretch. Each stop can be a destination.
 

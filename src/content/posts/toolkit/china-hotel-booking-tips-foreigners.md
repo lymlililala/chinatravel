@@ -1,7 +1,6 @@
 ---
 title: "Booking Hotels in China as a Foreigner: Tips, Platforms and Registration Rules"
 description: "Complete guide to booking hotels in China for foreign tourists. Covers police registration requirements, which hotels accept foreigners, Booking.com vs local platforms, and how to handle check-in."
-ogImage: "/img/toolkit/china-hotel-booking-tips-foreigners/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 heroImage: "@/assets/images/default.png"
 tags: ["China hotel booking", "accommodation China", "foreigner hotel China", "Booking.com China", "hotel tips China", "police registration"]
@@ -10,8 +9,6 @@ tags: ["China hotel booking", "accommodation China", "foreigner hotel China", "B
 Booking accommodation in China has two layers that don't exist in most other countries: the question of whether a given property is **licensed to accept foreign guests**, and the **police registration requirement** that all accommodation must fulfill for foreign nationals. Understanding these two requirements removes most of the confusion around Chinese hotel booking.
 
 ## The Foreign Guest License
-
-![Shuhe Old Town Scenery, Yunnan, Lijiang](/img/toolkit/china-hotel-booking-tips-foreigners/1.webp)
 
 In China, guesthouses, hostels and some budget hotels must hold a separate license to host foreign (non-Chinese) nationals. Properties without this license will turn foreign guests away at check-in, regardless of what booking platforms show.
 
@@ -73,8 +70,6 @@ This is a legal requirement that all accommodation must register guests with loc
 ---
 
 ## Hotel Categories in China
-
-![Terracotta Army](/img/toolkit/china-hotel-booking-tips-foreigners/2.webp)
 
 **Five-star international hotels**: Hilton, Marriott, IHG (Intercontinental, Holiday Inn, Crowne Plaza), Accor, Hyatt all have extensive China networks. Prices: ¥800–2,500/night. Universally accept foreign guests, have English-speaking staff, and provide Western breakfast options. Often the most practical choice for business travelers.
 

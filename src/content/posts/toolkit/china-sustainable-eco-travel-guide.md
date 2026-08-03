@@ -12,7 +12,6 @@ tags:
   - green-travel
   - environment
 description: "Travelling sustainably in China in 2026 is both more important and more practical than ever — from certified green hotels to high-speed rail's carbon advantage over flying, from national park conservation fees to community tourism programs in minority villages. This guide covers how to reduce your environmental footprint while exploring China, including practical tips on transport choices, accommodation certification, wildlife ethics and supporting local economies."
-ogImage: "/img/toolkit/china-sustainable-eco-travel-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -22,8 +21,6 @@ China's relationship with environmental sustainability is complicated and genuin
 For a traveller, this complexity creates both challenges and genuine opportunities to make choices that matter.
 
 ## Transport: The Biggest Decision You'll Make
-
-![Xingping, Guangxi, Yangshuo](/img/toolkit/china-sustainable-eco-travel-guide/1.webp)
 
 ### High-Speed Rail vs Flying
 
@@ -128,8 +125,6 @@ The most impactful sustainable travel choice after transport mode is how you spe
 - Vegetarian and vegan options are widely available, particularly at Buddhist temple restaurants (素斋) which are consistently good value and of high quality
 
 ## Carbon Offsetting
-
-![Forbidden City Bowuyuan, Taiwan, Taipei](/img/toolkit/china-sustainable-eco-travel-guide/2.webp)
 
 If you're flying internationally to China, carbon offsetting your flights is an option worth considering. Established offset programs:
 

@@ -23,7 +23,6 @@ tags:
   - night-trains
   - sleeper-trains
 description: "China overnight trains explained — hard vs soft sleeper, T/K/Z and high-speed night trains, booking as a foreigner, what to pack, and sleeper train etiquette."
-ogImage: "/img/toolkit/china-overnight-sleeper-train-guide/cover.webp"
 ---
 
 China's night sleeper trains are one of the country's great travel experiences — falling asleep in one city and waking up in another, having saved a night's accommodation costs while covering hundreds of kilometres. They're comfortable, affordable, and give you a window into how Chinese people travel. Here's everything you need to know.
@@ -31,8 +30,6 @@ China's night sleeper trains are one of the country's great travel experiences �
 ## Table of contents
 
 ## Why Take China's Night Sleeper Trains?
-
-![Forbidden City Scenery, Beijing](/img/toolkit/china-overnight-sleeper-train-guide/1.webp)
 
 **Save time and money**: an overnight journey covers the distance while you sleep, saving both accommodation costs and a day of sightseeing time.
 
@@ -198,8 +195,6 @@ Sleeper berths sell out fastest — book as early as possible, as soon as the sa
 ---
 
 ## Food on Night Trains
-
-![Forbidden City Panorama Interior, Beijing](/img/toolkit/china-overnight-sleeper-train-guide/2.webp)
 
 **Dining car (餐车)**: most long-distance overnight trains have one, serving basic hot dishes, rice, and noodles at ¥20–¥60 per dish. Quality is variable, but it's good for a proper hot dinner — and it's the social spot for a beer before people settle in to sleep.
 

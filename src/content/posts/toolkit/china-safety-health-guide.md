@@ -11,7 +11,6 @@ tags:
   - health
   - practical
 description: "Health and safety in China — tap water is not drinkable anywhere in China (always boiled or filtered), the air quality index and when to stay indoors in Beijing and northern cities, food safety and what risks are real vs overstated, finding a doctor (international clinics in major cities, WeChat Doctor app), emergency numbers (120 for ambulance, 110 for police), and travel insurance."
-ogImage: "/img/toolkit/china-safety-health-guide/cover.webp"
 ---
 
 China is a very safe country for tourists by any measure — violent crime against foreigners is extremely rare, petty crime is lower than in most European or American cities, and the infrastructure is world-class in major cities. The health considerations are real but mostly manageable with basic preparation.
@@ -19,8 +18,6 @@ China is a very safe country for tourists by any measure — violent crime again
 ## Table of contents
 
 ## Drinking Water: The One Non-Negotiable
-
-![Great Wall Lao City Wall](/img/toolkit/china-safety-health-guide/1.webp)
 
 **Do not drink tap water anywhere in China.** This is uniform advice — it applies to Shanghai, Beijing, Hong Kong (different from mainland), Chengdu, and rural areas equally. Chinese tap water is treated but contains pipe contamination and varying mineral levels that cause gastrointestinal problems in people not accustomed to it.
 
@@ -95,8 +92,6 @@ International clinic consultation fees: ¥600-1500. Bring your passport and trav
 **WeChat Doctor (微信医生):** For minor issues, this app connects you with Chinese doctors for video consultations. Most don't speak English, but Baidu Translate real-time translation works well for the text chat feature. Useful for getting a prescription for common medications.
 
 ## Emergency Numbers
-
-![Xingping, Guangxi, Yangshuo](/img/toolkit/china-safety-health-guide/2.webp)
 
 | Service | Number |
 |---|---|

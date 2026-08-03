@@ -23,8 +23,6 @@ The misconception most visitors carry is that Inner Mongolia is all one thing. I
 
 ## Hulunbuir Grasslands (呼伦贝尔草原)
 
-![Shi Lake Scenery, Jiangsu, Suzhou](/img/destinations/chifeng-inner-mongolia-guide/1.webp)
-
 Hulunbuir in northeastern Inner Mongolia is widely considered the most beautiful grassland in China. The Hulunbuir plain is enormous — roughly the size of France — and in summer (late June through August), the grass is so deep and green it looks painted.
 
 **Hulunbuir City (海拉尔):** The main hub for accessing the grasslands. Fly from Beijing (2 hours), Harbin (1 hour), or take the overnight train from Harbin (7–9 hours).
@@ -44,6 +42,8 @@ Hulunbuir in northeastern Inner Mongolia is widely considered the most beautiful
 **Shiwei (室韦):** A small Russian-Mongolian border town on the Argun River — half Russian in atmosphere (the descendants of Cossack settlers who arrived in the early 20th century still live here). A surprisingly compelling detour about 300km north of Hulunbuir City.
 
 ## Singing Sand Dunes — Xiangshawan (响沙湾)
+
+![Neimengwulan Scenery](/img/destinations/chifeng-inner-mongolia-guide/1.webp)
 
 About 70km from Hohhot (the provincial capital), Xiangshawan is one of the more accessible desert experiences in Inner Mongolia. The sand dunes here produce a low rumbling sound when sand slides down the slopes — the "singing sands" effect caused by dry, well-sorted sand grains vibrating as they move.
 
@@ -66,7 +66,7 @@ This is a more serious adventure destination than Xiangshawan — remote, physic
 
 ## Hohhot (呼和浩特) — The Provincial Capital
 
-![Zhongyuan Temple Scenery, Jiangsu, Suzhou](/img/destinations/chifeng-inner-mongolia-guide/2.webp)
+![Neimengwulanbutong Beautiful Lake](/img/destinations/chifeng-inner-mongolia-guide/2.webp)
 
 Hohhot is the administrative capital of Inner Mongolia and a reasonable base for nearby grassland and desert day trips.
 
@@ -79,7 +79,7 @@ Hohhot is the administrative capital of Inner Mongolia and a reasonable base for
 
 ## Mongolian Food
 
-![Gudianmingyuanliu Garden Scenery, Suzhou](/img/destinations/chifeng-inner-mongolia-guide/3.webp)
+![Manzhoulilao Architecture Scenery, Inner Mongolia](/img/destinations/chifeng-inner-mongolia-guide/3.webp)
 
 Mongolian cuisine is built around two things: lamb and dairy.
 

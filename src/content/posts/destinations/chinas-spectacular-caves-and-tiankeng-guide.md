@@ -33,8 +33,6 @@ Beneath China's surface lies a hidden world of breathtaking beauty: colossal sin
 
 ## What is Karst and Why China?
 
-![Shi Lake Scenery, Jiangsu, Suzhou](/img/destinations/chinas-spectacular-caves-and-tiankeng-guide/1.webp)
-
 Karst topography forms when slightly acidic rainwater dissolves soluble rock like limestone, creating sinkholes, caves, and underground rivers. China is a global karst superpower, with over 900,000 square kilometers of karst terrain, concentrated in the southwest provinces of Guangxi (广西, Guǎngxī), Guizhou (贵州, Guìzhōu), Yunnan (云南, Yúnnán), and Chongqing (重庆, Chóngqìng). The region's warm, wet climate accelerates dissolution, producing some of the world's most spectacular surface and subterranean features.
 
 ## Top Caves and Tiankeng to Visit
@@ -86,6 +84,8 @@ While not a cave, the Tengger Desert's 422 lake basins (many seasonal) create a 
 
 ## How to Get Around
 
+![Detianda Waterfall Scenery, Guangxi](/img/destinations/chinas-spectacular-caves-and-tiankeng-guide/1.webp)
+
 - **High-Speed Rail:** China's extensive HSR network connects major cities like Guiyang, Chongqing, and Guilin to karst regions. For example, Guiyang to Zhijin takes about 1 hour; Chongqing to Wulong takes 1 hour.
 - **Domestic Flights:** For remote areas like Leye (Guangxi), flying to a nearby airport (e.g., Baise) then taking a bus is efficient.
 - **Local Buses & Taxis:** Once at a county town, local buses or taxis reach scenic spots. Use ride-hailing apps like DiDi (works with Alipay).
@@ -115,7 +115,7 @@ For more route ideas, see our [China itineraries](/tags/itinerary).
 
 ## Where to Stay
 
-![Zhongyuan Temple Scenery, Jiangsu, Suzhou](/img/destinations/chinas-spectacular-caves-and-tiankeng-guide/2.webp)
+![Xijiang Miao Village Landscape, Guizhou](/img/destinations/chinas-spectacular-caves-and-tiankeng-guide/2.webp)
 
 - **Near Caves:** Many scenic areas have on-site hotels or guesthouses (e.g., Zhijin Cave Hotel, Wulong Fairy Mountain Resort). These offer convenience but may be basic.
 - **Near Cities:** Guiyang, Chongqing, and Guilin have international hotel chains (Hilton, Marriott) and budget options. Use booking apps like Ctrip or Trip.com.
@@ -130,7 +130,7 @@ For more route ideas, see our [China itineraries](/tags/itinerary).
 
 ## Costs
 
-![Gudianmingyuanliu Garden Scenery, Suzhou](/img/destinations/chinas-spectacular-caves-and-tiankeng-guide/3.webp)
+![Dong Village Gulou](/img/destinations/chinas-spectacular-caves-and-tiankeng-guide/3.webp)
 
 - **Entrance fees:** ¥80-150 per site (higher for combined tickets).
 - **Transport:** High-speed train Guiyang to Chongqing ~¥140 (second class). Local buses ¥20-50.

@@ -11,7 +11,6 @@ tags:
   - malaysian-travellers
   - southeast-asia
 description: "Malaysia to China travel guide — Malaysian passport holders' 15-day visa-free access, direct flights from KL (KLIA), the Mandarin and Cantonese advantage for Chinese-Malaysian visitors, mobile payment setup, and must-visit destinations for Malaysians with ancestral connections."
-ogImage: "/img/toolkit/china-travel-guide-malaysian/cover.webp"
 ---
 
 Malaysia and China have deep historical ties — the early Chinese traders who settled the Malay Peninsula brought their languages, food, customs, and clan associations, creating the Chinese-Malaysian community that today makes up about 23% of the country's population. For the millions of Chinese-Malaysian families with roots in Fujian, Guangdong, Hainan, and other provinces, a trip to China carries a particular kind of weight.
@@ -23,8 +22,6 @@ But even for Malaysians without Chinese heritage — Malay, Indian, and other Ma
 ---
 
 ## Visa Rules for Malaysian Passport Holders
-
-![Zhuozheng Garden, Suzhou](/img/toolkit/china-travel-guide-malaysian/1.webp)
 
 ### 15-Day Visa-Free Entry
 
@@ -85,8 +82,6 @@ MYR cash can be exchanged at major Chinese airports and banks, though rates at a
 ---
 
 ## The Language Advantage
-
-![Canglangting, Suzhou](/img/toolkit/china-travel-guide-malaysian/2.webp)
 
 For Chinese-Malaysian visitors, language is a significant practical advantage:
 

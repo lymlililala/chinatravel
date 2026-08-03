@@ -1,7 +1,6 @@
 ---
 title: "Peking Duck Complete Guide: How to Order, Eat, and Find the Real Thing"
 description: "Master the Peking Duck experience — the complete guide to ordering correctly at a Beijing roast duck restaurant, the carving ceremony, how to assemble the perfect duck roll with the right condiments, the difference between the two main preparation schools (Quanjude vs. DaDong), budget versus luxury options, and the regional variations across China."
-ogImage: "/img/toolkit/china-peking-duck-complete-guide/cover.webp"
 pubDatetime: 2026-05-27T08:00:00Z
 destination: "China"
 tags: ["china", "peking-duck", "beijing-food", "roast-duck", "quanjude", "dadong", "chinese-cuisine", "beijing"]
@@ -16,8 +15,6 @@ The experience of Peking Duck as it should be eaten — at a proper Beijing duck
 ---
 
 ## The Two Schools
-
-![Zhongyuan Temple Scenery, Suzhou](/img/toolkit/china-peking-duck-complete-guide/1.webp)
 
 **The Hanging Oven School (挂炉派):** The original method; duck is hung vertically in a closed oven heated by burning fruitwood (jujube or apricot wood for their aromatics). The famous **Quanjude (全聚德, founded 1864)** is the most famous practitioner. The skin has a distinctive fragrance from the smoke.
 
@@ -52,8 +49,6 @@ At proper restaurants, the carver brings the whole lacquered duck to your table 
 ---
 
 ## How to Eat It
-
-![West Lake Landscape, Hangzhou](/img/toolkit/china-peking-duck-complete-guide/2.webp)
 
 **The complete assembly:**
 

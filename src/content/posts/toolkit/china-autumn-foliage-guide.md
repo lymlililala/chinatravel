@@ -12,7 +12,6 @@ tags:
   - maple
   - ginkgo
 description: "China's best autumn foliage for 2026 — 16 top spots from Kanas Lake to Beijing's Fragrant Hills and Shanghai's ginkgo streets, with peak timing for each region."
-ogImage: "/img/toolkit/china-autumn-foliage-guide/cover.webp"
 faq:
   - question: "Where is the best autumn foliage in China?"
     answer: "For sheer intensity, Benxi in Liaoning has the most dramatic maple colour — entire mountainsides turn red in mid-October. Jiuzhaigou in Sichuan combines golden larches with turquoise lakes, Kanas Lake in Xinjiang offers Scandinavian-style birch forests in late September, and Beijing's Fragrant Hills is the most accessible major-city display. The best choice depends on your dates: the season starts in the far north in late September and finishes in Yunnan in early December."
@@ -27,8 +26,6 @@ faq:
 ## Table of contents
 
 ## China in Autumn — A Country Painted Gold and Red
-
-![Forbidden City Scenery, Beijing](/img/toolkit/china-autumn-foliage-guide/1.webp)
 
 China doesn't get enough credit for its autumn foliage. Japan hogs the spotlight with its cherry blossoms, New England claims fame for its maples, but China — a country that stretches from subarctic Heilongjiang to subtropical Yunnan — offers a foliage season that's longer, more varied, and arguably more spectacular than anywhere else on earth.
 
@@ -160,8 +157,6 @@ China's autumn colour quality comes from its continental climate — sharp tempe
 **Honourable mentions:** Xinduqiao on the Sichuan-Tibet Highway (golden poplar avenues and October light that photographers plan trips around) and the Longji rice terraces near Guilin (harvest gold rather than foliage, but at their most photogenic in October).
 
 ## Timing Your Foliage Trip
-
-![Forbidden City Panorama Interior, Beijing](/img/toolkit/china-autumn-foliage-guide/2.webp)
 
 ### The Southward Wave
 

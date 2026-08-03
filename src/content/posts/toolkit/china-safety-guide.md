@@ -11,7 +11,6 @@ tags:
   - solo
   - beginners
 description: "A candid, fact-based safety guide for travelling China in 2025 — petty crime, scams to avoid, health precautions, emergency numbers, and areas requiring extra caution."
-ogImage: "/img/toolkit/china-safety-guide/cover.webp"
 ---
 
 China is one of the safest countries for international tourists by most measurable standards — violent crime against foreigners is exceptionally rare, and most visitors complete entire trips without a single security incident. But safety means more than avoiding danger. This guide covers everything you actually need to know.
@@ -19,8 +18,6 @@ China is one of the safest countries for international tourists by most measurab
 ## Table of contents
 
 ## Overall Safety Assessment
-
-![Scenery, Anhui, Huangshan](/img/toolkit/china-safety-guide/1.webp)
 
 **China is genuinely safe for tourists.** The 2024 Global Peace Index ranks China 80th out of 163 countries — safer than the US (131st), Brazil, Mexico, and most of Latin America and Africa. Major cities feel safe at night, public transport is well-policed, and the concept of tourist areas being "dangerous after dark" simply doesn't apply to most Chinese cities.
 
@@ -156,8 +153,6 @@ If you have asthma or respiratory conditions:
 ---
 
 ## Emergency Contacts
-
-![Sea of Clouds Scenery, Huangshan](/img/toolkit/china-safety-guide/2.webp)
 
 | Service | Number |
 |---|---|

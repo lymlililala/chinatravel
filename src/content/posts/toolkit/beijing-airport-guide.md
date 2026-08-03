@@ -11,7 +11,6 @@ tags:
   - airport
   - toolkit
 description: "Navigating Beijing's two airports — Capital Airport (PEK, Terminals 1, 2, 3) vs Daxing International (PKX, opened 2019 and architecturally spectacular). How to get from each to the city center (express train vs Airport Express vs taxi), transit visa rules, and what to do during a long layover."
-ogImage: "/img/toolkit/beijing-airport-guide/cover.webp"
 ---
 
 Beijing has two international airports, and which one you land at makes a significant difference to how you get into the city. Most visitors arrive at **Capital Airport (PEK)**, 25 km northeast of the city center — the busiest and most established option. But an increasing number of flights now use **Daxing International (PKX)**, 46 km south of Beijing, a Zaha Hadid-designed starfish of a building that genuinely looks like the future. Knowing the difference matters before you land.
@@ -19,8 +18,6 @@ Beijing has two international airports, and which one you land at makes a signif
 ## Table of contents
 
 ## Beijing Capital Airport (PEK) — The One Most People Use
-
-![Forbidden City Scenery, Beijing](/img/toolkit/beijing-airport-guide/1.webp)
 
 Capital Airport has three terminals. **T1** handles a small number of domestic flights (mainly Shandong Airlines). **T2** is the main domestic terminal and handles China Southern and some international carriers. **T3** is the big one — completed for the 2008 Olympics and one of the largest terminal buildings in the world — handling most international flights including Air China, British Airways, Lufthansa, and others.
 
@@ -41,8 +38,6 @@ From Dongzhimen you can transfer onto the regular subway network to reach most o
 **Bus**: Multiple airport bus routes connect to different parts of the city for **¥16–¥30**. They take longer than the Express train but drop you directly at major hotels and transport hubs in various districts. Look for the airport bus counters outside arrivals — routes are posted in English.
 
 ## Beijing Daxing Airport (PKX) — The New One
-
-![Qiannian Great Wall Lao City Wall](/img/toolkit/beijing-airport-guide/2.webp)
 
 Opened in September 2019, Daxing International is architecturally extraordinary. Designed by Zaha Hadid Architects, it looks like a six-pointed metallic starfish from above, and the interior is all sweeping curves and natural light. It also happens to be very efficient once you know it — it was designed with walking distances in mind, and the gate areas aren't as sprawling as PEK T3.
 

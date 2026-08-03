@@ -11,7 +11,7 @@ tags:
   - "north-china"
   - "photography"
 description: "Discover Inner Mongolia's vast Xilingol grasslands and Hohhot's heritage sites. Practical tips for international travelers on the steppe."
-ogImage: "https://images.pexels.com/photos/35497986/pexels-photo-35497986.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+ogImage: "/img/destinations/inner-mongolia-grasslands-heritage-guide/cover.webp"
 faq:
   - question: "Do I need to book tickets in advance for Hohhot's heritage sites?"
     answer: "For most sites, you can buy tickets on the spot. During holidays, booking via WeChat mini-programs is recommended."
@@ -36,6 +36,8 @@ The ideal time to explore Inner Mongolia's grasslands is from **June to Septembe
 ![Vast green grasslands under blue sky with grazing horses and yurts](https://images.pexels.com/photos/35497986/pexels-photo-35497986.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## Top Destinations
+
+![Neimengwulan Scenery](/img/destinations/inner-mongolia-grasslands-heritage-guide/1.webp)
 
 ### Xilingol Grasslands (锡林郭勒草原, Xīlín Guōlè Cǎoyuán)
 
@@ -77,6 +79,8 @@ This was the administrative center of the Qing and early Republic for southern M
 
 ## Suggested Itinerary
 
+![Neimengwulanbutong Beautiful Lake](/img/destinations/inner-mongolia-grasslands-heritage-guide/2.webp)
+
 ### Day 1: Hohhot City Heritage
 - Morning: Visit Dazhao Temple and Xilituzhao Temple (walking distance).
 - Lunch: Try local lamb dishes near the temples.
@@ -108,6 +112,8 @@ This was the administrative center of the Qing and early Republic for southern M
 - **Grasslands:** Stay in a traditional yurt camp for an authentic experience. Many camps offer meals and activities. Book ahead in summer.
 
 ## Food
+
+![Manzhoulilao Architecture Scenery, Inner Mongolia](/img/destinations/inner-mongolia-grasslands-heritage-guide/3.webp)
 
 Inner Mongolian cuisine is meat and dairy-heavy. Must-tries include:
 - **Roasted whole lamb** (烤全羊, kǎo quán yáng)

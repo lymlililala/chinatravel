@@ -11,7 +11,6 @@ tags:
   - adventure
   - practical-guide
 description: "Wild camping in China is experiencing a renaissance — millions of Chinese young people have rediscovered outdoor sleeping and the camping equipment market has exploded. This 2026 guide covers the legal situation for wild camping, the best regions, essential gear in the Chinese market context, camping etiquette, and safety considerations for camping in China's diverse landscapes."
-ogImage: "/img/toolkit/china-camping-wild-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -21,8 +20,6 @@ The camping culture in China has transformed dramatically since around 2021. Wha
 For foreign travelers, this means more camping-friendly infrastructure in certain areas, a larger Chinese outdoor community to learn from, and better local gear options. But wild camping in China also has specific legal and practical considerations.
 
 ## The Legal Situation
-
-![Qinshi Imperial Tomb Terracotta Army](/img/toolkit/china-camping-wild-guide/1.webp)
 
 Chinese camping law is genuinely complex and inconsistently enforced. The basics:
 
@@ -117,8 +114,6 @@ China's camping gear market has matured enormously. Major cities have dedicated 
 **Bring from home**: Your preferred sleeping bag and pad if you have preferences, boots, specialized technical equipment
 
 ## Safety in China's Backcountry
-
-![Great Wall Lao City Wall](/img/toolkit/china-camping-wild-guide/2.webp)
 
 ### Wildlife
 

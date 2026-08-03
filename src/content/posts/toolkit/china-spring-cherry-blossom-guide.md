@@ -12,7 +12,6 @@ tags:
   - toolkit
   - photography
 description: "The best places to see cherry blossoms, rapeseed flowers, and spring scenery in China — Wuhan, Chengdu, Guilin, Wuyuan, and beyond. Month-by-month spring travel guide with bloom timing, crowd warnings, and how to plan your visit."
-ogImage: "/img/toolkit/china-spring-cherry-blossom-guide/cover.webp"
 ---
 
 Spring in China is a seasonal event that moves like a slow wave across the country — starting in the subtropical south in February, rolling north through the central provinces in March and April, and reaching Beijing and Harbin by late April and May. Each region has its own signature bloom: cherry blossoms in Wuhan, rapeseed yellow in Jiangxi, lavender in Xinjiang, peonies in Luoyang.
@@ -24,8 +23,6 @@ This guide helps you time your visit to catch the right bloom in the right place
 ---
 
 ## Cherry Blossoms in China
-
-![Terracotta Army](/img/toolkit/china-spring-cherry-blossom-guide/1.webp)
 
 China has several major cherry blossom viewing destinations, each with a distinct character. They are generally less well-known internationally than Japan's sakura season but comparable in visual quality.
 
@@ -106,8 +103,6 @@ The tree peonies of Luoyang have been cultivated since the Tang dynasty. Hundred
 ---
 
 ## Spring Weather and Travel Planning
-
-![Great Wall Lao City Wall](/img/toolkit/china-spring-cherry-blossom-guide/2.webp)
 
 | Region | February | March | April | May |
 |---|---|---|---|---|

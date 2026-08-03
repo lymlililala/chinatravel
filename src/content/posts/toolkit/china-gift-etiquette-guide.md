@@ -11,7 +11,6 @@ tags:
   - etiquette
   - practical
 description: "Gift giving etiquette in China — the gifts to avoid (clocks symbolise death, pears symbolise separation, green hats are an adultery reference), good gifts (quality tea, wine, fruit), the Chinese practice of not opening gifts immediately, the red envelope (hongbao) tradition, and basic social etiquette around meals (the host orders, the host pours drinks, the host pays)."
-ogImage: "/img/toolkit/china-gift-etiquette-guide/cover.webp"
 ---
 
 Gift giving in China is a significant social act, not a formality. The choice of gift, the way it's presented, and the response to receiving it all carry social meaning. Getting a few things right — and avoiding a few specific gifts that carry unfortunate symbolism — makes a real difference to how relationships are perceived, particularly in business contexts.
@@ -19,8 +18,6 @@ Gift giving in China is a significant social act, not a formality. The choice of
 ## Table of contents
 
 ## The Symbolism System (and Why It Matters)
-
-![Wangshi Garden Scenery, Suzhou](/img/toolkit/china-gift-etiquette-guide/1.webp)
 
 Chinese gift symbolism is rooted in phonetic associations (words that sound similar to unlucky words) and historical cultural meanings. Understanding the logic makes it easier to remember:
 
@@ -79,8 +76,6 @@ Correspondingly, if you're receiving a gift from a Chinese person, don't open it
 **Exception:** In younger, more cosmopolitan circles in major cities, the gift-opening convention is sometimes relaxed. Read the social context.
 
 ## The Red Envelope (红包, Hóngbāo)
-
-![Huqiu Scenery Mingshengqu Scenery, Suzhou](/img/toolkit/china-gift-etiquette-guide/2.webp)
 
 Red envelopes containing cash are the centerpiece of Chinese celebration gift-giving for births, weddings, Chinese New Year, and (increasingly) birthdays.
 

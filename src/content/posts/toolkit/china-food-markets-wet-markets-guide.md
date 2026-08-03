@@ -12,7 +12,6 @@ tags:
   - food
   - practical-guide
 description: "China's wet markets and morning food markets are where daily life actually happens. Learn how to navigate them, what to buy, how to bargain, and why visiting a local shícài shìchǎng (菜市场) is one of the most authentic travel experiences the country offers in 2026."
-ogImage: "/img/toolkit/china-food-markets-wet-markets-guide/cover.webp"
 ---
 
 ## Table of contents
@@ -24,8 +23,6 @@ China's food markets are the living infrastructure of the country's cuisine. Und
 ---
 
 ## Types of Food Markets in China
-
-![Shizilin, Suzhou](/img/toolkit/china-food-markets-wet-markets-guide/1.webp)
 
 ### Wet Markets (菜市场 — Shícài Shìchǎng)
 
@@ -174,8 +171,6 @@ Many wet markets have attached or adjacent eating areas. These are among the bes
 ---
 
 ## Responsible Visiting
-
-![Ruiguang Pagoda Scenery, Suzhou](/img/toolkit/china-food-markets-wet-markets-guide/2.webp)
 
 ### Photography Etiquette
 
